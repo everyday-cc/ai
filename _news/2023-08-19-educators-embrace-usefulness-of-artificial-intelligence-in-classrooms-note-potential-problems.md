@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Educators embrace usefulness of artificial intelligence, note potential problems"
+    excerpt: "Editor’s note: The applications of artificial intelligence — AI — are growing exponentially ... Over the course of the next few months, CNHI reporters will look at AI’s use in health care, business, travel, social media, emergency response, the ..."
+    publishedDateTime: 2023-08-17T20:02:00Z
+    webUrl: "https://www.enidnews.com/educators-embrace-usefulness-of-artificial-intelligence-note-potential-problems/article_aea85bfe-744c-5759-89d1-ed01dc25dc63.html"
+    type: article
+    provider:
+      name: Enid News & Eagle
+      domain: enidnews.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/6/47/6478d65b-1ea1-5ff7-bad5-48135eb5df9c/64dd7c4840734.image.jpg"
+        width: 509
+        height: 497
+        isCached: true
   - title: "Poway Unified School District embraces AI in the classroom"
     excerpt: "As AI becomes more common, Poway Unified is embracing the technology. ABC 10News Anchor Jared Aarons explains how the district is empowering students and teachers to use AI in school."
     publishedDateTime: 2023-08-16T17:42:00Z

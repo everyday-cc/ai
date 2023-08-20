@@ -2,6 +2,57 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-06-26-future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape.md",
+      "title": "Future CEO Rishi Mandal: AI Fitness Doesn’t Address “Historical Barrier” Of Staying In Shape",
+      "excerpt": "Rishi Mandal is the co-founder and CEO of Future. Future is a digital fitness coaching app that connects elite performance fitness coaches to individuals virtually",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498cdf2fa73fa357e8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1409,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
+      "publishedDateTime": "2023-06-25T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-cheers-can-ai-help-drinkers-buy-a-better-bottle-of-wine.md",
       "title": "Cheers! Can AI help drinkers buy a better bottle of wine?",
       "excerpt": "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife.",
@@ -1118,40 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-study-explores-the-use-of-deep-learning-algorithm-to-detect-occlusal-caries.md",
-      "title": "Study explores the use of deep learning algorithm to detect occlusal caries",
-      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in conjunction with the 9th Meeting of the Latin American Region and the 12th World Congress on Preventive Dentistry on June 21-24,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992913",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

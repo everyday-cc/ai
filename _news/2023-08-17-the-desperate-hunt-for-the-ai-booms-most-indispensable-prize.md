@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The desperate hunt for AI boom's most indispensable asset"
+    excerpt: "For the past year, Jean Paoli, CEO of the artificial intelligence startup Docugami, has been scrounging for what has become the hottest."
+    publishedDateTime: 2023-08-20T01:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/articleshow/102866764.cms"
+    ampWebUrl: "https://m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-102866775,width-1070,height-580,imgsize-109990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "The Desperate Hunt for the A.I. Boom’s Most Indispensable Prize"
     excerpt: "Their project shares GPU access with entrepreneurs and ... In June, Inflection AI, an A.I. start-up in Palo Alto, Calif., announced it had acquired 22,000 of Nvidia’s H100 chips."
     publishedDateTime: 2023-08-16T15:51:00Z

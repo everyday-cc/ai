@@ -18,59 +18,59 @@ topics:
   - AI
 
 related:
-  - title: "7 low code platforms embracing AI"
-    excerpt: "Many low-code and no-code development and RPA platforms now include AI capabilities, often using a version of GPT."
-    publishedDateTime: 2023-08-15T08:59:00Z
-    webUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
+  - title: "The World Isn’t Ready for the Next Decade of AI"
+    excerpt: "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state."
+    publishedDateTime: 2023-08-16T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: Wired
+      domain: wired.com
+    quality: 75
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
-    excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
-    publishedDateTime: 2023-08-15T23:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mike-filsaime-s-groove-ai-ai-powered-copywriting-platform-by-muncheye-launch-1032557174"
+  - title: "The world has a big appetite for AI – but we really need to know the ingredients"
+    excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
+    publishedDateTime: 2023-08-19T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89104758-1692158356-0.jpg"
-        width: 321
-        height: 480
+      - url: "https://i.guim.co.uk/img/media/655d784a25a3b60c3dbe291e4da8f2ef8958a781/0_0_3643_2429/master/3643.jpg?width=620&quality=85&auto=format&fit=max&s=b727dd3a8fe48cedcf8fa7a77f254339"
+        width: 620
+        height: 413
         isCached: true
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
+    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
+    publishedDateTime: 2023-08-15T19:17:00Z
+    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
-    excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
-    publishedDateTime: 2023-08-15T17:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864734.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 43
     images:
-      - url: "https://mma.prnewswire.com/media/2068670/4221224/SQream_Logo.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
+        width: 500
+        height: 334
         isCached: true
+  - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
+    excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
+    publishedDateTime: 2023-08-15T10:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/japanese-ai-advances-offer-lessons-for-the-rest-of-the-world/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "uoha6isaOxObyq51z8fr1TcUM9D8o17KrbS0HZ1K4GZBwt+YyNzqaTbyqiREXPeJ/102IlYq2T9extsTQKq7LkS3kMYEQvRUr62owjGBVqP3W015dMwx41+8MHZv87bgPs0yOTHTA/MbxvQB9QlkR+rQJaAoYR/ixXiIxoYsfN+bBkMb3tx4AgmgjAHMq6VFVV/Om589xEHunXCgYXUsRW4H/YuRfMcNwGMf5wlrS6aOc44peI7Dt4IAyOK96BA+XsBYS/pFQtbmFAtL+/PLabiD17YBo44NUkQcmKJ1WPFH0swTUYwCcEQLKBovMEkby/tsed9S/XWlcwYfDO3zRHozOI6kq7THCwW0Cyo8BAPiA70WqiqyGNhR8kdBc0pXoq+pnatk9lqsYYRCwVobdVA+tCnudsFIMaVEAP+E9HDU0jN24hqmXwBMJ0rzaEx8pib2N+jPT8NWcqpiqTgqv2ezYlL3OwSZ33OlDABZFyhzYDUzcFym3PtO21z7YvHhtH/3ZAlILQleHYZgCbUW/A==;rB7ocQW1qf6bYea0GDOYMw=="
 ---

@@ -29,15 +29,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How will the oil and gas industry use ChatGPT?"
-    excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
-    publishedDateTime: 2023-08-15T09:03:00Z
-    webUrl: "https://insights.globalspec.com/article/20882/how-will-the-oil-and-gas-industry-use-chatgpt"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 4
   - title: "How ChatGPT plugins can up your SEO game"
     excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
     publishedDateTime: 2023-08-17T13:00:00Z

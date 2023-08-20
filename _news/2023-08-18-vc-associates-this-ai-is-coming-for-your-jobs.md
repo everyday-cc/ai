@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
         width: 1920
         height: 1078
+        isCached: true
+  - title: "AI is coming for your audiobooks. You’re right to be worried."
+    excerpt: "Apple and Google want “Madison” and “Archie” to read to you. Major publishers are hiring A-list celebs for the same job. Who will win?"
+    publishedDateTime: 2023-08-19T13:05:00Z
+    webUrl: "https://www.washingtonpost.com/books/2023/08/17/audiobooks-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RW6YAGRKJNAHRLGHQITSVYXLYY.gif&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Stop wasting time looking for stock photos—this AI image generator is on sale"
     excerpt: "Stop wasting time sourcing stock photos. Get this DALL-E AI Image Generator & WordPress Plugin: Lifetime License on sale for just $59 (reg. $299) for a limited time."

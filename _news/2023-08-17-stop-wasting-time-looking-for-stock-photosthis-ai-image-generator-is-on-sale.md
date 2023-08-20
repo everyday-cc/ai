@@ -76,6 +76,20 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "AI is coming for your audiobooks. You’re right to be worried."
+    excerpt: "Apple and Google want “Madison” and “Archie” to read to you. Major publishers are hiring A-list celebs for the same job. Who will win?"
+    publishedDateTime: 2023-08-19T13:05:00Z
+    webUrl: "https://www.washingtonpost.com/books/2023/08/17/audiobooks-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RW6YAGRKJNAHRLGHQITSVYXLYY.gif&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "5Y9S1EzF3wXMPp8uBdYQfAAdoHNWKT2lwArVsb2Jn3Yq1av60PL68DQ6E+qmmOzmBE2AcMSwbP7c70AXCjxPR0+XxFwlFUb1z840So43mpLowodXdmV3A2zddfr+j7DjmCFY3sEJTUDZxUdqkr7HyoOYQa6QEbf10T+1/U+VJ5BWYTwYlXQ9BV7Isbt3nJL+5ruZRmxronTAgNu2mCiTIml3XO4DE6ztv6yClhCzrw1RPMasH5mOKFLA5iBnKPi2ipM7lQzRRQmPoDZW3yhDlncLQdX+OMIubuTCw8eGvVwexN9+rJdAMnehjLEq2BEaTtZ4sq/Uy+e12+2ibYsHNh+mA+coD4s6cZ9L3gvXvIKEwJFNRYIIAhARE+wS3LHlalUgyjf3fDd8VPk8y3Q1sxBQ0IIzJK+CdhvxoCPlwWLy9QjP/2bJ+Uyf3yZn9PqZ//5Ih55FXIIOo2ORx6xNYYvTk5NiaTooErQAC22zB5JRx1h36/+Cm9E5LTOSIilKK17cvHabX3JEKP9LgubjJQ==;7SOf8g0Is7G1FSv30crByQ=="
 ---

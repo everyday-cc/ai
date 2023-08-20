@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/16/technology/ai-gpu-chips-shortag
 webUrl: "https://www.nytimes.com/2023/08/16/technology/ai-gpu-chips-shortage.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The desperate hunt for AI boom's most indispensable asset"
+    excerpt: "For the past year, Jean Paoli, CEO of the artificial intelligence startup Docugami, has been scrounging for what has become the hottest."
+    publishedDateTime: 2023-08-20T01:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/articleshow/102866764.cms"
+    ampWebUrl: "https://m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-102866775,width-1070,height-580,imgsize-109990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "The desperate hunt for the AI boom's most indispensable prize"
     excerpt: "More than money, engineering talent, hype or even profits, tech companies this year are desperate for GPUs. The hunt for the essential component was kicked off last year when online chatbots like ChatGPT set off a wave of excitement over AI,"
     publishedDateTime: 2023-08-16T17:00:00Z

@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 631
         isCached: true
+  - title: "Educators embrace usefulness of artificial intelligence, note potential problems"
+    excerpt: "Editor’s note: The applications of artificial intelligence — AI — are growing exponentially ... Over the course of the next few months, CNHI reporters will look at AI’s use in health care, business, travel, social media, emergency response, the ..."
+    publishedDateTime: 2023-08-17T20:02:00Z
+    webUrl: "https://www.enidnews.com/educators-embrace-usefulness-of-artificial-intelligence-note-potential-problems/article_aea85bfe-744c-5759-89d1-ed01dc25dc63.html"
+    type: article
+    provider:
+      name: Enid News & Eagle
+      domain: enidnews.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/6/47/6478d65b-1ea1-5ff7-bad5-48135eb5df9c/64dd7c4840734.image.jpg"
+        width: 509
+        height: 497
+        isCached: true
 
 secured: "DxqJJbBOS6mpRY9U8FLBeQMKq4jxdpuBlLYqzHZIUPMj+aGY+57TCYxUZE9jLP7pHZE7Kc4jPANRjTwAuiMg383dVR5fq/dX9dMpMWzbhkaR28NUl2mfvmuHmsB630kgQ+XKjY43VWH+eCY0WD9afijT1orWd7a/aO96idaMf75EZqwf/NfV7gwQp2FOzCJJemMuTHnxHGOT1z9MX+J2EuvEOYLWs2KK9WFAKIsGtWh1eufJ2xCIj0N/mE4kK03YT+LKuNlFol5y/ZJky7Q0dtG99oyT37X0QZfV/9pRFG9BYjIUGs9Or+5M3B2lrrFXyVx+r+65fwJgJLtDZWtxK4O1+v59uuyYyMQ2pEqOdQg=;CH/yqit1H3ysi3gzm5IAIA=="
 ---

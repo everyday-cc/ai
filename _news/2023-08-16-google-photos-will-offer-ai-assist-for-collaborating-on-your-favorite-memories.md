@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-photos-will-offer-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/blue-carbon-creating-f.jpg"
         width: 2607
         height: 1650
-        isCached: true
-  - title: "Collaboration looks to build AI Accelerator chip with analogue in-memory computing"
-    excerpt: "Andes Technology, a supplier of 32/64-bit RISC-V processor cores and TetraMem, a developer of analogue memristor technology and in-memory computing, are collaborating on the development of a fast, highly efficient,"
-    publishedDateTime: 2023-08-15T08:34:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/collaboration-looks-to-build-ai-accelerator-chip-with-analogue-in-memory-computing"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 48
-    images:
-      - url: "https://www.newelectronics.co.uk/media/kgdbdmj2/ai.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "8NTJzT2m9qPhaGnliO/ZPCEDqegEmkTRaaxTfC9n99NX/De0yiOZ+edM46xX7CHxYnl3SlPgpGRCRmvsehRgOnM4YcncqTOJM4SWZRGoOGgrjL2AVQCpagGHPfpb/9gd/Yr1WVH7YIQZjOd3M/7CVtwcRoTM9ZNSgUymW+2wB5rrrmUlXVpHGVXSAHc9WLMkyLPeMDN2u/iNX42a6j/7Nv6MDbzhZanwnKr61AJcArQCoySHiOUXahqpS2UaX3qOuPOi7g0qhOI5MVUybDSw+GOI8QLmtlbtHx7rkOz389JH3I5vZT+bnfmsHTlhzuHQCR+hAquYlf8FNR8yR+zNr/A7L8mGltJdEZ6m75TkQ4I=;+og3iEKSqv4P/Rrlznu+4g=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousa
 webUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."
-    publishedDateTime: 2023-08-15T07:51:00Z
-    webUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 56
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Saudi Arabia giving an arm and a leg for Nvidia chips"
     excerpt: "AI arms race in the desert sands Saudi Arabia is buying up thousands of the high-performance Nvidia chips crucial for building artificial intelligence software to join in the global AI arms race. Saudi Arabia has bought at least 3,"

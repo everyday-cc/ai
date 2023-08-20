@@ -37,15 +37,6 @@ related:
       name: Printing Impressions
       domain: piworld.com
     quality: 21
-  - title: "How will the oil and gas industry use ChatGPT?"
-    excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
-    publishedDateTime: 2023-08-15T09:03:00Z
-    webUrl: "https://insights.globalspec.com/article/20882/how-will-the-oil-and-gas-industry-use-chatgpt"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 4
 
 secured: "cIKuJ0/etTi8dCgX/gKog5K318oLGiJCDQLrOQhXjRbuAcsAv3h34oL0kDtgvKs08n0lB/jclYFFDP9exjBTp2mOjHET299mCwRX9aym5IMK/smhNRJUX8Mmr6iOOfjH/f8nX0HSMpe3nnSvOOdwlE8bmIy0+xouO+Oz5FNlfAwO0uDetJCU3EmKdDzYlaUNEAvis7Pa6yeSAwthpER9INAFzlwFoAR5UifWR/GzQbtEWhgXYSTmeec+M7DRI7iozJtck/F3izvBFZP+or/RTtwDYotsLJ/C/SV6d0K0tSrfii848QpAcVM2q3BeqlXrEwKwoU4+dzWCeo9uvLClFSPAqvnxTDHvV6F5Mi3OY4EeW/HUQN8AbKoJ1L6jGF/BylmGyXTT5oefYKiyKihYy098PpBYZqAk6TsXB45/o71RKyuurvVUdFXUj3zEvg0owzY4pj/SDdktVfiOYUNTFttkd3VAcDADAzaJ3mdwf2KnHLV3RBuxVNSe6UFL6ipDBLhc5XaERcCDHifjgNsa2A==;Cgt6ZR0dJT10BWznyLU02A=="
 ---

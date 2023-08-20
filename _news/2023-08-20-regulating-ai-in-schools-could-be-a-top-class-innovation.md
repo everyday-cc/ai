@@ -128,6 +128,15 @@ related:
         width: 469
         height: 314
         isCached: true
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T19:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "OpenAI says AI tools can be effective in content moderation"
     excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
     publishedDateTime: 2023-08-15T22:28:00Z
@@ -184,6 +193,6 @@ related:
       domain: hbr.org
     quality: 7
 
-secured: "ZRfHU0L4NTtT5Fiq62hkrbgty033UWt5OKfPwmTPZfsbkTI6nbDMHNQE7NYOJR2bkncPsQiWNuzAhv+NA4zRrwVdW3AbU0KSzH8e36i0AnMnnpuHGKErYBmLBUO1XCJSgfNWV80xn2SzBwzESdJD/+HdMFgvUbBaSou+m0OLkCid1H4y2ThIwJ12Mxvy+0ffORe8VpR6x3hSmq2kBeKAc8CRDamyP4QULN0tec7mkTnuvmFFOFL0CRcqEp1be7Li7b92t1F0rbXq9GrhjBq4mGlQeTElThPTJfnEkqsLNyvSDGghLbFi/wA+w5M3AvrXFY8w7EVTFElc2AVIGiJpdWuwQM9thygQeu9peqk8SUc=;ENcuivxKzXjzTRnprJ9BjQ=="
+secured: "Rc7G19la1SFqirbfyUovTDudts/zA1YKLlPziX8g1g+bWOS0wFQzvpualtKAO1Fmb/kuDsgfxx06Kd7l0hgyYoVsumcDncIMCdiUNppxPO/oTDTp75law8viPktjH2ejzrDKh7L+hP5Bm//hKBn7OX8kP4EQTEmIGN9vK85fo9oYDbxexVvK/GLK9csJmXQ6Kj7noxFPcVLKwN+p1BCPpT9Uw+qFq2DBeRQyuTihUNIZHe6hpkcmPxXhKUpyrpxIQzQcEFkr4ZTNxYB5M8JqootpULWUjDN/cZEy9ovZilCHRJdCB7p/TjiLWMYTFRBwAIisWk7FOmn2TG+DtuE9y+wZwIJ+I93MPYfmPvdlidMjWAZWz9WxixE2IkM3FU1IGMAUdUCHVcf7oFjqiyY+7uYlR7YpwLa6bfT0IVo9WwAIJudLhXEymR8oG6euzXb0J4ozSL7mklQKYxZkqamPbMpkAvk/iMG136L9uUQO0O05rmJxLiZj5H7Dt3WeUx1CDge26RQOSPrazt45vbmXkQ==;w6W56bGMtqpTLNRrYHLwYQ=="
 ---
 

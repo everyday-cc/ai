@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."
-    publishedDateTime: 2023-08-15T07:51:00Z
-    webUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 56
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
     publishedDateTime: 2023-08-18T06:11:00Z

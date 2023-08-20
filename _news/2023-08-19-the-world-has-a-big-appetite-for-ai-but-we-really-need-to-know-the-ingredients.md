@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "How robots use AI to navigate the world?"
-    excerpt: "Aniket Bera is an associate professor of computer science in the College of Science at Purdue University. In this video, he explains how robots use artificial intelligence to navigate the world and solve problems."
-    publishedDateTime: 2023-08-15T07:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Reality of Artificial Intelligence in the Family Office Realm"
     excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
     publishedDateTime: 2023-08-15T19:17:00Z
@@ -83,7 +67,16 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
+  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
+    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
+    publishedDateTime: 2023-08-17T19:50:00Z
+    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
+    type: article
+    provider:
+      name: it.tmcnet
+      domain: tmcnet.com
+    quality: 14
 
-secured: "ac2ktw0YE2N+Y+9lVS9XtdDcD8AvvZgYxYTls7+LIUU2H52tdNbx6ALrN+NF4GE+jDNSG3xctrqtiGagsqc6Oit9M0Bsd64smspY9T0uvBoBQe5qotveewPgCPvNw7kSd+TgAftZmHPEocRiXVhsTyM8q0P/7P9MKLeHbb/7vUZVbVhtcJ92U4RAUVk/NcBJE7vVViIwL2UynG7mPawZqqAvzxezkJdcc5Rp/RuWUuTs4VXqdqFYmnIBIR2fMm7WGce+ROp5Owuz0yS1qRb7UJTUT5lSVhXzKx0u7lBUTiyKSKnpkldW9AIxKHvOP3a7HXfa5YPdlFyGRkN4QkPVTfsMM7QJ7a3HcRD7gXhJlDo=;jMCuM5IBcbrR+6gwNshapg=="
+secured: "US0k8fyEkDmEteLzB8SkDly5GIfabaGYRsVz1yopoa5fCeOdPVliLsEh+jxlTS1C5hLEbMJ7Dmg9fhmbh4VypKpPY6xF07bDNwYbylg1fpLnml9LLqLNeFz9XyatoTyKW0cz3O4UAfIk+DY54bPxmdEmCZCRujrKnWD4He82AlKEBd9AQETqPod4F1mponaZzYgafAhBAej1OS9SPcRIhhwSwO0YEz3ZPcrHo9pWfQ/+X8IcAtgG0vPoNc7kjhDyrF90/w9CkS2Ruh5qjWl08xCtrcBZQjgtyXZier8vhfv5TMHZYsY9EYj2xB2IvrzNyodhwjnyoPkoNJXrh7SC5ZT/SoYElhiZzdkJoysdH6wxWfOgjl65NH/lr2Pt9EFTdh9ceJpQGhLU/T5//2D5yrKZyNfGCtg+PtjLTRFJZBLM8NtnHUieEddyWPJOWBnXSxsLObPjP6M6khR0yz20fSDsXcx3rNi859DXnLK6PI/dRcTbIQBRd/m72Kky7NfA54Qsf76Rgb67lTZfgV8TCg==;1c47/lFlixYvZ1AW1utQVg=="
 ---
 

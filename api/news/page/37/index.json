@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-07-24-mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare.md",
+      "title": "MDbio – The Doctors BrandTM Publishes New Article About Artificial Intelligence in Healthcare",
+      "excerpt": "Beverly Hills, California, July 24, 2023 (GLOBE NEWSWIRE) -- MDbio – The Doctors BrandTM published a new article about artificial intelligence in healthcare and what the future of this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33345270/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33345270/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33345270",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33345270",
+      "publishedDateTime": "2023-07-24T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
       "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
       "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
@@ -1166,49 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031.md",
-      "title": "Artificial Neural Networks Market Size, Overview, Top Key Players, Growth, Share, and Forecast 2031",
-      "excerpt": "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast).",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33337075",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33337075",
-      "publishedDateTime": "2023-07-23T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

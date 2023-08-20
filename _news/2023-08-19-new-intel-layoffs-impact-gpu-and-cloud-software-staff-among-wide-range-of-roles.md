@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/new-intel-layoffs-
 webUrl: "https://www.crn.com/news/components-peripherals/new-intel-layoffs-impact-gpu-and-cloud-software-staff-among-wide-range-of-roles"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 395
     height: 395
     isCached: true
-
-related:
-  - title: "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170"
-    excerpt: "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites."
-    publishedDateTime: 2023-08-15T07:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
-        width: 400
-        height: 283
-        isCached: true
 
 secured: "Tw8/vHGbtkiIv87TVvtr80nlZQ1/GIF0CLhWrMHFAGKeIbzqicZlXaDcJlRLzK124UBfIARk9FkgeUdTPZ8rhK+LN6EPh+k9COfw+kuV0EwTKUdy3T1FvsTpNgc8cKVK3uD0ev9ZXt2R5JHYIzSLsaZ7UGR6wt42hyn/H0ETX9weAJ3CjucwcSIXV5AeWLOvX1rBGEnQcok4i9SG4GEmUtNKCodS4aX9+ilECzhwvltNBN7FLucF5Ornit1sPA43YyBoWrRNDtc4A1etTpZf1PcZUki22N2yPC+fat3SPUlGT5BUvvSHNSRkAAF9nKmc5o498g0ZdNpMhTX8OAAuaW/VyRM9tIinZ2J1swvd9JTZfLANKpEbnsSs3qvK7ZtWZ64wgx4gpLMtLltZ7zDsq+x8lqalQB97rr2swg0TD70UA0ayQqPK+OX03wOb05ZmCNsOLtE0g3hBeQM4B7NIyitDtSvRIHbw3bFotRjiiK65ZtskMCAJ3FpeNgtbxF2vCN4UgqizhFhhRadnn89Fog==;PkyQancZw/PYJrAV/6kuzg=="
 ---

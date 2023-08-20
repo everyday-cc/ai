@@ -23,59 +23,178 @@ topics:
   - AI
 
 related:
-  - title: "7 low code platforms embracing AI"
-    excerpt: "Many low-code and no-code development and RPA platforms now include AI capabilities, often using a version of GPT."
-    publishedDateTime: 2023-08-15T08:59:00Z
-    webUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
+  - title: "Using AI In Customer Communication"
+    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 744
+        isCached: true
+  - title: "The Power Of AI In Modeling Healthy Communications"
+    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
-    excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
-    publishedDateTime: 2023-08-15T23:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mike-filsaime-s-groove-ai-ai-powered-copywriting-platform-by-muncheye-launch-1032557174"
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89104758-1692158356-0.jpg"
-        width: 321
-        height: 480
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
-    excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
-    publishedDateTime: 2023-08-15T17:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864734.htm"
+  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
+    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 569
+        isCached: true
+  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
+    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
+    publishedDateTime: 2023-08-15T19:31:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+  - title: "Regulating AI in schools could be a top class innovation"
+    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
+    publishedDateTime: 2023-08-19T22:50:00Z
+    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
+    images:
+      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
+        width: 590
+        height: 400
+        isCached: true
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
+    publishedDateTime: 2023-08-16T15:43:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
+    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
+    publishedDateTime: 2023-08-17T07:49:00Z
+    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
+        width: 469
+        height: 314
+        isCached: true
+  - title: "OpenAI says AI tools can be effective in content moderation"
+    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
+    publishedDateTime: 2023-08-15T22:28:00Z
+    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
+        width: 800
+        height: 543
+        isCached: true
+  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
+    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
+    publishedDateTime: 2023-08-17T17:40:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
+    publishedDateTime: 2023-08-15T14:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/2068670/4221224/SQream_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
-    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
-    publishedDateTime: 2023-08-17T19:50:00Z
-    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
+    quality: 13
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
     type: article
     provider:
-      name: it.tmcnet
-      domain: tmcnet.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
+  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
+    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
+    publishedDateTime: 2023-08-16T16:19:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 7
 
 secured: "SvzGozd2pa+plXpDfHc7kLAMRmCWwLX903oV3uwIaAgkamwNxSsZF04Oir4+Um0ymXCLhM4waBV6ul4Aqi/eOmv0OPZQaoCYTga7zCoSOcNuD/ToQad7Nm/QLK9FO7xoEf+oWHR5brT3LXT8xSL9+u4+P0Mr5xRem5qZpLjvxxu9EK5CD9B+DxmExeydCqTb4wE6rZLvWiQy+i0QkZHlJS8JUaaBJJlgt3u6xguSike+hSTutRAlGQURueeNZy+34PsLUGkDWwt98mlE76c8SCxhxeawavEU99Wcqkw01fesCoViFcj3yUhO0zqKn4i89idGwcbRxqAnsZrCVlhj4Bs+1OCLDucrZv77FZtRqzM=;F7mk02QSPTdczikaSYZ5gw=="
 ---

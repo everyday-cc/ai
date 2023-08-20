@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cutting Through The Hype Cycle Of Generative AI"
+    excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
+    publishedDateTime: 2023-08-19T19:59:00Z
+    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 687
+        isCached: true
   - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
     excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
     publishedDateTime: 2023-08-16T03:14:00Z
@@ -70,20 +86,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "How to tackle the ethics of Generative AI"
-    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
-    publishedDateTime: 2023-08-15T07:36:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
-        width: 728
-        height: 410
         isCached: true
   - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
     excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."

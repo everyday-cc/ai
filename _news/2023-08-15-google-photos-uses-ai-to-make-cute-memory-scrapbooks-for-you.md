@@ -60,20 +60,6 @@ related:
         width: 2607
         height: 1650
         isCached: true
-  - title: "Collaboration looks to build AI Accelerator chip with analogue in-memory computing"
-    excerpt: "Andes Technology, a supplier of 32/64-bit RISC-V processor cores and TetraMem, a developer of analogue memristor technology and in-memory computing, are collaborating on the development of a fast, highly efficient,"
-    publishedDateTime: 2023-08-15T08:34:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/collaboration-looks-to-build-ai-accelerator-chip-with-analogue-in-memory-computing"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 48
-    images:
-      - url: "https://www.newelectronics.co.uk/media/kgdbdmj2/ai.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "g0907GvFPUw1Mk/QAtTi7ln7rWFAMsO92de12pP5XFHUfSyKeHl/C1OjJoKIbMfQ0xsCx9Re9XU8+yQ5A2dxXGpbXUTmGFt39p5YbQuEU9GpdPW7A7RB92sjrNegqUCfsN3jnKK6J3rVUJnYVXgrrHCusBn5c9qMlm5Am62fhiLQs5bS1bbNbXTRal/ULzjAPA9aPB2GscxNGBBpNuVBGVKRDGIAn3OSIPrQXke5g7+yqYAXAGz4gdbSFoaqudCiyTzYJL4PkN6C3sUxPmjBffVjmewfM3hJ5Tp6h0R95ea7p7KJ7zvNAmJFf5ZhQS4LbTTguRUmRqJScXXKxz4+zbFxaXkQy8NUt2Qwpw1Xhv0=;zYHCavhpD8Rsj2PMER0/Cw=="
 ---

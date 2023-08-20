@@ -39,20 +39,6 @@ related:
         width: 1198
         height: 701
         isCached: true
-  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
-    excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
-    publishedDateTime: 2023-08-15T08:50:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/ecs-names-martin-klein-vice-president-of-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 33
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/08/martinklein.jpg"
-        width: 1080
-        height: 969
-        isCached: true
 
 secured: "ODT1oFE5bWnum3ZnKnN7F5nlD9leIBB96e6KBLo4z9GpgvV/fTvPeI6OKbII6yuSyABkdhvy712qgyNAYE2emiQfxebtxrfIXumA/uAifIXDYmEw5zzDgzE6/aEcaIZks1LewlDdzEdJGXCgY7DTv+omuiyfjC8dLva9hPZW8gvOEUdSpfsCbXto4CFO6XKLHfRzZr4nkZwkzfH6hKlUG5UlH8z10mAFzjTLlZeckUNobJknCA1oYtxIh7kf4IyD4UpvSEneGvZvNdQEWgnwzZdX3/qrdHXkmOifHa9iEsCJBgR0GSs4BeqgBh+77w+bYhcOLuHxdEWK1hJ5rYRjk1x/wexNsTe5zV7Z1DlIRx0=;k+NPabi/fM2LuNwsSM5X4g=="
 ---
