@@ -78,6 +78,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
+    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
+    publishedDateTime: 2023-08-17T07:01:00Z
+    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "You can build your own AI chatbot with this drag-and-drop tool"
     excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
     publishedDateTime: 2023-08-15T19:13:00Z

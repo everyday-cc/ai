@@ -223,15 +223,6 @@ related:
       name: WXYZ
       domain: wxyz.com
     quality: 14
-  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
-    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 0
 
 secured: "gyLyIK1VaW+xqNRxiIOyjwaXIXN8kBiDtmTXUxPjTU0BxIh5MHDRl9kTOCH+xeaFVwbVOuyyVkYYxTTIhSlg9RYNNFF1qfqGHfDB8Xykcw14E2M313mXPCAU4K9HBr71rYlvHPL5J5EM4hMBBvcNbpb79ufIHA+31S4Ayg+z+VdMyey9hvpl5VkFzJNyhSkBZDtnYVSypu9AGcBuEcuNGe0n1HoywQwkfSysjezcgG7txa7sg5NcGMz4EeECMoPbG7SvJyuw2CYbgO6BUtxuFMu44Oc5x8Mb3DIdTk6BBvLMtfk26dTgcTgGp9v9Hpbq2Z4QCaxzbDCyaRjRFXz5oFXlnQFCMOau6Zbni9ag0bzon4w0NjRreSNKGYaOxTHYCoaqq6Yv6kMefMkHIgnTS+bSry40KcXwOaM3RkuwyOfelkscemnb3WxFB4125LLab2VDCO6evNp9lGStjn+c7ho0LAw7OHmPy6NNbHpYtw25r3cGtZ/G8nKO/+GFfte/8h6Wt4Gu7uSppaDDLoSm8Q==;Hyux5yzjun0LrElaHb16Kg=="
 ---

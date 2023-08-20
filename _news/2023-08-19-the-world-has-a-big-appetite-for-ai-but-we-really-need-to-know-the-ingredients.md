@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
-    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
-    publishedDateTime: 2023-08-15T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 43
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
-        width: 500
-        height: 334
-        isCached: true
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
     publishedDateTime: 2023-08-17T19:50:00Z

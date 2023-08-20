@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T19:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "GKExuwMF7dUUFlI0W1ix4R+U159C0Qkk59IgAc1jwbB2PaRaBWiz3FVwX80gvNKfXNuPQCOM5JGsypeQFrKfPii36g1JdIsp1vj6Ct5rSDiTXI7wGCZwmP02nRPIPfn9elI7KFoA94BjnsE4m+Asiuv6nfSnzRuVivKApyqN0wpFPrBjtczTics5gZjSsWSPXJK2XP3NE8e05QglXir7G9kPR5YecljuNGDCF37tXfsP+Suy/UlHuEjL8e+BS65ygzs+3VUXypt6916u6uKDcX4Vikq0RGp0aOKINxXrPpcjCZOqeuzmoQO9YiI45YlCKmzgudQvefKpSX+oBzSKMxNFRUo7Awov442CXGf+cE4e6ggBZt9oZz88rDMlaobzY0ZfZJoQqC9VGYaHehBMH5avp1FzvWhp/+V3CVdfxoEzPGctzEwNStdx9C6DxZrc9J2x5kAoxnkCdnGmsK5HHf3m+EuLauXqrQEEUn6f6vzzdBZ6LXImNJugNOji4pYa39cWbV9ZiS5AbDuEU6Ztfw==;5risRp9ZjJ6YQsXSrFlfBQ=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the financial industry: Machine learning in banking"
-    excerpt: "UK financial services firms saw a 72% rise in the use of ML applications; what does this mean for the future of AI in the financial industry?"
-    publishedDateTime: 2023-08-15T12:35:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-in-the-financial-industry-machine-learning-in-banking/165122/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 71
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1390124637-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
     excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
     publishedDateTime: 2023-08-17T18:16:00Z
@@ -189,15 +175,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
-    excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
-    publishedDateTime: 2023-08-15T11:10:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Enhancing-sandbox-programs-to-aid-commercial-deployment-of-fintech-innovations-in-Africa-1825235"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 10
   - title: "The Role of Artificial Intelligence in Fintech: Revolutionizing Financial Decision-Making"
     excerpt: "Prepare to witness the dawn of a new financial era! A groundbreaking revolution is underway, reshaping how we approach financial decisions, all thanks to Artificial Intelligence (AI). Within the realm of Fintech,"
     publishedDateTime: 2023-08-17T13:43:00Z

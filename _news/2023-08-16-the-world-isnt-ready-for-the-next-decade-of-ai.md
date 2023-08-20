@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/655d784a25a3b60c3dbe291e4da8f2ef8958a781/0_0_3643_2429/master/3643.jpg?width=620&quality=85&auto=format&fit=max&s=b727dd3a8fe48cedcf8fa7a77f254339"
         width: 620
         height: 413
-        isCached: true
-  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
-    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
-    publishedDateTime: 2023-08-15T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 43
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
-        width: 500
-        height: 334
         isCached: true
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."

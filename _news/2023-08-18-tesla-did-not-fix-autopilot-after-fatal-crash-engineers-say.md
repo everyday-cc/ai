@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla did not fix Autopilot after fatal crash, engineers say"
-excerpt: "regulators and federal prosecutors who are questioning whether the company has overhyped its progress toward self-driving vehicles during the last eight years. China’s BYD opts out of deal to use Baidu’s autonomous driving tech: sources Tesla also is ..."
-publishedDateTime: 2023-08-18T04:48:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say"
+excerpt: "Tesla failed to fix limitations in its Autopilot system following a Florida crash that killed a driver in 2016, company engineers said in a family’s lawsuit over a very similar 2019 fatal collision."
+publishedDateTime: 2023-08-18T14:03:00Z
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say?module=live&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say?module=live&pgtype=homepage"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "7zOeXS5vyUYdgORQWQf+bV1JsdXi09pg5hJXcQk5Ru5ac5XA/aX4tKrEnoRg6ATrIdPGfiuSty9Ata7PuAIGhU9ZldfqDkFlbSaYUcgfIxfVACutM3WPPvxgAx4TnEHR0q3oYqBhhkFb8Nnh9EbwktxyW+NrEF8RbcqvIklV7BUyWDPYm5V4hb+GbRWaOi5wopd7QZWirpP0p4WiDAYKtcgGzr5zA0WU09P35zCtEsgz65hoYltzdWiInFgOOx3HhXCNMl41nk5LgY4tMylIkJ2U7HzC2AeCmuhz67Lo4Qq+wI0Olll+ixzDTg9EyTE2hBirCvIPsUa2xKvkZINB3Jr56rOOp6UPZ9z6a/CMKmC94ORdyF7Z2uFvdG/+kOpV3lRJDnUKJGbhtHnofVFhc8z6HIGlzsnW1YghOA3NIZpjXyVLbaTBUzJ6CJZpHVpAamcacxcfitBS4B6cEmChUZNNvycttAqLUK8sKJ+cR2Cf3vsoOTopbTnUuHZcpKDaXgGu+6K115oi5prmD8tTpA==;C1aqt60Y7qPSn7/3r2O7yw=="
+secured: "03qRjBLz/bv8YDfmSJfVU1hWbleTkP/s8LGLEUZFJycsigyeS2+ggrL+ZuarMoylXdVSRBoeaggnml+pYCftwIcfGPFn0wqFli4GwjsiJI9jDTy+G3U5YaHITvplToZGtfDdO0OiTpca1jh3fCIRF+PdEFvQcGENuKyP+PJxVyTH3ndxI9RcbaXxhhdtfJeRMOScM5/xosYm/dDv2nM3IhML9ZcTF86KTjF8+/cKL9FX8Ook+EKY2vr+l6MLZCsuqLWjhIq+sy5QV1ioGeyFo4YSYXeP+1y/w3xAcTS866+vLxu04CciWg6sh5V6UxmiPweZnWHbbbmzGc6/LbGz0mZhGavbKHIp8tMjjevPd8w=;SiM3eAxfYKOX7v2MlTSG3w=="
 ---
 

@@ -30,84 +30,116 @@ images:
     isCached: true
 
 related:
-  - title: "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant"
-    excerpt: "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy."
-    publishedDateTime: 2023-08-15T12:13:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+  - title: "Opera adds AI chatbot to its iPhone browser"
+    excerpt: "AI in Opera is also an opt-in experience. You can choose to enable or disable it depending on your preferences. Your chats are saved for 30 days, allowing you to access and resume a previous conversation."
+    publishedDateTime: 2023-08-16T17:02:00Z
+    webUrl: "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200"
-        width: 640
-        height: 361
-        isCached: true
-  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
-    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
-    publishedDateTime: 2023-08-16T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/a20bea777a6b3f02ce0d1bf37dce3c93cb0d38da/2023/08/16/ea0c354c-5064-417e-8746-3366e44b302f/figure-top-opera-adds-ai-chatbot-to-its-iphone-browser.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "How artificial intelligence could change college football"
-    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
-    publishedDateTime: 2023-08-15T11:38:00Z
-    webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
-    ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+  - title: "McKinsey launches a generative AI chatbot to bring its knowledge to clients"
+    excerpt: "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information."
+    publishedDateTime: 2023-08-18T10:00:00Z
+    webUrl: "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
-        width: 5372
-        height: 3022
+      - url: "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
-    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
-    publishedDateTime: 2023-08-18T12:00:00Z
-    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+  - title: "Snapchat’s AI chatbot posts mysterious video and goes silent, spooking users"
+    excerpt: "It's not Halloween yet, but some users of Snapchat feel like it is. On Tuesday evening, Snapchat's My AI chatbot posted a mysterious one-second video of what looks like a wall and a ceiling, despite never having added a video to its messages before. When users asked the chatbot about it, the machine stayed eerily silent."
+    publishedDateTime: 2023-08-16T16:40:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
-  - title: "Google Gemini challenges ChatGPT"
-    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
-    publishedDateTime: 2023-08-18T01:36:00Z
-    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "ChatGPT is a Glorified Tape Recorder"
-    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
-    publishedDateTime: 2023-08-17T21:13:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+  - title: "Google’s testing an AI chatbot that could be your personal life coach"
+    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
+    publishedDateTime: 2023-08-17T01:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 4
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "You can build your own AI chatbot with this drag-and-drop tool"
+    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
+    publishedDateTime: 2023-08-15T19:13:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "My favorite AI chat apps for the iPhone"
+    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
+    publishedDateTime: 2023-08-16T18:05:00Z
+    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "Google’s working beyond Bard to evolve the AI chatbot market"
+    excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
+    publishedDateTime: 2023-08-16T14:33:00Z
+    webUrl: "https://www.onmsft.com/news/googles-working-beyond-bard-to-evolve-the-ai-chatbot-market/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/maxresdefault.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI chatbots could fill gaps in postpartum depression support and care"
+    excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
+    publishedDateTime: 2023-08-18T16:48:00Z
+    webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
+    type: article
+    provider:
+      name: kristv
+      domain: kristv.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a0040e/2147483647/strip/true/crop/2462x1293+0+55/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4f%2F02%2F8893f3df435e89c8c7f3480bb531%2Folderpregnancies.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HZYa8YAJdEB38NOe+mu3u3eau7bcx7PBsjey05hGg3yTBUkBqFVRM889+UWjTu+rvOjEO6p5x65h2p6+qDsC42zsLE0kjNu3UXF7Hu9cjCSBfnAnsV6+Xh9VBsL6ARo2FDNIJTo0xac+m2YHq4eXcR52PLTMwWg6gs9vccWymPJCeNRY96ejRwz4FqNRLcfGmivyVLqB5yGYMxceAYaTwZuS3cQpfqL09HJz6P0dBtK/OHL1ilj4IbbeqXvU/wVqvM4OKPmrqKhDPMYTZFuKWmjqGsaZavNnXVjVOjpAaulg2oxUuNvbjBX3QqvL/YyLQouMS+l0G6yg5a6tsV7RhFppoZbfMsuBCllSaMfYZ1MD7VtZRDHvS6DLEFtc8Qyh9rFjg/mNeYcgQlR9r7YNbOtbqwiSYY0Q9+jTf3jjwkYTgt2A1R6DgN4jSc5vYmTeCbUqxzagt/g0pXUdyTVaeHUiGSfDyMVjYntA99jmkzgUhEmnibIcPLIb2ekAL7tF9hApLYyW58hC5pP4WYppkQ==;ogiZvPdB+jL3LIwLDPaIVA=="
 ---

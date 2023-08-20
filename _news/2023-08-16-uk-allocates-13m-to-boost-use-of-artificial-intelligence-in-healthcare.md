@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthca
 webUrl: "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html?trk=public_post_comment-text"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Demystifying AI in healthcare in India"
-    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
-    publishedDateTime: 2023-08-16T07:29:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 36
 
 secured: "MHPV5XgBC5M7DEiB6P8uJZzYdlRprmhdZeHllQ/GgjhIYKn959ZhFGgHTcDb3P5m7oLxr6XpLMEux91QlvlKhgomlpWsIX8q5oV4zHvR6SXZaEqeWjdDgsI8m6SSZWUeN9WCgcdoyNqigwcfEupy0FfwDfSS1b7Samwxj/OhsTnAHzx6XaNB+2kYwPIyggLAXwr8nwVcZB7zBRlEAEIwtQbR947LQJJHvvaRXqgsDJSIuW8DeskMHX379Emb0p8usWDjggkbGtSMdAoPtuJV+NStVLc6QoJuIE1ir0rKkRW1BcNakT5HRcG8AGhdcFyn+7bXgr7lQh025SEkJngUiO/QSlq1qiuwtFvycxVZ/T4=;kqysSu1Cus+FEOzCtsGr2Q=="
 ---

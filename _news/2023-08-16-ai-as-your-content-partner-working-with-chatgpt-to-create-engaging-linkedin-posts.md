@@ -37,6 +37,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
     excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
     publishedDateTime: 2023-08-17T10:34:00Z
@@ -60,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
   - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
     excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
     publishedDateTime: 2023-08-16T13:41:00Z

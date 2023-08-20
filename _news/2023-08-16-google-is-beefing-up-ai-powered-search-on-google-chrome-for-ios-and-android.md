@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Google is beefing up AI-powered search to help you better understand the results"
+    excerpt: "In a blog post published Tuesday, the search giant highlighted three new features already available or soon to arrive in its Search Generative Experience, or SGE. Currently available as a Google Labs experiment, SGE brings AI to the company's traditional search engine with a summary, sources, and follow-up questions related to your topic."
+    publishedDateTime: 2023-08-15T19:35:00Z
+    webUrl: "https://www.zdnet.com/article/google-beefing-up-ai-powered-search-to-help-you-better-understand-the-results/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
   - title: "Watch weeding by AI- and solar-powered agricultural robots"
     excerpt: "A field solution that decreases fossil fuel use and enhances productivity in agricultural operations has been developed by Seattle-based startup Aigen. The autonomous, scalable robotics platform leverages artificial intelligence (AI) in a system initially configured to provide crop weeding services."
     publishedDateTime: 2023-08-16T14:42:00Z

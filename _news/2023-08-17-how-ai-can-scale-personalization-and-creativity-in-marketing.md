@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
+    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 569
+        isCached: true
   - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
     excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
     publishedDateTime: 2023-08-17T11:45:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
         width: 1400
         height: 939
+        isCached: true
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
+    publishedDateTime: 2023-08-16T15:43:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
     excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
@@ -109,15 +139,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Dialpad integrates generative AI across its call center suite"
-    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
+  - title: "OpenAI says AI tools can be effective in content moderation"
+    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
+    publishedDateTime: 2023-08-15T22:28:00Z
+    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
+        width: 800
+        height: 543
+        isCached: true
   - title: "The Generative AI Revolution Is Underway"
     excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
     publishedDateTime: 2023-08-15T15:45:00Z

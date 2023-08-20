@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voiceflow raises $15M to build the ‘Figma’ of conversational AI"
-    excerpt: "Voiceflow, a company offering a collaborative platform to build conversational AI agents, today announced $15 million in fresh funding."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/voiceflow-raises-15m-to-build-the-figma-of-conversational-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "DynamoFL raises $15.1 million in Series A to scale privacy-focused generative AI for enterprises"
     excerpt: "Privacy-solutions provider for generative AI space DynamoFL, has raised $15.1 million as part of a fresh funding round, co-led by existing investor Nexus Venture Partners and Canapi Ventures."
     publishedDateTime: 2023-08-16T14:03:00Z
@@ -50,15 +41,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 26
-  - title: "AI startup Voiceflow raises $15 million USD to help companies collaborate on customer-service agents"
-    excerpt: "Voiceflow raised $24.9 million CAD ($20 million USD) in Series A funding in 2021. In 2019, Voiceflow raised a $4.7 million CAD seed round following its takeover of American competitor Invocable."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://betakit.com/ai-startup-voiceflow-raises-15-million-usd-to-help-companies-collaborate-on-customer-service-agents/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 2
 
 secured: "9AsDMuLUtBaiuXV5HFAF29Uc+W7Txh25pKDYa64b60T2G6RvX0MbY8ALOPRJ9yWU0FUFstqoW7b/6+OIQjo0gVGL3zRKV0fSXUtXBkNXyHsyf/Bek6Bywk9e+KPYpOafypPSQrmNiarOxWLTWVXA9QNM6dugn2CVm1jZwqxcrTrEb1atQeCPTvvnKS4dZMBtXA7acpOOtn0S6EH75cWL6YGhzBJJoTcMIgkV0wEiIWWEo4ztpl0obl9jT5tTpu3KBDOUTnK4Ip/2qeScPSITTWQ/4LAMX0lsI/drOi3CRsyoHSZc6p7ZAQjBYbMrhdvekZtS+9qTxEHEFa5jiW8rJTMgtdcJn4Q3vpGTI3t5yNo=;sfZCEhdZrIdIwHw0qTiABQ=="
 ---

@@ -29,6 +29,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Google Gemini challenges ChatGPT"
+    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
+    publishedDateTime: 2023-08-18T01:36:00Z
+    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "How ChatGPT plugins can up your SEO game"
     excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
     publishedDateTime: 2023-08-17T13:00:00Z
@@ -37,6 +51,15 @@ related:
     provider:
       name: Search Engine Land
       domain: searchengineland.com
+    quality: 4
+  - title: "ChatGPT is a Glorified Tape Recorder"
+    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
+    publishedDateTime: 2023-08-17T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
     quality: 4
 
 secured: "/WQH0wnZSsq1W4W8i244pYI1yrjiV/vQ0gmcYR7kR9IjV89mk5zyMWjnceYFZ9jVdbZZpsxrHyOsz7b8B/IlqJeSKFhZrgySuFjfNDm3AlVUPGgPbV4WuYOldSe30xVPlUCKT21cdblhO9cTZcrsEhQdfykFm4RDxgCwOWotxOoFYzK9AvrXzQufcG1Eum3jx1e0qj7W38j8YI82yL36oOR0u71taTYQk+mUAfaaisKM7Gvk7KcvG8VM8qxQNHX1pY1uyj+/qlw6RArjAvPhy5GVIaa/8imk5ClLWyUb8tO7OxEdBr98ENCHnqE1iAej90ZjUd+ku1eWRIqKmXueZCFPqKjEqIEGSoRRamiQxis=;p84CF9DVXc1xtMgrRtyPGQ=="

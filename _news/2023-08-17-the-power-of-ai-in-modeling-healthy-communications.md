@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Forbes
@@ -31,162 +31,84 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI In Customer Communication"
-    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
-    publishedDateTime: 2023-08-15T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+  - title: "Unveiling The Dark Side Of Artificial Intelligence In The Job Market"
+    excerpt: "The rapid advancement of Artificial Intelligence (AI) in the job market has brought forth a myriad of concerns and challenges that cannot be overlooked."
+    publishedDateTime: 2023-08-18T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/"
+    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 744
+        height: 800
         isCached: true
-  - title: "Amazon now using generative AI to summarize customer reviews"
-    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
-    publishedDateTime: 2023-08-15T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
-    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+  - title: "The True Role Of AI In Logistics"
+    excerpt: "AI-powered robots can efficiently sort ... Companies need to change their behaviors from looking in the rear-view mirror to what has happened and start looking forward to using real-time and predictive insights. They need to trust the data that allows ..."
+    publishedDateTime: 2023-08-17T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/the-true-role-of-ai-in-logistics/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 49
+  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
+    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
+    publishedDateTime: 2023-08-15T19:17:00Z
+    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 569
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
+        width: 500
+        height: 334
         isCached: true
-  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
-    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
-    publishedDateTime: 2023-08-15T19:31:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-  - title: "Regulating AI in schools could be a top class innovation"
-    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
-    publishedDateTime: 2023-08-19T22:50:00Z
-    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
-    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
-    images:
-      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
-        width: 590
-        height: 400
-        isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
-    publishedDateTime: 2023-08-16T15:43:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
-    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
-    publishedDateTime: 2023-08-17T07:49:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
-        width: 469
-        height: 314
-        isCached: true
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "OpenAI says AI tools can be effective in content moderation"
-    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
-    publishedDateTime: 2023-08-15T22:28:00Z
-    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
     quality: 37
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
-        width: 800
-        height: 543
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
-    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
-    publishedDateTime: 2023-08-17T17:40:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+  - title: "Demystifying AI in healthcare in India"
+    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
+    publishedDateTime: 2023-08-16T07:29:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 32
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 36
+  - title: "The insurance implications of AI are heating up - reviewing the NAIC's Model Bulletin for the use of algorithms and AI"
+    excerpt: "The NAIC's highly anticipated Model Bulletin for the use of algorithms, predicative models and AI came out in July, but what are the implications? Though the bulletin is still in draft form, those with a stake in the insurance industry should be prepared."
+    publishedDateTime: 2023-08-16T09:28:00Z
+    webUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai"
+    ampWebUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
-        width: 1200
-        height: 900
+      - url: "https://diginomica.com/sites/default/files/images/2018-03/finger-pointing.jpg"
+        width: 1265
+        height: 872
         isCached: true
-  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
-    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
-    publishedDateTime: 2023-08-15T14:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
-    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
   - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
     excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
     publishedDateTime: 2023-08-16T16:19:00Z

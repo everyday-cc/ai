@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tok
 webUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Artificial Intelligence Continues to Shape the Future of Automation"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on the future of automation, revolutionizing various industries and processes. Here are some key ways in which AI has shaped the future of automation: Enhanced Efficiency and Productivity: AI-powered automation systems can perform repetitive tasks with greater accuracy and speed than human workers."
+    publishedDateTime: 2023-08-16T19:35:00Z
+    webUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to-shape-the-future-of-automation/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
   - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
     excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
     publishedDateTime: 2023-08-19T12:05:00Z

@@ -46,15 +46,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 17
-  - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
-    excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
-    publishedDateTime: 2023-08-15T12:42:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-wont-move-to-legislate-an-indigenous-voice-to-parliament-if-no-vote-defeats-referendum/news-story/fbd05da2e34f598f886428a4c3de1bc2"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
   - title: "Anthony Albanese rejects Lidia Thorpe's demands to axe Voice referendum after senator's fiery speech pushing for Treaty"
     excerpt: "The Prime Minister has argued First Nations issues will “fail” to progress without a Voice to Parliament amid calls to axe the upcoming referendum."
     publishedDateTime: 2023-08-16T07:47:00Z

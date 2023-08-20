@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 177
+published: true
 
 provider:
   name: ZDNet
@@ -30,171 +30,109 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI In Customer Communication"
-    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
-    publishedDateTime: 2023-08-15T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
+    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
+    publishedDateTime: 2023-08-16T17:18:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 744
-        isCached: true
-  - title: "The Power Of AI In Modeling Healthy Communications"
-    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
-    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 569
+        height: 675
         isCached: true
-  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
-    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
-    publishedDateTime: 2023-08-15T19:31:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-  - title: "Regulating AI in schools could be a top class innovation"
-    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
-    publishedDateTime: 2023-08-19T22:50:00Z
-    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
-    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+  - title: "Google's AI will now summarize lengthy articles into key points"
+    excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
+    publishedDateTime: 2023-08-15T17:54:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-3355265/"
     type: article
     provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
-    images:
-      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
-        width: 590
-        height: 400
-        isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
-    publishedDateTime: 2023-08-16T15:43:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
-    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
-    publishedDateTime: 2023-08-17T07:49:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
-        width: 469
-        height: 314
-        isCached: true
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Android Authority
+      domain: androidauthority.com
     quality: 47
-  - title: "OpenAI says AI tools can be effective in content moderation"
-    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
-    publishedDateTime: 2023-08-15T22:28:00Z
-    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 37
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
-        width: 800
-        height: 543
-        isCached: true
-  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
-    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
-    publishedDateTime: 2023-08-17T17:40:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 32
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
-    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
-    publishedDateTime: 2023-08-15T14:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
-    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
-  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
-    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
-    publishedDateTime: 2023-08-16T16:19:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
     type: article
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 7
+    quality: 17
+  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
+    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
+    publishedDateTime: 2023-08-15T13:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 9
 
 secured: "TsuQKeGddYw+6SlgYczfouGbaD8Z15ZK5fW3T0eRBY1pDrNK0P0V7JofPAcT7BEChNaJHZXD2daFwcS8d3zKkRN44l3Gesm8/mgVT3LZHsLP/0faqlkB/p8y8la/8FcEPL3MRolV+PrRdKgWQAcrrkAnS74jAV2WHUqH3cEuluYJcyu7Jv7OjZ00iaz8WhucSLYC3W5aMDlORxF04TkJ5Hv/f4e+N9yaxMGQwHMyYH/EydC1KOP83ZggCRtdyIU/jx+f7OZnvPjPy1rL+BNvYexIE/pNx/Ycw5XKS18PFUgtKWwZOma+JORQzFRza2FJtka7wGPFAOIw9ggLdNj4ly6UP5GekKVXTKJEVzUxDItnuqM599QOLpLZctOzu2CtYkdiO93Q81qcxrUBeD69+Z6jgBcwxlit1wG5K8KHGen/F22lluvKS2oMtp/EAONaQCsQ9fxHWN+TTkC+hxnNAA0Bf0RCHAGUEj+x38tGf8iVgGC3em6zk8Hhu4Kii1e4IKX2NSY5GI7YbIUuNYUHnw==;Tzy5jKHO+mnD78CcARl5yw=="
 ---

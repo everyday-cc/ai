@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-335
 webUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-3355265/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,116 @@ topics:
   - AI
 
 related:
-  - title: "Google is beefing up AI-powered search to help you better understand the results"
-    excerpt: "In a blog post published Tuesday, the search giant highlighted three new features already available or soon to arrive in its Search Generative Experience, or SGE. Currently available as a Google Labs experiment, SGE brings AI to the company's traditional search engine with a summary, sources, and follow-up questions related to your topic."
-    publishedDateTime: 2023-08-15T19:35:00Z
-    webUrl: "https://www.zdnet.com/article/google-beefing-up-ai-powered-search-to-help-you-better-understand-the-results/"
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 42
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
+    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
+    publishedDateTime: 2023-08-16T17:18:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
+    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
+    publishedDateTime: 2023-08-15T13:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 9
 
 secured: "d89PmZxqHnJ/l3jEgc+bFslx3AeG1u47jpw5sbbE/NjUkUkQAsoK2pR0WqzUQj/C9fkhfQHxhoh7fT3XHgMqhM9ZU6rpTZALyhqu0bYUBmpWKM6xmt8xvHpZPkJ+4bxvZHTmdtAHwYo9ufrMZt44Mimkl2mGZdY5cOzFXBNjPifmdl2iliRQlMzdTIMJM47Xl/Bsd52hvkCW8oa5wiIA75IZJGTrNAoCO83OH5CnG+/DiEn0N/ueCWlCR+lj9MSP5Wd3rgdqIW7Z0/hrMIdpQLB9EikIhdDdAwfH/T4GlzWhfNvIu9PIvpmsQZ0g6iokzRdHJBC37pVixYRoJ7QFiXr9X69D3Mo3fZT9FJ3GRI4biC32wV3y7m+fRWGfZ1xTRf39rqw9aVFSjoxbyVL0r+3mZR54v4IhOo/lwntph0zVl/kzFaaAnSpkdjqP9O9VVqHYFHdoOXGzFvCTdS2SXkJiuEpVxfLMsCPayCUuHsiN6/5j+4PZPe9rVPW1DkAEiximkJx9UzmsSXGamuTGpg==;vDe+Jh6XQE0ei/dF+n6HEA=="
 ---

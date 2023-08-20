@@ -25,130 +25,111 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI acquires AI design studio Global Illumination"
-    excerpt: "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ..."
-    publishedDateTime: 2023-08-16T17:12:00Z
-    webUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/"
-    ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Is OpenAI Going Bankrupt? No! But AI Models Don’t Create Moats."
-    excerpt: "Experts predict that OpenAI will be bankrupt. Large Language Models and generative AI does not create a moat. But there are other ways to protect OpenAI's investment."
-    publishedDateTime: 2023-08-18T08:24:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/08/18/is-openai-going-bankrupt-no-but-ai-models-dont-create-moats/"
+  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
+    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
+    publishedDateTime: 2023-08-16T17:18:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df2494d38f87126b0c8ded/0x0.jpg?format=jpg&width=1200"
-        width: 786
-        height: 882
+      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "OpenAI acquires startup founded by ex-Instagram talent for undisclosed sum"
-    excerpt: "Global Illumination, Inc., is a New York City-based startup founded in 2021 by a trio of former Facebook and Instagram workers."
-    publishedDateTime: 2023-08-16T17:44:00Z
-    webUrl: "https://venturebeat.com/ai/openai-acquires-startup-founded-by-ex-instagram-talent-for-undisclosed-sum/"
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+  - title: "Google's AI will now summarize lengthy articles into key points"
+    excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
+    publishedDateTime: 2023-08-15T17:54:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-3355265/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_modern_bustling_startup_office_flat__96bfe510-f61d-44a6-9f0c-7090e3c6e8e3.png?w=1200&strip=all"
-        width: 803
-        height: 642
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
-    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
-    publishedDateTime: 2023-08-17T21:43:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "OpenAI Acquires AI Startup Global Illumination"
-    excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
-    publishedDateTime: 2023-08-17T03:50:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 57
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gmdny8uzalubdamp_1692244065.jpeg"
-        width: 768
-        height: 438
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-    publishedDateTime: 2023-08-17T21:03:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
     type: article
     provider:
       name: The Information
       domain: theinformation.com
-    quality: 54
-    images:
-      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial intelligence designs advanced materials"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
-    publishedDateTime: 2023-08-16T16:41:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811143817.htm"
+    quality: 19
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "OpenAI is using GPT-4 to build an AI-powered content moderation system"
-    excerpt: "ChatGPT maker OpenAI says it's using GPT-4 to build an AI-powered \"content moderation system that is scalable, consistent and customizable.\" The company says humans should still be involved in the moderation process."
-    publishedDateTime: 2023-08-15T19:22:00Z
-    webUrl: "https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powered-content-moderation-system-184933519.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
-  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
-    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
-    publishedDateTime: 2023-08-17T10:56:00Z
-    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "OpenAI buys AI gaming startup Global Illumination"
-    excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
-    publishedDateTime: 2023-08-16T18:16:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/08/16/openai-acquires-new-york-ai-gaming-startup.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 17
+  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
+    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
+    publishedDateTime: 2023-08-15T13:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 9
 
 secured: "+4NVf7JZH9XdLLTQ3ihFqhiAETjMqgfEs8p5z+dr164b1riFkfysTv5sUDLE80YxoTFmBgU8y2DWVoleEphctWoZCZ0H0e5BVdIBN3mMlOK6TEeq665dfow2TQxvSYppcPrfZeEiiQKoAqDBqZ1RhjagGs5CSKtYEBBB5wJY3OU6EvCaDm+n/h3f5aXICVuJEOE9+JV198d51f2GUdrgHc0LrZDhiEZtmm/oEPByp/GxUFnKeuHYQxsgsA1fHb0o5uUXk9AL1P86JvVMVhqvM7hpswjleXNGWJheTMtJxIxlrb5AAfUvN9wbs8ybjoT12UsVW7tzFk6yygRqAhSuEWeaRtj82Gon8F0d1G+Qxv8PIxrC7mE3cRHaiPZcJ0hx6d9xloWyeGBYi5SKV0brURB1XirdAuZq7qY1HJHydHaSI7Nn1yfs46sWR6lTzBKZrHAF0cNO3AecMQdLAO5PRIcKRVTuE4230dWg1flrQpmCeTHDJbCfawY2VL2BBqWRtUikAg4p5TLbY/c/BSivBA==;vGXWcq6+usgIcWI3G++pDw=="
 ---

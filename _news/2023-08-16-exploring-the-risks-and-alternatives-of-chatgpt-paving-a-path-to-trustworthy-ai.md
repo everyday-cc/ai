@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-c
 webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
 type: article
 quality: 94
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI As Your Content Partner: Working With ChatGPT To Create Engaging LinkedIn Posts"
     excerpt: "Learn to craft LinkedIn posts with ChatGPT: from custom instructions and creative briefs to emoji use and editing. A complete guide to engaging LinkedIn content."
     publishedDateTime: 2023-08-16T14:04:00Z
@@ -60,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
   - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
     excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
     publishedDateTime: 2023-08-16T13:41:00Z

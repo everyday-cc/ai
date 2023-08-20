@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-generated stickers are coming to WhatsApp soon"
-    excerpt: "WhatsApp is testing the ability to use generative AI to let users create custom stickers to send to each other. Read on to know more!"
-    publishedDateTime: 2023-08-15T12:24:00Z
-    webUrl: "https://www.androidauthority.com/whatsapp-ai-generated-stickers-leak-3355166/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
 
 secured: "bUcNLRHbq4fNxw/Vq1CuZOB9NMFCT+pyjhw8VyAdAGcXPhXbcrWFB8awWbRJcSLcOAtEhGEazJIiRRPr2eOSHy91TKn1vNkIbeY8qCYXdgEc6w9OqWGc9vxPmU3W/v1duNURdA99n2vaXM9fN1Z3JDE1C5mYtIRDs8mjjTo5NkNlNjQm0iSuEVIzQhZlMnR0/xzJMOH9tiGkFpBE4PmVoVmCtchywaKS0MnFrQ14uEoNsOOBgs9HTaSAiZeHNv32s7VELHj7zupKDyGQCA/AaL4Sj5MPB+PPpYjXFKGswVzHEVQ75hWayK60irZCbbFFK9R3CUkXowbRCZA89W/e/ElROPIs7ozR0Kpma2TBx7V21XmCMAVwH/5WFM9/vEdNcDcQhJmQNkCag+ZdOoiMDwhUStvcN1UG6gMJMlOiB4gpNceQJjd1NZOYc012FOGw6wCp8+RHkKXaumE/K03oOYO3bwjhQHpkRB50jmIu7Eokn+pSUrdk3fUkfy0jaTFEp8Y++rTZ+r0C4iM8k8FQvg==;YecNdJAdlworIVOB2lm7dw=="
 ---

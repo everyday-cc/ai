@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MacBook Face ID patent approved, but don’t hold your breath"
-    excerpt: "One technical problem with implementing Face ID in the Mac is that there’s not necessarily a clear signal to trigger it. For an iPhone, it’s easy, as it can detect you picking up your phone, and then activate Face ID."
-    publishedDateTime: 2023-08-15T12:43:00Z
-    webUrl: "https://9to5mac.com/2023/08/15/macbook-face-id/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 4
 
 secured: "K1dQWu3BpCWD19jZ5koQqAnM3bQm+OMuaHaU3Id2tgGTowkvEijGRmaihFs5HW87ZXR9DiKXEts84sKUHaYPVXtcxg8oVZMnbulTbtTpJ8jAP1V/2H9cBqxuXje73ATtepXMkhDpeaoA6MBksDO6dcIB0FnkNoW26GWFiuppPQzq5+lw5naN9vgQSQdWUPMLRlJFUQWS6y32WeeSdCsTGluogeaZ5a1lH0f+w2Ysb/l612GWzhHsXniTlB592E91QF5vJoXA+pnSNn5UDgsJ5rkDbbp18jzxqBWcfbrMTy7bb9V2ASklHO8tMU7FvIw/lC44ddIiXgTmeexqDT4F6E3QcUYh8NeyLAIPdaIXBdyBGt9z3Yi/fgI9Nt/9x01zMcOpu/hMvUv3t7OhBhlF8OUhLgmdRE5lt5DtLZjMHJ62zc8walhQxo633Im/5Ykl6wfQSy/OL9KacKC1vCPJ63A2Q9neQ77gMbm39z7zFPo8zugpLwvmWPHfJZ5Xdybt7hYByTyiF05uvlhplDPvMA==;FDrhHijjN82O/ve0Mqc4Ng=="
 ---

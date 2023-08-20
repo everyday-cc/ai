@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
     excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
     publishedDateTime: 2023-08-16T17:18:00Z
@@ -34,88 +50,84 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Jaggaer recognized again in 2023 Gartner Hype Cycle for Artificial Intelligence"
-    excerpt: "​​​​Dubai, United Arab Emirates: JAGGAER, the global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
-    publishedDateTime: 2023-08-16T09:47:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1"
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 68
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+  - title: "Google's AI will now summarize lengthy articles into key points"
+    excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
+    publishedDateTime: 2023-08-15T17:54:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-3355265/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTRjZTU1NzEtMWU3Yy00/0/learning-jpg.jpeg?f=3%3A2"
-        width: 450
-        height: 300
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Gartner: Generative AI Will Bring “Transformational Benefit” in the Next 2-5 Years"
-    excerpt: "The AI subset is positioned on the firm’s “Peak of Inflated Expectations” within the Emerging Technologies Hype Cycle this year. Hype cycles follow the maturity of technologies through their lifecycle, explained Davis. All hype cycles start when a ..."
-    publishedDateTime: 2023-08-16T17:41:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-hype-cycle-generative-ai/"
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr816123-gartner-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
         isCached: true
-  - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
-    excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
-    publishedDateTime: 2023-08-16T18:49:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-hype-cycle-places-generative-ai-on-the-peak-of-inflated-expectations/"
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
-    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
-    publishedDateTime: 2023-08-19T01:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
+      name: Law
+      domain: law.com
+    quality: 29
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
-    excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
-    publishedDateTime: 2023-08-15T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jaggaer-recognized-aga-2023-gartnerreg-hype-cycletrade-artificial-/2023/08/15/9864862.htm"
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-  - title: "Accern Recognized in Gartner 2023 Hype Cycle for Data Science, Machine Learning, and Emerging Technologies in Banking"
-    excerpt: "Accern has been specifically acknowledged for its capabilities in Adaptive Machine Learning (ML). \"We are honored and thrilled to be recognized by Gartner in these two critical areas,\" said Kumesh Aroomoogan, Co-founder and CEO of Accern. \"Our focus has ..."
-    publishedDateTime: 2023-08-16T10:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59865816-accern-recognized-in-gartner-2023-hype-cycle-for-data-science-machine-learning-and-emerging-technologies-in-banking-200.htm"
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
+    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
+    publishedDateTime: 2023-08-15T13:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
-  - title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
-    excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
-    publishedDateTime: 2023-08-17T12:25:00Z
-    webUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
+      name: Law
+      domain: law.com
+    quality: 9
 
 secured: "nCCYZIU/W/7Gs+ym42KPzLcen3YD43OFYC2RprvmdPkzf6oRRbTkAadUTsGV9US8CEKyLjjvvm6KwtGw6/ADp7K4EUe6nXqqU8VKq/GW6ChfIK+nLX/mTDm0oDlk6h+7TURShklctUnnezAYh9e3r7jtI720nqH+mnAsPTFhFjkGKexVMUrtchNL4rO5w0Q2EO6DUrrBZg2OZoJ3tXS84MFvjzoDnwA8Z/6uapxaH7bRcl0J5xCg7eN1PmnNVNwQCS09TeZcdXDRpTfc8LRZ5k51rgvvbfNb77LSXvI4fzK8jh1bhbMhvfQUOr4BhSAr2rULfXL2MZzf4oc9Vg+Rh1n+iPDdwgzfQkBVW+pWYHmGQCr4c9OjCI1zdPvpUzU5OfS/mgTYwePrwnupuyWPpQIOg0/msQM4BS3ymCXLSnQUmeg3yoRu8AkwOG38w35xIBcUJZO6MDBUf0xuu4cWuYUuC0ceBG2p8PLlJObczs9pd9Bcwrtf9BLciXm+u6Jf3DkARWJZEl+XOJ2gfd3rmw==;rX9y3WbZwEuP4oJBpIuvuw=="
 ---

@@ -28,54 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant"
-    excerpt: "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy."
-    publishedDateTime: 2023-08-15T12:13:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+  - title: "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI"
+    excerpt: "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-16T14:15:25Z
+    webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
+  - title: "AI As Your Content Partner: Working With ChatGPT To Create Engaging LinkedIn Posts"
+    excerpt: "Learn to craft LinkedIn posts with ChatGPT: from custom instructions and creative briefs to emoji use and editing. A complete guide to engaging LinkedIn content."
+    publishedDateTime: 2023-08-16T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/08/16/ai-as-your-content-partner-working-with-chatgpt-to-create-engaging-linkedin-posts/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 103
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200"
-        width: 640
-        height: 361
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcd6ddb9f53bfc4f3d516d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How artificial intelligence could change college football"
-    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
-    publishedDateTime: 2023-08-15T11:38:00Z
-    webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
-    ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
+    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
+    publishedDateTime: 2023-08-17T10:34:00Z
+    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
     type: article
     provider:
-      name: al.com
-      domain: al.com
+      name: Al Bawaba News
+      domain: albawaba.com
     quality: 57
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
-        width: 5372
-        height: 3022
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
-    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
-    publishedDateTime: 2023-08-17T07:01:00Z
-    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+    quality: 47
   - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
     excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
     publishedDateTime: 2023-08-18T12:00:00Z
@@ -85,29 +83,24 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
-  - title: "Google Gemini challenges ChatGPT"
-    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
-    publishedDateTime: 2023-08-18T01:36:00Z
-    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
+  - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
+    excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
+    publishedDateTime: 2023-08-16T13:41:00Z
+    webUrl: "https://bgr.com/tech/googles-gemini-ai-might-be-the-best-thing-that-happens-to-chatgpt/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "ChatGPT is a Glorified Tape Recorder"
-    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
-    publishedDateTime: 2023-08-17T21:13:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
+    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
+    publishedDateTime: 2023-08-17T13:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 4
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 15
 
 secured: "cKJHOXqCUmckpeN/g11uz4DJi/FVL58AdYm4wY4atRfJtf0DjtYA0lwkLDrCV1xqDOReOVoMw6Fz9Ztf/H5gWFJEFuo3w4T2cvNbX+EGNQFlLbIhLjCyIb5XD13yhv15ZSCkVJ48H3CohYmWoLUSY5hSx17+avqqPEb3ccHv+O9WMIB0eQkFbrMNTXfdplDS/Qsz7hHDi+tzrFNXedH7fcYOI7Gw55rUeThOI2YsnnwMZKjaH3nzZqgWvboP3Hi9BUSVAf/+quq3ksb5zPcSywuJMoh+op+NYYTYydeBYrNHVKOVRsYzm142rYgqIbNjfkWFdr9/PYVIogzuFiOd+FAgi7E35botkD+nsJPj5kI=;vqNN1XQst1TYFelcPeIOrw=="
 ---

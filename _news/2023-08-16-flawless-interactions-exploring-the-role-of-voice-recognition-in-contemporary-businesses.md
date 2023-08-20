@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/flawless-interactions-exploring-the-role-o
 webUrl: "https://techbullion.com/flawless-interactions-exploring-the-role-of-voice-recognition-in-contemporary-businesses/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
+    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
+    publishedDateTime: 2023-08-15T19:31:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
 
 secured: "mAdiUkTEh8j+dzDRSwnEIeslT6EzJ2dLz/FwozTUT3VcCGI6Ap6f9eHfdSd9f/vSg0SOvpVSZ1MO9RqoirEiY6HJ8iqrJCJxjYemmA5albfl40k3ctHssPj5Yh7aZz/R7DP5Mxwwky8ELPLViugCCFlMRwjyaMD7Cs1YmWAv06xiCqrIP3FSCAefkShu9TO6UxJIuvWODZlbPQe6Z4qdrKMzmE5GOgpI3FR6mwYfDyMewx32dMSa8W3uivvXzG3H8H/jWY7dehYbsWIjY+1lrtH70oksMFE9VeeEpUMS44tHYAlLBBXs73BfkrZflt6IyFWEOdOyUPlAaBKf37HlzogKwY0zl2cHo7V1iqA5VUfHjYVFqpIXWWi9J6uDWwqaZtZBFi/FSQzVIa/yOsPpO0d9nXS+OTQMaH9SYsJsWAPyb/UBI6XOi13b5Bw99KrrsPR7dFl+ub+bWirSy8rbJKwDtg4R4ckvxphsmWpvBBwr8dr9pMqmbkqNswHxzxTcDaX1+HpP7bIcu7PGGai7cg==;xWyAOgsodBnNrZcctPV+cg=="
 ---

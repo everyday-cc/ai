@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-08-19/china-uk-mov
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-19/china-uk-moving-on-regulation-tops-the-week-s-ai-news"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Regulating AI in schools could be a top class innovation"
+    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
+    publishedDateTime: 2023-08-19T22:50:00Z
+    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
+    images:
+      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
+        width: 590
+        height: 400
+        isCached: true
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "QgtIpRwsIXsWm70iyhHAsY4f0AkferZHcsbjAUt9VKvmh2CJ/uCFNFC61oRcZwtYnVr/KVpyvJSz2Uc+FYnnAShimlQWYPnQocjtd/ZjJUxeVGPuLJyh6vGwUZfcPHbP4BZlFHUbOKa5CQLH3oJyXGjFR36GvGcW7+7cXHL2d4BGvYx4O1u3qpOhRLPqbX8BrtkhEgRer6grKYjYP+TGDjXQt9tOJMGRVA2uKqPWRfEZgu88SwTG5CNqH1Vr2btnNwZX6O38PeFkt8DZXWVyVAlMiT8QMU0TeRb1Ex7/KSImrvraXLgHpYwNOD3u6liHvPOThIlJISOCRySCTvb7/qDV1T2Pu2WXnkOx4MhZiVujflfMDZQ5rmW9vIDiPik1FZ7NYl2d+RcCGWO7bTc1ZyBPraN/wqL5tee/4RTNQaYVWw8rc5z4U+E1rW/42drCKa3iCgWtlFEDEkG3SKn1kQjrHuk3puWsq7dqg331wfH7yr1K+YJZICO5KFu1GdWksBi+vS+AHcmPbvNF+7h9SA==;qx2ayHxjoZkH6mTSubZ2eg=="
 ---

@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Will IBM’s analog chip take the AI world by storm?"
-    excerpt: "A team at IBM Research has developed a mixed-signal analog chip suitable for AI workloads. The project is still in the research phase, but it is looking"
-    publishedDateTime: 2023-08-15T11:12:00Z
-    webUrl: "https://www.techzine.eu/news/devices/110080/will-ibms-analog-chip-take-the-ai-world-by-storm/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/ibm.jpg"
-        width: 917
-        height: 500
-        isCached: true
 
 secured: "1HBVKC2jHzktPWNbgJL6JDCvu5CochhmK+Ou8ZK6qAt2EJj5AndY/IdXwKTxN34sJegFgErQY8KerX25vUM/TyYCkHoZSGk37yLrQ6NwN23yfeHo6GBhbP9ZD1zhVLcOALM6CFRG3kuYjEFIFGSk6s0mfcAAZDXZoR4/cPE/tYopMVTdUE03V9x1bJYcdrN35coTEMEa2tJYCwDYB1TXA0artTM+DXnUPCAEDQbacTb8vDCyGXxuIMXz9qm6rdrIaeVr69nobYTNxllBcoLHe0w1lt9e2yfqcYVnVr6Ygzw8FdCZPXHfIYkxCKrYbxDOxAj6SldKLo94FL85+lwC6k3sCMgpo5Jv6aJ+czv/JuaocIRiG+9Hes322x82UVHn6IyQJW89UrNl+8mgSZOumCNMTXqkAgFGoHEONHBa2uh82UE7zZiQ1asKVn1N2+k/Nm0fwnUx85rGZDPBaG7lnEiT4u0bqpIBsUwWGIuEIg9wd0wM3/kikFec4I6GRDqXDmg9QZ90lb33BRksF6KtiA==;XyoZUmezBfavXMUN3DyVaQ=="
 ---

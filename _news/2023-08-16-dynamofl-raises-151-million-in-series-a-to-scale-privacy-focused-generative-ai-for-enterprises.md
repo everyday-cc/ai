@@ -37,24 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Voiceflow raises $15M to build the ‘Figma’ of conversational AI"
-    excerpt: "Voiceflow, a company offering a collaborative platform to build conversational AI agents, today announced $15 million in fresh funding."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/voiceflow-raises-15m-to-build-the-figma-of-conversational-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "AI startup Voiceflow raises $15 million USD to help companies collaborate on customer-service agents"
-    excerpt: "Voiceflow raised $24.9 million CAD ($20 million USD) in Series A funding in 2021. In 2019, Voiceflow raised a $4.7 million CAD seed round following its takeover of American competitor Invocable."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://betakit.com/ai-startup-voiceflow-raises-15-million-usd-to-help-companies-collaborate-on-customer-service-agents/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 2
 
 secured: "k5RbhrS165nOVVZcxY2hRNI5wRgxQIiBXudlIr92ZBfwxDuVIAYLba3Q+12UxEFe29jEIWH81uRZ9UMk8bxIT6Xt/P/iC0wD4OHFL5LiBqAbDKKnTjC/tH8/tQGdIO5Z3Lqn25XcoDkMB372YZNimf6lRNfadMobshi/DDxjFcHgLfEXEsqOWiKbFOnG3A/uqFz3dCi2qSACnM+apBPn9LyAmCQTsYEzsKaAGg8cp7G1vzQdvPN1dYsn1MwXoe/FjMd9FnzPDepNjTV0zUV6INLd0H/M+41szteaNUUIvLyzHyCOSsE5nSnwjmTPtlaBM7gSp3Vp+w/slt0rBdYhplh65tqHrDsdxpnx8U2H8UHNUCaGWLC5lQpkwkEsuDJiRYEEeuRtn3q1gWaIBhEm0xDonO6mVDVceipTIse/ku+Ygfbw4nOY8gPMrPF9efWwRO9ipDYUp+TuxO5+rLP/nJkLwAxfJyXMRD9e3zH96/GsrC8CtcJPsKz5mkFf7PUIHZ+fID8K9exZeCbit/YN+g==;yIrsRlJMLM0Z+n62TlfSxA=="
 ---

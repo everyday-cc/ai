@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "The Key People Driving Meta’s Generative AI Work"
-    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
-    publishedDateTime: 2023-08-16T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
   - title: "US military’s special task force will explore generative AI"
     excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
     publishedDateTime: 2023-08-15T19:00:00Z

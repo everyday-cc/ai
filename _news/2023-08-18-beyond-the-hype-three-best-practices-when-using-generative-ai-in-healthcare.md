@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
 type: article
 quality: 103
-heat: 273
+heat: 263
 published: true
 
 provider:
@@ -225,15 +225,6 @@ related:
       name: WXYZ
       domain: wxyz.com
     quality: 14
-  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
-    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 0
 
 secured: "K5nHTQaApxNaMc9OgY521Pd2H8QBaMlRV5kA7KoIO9X8hZN3+ZiwWcbqMmHcvzTwDA/F5OX7G7JhwM51ggIDsk2Z0QdCvIRw/t9It7CGIo9C6f+mdejZZy+HTfZYcz2WSdPw2YSYxrnEmIwyMwyQEmMkLVg95qv3BjrY3jBO4Hbo3l13Ai18JPOilIdG67Xhn2vBUosslVIOzBv0w9irT94G8yjJuAjMUk85icH/+dX/QSgPQ9DUPXzxC8XZLUxzl1XJfJpAaa8ij/XJtA283+INL8RQUhkj329guQogh0ZPdTyk6jpnRnNB8K629Wot/09UyaWDCa4rQAZBIur6m6Q5k40Gxyu2ovM/txzsXJJc7FLeiHHcQP5wcVKwBLFwV2MaJsTjl4wSJsJBVMTZBuB2k9RXr7lXt3u3GC71ihCghqdWbTSmOLgwr97WEvw1O32ZUdm4V+93Mqfr6+wW+bk7frlg6xe263d9mSWndZtCDhDIn/yUdrSN0jL2Q7SOSUIzBSThU5YlbWxx69iq0w==;SeSsps+pazBo2BywyBCgQA=="
 ---

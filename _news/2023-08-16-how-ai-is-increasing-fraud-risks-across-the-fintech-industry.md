@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 229
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI in the financial industry: Machine learning in banking"
-    excerpt: "UK financial services firms saw a 72% rise in the use of ML applications; what does this mean for the future of AI in the financial industry?"
-    publishedDateTime: 2023-08-15T12:35:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-in-the-financial-industry-machine-learning-in-banking/165122/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 71
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1390124637-scaled.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
     excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
@@ -193,15 +179,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
-    excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
-    publishedDateTime: 2023-08-15T11:10:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Enhancing-sandbox-programs-to-aid-commercial-deployment-of-fintech-innovations-in-Africa-1825235"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 10
   - title: "The Role of Artificial Intelligence in Fintech: Revolutionizing Financial Decision-Making"
     excerpt: "Prepare to witness the dawn of a new financial era! A groundbreaking revolution is underway, reshaping how we approach financial decisions, all thanks to Artificial Intelligence (AI). Within the realm of Fintech,"
     publishedDateTime: 2023-08-17T13:43:00Z

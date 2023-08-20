@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Doctors use Artificial Intelligence software to plan for the future"
+    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
+    publishedDateTime: 2023-08-15T15:46:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
 
 secured: "A8Sjokj5v4WJWirrwMFfhbnmnMWQYSzaMpJc2YOuVyxja5QbDJoxXLof/YNFYVwUMaBkYzSrv8g48N9pxzfZHGJ7EDYsrW19tavricHK0RjRPYSoqRyfjhuQLkWd+Vo6qhy6xt9xZ3RhOO5mcukOSVrEvic77eXuStwdxT3wvNDiTHatwjr6ysdO5YuD978BcZV3/1QCl48UyEnbZvqYCzB8rHIlEKKc1WlbA43cjbvYG/ZR9wdbESLvB7tF302Nf1G2V6RB4CV5Jpczk3W0HlC7h0nZdQmcvuwpf6X1uK5UGcQohI1/S0i3KV4TiCXoL0/qCau1nHIsm+G0hwhDObbNw1QjAIhvsCC2ssEtsLwQTJHQF+ZwbLuutJOOZFcj+i8zA2vEqV2amhYs1T4kC16izOhdBWCgMv94Z8M1HTvmiJvbq+EHHFFkwvb1VTJTJPp9NBqeLqxmmmB/Ysn8j9/YGVhgrljV4HROjFkmBSr/sxpe7ks5b1Av5KSXUPR9TTc7BAsLk2HhAIPe15JFRg==;k57fLU2DEz/JD/MVFoQ2Tw=="
 ---

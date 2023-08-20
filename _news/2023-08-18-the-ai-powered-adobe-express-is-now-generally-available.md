@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-powered-adobe-expres
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
 type: article
 quality: 87
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T19:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "+w506kFuYHOBO9aYMdaPMlSgbb57C8LAiKH91qVjfySiwUkDEQ5Ayg2WKcX5TNoes5PeoQosbxa3TRB2YFU4On1qfU5C7VC39YZ1t5oHWuz6NdIV6kJzfDEmh7xh2YHa6yLv9nJJiW8B9C47w2Q4bYZmKbED/enaOPwC/ALZ9J/anXKLwZvL3+SCEDJuiaa7dpoMCSvARnBt/eAAciDHEP9M5ouZKCur2gPy0NHq5oOIOgGkf2lgBY2EYVFauEJ93AAmK+NeUEfyYpDOVtid5Hncri77hO3drFXAL4dUgjmkl8G7nTy3lsS0wDs83n+enANg+JCXCxvP9Ro4pBZ93M5sFl47LsA56tj/UfBrdH6+3CZmewwfboCZJwkEka+OYSgOlhXA1cnAK2pleHRf5heewMMYYeM0MzeY52xf1922sP5vgncArV/+tSpC8uLMmeq57HExdrkV+h6uLBNjAcVXOqTDnKMJd/h94ksOMneMvR1F+wa5HzieQaiIhNfQ8WWPhH3fFQw3lWkdpDrhJA==;BfEQ5oN8UkgC8ASP5H2hxg=="
 ---

@@ -25,77 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant"
-    excerpt: "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy."
-    publishedDateTime: 2023-08-15T12:13:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
+    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
+    publishedDateTime: 2023-08-15T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200"
-        width: 640
-        height: 361
-        isCached: true
-  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
-    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
-    publishedDateTime: 2023-08-16T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    quality: 49
+  - title: "Can ChatGPT Help Get More Sales Meetings? Maybe. Here's How"
+    excerpt: "Technology is transforming the work world one more time. This time, the charge is led by AI and Natural Language Processing — or NLP. IBM describes NLP this way: NLP combines computational linguistics — rule-based modeling of human language — with ..."
+    publishedDateTime: 2023-08-16T15:35:00Z
+    webUrl: "https://www.piworld.com/post/can-chatgpt-help-get-more-sales-meetings-maybe-heres-how/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How artificial intelligence could change college football"
-    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
-    publishedDateTime: 2023-08-15T11:38:00Z
-    webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
-    ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+      name: Printing Impressions
+      domain: piworld.com
+    quality: 21
+  - title: "How ChatGPT plugins can up your SEO game"
+    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
-        width: 5372
-        height: 3022
-        isCached: true
-  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
-    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
-    publishedDateTime: 2023-08-17T07:01:00Z
-    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
-    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
-    publishedDateTime: 2023-08-18T12:00:00Z
-    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z

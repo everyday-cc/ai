@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-sticke
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated stickers are coming to WhatsApp soon"
-    excerpt: "WhatsApp is testing the ability to use generative AI to let users create custom stickers to send to each other. Read on to know more!"
-    publishedDateTime: 2023-08-15T12:24:00Z
-    webUrl: "https://www.androidauthority.com/whatsapp-ai-generated-stickers-leak-3355166/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Google Tests Using AI to Sum Up Entire Web Pages on Chrome"
     excerpt: "The company is running a test that uses AI to generate key points for web articles you’re viewing on Chrome. Called “Search Generative Experience (SGE) while browsing,” the feature can create a bullet-point summary of an article within seconds, all with the click of a button."
     publishedDateTime: 2023-08-15T19:33:00Z
