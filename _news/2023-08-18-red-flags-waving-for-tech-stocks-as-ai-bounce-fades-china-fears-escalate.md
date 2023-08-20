@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/red-flags-waving-for-tech-stoc
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: MarketWatch
@@ -28,24 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Tech Down Even as AI Stocks Rise -- Tech Roundup"
-    excerpt: "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,"
-    publishedDateTime: 2023-08-15T21:04:00Z
-    webUrl: "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9g0LzOC1BLSfTfQoTrrlBf3Hl5OySrV2/Z+eTP+9p/kZ0ARYb1Y2+LkMfsErmhB8B1wuQd3/21KNPNHJO1uCvuNPrrDD1zvFjJ3TzOEfnUlZaQYe+V2jCIanZa6nA/9nYdrSHJ+cDYF8/ebZU6vlkiH+QHQxJOalvBU5Tj57uSSKeVgzJ8qEWLK354wPHdQxKYpppljdhHHtMwB5INMgepvLP97MD37sNuv4pOxla8Bse8j4VuMwBMPSTTgGgEEAEmfCcR9j8RCCOwpT4gPbPxTD8kmJHvl0SsVte/4TwhDqXpFSmsRaGSwvbF2QJBzEEuGvBM/MfY5JvrvnjgfgNFCF5I74mforBCSOjOoT/1g=;OCQZ6lLmjHNb4ynhQes1UQ=="
 ---

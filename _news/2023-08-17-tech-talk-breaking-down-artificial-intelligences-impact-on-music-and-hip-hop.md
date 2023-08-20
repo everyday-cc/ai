@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Tech Talk: Hottest AI tech gadgets"
-    excerpt: "Technology and Artificial Intelligence are shaping the future across nearly every industry. Digital lifestyle and tech expert, Jessica Naziri, shows us the latest in trending gadgets and AI."
-    publishedDateTime: 2023-08-15T19:45:00Z
-    webUrl: "https://www.cbsnews.com/losangeles/video/tech-talk-hottest-ai-tech-gadgets/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
-
 secured: "zzZB3sDbj90sWU/ibVWLCsOzQ/n/3rszjKe/uYR8aFAZrpUCNS2WGVF1TRoAz7LbivACoISjOItz1X7OGHfSfZIK5QSwyPQZ8jVdmlXctJjCHmo0UzOAshIIXqZPIRgDo4LW15+KdoGdhrXUfwgGxdEuodBRH9gMDTj6oe7OzDjCRiRjF0an96eOMHslxMDz+v9uty0SEI6QQKuQ5eRsRkTwhpOPnSYfn+VEM26gxPV6hDIDK+8Yb/MQN8a095/3McOg5e2/i0m58lElvNk4q5gYT6ePJaXJiKLcsA6FKYhan/LTKtfxO4YxaE+4FeJ/aiZbedmV4yK8j0VgP67ReJM9ZIQdoT3MZn0TXLVR6urN0mbsU2oBzMUea/CQajRiOw2MBgEYpdA5WUkbZcz4wgZlI9xcASX+U921cchIYXFbb+5zM3Av56UF/i9hY4FDc6Lwb8/6JJjfVbdibdbD1a76IwgmNk5H4EiBrSD3pgCygFIsnowbxYU5i4a5aw+NM8DcPTkxsPHnE9Vexf2jvA==;t9bNfFVDTP4d3ynFFtIYYA=="
 ---
 

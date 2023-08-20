@@ -21,22 +21,6 @@ topics:
 related:
   - title: "Kneron drives automotive AI chip market with new KL730 release"
     excerpt: "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications."
-    publishedDateTime: 2023-08-15T20:21:00Z
-    webUrl: "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html"
-    ampWebUrl: "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/speedometer-100944749-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kneron drives automotive AI chip market with new KL730 release"
-    excerpt: "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications."
     publishedDateTime: 2023-08-16T23:31:00Z
     webUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-ai-chip-market-new-kl730-release/"
     type: article

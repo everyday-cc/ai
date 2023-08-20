@@ -7,7 +7,7 @@ originalUrl: "https://www.vancouverisawesome.com/national-business/canadian-fint
 webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 650
     height: 269
     isCached: true
-
-related:
-  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
-    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
-    publishedDateTime: 2023-08-18T11:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 23
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "qppwNmtNapWILksGP4UpQbp4A38ga84hl71T2KcXf0z8W90ZJKOHzuy6nejqrub8ziwreMHxagNRx6ZMsSPpxjo6fPNDg7k4M87oGDlHvCy8Bq5uwlGi3+cAbiIdRGDIHLBuqEOYo0Ae8Ik7kLXMfo/kWFqW8OyjdpZjLeWeL8QGojBGsTs6OduFreHPR7gVjMc/BVzApsSYEZ20LfQr2tXW1ixAhB6oexg7shg7GRqsNryXRQ3YUUi+mBoTZdFhtdjb9epQhipz7o+ltWbiCDFV8L3f0xBGuINqCNf5SHoehj3xa/ulWVXK7OQM5IpN3ckw7ghdMLUhlE1xGuhNPOMknmVoL6pUjILacV+vGsA=;WfSkTST7KAg6vWwIKvROiA=="
 ---

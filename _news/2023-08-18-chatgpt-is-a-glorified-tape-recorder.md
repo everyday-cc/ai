@@ -7,7 +7,7 @@ originalUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-
 webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
-    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
-    publishedDateTime: 2023-08-15T19:39:00Z
-    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Google Gemini challenges ChatGPT"
     excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
     publishedDateTime: 2023-08-18T01:36:00Z
@@ -49,15 +40,15 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Can ChatGPT Help Get More Sales Meetings? Maybe. Here's How"
-    excerpt: "Technology is transforming the work world one more time. This time, the charge is led by AI and Natural Language Processing — or NLP. IBM describes NLP this way: NLP combines computational linguistics — rule-based modeling of human language — with ..."
-    publishedDateTime: 2023-08-16T15:35:00Z
-    webUrl: "https://www.piworld.com/post/can-chatgpt-help-get-more-sales-meetings-maybe-heres-how/"
+  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
+    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
+    publishedDateTime: 2023-08-17T11:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
     type: article
     provider:
-      name: Printing Impressions
-      domain: piworld.com
-    quality: 21
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
   - title: "How ChatGPT plugins can up your SEO game"
     excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
     publishedDateTime: 2023-08-17T13:00:00Z

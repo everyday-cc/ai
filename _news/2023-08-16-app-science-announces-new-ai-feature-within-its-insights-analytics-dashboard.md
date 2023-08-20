@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smart video analytics are redefining use cases from retail to healthcare"
-    excerpt: "No longer are we using video monitoring purposes just to see what is happening. We’re seeing AI & ML on video to predict what will happen."
-    publishedDateTime: 2023-08-15T20:21:00Z
-    webUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/"
+  - title: "Cronos (CRO) Gains with AWS Partnership and PancakeSwap … – Analytics Insight"
+    excerpt: "For example, PancakeSwap (CAKE) has become the top loser this week, and Cronos (CRO) has joined the top performers. TMS Network (TMSN) is retaining its position as a market favorite among the latest decentralized platforms."
+    publishedDateTime: 2023-08-17T01:44:00Z
+    webUrl: "https://www.inferse.com/680830/cronos-cro-gains-with-aws-partnership-and-pancakeswap-analytics-insight/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Inferse
+      domain: inferse.com
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_579286324.jpeg?w=1200&strip=all"
-        width: 1198
-        height: 701
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-10319.png"
+        width: 624
+        height: 351
         isCached: true
 
 secured: "ODT1oFE5bWnum3ZnKnN7F5nlD9leIBB96e6KBLo4z9GpgvV/fTvPeI6OKbII6yuSyABkdhvy712qgyNAYE2emiQfxebtxrfIXumA/uAifIXDYmEw5zzDgzE6/aEcaIZks1LewlDdzEdJGXCgY7DTv+omuiyfjC8dLva9hPZW8gvOEUdSpfsCbXto4CFO6XKLHfRzZr4nkZwkzfH6hKlUG5UlH8z10mAFzjTLlZeckUNobJknCA1oYtxIh7kf4IyD4UpvSEneGvZvNdQEWgnwzZdX3/qrdHXkmOifHa9iEsCJBgR0GSs4BeqgBh+77w+bYhcOLuHxdEWK1hJ5rYRjk1x/wexNsTe5zV7Z1DlIRx0=;k+NPabi/fM2LuNwsSM5X4g=="

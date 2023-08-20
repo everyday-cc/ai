@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-18T151428.383.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "IBM Consulting to help firms build generative AI applications with Microsoft’s Azure OpenAI Service"
+    excerpt: "For example, it has created a procurement and source to pay application that combines Azure Open AI Service with the Microsoft Power platform to automate the manual and fragmented processes around ..."
+    publishedDateTime: 2023-08-17T12:05:00Z
+    webUrl: "https://siliconangle.com/2023/08/17/ibm-consulting-help-companies-build-generative-ai-applications-microsofts-azure-openai-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
     excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."

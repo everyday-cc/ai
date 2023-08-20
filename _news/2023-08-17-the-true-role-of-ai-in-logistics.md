@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
-    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
-    publishedDateTime: 2023-08-15T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
+  - title: "How businesses can measure the success of AI applications"
+    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
+    publishedDateTime: 2023-08-20T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 43
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
-        width: 500
-        height: 334
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The future of artificial intelligence in accessibility"
     excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"

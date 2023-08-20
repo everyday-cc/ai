@@ -1,23 +1,26 @@
 ---
 category: news
-title: "FDA Grants Breakthrough Device Designation To Tempus' HLA-LOH Companion Diagnostic Test"
-excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced that the U.S. Food & Drug Administration (FDA) has granted the company Breakthrough Device Designation for its HLA-L"
+title: "FDA Grants Breakthrough Device Designation To Tempus’ HLA-LOH Companion Diagnostic Test"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced that the U.S. Food & Drug Administration (FDA) has granted the company Breakthrough Device Designation for its HLA-LOH assay as a companion diagnostic (CDx) test."
 publishedDateTime: 2023-08-15T13:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33858918/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/b33858918/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
+originalUrl: "https://www.bakersfield.com/ap/news/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test/article_21d9c8a3-b6ab-5ca9-8373-a37db46d1b97.html"
+webUrl: "https://www.bakersfield.com/ap/news/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test/article_21d9c8a3-b6ab-5ca9-8373-a37db46d1b97.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "5YQCloNwnjHjyWudjsePzGzpCg17g+70pE9UF6iysHR2rmTBmgfTvVhnIcy/rotOdfHLkFM9CV5btHnntrrQxney7kWCrxOTeTxIfsu44XQtwFJQqQI6disfjjZ1nClHyDzwxTYgXe17QshumYLyPiGonAUnEUpfrntfAPgu7psd7bNyi40BME1emXyi/vzTatRjtteNA5QPTTRLkcwNg7Huvq3TmyY3PFx0nh666q7Wt5BlOmpsEWOE+cM+ancuLzAceohy0hRRWMDiqFXamyqtSORpagGdbgodCbD++QCwDEymecQwx0DzkiI1m5E24Tm/qgzMLxZS0BtJGlCBI3yPRgNm1YVl78KW27uBivk=;0oK2K7028U3cTNttRDLtAA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "uVN75RjWkSZD0qtecaYWuvOW28RjFzd3D1mo/ZPDAnyB4wUk6wqGFZRi3FvmcSqC8hDqVzQDGqVa8DZsaq89V4AMw9syrPyA7mAhCv2tgc6P6UKcUX7uHmk4YX1AuAHwkujeI/QJcl5fBSxIbi4IPrLHJPT7q4Ayw/7+mlSvQLKuAixyUM0atwnP0FbYZuz0RvuJ39wiEarx5j9HZGOVScylBnjs5S8YYGd/ZA0RsOisMnUcCgIou1pXTU4CMHmqj7dHS7q2AojlrQvW/LPjMFhLJaeDsEsNYS2Md0mrchVGUzyjnt35WOeNw1Sbc5bQsUkNQiGL7bah5xaj/kwtqCPIPMiZqEp2quGukwJBOYc=;3SM3nzrJXi9tTMqm1Bdo2A=="
 ---
 

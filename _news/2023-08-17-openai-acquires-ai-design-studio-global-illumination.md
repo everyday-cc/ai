@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-g
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
-  - title: "OpenAI is using GPT-4 to build an AI-powered content moderation system"
-    excerpt: "ChatGPT maker OpenAI says it's using GPT-4 to build an AI-powered \"content moderation system that is scalable, consistent and customizable.\" The company says humans should still be involved in the moderation process."
-    publishedDateTime: 2023-08-15T19:22:00Z
-    webUrl: "https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powered-content-moderation-system-184933519.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
     quality: 47
   - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
     excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""

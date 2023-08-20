@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Risks May Outweigh Benefits in Schools"
-    excerpt: "New York state’s Office of Information Technology Services issued a report last week, following a state law that banned biometric identifying technology in schools. A decision about the tech will be made in the coming weeks."
-    publishedDateTime: 2023-08-15T20:49:00Z
-    webUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools"
-    ampWebUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "GSA undertaking study to examine racial bias in facial recognition tech"
     excerpt: "In a note on LinkedIn announcing the study, Commissioner of the Federal Acquisition Service at GSA Sonny Hashmi said: “This is an important study and initiative to test and validate facial recognition and matching algorithms and technology to identify barriers across demographic lines.”"
     publishedDateTime: 2023-08-18T22:01:00Z

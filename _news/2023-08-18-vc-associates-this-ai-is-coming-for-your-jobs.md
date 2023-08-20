@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The AI Panic Is Coming: Be Ready"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been a hot topic for much of this year, and"
-    publishedDateTime: 2023-08-15T20:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-coming-1032556797"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/08/jetsons.jpg"
-        width: 566
-        height: 683
         isCached: true
   - title: "Artificial Intelligence Is Changing The World"
     excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."

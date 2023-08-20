@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/655d784a25a3b60c3dbe291e4da8f2ef8958a781/0_0_3643_2429/master/3643.jpg?width=620&quality=85&auto=format&fit=max&s=b727dd3a8fe48cedcf8fa7a77f254339"
         width: 620
         height: 413
-        isCached: true
-  - title: "The Reality of Artificial Intelligence for Family Offices"
-    excerpt: "Artificial intelligence is the replication of human intelligence ... per stirpes to a 10-year-old” or to “explain the concept of delayed revocation in a health care power of attorney in Illinois.” The software will provide a simplified explanation ..."
-    publishedDateTime: 2023-08-16T13:16:00Z
-    webUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 41
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
-        width: 1540
-        height: 799
         isCached: true
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."

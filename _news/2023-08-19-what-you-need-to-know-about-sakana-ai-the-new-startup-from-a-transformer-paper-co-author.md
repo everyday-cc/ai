@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-t
 webUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/"
 type: article
 quality: 58
-heat: 82
+heat: 80
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-generated-books-are-snea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI-generated reviews are here, but you shouldn’t trust them"
-    excerpt: "More and more companies are turning to AI-generated reviews to summarize community reviews. Here's why you shouldn't trust them."
-    publishedDateTime: 2023-08-15T19:20:00Z
-    webUrl: "https://bgr.com/tech/ai-generated-reviews-are-here-but-you-shouldnt-trust-them/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "pU/wBjIsTgGmJ+pP/ZfOyHzkuCGhweOIr8jM4nBZMQ94tKsBNbRjex1Ew9vABSYFBD6cJKS3aH9GvEIYgcm6ywyNYZ7JkohYAph1oBz0ZcI8dRcZ78J/6ID8ZdnZzzjqBzfOXRo0Fo5R/2H/sa43+4nEo/RdJxZEuPp/iqEHOLLJuXkSSuDCvPpa5JPw0OwWPT0wjZpn/kK/svgvARr+G8fRgkvbeSoKEMa7jnjG+f0ifVPdH1ORmEkGviIx/jylSC5oSTbZNl7EhwpTX2Y0M0qV/WDC6QR4T2t/0ddfCKnmKz9Z6KRgYH9mzWugdYAu3jnXaDWs30GLerczVo5FOT9KiNunHVsUUzXxaHCx/oE=;hsjvJMIma+H/MHrJV1w6gQ=="
 ---

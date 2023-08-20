@@ -26,45 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "The World Isn’t Ready for the Next Decade of AI"
-    excerpt: "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state."
-    publishedDateTime: 2023-08-16T10:59:00Z
-    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
+  - title: "4 ways to increase the usability of AI, according to industry experts"
+    excerpt: "Such is the tone of a recent Twitter essay by Rachel Woods, research data scientist formerly with Meta/Facebook, who cautions that while solid business cases may be forming around AI, usability is still out of reach."
+    publishedDateTime: 2023-08-18T14:57:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 75
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The world has a big appetite for AI – but we really need to know the ingredients"
-    excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
-    publishedDateTime: 2023-08-19T14:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
+    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
+    publishedDateTime: 2023-08-19T12:05:00Z
+    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
-    images:
-      - url: "https://i.guim.co.uk/img/media/655d784a25a3b60c3dbe291e4da8f2ef8958a781/0_0_3643_2429/master/3643.jpg?width=620&quality=85&auto=format&fit=max&s=b727dd3a8fe48cedcf8fa7a77f254339"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
-    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
-    publishedDateTime: 2023-08-17T19:50:00Z
-    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
-    type: article
-    provider:
-      name: it.tmcnet
-      domain: tmcnet.com
-    quality: 14
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 15
 
 secured: "CVYPexOoHUFSujOpEHDQUl3Geg/fx3bBG/zTlQSkd2xvpux8zPStTbQP6yJbqvOoXZmXsoLmnFHj9tf1o9wCdJYkuqmyY+SIbjOjfa9tMrPyBnP3smCoGtVHbqjgyx5nJ5PQ7IYgIcaw39MWbznWwBCaGB/HpxOb6L8UtYBIJ/qYdBJglEGwg9me6T4EroILJBTDUZc8He54YBWvT5897fleSBoKjUmJFIF40TRumpYiqOAlu9YM/mLuXPHAYMRx//DM9TGhYkQrBjXSBv5So5eZ1We6kNBIa3uhJ445SqXAdgPv3aBzobBrPpgq2ECkR8wuZSPemBPcWGfw44xjoF7Lw8dKgcwZrav3toUkgx0=;a9f3ZoK5QdbhdWsLNkGx6w=="
 ---

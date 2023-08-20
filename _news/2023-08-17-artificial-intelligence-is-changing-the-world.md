@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The AI Panic Is Coming: Be Ready"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been a hot topic for much of this year, and"
-    publishedDateTime: 2023-08-15T20:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-coming-1032556797"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/08/jetsons.jpg"
-        width: 566
-        height: 683
-        isCached: true
   - title: "AI is coming for your audiobooks. You’re right to be worried."
     excerpt: "Apple and Google want “Madison” and “Archie” to read to you. Major publishers are hiring A-list celebs for the same job. Who will win?"
     publishedDateTime: 2023-08-19T13:05:00Z

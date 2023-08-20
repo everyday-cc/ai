@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-law
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/amp/"
 type: article
 quality: 83
-heat: 106
+heat: 93
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
-    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
-    publishedDateTime: 2023-08-15T19:06:00Z
-    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "B7S+ifyK8olWNebSgO9/VYSOWCuD/vVYbpkW3I6Dq5eyMAmcJgPl+zsrW23FZxX6/e514cdGa2A1LXXT0X33ALyVngINSN1bri1VCyI0kewUaXznz5SWZHGjkznQ3H+Tjhl1/+Ir/2goImk2dMGKLPJPyp3X46Ll60vm+2fDdop4Cswhp3XCuvfjniyhnw42CssDWVqku8DcINaAXwZldJ8cP1NbpGBw1jdisyxdH8+nmppZoc5dsc7GuQBqJSE7G3Rgzr5Sem+vcs2k32KFDltYf9adRqV2U6q9EyAm/JVYdkQbNPo643qX5Dd67wJb5heYR2gLExmjE1eamLBUsRkPQ+9kNQrC961R9864WS0=;wzxOr/SZNliFQgnJNiAqow=="
 ---

@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Consulting to help firms build generative AI applications with Microsoft’s Azure OpenAI Service"
+    excerpt: "For example, it has created a procurement and source to pay application that combines Azure Open AI Service with the Microsoft Power platform to automate the manual and fragmented processes around ..."
+    publishedDateTime: 2023-08-17T12:05:00Z
+    webUrl: "https://siliconangle.com/2023/08/17/ibm-consulting-help-companies-build-generative-ai-applications-microsofts-azure-openai-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
     excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
     publishedDateTime: 2023-08-17T23:35:00Z

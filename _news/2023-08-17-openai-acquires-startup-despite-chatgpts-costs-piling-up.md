@@ -132,15 +132,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "OpenAI is using GPT-4 to build an AI-powered content moderation system"
-    excerpt: "ChatGPT maker OpenAI says it's using GPT-4 to build an AI-powered \"content moderation system that is scalable, consistent and customizable.\" The company says humans should still be involved in the moderation process."
-    publishedDateTime: 2023-08-15T19:22:00Z
-    webUrl: "https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powered-content-moderation-system-184933519.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
     excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
     publishedDateTime: 2023-08-17T21:30:00Z

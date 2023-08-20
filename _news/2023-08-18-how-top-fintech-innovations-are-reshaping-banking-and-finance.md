@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Increasing Fraud Risks Across The Fintech Industry"
-    excerpt: "Fintech founder Gili Raanan of Cyberstarts told the Israeli ... Mastercard is spearheading its own AI-related efforts across the pond alongside nine prominent UK banks including Lloyds Bank, Halifax, Bank of Scotland, and Monzo. According to Gartner ..."
-    publishedDateTime: 2023-08-15T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d131c6a5fbee691f65f247/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "4 ways to increase the usability of AI, according to industry experts"
-    excerpt: "Such is the tone of a recent Twitter essay by Rachel Woods, research data scientist formerly with Meta/Facebook, who cautions that while solid business cases may be forming around AI, usability is still out of reach."
-    publishedDateTime: 2023-08-18T14:57:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
     excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
     publishedDateTime: 2023-08-17T18:16:00Z
@@ -71,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Saasant: Transforming Finance – How Fintech Automation Reshapes the Accounting Industry"
-    excerpt: "Fintech Automation is reshaping the accounting industry and propelling us into a future where efficiency, accuracy, and speed are crucial.DE"
-    publishedDateTime: 2023-08-17T08:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/saasant-transforming-finance-–-how-fintech-automation-reshapes-the-accounting-industry-1032561444"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
     publishedDateTime: 2023-08-17T09:12:00Z
@@ -91,20 +50,6 @@ related:
     quality: 39
     images:
       - url: "https://www.finextra.com/finextra-images/oped/761.jpg"
-        width: 799
-        height: 449
-        isCached: true
-  - title: "Future of Fintech in the Middle East 2023: Are we entering a new era?"
-    excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-08-16T09:16:00Z
-    webUrl: "https://www.finextra.com/the-long-read/760/future-of-fintech-in-the-middle-east-2023-are-we-entering-a-new-era"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/760.jpg"
         width: 799
         height: 449
         isCached: true
@@ -136,6 +81,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
     publishedDateTime: 2023-08-19T04:39:00Z
@@ -149,6 +108,48 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
+        isCached: true
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
+    images:
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
     excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
@@ -164,24 +165,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Role of Artificial Intelligence in Fintech: Revolutionizing Financial Decision-Making"
-    excerpt: "Prepare to witness the dawn of a new financial era! A groundbreaking revolution is underway, reshaping how we approach financial decisions, all thanks to Artificial Intelligence (AI). Within the realm of Fintech,"
-    publishedDateTime: 2023-08-17T13:43:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-fintech-revolutionizing-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
-  - title: "FinTech Magazine’s Top 10 companies in APAC"
-    excerpt: "Keep scrolling to learn more about FinTech Magazine’s Top 10 fintechs based in APAC."
-    publishedDateTime: 2023-08-16T12:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-companies-in-apac"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
   - title: "Legislation needs to play catch up with fintech"
     excerpt: "A comprehensive legislative and regulatory framework exclusively for fintech may be the need of the hour."
     publishedDateTime: 2023-08-16T00:16:00Z
@@ -190,6 +173,15 @@ related:
     provider:
       name: Deccan Herald
       domain: deccanherald.com
+    quality: 4
+  - title: "Beyond buzzwords: Diversity and inclusion matter in fintech"
+    excerpt: "Explore the Crucial Role of Diversity and Inclusion in Fintech Innovation and Growth - Insights from Paymentology Co-CEO"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/beyond-buzzwords-diversity-and-inclusion-matter-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 4
 
 secured: "9TSUBXZRrxPYBsQnbxiNXBP/RP8jR23IKSy+pWRSFj2CN6piBdDA4waRvOfpsKY5OEZDynkspJ/WbqFMObQUCfFPjeZeUejdUttZGYWKCGWtXRE6xdvuHqqeLSEyEalZmWUeFZWylZhcMXyJlFIv/yicdkfjfnqtq9KLo96viqBrwUXQsYVzHEF/3E8EUQQJ1gWgXTUk2vCQ3Tw+K9e6VTWA2AiQm4W85vcW0JbRtBzs449J4XVq9+IgoKgeeEPoihPl2Nmn4+ysySuvDGdX8w7YADXciwcPS/u1wtLQRubyW3+x8ZoqHDRCkfWVLx7s9Ab0jYBxYDyEN7HeIXKcX8d7YkwtM62Fw1pbSgqCfeFlmLF1AcYbQWLIGHAEbHYu9xfMiBndxlqblzsKfasufA9a4atdxNmo252VlYXUVMDKX1gqPmrlJu5Lhme0sJRdvVpBYK29vG2NShYwMa0Ho6Z0hQjOlIbUcLOGrgARybMFNYqkaV4GAmnQCM9uPQcMUD/2onddMLzfbA9KDJjYyg==;1h5Jc2DWiWpq2SV5BqjLQA=="

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise"
-    excerpt: "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments."
-    publishedDateTime: 2023-08-15T21:59:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/"
+  - title: "Overcoming the Physical Barriers: Empowering AI in the Real World"
+    excerpt: "The remarkable progress of artificial intelligence (AI) has revolutionised our lives and work. Breakthroughs in large-scale machine learning and natural language processing have significantly enhanced the effectiveness and efficiency of various processes."
+    publishedDateTime: 2023-08-16T13:43:00Z
+    webUrl: "https://techbullion.com/overcoming-the-physical-barriers-empowering-ai-in-the-real-world/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
-        width: 1920
-        height: 1080
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/jonas-angleflod-profile-pic-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "3L9mqJPh6ScWOuI+HVDXPJ+TSnR1hSNjv9b4iQz+piMfLN5GgbxOxImZXtfbAOhr5i1rOq/YRW3hXtmel/k3hqroMILLvo3vfykjrvJYemjsFHXNtQYm/TTfxZ0cOhPr/cwP9/ujstPWqGdMSm2zfg2umjhqqNkG+voRf4wpnEg2YAyC5WdN7BsFv8+RytS5s1LNIgObvfmofPl+i4zyqqrShvpyJzybQbxfv/Re8EsQEFtFbPijGU+1/gTsQ4KkPqio2Fw/e5vLsMmXcyItlCqidV4563hQRzWubWd0UQl4kVHMo8sPpBsHskP1pf/qCmA1VifLu48wyuDKoUTsYVXGPxB3LggXHeYK0y+maAU=;o7ehtvwSr9eAZn5rsJ3j2g=="

@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Facial Recognition Risks May Outweigh Benefits in Schools"
-    excerpt: "New York state’s Office of Information Technology Services issued a report last week, following a state law that banned biometric identifying technology in schools. A decision about the tech will be made in the coming weeks."
-    publishedDateTime: 2023-08-15T20:49:00Z
-    webUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools"
-    ampWebUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
     excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
     publishedDateTime: 2023-08-18T11:49:00Z

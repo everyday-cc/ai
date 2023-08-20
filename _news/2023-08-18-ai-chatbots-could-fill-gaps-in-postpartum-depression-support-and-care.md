@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "You can build your own AI chatbot with this drag-and-drop tool"
-    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
-    publishedDateTime: 2023-08-15T19:13:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "My favorite AI chat apps for the iPhone"
     excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
     publishedDateTime: 2023-08-16T18:05:00Z

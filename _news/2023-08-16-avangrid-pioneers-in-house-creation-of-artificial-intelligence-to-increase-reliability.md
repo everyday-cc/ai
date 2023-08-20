@@ -103,20 +103,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "OpenAI says AI tools can be effective in content moderation"
-    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
-    publishedDateTime: 2023-08-15T22:28:00Z
-    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
-        width: 800
-        height: 543
-        isCached: true
   - title: "How AI Can Scale Personalization and Creativity in Marketing"
     excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
     publishedDateTime: 2023-08-17T14:30:00Z
@@ -126,6 +112,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "Startup conversation: AptEdge uses AI and natural language processing to streamline customer care"
+    excerpt: "In our latest startup conversation, I sat down with two executives of AptEdge, a firm using natural language processing to improve customer service. Aakrit Prasad (pictured, right) is the co ..."
+    publishedDateTime: 2023-08-16T21:09:00Z
+    webUrl: "https://siliconangle.com/2023/08/16/startup-conversation-aptedge-uses-ai-natural-language-processing-streamline-customer-care/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
   - title: "Generative AI use cases for Asset Management Firms"
     excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
     publishedDateTime: 2023-08-17T08:29:00Z

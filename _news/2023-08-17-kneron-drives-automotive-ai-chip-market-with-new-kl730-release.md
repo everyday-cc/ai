@@ -7,8 +7,8 @@ originalUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-
 webUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-ai-chip-market-new-kl730-release/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: ARN
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kneron drives automotive AI chip market with new KL730 release"
-    excerpt: "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications."
-    publishedDateTime: 2023-08-15T20:21:00Z
-    webUrl: "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html"
-    ampWebUrl: "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/speedometer-100944749-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kneron unveils new AI chip with multimodal processing capability"
     excerpt: "Kneron, a dedicated provider of full stack edge AI solutions, has unveiled a new AI chip, KL730, featuring the ability to support multimodal processing such as voice and image recognition. Its co-founder and CEO Albert Liu stressed that not all AI applications necessitate the use of GPUs,"
     publishedDateTime: 2023-08-17T06:57:00Z

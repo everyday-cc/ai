@@ -40,15 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
-    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
-    publishedDateTime: 2023-08-15T19:06:00Z
-    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "lPrZYhxtpleCuD7JrNpH2qZojuLf6yfsW/Y4VGKOvRDQtqJAW0p9/NvKk2XKpvOwwQwOQ9tqio6zJeOxqKRzzMVHq+zWW22CvlhKj8q4xC63MHnNfdNfpQQPIQ2oducGRYEgxHcLcgpNrakzx0IQ0vLaX48LR/DB2Ph7swhC2lo3MmbObwVrb3cRaNDcsMnR0ezBQ0VXYaO5Aoc6Z+RMka+pvP0KCYvI736VRWoNT0fAytyTjt9ZxWtxXUy0sEdI2AlhPQct7dr+1w5Zjt1K1aX9pe3xuoOjG5OScVehsDgSVt7NUhsj1f80hCCCd+2vmi2Za6QmNyP/4ZqtzOE3lRSXWxNU29iHjhTdRx+aCq8=;CZPk+FS1aPq0hcmfFjzhVQ=="
 ---
