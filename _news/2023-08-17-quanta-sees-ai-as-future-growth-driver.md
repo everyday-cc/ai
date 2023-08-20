@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "How humans should prepare for the future with AI"
-    excerpt: "We currently live in a world where technology is advancing at an unprecedented pace, and smart machines are becoming an integral part of our daily lives. Artificial Intelligence (AI) has"
-    publishedDateTime: 2023-08-15T06:52:00Z
-    webUrl: "https://www.thecable.ng/how-humans-should-prepare-for-the-future-with-ai"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 41
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
-        width: 1661
-        height: 962
-        isCached: true
   - title: "The future of artificial intelligence in accessibility"
     excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
     publishedDateTime: 2023-08-16T14:14:00Z

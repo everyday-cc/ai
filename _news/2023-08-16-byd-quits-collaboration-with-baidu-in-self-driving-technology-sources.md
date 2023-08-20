@@ -24,17 +24,6 @@ images:
     height: 914
     isCached: true
 
-related:
-  - title: "Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
-    excerpt: "The scrapping of the deal is a huge blow to Baidu’s autonomous driving ambitions, and is a reflection of the troubles facing the Chinese self-driving industry as fully autonomous driving has so ..."
-    publishedDateTime: 2023-08-15T05:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/15/top-chinese-ev-maker-byd-opts-out-of-deal-to-use-baidus-autonomous-driving-technology-sources-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 5
-
 secured: "/2lOZW8vlaxCjq7kmplK2DXQVihm6zX9yYTbMm5yCG64Z1bEPrhDg2qDaqxleSLNjy0U45/5w+GW5YraHkQt8wYdT7f17bAcIzmkJhs3GiIXkPIcS1yW8MB4dwj9wBnfeuWT3Ea3zMvFAIc3zmzRelnK0Noc393/eyrt2xdc3/qvG7W2/A245tD1xUX9sYG6Jtnf0U0nIRK8zsSQ9Z7qMS2aihfRhqnj5MJTuRK1Ca0wcpOJpcpmjQYHpNXycG1MhXQQP5qJ2nex2V2rbPhqrTJtupzesnxQJx1JtdebfMKlU+Nyjq7/FhxsGAc2Pzcr7GQa9abD2b0rzHeVACGxn2PiZNszreJyNSAuYRYe6yteTu38mzGza2UmkBUzRzKGRS8MCIBVkSQvjcoy3bpLJ9XtQanWSIpy99WTyQUNElgW9/yBE7fFknSGh461zcdew73yLIbC9KWVVlpcO7Y5qG1J6hVM1sQs5S4tJA6T04kr6I2lRa8qNcpSIEcZSWCRHoLZimjRmhw6hqTGtR5hJQ==;ut8jOWdjzH2M2REixTwVOQ=="
 ---
 

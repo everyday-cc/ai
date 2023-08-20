@@ -1,26 +1,29 @@
 ---
 category: news
-title: "OpenAI says AI tools can be effective in content moderation"
-excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
-publishedDateTime: 2023-08-15T22:28:00Z
-originalUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
-webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+title: "Regulating AI in schools could be a top class innovation"
+excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
+publishedDateTime: 2023-08-19T22:50:00Z
+originalUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Astro Awani
+  domain: astroawani.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
-    width: 800
-    height: 543
+  - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
+    width: 590
+    height: 400
     isCached: true
 
 related:
@@ -97,22 +100,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
-  - title: "Regulating AI in schools could be a top class innovation"
-    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
-    publishedDateTime: 2023-08-19T22:50:00Z
-    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
-    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
-    images:
-      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "How AI Can Scale Personalization and Creativity in Marketing"
     excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
     publishedDateTime: 2023-08-16T15:43:00Z
@@ -140,6 +127,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
         width: 469
         height: 314
+        isCached: true
+  - title: "OpenAI says AI tools can be effective in content moderation"
+    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
+    publishedDateTime: 2023-08-15T22:28:00Z
+    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
+        width: 800
+        height: 543
         isCached: true
   - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
     excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
@@ -183,6 +184,6 @@ related:
       domain: hbr.org
     quality: 7
 
-secured: "wCeBMzcKNeoSXJekqRlHrekoNaG9MA3NvMvuAfcJLwTCaQbzWg1BUg5X6Etj3aanmM7F5Ls0IUkmi/F0AoPq2FYpIETiDcAd1MsYrYRYq6iTotcZ56MHgvS9UEoyH8K3ioff7SiZpmsBHnGa9yOSZvLkD7xFHrjQPDgSgp68JEj+EFyeZ5iczwEt6dJCj/OAJc558725+kH+bqz2+c2x3pcip0jUHEhgK4qKCmbDBgYkGOdoOGlaF7G94f1KNU6xfWD0xqKTi3NcMl43x0rP5sjP1g1wx/9M2+2HUc3jP+e0R2BxJpimSzgmnOIGhXBIAgEUcKMITqA4VblClG/32kBqoRolgfTpJ1NB6ZqIz8F5O0FiM3xmuNf0g/KtZrO3m9ihNoY2277UE0HC+4k3YADCNKUBay23XT90YsogE2f+Gukj3qT29b0FBAIhyK9oc5vW2PQya9jrpA3YwnuGotVFZvnuQYqw7nD0SfXNkcrIuePRv4DN1WZLfe224QeLS7x5gma3qHOsQSWGRtpjHQ==;oSnAm7NTnzGijuieZGA7zA=="
+secured: "ZRfHU0L4NTtT5Fiq62hkrbgty033UWt5OKfPwmTPZfsbkTI6nbDMHNQE7NYOJR2bkncPsQiWNuzAhv+NA4zRrwVdW3AbU0KSzH8e36i0AnMnnpuHGKErYBmLBUO1XCJSgfNWV80xn2SzBwzESdJD/+HdMFgvUbBaSou+m0OLkCid1H4y2ThIwJ12Mxvy+0ffORe8VpR6x3hSmq2kBeKAc8CRDamyP4QULN0tec7mkTnuvmFFOFL0CRcqEp1be7Li7b92t1F0rbXq9GrhjBq4mGlQeTElThPTJfnEkqsLNyvSDGghLbFi/wA+w5M3AvrXFY8w7EVTFElc2AVIGiJpdWuwQM9thygQeu9peqk8SUc=;ENcuivxKzXjzTRnprJ9BjQ=="
 ---
 

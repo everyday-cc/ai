@@ -20,6 +20,22 @@ topics:
   - AI in Sales
 
 related:
+  - title: "ServiceNow Sees Generative AI Monetization Opportunity"
+    excerpt: "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI."
+    publishedDateTime: 2023-08-17T21:55:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Salesforce's New Sales Gpt And Service Gpt Drive Productivity And Personalize Customer Interactions With Generative Ai"
     excerpt: "DUBAI, United Arab Emirates– Salesforce today announced the general availability of Einstein Studio, a new, easy-to-use“bring your own model” (BY"
     publishedDateTime: 2023-08-16T17:46:00Z
@@ -33,20 +49,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/16/M_9fd0aimage_story.jpg"
         width: 1270
         height: 714
-        isCached: true
-  - title: "Salesforce Announces Speaker Lineup for Dreamforce 2023, Emphasizing AI’s Transformative Role"
-    excerpt: "Salesforce this week announced initial speakers for Dreamforce 2023. Diving deep into AI and how it’s transforming the world around us,"
-    publishedDateTime: 2023-08-18T16:40:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-announces-speaker-lineup-for-dreamforce-2023-emphasizing-ais-transformative-role/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 28
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
         isCached: true
 
 secured: "jzlYwjXw0iwjF77iUEyNl6Zjc3bnj8s3i77c+jXnBTpB1NX6bAavesCzfDJuuiIXCvcCThx5/TmCJqWrNeY7jaimBq6acYsAeSMoiIhRIORU7u+KN5cKhH5O31luSc6JQZRtKImU+ce4aaUnwHSjlBAYRE72c+y/iLGI5WF2fgaClcPuT+0YUI5ADRSt5XYYw36vmSwtYbQRVHymJdC7DNy0F0PhYCb93LAeNlIHWG/Eh8T7JRSIZwWT0nu2aXYMdBz8u6BKpc5XDmJIRosOGeyJstKCKgjCfOlFkrv/D+5ihZaRNo1I6iFxEJg7+rCqT2AnT1qoqiHClozEnqZRuaID90xMebR9DmfpdYr4QE1s3Vo+pF4JrSlrULwrRFTQbkMNsonBGFbOu2V6uNN5nev8sHl7aFlmVDL0wV/ojLSTkRoXhE6AMWygpXg3eotqPOrnr7fL4upVeMG02cqk7FfQtECz/rIEi7iddrWSfffcxHN5nTHCQubs5XQ8MIrA4QBmodsaNtyHkA75pHKSPQ==;2yd0stMqLF1cG+iT+gWbbA=="

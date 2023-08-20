@@ -2,6 +2,57 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-06-26-cheers-can-ai-help-drinkers-buy-a-better-bottle-of-wine.md",
+      "title": "Cheers! Can AI help drinkers buy a better bottle of wine?",
+      "excerpt": "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65959815",
+      "originalUrl": "https://www.bbc.com/news/business-65959815",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17EE/production/_130162160_gettyimages-186478070.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65959815.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65959815.amp",
+      "publishedDateTime": "2023-06-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
       "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
       "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
@@ -1101,40 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
-      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
-      "excerpt": "IBM is riding the current of both of these powerful megatrends. “IBM Watson” is the company’s core AI offering. It integrates with the Red Hat hybrid cloud to enable companies to pool data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "originalUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

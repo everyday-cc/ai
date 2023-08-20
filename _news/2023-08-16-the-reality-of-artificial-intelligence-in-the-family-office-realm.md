@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "The world has a big appetite for AI – but we really need to know the ingredients"
     excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
-    publishedDateTime: 2023-08-19T15:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients?ref=biztoc.com"
+    publishedDateTime: 2023-08-19T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
     type: article

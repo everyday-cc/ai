@@ -2,9 +2,9 @@
 category: news
 title: "The world has a big appetite for AI – but we really need to know the ingredients"
 excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
-publishedDateTime: 2023-08-19T15:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients?ref=biztoc.com"
+publishedDateTime: 2023-08-19T14:00:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
 type: article
@@ -84,6 +84,6 @@ related:
       domain: aei.org
     quality: 19
 
-secured: "VgwF9fj5kK8o9JbIQzetkMhf4Q4hmA+uvrRVaWEKZfTB3QdkOsRCY5hR3G9+vdimSi3eMEPdKGASyTUu567DSMHZVy15YvoU/2vLJTeVV4sDxjzIqK6r4ra+s+TFUHX4sjlxJtj/ks7SwMWqgeKWZwn8H8/nDnyi+1hd4/kERaXDj4qyQCCnJ5kdvkIXLxwYCY4PouXM0kLofVGWPT1szcxLoUa46H4VX0HNhGQ54OOIzISukswJ+655fINV3lH7xX8A/9kcIwHj9I4ljGDwwgJHTV74Bln5yMHa3C4MP55g9kuh0muFJ12pE6+XevTXaQtirXVI08MX/laXn93JEQmrxVO+tFzs02DIBJYZlxw=;9XsGh3wVs9SIr31nPfDUeg=="
+secured: "ac2ktw0YE2N+Y+9lVS9XtdDcD8AvvZgYxYTls7+LIUU2H52tdNbx6ALrN+NF4GE+jDNSG3xctrqtiGagsqc6Oit9M0Bsd64smspY9T0uvBoBQe5qotveewPgCPvNw7kSd+TgAftZmHPEocRiXVhsTyM8q0P/7P9MKLeHbb/7vUZVbVhtcJ92U4RAUVk/NcBJE7vVViIwL2UynG7mPawZqqAvzxezkJdcc5Rp/RuWUuTs4VXqdqFYmnIBIR2fMm7WGce+ROp5Owuz0yS1qRb7UJTUT5lSVhXzKx0u7lBUTiyKSKnpkldW9AIxKHvOP3a7HXfa5YPdlFyGRkN4QkPVTfsMM7QJ7a3HcRD7gXhJlDo=;jMCuM5IBcbrR+6gwNshapg=="
 ---
 

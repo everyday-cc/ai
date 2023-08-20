@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
+  - title: "Regulating AI in schools could be a top class innovation"
+    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
+    publishedDateTime: 2023-08-19T22:50:00Z
+    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
+    images:
+      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "How AI Can Scale Personalization and Creativity in Marketing"
     excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
     publishedDateTime: 2023-08-16T15:43:00Z

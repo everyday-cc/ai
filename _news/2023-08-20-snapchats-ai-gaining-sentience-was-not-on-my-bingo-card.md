@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Snapchat just confirmed people's worst fears about artificial intelligence"
-excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
-publishedDateTime: 2023-08-16T18:51:00Z
-originalUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
-webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
+title: "Snapchat’s AI gaining sentience was not on my bingo card"
+excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."
+publishedDateTime: 2023-08-19T22:15:00Z
+originalUrl: "https://bgr.com/tech/snapchats-ai-gaining-sentience-was-not-on-my-bingo-card/"
+webUrl: "https://bgr.com/tech/snapchats-ai-gaining-sentience-was-not-on-my-bingo-card/"
 type: article
-quality: 15
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: BGR
+  domain: bgr.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
+    width: 2000
+    height: 1330
+    isCached: true
 
 related:
   - title: "Snapchat users freak out over AI bot that seemingly had mind of its own"
@@ -50,21 +56,16 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Snapchat’s AI gaining sentience was not on my bingo card"
-    excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."
-    publishedDateTime: 2023-08-19T22:15:00Z
-    webUrl: "https://bgr.com/tech/snapchats-ai-gaining-sentience-was-not-on-my-bingo-card/"
+  - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
+    excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
+    publishedDateTime: 2023-08-16T18:51:00Z
+    webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1330
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 15
 
-secured: "iKqRphi0kXZxUmfE0ubBv5bE/0MtZTKe558ufGgH4DMMdCfJM3PwSau0koSNfYR3Fxb7NO8uo8ovx1n8s/fm8dm3UDUiHWZxIbNrfxV5UAYbUqVYKOFpirfKis3x9evVrjSEkE2BXkSL63jj6WV30YO0IPM2ptbCBex34nqBU5NdL2RJtoMMh9AjTH3o8sTDWgj9WYJVVPUEi/i+DEf9CGnaXk0WVOcvz+VV3ESR2++lJq/55DEjkXxuMPX3eXyFCDGFwAePjhJ/cbDXgofTW/XZ0wEZGeJaTpzUeNwx3wVK3aN+eUZAZUowOzjFwNmBIJRZRfZJzQtjUgol6yRlVlWOZ4S2MUXxBHvE9cqBqy2jwGekqOopo6/ZGDc6xcct7Hi2xeV3/Exwfh1ymfTRB4DAIakzxLfNPeig10HlolHMbeJqLxHQy/NWmJaETu0Q3Upf8FYJr3zJsgaTpF8Q4rc6ajkYFTHTtmb38FXMv8SHuXnxqgM+nXyA7SUHZZF0zKJUAYnxxbtSy/JI7t9cUg==;y7VsPYFSgjvPri54O/5Kag=="
+secured: "FZDZobPWIf4n1fbSsI+I7e4++RKjTNJk5DbDHzq6q/PJzwAfbQVcOxlV1/itiM6j5rec1V3CkWafu2vQtOF/qSimn0hZmJnGcsl7JyNujHlvMhiHiIHH1LcDgri7nNpHIiEW25rne1I+CwSiOWvzrnI+OYVOky/6ZgZVyjASexZrDpFZvXb5KhMjpKd+rHyEu9ZsqsAE9kraDYnwLX3V1kyNDgMpzhv5shJO+Z7PILQLyNU2J0dNHVSl25OYCza6FBkMU5aoELS9ZWIRF1WEkNNlyRQA2scDX4mcwwkqV1rgTtpT6UYD4gSPxzjrxDu/Pzj9HrfqcAxVTb0Uw8vEY6/SHVCMrIbM5/HF0heTIyc=;7Tg/aFkc9thSL5x64M6j6A=="
 ---
 

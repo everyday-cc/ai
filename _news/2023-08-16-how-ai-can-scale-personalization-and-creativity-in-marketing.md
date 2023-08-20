@@ -98,6 +98,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
+  - title: "Regulating AI in schools could be a top class innovation"
+    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
+    publishedDateTime: 2023-08-19T22:50:00Z
+    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
+    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
+    images:
+      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
     excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
     publishedDateTime: 2023-08-17T07:49:00Z

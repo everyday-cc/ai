@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Snapchat’s AI gaining sentience was not on my bingo card"
+    excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."
+    publishedDateTime: 2023-08-19T22:15:00Z
+    webUrl: "https://bgr.com/tech/snapchats-ai-gaining-sentience-was-not-on-my-bingo-card/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1330
+        isCached: true
   - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
     excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
     publishedDateTime: 2023-08-16T18:51:00Z
