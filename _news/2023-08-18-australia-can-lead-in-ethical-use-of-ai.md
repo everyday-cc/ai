@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sydney ISV Cloud Ground Control teams up with Robotics Australia Group"
-    excerpt: "Sydney-based artificial intelligence and cloud robotics software vendor Cloud Ground Control has signed a strategic partnership with robotics sector body Robotics Australia Group. The partnership ..."
-    publishedDateTime: 2023-08-15T09:30:00Z
-    webUrl: "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group-599203"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/CGC--Robotics-Australia.png"
-        width: 2048
-        height: 1132
-        isCached: true
   - title: "7-Eleven Australia to deploy computer vision in some stores"
     excerpt: "7-Eleven Australia is set to deploy a computer vision-based system by startup Grabango in a selection of stores that will remove the need for customers to purchase items at a specific point-of-sale. The convenience store chain said the project uses AI to let its shoppers skip the register."
     publishedDateTime: 2023-08-17T13:15:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/sandwich-customer-hero_7-eleven.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "7-Eleven Australia to deploy in-store computer vision for cashierless checkout"
+    excerpt: "The technology uses computer vision and machine learning similar to that of autonomous vehicles to track a product's location as it leaves the shelves, enters the basket, and leaves the store, and is tied to the customer app update called My 7-Eleven App Pay and Go 2.0 that will go live at the end of 2024."
+    publishedDateTime: 2023-08-18T10:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/7-eleven-australia-to-deploy-in-store-computer-vision-for-cashierless-checkout/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/sandwich-customer-hero.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2E2QHSgjFOTpLn6VoixAuM2B1VsbrYX9n8fFmaQaCKgzuZhoQOMhxo+m5BpDrdexvYt3OhGpxpZo9yzjiUIfeQMvY2RTWuuR4OImJGbvqdTVz6YNMCqgCv74uMAGWFCo8WzmIZUNKeo8APkDqTK7Z468MdINnDt2FJZUNbg+KrOeeo1+LMXXBtx4XFisjW6858fszeTh1mzNLTfy2t+Vbvx4yqAOlCmtcfXMm4GMSyiEq1KJZw1foe12Vn1awyjdtTkEX+qhr6qWV2VNh2ofGWcHbZv/pTvdjatioZ0/NKOc6E+UqtVx78X+KZKYV+i+pk/8lRC1rfpICMKSTQh/YKxltnnoPl8W65jqX4XnP0fIl6sxzOSmEg/A+GwiqGAAwrolkh1bA1h3DNRp1vsu+TApvwm79kSoVtQMa76Zl1Lc5SvBecrZoCjg7Lq53hj7NB9+6j4sKYAT87w/vGwGYrHmwpHsHz45oouMzDoPD99jrRc1vJ+fQkEJAnP3Sp/LANYbaysypFTYS+Jl8n0YwQ==;x9OzOCv2tuFiayoo9Vsl0A=="

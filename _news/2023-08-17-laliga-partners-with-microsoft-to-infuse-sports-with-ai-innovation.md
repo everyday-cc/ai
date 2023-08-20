@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
-    excerpt: "Exploring the Resilience and Growth Potential of Microsoft's Stock: An In-Depth Analysis of Factors Driving Microsoft's Financial Health, and Future Prospects"
-    publishedDateTime: 2023-08-15T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/"
-    ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How to use speech to text in Microsoft Word"
     excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
     publishedDateTime: 2023-08-15T16:41:00Z

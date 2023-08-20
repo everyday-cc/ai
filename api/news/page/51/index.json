@@ -2,6 +2,152 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-14-yes-ai-could-profoundly-disrupt-education-but-maybe-thats-not-a-bad-thing.md",
+      "title": "Yes, AI could profoundly disrupt education. But maybe that’s not a bad thing",
+      "excerpt": "Humans need to excel at things AI can’t do – and that means more creativity and critical thinking and less memorisation, says academic Rose Luckin",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0f5ff9cf53f0073e9ba98720070c09caa00d7085/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=0ba4c42a04b25c9d52561b57c20e492b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game.md",
+      "title": "Infinite Canvas raises $6M in funding, launches AI-powered Discord game",
+      "excerpt": "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
+      "originalUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-bunnings-makes-facial-recognition-technology-a-condition-of-entry-at-store-in-preston-melbourne.md",
+      "title": "Bunnings makes facial recognition technology a condition of entry at store in Preston, Melbourne",
+      "excerpt": "A customer's photo of a point of entry sign at a Bunnings store has raised fears it has quietly reintroduced facial recognition technology - but the hardware giant claims the sign is just part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/07/14/04/73201751-0-image-a-6_1689307091993.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "publishedDateTime": "2023-07-13T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-1-potential-ai-winner-thats-a-screaming-buy-despite-gaining-148-in-2023.md",
       "title": "1 Potential AI Winner That's a Screaming Buy Despite Gaining 148% in 2023",
       "excerpt": "Grand View Research estimates that the adoption of AI in digital marketing could grow at an annual pace of 26% through 2030 and generate $82 billion in annual revenue. Given that Meta's Facebook ...",
@@ -1026,135 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-natural-language-processing-gcc.md",
-      "title": "Natural Language Processing - GCC",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$226.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integrating-microsoft-text-analytics-for-health.md",
-      "title": "Accuity Announces Proprietary Intelligence-Infused Clinical Documentation Review Technology Integrating Microsoft Text Analytics for Health",
-      "excerpt": "A leap in revenue cycle management, Accuity's innovation is one of the first to analyze medical records through a physician's lens ensuring each chart's coding accurately captures the patient's clinic",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33221292",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33221292",
-      "publishedDateTime": "2023-07-13T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-musk-warns-of-terminator-future-in-ai-race-as-zuckerberg-prepares-chatgpt-rival.md",
-      "title": "Musk warns of ‘Terminator future’ in AI race as Zuckerberg prepares ChatGPT rival",
-      "excerpt": "Earlier this year Mr Musk signed a letter warning that “out of control” AI research by “unelected ... the popular chatbot tool. The Facebook-owner previously released a free AI bot for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/07/13/TELEMMGLPICT000342454197_16892387650800_trans_NvBQzQNjv4Bq5yQLQqeH37t50SCyM4-zeGcv5yZLmao6LolmWYJrXns.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

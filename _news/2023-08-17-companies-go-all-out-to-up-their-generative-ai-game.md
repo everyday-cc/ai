@@ -186,15 +186,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "VMware’s future: Navigating multicloud complexity and generative AI under Broadcom’s wing"
     excerpt: "Bottom line: AI is increasingly influencing the IT landscape, with ramifications on spending patterns and technology adoption. Although VMware seems poised to leverage this trend, the success might hinge on how effectively they can address software gaps and fortify data partnerships to provide more competitive AI solutions."
     publishedDateTime: 2023-08-19T15:42:00Z

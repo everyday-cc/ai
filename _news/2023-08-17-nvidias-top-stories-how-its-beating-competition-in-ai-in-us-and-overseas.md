@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,65 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Arabia and UAE invest in thousands of Nvidia chips, aiming to become global AI powerhouses"
-    excerpt: "The Financial Times reports that Saudi Arabia has bought at least 3,000 Nvidia H100 GPUs, which Nvidia CEO Jensen Huang calls the first chip designed for"
-    publishedDateTime: 2023-08-15T10:18:00Z
-    webUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html"
+  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
+    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
+    publishedDateTime: 2023-08-15T15:26:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
+      name: CRN
+      domain: crn.com
+    quality: 51
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg"
-        width: 2100
-        height: 1181
-        isCached: true
-  - title: "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT"
-    excerpt: "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing"
-    publishedDateTime: 2023-08-16T07:48:00Z
-    webUrl: "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/"
-    ampWebUrl: "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 65
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/08/Nvidia.jpg"
-        width: 1000
-        height: 560
-        isCached: true
-  - title: "Race To AI Supremacy: UAE and Saudi Arabia are falling over each other to woo Nvidia for chips"
-    excerpt: "Saudi Arabia and UAE are investing heavily in AI and AI Chips, and are practically falling over each other to woo NVIDIA. Saudi Arabia's King Abdullah University of Science and Technology or KAUST has"
-    publishedDateTime: 2023-08-16T08:07:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 62
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Race-To-AI-Supremacy-UAE-and-Saudi-Arabia-are-falling-over-each-other-to-woo-Nvidia-for-chips.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Saudi Arabia giving an arm and a leg for Nvidia chips"
-    excerpt: "AI arms race in the desert sands Saudi Arabia is buying up thousands of the high-performance Nvidia chips crucial for building artificial intelligence software to join in the global AI arms race. Saudi Arabia has bought at least 3,"
-    publishedDateTime: 2023-08-16T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/57429-saudi-arabia-giving-an-arm-and-a-leg-for-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/8396cadd0f4696d8d1c4cc0ac890d7bb_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
+        width: 700
+        height: 394
         isCached: true
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
@@ -101,15 +55,6 @@ related:
         width: 1187
         height: 667
         isCached: true
-  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
-    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
-    publishedDateTime: 2023-08-17T19:47:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 33
 
 secured: "XT4BOvuaW9h1GgxE1/vu5rXPGTLuvv7f4Ys0wbi1H0CS4LB58Bt/P79EYm+LbYVJE/yBZh6lClJP5nSyZEys1Ou3Sjd8YlZKyeMROrmBaeZzfQzPKOLBjaNtqMs4He/2eZodimYP0TzOEZjjy/oHAhEFAbYfnc9JxkJVTDHU7CqDHCnoW57tsjbv816PgqDcOxnOO5cqVIs2TH9U+r/XGRhcJxKv1Bz4djWK3je9reYYXpxtlv1WeFHKFsAyg0laTHYfUxdiz+uDjfPAYst9htcs//k8PndUA1BFfUF4GdTfh97r4uhj5ncGUYh85lcmA6PXfSaZiRaYYuhhJpQzZvyMxB2U7ejh6nrNu9fquUI=;FUv/ZTAVmA5KjrLBwyx9vQ=="
 ---

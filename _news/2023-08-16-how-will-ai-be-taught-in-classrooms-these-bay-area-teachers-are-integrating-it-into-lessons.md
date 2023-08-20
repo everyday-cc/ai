@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Even With Some Cons, AI Should Still Be Used to Empower Students in the Classrooms"
-    excerpt: "Urquiola, Assistant Professor at the University of Notre Dame, discusses AI’s impact to empower students in the classrooms."
-    publishedDateTime: 2023-08-16T17:29:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/even-with-some-cons-ai-should-still-be-used-to-empower-students/"
+  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
+    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 33
+      name: News9
+      domain: news9.com
+    quality: 36
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/Screenshot-8.png"
-        width: 1900
-        height: 1062
+      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Dme3ePf8LGdc4ecw9pxWzjuyyrmppSLWB+zACW5nR1tlMh5bIf8tab6uJ1vsSujnJ286zbviMHUN6QS+jdUwFMG7HvM8TeBhzHRwoHmteTuHt5+6o9Sb/cMipyLXp7Dj3KlUo10scOxk+wNlzy+H9YcJqzecZWrkGygtiRidfwR1HPEBFvkd2j3OBK90UDit0F5bSDfg0HUA4uWzTfwvobHgcjIWyefueG6uDbf+aSctVym4na5VIay9afuE+uj/YOOnfKHQuslBIsDZeUDY8SoFSadRmLLlgOfd9cZsK2bel5zMBPAL+eNcqJeODZaDIJMLtUXKNZmGOSISyLv0V6pFRO6s3KIgRLS8IGb96erzSCYgKmErob3DvVpHewyLCA24vevH++rTId0AZZVIzjkPhE8NY5yd+oKMdRHhZHAZwBBZXJiFBFA8Cc73tLDGO9Qcu9lBE8OQ1a9NqwOpa5HxHjtxuIuACG7EkCR/XqorYbg2JIVaErXPI1xxeUjI8bJgA5er006QMto/zapYzQ==;JJMRrDKCL1Q1EFGAyZskAA=="

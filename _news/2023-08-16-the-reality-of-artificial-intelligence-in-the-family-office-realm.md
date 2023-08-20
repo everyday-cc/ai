@@ -57,15 +57,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
-    excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
-    publishedDateTime: 2023-08-15T10:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/japanese-ai-advances-offer-lessons-for-the-rest-of-the-world/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
     publishedDateTime: 2023-08-17T19:50:00Z

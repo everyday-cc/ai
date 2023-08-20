@@ -62,15 +62,6 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
-    excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
-    publishedDateTime: 2023-08-15T10:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/japanese-ai-advances-offer-lessons-for-the-rest-of-the-world/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
 
 secured: "uoha6isaOxObyq51z8fr1TcUM9D8o17KrbS0HZ1K4GZBwt+YyNzqaTbyqiREXPeJ/102IlYq2T9extsTQKq7LkS3kMYEQvRUr62owjGBVqP3W015dMwx41+8MHZv87bgPs0yOTHTA/MbxvQB9QlkR+rQJaAoYR/ixXiIxoYsfN+bBkMb3tx4AgmgjAHMq6VFVV/Om589xEHunXCgYXUsRW4H/YuRfMcNwGMf5wlrS6aOc44peI7Dt4IAyOK96BA+XsBYS/pFQtbmFAtL+/PLabiD17YBo44NUkQcmKJ1WPFH0swTUYwCcEQLKBovMEkby/tsed9S/XWlcwYfDO3zRHozOI6kq7THCwW0Cyo8BAPiA70WqiqyGNhR8kdBc0pXoq+pnatk9lqsYYRCwVobdVA+tCnudsFIMaVEAP+E9HDU0jN24hqmXwBMJ0rzaEx8pib2N+jPT8NWcqpiqTgqv2ezYlL3OwSZ33OlDABZFyhzYDUzcFym3PtO21z7YvHhtH/3ZAlILQleHYZgCbUW/A==;rB7ocQW1qf6bYea0GDOYMw=="
 ---

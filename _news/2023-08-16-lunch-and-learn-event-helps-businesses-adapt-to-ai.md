@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Take advantage of AI and use it to make your business better"
-    excerpt: "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
+  - title: "How businesses can ensure a prolonged AI summer"
+    excerpt: "As gen AI evolves at a breakneck pace, the specter of an AI winter looms, but so too does the promise of transformative breakthroughs."
+    publishedDateTime: 2023-08-19T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "Why Your Business Needs A Winning AI Strategy (And How To Build One)"
-    excerpt: "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ..."
-    publishedDateTime: 2023-08-17T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_graph_showing_positive_growth_with_a_summer_scene_beh_1c5f62aa-2ba9-4999-8cd2-2deed5df7024.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
   - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
     excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."

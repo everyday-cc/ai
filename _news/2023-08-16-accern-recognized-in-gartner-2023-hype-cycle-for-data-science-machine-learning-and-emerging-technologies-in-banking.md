@@ -100,6 +100,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
   - title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
     excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
     publishedDateTime: 2023-08-17T12:25:00Z

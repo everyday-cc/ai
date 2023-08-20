@@ -193,15 +193,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-18T18:52:00Z

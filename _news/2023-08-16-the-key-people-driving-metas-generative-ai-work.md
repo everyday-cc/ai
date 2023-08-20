@@ -19,21 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "The looming battle over where generative AI systems will run"
-    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
-    publishedDateTime: 2023-08-15T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+  - title: "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities"
+    excerpt: "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI."
+    publishedDateTime: 2023-08-15T17:02:00Z
+    webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 77
     images:
-      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "How Cutting-Edge AI Technologies Are Helping Companies Establish Trust And Credibility Through PR"
+    excerpt: "In the fast-paced, crowded business world, credibility is the one thing that can cut through the noise. AI can assist in delivering high-impact PR campaign results."
+    publishedDateTime: 2023-08-17T02:24:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dd82facaec195bbc3d5165/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 1200
+        height: 800
+        isCached: true
+  - title: "Governments, including Washington State, making policy for use of generative AI"
+    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
+    publishedDateTime: 2023-08-17T21:19:00Z
+    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
+    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
   - title: "US military’s special task force will explore generative AI"
     excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
@@ -43,15 +87,6 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 17
-  - title: "Designing Generative AI to Work for People with Disabilities"
-    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
-    publishedDateTime: 2023-08-18T12:05:00Z
-    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
     quality: 17
 
 secured: "HZ3Fi8NFJFklmiexwwAeNxlT618VvZayPahT5rtUE98MtVf79LbkigACku5mB8nm76/xdsULsO97dQv2idJzdaqTk3+NP5rfSZNbaklNLZC3zBjAKCX4f0dSjc30CU4FlvIIZbMkYgrRBBiG338N3ehgSS2SDkyG1C0Layhs5QZ0k2VmIPoA/twBLbp7vSJSu4WYsIrcWShGZ4qZzHBDcOqiIF9UxpayOqc5/RMcQI9IroBDxNwkVh6W1F7iAHBkUfJ2lRSs0I2sKpD6ASPIzoJAjKwROxtx2mrk7Y/tys5qifz/iSE93r5SP1DVrIX+Dh3uBoZuCPGVM+6/0wu78IyI3ruvyZoAXtNOVO1WFYvFmkW2FE5ldG9goKI1+4fXWBmG+KR6DheWkKHsLIwAWHU1U++VDC+mweglFWx2bbqt5jt8VvIqyawQpiD4tLZKttsAdoE1y7kOszopK1v3q9y/rjB8jxDu08dJ7dAWaiv1vaSj75UV7oNXy7wrkvvTKyZY7Z94gwRfTX+LxEjHzA==;omEfANzjSQR/cA27c9/peg=="

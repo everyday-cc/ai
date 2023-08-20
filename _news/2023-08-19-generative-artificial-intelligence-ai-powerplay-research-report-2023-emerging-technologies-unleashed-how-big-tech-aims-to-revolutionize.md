@@ -90,6 +90,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
   - title: "Accern Recognized in Gartner 2023 Hype Cycle for Data Science, Machine Learning, and Emerging Technologies in Banking"
     excerpt: "Accern has been specifically acknowledged for its capabilities in Adaptive Machine Learning (ML). \"We are honored and thrilled to be recognized by Gartner in these two critical areas,\" said Kumesh Aroomoogan, Co-founder and CEO of Accern. \"Our focus has ..."
     publishedDateTime: 2023-08-16T10:40:00Z

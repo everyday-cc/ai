@@ -91,6 +91,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "India to expand digital payments with AI-powered voice transactions"
+    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
+    publishedDateTime: 2023-08-20T02:00:00Z
+    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
   - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
     excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
     publishedDateTime: 2023-08-19T00:28:00Z

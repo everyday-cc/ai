@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai
 webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
 type: article
 quality: 77
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -76,6 +76,24 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "QmHRQNFdlQigoZguwvE2JfLQYoigIsl88e8KG0BYCU7bYDzH5mIVraY8mJhpEAIEokiH8eu0XyGz/ciFdAlVrlfYeBIFRoGSt/SuWg29HFYUfaUm7T4X+hIAGRre4e5opiPS+qKgqkusPC9Gl+j5tOFR2FBxgEIHu65P5MexrQKyOvIUk54e9XAKzcwpkADBVMW/KvucqO4NekhSgwCHUiYVTtyprUZiQaWisK+JCmed3z9tNZFdxa0HvuK256rpZQd4ml1hB8Qy/ya8TW58L4Fa7rAEQVt4scV6/fQ5meb02YcyIOs93NpnUoxVc2brKwP5nbHOzfQRqOx/q+EqL+wjMmSB1Sbufb7GtNn81ks=;XWvB4LhfcXP6TenDmYhxyw=="
 ---

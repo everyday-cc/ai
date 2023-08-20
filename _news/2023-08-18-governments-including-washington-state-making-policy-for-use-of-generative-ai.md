@@ -71,6 +71,24 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "FFqyc8t76IvKaAZ2KANyREOd9clJ0KznIgzK1OJZABb6YfncSvg80pCJ7YVbrPU3o1zAppXTq9ZOwDZLJ4CtqbJ34+vKR/HEcBk+vj6VI0iumOjDdBBLh7iHdyFefz3jmMbJulbM6ha37hV77U27/u4JpQPblrAw43DW+e6OrlvoekjpiyZQfx9bKGmDFSNH3cCHX+5r+pzUi/4A8cNd223Tkl5wnDzXUbBCKFFGlDRvySfEFDY0EaQk5vm+OTlsIHeFcb7oXZvfvrFVSK7diOsxnDw5tlQUtIDTuxA/Atx9HDt32glBdzoXUr1CozJ5OelfI2j3E9GNo0ekDawC01nFxDLmvoog2FmE9WV0FdKH6Q5XbHtPOJAekR8JWtkvvJ6X6vQrw1u6iy2jnBOfkIESVLKs6hYVqkUr9I+sK/7G7aPunVTmbRYHgRfMgTQc5+jXwHVYl11eQzr5hz7N9l0Uf3ju0ZEZY2/lbp0rtCTvol/h+D0bMdjp30r2NcYitWdLL/RjvZGaA4l2yTafkg==;zGcrRFangmfoabYzOt7vvw=="
 ---

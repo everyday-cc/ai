@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/india/digital-india-expansion-approved-
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "India to expand digital payments with AI-powered voice transactions"
+    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
+    publishedDateTime: 2023-08-20T02:00:00Z
+    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
         isCached: true
   - title: "Breaking News Live Updates: Building AI-powered language translation platform to support digital inclusion in India's diverse languages, PM Modi says"
     excerpt: "We are building Bhashini, AI powered language translation platform. It will support digital inclusion in India's diverse languages: PM Modi"

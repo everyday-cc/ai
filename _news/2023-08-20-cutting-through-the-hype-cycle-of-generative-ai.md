@@ -182,15 +182,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "VMware’s future: Navigating multicloud complexity and generative AI under Broadcom’s wing"
     excerpt: "Bottom line: AI is increasingly influencing the IT landscape, with ramifications on spending patterns and technology adoption. Although VMware seems poised to leverage this trend, the success might hinge on how effectively they can address software gaps and fortify data partnerships to provide more competitive AI solutions."
     publishedDateTime: 2023-08-19T15:42:00Z
@@ -242,6 +233,6 @@ related:
       domain: medcitynews.com
     quality: 0
 
-secured: "+pe7+awPrllOCWUNNAOLCk3/WZPzzxBCJ/HygmqY1TRMG3IARKr/So+ivIO5FfPjuoKA4+BjS89D+eJMsfA9kRNn9QnMtv06S51GuK+du8YiGI8c2KnVuBpmuLNULRwGwm/YGPYwkWUIqFETpT3GkfaLJih9nX3X+WI6YkRasIgIzi8f0lhiyhJqq3dQR+57noS1szqrsDE8Bkfx6PxSHs7Tt9xrgg95R1OMVZVamnoq7BwbpeF3WWe0ZnL2cQzhN5Y5G2tBUypSEtxQVyiFhxSs/PrPZvZsv8cOtgOLnPUe2jnSBScn8slu8iDJ/0gYSZBQnNU6fZ30dfgOcOztL/FhAk1CdlnnLwMMSmdDB+8=;TbYd3REuEnDdAheP+fMGVg=="
+secured: "gyLyIK1VaW+xqNRxiIOyjwaXIXN8kBiDtmTXUxPjTU0BxIh5MHDRl9kTOCH+xeaFVwbVOuyyVkYYxTTIhSlg9RYNNFF1qfqGHfDB8Xykcw14E2M313mXPCAU4K9HBr71rYlvHPL5J5EM4hMBBvcNbpb79ufIHA+31S4Ayg+z+VdMyey9hvpl5VkFzJNyhSkBZDtnYVSypu9AGcBuEcuNGe0n1HoywQwkfSysjezcgG7txa7sg5NcGMz4EeECMoPbG7SvJyuw2CYbgO6BUtxuFMu44Oc5x8Mb3DIdTk6BBvLMtfk26dTgcTgGp9v9Hpbq2Z4QCaxzbDCyaRjRFXz5oFXlnQFCMOau6Zbni9ag0bzon4w0NjRreSNKGYaOxTHYCoaqq6Yv6kMefMkHIgnTS+bSry40KcXwOaM3RkuwyOfelkscemnb3WxFB4125LLab2VDCO6evNp9lGStjn+c7ho0LAw7OHmPy6NNbHpYtw25r3cGtZ/G8nKO/+GFfte/8h6Wt4Gu7uSppaDDLoSm8Q==;Hyux5yzjun0LrElaHb16Kg=="
 ---
 

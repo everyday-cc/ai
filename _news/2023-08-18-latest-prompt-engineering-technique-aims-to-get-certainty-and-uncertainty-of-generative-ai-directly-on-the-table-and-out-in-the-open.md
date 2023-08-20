@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-eng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Bold Promise Of Mega-Personas As A New Shake-Up For Prompt Engineering Generative AI Techniques"
-    excerpt: "A rising technique in prompt engineering for generative AI consists of invoking mega-personas, a step upward for ordinary multi-personas. Here's how it works and more."
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da94ace7c7bdc557635ebc/0x0.jpg?format=jpg&crop=2808,1909,x365,y206,safe&width=1200"
-        width: 1200
-        height: 816
-        isCached: true
 
 secured: "/m2b8gUwRnAO9Rkdm/2nmx4j4wlSDCyZg8bIZi+S37h/vbimcuQgRt9/nNSdd7E9lEECQ9QWq0RfQTZGNf37RTUj3e87QcFdJEjIL0u/awu+Ft0dxH9MgMMBpG+b+fnApAcxQySJAYe2p/QR0bPmRK3DjX8Fh9j02fTE4WAhAQaoitCnwczMUVYmSOAcCLlyZuewSW//jJsQPOWNkJB202ivAQsk5lnA6YtYnfNHzCKtuK+5vLm1WXILcU5ypt0VFW8n8uefzhDTHFzRzC9zKvwI4kYELTE99bDXZfvwLZnOKMHcf9FMqRUqIs131cdYdmuKduRfjSZ6NBiPo8hhI5n/8dWfL+kBSVFv4nfhNfA2+rzI0lWxRF9eRmUyyoxDt6AR3C+JPeU2Saq9irgsHVn+6X9M6eneLyCb1HGnV25fDuVoSuWYB3wtyPxsHscfgiw5nX7wOYQMfB7HyLVyK9kxdFZfv0IX9Z0r/YZNzRWXTyQPPMr6uw2PaEl3vvUWeI5NcZxcpT1a1NEc+dqjZw==;Ewo5USkugLxweETAQ/gTRA=="
 ---
