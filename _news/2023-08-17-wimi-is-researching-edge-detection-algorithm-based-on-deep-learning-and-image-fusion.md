@@ -34,7 +34,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 44
+    quality: 46
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
         width: 1920

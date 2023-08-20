@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-20-uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports.md",
+      "title": "UK is in talks with Tech Giants on AI chips, Telegraph reports",
+      "excerpt": "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/08/20/1600x900/Rishi_Sunak_1692539300482_1692539300882.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "publishedDateTime": "2023-08-20T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-the-desperate-hunt-for-ai-booms-most-indispensable-asset.md",
       "title": "The desperate hunt for AI boom's most indispensable asset",
       "excerpt": "For the past year, Jean Paoli, CEO of the artificial intelligence startup Docugami, has been scrounging for what has become the hottest.",
@@ -200,7 +243,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1359,40 +1402,6 @@
       "provider": {
         "name": "HotHardware",
         "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip.md",
-      "title": "Nvidia's stock slips on introduction of new AI data-center CPU+GPU chip",
-      "excerpt": "Read: Will AI do to Nvidia what the dot-com boom did to Sun Microsystems? Analysts compare current hype to past ones. AMD introduced its MI300X CPU + GPU at its AI product launch in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

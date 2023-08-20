@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-ma
 webUrl: "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Wired
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "There’s Too Much Money Going to AI Doomers"
-    excerpt: "Nonprofit groups that fight AI harms today are getting far less funding than those preventing a theoretical AI apocalypse."
-    publishedDateTime: 2023-08-15T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/08/16/ai-apocalypse-there-s-too-much-vc-money-going-to-doomers/ada4388e-3bed-11ee-aefd-40c039a855ba_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 19
 
 secured: "ssdfdppeCefoLqmVhXzhrBs7JPxxefYG7wtXE0zoSHNCQC7haJyzUvHuWF1coLRasNkrEBGPDOr0KwLPGWIqu2dS0aXWk1jxg2c/vzGLPv8bavUkn3CuShx/04cXLgP6uXRynqFRB7OxZjTj1tjmVRVy+vJeVeayWhDwh0CmnNy0sssRUvLNxL9FKk50RXYZDhhljL52tIwsMovdtSEMtepNKB9K+/VhgZa7bkDUfJFAVCd30u2NKhECEuPGecKGi+tMS18F/+4lHO6iSjbIGXM5kIyE66V98DVKKbOvAHzrX3kuZROt6GGi78/ZB9JsEbYrRfXXwy0fkpJMUjVcYUwgV+DOeJz5EJTpkil7t1c=;Y5mGDLOGBsvVCp87U5XaSw=="
 ---

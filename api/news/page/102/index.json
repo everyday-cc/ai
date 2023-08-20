@@ -2,6 +2,151 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-06-14-the-real-secret-to-a-successful-digital-transformation-human-empathy.md",
+      "title": "The real secret to a successful digital transformation? Human empathy",
+      "excerpt": "According to Debbie Vavangas, IBM Consulting VP, one of the main reasons digital transformation efforts fail is that organizations don&#8217;t fully account for the humans involved. They don&#8217;t fully consider the various people working throughout the organization, and how changes affect their daily",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-real-secret-to-a-successful-digital-transformation-human-empathy/",
+      "originalUrl": "https://www.ibm.com/blog/the-real-secret-to-a-successful-digital-transformation-human-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/The-real-secret-to-a-successful-digital-transformation-Human-empathy-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amds-new-chip-fails-to-impress-investors-its-still-an-ai-winner-analyst-says.md",
+      "title": "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says.",
+      "excerpt": "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "originalUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-574599/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "publishedDateTime": "2023-06-14T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief.md",
+      "title": "AI discrimination is a bigger risk than human extinction – EU chief",
+      "excerpt": "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed7d6122dae2ae5743e39dcebd623cd20d0a633a/0_595_5315_3189/master/5315.jpg?width=620&quality=85&auto=format&fit=max&s=0bb181e3b0d8b64b069d8b5391390825",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "publishedDateTime": "2023-06-14T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research.md",
       "title": "2030 | Artificial Intelligence and Robotics in Aerospace and Defense Market Research",
       "excerpt": "Jun 14, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" is segmented into Regions, Applications",
@@ -1013,144 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-from-m3gan-to-black-mirror-here-are-13-movies-and-tv-shows-about-ai.md",
-      "title": "From \"M3GAN\" to \"Black Mirror,\" Here Are 13 Movies and TV Shows About AI",
-      "excerpt": "In the 22nd century, humanoid robots are created ... of the greatest films of all time due to its exploration of artificial intelligence and human evolution. The film centers on a group of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667",
-      "originalUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.popsugar-assets.com/files/thumbor/MYSa931qojs2gmSgxqLBOyWMRT4=/fit-in/828x1500/filters:format_auto():extract_cover():upscale()/2023/06/13/819/n/1922283/tmp_FpfoXc_5c51f38cee8c996d_MCDMEGA_UV011.jpg",
-          "width": 828,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667/amp",
-      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667/amp",
-      "publishedDateTime": "2023-06-13T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PopSugar",
-        "domain": "popsugar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-entrepreneurs-brains-researchers-reveal-increased-cognitive-flexibility.md",
-      "title": "Entrepreneurs' brains: Researchers reveal increased cognitive flexibility",
-      "excerpt": "Using resting-state functional magnetic resonance imaging (rs-fMRI), the study showed that serial entrepreneurs have higher connectivity between the right insula (associated with cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market.md",
-      "title": "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market",
-      "excerpt": "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market",
-      "originalUrl": "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png",
-          "width": 1147,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

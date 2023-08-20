@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-clim
 ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"

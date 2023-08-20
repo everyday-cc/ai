@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-18-oops-self-driving-car-gets-stuck-in-fresh-concrete.md",
+      "title": "Oops! Self-Driving Car Gets Stuck in Fresh Concrete",
+      "excerpt": "Work on autonomous driving technology is moving fast. Many companies, including Tesla, BYD, and Xpeng, are working hard day and night on self-driving cars. Luckily, these efforts are paying off, and now some cars even have test versions of this technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "originalUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/general-motors-cruis-self-driving-vehicle-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-house-democrats-launch-working-group-on-artificial-intelligence.md",
       "title": "House Democrats launch 'working group' on artificial intelligence",
       "excerpt": "House Democrats are launching a working group aimed at crafting artificial intelligence policy, the latest attempt by federal lawmakers to wrap their heads around legislating the rapidly-advancing ...",
@@ -912,8 +964,8 @@
       "title": "One summer movie shows how dangerous artificial intelligence can be | Youth Views",
       "excerpt": "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own.",
       "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html",
-      "originalUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html",
+      "webUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
+      "originalUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1311,49 +1363,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-baidus-ernie-bot-to-be-used-in-great-wall-motors-vehicles-to-enhance-conversation-between-driver-and-car.md",
-      "title": "Baidu’s Ernie Bot to be used in Great Wall Motor’s vehicles to enhance conversation between driver and car",
-      "excerpt": "Great Wall Motor, China’s largest sport-utility vehicle (SUV) assembler, looks set to become the first carmaker to use Baidu’s ChatGPT ... featuring autonomous driving technology and digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

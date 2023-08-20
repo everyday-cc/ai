@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-r
 webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
 type: article
 quality: 69
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -169,15 +169,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Legislation needs to play catch up with fintech"
-    excerpt: "A comprehensive legislative and regulatory framework exclusively for fintech may be the need of the hour."
-    publishedDateTime: 2023-08-16T00:16:00Z
-    webUrl: "https://www.deccanherald.com/opinion/legislation-needs-to-play-catch-up-with-fintech-2649234"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 4
   - title: "Beyond buzzwords: Diversity and inclusion matter in fintech"
     excerpt: "Explore the Crucial Role of Diversity and Inclusion in Fintech Innovation and Growth - Insights from Paymentology Co-CEO"
     publishedDateTime: 2023-08-17T12:00:00Z

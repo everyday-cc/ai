@@ -76,20 +76,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
-    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
-    publishedDateTime: 2023-08-15T23:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
     excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
     publishedDateTime: 2023-08-18T05:15:00Z

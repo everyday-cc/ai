@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
-excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
-publishedDateTime: 2023-08-15T14:29:00Z
-originalUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
-webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
+excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
+publishedDateTime: 2023-08-15T14:42:00Z
+originalUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
 type: article
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing
+  domain: investing.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/thisisengineering-raeng-64YrPKiguAE-unsplash.png"
-    width: 800
-    height: 530
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
-secured: "qWMxoNo6PiiYFRviQKEc421TdGPrVMXQI4d6gzBqq3jbk5izzGyEOPUijUCeD8pqQy1yxwZMPNSHI9i9BUI3igx5dhVSkQBGqE/W9uW1bnXaU6vgvIM/a/uDqjp/eTKKWbjqR8f6t6FGGREIoloHUWCZDfkE9GEPLIaYBy28UtrCLffwP1KeaVqlPJUiYyeTlFugBIh0ZQ2A3uhM4Y93ap2yGgyya18R0rEKV9Rc+ietHDN2qGwQ4xX7GsK1mD3Nzez/Rx/K+U0S3QXQcoKY2CYjw4iY7pS9VXIR9PJkpISVBg0uagCmEDTZpN2xotIpm9ZPjameEi7wm/65cSqkJgOoME38ly6DxRcUQtAGOePSpnc8Y9yN1acAjXWCg+dbSwrpbvPVnHGPhGJ5BlX6j+KBoLiYKtccAArMCnmlo1dS1qiZ7xdIyzQTtl1HL2HArysHXyNErhGQigCsdInuKFULY2Nvp5h4kftLqYZsRcv7YY2AqnkCv9PEngsQX9I2LHPee9HXuEJCtgQUqHOvMQ==;77odZU6MzInKv49Pu3khtA=="
+secured: "LL19GXV7m0i/I6awdMS1+cZoK5/925daNjatZze3Ql/2xA4SUQGAtuocScLAei08BpDK21n0sSfe4k22aCDOl8dmoy8XDV8dmvMDlEO/B1QKksgb737NznDWPAduax0Zyzuh2LZjyqKvFb+pJl9RrpLqCXc5kEMMbr+8jzJF0MCbzMmc4wjgHDs8u2c5yyq6NaKFQ1BR6mJ1PTfln/qzhgAn1CMutTRIYLAqF1TIWB4Ani4MsV1hQ+FZe+N1WwelL+IwimWWkp/9zkNkCw+QHvoaHWK9mVCLwXkRZyywFz44YSs4flh3GA/DHcsr8qZ81yJIDZ0TLGs9Keq5Z2w1qRzR7AUvcjsmGQ2Yv4qprmw=;xrgpN49aZdG/zZ+yGHoAqw=="
 ---
 

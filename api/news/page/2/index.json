@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-18-will-ai-replace-freelancers-using-ai-to-grow-and-empower.md",
+      "title": "Will AI Replace Freelancers? Using AI To Grow And Empower",
+      "excerpt": "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
+      "publishedDateTime": "2023-08-18T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.md",
+      "title": "Buy this chip stock to ride a 'wave of AI-led growth,' according to B. Riley Securities",
+      "excerpt": "Moderating inventory headwinds and a reacceleration in hyperscale spending should propel this chip stock into its next growth wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-applying-cyber-resilience-to-dora-solutions.md",
       "title": "Applying cyber resilience to DORA solutions",
       "excerpt": "A strong cyber-resilience strategy can help organizations protect against and rapidly recover from disruptive cyber incidents.\nThe post Applying cyber resilience to DORA solutions appeared first on IBM Blog.\n",
@@ -338,6 +442,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-oops-self-driving-car-gets-stuck-in-fresh-concrete.md",
+      "title": "Oops! Self-Driving Car Gets Stuck in Fresh Concrete",
+      "excerpt": "Work on autonomous driving technology is moving fast. Many companies, including Tesla, BYD, and Xpeng, are working hard day and night on self-driving cars. Luckily, these efforts are paying off, and now some cars even have test versions of this technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "originalUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/general-motors-cruis-self-driving-vehicle-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -747,7 +903,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1040,57 +1196,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-17-a-letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-ai-doomers.md",
-      "title": "A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren't Actually AI Doomers",
-      "excerpt": "In March a viral letter called for a pause on AI development, warning that algorithms could outsmart humanity—but many experts who signed on did not believe the technology poses an existential risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/",
-      "originalUrl": "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64dd7458984161b7583de55c/191:100/w_1280,c_limit/Pause-AI-Signatories-Weren&#x27;t-Actually-AI-Doomsdayers-Business-1437113509.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-17-otterai-partners-with-slack-to-share-meeting-insights-with-your-team.md",
       "title": "Otter.ai partners with Slack to share meeting insights with your team",
       "excerpt": "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack.",
@@ -1138,109 +1243,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one.md",
-      "title": "Why Your Business Needs A Winning AI Strategy (And How To Build One)",
-      "excerpt": "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
-      "publishedDateTime": "2023-08-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-the-associated-press-announces-guidelines-regarding-ai-usage-and-so-has-techspot.md",
-      "title": "The Associated Press announces guidelines regarding AI usage – and so has TechSpot",
-      "excerpt": "To say artificial intelligence is a \"touchy subject\" would be an understatement. While some people view AI as a useful tool that makes everyday tasks easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
-      "originalUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-17-image-3.jpg",
-          "width": 3482,
-          "height": 4642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

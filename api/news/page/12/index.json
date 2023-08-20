@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-08-10-got-it-ai-launches-agent-copilot-to-give-ai-assistance-to-customer-service-and-sales.md",
+      "title": "Got It AI launches Agent Copilot to give AI assistance to customer service and sales",
+      "excerpt": "Got It AI, a conversational AI firm helping enterprises, has unveiled Agent Copilot, an AI assitant for customer service and sales operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/got-it-ai-launches-agent-copilot-to-give-ai-assistance-to-customer-service-and-sales/",
+      "originalUrl": "https://venturebeat.com/ai/got-it-ai-launches-agent-copilot-to-give-ai-assistance-to-customer-service-and-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/GotItAI-AgentCopilot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions-ft.md",
+      "title": "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT",
+      "excerpt": "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.md",
+      "title": "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software",
+      "excerpt": "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html",
+      "originalUrl": "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html",
+      "publishedDateTime": "2023-08-09T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley.md",
       "title": "Messina joins Ride Home Fund’s new $15M AI vehicle, backed by Andreessen, Dixon, Crowley",
       "excerpt": "Messina, formerly of Google, Uber, and a previous AI startup founder, is also famed as being the the inventor of the hashtag. Handily, he is also the number 1 product hunter on Product Hunt, which renders his ability to boost products fairly unique.",
@@ -1039,144 +1186,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions.md",
-      "title": "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions",
-      "excerpt": "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33669654",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654",
-      "publishedDateTime": "2023-08-09T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-how-ai-can-be-a-force-for-good-in-achieving-fair-lending.md",
-      "title": "How AI Can Be A Force For Good In Achieving Fair Lending",
-      "excerpt": "With advances in technology, specifically artificial intelligence, we can now remove the opacity in the financial approval process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63320f08d9832c486944b11e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/",
-      "publishedDateTime": "2023-08-09T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidia-unveils-rtx-5000-4500-and-4000-ada-workstation-gpus-to-crush-ai-workloads.md",
-      "title": "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads",
-      "excerpt": "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "originalUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "publishedDateTime": "2023-08-09T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

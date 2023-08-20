@@ -2,6 +2,152 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-07-14-1-potential-ai-winner-thats-a-screaming-buy-despite-gaining-148-in-2023.md",
+      "title": "1 Potential AI Winner That's a Screaming Buy Despite Gaining 148% in 2023",
+      "excerpt": "Grand View Research estimates that the adoption of AI in digital marketing could grow at an annual pace of 26% through 2030 and generate $82 billion in annual revenue. Given that Meta's Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/14/potential-ai-winner-screaming-buy-gains-2023/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/14/potential-ai-winner-screaming-buy-gains-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/739443/chatbot-smartphone-person.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
+      "title": "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year",
+      "excerpt": "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "originalUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetechedvocate.org/wp-content/uploads/2023/07/Intel-Meteor-Lake-CPUs-g-low_res-scale-2_00x-Custom-Custom.jpg",
+          "width": 2560,
+          "height": 1438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechedvocate.org",
+        "domain": "thetechedvocate.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-indian-tech-giant-wipro-will-invest-1-billion-in-ai-including-training-all-staff.md",
+      "title": "Indian tech giant Wipro will invest $1 billion in AI, including training all staff",
+      "excerpt": "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230713221815-wipro-ai-investment-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "publishedDateTime": "2023-07-13T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-top-10-programming-languages-for-ai-and-natural-language-processing.md",
       "title": "Top 10 Programming Languages for AI and Natural Language Processing",
       "excerpt": "In this article, we’ll discuss the top 10 programming languages for AI and Natural Language Processing. You can skip our detailed analysis of global market trends for NLP and AI development and ...",
@@ -1009,144 +1155,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
-      "title": "Michael Hiltzik: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
-      "excerpt": "Those of us who have spent the last few decades reporting on technology have seen fads and fashions rise and fall on investment bubbles. In the late 1990s it was",
-      "sourceUrl": null,
-      "webUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
-      "originalUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/4/68/468c75ea-146a-514e-8f52-193832f3c5a1/64b04cfef2b42.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brunswick News",
-        "domain": "thebrunswicknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
-      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
-      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
-      "title": "Researchers investigate ethical side of AI impacts on meaningful work",
-      "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-you.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "publishedDateTime": "2023-07-13T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

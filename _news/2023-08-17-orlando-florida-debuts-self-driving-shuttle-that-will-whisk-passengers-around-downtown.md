@@ -43,6 +43,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
+    excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday. The eight ..."
+    publishedDateTime: 2023-08-19T18:19:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321051"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321051"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321051"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Meet 'The SWAN': Orlando debuts self-driving shuttle to whisk passengers around downtown, for free"
     excerpt: "Starting later this month, an electric, self-driving shuttle, branded \"The SWAN,\" will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge."
     publishedDateTime: 2023-08-17T02:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
-    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
-    publishedDateTime: 2023-08-15T23:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
-        width: 504
-        height: 315
         isCached: true
   - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
     excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"

@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-dr
 webUrl: "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Gizmochina
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Car Gets Stuck in Freshly Poured Concrete"
+    excerpt: "Self-driving robotaxis have caused all kinds of mayhem across San Francisco, from obstructing the fire department during active blazes to running over a dog. Now, a driverless Cruise robotaxi has ..."
+    publishedDateTime: 2023-08-17T20:12:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-stuck-freshly-poured-concrete"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/self-driving-car-stuck-concrete.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cruise self-driving cars stall in San Francisco"
     excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
     publishedDateTime: 2023-08-18T12:45:00Z
