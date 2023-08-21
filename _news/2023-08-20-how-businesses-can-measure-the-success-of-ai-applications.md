@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Digging Into Enterprise Digitization And The Power Of AI"
+    excerpt: "While it is a challenging time for many, I would argue there has never been a more important moment to harness the power of AI."
+    publishedDateTime: 2023-08-21T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64df8e0431caa1d854c712f4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The True Role Of AI In Logistics"
     excerpt: "AI-powered robots can efficiently sort ... Companies need to change their behaviors from looking in the rear-view mirror to what has happened and start looking forward to using real-time and predictive insights. They need to trust the data that allows ..."
     publishedDateTime: 2023-08-17T12:16:00Z

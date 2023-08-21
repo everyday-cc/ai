@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "GSA is looking for participants for its facial recognition study"
+    excerpt: "Federal Acquisition Service Commissioner Sonny Hashmi said the study will help determine how to move forward with Login.gov."
+    publishedDateTime: 2023-08-21T14:00:00Z
+    webUrl: "https://www.govexec.com/technology/2023/08/gsa-looking-participants-its-facial-recognition-study/389552/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2023/08/18/081823_Getty_Nextgov_GSAIDstudy-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
     excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
     publishedDateTime: 2023-08-18T11:49:00Z
@@ -50,20 +64,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
-  - title: "New Apple patents for emotion recognition and MacBook face authentication"
-    excerpt: "Apple may be inching closer to including Face ID biometric authentication in its MacBook laptops, based on a newly granted patent."
-    publishedDateTime: 2023-08-16T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202308/new-apple-patents-for-emotion-recognition-and-macbook-face-authentication"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16160102/apple-macbook-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Editorial: Clear dangers of facial recognition tech used by police"
     excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."
     publishedDateTime: 2023-08-17T17:31:00Z
@@ -82,6 +82,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 11
+  - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
+    excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
+    publishedDateTime: 2023-08-21T11:32:00Z
+    webUrl: "https://buffalonews.com/opinion/editorial/the-editorial-board-facial-recognition-in-schools-shows-itself-to-be-an-unreliable-technology/article_84b1d47c-3d41-11ee-b093-8b420569cd5b.html"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 9
   - title: "China’s Draft Rules Would Force User Consent for Facial Recognition Technology, With Expected Government Exceptions"
     excerpt: "China’s new rules for facial recognition technology require companies to protect personal information, and to demonstrate a \"specific purpose\" and \"sufficient necessity\" when collecting biometric data of this nature."
     publishedDateTime: 2023-08-17T11:00:00Z

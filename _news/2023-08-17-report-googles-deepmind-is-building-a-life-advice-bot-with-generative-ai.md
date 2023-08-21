@@ -52,20 +52,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google said to be testing new life coach AI for providing helpful advice to people"
-    excerpt: "Google has been consistently rolling out generative AI tech like the launch of the Search Engine Experience and giving Chrome the ability to summarize news articles. In the future, the tech giant may be taking artificial intelligence into a new frontier: offering life advice."
-    publishedDateTime: 2023-08-16T21:33:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 63
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google DeepMind Testing Personal Life AI Tools"
     excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
     publishedDateTime: 2023-08-18T04:00:00Z
@@ -94,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google DeepMind reportedly developing at least 21 new generative AI features"
-    excerpt: "The search giant’s engineers are reportedly working on at least 21 different generative AI capabilities. One of the main highlights is a feature that can reportedly provide advice about “challenges in people’s lives.” A sample prompt obtained by the Times suggests the feature can process complex user queries containing several lines of text."
-    publishedDateTime: 2023-08-16T21:13:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/google-deepmind-reportedly-developing-least-21-new-generative-ai-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IMG_3819-800x533-1-2.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Now, an AI assistant from Google that can be your personal life coach"
     excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
     publishedDateTime: 2023-08-17T04:28:00Z
@@ -122,6 +94,15 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
+    excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
+    publishedDateTime: 2023-08-21T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/openai-mimics-google-deepminds-agi-strategy/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "ez6fxxg9JiFxWQuxSCeV7uhh6UrttBR+olSNauUFTNiZ88DNsGySUcVuSO5a5T/6Eh0zGAIMfvC4TjPH3qcEKk7oIdkDDcSFx+y3giL2QUDVAMPslECt6P2dr4oA8kukMykvrq2n54bSfpW5/Ynls3ppXqeeiMq+xvmthJiRhetrG1ywT8PB0Jb04fvmqIkRVCNHlHi19bShmwgvXp82Km+dg04uWL8f7XUBHzJNFg88QYZ/PVzZn/G6BnzSwNk8CAGhuREDnDtFcr/Ff2Cij96sOb9/6uL074aO2N2WjZPNHPYwrjinhlsvYnOjPQmGFroJG+LRlbAm6S3mCSXnM7pFvsdsp/WJO9R9zCywKKr8HKm19Ea0LcSCjOynxdJviaYzrrZQo/OgGUILFM3Fgym86kwp/HKzWlU1xY35wlfvUcpqoWiuUDF9p/j2kzCGx7X1xWF+uStrCPESEj3XurGBFytJ6NouKxLPNS3ZVTAOXT2wU0pApBHkJL8Oc8fIBAEmTnqy8jx6P2Hm5WxtwA==;kGHRGAauwlS5uljqc8TRYQ=="
 ---

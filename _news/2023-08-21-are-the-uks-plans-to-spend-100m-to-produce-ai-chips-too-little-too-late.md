@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Global AI Race: UK to spend £100m to produce AI chips"
+    excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
+    publishedDateTime: 2023-08-21T13:37:00Z
+    webUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/"
+    ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
     excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
     publishedDateTime: 2023-08-21T02:51:00Z
@@ -61,6 +77,15 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 34
+  - title: "UK to invest £100m into chip production for AI tools"
+    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
     quality: 34
 
 secured: "3PdObu0rlitNHXpfWzRLB1aNxuyzIAPjlQvrHottmd0l4g4Up0pCS0RyKErJ2OJH8wD3CHbxBmuV+px3MnFRFfYO2d7w0xl9qMhM2kaa5KyYeyGtwIYC8wVUzF268dF64FdV3peJWfVe0WuK8eO1cBwKlKwDXeqsmc3O6w2TyNTTZfutHmTBApFKjFe5WqgW/nsHcdCKpxl22nQi+WZgn0CjHNNgR2JUHIglrJXsTpOpmW/iniUT8fPaoi5itQzDoFybq+17KUKX8g8vJMWuZhk9sPw5HC9UkNX3+Il5YdtIRniHfuFzpq/XXC0NSVAOlwD0Wy15sKgtsQckl0zdJ7aZt1GvxZD/L1a7RieFsDo=;F3bSY3lvFRv/qWeiTolB7Q=="

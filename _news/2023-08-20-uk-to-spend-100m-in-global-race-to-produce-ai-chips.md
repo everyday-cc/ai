@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Global AI Race: UK to spend £100m to produce AI chips"
+    excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
+    publishedDateTime: 2023-08-21T13:37:00Z
+    webUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/"
+    ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
     excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
     publishedDateTime: 2023-08-21T02:51:00Z
@@ -65,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK to invest £100m into chip production for AI tools"
+    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 34
 
 secured: "ymLSvJ47mknKulx65CZ5Wc8sffEvrLXt1uzmPj1AD4W3Pl+D4gWOblyx/ylgYgmlca8i4VSaT4Af2dDdA4oyV31RbgKG1lQuiOiL4AJ8N1WH4I997TDo8VjYcrW6xK1ruGYZZN1iAjO1JKFB8t6HRixOaAxQCHV5i+3aoFVl0ji0BWQhiCcaLOMzxB0PQ+uqaYfn8WZNUTbebBD1lzvdwGejCqMfCkaJTk3udVxjpBGV+SqdxCwXl3HMQ70CnaOx31Rv5oZpYRlT+0wFlGIn4KE77uRfYlkLjySgxyLsVS612alfVjJPCHZTOKtjG7UVbXMqgfd/0KhCxeqMvT+R8bUuC1J+3IZc0TSukwzZZHWNkYXSrpLDjt7q+SmdYjxyslVpYtErwBQOFmuUWV8LuUG6QYylRM7PwyTuTEqxEes6UGuUmqBR1GG4TqOagU71B/ixdNQ08nIA/67DP4a8f7oKm8EtfDWV+SP5TpxVAFgYpkvoi77aH/Od2GRp0zdeL3TBMCsqk9UWzgNEkO0p6w==;yaUSgVfjw5hmnZCrs0BAKw=="
 ---

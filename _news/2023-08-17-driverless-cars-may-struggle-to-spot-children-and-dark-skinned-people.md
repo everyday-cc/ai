@@ -28,6 +28,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Racism in AI and Tech: Self-driving cars are blind to dark-skinned people, may cause accidents"
+    excerpt: "Autonomous driver softwares that power certain EVs and driverless cars may be inherently biased towards people with dark skin and children. A new study has found that these software are 8 per cent more likely to ignore pedestrians with dark skin,"
+    publishedDateTime: 2023-08-21T11:57:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/racism-in-ai-and-tech-driverless-cabs-are-blind-to-dark-skinned-people-may-cause-accidents-13023002.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 7
 
 secured: "ipJgFjPyXERx+x/iPF9vcrHk1gOvzkdmDNzuT1zgswOu32gQ35Omi3qUc+rV+uCJZcgukrZw/ZhplRks6V3OmEg8pJW5nI/MFN5vfnQOBwERkDqpM3tr5zKgfxll5ZNbPq8LuuThIMneBDAMGnpzHm2uXDatnPZ6NsHIQ9aYa/Ku8PV6kbfK4vD0qhzIIqDaNqguUkWvjrf93Tb9idc38cZh7Pc7zborZCtIMqHg2eaw+dlr5Bt45QKuFhOj39+tMFrkVmBJdESJTA8UBdceztvX+HMm5eLp4U3vh5iQrem37kgHfOojbKEPmNEFmk/FZ2lrrBF/Az6P4I5fFLNOC6uXpRMSfLE36Q1LdZzAqCoTERSXlQxqJ8SWxuDeiJL8ama+ppGPfOR1kDOzmdG5DaR1JIg1q48pMs2J0gCPkWz9md/1L/R6asuq4UamGhH4OxZeFcNWQfDE8jGAXv+uAp5mvpKSAYNLpNepl/BRyVmFT3VdlRZ9pUQkrtzjZIRhdcZ2PLdQ7g2DiXg9WByCWw==;N4WHuUp1bRbT/KgfTFhEHA=="
 ---

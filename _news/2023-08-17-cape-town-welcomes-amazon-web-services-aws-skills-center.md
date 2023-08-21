@@ -9,7 +9,7 @@ ampWebUrl: "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-servic
 cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches first Skills Centre outside of the USA in Cape Town"
-    excerpt: "AWS Skills Centre offers free foundational cloud training to help people learn about this technology and develop the skills they"
-    publishedDateTime: 2023-08-16T19:39:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/664/241063.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 19
   - title: "AWS opens first African Skills Centre in Cape Town"
     excerpt: "Amazon Web Services (AWS) has opened its first international AWS Skills Centre on the African continent in Cape Town, continuing on its mission to remove the barriers of access to cloud skills training."
     publishedDateTime: 2023-08-17T08:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -175,6 +175,15 @@ related:
         width: 1400
         height: 862
         isCached: true
+  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
+    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
   - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
     excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
     publishedDateTime: 2023-08-17T13:57:00Z

@@ -179,6 +179,15 @@ related:
         width: 1400
         height: 862
         isCached: true
+  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
+    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-20T18:36:00Z

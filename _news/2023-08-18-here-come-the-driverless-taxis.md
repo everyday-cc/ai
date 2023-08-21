@@ -28,6 +28,15 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 19
+  - title: "Racism in AI and Tech: Self-driving cars are blind to dark-skinned people, may cause accidents"
+    excerpt: "Autonomous driver softwares that power certain EVs and driverless cars may be inherently biased towards people with dark skin and children. A new study has found that these software are 8 per cent more likely to ignore pedestrians with dark skin,"
+    publishedDateTime: 2023-08-21T11:57:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/racism-in-ai-and-tech-driverless-cabs-are-blind-to-dark-skinned-people-may-cause-accidents-13023002.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 7
 
 secured: "Agq9bE0Im9m6/yEZEq7ES1jp6iZYl1reuL9JcDA3NLQZYQL/4L1p99R1Q4U9oSEVUfRxXG50jY3bHB8Oo4/S0qZ78XFP2uwHyLAkYKjNjwVKFed1W+mqZ1uLfKJ7MmOlDo7F1N5x5x5djj/PMGLCoKFBvMFWNR7z0KWv08znQuF49pumtkPxN0ppPn7GuLoqQLtMxwRsPalC6tnhmpF8RsTYOuCw28MRtap3X3HWegfyurO1KE1CIao8zVdooMYCQ6BusWR5RYCMzMYSaW+rScrjPidLLszWDby0qptLkfr7BnGNtegtHd9X0fUw3/fzKd7nxCUj6CakuYRUUzd+BYhg7e9kLebZul8Uw5BQxOZG4KMjCo56cZo+pFCIbjQIWRcomGK/RHmFzF/hR50n9MQhlodHru+/1HHOGMiaUBXvrTftJTr5fN12cUy3JgBUC5VeHzOnvWw4/qtN/hNkUXHY+EG3eJQx6HFCYfPJBLjSLnJOj2Epk9DkiUFquLdtdrtY9jWcU4h1kh1NB0MB/A==;cqmtmMXaycoug8oqzbGiYA=="
 ---

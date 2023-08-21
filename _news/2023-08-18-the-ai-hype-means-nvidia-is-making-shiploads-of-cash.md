@@ -50,6 +50,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
+    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
+    publishedDateTime: 2023-08-21T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
 
 secured: "1+PVZROY4ACN4m+vhoVufWiEu6RQphXZzvk/5A7lioRHcWNWHRSvQX207lP9MdwX4OyJoFDOTxUYHe+grDznJqrvacYzQKkj/BxjivV88NSFy6owXUWUZfxgYpSboOcyKbe5imwfv57sAYzvyBaVFc+Qmi4YjyBQligAcTiHN0lJig4crCLz06rT3KSIpKxyCmEhTCx3Lp5HKFNG/XepQpXWeO+uZKOZ+Qh9rMu6WwIjPUpefSsijlcCHcWeXG0PRpRJOPULpyLnjPw5mdnyZGkkeLZQYo7k+e3nJE36ssBxTpGhX1tf8mzmfHXJ0DTwbV3CLY/LvmEEzG9wJAUXjBGGvdrLdlJ/613NbOgJ3eE=;+4bvb7kc2OR2bzJvPxID2g=="
 ---

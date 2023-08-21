@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
-excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
-publishedDateTime: 2023-08-15T14:42:00Z
-originalUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
-webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
+publishedDateTime: 2023-08-15T14:29:00Z
+originalUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
+webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
 type: article
 
 provider:
-  name: Investing
-  domain: investing.com
+  name: IT News Africa
+  domain: itnewsafrica.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
-    isCached: true
-
-secured: "i1VXpLX9VRgRxHRr9+H8YvuYOvXjNLpUPR0ImNpg4bksDfruS0aZlp5ZtzVcoDvuAvFZZyVpC3LP8iiIK4qZKnsGP+PWpafW7Z/huDOLYhv1BE2dL6G2I///nKjyEyLZS9SeTgILGyFEIrwQ1xb3jZdubIKjQXdOXCWXINPR70WgaNrXwWD4wAG1QugV2+ooDFDl4v9k7JkiyB4eHzf6NezIAGwKbS6Nlz/N+3c6NjGhUWUxitt/gQJXKEbnY1JBdpguQgysETd3tuASLOu8qP4ELPunvNQJ1u+WIuFBIQvLYuMJOKlM1iKPGJ3b/lIQh2irt0Z/rT5hhr0QJBBA9Fl8G40c3doYONeX99ljAaE=;4niaS1QZsA8CX6A6oWdv3A=="
+secured: "BYvxtkDBOwT+LRsq1Mm8dgka5b+9NWnOvETRLgUyR6KlECo8dmg2auASdggebOQ5Pmqf2b03Cz9sRn1zn8FHANPSYwxozfp3d7YTDtJaPbH6xalZru48HSvHM7JJWlhYsGVhgRgh3uVHf7saYclT5InQ/qNwykv3ZJOQsMuACiR5xim8X0x5z6jjlLAAIfHtv5pGI6LhWkR050v7WumAWl7OLIQX5ucKm28nvoCqlvR3CWfqHP+n09rvfReUoQTTDvNzdI0d/2xfx8bRFmgDPEjMCeMgpTmWfTyTqDix2ZzemVWvL+6gaHpYth45ggXtLy93ue3Lx0AkZLJUYrc7xnXc2Z475n/JfzivKOyecws4IR5CM+7oSzZxEkmm3/+cn9/MrqZKBuDo66QXv3m9orBusgGA5xST+eGKjm7iD6V+IKYVGnLR2Sq/eMQCcKZyURmg2p6rjIviqO+lXF+hqpWeDVHNX+vcWiAr/KoumNH9f2+XmFrH1OJb6gDjnACAeVCBI38YoB5RjbmyHXCM6w==;Md9MlJVx7HZ18H1q1FwDhA=="
 ---
 

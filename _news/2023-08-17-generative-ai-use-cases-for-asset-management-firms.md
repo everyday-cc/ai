@@ -122,15 +122,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "Startup conversation: AptEdge uses AI and natural language processing to streamline customer care"
-    excerpt: "In our latest startup conversation, I sat down with two executives of AptEdge, a firm using natural language processing to improve customer service. Aakrit Prasad (pictured, right) is the co ..."
-    publishedDateTime: 2023-08-16T21:09:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/startup-conversation-aptedge-uses-ai-natural-language-processing-streamline-customer-care/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
   - title: "China's new rules on AI-generated content"
     excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
     publishedDateTime: 2023-08-18T21:27:00Z

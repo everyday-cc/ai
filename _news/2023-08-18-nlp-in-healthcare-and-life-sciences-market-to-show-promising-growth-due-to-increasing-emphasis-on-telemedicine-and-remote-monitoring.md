@@ -36,6 +36,15 @@ related:
         width: 1654
         height: 900
         isCached: true
+  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
+    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
+    publishedDateTime: 2023-08-21T13:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
 secured: "4tDKpT8m6DFJP2kJMIgq0aZ6jaJ8rg02AAnils8CRk0msYTmhwgn205e7W3L7XdrY+DepE7dJqC5eeL35fCVNnQR4WQiZ34J4WIxhJSoNVn2ZYEO3+UoXo+YKaEFB3MYbSzkrCgapM7Ei/lZVxUkeDFP3kWjoVLjwwFWVGXYMuCUBQYIQIfJJK6AOlVaRYY+5d+X9nbtMXuQZoKYATq6TZEbw5q2eiDMCxOUvJHpLVPt7sY/uxcwAjIJtuS2cPevZo68XJptz96vqRlFusWSWo83ZYgXVheOlk2qEPt7zsJPf6CZkXBv8ZbRWpQl7y4ZMeodGcsy6xchuEuXE3EtIV+0TIjGG82gbW35z4Knx1xqqfMR5m293+pGBSbT86pOYTcQKKnFPzPiInro16IQxzaTghOkJYvr3TVseIXXEvcq5H4v60+dRVd0fXKeYsNoD+eGzXVpfWLBX2mLGKvLAGakaHYn0YqFSaFlIqBpgdqoy2SXPG97U8bicOyzqMzvohwT/r8IKLh6ISueMIyIiA==;xf+0MiqgURS/FsxqM4NLFw=="
 ---

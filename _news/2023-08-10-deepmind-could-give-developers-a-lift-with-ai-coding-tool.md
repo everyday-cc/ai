@@ -1,20 +1,30 @@
 ---
 category: news
 title: "DeepMind could give developers a lift with AI coding tool"
-excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
-publishedDateTime: 2023-08-10T16:56:00Z
-originalUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
-webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
+excerpt: "Google DeepMind may be adding to the company's AI-coding patent portfolio.  Google's AI division filed a patent application for a"
+publishedDateTime: 2023-08-10T16:00:00Z
+originalUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
+webUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-secured: "+F8SqR1ked7DiKoZCbju07B/IeRKbh2SK8uKjiAxO5YuhOXHOcGFqYw0xp81m+JfynjeH1Q/kqk2yu7H7BwV56d/ivaOVUx5poF+5Jf36JFp6nTqDRoNWd1eIxr80byzVUwf8tRclPzfy50qGHbmY6aiqnrn/ddS6fVMXGDJ1u9ltjkZL3g/IhVVBmuvSlQrREnYfzbm/JybOcbck8xoOYi6BDqa31kKIgBH/SZkZC7Am2hdfCcWnSrwIkD0SPqfX9JeNPZf6wyzQGMjwqT25phalaeCN8ffsN96oGA8qdMum+PRWP8DXIVWo51pZF56YmkfxZUruoX36r8VKuXk2/GY8klt6goiqjIkAA2PPJ4=;8epVCZhmLYQN8M5clZE0ig=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/743695/featured-daily-upside-image.png"
+    width: 3000
+    height: 2000
+    isCached: true
+
+secured: "0uAOCuNCLSy5MR08cYRepLbsVtoCC3KRBeKRjbh2Pmw2N8bjc0gaQqsL2r/xjnQLT6UQTsBJ4gOEbv0l0F1X9zykA48JGJZB6hghqA5AzPpG5MblqUC/5jq6GyuHEN8SVfLtHfHvWbqnUgG2aMjcLATNFmQotKRIQP86Yg4iGjX32AvnuDCN+o1AUKbw7h7p17QVRWUbIkden4OPIVS/vT1iVgWl/vYkoCx2XcmpUvZqiFSnAzDilVYjIPWl10jBGVaNAjSXUDPJMDIHmRUbIbDLOY3LZbKtImiTvYhT5j3rz1/YbDTtCIgHvuHaQJSueC0VQ+iCQPzX2AlPQAZAyVNjNYEvTXWerjflHv0zaAw=;bmfr/LPATeoLtjQ4+e7E0A=="
 ---
 

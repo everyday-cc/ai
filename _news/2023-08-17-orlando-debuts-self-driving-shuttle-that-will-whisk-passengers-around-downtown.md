@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
-    excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers"
-    publishedDateTime: 2023-08-16T19:18:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
     excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday. The eight ..."
     publishedDateTime: 2023-08-19T18:19:00Z
     webUrl: "https://abcnews.go.com/US/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321051"
@@ -74,20 +58,6 @@ related:
       - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2023/08/320/250/Orlando-SWAN-Shuttle3.jpg?ve=1&tl=1"
         width: 320
         height: 250
-        isCached: true
-  - title: "Orlando debuts new free self-driving SWAN shuttles in downtown’s Creative Village"
-    excerpt: "If the pilot program is successful, the shuttles could be expanded throughout Orlando, into areas like SoDo and Ivanhoe Village. SWAN shuttles will run every eight minutes during office hours and every 15 minutes on evenings and weekends. Full hours of operation can be found via the LYNX site."
-    publishedDateTime: 2023-08-16T20:56:00Z
-    webUrl: "https://www.orlandoweekly.com/news/orlando-debuts-new-free-self-driving-swan-shuttles-in-downtowns-creative-village-34864741"
-    type: article
-    provider:
-      name: Orlando Weekly
-      domain: orlandoweekly.com
-    quality: 19
-    images:
-      - url: "https://media1.orlandoweekly.com/orlando/imager/u/slideshow/34865030/screen-shot-2023-08-16-at-4.05.48-pm.jpg"
-        width: 600
-        height: 397
         isCached: true
   - title: "Orlando to launch new self-driving shuttles downtown"
     excerpt: "The city of Orlando will soon launch the first-ever autonomous shuttle in downtown."

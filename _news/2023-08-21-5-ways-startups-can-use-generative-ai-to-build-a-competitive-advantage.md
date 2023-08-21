@@ -117,15 +117,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "Startup conversation: AptEdge uses AI and natural language processing to streamline customer care"
-    excerpt: "In our latest startup conversation, I sat down with two executives of AptEdge, a firm using natural language processing to improve customer service. Aakrit Prasad (pictured, right) is the co ..."
-    publishedDateTime: 2023-08-16T21:09:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/startup-conversation-aptedge-uses-ai-natural-language-processing-streamline-customer-care/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
   - title: "Generative AI use cases for Asset Management Firms"
     excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
     publishedDateTime: 2023-08-17T08:29:00Z
@@ -159,6 +150,6 @@ related:
         height: 815
         isCached: true
 
-secured: "lZnTvNIU4C0HChU+lQxEVnmPnLP0cGHaDqV0b/Pb9Z4LbJVlYn6aKsVgM1K+x4TpIuJNVc/dEHTBSMrRQWri/jdxAYkBToUSzwpCwWTutNGUpOwB4bflvfy86RnSmVmK3qSigGzPJr5O31VHj7areolnGBX+eCfsbcdowUeVPpoj26Fe48YOobcbMIaLZJIhJaOEj1F0GbPKn4A1fOB7D8e2LzzwhlSFqg/KAV6ET2DJ5h/+h87T8fVDWwPWNIcGoP0+ZY7Pero2Y4S95NifYpMPVv/CWAhIHczOobbPwtrxDqS4eXUzEhlmE/8lgnFEdbL/Whxf1ojrjJ8AzDKTy64t/hFqGo0A0jGILJGoCBo=;azeVe3LbsWPceAd0EXdbPw=="
+secured: "BmVEgOjmGEmP8eo9oPpE3DGmHvg+lz6kR6Lnuk1IN3k7oxJkeW3wcgxfa+rrfH6Q1Sd0T3HtZ/DzdxHDTfeWrIm0t7oRf0xhjltVeXAusjGFpH/OagzV1txgpMRD7LTBDrykYaw6qbAsjcaDp+G0g+UGw67n4jDfFkwsFI9qs7PlpiM0E6YNmsLF4Is3gJ8XnxnFcdBXkOt9QyICQ2rtEoQllZx7NChihT9Md4lg3YItZo8todUom7E+k9LpT+gStWSFwOtFMw7XgM1SChYlC9KZrCRS8iSSHgKPpWGbKTbuKIFmnLfzo1k2lbmfN3SYB8Q+zIEBUdzXjOCIqWn86r7WoVaQeBXwmtQM+CKisgwtHO/iIvsUh6m6IgHxxlxR7Dq8uy99TTUzfQJ+8rDTQxhXYGu//qaBmDCfICrlOI8L5fE6aTWWHUcCUyLlOGGuHMucwt4Rys+yT0F2fsUZpnyme8T6r4Li/GbFEi9CWkdufZe/mTIUUeB1vZtd2MGV/UJpi6PFnGGXA3B/2a7Kjg==;Nuzn+WQmH3llGf9PMT02UQ=="
 ---
 

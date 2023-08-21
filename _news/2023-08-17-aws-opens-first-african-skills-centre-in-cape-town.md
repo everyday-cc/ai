@@ -35,15 +35,6 @@ related:
         width: 2640
         height: 1486
         isCached: true
-  - title: "AWS launches first Skills Centre outside of the USA in Cape Town"
-    excerpt: "AWS Skills Centre offers free foundational cloud training to help people learn about this technology and develop the skills they"
-    publishedDateTime: 2023-08-16T19:39:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/664/241063.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 19
 
 secured: "I6nL9OuaqeW0evQV5BmyoaXNUCM1RH84efHH8CjqjJjvc+uJphysCxXfm7G69yNSGSQI5a93NyJIxV95dmqaIz3lbXNllEolQe7WUEgemujS1ZzxhHpx5XsVQbUaE6KimLzaEm86VaMr7qYpOAdgA4BfI7n6rh36U1LEDCu/F+RqXooGL0idBjMQLCorz/jwIC+kg1o0y34UjB5F3Qi/vrsUaiGT015wLqH8hWui/Nv55pcXhEKFrVvsaL9kyTe+ySfTuKAvPQa6+aVyr9g/E0rmBPW+gj55bcuxiya10FcyDVOUPJm2Mm26R25WbfM3zt7GxF2B2oGuRmIgj2k0+po/juT0ZMyrkJHSVgbghGs=;+e9Evt9aHuP2LWtxwUJgjA=="
 ---

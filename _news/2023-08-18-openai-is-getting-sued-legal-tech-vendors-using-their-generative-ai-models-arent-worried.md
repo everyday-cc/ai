@@ -55,20 +55,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
-    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
-    publishedDateTime: 2023-08-16T21:22:00Z
-    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
-        width: 300
-        height: 241
-        isCached: true
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z

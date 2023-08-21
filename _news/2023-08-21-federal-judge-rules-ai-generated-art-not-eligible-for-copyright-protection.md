@@ -114,15 +114,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "Startup conversation: AptEdge uses AI and natural language processing to streamline customer care"
-    excerpt: "In our latest startup conversation, I sat down with two executives of AptEdge, a firm using natural language processing to improve customer service. Aakrit Prasad (pictured, right) is the co ..."
-    publishedDateTime: 2023-08-16T21:09:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/startup-conversation-aptedge-uses-ai-natural-language-processing-streamline-customer-care/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
   - title: "Generative AI use cases for Asset Management Firms"
     excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
     publishedDateTime: 2023-08-17T08:29:00Z

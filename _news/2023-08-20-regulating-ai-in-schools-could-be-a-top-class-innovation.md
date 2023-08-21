@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "US judge rules in favor of human ingenuity, denies copyright for AI art"
-    excerpt: "AI-created art lacks copyright protection. Verdict impacts AI's use of copyrighted content, shifts focus to human innovation."
-    publishedDateTime: 2023-08-20T10:06:00Z
-    webUrl: "https://cointelegraph.com/news/u-s-judge-denies-copyright-for-ai-art"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYmUzMDJjMjMtNWJhOS00ZjVhLWJiMjgtMjgzYmZmOGY0ZjQ1LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "Rc7G19la1SFqirbfyUovTDudts/zA1YKLlPziX8g1g+bWOS0wFQzvpualtKAO1Fmb/kuDsgfxx06Kd7l0hgyYoVsumcDncIMCdiUNppxPO/oTDTp75law8viPktjH2ejzrDKh7L+hP5Bm//hKBn7OX8kP4EQTEmIGN9vK85fo9oYDbxexVvK/GLK9csJmXQ6Kj7noxFPcVLKwN+p1BCPpT9Uw+qFq2DBeRQyuTihUNIZHe6hpkcmPxXhKUpyrpxIQzQcEFkr4ZTNxYB5M8JqootpULWUjDN/cZEy9ovZilCHRJdCB7p/TjiLWMYTFRBwAIisWk7FOmn2TG+DtuE9y+wZwIJ+I93MPYfmPvdlidMjWAZWz9WxixE2IkM3FU1IGMAUdUCHVcf7oFjqiyY+7uYlR7YpwLa6bfT0IVo9WwAIJudLhXEymR8oG6euzXb0J4ozSL7mklQKYxZkqamPbMpkAvk/iMG136L9uUQO0O05rmJxLiZj5H7Dt3WeUx1CDge26RQOSPrazt45vbmXkQ==;w6W56bGMtqpTLNRrYHLwYQ=="
 ---

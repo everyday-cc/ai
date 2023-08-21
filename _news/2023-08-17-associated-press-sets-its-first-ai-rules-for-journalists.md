@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Popular Science
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Legislature adopts an AI-drafted resolution on artificial intelligence use"
-    excerpt: "The California Legislature has adopted an artificial intelligence-drafted resolution expressing the state's pledge to examine and implement regulations on AI use."
-    publishedDateTime: 2023-08-16T21:39:00Z
-    webUrl: "https://almanacnews.com/news/2023/08/16/california-legislature-adopts-an-ai-drafted-resolution-on-artificial-intelligence-use"
-    type: article
-    provider:
-      name: Almanac
-      domain: almanacnews.com
-    quality: 45
-    images:
-      - url: "https://almanacnews.com/news/photos/2023/august/15/65215_col.jpg"
-        width: 1850
-        height: 1300
-        isCached: true
   - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
     excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
     publishedDateTime: 2023-08-17T13:34:00Z

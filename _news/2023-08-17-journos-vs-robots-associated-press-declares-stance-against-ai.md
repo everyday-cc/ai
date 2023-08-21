@@ -37,20 +37,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "California Legislature adopts an AI-drafted resolution on artificial intelligence use"
-    excerpt: "The California Legislature has adopted an artificial intelligence-drafted resolution expressing the state's pledge to examine and implement regulations on AI use."
-    publishedDateTime: 2023-08-16T21:39:00Z
-    webUrl: "https://almanacnews.com/news/2023/08/16/california-legislature-adopts-an-ai-drafted-resolution-on-artificial-intelligence-use"
-    type: article
-    provider:
-      name: Almanac
-      domain: almanacnews.com
-    quality: 45
-    images:
-      - url: "https://almanacnews.com/news/photos/2023/august/15/65215_col.jpg"
-        width: 1850
-        height: 1300
-        isCached: true
 
 secured: "Ue1t1geV7TewQ43HmL2bbCxEx1oOQUqNiKz1n5QqcSpCjfE8liV6r0APOC9xM7gqFl0wYaTsnfkIz+3M5xy+S2dlt5YT12/JGzN/lPhuAUAGc4rcFCWcMB08hYIetot5SfdsvKK84mVVrEVZeIyKD3dsozyAmaK4L6pzO84iBXwCGMEj+EupwqaAnqJhPvraTsxzWydONcce5qiRSB54GjgnDdjMd18jhea+sOe5g2uTSuAoi1EKo9DnEPoLUdZCilnbKSqwcw7Jh5MQj/XSnQi/ESPlfdTTK6HPdV7kvaL+9sfoyZBVgRJ/JruN7UuWA3E0C/wKXn3LMkzc0bv6IeqbiDP3zdyGCiCXDvvQEPlpypVS1mK/HfD1oOicY0yCX7WCvEGkzY0HM28LFJsIPoP1oY6HhclXggG8JdHgyOJHBOFXpT0FD14eP+WpV57AAaS5qgQptbB6zxuVOpgkARDHHGCCNR0o68va6OUhqIO1qg8zzS+BJOfZb15EfKhacqMk0rb1v4tvRX7RAjovjw==;gRRRcotKyN/M9Jjgobxg5Q=="
 ---

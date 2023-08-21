@@ -171,6 +171,15 @@ related:
         width: 1400
         height: 862
         isCached: true
+  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
+    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
   - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
     excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
     publishedDateTime: 2023-08-17T13:57:00Z
@@ -190,6 +199,6 @@ related:
       domain: webindia123.com
     quality: 21
 
-secured: "bBx8SCEp1Lhp/5wSBIMX7gD+57+apVDEd0LB92f8QS1mKCqBLv4nHfXOPljXWMWenRte3FwX7F85NMyoMpm1OTGGAO2595HJ/rSL8rUJ+dNTESWmY730G/W2WTJkwEln1ojPIhb5veMNqu77e5brZSYytbIIHV05bQiftslWGhs9D0BammbZsvlgsKO+CfYc8ToWMRj9LHQJ4ShmEsNkGvTSBWznuX3xxVMbqJ8LRQjuNZJc+qLxkGptQ/OQwSdf2KgGjoJSfGTYp+4kVQ0zT2YQcD2gjuiZA1t/sQkIHFmDx+zbeyO77+FfPgC1fVQ5zhPVZLDjiWsgXRrigqT5A6VY3kTmTPRTiSEyun4/vIA=;mcJqk+n1w5x671l113JQRg=="
+secured: "jKMnnjAJehGt8ZKbhhV/1CCCDm0g8IQxdXj8YJqjDIXeEsH6mPOFER/D//yyZf9g2NQjZ/Bx5H3n9PDADnvU5JbNYyT7k+0Is6grotqNgP+vBi/Wt7OjpctUFm43bRXUV7Q7uRc9mwFHSkNGh/Stl4+haElvTyEBmwOO1QOdUE/z5o8WDu7wT1db89FNL4p6HvO079iYRmKmUUKLzpcV9hD7pIpFHno6cj1Ln7AfVcUT00DIjp+/01SNmJ0MPxVQP4+3Gr0o48hgCOGl6d4gvGXYVQFFEZwhNQ2PIctrTQZcewT6ObPQc+4bQZRHlFI3eyiRMOodcJCiZOBEi6eCdMHF9DeyH3UoS4hsF/Jx4Agrt/JpcplFccUDDbXWv1X5bXpkdK3Czluj0LgxmUbPRf3FZ+35OR+nD69uF0tjqTz2+1c3XNbYGMY3Wtm0F0l4CY6EPfOFqsXyc1ZNOap/EVSWeB9YaQcp6/MtIjnQ4DzC+5TuVhw0udD3rDV3cgrnt+P/A+v58x0p+uf6faHc6w==;8kXRn3HFp+rUKekTu0LMiw=="
 ---
 

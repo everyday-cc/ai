@@ -7,7 +7,7 @@ originalUrl: "https://in.ign.com/tech/191417/news/ibm-has-revealed-an-analogue-a
 webUrl: "https://in.ign.com/tech/191417/news/ibm-has-revealed-an-analogue-ai-chip-prototype-thats-more-energy-efficient-than-contemporary-gpus"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "IBM's new analog AI chip is more efficient than power-hungry GPUs"
+    excerpt: "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates"
+    publishedDateTime: 2023-08-21T14:21:00Z
+    webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 99
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "2cxoyXjKgPU7sArx7C3831mgbs9toVd0nXVSvhFi+eEgBYskAPBPIWfOZhku1bUHWXDsfwBnkFYvmeMHFEvDMH4F8xTF3/69MZnApOUzwPBpRMkUvjIr1pypG+XO42K5b1ycsSj4ONp3912ujc2V3xkb6Bc2jLYtekQTTDXI3+DQSzFHoMg6t1RpEkAEnrvhOkfXYspQgYsLzr5YFAvNgdwXlZXZZ6wzYZpsiwWM4a/KZ6z4CfFyzLwdSNtq9UsJ8kHtM0K0CM14zPfPZE62XaUH/rhvjimFP4vAMp6QHV8TDph697OegmHQ4Gg/YuE4Jxx56UvENNSEbcWki9Ot5BqY7G0P+f6eltHGAMGWYl8=;P3zeT2sH0SwU5Pe/mXkRAA=="
 ---

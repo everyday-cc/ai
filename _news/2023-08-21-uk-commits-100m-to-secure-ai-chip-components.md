@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-component
 webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
 type: article
 quality: 84
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI Race: UK to spend £100m to produce AI chips"
+    excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
+    publishedDateTime: 2023-08-21T13:37:00Z
+    webUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/"
+    ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
     excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
     publishedDateTime: 2023-08-21T02:51:00Z
@@ -66,7 +82,16 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
+  - title: "UK to invest £100m into chip production for AI tools"
+    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 34
 
-secured: "LnxB/C7XpdJB3XPkN9eNJUsHCHAStf8n/x8H/TBDia2bv3kQiawiMn92sY6C/Wlrp8nZ0oAhQ5XwQVG4rcwgxEYH54Kc0NqX5xROXCmmSD6xD8cBmRyosIXazpwH33DfANsjHAvgBoIQLUEL8GAdUbf57jTwlMVssEQ6pOisRglYNKTRkDBsSK2H6W1GUlDoxHURPE7Yfe4Ylr7vy4UZ88yV/Vpfkr5mAbkfpG3YQca0/8G73Aq8sA2B5/ozdpEaaOfGkUbI8l01RuOI6lZBTcCtfaWAsdCgKxbkMGEoSa36T9WZO4ORgvzmAr6ZhGYsnGCahC5f4Q3+LsdYSOHmVXK2ruhMz6CMRKW4leloWv0=;U2UimpvcGF6ZO3A1ZrM+Vw=="
+secured: "0maSJUsjoNji6+i5Xa4Dlbork+/gY62FUEyKXSDhTSCWyV66eqBTUUd9JmDPN/80IpaekAMJOFKTyvS0aphqz5W3CF9/zgyUhYAbRphfQ3U3y+CkFe1AyRRo5b70KYx6k/kgqnY4lbfmN1RVlPnGGfsdo96tEzdof6JRXOhWnpXMPodPt7SAyLsBOiuwUNlv4i8HTO+UzrWCAJjuqxa6yHASL1WuciO+fjR+VkcQH76NFasKfHwAHbj6lbxDkuYwfqm5NDB4fiewAMLSUHokrr1OX2oGI4JDt5cittkmlLykh09ZxzXA7JkusKtK0dPJhDhHkasFWpKTIRJZ5dzVAHR58xC2Af2pf40CTMzNgXl9Mk5THXSywIKi6/NMMfTW+L6Y7g/kU1e/6NJrITFAR9Dwu6/7t03425Y1ZHeVWqWW4p17cWVNaorlT7GUPzySwRVXiBZLojxmXjeh6CWGLCDan29ryTrUWgo219fYN1QqvfY2Vnq+rNFeJKf+zN8m6zJqXTu1R9slErG2ui45vA==;ybEKj6IYxMG9Wz+1rUbECQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-u
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Firstpost
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Judge rules that AI-generated art isn't copyrightable, since it lacks human authorship"
+    excerpt: "A federal judge has agreed with US government officials that a piece of artificial intelligence-generated art isn't eligible for copyright protection in the country since there was no human authorship involved."
+    publishedDateTime: 2023-08-21T15:33:00Z
+    webUrl: "https://www.engadget.com/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
+    ampWebUrl: "https://www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 79
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7TXfRE2Oos4RO7f0RH4N5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/563c5cb0-9361-11ec-9ef8-b2b7d9850efc"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "AI-generated art can't be copyrighted, US court rules"
     excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
     publishedDateTime: 2023-08-20T15:57:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/528540"
         width: 690
         height: 407
+        isCached: true
+  - title: "US judge rules in favor of human ingenuity, denies copyright for AI art"
+    excerpt: "AI-created art lacks copyright protection. Verdict impacts AI's use of copyrighted content, shifts focus to human innovation."
+    publishedDateTime: 2023-08-20T10:06:00Z
+    webUrl: "https://cointelegraph.com/news/u-s-judge-denies-copyright-for-ai-art"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYmUzMDJjMjMtNWJhOS00ZjVhLWJiMjgtMjgzYmZmOGY0ZjQ1LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules"
     excerpt: "As questions swirl about how artificial intelligence will impact the music business, a federal judge offers one definitive answer."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-adva
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
+    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
+    publishedDateTime: 2023-08-21T13:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
   - title: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     excerpt: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     publishedDateTime: 2023-08-18T13:57:00Z
@@ -37,6 +46,6 @@ related:
       domain: bignewsnetwork.com
     quality: 5
 
-secured: "/G9iOhF0gXVqsGNHK5BUyvNs4MoGpHgiEnKKY7Gn9aNsMi+qNbTLSvaxL4N6A1Lw3BpMa+O3b40bMNV5v/IAQB/KFmY82kM/PeUlVO2Lx4Q4H4ehpzgNCscC3gyTIn7EwmpYDbcOcR8Ik7ferEYa9Fc6mJmJ+YVveCImrLYht2MDCsW9n2M1WDo7RIu4JiMu17je2o4P5aFeznDuWzhUfZhVWIfTHo3+ds1ZR6S6rhvxnDIViAAEDujDyQ9unlagwIt0t2qlfPa1qTh0yDlTWEkunBji/nV9a9yuGt5Gd4SY4PInS8OzEwKYjcKxrM18G+VEZR7d5TUSwJrXxv0H8TS0DsDf/xYA9EVaIise/VA=;JHKG1VXDxpSCw5j1B9NJ4w=="
+secured: "Ocy8mlF6Xz/JP/9visEuMlTHQdMDHXAQDwfEaKLyAvgOcOVgUuiOcd6i83dNe4I/UV4DJUwJ/IK5vGHsjDJv9Sfht7BEigiRyTWLtTFyOJsPRRuybTqnrWKOZIVU9lqBoF08jRcWc/hiX3K1TFBZtJxdyGbf0rC91bhxI8Oh2Vtvdegf7t7+11DvqqBDINOTPxt1/jLDKn92sZVN661MvlNWhVnxGOcCwhaiOjp+dDUPR2IyWf93c+GSU2H2dfTtYxtTFOypWSnFoKd0fV6NLx3Au/YjWkz02Zm9P76LmI9gIQTByhh0mDvb/gFP/d7foUew57G1rvPZXgsDnIOUe0Jd5ozogKeRrTtEBgTgFD2iUpPi0silzNt82nCIySbIOCNDDaiUOZnq/ADiCepguy/ounUYUEmIBA7xf3BSuAabuHEdHfuolp3ZNO3gPopT/MXa0NJQuR0dQD07MzO0saEmALlTLLUMmy2pWmhzcGmng2aLuoR9266hcpowfZWIcHINvcvTOVyhHqWSh7ylrg==;++r7bNglVT/X6Njd7FRTMw=="
 ---
 
