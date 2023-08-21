@@ -2,6 +2,325 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-17-ex-apple-employee-accused-of-stealing-trade-secrets-is-exec-at-baidu-self-driving-car-joint-venture.md",
+      "title": "Ex-Apple employee accused of stealing trade secrets is exec at Baidu self-driving car joint venture",
+      "excerpt": "an electric vehicle joint venture between Baidu and Chinese car maker Geely. On Tuesday, the DOJ accused Wang of stealing trade secrets from Apple's self-driving car division. Wang is the third ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107194711-1676427099559-gettyimages-1453437554-vcg111416077998.jpeg?v=1684262125",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "publishedDateTime": "2023-05-16T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman.md",
+      "title": "AI hearing fills ‘technical knowledge’ that lawmakers sometimes ‘lack’: Democratic congressman",
+      "excerpt": "Rep. Jay Obernolte (R-Calif.) joins Meet the Press NOW to discuss the potential and dangers of AI, as well as Congress’ road to regulation for the rapidly developing technology following Tuesday’s AI hearing on Capitol Hill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "originalUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684273276825_now_mtp_full_obernolte_230518_1920x1080-81fq9s.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "publishedDateTime": "2023-05-16T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-nigeria-election-di-unexplained-nigeria-election-votes-wey-political-parties-dey-contest.md",
+      "title": "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest",
+      "excerpt": "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
+      "originalUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/7854/production/_129440803_tinubu1.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/pidgin/tori-65564971.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp",
+      "publishedDateTime": "2023-05-16T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup.md",
+      "title": "Tech Up as Sector Seen Less Vulnerable to Default Fallout -- Tech Roundup",
+      "excerpt": "Chinese search engine Baidu posted a sharp increase in first-quarter revenue. A former Apple engineer was charged with trying to steal the company's self-driving-car technology. Write to Rob Curran at rob.curran@dowjones.com Back to Top",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "originalUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "publishedDateTime": "2023-05-16T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
+      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
+      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "originalUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/56/45629a65-9fdf-5b61-8df4-4ccc518beddb/6463fc24d6906.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023.md",
+      "title": "New survey finds financial leaders investing in analytics, AI and machine learning tools as they navigate economic uncertainty in 2023",
+      "excerpt": "OneStream Software, the provider of corporate performance management (CPM) solutions for the world’s leading enterprises, published its Enterprise Financial Decision-Makers Outlook – April 2023 semi-annual survey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsit.com/articles/2023/05/16/new-survey-finds-financial-leaders-investing-in-analytics,-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
+      "originalUrl": "https://www.logisticsit.com/articles/2023/05/16/new-survey-finds-financial-leaders-investing-in-analytics,-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsit.com/assets/image-cache/files/images/18_05_23/bigstock-human-chat-with-ai-ai-chatbot-471415907.7fa9aa46.jpg",
+          "width": 650,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing & Logistics IT Magazine",
+        "domain": "logisticsit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-baidu-inc-bidu-q1-2023-earnings-call-transcript.md",
+      "title": "Baidu, Inc. (BIDU) Q1 2023 Earnings Call Transcript",
+      "excerpt": "our SVP in-charge of Baidu Intelligent Driving. After our prepared remarks, we will hold a Q&A session. Please note that the discussion today will contain forward-looking statements made under the ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco.md",
       "title": "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co",
       "excerpt": "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses",
@@ -854,352 +1173,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-these-4-popular-microsoft-apps-are-getting-a-big-ai-boost.md",
-      "title": "These 4 popular Microsoft apps are getting a big AI boost",
-      "excerpt": "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "publishedDateTime": "2023-05-16T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
-      "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
-      "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "publishedDateTime": "2023-05-16T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate.md",
-      "title": "Webex meetings will use AI tools to help speech-impaired users communicate",
-      "excerpt": "Speech recognition company Voiceitt has announced it's integrating its technology into Webex Meetings. Building on Webex's existing live translations, Voiceitt's AI establishes and transcribes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
-      "originalUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/jHsrxabp8l3n7x78cT7SjA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/61b5a7c0-ef15-11ed-bfff-f6659136f7be.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-cheat-sheets-for-ai-information-overload.md",
-      "title": "Cheat Sheets For AI Information Overload",
-      "excerpt": "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200",
-          "width": 887,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
-      "publishedDateTime": "2023-05-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-intelligence-broad-development-space-sustainable-development-driver.md",
-      "title": "Intelligence: Broad Development Space Sustainable Development Driver",
-      "excerpt": "The 7th World Intelligence Summit will be held from May 18 to 21 at the National Convention and Exhibition Center (Thenchin). The theme of the conference | The Eastern Herald",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
-      "originalUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.easternherald.com/cdn-cgi/image/width=640,height=355,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/05/Intelligence-Broad-Development-Space-Sustainable-Development-Driver.jpg",
-          "width": 640,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-an-ai-glossary-the-words-and-terms-to-know-about-the-booming-industry.md",
-      "title": "An AI glossary: the words and terms to know about the booming industry",
-      "excerpt": "The quickly growing field of AI has created a long list of technical terms that you should know before endeavouring on your learning journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
-      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-AI-Glossary-jg-4a0d9e.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81793",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81793",
-      "publishedDateTime": "2023-05-16T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-labor-as-a-service.md",
-      "title": "With new Phoenix robot, Sanctuary AI looks to usher in ‘labor as a service’",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/",
-      "originalUrl": "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/with-new-phoenix-robot-sanctuary.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

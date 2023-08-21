@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-law
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/amp/"
 type: article
 quality: 83
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "OpenAI may have to wipe ChatGPT and start over"
-    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
-    publishedDateTime: 2023-08-18T21:35:00Z
-    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "B7S+ifyK8olWNebSgO9/VYSOWCuD/vVYbpkW3I6Dq5eyMAmcJgPl+zsrW23FZxX6/e514cdGa2A1LXXT0X33ALyVngINSN1bri1VCyI0kewUaXznz5SWZHGjkznQ3H+Tjhl1/+Ir/2goImk2dMGKLPJPyp3X46Ll60vm+2fDdop4Cswhp3XCuvfjniyhnw42CssDWVqku8DcINaAXwZldJ8cP1NbpGBw1jdisyxdH8+nmppZoc5dsc7GuQBqJSE7G3Rgzr5Sem+vcs2k32KFDltYf9adRqV2U6q9EyAm/JVYdkQbNPo643qX5Dd67wJb5heYR2gLExmjE1eamLBUsRkPQ+9kNQrC961R9864WS0=;wzxOr/SZNliFQgnJNiAqow=="
 ---

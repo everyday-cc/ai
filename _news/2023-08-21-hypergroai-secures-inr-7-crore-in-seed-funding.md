@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secu
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "London-based AI startup secures six figure pre-seed funding"
-    excerpt: "Electric Sheep, an AI tech startup in visual effects (VFX), is thrilled to announce the close of an oversubscribed pre-seed… | London | Funding | Technology | Innovation | Technology | Investment |"
-    publishedDateTime: 2023-08-16T15:06:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/08/16/london-based-ai-startup-secures-six-figure-pre-seed-funding"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 17
 
 secured: "x9sMPFiSuwiB5OZphkNiFoGkCXQxa5sDqUjbcqlyGUZjWgGDbJjkGYVTHuAwvWayMH1Xvt9jyTsK+SsTJli/yW51/FQ6jY5Z8Z5HPj8nwG6dE0ihz9ckH0Ytp4o1AM6ieuGCCS8DJmsG489TkGlPLE3GG/5RE0dVS8r+DUnvOUXsSTzqzY7s8fEiJCX/Wk59Cptyv1xVdU8irhKb6eA4OqJ9XPtSXpz4tGXl3qV/HUAWYNiTLn+U2vruk+cCrU2i4oO3WMW7O5fP5v3xyqg9xWDxLQNgAyyN1xcNY1vz4nh1GrHIipNszN5e1S/l2FWiE8xGYxE+paJlPAJ+h3Qoz8NR4igc0C0LR5Izda3qKPs=;VCIYtKxAMjktuMNuOSHLdg=="
 ---

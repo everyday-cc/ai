@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence designs advanced materials"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
-    publishedDateTime: 2023-08-16T16:41:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811143817.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
     excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
     publishedDateTime: 2023-08-17T21:30:00Z

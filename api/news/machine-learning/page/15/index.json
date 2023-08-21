@@ -2,6 +2,117 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
+      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
+      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
+          "width": 1920,
+          "height": 1316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
+      "publishedDateTime": "2023-04-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-neural-network-market-research-report-industry-trends-size-usd-15261-billion-by-2030.md",
+      "title": "Neural Network Market Research Report | Industry Trends & Size USD 152.61 Billion By 2030",
+      "excerpt": "Neural network market is expanding as a result of developments in artificial intelligence (AI) industry & the growing cloud disruption in contemporary business. PORTLAND, PORTLAND, OR, UNITED STATES, April 5, 2023 /einpresswire.com / -- The global neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
+      "originalUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
+      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
+      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
+      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-analyse-automated-machine-learning-automl-market-trends-2023-2030-insights-and-predictions-for-success.md",
       "title": "Analyse Automated Machine Learning (AutoML) Market Trends 2023-2030: Insights and Predictions for Success",
       "excerpt": "The Automated Machine Learning (AutoML) market research report spread across 114 pages and analyses the global and regional markets, providing an in-depth analysis of the market's overall growth ...",
@@ -1105,163 +1216,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-artificial-intelligence-glossary-neural-networks-and-other-terms-explained.md",
-      "title": "Artificial Intelligence Glossary: Neural Networks and Other Terms Explained",
-      "excerpt": "Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "originalUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/27/pageoneplus/27OnTechAI-Part1-STILL/27OnTechAI-Part1-STILL-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "publishedDateTime": "2023-03-27T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-can-a-machine-know-that-we-know-what-it-knows.md",
-      "title": "Can a Machine Know That We Know What It Knows?",
-      "excerpt": "Dr. Ullman noted that machine learning researchers have struggled over the past couple of decades to capture the flexibility of human knowledge in computer models. This difficulty has been a “shadow finding,” he said, hanging behind every exciting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/27/science/ai-machine-learning-chatbots.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/27/science/ai-machine-learning-chatbots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/27/science/27SCI-MIND-theoryofmind/27SCI-MIND-theoryofmind-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/27/science/ai-machine-learning-chatbots.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/27/science/ai-machine-learning-chatbots.amp.html",
-      "publishedDateTime": "2023-03-27T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-ten-questions-with-openai-on-reinforcement-learning-with-human-feedback.md",
-      "title": "Ten Questions With OpenAI On Reinforcement Learning With Human Feedback",
-      "excerpt": "So navigating that is going to be challenging and involves machine learning interventions but also a broader social technical perspective. Are there interesting questions that come up or new challenges or new directions for this kind of research as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641dcf2b94696554a1580d4a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
-      "publishedDateTime": "2023-03-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

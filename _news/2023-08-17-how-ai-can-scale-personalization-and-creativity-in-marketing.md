@@ -97,36 +97,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
-    publishedDateTime: 2023-08-16T15:43:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
-    excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
-    publishedDateTime: 2023-08-16T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33878495/avangrid-pioneers-in-house-creation-of-artificial-intelligence-to-increase-reliability"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33878495"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33878495"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Startup conversation: AptEdge uses AI and natural language processing to streamline customer care"
     excerpt: "In our latest startup conversation, I sat down with two executives of AptEdge, a firm using natural language processing to improve customer service. Aakrit Prasad (pictured, right) is the co ..."
     publishedDateTime: 2023-08-16T21:09:00Z

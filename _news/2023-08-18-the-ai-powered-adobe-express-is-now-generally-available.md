@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-powered-adobe-expres
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Express Replaces Design Guesswork With AI Text Prompts"
-    excerpt: "Adobe's all-in-one Express design tool has exited beta and is now available globally with Firefly generative AI built-in."
-    publishedDateTime: 2023-08-16T15:08:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06Azr9wtaq3iWgutpTnwS1F-1.fit_lim.size_1200x630.v1692197835.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
     excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
     publishedDateTime: 2023-08-18T19:13:00Z

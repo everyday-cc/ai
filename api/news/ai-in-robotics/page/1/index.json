@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-19-shapeways-doubles-its-growth-in-robotics-through-ai-adoption.md",
-      "title": "Shapeways Doubles its Growth in Robotics Through AI Adoption",
-      "excerpt": "Leading innovation in manufacturing and transforming digital inventory Shapeways Holdings, Inc. (NASDAQ:SHPW), a global leader in digital manufacturing, announces more than 90% year-over-year growth i",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/b33923908/shapeways-doubles-its-growth-in-robotics-through-ai-adoption",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/b33923908/shapeways-doubles-its-growth-in-robotics-through-ai-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33923908",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33923908",
-      "publishedDateTime": "2023-08-18T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
       "title": "Robotics part of mid-year success for IDS Imaging",
       "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
@@ -562,6 +519,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030.md",
+      "title": "2023 | Artificial Intelligence Robotics Market Size, Exclusive Data Report Forecast 2030",
+      "excerpt": "Artificial Intelligence Robotics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 86 Pages Report The extent and overview of the various commercial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33772824/2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33772824/2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33772824",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33772824",
+      "publishedDateTime": "2023-08-11T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

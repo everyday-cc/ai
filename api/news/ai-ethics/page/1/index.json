@@ -193,58 +193,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-17-the-associated-press-announces-guidelines-regarding-ai-usage-and-so-has-techspot.md",
-      "title": "The Associated Press announces guidelines regarding AI usage – and so has TechSpot",
-      "excerpt": "To say artificial intelligence is a \"touchy subject\" would be an understatement. While some people view AI as a useful tool that makes everyday tasks easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
-      "originalUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-17-image-3.jpg",
-          "width": 3482,
-          "height": 4642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-17-when-hackers-descended-to-test-ai-they-found-flaws-aplenty.md",
       "title": "When hackers descended to test AI, they found flaws aplenty",
       "excerpt": "The hackers tried to break through the safeguards of various AI programs in an effort to identify their vulnerabilities - to find the problems before actual criminals and misinformation peddlers did - in a practice known as red-teaming.",
@@ -338,6 +286,49 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives.md",
+      "title": "Diligent Launches AI Ethics & Board Oversight Certification for Corporate Directors and Executives",
+      "excerpt": "Diligent, a leading GRC SaaS company, today announced its AI Ethics & Board Oversight Certification for corporate directors and executives. The program will help leaders navigate the context and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
+          "width": 437,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

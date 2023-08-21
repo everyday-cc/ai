@@ -25,48 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker"
-    excerpt: "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery"
-    publishedDateTime: 2023-08-16T16:00:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/"
+  - title: "The Power Of AI In Modeling Healthy Communications"
+    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png"
-        width: 1260
-        height: 604
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift"
-    excerpt: "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements"
-    publishedDateTime: 2023-08-17T15:31:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/"
+  - title: "Unveiling The Dark Side Of Artificial Intelligence In The Job Market"
+    excerpt: "The rapid advancement of Artificial Intelligence (AI) in the job market has brought forth a myriad of concerns and challenges that cannot be overlooked."
+    publishedDateTime: 2023-08-18T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/"
+    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 94
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png"
-        width: 1216
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Unlocking efficiency: Harnessing the power of Selective Execution in Amazon SageMaker Pipelines"
-    excerpt: "MLOps is a key discipline that often oversees the path to productionizing machine learning (ML) models. It’s natural to focus on a single model that you want to train and deploy. However, in reality, you’ll likely work with dozens or even hundreds of models, and the process may involve multiple complex"
-    publishedDateTime: 2023-08-16T23:00:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-efficiency-harnessing-the-power-of-selective-execution-in-amazon-sagemaker-pipelines/"
+  - title: "How businesses can measure the success of AI applications"
+    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
+    publishedDateTime: 2023-08-20T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/10/ML-14562-image002-1139x630.jpg"
-        width: 1139
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "The True Role Of AI In Logistics"
+    excerpt: "AI-powered robots can efficiently sort ... Companies need to change their behaviors from looking in the rear-view mirror to what has happened and start looking forward to using real-time and predictive insights. They need to trust the data that allows ..."
+    publishedDateTime: 2023-08-17T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/the-true-role-of-ai-in-logistics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "UpGfK7/qurGcgcfSzNO2exyETU2+igmjOFfKW3q28uaQwjLcCRyMrTML9nwhs7AihD/I+ZPCwLykiVzXeWMKMEseolaldg1PtzeAwRf4Ik2fkNaKyNUJl8b8QPgMXxRgIqbmgZ+/yGT4A85aPsDbri6luTY7POhwfGLO3xnQZESqcLzNP1w7aIwsrnv3WZ9krPzf157B+JIV+2PyB0kTI6jHnrEadVHRX0sh3n3su4QEQHiUaLOTFq9TuXQ5EfBZNCRgQjJf0NqDNaRoBxCmczVnMRXSbVJ6fa/jjyi287c5+Te8VM42WH+tmzMTFccQlD+XwdHLYTDFw9ZVBLp6aiRNFhp32DUOEOTHPTR4UJo=;J+ZtNf2YUXw0g9Q3WA6pPw=="
 ---

@@ -42,6 +42,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
+    publishedDateTime: 2023-08-18T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-ai-stocks-to-hold-through-thick-and-thin-1032566550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "NlpGdUtdkDKS5KU9QCaBtsmWlOovhaNPHIuHul+1Bykllokk2eukuJTkGWbj8XkRMQrqgKu4Yuuk/EsdPjIyUfCWuafLNRczsutvd7Bi8Hnv72/sy60uPZ5jbr6upwvW0nmS9BwA9bYmrwT9A+HL9akiIzc/mnvjwdBA+VK4BqlZ7V7GhtDp+InswycQi25ob8W4n3EtX0oQ3DlEQBjmyZTPe9b/34xkIM7KoV0h/pJW49h3hyuhKawf88iJ+CheYVbZJXQrIQVV7SIdKbpx40Cp/TA+sasQGQIoLoOJA9DM3+YGIGlPgD0defbIXE3J6ZVjC7uM8BL+4MdOlgCiX4pacgBNhAAQy2KkVdpq7j4=;r/lF/UeJCCqN5x3bMeqBFw=="
 ---

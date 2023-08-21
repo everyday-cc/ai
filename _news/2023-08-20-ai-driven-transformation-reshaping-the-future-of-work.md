@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce Announces Speaker Lineup for Dreamforce 2023, Emphasizing AI’s Transformative Role"
-    excerpt: "Salesforce this week announced initial speakers for Dreamforce 2023. Diving deep into AI and how it’s transforming the world around us,"
-    publishedDateTime: 2023-08-18T16:40:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-announces-speaker-lineup-for-dreamforce-2023-emphasizing-ais-transformative-role/"
+  - title: "Can Google's Interactive AI Tools Transform Education? Finally answered"
+    excerpt: "As technology advances, Google’s AI Platform and AutoML empower educators and students to delve into machine learning, fostering data analysis and predictive modeling skills. By bridging virtual assistants with academic empowerment, Google is paving the ..."
+    publishedDateTime: 2023-08-21T08:44:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 28
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 76
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Aug/1692607126_okio.jpg"
+        width: 558
+        height: 372
         isCached: true
 
 secured: "uQln9xr48GHxMy6aMLPAhDzX4HqLxWWCA1XZdLQQCPVQ7Gfrs9nMw5bV5fywy4IUbLbIXgUSw5qrjkUTDVfaOjFm1kivWIxFtj30gapwchgl+dqeD2nDmSMAQwL5JkiPyHDM9uWNWU0DigwkOrVY5WD4PzoYO2OyFmndQh/w4/y7lnHgfwO+xs1vjcuHecSaX/xtiJxALAXbVHz44TQn0TdXM5oKqsh9Dp8mUiI3dpw9sagpex9Qceu5rBWalzb4wWAgNeUEGG7nPUUFptLUK36EvJx4LrCmqUIQ4nzdWYFLdJQHPBn3mnBbcQ8/RlObyBCz3iJHLWJ1CKyOAm6SPzvvOOpypDZRaEaGabCkmcBZ9dsKbxFnS4DUXlMHp3xXE6yxrbN+GXLJhSfv6MilX1Xoe5IDjXHalAyukjxlQdFUD7HNjVOLnZRwgs/J8soL+gS2DI4s0qsNPxwp9ZkO68oJm3gKYChsMgJaI+v4zoDzW53/K9yoswsrV/fh/mXpCDBUKmzXVcBmDclgEJByDw==;jCXoQ3IZ2948hQDhgOLKUQ=="

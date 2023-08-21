@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Shapeways Doubles its Growth in Robotics Through AI Adoption"
-excerpt: "Leading innovation in manufacturing and transforming digital inventory Shapeways Holdings, Inc. (NASDAQ:SHPW), a global leader in digital manufacturing, announces more than 90% year-over-year growth i"
+excerpt: "Shapeways Holdings, Inc. (NASDAQ: SHPW), a global leader in digital manufacturing, announces more than 90% year-over-year growth in the robotics sector, driven by customer adoption of artificial intelligence (AI) within their applications."
 publishedDateTime: 2023-08-18T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33923908/shapeways-doubles-its-growth-in-robotics-through-ai-adoption"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/b33923908/shapeways-doubles-its-growth-in-robotics-through-ai-adoption"
-ampWebUrl: "https://www.benzinga.com/amp/content/33923908"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33923908"
+originalUrl: "https://www.joplinglobe.com/region/national_business/shapeways-doubles-its-growth-in-robotics-through-ai-adoption/article_c733cd72-b7e5-50e9-9cff-98a59173618c.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/shapeways-doubles-its-growth-in-robotics-through-ai-adoption/article_c733cd72-b7e5-50e9-9cff-98a59173618c.html"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
+    width: 437
+    height: 563
     isCached: true
 
-secured: "Lbf9s3i3i0ZL9KfzelrQNb+oZi1JvmOPrpBFectTIoDrkm/KuLOe7F2KYv0zKmkha/VUj6+y2SOVADyeax/CBrXNzh+GOLKLpb1kuKegjF3VIRIaRHYp2BXdqz5FGrQ1+bw07ZN6D8PybJ0D3Yf5hgERXRXZHnPKSuAWK6LYkrrr+QZ3bSDin5vUAM8iS4/WcySFszL0zh97wq8efxCcXo/KyVY1JR+bP7F1E+0I+xS2mlP3VEWC1weax5yeNV25Qxa/FHEGNkIG6FXG1+Vw8z7gGzsSZ8dWaI+KMMGK2zKLbGZww+NcotHjxwe32TbD4S8WCBtKv3/a1OkJvdI/H8HOSE4v6rCCbmm1WlVi2+8=;LkxLeqQxZLbr0O3Sus8zqA=="
+secured: "1ol+qR+SAGft9iikGxxFQ5ow7HAVSP3geLrgxCwHW/ovvCS8jRMrILnRi09OVZjzE53IeLf3cwrkZpvyMTjg0Nmx1s+85fEfMbs1gIT6JwGVZV/v3/nPkSAqRRcO18NzLUsDAfA5eN5y/Si4UybqebnuDhWllJQaCofZo2oZoRWMLdjSvQl4naDov/kXjjc8qBKLzosPdQOvu5RreFA+upoAjr5hCjT157zVw9vEuaEllO9JV06hCQeNfWJrS+PFCHiL6ZvJ543Ibfp8gAdQx5UQuFl1cXQE0YirdLjU7ouH8ptj4iFq1pTL7YTzpDfSFKrQWNenB7z3Kta+pi0EoWQ4NtWrVCTNkyM3wdgM+4w=;kxrNgfLEjothjww8zOR7lw=="
 ---
 

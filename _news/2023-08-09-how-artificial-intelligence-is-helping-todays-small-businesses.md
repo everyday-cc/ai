@@ -5,6 +5,8 @@ excerpt: "More small businesses are using artificial intelligence effectively, e
 publishedDateTime: 2023-08-09T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
 webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
 type: article
 quality: 47
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64d2b06367b74f701ad9d11d/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "How Today’s Top Marketing Leaders Are Approaching AI"
@@ -98,6 +107,6 @@ related:
       domain: hindustantimes.com
     quality: 19
 
-secured: "RKrkQ6S3UjFWgjTFga6nb77avypFNQeMVLK6RCkTGeLO6DqhHSp2p77qDv0BvBOXW3LDYlA/wMOUOm6UNy7o1CpM7WDKMVnWj0mQwl30X1aGSmWBOL0tjZJUOW5FyEBEeHJenDWFkTlHBIpXMEXWuxVQ3UU+5FsVKeVC90TXzjXI8lRnA9Q7EVTfWjTRRoxQaYViMEl5dd8doEeCmZcNm9Gq7tvkwKb4nKpyPCYQCwTgSbwoI2Opp68qdmlvvDcLPcAn38cckS0G3aITnso0JNPT98h2SRbVUJ1laYpC+kRLwA79nUJ9kGx80csQT/O1BWQ0wqNY+PIEpgPmYYWfACRNlzAXZh3+r6tWAmM/JkwBvRXRgcJPuTN6iJVn9XEfivYHZwLWPQBpwMXqPdL3uZVltE1X92FzDB+ojMu2FcicLUxqQbORsEZFVOJaki29dPjdkgkYhn1sXSHMDQ6L1yOzbiV2Xk3zWbdcgVNnLfURJfWF1aIQgShO3AY7qxyNCsLepmAHeRzyEOznf2rrSA==;PVcod1jYHlAJaJcrVfyyvg=="
+secured: "DlEmib0dX+li8AkscDRHR4Gq3euKwyQq4z6qdF0VROid6MgwzuR5eatVEre65xmJ7dksJRtWIpiMfkwxEBKg8ORzvpBIU6guixMjeHt1ZmN1K3mPkEUeYnGsfb1UEvmvMq5jILxQ30ytWx5/ohL6vjH0h6vg2Q0EI21/Of3ASIbl4N0A+IE8ncYtYBmSTcJmgmcxAxOi/hcyknVOmd1MPaadyJZAUZf7xdIED2TQQhoAW6byNJTzwc3kfR0YXDNVCQJ2xkYhKIN5L9oTHM8c8lCQP/jL76+T44Riq/Jx6zJ5nP5NXAfkoH0ZWSTphjTlevg6kEVOZXXSaaBg23nFkxEKnm9YtoU9DQc4eqY0HQA=;VpfGmx1euaZPBgQVXN6wSQ=="
 ---
 

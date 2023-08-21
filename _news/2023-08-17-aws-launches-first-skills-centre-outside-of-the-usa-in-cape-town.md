@@ -35,20 +35,6 @@ related:
         width: 2640
         height: 1486
         isCached: true
-  - title: "First international AWS Skills Centre Opens In Cape Town"
-    excerpt: "Members of Parliament joined AWS executives in highlighting the value of cloud skills training to prepare South Africa’s workforce for the future. As part of the grand opening ceremony, AWS invited local community leaders,"
-    publishedDateTime: 2023-08-16T16:10:00Z
-    webUrl: "https://za.investing.com/news/first-international-aws-skills-centre-opens-in-cape-town-2845367"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "AWS opens first African Skills Centre in Cape Town"
     excerpt: "Amazon Web Services (AWS) has opened its first international AWS Skills Centre on the African continent in Cape Town, continuing on its mission to remove the barriers of access to cloud skills training."
     publishedDateTime: 2023-08-17T08:09:00Z

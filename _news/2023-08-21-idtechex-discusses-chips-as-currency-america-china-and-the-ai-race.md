@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/08/21/9867178.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/08/21/9867178.htm"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 225
     isCached: true
 
-secured: "CQa6kwQhukfEnt1EK+Kig8Hf4jgnAeagbgH7VUPJcf6SQ0SmbIrVVLgiVI5dF29j3NUZA0aeoGAMdAPaYgTBoBFKtGeCh1qmhykfYb7c5+X4i00Dc57hJDm5hUqbuhtLKQy9+gz4iRsasBcE4kO2rjCQQPBAlVqJWmtcmk+y8QJUGCELQz+9TiTp6Go/v2aicgmWb+Ia2P69ZlPRHHwW65fe3rEHVKQ6xj5+uZezbMVB2e7LfMxNLQQ2rCBKixrqjhPXC3h4yDWQESmyjXsFDDK7HL6tv7CuV0Lfra9kawIAXy8X5N7rmrr05QuYTxo/CwJnoqjQGOjyLbBiVCzfenCjCqVr9EtVpwKn5Hd9SOg=;lxqtZnWi2m+IIGEFDMZlyQ=="
+related:
+  - title: "Google AI predicts floods four days early in South America and Africa"
+    excerpt: "An artificial intelligence from Google can predict floods even in regions with little data on water flow, and its predictions four days in advance are as accurate as conventional systems manage for th"
+    publishedDateTime: 2023-08-21T07:00:00Z
+    webUrl: "https://www.newscientist.com/article/2387547-google-ai-predicts-floods-four-days-early-in-south-america-and-africa/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+
+secured: "T52meWdaTCqSXXzq1bYyPE/kT0UAqo5b94VPfQT9BT1Xg3wyvuBswHwubWm9C/Lx2pHAcibldzlE2pG2foRjqwuEFhyVHYHWQRYWqPubLo8gQeo7JslipDy2QBL8KYu++G8B6EWQf+JDOmDHpHZ1XMVaMZnXeAwvKbKpv6rKhOewRKTdv930aWNjbPKlryX+jlYyAh3TkLFOpSzsLmg4UY9iACRhUhQHav4igtFIwbGwG3KuI85pOiCAgmczvGEliFPMLJmTTh7rWXPbEXMvLY41Z4QAV5BxoPVhoGjrF+Gu4s0MD5WjtRvDslpa7s6cRfgNuTUQXCn/0b39eC5rcAWx00FIQKLyPgBhbdQEWlcZ5/aW49emDRrpLGC1Wk484rL7Lqt5oxrti79KEH3WynPfdwudU9RMSooimvnF18W9lkOcn0T50zRXmotDq2z/V1SdgyRNmlMWZ6e7WaSNCrDh4IR4PGYNnPz85cVvx0JzUTHYQFqpZWd0NzUixnfhvzRtkZ0vMwcNTChJEjsIFw==;MCfg6bM6A4LlIpBE/8Gg6A=="
 ---
 

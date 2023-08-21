@@ -2,6 +2,299 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-14-upgrading-healthcare-security-strategies-to-combat-ai-based-threats.md",
+      "title": "Upgrading Healthcare Security Strategies To Combat AI-Based Threats",
+      "excerpt": "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
+      "publishedDateTime": "2023-08-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food.md",
+      "title": "This AI Startup Has Saved Grocers From Tossing Millions Of Pounds Of Food",
+      "excerpt": "It means that fruits and veggies are not sitting around for nearly as long at grocers like Cub, a Minnesota chain with 100 stores, which is moving produce in and out of its stores 7% faster than before. The retailer has also seen a nice 2.5% boost in sales from improving its in-stock levels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
+      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d68ed1ee3896df3c5b2603/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ibms-brain-inspired-chip-embraces-energy-efficient-ai.md",
+      "title": "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI",
+      "excerpt": "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/",
+      "originalUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2023/08/milad-fakurian-58Z17lnVS4U-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/",
+      "publishedDateTime": "2023-08-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-how-to-take-action-against-ai-bias.md",
+      "title": "How to take action against AI bias",
+      "excerpt": "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
+      "originalUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
+      "publishedDateTime": "2023-08-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom.md",
+      "title": "AI startup Anthropic raises $100M from Korean telco giant SK Telecom",
+      "excerpt": "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
+      "originalUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
+      "publishedDateTime": "2023-08-14T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ump-introduces-artificial-intelligence-technology-for-enhanced-chest-x-ray-analysis-efficiency.md",
+      "title": "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency",
+      "excerpt": "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
+      "originalUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/Group_photo.jpg?h=252f27fa&itok=YgGwlpBJ",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
       "title": "Is Generative AI Destroying The Internet?",
       "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
@@ -883,272 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-self-driving-taxis-get-247-access-in-san-francisco-what-historic-vote-means-for-the-city.md",
-      "title": "Self-driving taxis get 24/7 access in San Francisco. What historic vote means for the city.",
-      "excerpt": "SAN FRANCISCO — San Francisco is the first city in the world where two separate self-driving taxi companies can offer paid rides after a historic – and contentious – vote by the California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/05/USAT/21a65166-49d9-48d8-b9a2-c94173f585c5-Weise-2023-04-29-6876.jpg?auto=webp&crop=4031,2268,x0,y151&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-democrats-laud-federal-agencys-ai-move.md",
-      "title": "Democrats laud federal agency’s AI move",
-      "excerpt": "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story FEC’s AI decision cheered by Democrats Three Democrats who urged federal action to",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
-      "originalUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
-      "publishedDateTime": "2023-08-11T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice.md",
-      "title": "AI's Role in Modern Healthcare: A Closer Look at Clinical Practice",
-      "excerpt": "The \"Artificial Intelligence (AI) in Clinical Practice\" report has been added to ResearchAndMarkets.com's offering. This report delves into the use of AI in clinical",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33765664",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33765664",
-      "publishedDateTime": "2023-08-11T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law.md",
-      "title": "China closes record number of personal data breaches, moots facial recognition law",
-      "excerpt": "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
-      "originalUrl": "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e62c52c5ce87590f1066d076e19db9058ee87c0e/2023/08/11/893c158b-a331-42d7-a1ac-95c95a6f9fb1/gettyimages-1443495508.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
-      "publishedDateTime": "2023-08-11T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms.md",
-      "title": "Advocacy group raises privacy concerns as facial recognition technology booms",
-      "excerpt": "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
-      "originalUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
-      "publishedDateTime": "2023-08-11T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-black-hat-usa-2023-panel-used-correctly-generative-ai-is-a-boon-for-cybersecurity.md",
-      "title": "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity",
-      "excerpt": "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/",
-      "originalUrl": "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

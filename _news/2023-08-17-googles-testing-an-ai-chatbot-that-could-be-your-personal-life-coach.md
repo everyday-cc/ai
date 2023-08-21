@@ -27,93 +27,114 @@ images:
     isCached: true
 
 related:
-  - title: "Opera adds AI chatbot to its iPhone browser"
-    excerpt: "AI in Opera is also an opt-in experience. You can choose to enable or disable it depending on your preferences. Your chats are saved for 30 days, allowing you to access and resume a previous conversation."
-    publishedDateTime: 2023-08-16T17:02:00Z
-    webUrl: "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+  - title: "4 things Claude AI can do that ChatGPT can't"
+    excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
+    publishedDateTime: 2023-08-21T09:41:00Z
+    webUrl: "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a20bea777a6b3f02ce0d1bf37dce3c93cb0d38da/2023/08/16/ea0c354c-5064-417e-8746-3366e44b302f/figure-top-opera-adds-ai-chatbot-to-its-iphone-browser.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/10e17e3b47695ed9d7b5839f3ed9d5ad130db1f0/2023/08/18/0037d63a-2356-4f19-b56c-e121f7f84577/race.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "McKinsey launches a generative AI chatbot to bring its knowledge to clients"
-    excerpt: "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information."
-    publishedDateTime: 2023-08-18T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapchat’s AI chatbot posts mysterious video and goes silent, spooking users"
-    excerpt: "It's not Halloween yet, but some users of Snapchat feel like it is. On Tuesday evening, Snapchat's My AI chatbot posted a mysterious one-second video of what looks like a wall and a ceiling, despite never having added a video to its messages before. When users asked the chatbot about it, the machine stayed eerily silent."
-    publishedDateTime: 2023-08-16T16:40:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
-    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
-    publishedDateTime: 2023-08-17T07:01:00Z
-    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "My favorite AI chat apps for the iPhone"
-    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
-    publishedDateTime: 2023-08-16T18:05:00Z
-    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
     quality: 47
-  - title: "AI chatbots could fill gaps in postpartum depression support and care"
-    excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
-    publishedDateTime: 2023-08-18T16:48:00Z
-    webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
     type: article
     provider:
-      name: kristv
-      domain: kristv.com
-    quality: 39
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
+  - title: "OpenAI may have to wipe ChatGPT and start over"
+    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
+    publishedDateTime: 2023-08-18T21:35:00Z
+    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a0040e/2147483647/strip/true/crop/2462x1293+0+55/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4f%2F02%2F8893f3df435e89c8c7f3480bb531%2Folderpregnancies.png"
-        width: 1200
-        height: 630
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
         isCached: true
+  - title: "ChatGPT is a Glorified Tape Recorder"
+    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
+    publishedDateTime: 2023-08-17T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 26
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Kaku_Michi.jpeg"
+        width: 1200
+        height: 1800
+        isCached: true
+  - title: "Google Gemini challenges ChatGPT"
+    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
+    publishedDateTime: 2023-08-18T01:36:00Z
+    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
+    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
+    publishedDateTime: 2023-08-17T11:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
+  - title: "How ChatGPT plugins can up your SEO game"
+    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "nvjoqW1rNtnx/CZGL1Aue9Enb39KDQYrmWO2FYkm8726otm7QcMnWtimJqUXHMgjy0eeV1I5axb+BdfUcSgx0hGDfXXYR1OcSl/QhyWfZpNPF/7D67IbImjwuGc0c2+sM/2nKcQbtAp323zLCzCrZnnPzAShbkXXlN32eYcnqgb1yVO+qg6r7D8VXTxPn1jNTz0o2mqe0LZh8iPYm/3mYWbJ4jiA1SSonVDfBOeqD6MXRcTtLPY43hy9W+ooSuwQnO6JtjVh+cqFqguBzzPnLViz2cFOhY/GPLqa72HyWHUHlSpGlkf1chDCzdJGhzwbp/F3al/GZZYZqS+4Xbe181hcLFfvUybSqywKTlj2p/m3HDwmydVFhv6/a+Y9Y6DB7uvM/ZNhbHtymX/G5pHj0iJTdjCbfmOyGiwvNE2xd45JhJ6eT6jpQzYKhA3xukS/udJA21FQRWlfQdlawWfQw98Uro+GauUjUKWnMjREGPy8YIy1mq32Dj9bGPhpmvuM0tXapDmiecRGmgk8tx6FCQ==;D1V3fnEORtmdd4NjlPI/Rw=="
 ---

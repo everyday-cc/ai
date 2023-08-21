@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-efficiency
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-efficiency-harnessing-the-power-of-selective-execution-in-amazon-sagemaker-pipelines/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: AWS
@@ -29,47 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker"
-    excerpt: "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery"
-    publishedDateTime: 2023-08-16T16:00:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/"
+  - title: "Revolutionizing Business Efficiency: The Azure Consulting Paradigm You Need to Know"
+    excerpt: "Azure consulting is a strategic approach that empowers businesses to leverage Microsoft Azure's full capabilities. It involves seeking expert guidance and support to navigate the cloud journey successfully."
+    publishedDateTime: 2023-08-21T08:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2565218-revolutionizing-business-efficiency-the-azure-consulting-paradigm-you-need-to-know"
+    ampWebUrl: "https://www.devdiscourse.com/article/business/2565218-revolutionizing-business-efficiency-the-azure-consulting-paradigm-you-need-to-know?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2565218-revolutionizing-business-efficiency-the-azure-consulting-paradigm-you-need-to-know?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png"
-        width: 1260
-        height: 604
-        isCached: true
-  - title: "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift"
-    excerpt: "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements"
-    publishedDateTime: 2023-08-17T15:31:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 94
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png"
-        width: 1216
-        height: 630
-        isCached: true
-  - title: "Leveraging AI for a Transformation in Financial Services"
-    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
-    publishedDateTime: 2023-08-17T06:56:00Z
-    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_08_2023_14_15_18_885098.jpg?width=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "ocZa8Wh3iw8H+FIhO3o4+cjNjOXzqVYrVHWEz6BWR/uXqshlx4AirVoq6htz3gT5yTC6dTSs4kurUW8xfaa3P7gin5ZEJ1+tIGqPnXBmP5iRkPa86AcZ3VQf+7ddRZT/DQayTTdmcRvqXXE4r63MTRmI8s+/Cqje56+ghU0t3ITDHcHbFHpcsiXF3ZZ5aoseNeYdkD//Ja+XPPikoBOfRr5PR+yi+4JK2wgk37wkVrSQVbSsS7RInTQnYYfjeuTn+7CwECcOiwCLgY0+7Y1q1Zi4Feeq4Kezp+zeUaKyEj2piCKldysPkDojhbv/3rn3TPBs4Otn4Fz6dnAeZ4Zs4BTKd6jiRhC1CnLTiEeII4Q=;nrPoGwtT9BCalxYEBoVtaQ=="

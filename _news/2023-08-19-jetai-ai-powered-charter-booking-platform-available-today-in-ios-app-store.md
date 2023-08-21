@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Express Replaces Design Guesswork With AI Text Prompts"
-    excerpt: "Adobe's all-in-one Express design tool has exited beta and is now available globally with Firefly generative AI built-in."
-    publishedDateTime: 2023-08-16T15:08:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06Azr9wtaq3iWgutpTnwS1F-1.fit_lim.size_1200x630.v1692197835.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "SvzGozd2pa+plXpDfHc7kLAMRmCWwLX903oV3uwIaAgkamwNxSsZF04Oir4+Um0ymXCLhM4waBV6ul4Aqi/eOmv0OPZQaoCYTga7zCoSOcNuD/ToQad7Nm/QLK9FO7xoEf+oWHR5brT3LXT8xSL9+u4+P0Mr5xRem5qZpLjvxxu9EK5CD9B+DxmExeydCqTb4wE6rZLvWiQy+i0QkZHlJS8JUaaBJJlgt3u6xguSike+hSTutRAlGQURueeNZy+34PsLUGkDWwt98mlE76c8SCxhxeawavEU99Wcqkw01fesCoViFcj3yUhO0zqKn4i89idGwcbRxqAnsZrCVlhj4Bs+1OCLDucrZv77FZtRqzM=;F7mk02QSPTdczikaSYZ5gw=="
 ---

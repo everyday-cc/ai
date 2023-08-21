@@ -30,93 +30,45 @@ images:
     isCached: true
 
 related:
-  - title: "Opera adds AI chatbot to its iPhone browser"
-    excerpt: "AI in Opera is also an opt-in experience. You can choose to enable or disable it depending on your preferences. Your chats are saved for 30 days, allowing you to access and resume a previous conversation."
-    publishedDateTime: 2023-08-16T17:02:00Z
-    webUrl: "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+  - title: "Snapchat’s AI bot sparks privacy panic after it posts photo on its own"
+    excerpt: "Snapchat’s new AI tool, My AI, freaked users out when it automatically posted a photo to users’ stories who thought the chatbot snapped a photo of their ceilings. They later found out"
+    publishedDateTime: 2023-08-18T16:14:00Z
+    webUrl: "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/"
+    ampWebUrl: "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a20bea777a6b3f02ce0d1bf37dce3c93cb0d38da/2023/08/16/ea0c354c-5064-417e-8746-3366e44b302f/figure-top-opera-adds-ai-chatbot-to-its-iphone-browser.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "McKinsey launches a generative AI chatbot to bring its knowledge to clients"
-    excerpt: "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information."
-    publishedDateTime: 2023-08-18T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Snapchat’s AI chatbot posts mysterious video and goes silent, spooking users"
-    excerpt: "It's not Halloween yet, but some users of Snapchat feel like it is. On Tuesday evening, Snapchat's My AI chatbot posted a mysterious one-second video of what looks like a wall and a ceiling, despite never having added a video to its messages before. When users asked the chatbot about it, the machine stayed eerily silent."
-    publishedDateTime: 2023-08-16T16:40:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Google’s testing an AI chatbot that could be your personal life coach"
-    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
-    publishedDateTime: 2023-08-17T01:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: New York Post
+      domain: nypost.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
-        width: 1000
-        height: 562
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023510159.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "My favorite AI chat apps for the iPhone"
-    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
-    publishedDateTime: 2023-08-16T18:05:00Z
-    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
+  - title: "Snapchat’s AI gaining sentience was not on my bingo card"
+    excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."
+    publishedDateTime: 2023-08-19T22:15:00Z
+    webUrl: "https://bgr.com/tech/snapchats-ai-gaining-sentience-was-not-on-my-bingo-card/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "AI chatbots could fill gaps in postpartum depression support and care"
-    excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
-    publishedDateTime: 2023-08-18T16:48:00Z
-    webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
-    type: article
-    provider:
-      name: kristv
-      domain: kristv.com
-    quality: 39
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a0040e/2147483647/strip/true/crop/2462x1293+0+55/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4f%2F02%2F8893f3df435e89c8c7f3480bb531%2Folderpregnancies.png"
-        width: 1200
-        height: 630
+      - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1330
         isCached: true
+  - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
+    excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
+    publishedDateTime: 2023-08-16T18:51:00Z
+    webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 15
 
 secured: "HZYa8YAJdEB38NOe+mu3u3eau7bcx7PBsjey05hGg3yTBUkBqFVRM889+UWjTu+rvOjEO6p5x65h2p6+qDsC42zsLE0kjNu3UXF7Hu9cjCSBfnAnsV6+Xh9VBsL6ARo2FDNIJTo0xac+m2YHq4eXcR52PLTMwWg6gs9vccWymPJCeNRY96ejRwz4FqNRLcfGmivyVLqB5yGYMxceAYaTwZuS3cQpfqL09HJz6P0dBtK/OHL1ilj4IbbeqXvU/wVqvM4OKPmrqKhDPMYTZFuKWmjqGsaZavNnXVjVOjpAaulg2oxUuNvbjBX3QqvL/YyLQouMS+l0G6yg5a6tsV7RhFppoZbfMsuBCllSaMfYZ1MD7VtZRDHvS6DLEFtc8Qyh9rFjg/mNeYcgQlR9r7YNbOtbqwiSYY0Q9+jTf3jjwkYTgt2A1R6DgN4jSc5vYmTeCbUqxzagt/g0pXUdyTVaeHUiGSfDyMVjYntA99jmkzgUhEmnibIcPLIb2ekAL7tF9hApLYyW58hC5pP4WYppkQ==;ogiZvPdB+jL3LIwLDPaIVA=="
 ---

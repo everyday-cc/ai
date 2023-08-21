@@ -41,16 +41,7 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "London-based AI startup secures six figure pre-seed funding"
-    excerpt: "Electric Sheep, an AI tech startup in visual effects (VFX), is thrilled to announce the close of an oversubscribed pre-seed… | London | Funding | Technology | Innovation | Technology | Investment |"
-    publishedDateTime: 2023-08-16T15:06:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/08/16/london-based-ai-startup-secures-six-figure-pre-seed-funding"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 17
 
-secured: "hdMtZE/forPJABTztVu3c9bkcfmtiugAzrtGY7j4am86JeNuzi2B4425Mcv/M1wlVibAjPjqwtDzL0dQUgYvrcAHL3kPOVo8jOIoEu/fzw7yu1DQjY147dy2+OTlPbpvCRHtSZz6fyXvtG/tiLDITA+QHtY5ruekKoXwp+k9Tiw8fhXdFYjIO68TuzgFKeGHp/gdyr23EqC7dlcT3X/ZObfJe0l+E9sI6p2auCX74Z/hoXIJGaIe984SF4AWnEekA+3qSEiqxM+lZ7FPcMyeelQ1xdLuaLiTQNNVUcNyx4vfB4DRFYMXUJ9KAzzsXcAVz12Cn7YmhjGcWy3SmI0teHkThOcuHF4XtuBs1OdGvVA=;1AA9wqnIi9ELdlm5CZDO8A=="
+secured: "ZhFYURSMdLlpT/w+eCqSq6D+YP07aRbSn+203wPdEoZ9Q0BWANpZUVTym3lHg7Bf+6mcZLW7qnbVxvpJXnxCQlbijoutH8KXb3WrTmZG0fvb1b8elwqGp+vUrLutqOQBtrnyR42iiU0dQ/7CdD8N+0lYAGD+7KQA1m4xlb3Bb0qydSCENcYqGRf/yCEwiRO/TcSxnNQhj8PsjDxYEhnlHO/xodLLsKaFWBQM4pVcFUfBN+Yxh5/YoEPfy9nkmw3JFkdWEpybqI4PDSswUwIWmk3Riz4dst39XLUh5emmZzaRShUn8okDfm4PBP17ec+56Aby6lQSiaMYpcMn9K+eF2QDS4/Lr0QWWzxtS4QqSbflTcfd51ilq6ahYI+9tMF1CsXSN9QCrfNUddzDmLNI6KsbVbBG0sHC4HuNptwfi8lhJknbHt/mLV0XdzPm0j4FHlDF2pwNjY7abq0/AtpXTKLyzpGTWOe/Aqbrjf42+5cnW0SpOZsavKyR+yvhNE1/vh9YA3puAFmcf9X7er2tPA==;A7/HySi2/4vb9r4ybHfIEA=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Applying the lessons of open source to generative AI"
+    excerpt: "The excitement and turmoil surrounding generative AI is not unlike the early days of open source, or the Wild West. We can resolve the uncertainty and confusion."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_17221348-100944913-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Cutting Through The Hype Cycle Of Generative AI"
     excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
     publishedDateTime: 2023-08-19T19:59:00Z
@@ -165,6 +181,17 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Part 2: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
+    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
   - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
     excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
     publishedDateTime: 2023-08-20T06:01:00Z

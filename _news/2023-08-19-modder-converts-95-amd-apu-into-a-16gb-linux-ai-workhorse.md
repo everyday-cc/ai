@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16g
 webUrl: "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechSpot
@@ -27,6 +27,22 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "Budget $95 Ryzen 5 4600G CPU turned into a 16GB GPU to run AI apps like Stable Diffusion"
+    excerpt: "Turning the $95 Ryzen 5 4600G into a 16GB graphics card creates a cost-effective way to run AI apps like Stable Diffusion without breaking the bank."
+    publishedDateTime: 2023-08-21T07:58:00Z
+    webUrl: "https://www.tweaktown.com/news/92943/budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92943_01_budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "GOFat4Dm8683RZAKYeXdWjbCbZkmXzGt/iJ+ZYtGhl2s+nRrLLKK7zrBVsm9u2IUSsTZtaYk2BLd/w0WeB71B4+hs2SekegPMPA4DjmVbzjHcHcs1ofsMjREO47X42WUAymIFPCgTfvzZUtkfRmnwn5/+cE/mX29K0Stt8la+h9bcqcotVlrgWJBD0I/kZYiWUsaZAK2kEChjCV0uVtLcEPth/uTpAYBmZyx1YOo/XLR/09YubgsiW6T7F/MFQMf4YzIOLLK1tHiX6LsIBNIVlRwfjF/MA8xkQSGuSwhiDo5n1Rq4llQNbN4uKKu5cjeSs/yu5HcwQQPfz2Brn/IgUEFuX/CDdtyYKMk+566z+Nvh2vZ3mBOlMzZ2E+AZuGCLEULxsgk33niMzjw5jTM1xGy8dQdJZnfSBdXEU/ijHO3KjKBj0ECpY93cOx8AzptYdIrmAYGtYsd8ZcwWNNLCGuET/Z7ch58sdBlTXuLD+82cciPrsgMfLNbJ28Q+qEC4DQGJpWC4M6K7fMdXBkkEA==;PMDV41QFI6p+iC3rB6+6Og=="
 ---

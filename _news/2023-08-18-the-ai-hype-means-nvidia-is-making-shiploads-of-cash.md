@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas"
-    excerpt: "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ..."
-    publishedDateTime: 2023-08-16T23:27:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
+  - title: "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?"
+    excerpt: "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/"
+    ampWebUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 73
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop"
+      - url: "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg"
         width: 1200
-        height: 800
+        height: 667
         isCached: true
   - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
     excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."

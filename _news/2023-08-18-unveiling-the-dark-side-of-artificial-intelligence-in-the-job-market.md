@@ -70,15 +70,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
-    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
-    publishedDateTime: 2023-08-16T16:19:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+  - title: "Leveraging AI for a Transformation in Financial Services"
+    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
+    publishedDateTime: 2023-08-17T06:56:00Z
+    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 7
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "oQkqfmR024cReP4+kxnLDaS6ZuAHxuY8BOwh7JHXSpIC3wmX8e8Rk8V7AYuukO6lqAlhyITv1DqLbuKLGBV0sbwupOY49ULvM63pn+IUR/RDox+gGA/HX1t3rdAGdIi5Mx7m+eS15gWFWK49LTgukNtN0VqQR7pm+2uPfSrQk/uQpaF6AH3V96SfJC823/AKMXJV9dnaGKcPLCatCnQXNOt7Byl2WY9moI6KdIzElv11MtiDJ3/osa8Km7SdpiMlhyd4xejsqRlDzX7s2efWWUcN5SIuA16mrvCL/exzt5Rym6i3hVhw0vNwejB9x1m3BOwOmjD4MhnBJmj45O09uxTd+I71Kbm9NJogXfnVGOxdwj6oCj7eFlhv9bVch7pLApFemDPZqNupEuy7wRr1egy/NeNTB2H5SIx86uVim6oA4jmkJ6hNBuV/v2Muk0mUcIGUq5wKk62oLCF47+OXd6pIfsxpy62e9G+1RcLBuAr0em0yVcij/sJI3EhKIKUB7ckqLf1ZTd2k+9Tk97gPbw==;TUOgVBoRj7huff/elNKdnQ=="
 ---

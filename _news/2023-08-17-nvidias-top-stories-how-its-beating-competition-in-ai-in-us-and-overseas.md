@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,29 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "The AI hype means Nvidia is making shiploads of cash"
-    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
-    publishedDateTime: 2023-08-18T06:11:00Z
-    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+  - title: "NVIDIA Stock Could Push This Leveraged AI ETF Even Higher"
+    excerpt: "Graphics processing unit (GPU) company NVIDIA (NVDA) is the top constituent in the index underpinning the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT)."
+    publishedDateTime: 2023-08-16T23:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-stock-could-push-this-leveraged-ai-etf-even-higher"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
-        width: 1187
-        height: 667
-        isCached: true
-  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
-    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
-    publishedDateTime: 2023-08-17T19:47:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 33
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "XT4BOvuaW9h1GgxE1/vu5rXPGTLuvv7f4Ys0wbi1H0CS4LB58Bt/P79EYm+LbYVJE/yBZh6lClJP5nSyZEys1Ou3Sjd8YlZKyeMROrmBaeZzfQzPKOLBjaNtqMs4He/2eZodimYP0TzOEZjjy/oHAhEFAbYfnc9JxkJVTDHU7CqDHCnoW57tsjbv816PgqDcOxnOO5cqVIs2TH9U+r/XGRhcJxKv1Bz4djWK3je9reYYXpxtlv1WeFHKFsAyg0laTHYfUxdiz+uDjfPAYst9htcs//k8PndUA1BFfUF4GdTfh97r4uhj5ncGUYh85lcmA6PXfSaZiRaYYuhhJpQzZvyMxB2U7ejh6nrNu9fquUI=;FUv/ZTAVmA5KjrLBwyx9vQ=="
 ---

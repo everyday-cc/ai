@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Snapchat users freak out over AI bot that seemingly had mind of its own"
-    excerpt: "Snapchat users were alarmed on Tuesday night when the platform's artificial intelligence chatbot posted a live update to its profile and stopped responding to messages."
-    publishedDateTime: 2023-08-16T15:19:00Z
-    webUrl: "https://www.wesh.com/article/snapchat-ai-bot-users-freak-out/44830032"
-    ampWebUrl: "https://www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a5475a088ba7cb809c9a74c80e42814c-h-7942dcce343d620a9e06743251463e0a-1660064279.jpeg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Snapchat’s AI bot sparks privacy panic after it posts photo on its own"
     excerpt: "Snapchat’s new AI tool, My AI, freaked users out when it automatically posted a photo to users’ stories who thought the chatbot snapped a photo of their ceilings. They later found out"
     publishedDateTime: 2023-08-18T16:14:00Z
@@ -49,6 +33,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023510159.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
+    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
+    publishedDateTime: 2023-08-17T07:01:00Z
+    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Snapchat’s AI gaining sentience was not on my bingo card"
     excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."

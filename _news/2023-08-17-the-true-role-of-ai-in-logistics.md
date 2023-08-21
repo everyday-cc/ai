@@ -69,15 +69,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
-    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
-    publishedDateTime: 2023-08-16T16:19:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+  - title: "Leveraging AI for a Transformation in Financial Services"
+    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
+    publishedDateTime: 2023-08-17T06:56:00Z
+    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 7
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "QvYUyTu93Eu3Lrtt4wjuHqXhhdP40JxnXih8ogB8GqEv79028zKhtQKxmMJ3B1uIw3yJnV3rAR+AwIXAF0CkAydFrG9GeYb3vGDFqWFaSRFzM7TheSwl2mO3gKU1dXyasVSqL15HZP1u+WE3K5CGKhuJb7KBXIpgC2PnI2GqSC08nc8hMYoihMUwIh0Y3/K3i2nBjyy7VsKYDuxnVWngcsrUtjiNPs/fqaOq2JzwCIA6boCrgN3q7DWher2URbMOpq/dKTX4rXyNUtH/b44tkh9NRBD7mCWp8aoQSDwqw2WdMA9EafBoCsiVBeHOguz4n7FWrOP3wmxlhi5uX6BT0JXhhhpKG4DMhOLTBC5/I4cR4dhoS37GxzY70LYfc/8jgVYgeDP2DVMCZ+mngAX+x1JQD5javZgBK1Y8YUNAt4uKKE3uGhPI9vRmFQ8Uuufc2U4Z2BpoptuCeWG9edheJHjPx3gCX4yK30DKlxmvk5V5Wpzm8WcqZZyHr+9hz2BKA5xE7Nygg/oX9kEDBUZAjw==;MPzcfHZSKRyAVOzl+eaT4A=="
 ---

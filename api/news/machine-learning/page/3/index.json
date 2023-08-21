@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
+      "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
+      "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-machine-learning-artificial-neural-networks-localize-extrasystoles.md",
+      "title": "Machine Learning: Artificial Neural Networks Localize Extrasystoles",
+      "excerpt": "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg",
+          "width": 1181,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
+      "title": "Researchers successfully train a machine learning model in outer space for the first time",
+      "excerpt": "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-complex-domain-neural-network-advances-large-scale-coherent-imaging.md",
       "title": "Complex-domain neural network advances large-scale coherent imaging",
       "excerpt": "by combining artificial intelligence diagnosis, this technology may unlock the secrets of complex biological systems and push the boundaries of medical diagnostics. More information: Xuyang Chang et al, Complex-domain-enhancing neural network for large ...",
@@ -1206,109 +1338,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-allen-institute-for-neural-dynamics-launches-first-ever-crowdsourced-neuroscience-experiment.md",
-      "title": "Allen Institute for Neural Dynamics launches first-ever crowdsourced neuroscience experiment",
-      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
-      "originalUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
-      "publishedDateTime": "2023-07-13T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-profet-ais-first-overseas-crossover-talks.md",
-      "title": "Profet AI’s First Overseas Crossover Talks",
-      "excerpt": "Jonathan Yu, General Manager of Sales of Profet AI, said: “There are more than 5 trillion-dollar industries in Taiwan, and Profet AI has over 100 success cases. We’re going to take these experiences to Vietnam. We want to cultivate local talents with our advanced AI technology, which will help both markets grow.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/profet-ais-first-overseas-crossover-talks/",
-      "originalUrl": "https://www.macaubusiness.com/profet-ais-first-overseas-crossover-talks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-the-financial-services-industry-is-employing-machine-learning.md",
-      "title": "How the Financial Services Industry Is Employing Machine Learning",
-      "excerpt": "TradeTalks broadcasts live from MarketSite in Times Square, the historic Philadelphia Trading Floor and Global Industry Conferences and Events. Featuring conversations with top industry thought ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "originalUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

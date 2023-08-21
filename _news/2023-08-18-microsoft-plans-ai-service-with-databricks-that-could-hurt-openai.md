@@ -110,15 +110,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence designs advanced materials"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
-    publishedDateTime: 2023-08-16T16:41:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811143817.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
     excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
     publishedDateTime: 2023-08-17T10:56:00Z

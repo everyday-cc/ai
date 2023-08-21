@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "4 things Claude AI can do that ChatGPT can't"
+    excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
+    publishedDateTime: 2023-08-21T09:41:00Z
+    webUrl: "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/10e17e3b47695ed9d7b5839f3ed9d5ad130db1f0/2023/08/18/0037d63a-2356-4f19-b56c-e121f7f84577/race.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
     excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
     publishedDateTime: 2023-08-16T20:20:00Z
@@ -36,6 +52,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s testing an AI chatbot that could be your personal life coach"
+    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
+    publishedDateTime: 2023-08-17T01:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
     publishedDateTime: 2023-08-18T21:59:00Z
@@ -45,6 +77,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "OpenAI may have to wipe ChatGPT and start over"
+    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
+    publishedDateTime: 2023-08-18T21:35:00Z
+    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z
@@ -73,15 +119,15 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
-    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
-    publishedDateTime: 2023-08-17T13:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
+  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
+    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
+    publishedDateTime: 2023-08-17T11:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 15
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
   - title: "How ChatGPT plugins can up your SEO game"
     excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
     publishedDateTime: 2023-08-17T13:00:00Z

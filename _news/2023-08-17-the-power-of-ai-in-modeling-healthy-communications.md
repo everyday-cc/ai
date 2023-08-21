@@ -70,15 +70,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
-    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
-    publishedDateTime: 2023-08-16T16:19:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+  - title: "Leveraging AI for a Transformation in Financial Services"
+    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
+    publishedDateTime: 2023-08-17T06:56:00Z
+    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 7
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "0hYaq4bajR6y1IEI2QUKE2sMs9v6K48FYYze06IuNPdXN4zCq3qwBnBudo+NOT/J0PiXKmeL3Runk0vC7qXtxBqVx1fe9S6VjjqAEpzd2NAx1cBech8jiIUVuqKEFo8ISTsM5cRn+1+XGdjjnj4Alryk5RL/vKR3BWOAVRGiaVZFOzq8MEbKQLqZZIEhnLBEXFRTXNhLSKFNzaZHLi43mtUS+CNMdZPcScuMGpb0TdSxK6bpFqaZNoIaoCfz1p1S/17syfPZnSZah688kyUBKZBEBI1vHba/22fqQokUkGh5/IUKlUMh3bKw1jzQI49l1rUHEK6DuK3ssUVSxm87TnLj7qDwZc+p9BmNSZuh8Rdyw2OYQs6nZafA8Ta33Cwzfqb7kNMHYBaBFm3RgmWlKyXCuUPqR8BqESaSbMi994jDyyVODrHICcX57BlWT0K10Tr1ryCiZFXbWR7/+0AZA4FYiAJMg+lV8ivNSMnLquNlyo6gEfrSNIQ4pooD0eV1+bFAgrcCSmMJ6Bhpqy80XA==;9Az4WSUx8+AOyR8SrqYW2g=="
 ---

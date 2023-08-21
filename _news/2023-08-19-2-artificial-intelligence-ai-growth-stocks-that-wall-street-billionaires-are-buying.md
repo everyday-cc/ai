@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-
 webUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
+    publishedDateTime: 2023-08-18T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-ai-stocks-to-hold-through-thick-and-thin-1032566550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "HTu2mb2OXDXm7azJb4LonLsWK9spoEVvCeYQaTScTAmHHMx/tEiER72xcUPtlRYtevm18oG0n/AcqxRlkY0/TgbIpQO/vFru2S3gvuw0Q2s+aqzCzibtnzJG/Lv2rehVg70gm6uLJmuIQ0dyxgtCBC6mmsNIEgJT2ZQJoGHlHs97zDqKRretHvMX7dJ876WA4DwttecJGo7IgUo44q1GlXBfaUSALX/XTXRYXFb9RDtzSMFAfVjXSX3eokg3QCYo7YJex+HyQdX3v3fPgXeVpCNtErPe7o3fQNz0sK3jAyYiQs3In7L3REskszyhSzHrlfa1bHYOotsA22cAmjRrOsSWdCUTHI35n0rKUGJ44O6Q5r2QtYp+DpFeV70MlOTJ2XkmvXeVaZAgZgqOgGWys9xaKYfgIwAQ4LgFS7Oe2pMA7/blC+u4AHKPpog2ueTI7Alg6lNf9VwhTXvw5gz8Uon+5vGFjNprEZUtmp3YYf7Bl1NHihub2OD4Vr8oUenxJ2nWH2QgOB/gXX+s7zkRDw==;SsXbc5o/Gr4qRcfP7Yc6bQ=="
 ---
