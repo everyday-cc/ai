@@ -45,20 +45,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "e92plus digs deep with new cybersecurity vendor partnership"
-    excerpt: "Cybersecurity vendor Deep Instinct and British distributor e92plus are partnering to expand reach of prevention-first cybersecurity approach with VARs, MSPs/MSSPs and CSPs. The vendor claimed that overall, the industry has failed to eliminate manual intervention and reduce the pressure on SOC teams so they can focus on higher value activities."
-    publishedDateTime: 2023-08-16T11:37:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4122332/e92plus-digs-deep-cybersecurity-vendor-partnership"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 24
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/18c3663/65af51a2-a183-426f-b96e-2dd42c31da17/8/security-padlock-iStock-1182226451-s-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "This week in enterprise: Gen AI hype, cybersecurity leaders and laggards, and Cisco’s tech spending boost"
     excerpt: "The outlook was positive as well. For its fiscal first quarter, the company expects adjusted earnings of $1.15 to $1.17 a share, up 40% at the midpoint, on a 16% to 18% rise in revenue, to as much as $1.85 billion. For the full year, the revenue forecast is a tick higher, between 18% and 19%, with adjusted earnings up 19% to 22%."
     publishedDateTime: 2023-08-19T00:19:00Z

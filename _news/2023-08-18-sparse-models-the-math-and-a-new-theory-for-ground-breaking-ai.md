@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-york-times.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
+    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
+    publishedDateTime: 2023-08-21T04:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 52
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Navigating through a world with growing and advancing artificial intelligence"
     excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."

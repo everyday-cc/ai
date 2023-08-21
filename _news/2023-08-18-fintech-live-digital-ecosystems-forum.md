@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosyste
 webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "FinTech Magazine’s Top 10 companies in APAC"
-    excerpt: "Keep scrolling to learn more about FinTech Magazine’s Top 10 fintechs based in APAC."
-    publishedDateTime: 2023-08-16T12:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-companies-in-apac"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "Qem0uZUAUn/A4p59jJSxHf+DVjNCG9OT+hVAqiUjnqpXdcpuU9JLcP0KukcdT51L2e6KoBf8MYNmsamTh1uQ0qaPwf3t9168rACBvEwPAWgAOdtgx5PGkSDEfvOkD0HdoM4hiAsqU8HM56pNaYfQejXKIo5VDgvOCAC/aeMHRn8Y7PFCOckp4TdBCYlIcVqIJmKsM7dT1eMAXPQhfc5sTWj6vQRIraAOnzqKljEMmeSVe3qdnR010eFoMA9uMruw5k1zV9BqB6kTmOPr1gkXt9tfYKzZbMaQhPBrzYjAd0YmjQK6oAjGqp8L7Ua6LdWhY+vgxF6+fCn7q4ayeU52P1qEBnunHDPmbvcLucnYskfhX5Xh1MyK/nAumWYlNdqRx/Bs38zX+ODPg/fKvbVJkOOIGkiMtzmr//0C8XfxsgMSaeDzh4FhGTAkcVqcryClXUjQHUZpFO+HZrWQwPf2I6sngqotQJUqMBMJ8BxyGxkz/Lm0a6c8uI5faTP5dwRSAJLBCAMKBaXvv8xMimCYrg==;ehtx9+sSccMjGV+YhRVfqw=="
 ---

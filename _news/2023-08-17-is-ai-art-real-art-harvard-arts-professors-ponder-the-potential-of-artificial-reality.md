@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI replace artists?"
+    excerpt: "The Delmar Loop store has a paper note axed to the custom-printed shirt: \"This design was created 100% by using an AI Graphic Design tool. Our designer specified some keywords and, after several iterations,"
+    publishedDateTime: 2023-08-20T06:11:00Z
+    webUrl: "https://www.stltoday.com/eedition/page-b7/page_d15c005f-b590-50a1-b27d-3c0150210d3f.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/eedition/8/e2/8e2c1045-d139-50e2-b4a7-ef96770a781b/64dfbe964269b.fullsize-img.jpg"
+        width: 792
+        height: 1692
+        isCached: true
   - title: "Can AI replace artists?"
     excerpt: "The program uses artificial intelligence to produce art based off a text prompt ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose ..."
     publishedDateTime: 2023-08-20T22:00:00Z

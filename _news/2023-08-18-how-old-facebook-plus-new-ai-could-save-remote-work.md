@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3705092/how-old-facebook-plus-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705092/how-old-facebook-plus-new-ai-could-save-remote-work.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Company that moderated and filtered content for Facebook, says they regret working with them"
-    excerpt: "Sama, a content moderation and labelling company that worked with Facebook, has come out and said that they regret working with them. The CEO also said that they will not be offering their services to Facebook anymore,"
-    publishedDateTime: 2023-08-16T12:46:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/company-that-moderated-and-filtered-content-for-facebook-says-they-regret-working-with-them-13004982.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 0
 
 secured: "SLmVypsTV2In1iPR7mI0Jtw8+tfb1Z3Ng5R9MhGBtJRXcqQzErgIW1ZtB+J/WUXEDmC0amrl5DmXlGFHXyUZ9YoRSWLlLOdp7kryzyOfzLHa2L187r5SuNr8il3tX7GO9IYNZhLw0qzra/2IkkSA66BhVy3N5gLUHESQxIqy/Y9qzoAB5deryOkbhcRTiwUOxZWQCcP91lnfGgq/Y+hE2kvccEH86fvD1fvpKBkA22Fg9UYMInx8NGHTbWUlPSla+83R5hCZ+DKfIy6x6m4/wzto3SFnaC7a2wvIp/E8I4k8Ferd+Zl/83mQiBxPaJGLPWY6g/0GW4hzwPn08C0bpmeyOSzWJlwaB5LwG8JtbQI+cFh9cr9OapQYptV8atTN+wplqhOldhoW7YctBdCE6GHV13wVFd7oYoZA8NvUDg9px522SB/eJRxGuRv5rTvT6Yl2hrWJo2Fpp4eJPR7K5nmOYI5HXS2DcJVKbK0HyDk02jZ9OksX/A0a5BXKv3dJ2fVWubn7U9Sjhu4Mu+ckKw==;vTCcnJvv7SX9UmQxOqGK6A=="
 ---

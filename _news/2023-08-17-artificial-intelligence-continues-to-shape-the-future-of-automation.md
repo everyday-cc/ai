@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to
 webUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to-shape-the-future-of-automation/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Future of Finance: AI Meets Tokenization"
-    excerpt: "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”"
-    publishedDateTime: 2023-08-16T12:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
 secured: "HB/etcFMXoKTTLQvdznPvWTCCBY0Hv/73u3RGQKaRD16wpew+81f3jBvNTH7qMKM5KyffaV3FQAel5eBu0XaCauhf2kjgSRUJTVVq0+DjoD18hio0epeqWOhRjrcLhKAEMmR5YO/f50NzRGwiRLpF04hjdO7QET2aV6GStlmZbkng+3RCxILFCtmc/csWrg7AfrVc6s2uYRQ542CrAwScco0vJIA9hZCiowOf9z3tlWn5m53fuo1iuVKneAJm/KHQbEfYhPh94go5xEATs7H0joUKsT7Lm9FiPrqtc2t2qMZwLvq/o7IxcFS/4QLKO+JDzxYir7HRK10BnI/nCz2DW3I2t1FD2OBMFyxkMQMkCsHjgurFvCJ/8fygRoRGkQGW/R1/bGd7UPF3LquUukpSPEWMJkM8a5WLW1AtOVtwTikWB1yvJfQYuHjYP4RA1QK+kIJe4gWIicXRE33+V5Ue9lC8Eo+z77JPtSEEwoas4KA+dP0GcRqShDpfdFX+FRk1va+uY6hShPbg+mY0RD5bA==;4X34JdZmfwplCNyCE3zvOA=="
 ---

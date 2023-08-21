@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "e92plus digs deep with new cybersecurity vendor partnership"
-    excerpt: "Cybersecurity vendor Deep Instinct and British distributor e92plus are partnering to expand reach of prevention-first cybersecurity approach with VARs, MSPs/MSSPs and CSPs. The vendor claimed that overall, the industry has failed to eliminate manual intervention and reduce the pressure on SOC teams so they can focus on higher value activities."
-    publishedDateTime: 2023-08-16T11:37:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4122332/e92plus-digs-deep-cybersecurity-vendor-partnership"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 24
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/18c3663/65af51a2-a183-426f-b96e-2dd42c31da17/8/security-padlock-iStock-1182226451-s-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "QiZr6+bbHi2SoJUptSkTZqA3VptAaq1kG022bpGT6B34s+Bht0ZQvRt0iKfHxCCcWMkdm8kahOVDepvKHJT7Pegm3KbCECPnCU7Bh0D6Xq6On3bssoJ6wr9X5bKm9sXJyc0cDemNXE7ov4R+gsy/KbrKQ0IKilBGmO9efM43fWLPTrgSh7N3MiMHA378g+K6FAMg1Ct4iLTTp2XFUMhhrIz5r3/WD3iwckJrR0cYEWU+C5nxTqeH6RZW6j0WOpPG+d0OA8oyzaWWPRVdCHmlKpWPSuTJrg2dnAgx84CfPwpJbqxU93J0e5R3t6eG6Y7PGvoUtovEy1Hm+KCDH+j7n/z+sXZukrE3KBsDwRAdOF0=;v1kVUrNuHu7I0k8u4zSAsg=="
 ---

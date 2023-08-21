@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "FFqyc8t76IvKaAZ2KANyREOd9clJ0KznIgzK1OJZABb6YfncSvg80pCJ7YVbrPU3o1zAppXTq9ZOwDZLJ4CtqbJ34+vKR/HEcBk+vj6VI0iumOjDdBBLh7iHdyFefz3jmMbJulbM6ha37hV77U27/u4JpQPblrAw43DW+e6OrlvoekjpiyZQfx9bKGmDFSNH3cCHX+5r+pzUi/4A8cNd223Tkl5wnDzXUbBCKFFGlDRvySfEFDY0EaQk5vm+OTlsIHeFcb7oXZvfvrFVSK7diOsxnDw5tlQUtIDTuxA/Atx9HDt32glBdzoXUr1CozJ5OelfI2j3E9GNo0ekDawC01nFxDLmvoog2FmE9WV0FdKH6Q5XbHtPOJAekR8JWtkvvJ6X6vQrw1u6iy2jnBOfkIESVLKs6hYVqkUr9I+sK/7G7aPunVTmbRYHgRfMgTQc5+jXwHVYl11eQzr5hz7N9l0Uf3ju0ZEZY2/lbp0rtCTvol/h+D0bMdjp30r2NcYitWdLL/RjvZGaA4l2yTafkg==;zGcrRFangmfoabYzOt7vvw=="
 ---

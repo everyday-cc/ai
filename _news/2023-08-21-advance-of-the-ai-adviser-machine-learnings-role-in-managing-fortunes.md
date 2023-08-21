@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-21T02:59:00Z
 originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
