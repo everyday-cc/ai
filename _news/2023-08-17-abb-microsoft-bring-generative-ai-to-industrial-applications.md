@@ -63,15 +63,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "ABB and Microsoft bring generative AI to industrial applications"
-    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
-    publishedDateTime: 2023-08-16T06:47:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
   - title: "Dentsu partners with Microsoft to unleash AI-powered innovation for brands"
     excerpt: "Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment Dentsu Group Inc .."
     publishedDateTime: 2023-08-17T18:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/"
 type: article
 quality: 55
-heat: 75
+heat: 76
 published: true
 
 provider:

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
-excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday."
-publishedDateTime: 2023-08-16T19:53:00Z
-originalUrl: "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272"
-webUrl: "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272"
+excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers"
+publishedDateTime: 2023-08-16T19:18:00Z
+originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+webUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
 type: article
-quality: 25
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Orlando debuts self-driving shuttle that will whisk passengers around downtown"
@@ -91,6 +99,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ieoXcfwS+aRdh5Yjw5Vw9X8p2gmlV1gvLVgHcuh77FU4WvzKjfn/wNON5rCnYG10DmVMh8Z3FYhq2AYz7aqprDp56C92YyrbnlvLTAW8/1sd3q2QGMmlcgGQlnLQa0N17ZhALDN2UzdPeDFye8HNPZUITj0TvvFmPFpBGxHt4IVcD4b/JswryD8vNI6t9lYY7RZqaYEhxVnqqYPGrPk5GAUrV64MqFQ9apHjjgBd0dkfnjNAsdC6Ov7mlKX6ZV/4n9tLh6NjVUBNiMcqv1zGhY/ung2adOvo4KSk/uoNOrB1dBhth6U8WBpb02ZMZJk8bKDwHBmYVtfH0iZx4qjisE1PDKxiIo6oBlTK0YGBFLDP7mss0oSQ0ufUgMeubHp0GlVqYaLNFdVbgP3Gw460I87qf3b9FkCHgyvTk8i0fu4sC4cmbQwSryP0RF7X47T7hYySSJGFkcV01YFozZTVQ0ue1gyntt2TGt+QSV/XmNPJrwQ01hUYI+c7JXK6CJzHp0XjYbPjnpA/jQ0u7+/tYg==;Ofx9CnqdCFJeKO6lSqetlw=="
+secured: "+mqruXXHRrFnV25FRc/cydqaLwsT2d4VFohB2viCmRaMY5JOZvz4yPVk9vB/okzWkogjypa5CHhSXcv9rjH2J6kT9d7tRr/L37LIl16BR4NXf6tskUJKemZS9dEz1FRaU11OTWXQz2lgNlAv8nKq0j9tDdbxf9etBL26H2V5rd6ilhlNeBto6dQZNJlJU9jS3IO5NNeAPrl0kfMNVefGKp7txgA22ql2kuWhZkTylKVF2XQN1C1sx76obufsC3gJS9FyKqhiZ7qPDAp3ng8UmGuH+00jxsgCvLaogK3QslGnvf4cgHuKaIOnUPKBeQgfRxt+ZDUtC/VQzb4/9dKmo1oVlKjvKbn5eG/X4v823Qs=;kgMdYI/YWscViHD5Gz8pHA=="
 ---
 

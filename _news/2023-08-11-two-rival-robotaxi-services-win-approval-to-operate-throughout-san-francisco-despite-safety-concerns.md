@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GY2ZLGRXXII65LCO44DYODSD3M_size-normalized.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
 related:
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
     excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
@@ -244,6 +250,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "jy5nA5q515UfYeuyhK/ZZaWMVw6OU9DZN7nICQeA34Vc65UXckhdQTQ7lOQb+G1LDaE7SPFfQWK5XEtV9AI7euQYzALF2GpcIYE10cb3eQ4hIigVtOEfpxpNWPKNbNNR5lSqdBnKlAZU0M0KHDdzUgGuDXxKpU7Br2efhEOL1by7KboJKo1CXF7Izxgchvw1OoXMCpipHn4/pep+s1rxvVisiZssHd54gR/TuEVfyc5oQZw4rt4bUHkwO/Rm15mDswBs6BqhtFt9/KpfBRnk3DaYWKeqClrnjBbztLK3eLsHzdHJFDl4jhAhM0jAL5MtLKaK3lqSQHrVF12E+4pEtyCdTg/0PbXvkxZo8ggC4Ms=;EN2AERsG85bQKw0tFs00Bw=="
+secured: "/v/QatYakb+Gie5vNY0oS7Aep/ZqWDk5vPfV7uIq65ZLD4T6qaAT5rxmfv2Bk0AncZNOaKwLn9lHqXO4UZJoz0itjeFwH5BS7K4Pkz18yNyFZplTTfpd5/gkmKJdEBxylXuYDtPHtVBRWz68+CPM+gP0UhfTqJn0u/Jxt+0JAW1ui+QWFcqwJth1fKnsZWItbL6mVnsnxkGYoGc2LAS4bIS/5/yPYtXatrUW9Z80ulA3kEp+TABNKoR6g6g4hZtispskgOKmGC+aw5/on1nPcAJbgcRebLawDoITBYJPeqhGl/miqz5mOlOp5ONh32ZVsOnOB+f8RO2kgAwqFC6ygt77m/EZmbC4WvzWFhmmSZs=;89inXGGJ4R1rAQW5NqynLg=="
 ---
 

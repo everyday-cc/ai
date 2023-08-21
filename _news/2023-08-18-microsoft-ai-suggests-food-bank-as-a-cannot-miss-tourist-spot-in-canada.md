@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
 type: article
 quality: 120
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "ABB and Microsoft bring generative AI to industrial applications"
-    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
-    publishedDateTime: 2023-08-16T06:47:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
   - title: "ABB, Microsoft bring generative AI to industrial applications"
     excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-17T07:45:00Z

@@ -3,8 +3,8 @@ category: news
 title: "One summer movie shows how dangerous artificial intelligence can be | Youth Views"
 excerpt: "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own."
 publishedDateTime: 2023-08-07T13:48:00Z
-originalUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
-webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
+originalUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
+webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
 ampWebUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 4072
     isCached: true
 
-secured: "kl4DX60Fit3QnISQ577lReWzzngOYxCVEylsV4kJAcg/deKbO0rbnjicJ8rcGp0T8r37oE8dTmh+DBCdVdgcFILuR5MHdYT9xfxN8LiE7Bv1Tz/jzntBefFzkWgc5snIENvqWujPNloAv+zb90WiAT97NTZ/firgdYJ89C+60kTTtKIvlHkQS7cYTVXS5udkOXStdG51rfMreHf3Crv0ipxjudeFI+cVPTHFuQRjrny7dI6/uzVlz10FtFBsLYy05n2LH4MEUWoNPPKUbAyIpS34r8g5eOaje5lgWyA6+iJ6ZH0b88NlxDiel7uZLIUxRye4K4lc2Y7pBtGnGpByTMbCv9vxfGttDgQXgnCn5YU=;dlyp3enEekFkkSWVOvnJEg=="
+secured: "MFm+r/XIC15YRAUGKpLdRIIPm8tTrDwDDO8UbKeSJj+sg+75pMcrNReHtqdmOa71mYjciIxDu1L5rk5jUm+g7d4fQ1neWyW0mPKdvoYy+6p/RH9ayf2CZfYsuVBqpxoFBsO2UCgkFf+NGjgKj5myazIM8gmIHBJA600WuULsJP8njMbz8Z4Ub/ujwLVZKbWxPcknpZk/Tn4KZGixpiJ+mmi85gpJOKBL2UD7VHwDrzgbclkKeb9uNAca9HClsMErbsFzaQ9eb9H/pH+kA2aHttIbq/c73KFOnvrNKsSOpm7MFyu0FrgP4HhBoJj0adBaOLE6joGeGnbl/PjejTbCS/NuowOaLAWOnpygtlf1wBE=;R6GdCp3efCdVqXsd8xrx5Q=="
 ---
 

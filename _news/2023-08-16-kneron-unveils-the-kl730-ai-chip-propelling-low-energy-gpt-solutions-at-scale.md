@@ -47,15 +47,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Kneron unveil new low power AI chip KL730"
-    excerpt: "Kneron announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP), bringing secure, low-energy AI capabilities to a wide range of applications, from enterprise-edge servers to smart home appliances and advanced ..."
-    publishedDateTime: 2023-08-16T06:36:00Z
-    webUrl: "https://www.eeherald.com/section/new-products/p20230816np31.html"
-    type: article
-    provider:
-      name: EE Herald
-      domain: eeherald.com
-    quality: 34
 
 secured: "FwmoN70DvW5b1PAf1S/rzHR0VwtiJWRxhWwsZZqJUgCWD55ygpr7CgbQFLUs9rmMhvDV5Y5CPkYq2hWITRMp/IepKEAL5Csex7/TqtO4c1V8VQdLVixnDQxips2q3TXG0ZJ2sw4ZpAPMAGpnBS4tnN04JFxl2+cDdsaaU+64tJ6qGBya60EQXx/SgkiNNWIR1MphjOlMFeua5ljjN8iJnybmiVMCrO0R4JIaqdeci5WDRUFClsyyJICx/3Eikl9LVTydGi8gB3f5ZsXCBmjebxacu6N3JVcRwktf5S02rVnhFIsjvhsgzNEGm4fidTK2Kmm1tLrGjoS62Q7tB+bUkacUHk67cnGrjzJa+iZTx7k=;kLVEIhItKEbDHKYlYdJe7w=="
 ---

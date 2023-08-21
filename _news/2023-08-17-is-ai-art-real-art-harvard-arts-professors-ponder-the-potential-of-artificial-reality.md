@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 717
     isCached: true
+
+related:
+  - title: "Can AI replace artists?"
+    excerpt: "The program uses artificial intelligence to produce art based off a text prompt ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose ..."
+    publishedDateTime: 2023-08-20T22:00:00Z
+    webUrl: "https://www.stltoday.com/eedition/page-b6/page_8e2c1045-d139-50e2-b4a7-ef96770a781b.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/eedition/8/e2/8e2c1045-d139-50e2-b4a7-ef96770a781b/64dfbe964269b.fullsize-img.jpg"
+        width: 792
+        height: 1692
+        isCached: true
 
 secured: "mW+IPy5L97V4OCbkfdCjWBZk8OU+x55ZyHjuyx+YmoCmNhGmtjKsKYnhVG+5L0d/jN9lLt3bnm4JgvmdJaHaprCt+/Bjc+o26SO92MErD59rY0J2xEwjlSPt13PQrDI4kCPhugShUc9yWR/6Fndr0pYARHPyifHgg6OtQmHDZQWvSHOa6OQP2bSF2lVH3s/1TyXImo4FR+r5t1AyI3XXrfZHS4fcD11W1yaQZn9seNEml8wI/mPNLOjwLVXwubTum3A9joamvYkg70tXJFKpuANa9AKpmo+1s8kUL1MXi9J42nOF8HTku5Q1s0vEekml2sAHjz89p+Jna5QepYR9JMME6rdgJb0tElkQJnVVSzYcKI2eo+H2Uocnq7iwrM6NqJCshB0cD/IMBRnwJbOL+XGPq+Nqc80nTNy1LtaKOMbOiwLRPTFIua4s7UZxG6BD16jlqh864d3MFQITQph02KL5rtv3syHRSiJmoZWGyc0DaGudwX74ZBSEnCbXAC6nveFKorI/gHqwusrQ/1ANlA==;WwsaJQETTxcInBMRAHp7MQ=="
 ---

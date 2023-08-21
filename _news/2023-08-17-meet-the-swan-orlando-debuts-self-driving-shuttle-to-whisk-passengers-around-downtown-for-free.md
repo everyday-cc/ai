@@ -44,6 +44,22 @@ related:
         height: 641
         isCached: true
   - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
+    excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers"
+    publishedDateTime: 2023-08-16T19:18:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
     excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday. The eight ..."
     publishedDateTime: 2023-08-19T18:19:00Z
     webUrl: "https://abcnews.go.com/US/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321051"
@@ -59,15 +75,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
-    excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday."
-    publishedDateTime: 2023-08-16T19:53:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 25
   - title: "Orlando debuts new free self-driving SWAN shuttles in downtown’s Creative Village"
     excerpt: "If the pilot program is successful, the shuttles could be expanded throughout Orlando, into areas like SoDo and Ivanhoe Village. SWAN shuttles will run every eight minutes during office hours and every 15 minutes on evenings and weekends. Full hours of operation can be found via the LYNX site."
     publishedDateTime: 2023-08-16T20:56:00Z

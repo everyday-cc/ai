@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-
 webUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-ai-chip-market-new-kl730-release/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Kneron unveil new low power AI chip KL730"
-    excerpt: "Kneron announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP), bringing secure, low-energy AI capabilities to a wide range of applications, from enterprise-edge servers to smart home appliances and advanced ..."
-    publishedDateTime: 2023-08-16T06:36:00Z
-    webUrl: "https://www.eeherald.com/section/new-products/p20230816np31.html"
-    type: article
-    provider:
-      name: EE Herald
-      domain: eeherald.com
-    quality: 34
   - title: "Kneron Unveils the KL730 AI Chip, Propelling Low-Energy GPT Solutions at Scale"
     excerpt: "Kneron, the San Diego-based full stack AI company known for pioneering neural processing units (NPUs), is today announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP)."
     publishedDateTime: 2023-08-16T12:33:00Z
