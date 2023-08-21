@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "US judge: Art created solely by artificial intelligence cannot be copyrighted"
+    excerpt: "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ..."
+    publishedDateTime: 2023-08-21T17:38:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/A_Recent_Entrance_to_Paradise.jpg"
+        width: 774
+        height: 580
+        isCached: true
   - title: "Judge rules that AI-generated art isn't copyrightable, since it lacks human authorship"
     excerpt: "A federal judge has agreed with US government officials that a piece of artificial intelligence-generated art isn't eligible for copyright protection in the country since there was no human authorship involved."
     publishedDateTime: 2023-08-21T15:33:00Z

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Terrified Snapchat users ‘looking to delete app’ after My AI makes eerie posts and ‘ignores messages’"
+    excerpt: "SNAPCHAT users have been trying to delete their accounts after the platform’s My AI feature malfunctioned. Google search data from NoDepositDaily.com recently revealed that online searches"
+    publishedDateTime: 2023-08-21T16:08:00Z
+    webUrl: "https://www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/"
+    ampWebUrl: "https://www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 44
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/08/SC-Snapchat-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ghiEUuosEt/e2zbaG5GiiPhZoOzMBf5YkNcCPdmxlt8YnFzKhlzFO10l0czQICZUNbNM+sNhqSWOGv7fedcV/M7Jy1aFP80jMLTUK2pxPzT0hncR/SQKHfpcmpkMf0j+4d0KbEq72CtYlqTTkg2K0eyoiUt3aRlJk6MJBbNGhtHLzuAaUCl5mMem1F+IKqk/oirS67grUO8cHqVszIiC0+oxB9EJ5zNafwcLCOeXW2Ubbym6gO7259Lu8QO1mKA39tza0w+ybRaptFvdUnr1N8FYo92j5op2z5ZAlUiJ6Raab5j23q+J9gJrqtWGaY0M3XcmWb9FRDwnUYPwYkf81l+1ixQ1uUtJ3spvPwyIk/ZlmvVdSwcGDGWPWtFKwiJMPw1+maKxaq1PcI7tdCTSmwmhtmRIediFAJeTQlZw9Sy8hwwbR5Phd29CUnqXo0ojx5FUUbi6TB+WIyisvkm+Ma1Y4v+KVW0/mqZNuqmAjfUZjELOOU5jP2SGEIv7ecnvgy9v9ZhkUiIyCf6Fkx7pkg==;/v5Iz/agNXOOWsx1lsnU4w=="
 ---

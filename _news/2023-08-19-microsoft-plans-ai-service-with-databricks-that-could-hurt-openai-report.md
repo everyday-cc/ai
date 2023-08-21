@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up"
+    excerpt: "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ..."
+    publishedDateTime: 2023-08-18T11:59:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33910068"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
     excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
     publishedDateTime: 2023-08-18T16:01:00Z

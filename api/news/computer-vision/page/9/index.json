@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
+      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
+      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "originalUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-first-man-wrongfully-arrested-because-of-facial-recognition-testifies-as-california-weighs-new-bills.md",
+      "title": "First man wrongfully arrested because of facial recognition testifies as California weighs new bills",
+      "excerpt": "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -1293,92 +1370,6 @@
       "provider": {
         "name": "oedigital.com",
         "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market.md",
-      "title": "Seeing is Believing: Emergen Research Predicts Bright Future for Machine Vision Market",
-      "excerpt": "Witness the revolution of the Machine Vision market, with a 7.1% CAGR projected by Emergen Research. Find out what's driving this growth",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ironyun-wins-loss-prevention-and-article-surveillance-solutions-award-at-isc-west-for-its-vaidio-ai-vision-platform.md",
-      "title": "IronYun wins Loss Prevention and Article Surveillance Solutions award at ISC West for its Vaidio AI Vision Platform",
-      "excerpt": "IronYun was named the 2023 winner in the Loss Prevention and Article Surveillance Solutions category at the Security Industry Association (SIA) New Products and Solutions (NPS) Awards ceremony. The award,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932792/IronYun_v1_Logo.jpg",
-          "width": 400,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

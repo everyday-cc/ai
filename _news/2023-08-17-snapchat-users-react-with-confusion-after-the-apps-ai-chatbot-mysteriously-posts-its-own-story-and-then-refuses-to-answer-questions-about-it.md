@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Terrified Snapchat users ‘looking to delete app’ after My AI makes eerie posts and ‘ignores messages’"
+    excerpt: "SNAPCHAT users have been trying to delete their accounts after the platform’s My AI feature malfunctioned. Google search data from NoDepositDaily.com recently revealed that online searches"
+    publishedDateTime: 2023-08-21T16:08:00Z
+    webUrl: "https://www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/"
+    ampWebUrl: "https://www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/11216710/terrified-snapchat-users-delete-app-ai/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 44
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/08/SC-Snapchat-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Snapchat’s AI gaining sentience was not on my bingo card"
     excerpt: "Snapchat My AI's suffered a glitch when it started posted stories. It did not become sentient all of a sudden - here's what you need to know."
     publishedDateTime: 2023-08-19T22:15:00Z

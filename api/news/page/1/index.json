@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-21-judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship.md",
-      "title": "Judge rules that AI-generated art isn't copyrightable, since it lacks human authorship",
-      "excerpt": "A federal judge has agreed with US government officials that a piece of artificial intelligence-generated art isn't eligible for copyright protection in the country since there was no human authorship involved.",
+      "path": "_news/2023-08-22-us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted.md",
+      "title": "US judge: Art created solely by artificial intelligence cannot be copyrighted",
+      "excerpt": "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html",
-      "originalUrl": "https://www.engadget.com/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html",
+      "webUrl": "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/ny/api/res/1.2/7TXfRE2Oos4RO7f0RH4N5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/563c5cb0-9361-11ec-9ef8-b2b7d9850efc",
-          "width": 1200,
-          "height": 807,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/A_Recent_Entrance_to_Paradise.jpg",
+          "width": 774,
+          "height": 580,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,170 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html",
-      "publishedDateTime": "2023-08-21T08:33:00-07:00",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/",
+      "publishedDateTime": "2023-08-21T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox.md",
+      "title": "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox",
+      "excerpt": "Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup. Moonbox has a unique approach to reshaping the digital landscape. Licensed to use the intellectual property of most popular classic ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2190285/1920.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
+      "title": "The voice actor behind Nintendo’s Mario is retiring",
+      "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
+      "originalUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/08/Switch_SMO_ND0913_SCRN07.bmp?w=840",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
+      "publishedDateTime": "2023-08-21T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-abba-star-helps-youtube-come-to-grips-with-ai-music.md",
+      "title": "Abba Star Helps YouTube Come To Grips With AI Music",
+      "excerpt": "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
+      "publishedDateTime": "2023-08-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -61,7 +215,7 @@
       "originalUrl": "https://www.irishexaminer.com/business/companies/arid-41209477.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -354,7 +508,7 @@
       "originalUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -595,7 +749,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -690,7 +844,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1066,134 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports.md",
-      "title": "UK is in talks with Tech Giants on AI chips, Telegraph reports",
-      "excerpt": "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/08/20/1600x900/Rishi_Sunak_1692539300482_1692539300882.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
-      "publishedDateTime": "2023-08-20T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence.md",
-      "title": "NGO trains Lagos secondary schools girls on Artificial Intelligence",
-      "excerpt": "A Non-Governmental Organisation (NGO), Women Technology Empowerment Centre (W.TEC), has completed an Artificial Intelligence (AI) empowerment summer camp for 24 girls drawn from some secondary schools in Lagos. The training tagged: “SheCreatesCamp ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
-      "originalUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocdn.eu/pulscms-transforms/1/ycGktkpTURBXy8wNDJlOGM0NDAxZWVjYjJjMDk4NmVhNDljMDlmMjkzYi5wbmeSlQMAzELNBKLNApuTBc0EsM0Cdg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
-      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
-      "publishedDateTime": "2023-08-20T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naija Gist - Latest",
-        "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-regulating-ai-in-schools-could-be-a-top-class-innovation.md",
-      "title": "Regulating AI in schools could be a top class innovation",
-      "excerpt": "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
-      "originalUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg",
-          "width": 590,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "publishedDateTime": "2023-08-19T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

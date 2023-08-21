@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9ift-1692343965647.jpg?fm=png&auto=format"
         width: 800
         height: 400
+        isCached: true
+  - title: "The importance of continuous AI innovation in banking"
+    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
+    publishedDateTime: 2023-08-21T17:05:00Z
+    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 54
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
     excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"

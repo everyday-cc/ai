@@ -7,7 +7,7 @@ originalUrl: "https://www.billboard.com/pro/ai-music-incubator-youtube-universal
 webUrl: "https://www.billboard.com/pro/ai-music-incubator-youtube-universal-music/?ref=biztoc.com"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Abba Star Helps YouTube Come To Grips With AI Music"
+    excerpt: "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors."
+    publishedDateTime: 2023-08-21T15:01:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "YouTube Music embraces AI songs, but there will be rules you need to know"
     excerpt: "With AI music flooding social media, YouTube Music has announced how it will approach these generative AI songs more responsibly."
     publishedDateTime: 2023-08-21T15:01:00Z

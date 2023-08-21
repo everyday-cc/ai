@@ -162,6 +162,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The importance of continuous AI innovation in banking"
+    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
+    publishedDateTime: 2023-08-21T17:05:00Z
+    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 54
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "1+CCaTpX7ej4qSELcBf75grRxbR5DzWZkKVcxhUTunWCuQiIZ4tqtuRqyPns4xI3bLfw7o6BVpQwnzq1y93M/po2/sioPwXahA4OSJMlfIuKzcM2DJD6cJhTT0eLeRpmSFkg76AmlmRtCkt6R4URUQLnNxlZfuBbASsk3bwS9/J9qInDAx/NBuBVLI2W/+i7je6hxnltu8WCiPDiUcaEuvQPNfc/CQhnixze9fPK1zQSU2JF+PFdSh7AZgA3sGGmIaH4fPmDkJMEcbOjpj5bdkNqNuYpwbJfi7yre52Mf3S30K0ivNxxbonCBg1qNNLAV/sIXlnCWXIvh4uJihjgIUdueSbtbVQMZjDBtYL7ywwbDL0XAbjQTHUQt/XMRKVwahDWdapzkcAFLOCt8NBRXdSApoT/V5gWVm3TzLawbVjfm+zOAbWfUs/37Yox8JauPf2YHVR82X8tkxjbI28E36+TjUAEfSrWMg4iFlcr8spRxcAciT9eDmshGACTK7T/nWVGy2mMHegsDmAwZIAivg==;Cl/a/b0DJKEr9dXnhfp9QQ=="
 ---

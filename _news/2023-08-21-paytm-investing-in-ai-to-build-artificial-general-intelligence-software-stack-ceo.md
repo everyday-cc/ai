@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-a
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Paytm Scales Investment In AI To Build Artificial General Intelligence Stack"
+    excerpt: "Paytm CEO Vijay Shekhar Sharma said the fintech major is looking to build a full-fledged artificial general intelligence (AGI) stack."
+    publishedDateTime: 2023-08-21T15:12:00Z
+    webUrl: "https://inc42.com/buzz/paytm-scales-investment-in-ai-to-build-artificial-general-intelligence-stack/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 36
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/paytm-AI-social-.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "2mC2u/30vC2rzqUqaqIv1aM9moNo/ae/iev4W/mVNu4pcaofD2YR5Pv2nu/ZW6OEwl1iE71YlS6mLv7QNd6EM+W6GruI2YfHGOag9c4noSqOXYQA2DtgIPYS7kOGY1vJw5I2nTjzlM8tyZKiQ2HPcFi9PQe6FTe32fy/2NhLzexCguGNjx5sNpobbRTMAbisJ4bfF5vXS1dzdslcB71wipgiMouC7vZn5xiUQRNfBhQdJmJMeob9TU7N6QWZLbVkQdMhjCefxkvGot0vjuIrKeVqDl5Ls3BCDW4N8Y0OIT2q3oiI4vMS4TqEdfwR4OGmAqzLo66BtOCVKmqHOEQrL4Mk9bVmj3mSMyWhwahvmPE=;EFZD+gewNSV+Fcgu1KEJrA=="
 ---

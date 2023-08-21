@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
         width: 620
         height: 372
+        isCached: true
+  - title: "DeepMind’s AI Life Coach Can Be Your New Personal Advisor"
+    excerpt: "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ..."
+    publishedDateTime: 2023-08-21T16:59:00Z
+    webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 56
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg"
+        width: 1280
+        height: 1280
         isCached: true
   - title: "Google DeepMind Testing Personal Life AI Tools"
     excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."

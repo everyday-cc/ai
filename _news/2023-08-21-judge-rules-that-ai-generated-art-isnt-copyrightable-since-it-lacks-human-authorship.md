@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
 type: article
 quality: 79
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "US judge: Art created solely by artificial intelligence cannot be copyrighted"
+    excerpt: "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ..."
+    publishedDateTime: 2023-08-21T17:38:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/A_Recent_Entrance_to_Paradise.jpg"
+        width: 774
+        height: 580
+        isCached: true
   - title: "'AI-created art can't be Copyrighted': US court dismisses AI entrepreneur's plea"
     excerpt: "Thaler contested this decision, contending that AI should be considered an author when it satisfies authorship criteria, with the AI system's owner assuming copyright ownership"
     publishedDateTime: 2023-08-21T06:45:00Z
@@ -84,6 +100,6 @@ related:
       domain: billboard.com
     quality: 17
 
-secured: "NBYPm4zL6HLgdVArj1fkBX/c5Fp+CiWoho82aoxNSCJ54bIefQIbARlwvtVxNfaJJUaKExxOJMZxkTdZwKhbw+gfprBZN+hm0jbsDBWBTx7Wv2bHx6K6ZSYrVGOIkiuw3rvSa8QmTmHs7HH4VVGe/QtFJYZMQYnUXYCjxrpM2Sifawpw3OS2cpO7/AagCU0RdxcC51+1RuSTKkrT2Z7/6q+M0eBeSZsDhYctm/JI49ow8EAhKV8HrJAYAlIl7lCdUvJKHR+pdpnEmMESoHf4PGLHqkqqNAVM3Z6Yu744f0hrXYVyVIePcQ0ZsesFmn1QqKcu3jFxLbuFJkRK3AcYxZam/5bV3wuElR8mbS/pWU0=;BD4kW1OqZrJSU/mOy0RO6g=="
+secured: "eOQPSaKOj+NdyPq27d8oZ1WgwcpRMzXtUD4K1/RDZzGeENPf77IEt6LgNvYKjj5OZtZ7nedWFnGirSq+5nVEFu94T0qIh9Ic0ZcDSzgDUS3SIdNktj8yID2QAMrjToW+ylRFgoLHzrvw5j20xcdoKrVchCUMq2yGXJLrvPWCHF0nuz6yxwsK6YNxgoZZviYE0llE+qoYvfH92E6lJb1tzpM91KZ6yQCGunYWv7fU/Ny0CENIoono9BP/5sPQxSErRXEf7QA5EuHI1k1dHsEAYHKpvaf2MIC/zVhhHvV8nh7xbdJ3sTuByt/wz6qTHG3ZqYagdpakMbJdeG8x+/XiTm0pCu8rO6PqXSwt9Lq49Qb40UKir4Ty0Vu6MvHf89/uKhHM50icht/F+9HNTAl9GzE09t5A7AZr1o6LB8Riyp+GKTg9Kt8u+wYgclErrDA+ytCQrm9EKPrESS0PLCYtRWYFOM6D10MwEp51lksMk1eqcj2gtah2DmTCi3CEAC94R1A3JwVkXsq9SljhhCQmMA==;5akquXNoSXGMyHj0Igf6qQ=="
 ---
 

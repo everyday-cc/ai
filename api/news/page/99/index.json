@@ -2,6 +2,341 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-06-16-forget-about-the-ai-apocalypse-the-real-dangers-are-already-here.md",
+      "title": "Forget about the AI apocalypse. The real dangers are already here",
+      "excerpt": "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230322173826-person-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "publishedDateTime": "2023-06-16T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-meta-scientist-yann-lecun-says-ai-wont-destroy-jobs-forever.md",
+      "title": "Meta scientist Yann LeCun says AI won't destroy jobs forever",
+      "excerpt": "Prof LeCun now works as the chief AI scientist at Meta, the parent company of Facebook, Instagram and ... It would be a huge mistake to keep AI research \"under lock and key\", he added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-65886125",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-65886125",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-65886125",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65886125",
+      "publishedDateTime": "2023-06-16T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-how-a-fund-manager-up-30-is-navigating-ais-big-bang.md",
+      "title": "How a Fund Manager Up 30% Is Navigating AI’s ‘Big Bang’",
+      "excerpt": "Computing infrastructure is the way to play the R&D phase of artificial intelligence, Jennison’s Mark Baribeau says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-16/podcast-how-a-fund-manager-up-30-is-navigating-ai-s-big-bang",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-16/podcast-how-a-fund-manager-up-30-is-navigating-ai-s-big-bang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBm9S2QZ1xR4/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-how-starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.md",
+      "title": "How Starbucks could boost profits by putting AI chatbots at its drive-thru windows",
+      "excerpt": "However, what hasn’t got as much attention is the opportunity that generative AI applications can bring to other sectors in the form of increased productivity and efficiency — and ultimately, margin improvements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-self-driving-or-driverless-cars-market-growth-2030.md",
+      "title": "Self-Driving or Driverless Cars Market Growth | 2030",
+      "excerpt": "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue.md",
+      "title": "Global Automated Machine Learning (AutoML) Market [2023-2030]: Future Growth Insights and Industry Revenue",
+      "excerpt": "No. of Report Pages: [103] | \"Global Automated Machine Learning (AutoML) Market Outlook and Top Companies Growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-2030.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Growth | 2030",
+      "excerpt": "Jun 16, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" [2023-2030] Research ReportAnalysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-2030-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-2030-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-conversational-ai-platform-market-research-2023-2030.md",
       "title": "Conversational AI Platform Market Research, 2023-2030",
       "excerpt": "Top “ Conversational AI Platform Market ” Size 2023 Key players Profiled in the Report are [, Clinc, Inbenta, AmplifyReach, FIS, Nuance Communication Inc., Baidu, Interactions, Avaamo, Facebook, Solvvy,",
@@ -867,343 +1202,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-binary-classification-using-a-scikit-neural-network.md",
-      "title": "Binary Classification Using a scikit Neural Network",
-      "excerpt": "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ...",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WeirdSpaceImageSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
-      "title": "A Machine Learning Engineer’s Guide To The AI Act",
-      "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b4afc51f15116deb12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
-      "publishedDateTime": "2023-06-15T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems.md",
-      "title": "EU votes to ban AI in biometric surveillance, require disclosure from AI systems",
-      "excerpt": "The new changes to the European Commission's proposed law—which have not yet been finalized—intend to shield EU citizens from potential threats linked to machine learning technology. The changes come amid the proliferation of generative AI systems that imitate human conversational abilities,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/eu_flag_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
-      "publishedDateTime": "2023-06-15T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-how-can-ai-and-machine-learning-improve-the-use-of-financial-data.md",
-      "title": "How can AI and machine learning improve the use of financial data",
-      "excerpt": "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
-      "publishedDateTime": "2023-06-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation.md",
-      "title": "Build a multilingual automatic translation pipeline with Amazon Translate Active Custom Translation",
-      "excerpt": "Dive into Deep Learning (D2L.ai) is an open-source textbook that makes deep learning accessible to everyone. It features interactive Jupyter notebooks with self-contained code in PyTorch, JAX, TensorFlow, and MXNet, as well as real-world examples, exposition figures, and math. So far, D2L has been adopted",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/15/multilingual-translation-pipeline.jpg",
-          "width": 1017,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T09:49:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem.md",
-      "title": "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem.",
-      "excerpt": "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
-      "originalUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-801076/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape.md",
-      "title": "How machine learning and new AI technologies could change the cybersecurity landscape",
-      "excerpt": "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other.",
-      "sourceUrl": null,
-      "webUrl": "https://abc17news.com/stacker-money/2023/06/15/how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape/",
-      "originalUrl": "https://abc17news.com/stacker-money/2023/06/15/how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abc17news.b-cdn.net/abc17news.com/2023/06/server-center-gorodenkoff_0.jpg",
-          "width": 1080,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 17 News",
-        "domain": "abc17news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-po
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
     provider:
       name: Telangana Today
       domain: telanganatoday.com
+    quality: 19
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "wLGxi4qnvFgz3pwZqEEVd1FKMxwm2jb5QEZGE3ZNep8Ig5L1HvYHN/TF1/YaO15qJiJP7og/jrs991JjexDp87upP4VOa6+Q5zwvnItyqTYXkbIQqCCgb1QPxRfrjTZlLbFAR0JV5AsINWawY/xbvC0a6XZcSMEdy4ixHGsUAgHVpRqsJWVVuVdgk7FozFy72COp67av89LJbzX9aPc8TPmvUfmscn5uw8W8IpbsJn9pIy3ptTyhBVME1qhjWvpf361iB/nngl9NT5S+JEPzaZT5msiy1SbN2vIqcioss/7J0cmetCtlSOfDJq9OHHkJiZxKQTNWNlawg1e2O8kYLBuvDb0YW9nFAumkczzR+tKCxO+J5GLwqwtVhAiQVnvkcZfk5uOq1jjs2qvySCiQvbrcqL3edqz+JM7xR64IMNxeOZxrNg8ah/ajKlleiXlZqDKX2a8hcP7pF7oeNQiNMB7R8/MTPzfKD6fZggBbTGoGIvyWH8ptTfPU5Cve4ZQQqfyXbHkWu1Lus0GZOxMHXQ==;zsGQ914C+0SYDGo6W5599Q=="

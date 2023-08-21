@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
+    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
+    publishedDateTime: 2023-08-21T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
     publishedDateTime: 2023-08-21T13:09:00Z
@@ -46,6 +55,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "The AI hype means Nvidia is making shiploads of cash"
+    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
+    publishedDateTime: 2023-08-18T06:11:00Z
+    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
+        width: 1187
+        height: 667
+        isCached: true
 
 secured: "N/xf/LBer2OUwQMSqIuGVpOfVVoFFXPcpIY57N0sLfUzBt9VqKwWAtdsMPnbCOE/+ld8zqss/TpMXpjU3MRKTR6AFW+0UEqY4QX6t4loiGKCy6JYJvpjdZbp7stUnkFn9IApK4BBwFL6J9AM3uHcDiRo3onmJa3/Fd6+LbtMIcwp9obU8C69HKBGdpxENgx2bnFdxeUbmbkynGTZ3cpVBKdXPoKU8pdzAqILAxNLKGQ/fHSCgm0Gst/AWBkI3PZf1e5XzGzqNTfpZiFVxREm7ZYHGzCun7KVtdMpxtRLdGoGYanWAsG4yVXt3evJlHNOaLwCMJ894gM609GyJEHuXJzIZj2Ca2sjxF5Vn0i8mX2+A+P2B1sWJaR5xQUeGt+BSQ0hAM2/VBUmFsUiL6iSth6PVtg8Ia7i7Wc+SWGUrMgNOmyJy3/IX4xdrJxRvshQfNuQ+H5CTSrK/6pD8Nxu1KrfrLbpM6CNSmTg1K2mjHjCwutlAqRF9xaRTlj0CsdbtGMnTR6Cv/V1UCo6EcsQMA==;k/LsCSq1NHONKE8dNZQcTQ=="
 ---

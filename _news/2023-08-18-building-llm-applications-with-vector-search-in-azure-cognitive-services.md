@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704653/building-llm-applications-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Meet Marqo, an open source vector search engine for AI applications"
-    excerpt: "So it’s clear that companies working on helping infrastructure keep apace with the AI hype train are in big demand, something that Australian startup Marqo is now looking ... learning scientist at Amazon’s robotics unit in Seattle; and Tom Hamer ..."
-    publishedDateTime: 2023-08-16T23:36:00Z
-    webUrl: "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/"
-    ampWebUrl: "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/230719_MARQO_402-e1691671682554.jpg?resize=1200,676"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "Y6n1LuMs2MLdT8SNjJYY2vpgdret07TO4ytl6Mulh/hnReTv4C0+cWNF2f3QoInZJbjcIZbfkT9/8aibHMJra1+fDJ17i/lSezvlL3Qt783+el0FLAYAaK3GZXCG/LbPj1E3Nqb0JmVFWikH6CB+IEPJ37S3yhcpss/dIQpw/NA3n3TjqEzMYZpIcVImLwHG7QUS9JYnbHRBdtGTkw90da7qwRlBjb/EBK78g98G8enOOg7STa1O8RW2ZrOtr1zuKVrGrvwYY+xCAIjFLR2GCRXDSZNdeKRynm2F4DCXmD8mGz6hfkU192MCT1KYrRVIh3vOzu13UsPujBvXFjdpHZehedFQE6RRj1wS/MtzfWc=;Stsfzib1X2xST5y0Tqi28g=="
 ---

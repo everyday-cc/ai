@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-adva
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
-    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
-    publishedDateTime: 2023-08-21T13:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     excerpt: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     publishedDateTime: 2023-08-18T13:57:00Z

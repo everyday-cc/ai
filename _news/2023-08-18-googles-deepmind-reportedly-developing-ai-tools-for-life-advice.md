@@ -57,6 +57,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "DeepMind’s AI Life Coach Can Be Your New Personal Advisor"
+    excerpt: "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ..."
+    publishedDateTime: 2023-08-21T16:59:00Z
+    webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 56
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg"
+        width: 1280
+        height: 1280
+        isCached: true
   - title: "Google DeepMind Testing Personal Life AI Tools"
     excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
     publishedDateTime: 2023-08-18T04:00:00Z

@@ -1,57 +1,84 @@
 ---
 category: news
 title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
-excerpt: "AI workloads require large amounts of time-consuming computation, both to train the underlying machine learning models and to serve those models once they are trained. As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud's extensive portfolio of GPU VMs,"
-publishedDateTime: 2023-08-21T14:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/21/9867316.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/21/9867316.htm"
+excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+publishedDateTime: 2023-08-21T16:53:00Z
+originalUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
+webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
+    isCached: true
+
 related:
-  - title: "Otter.ai partners with Slack to share meeting insights with your team"
-    excerpt: "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack."
-    publishedDateTime: 2023-08-17T14:01:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
+  - title: "3 ways to upgrade continuous testing for generative AI"
+    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4faaca476d2cf8f3509e323102536f94cc64325e/2023/08/16/5a05f392-31e4-4ae6-8b63-b380b2b6f198/align.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team"
-    excerpt: "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases."
-    publishedDateTime: 2023-08-18T11:44:00Z
-    webUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team"
-    ampWebUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 85
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1200/675/AP21301594731187.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
-secured: "2iqszRxBXRDmLq4xD6fCwPq+iCdZuz1qwGN/Ot3kuW89dg4OCRKc9iVuSPP/7E6r2fGC0ucdmr7O93jo7x6Ff5rfjiCs8NPzECK32zmpKmeNmHSCtWqhK7FbdgT9IezXv6TYHp230riCAvytuMyB7ldlUhCtFQS076bxDAe7gpO+16xy7gb/5m79pViN4NY4V4JRxr3oZ7bQgapLE8ykftEtfKitR3vLOEW/8pMnLBKVFqkr5cjhRu9vFRwM7mRvMQmFsZQZi1Nzl3JcHOaOctHkCetmGALw8Jhkk0hTojrS51afkfE20GuFzs6js03M1b74VKemH2t4MAcEd16pJYhv2n3L4iHBhDmEjpHhqkU=;NS4YHR5jq5d5SZ7lygLQ2Q=="
+secured: "RSynjkqDIQp4E3Lnlguj2FqWNf2sNu+ilMmkZbH+OldclfcX/4Pr0nf04NFs5zMgdxZof3fp8ZTMnMrQVKr4qRZMcSrGkrIQDTasFVM5+8WM4B8meNzMUBhEOhg6FyHUO/tiQtwjChYDTQl/Zxc+8xhTrvItI05UuBtt38DGJR7IBaZaknuyd9w3PVRskvkv6zSXxZjj1KZPlu1VfirnN0oN8ECFE22zod/6FzYiNyvlP7HPqhPf0ZXE2bcrlQy5RzcNpPbJFuqzoJHDe4wyWXREXI3thesss4SObavIt9EMt//uDB3cTeVJhpdNILTegLhoNrgnKFEazL3CZ8KM6HUoaDaquEUVbEN6onhQQ0w=;Enei+L4vqpLlbm27YvnalQ=="
 ---
 

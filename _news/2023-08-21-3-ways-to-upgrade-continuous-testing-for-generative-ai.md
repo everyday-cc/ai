@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuo
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
         width: 800
         height: 400
+        isCached: true
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
   - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
     excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."

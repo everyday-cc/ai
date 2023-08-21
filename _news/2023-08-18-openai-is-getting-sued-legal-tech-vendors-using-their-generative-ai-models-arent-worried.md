@@ -55,6 +55,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z

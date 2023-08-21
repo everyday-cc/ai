@@ -33,20 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "UK AI summit plans progress, with event now expected in the fall"
-    excerpt: "Plans by the U.K. to host a global artificial intelligence summit, first mooted in June, have reportedly progressed, with the event now expected to be held in the fall."
-    publishedDateTime: 2023-08-17T00:23:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/uk-ai-summit-plans-progress-event-now-expected-fall/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/rishiai.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "CUwedM1gz2L9JxkVPmZfURTP7WWxrHpNAGC3Kz/c5v3F5zytHcrzEJ2VqVe7XnvhW0KLVOOejk7kWRT9vC23IhGZvimcOwa6ZVUJw7x8cn6m14ezYUyus/LNiRlHOcrlrE9my7tV40lkxrxD7kecozn2WOVdG6BdlWCoXi/iaP6gdFi03cERr+yCIHkMYqdzcbERfa8ji/phni91zG1Fv4bZHd8MjgEkkwGaCwvGvuY6kOtwKlRC/tVsJtV8+O0Uv1wLMlM5UEbshikAvZwaLzUT4f2mp/5E5IVerPVA6UaWj9fNOASMAmHzUO39vAv0FFPwLVYv5UFoC5f6gUQN3d+Vq8AA8FkElhrEYvGHfp8=;ASACuVJYp3m32k1R9fEogQ=="
 ---

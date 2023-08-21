@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
-    excerpt: "AI workloads require large amounts of time-consuming computation, both to train the underlying machine learning models and to serve those models once they are trained. As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud's extensive portfolio of GPU VMs,"
-    publishedDateTime: 2023-08-21T14:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/21/9867316.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "bC1nvFZIRHPxz1I6/s4GYiS5hGpjGXWSl50C2lGd8I+qnmGA3GFmEDcqbP+YZkn+L2w0u0cFLzA9eQ8N7FL/FzoeWos/JRO8TnPPiQbOGRkNniF1eIW1bEQ6Pmjo4XdqojQKUtYLFxF+lBN61OD+19q1BU4uv6hwKDAg1krnaWmKWkOxHRgfwMYinPAy0D3KBq+9eTSRhZ5ZbsclwM+3Qm2RI0WGDfD/Xqyh1gY2J7Z8N0mQqopJKkELDVA3oH9pTZ8gxg3FOfylu9cf0MR0XghReFGCNiSQEL0Kbc9uVFhLRj0c72+hCVZqol/mjNF3aEj8H8Ah1GL+Dgn6LMABkorJTZDCUwqjEQgwzGFh87E=;kDV1DdyBC5EsG3WAPXcqiQ=="
 ---

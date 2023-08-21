@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
+      "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
+      "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYAznfVq6ko/v1/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-is-the-amd-gpu-better-than-we-thought-for-ai.md",
       "title": "Is The AMD GPU Better Than We Thought For AI?",
       "excerpt": "MosaicML, just acquired by DataBricks for $1.3B, published some interesting benchmarks for training LLMs on the AMD MI250 GPU, and said it is ~80% as fast as an",
@@ -1432,49 +1484,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-cisco-sets-a-foundation-for-ai-network-infrastructure.md",
-      "title": "Cisco sets a foundation for AI network infrastructure",
-      "excerpt": "In addition, each Silicon One device can support 512 Ethernet ports letting customers build a 32K 400G GPU AI/ML cluster requiring 40% fewer switches than other silicon devices needed to support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.html",
-      "originalUrl": "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html",
-      "publishedDateTime": "2023-06-20T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

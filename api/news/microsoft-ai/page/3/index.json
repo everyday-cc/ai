@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
+      "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
+      "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "originalUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-microsoft-shares-down-as-azure-cloud-services-business-slows-down.md",
       "title": "Microsoft shares down as Azure cloud-services business slows down",
       "excerpt": "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading.",
@@ -1394,49 +1440,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership.md",
-      "title": "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

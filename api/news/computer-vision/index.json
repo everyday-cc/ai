@@ -194,6 +194,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-15-state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits.md",
+      "title": "State study: Risk of facial recognition in schools may outweigh benefits",
+      "excerpt": "A New York State report says the risks of using facial recognition technology in schools may outweigh the benefits. Jim Schultz, a Lockport parent who raised the alarm when he learned the school ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
+      "originalUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/a0/7a0c8c04-3870-11ee-8925-db193aeed84e/5ef251272b6bd.image.jpg?crop=640%2C336%2C0%2C46&resize=640%2C336&order=crop%2Cresize",
+          "width": 640,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
       "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
       "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
@@ -259,6 +302,49 @@
       "provider": {
         "name": "San Antonio Express-News",
         "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030.md",
+      "title": "Face Recognition Revolving Door Market Overview 2023: Comprehensive Analysis till 2030",
+      "excerpt": "Global \"Face Recognition Revolving Door Market\" Scope and Outlook Report for 2023 is the implementation of new technologies and innovative solutions that will drive the market's revenue generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33836025",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33836025",
+      "publishedDateTime": "2023-08-14T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -500,10 +586,10 @@
     {
       "path": "_news/2023-08-10-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases.md",
       "title": "VisualCortex streamlines workflow for computer vision models with Weights & Biases",
-      "excerpt": "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs.",
+      "excerpt": "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862353.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862353.htm",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -513,11 +599,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T23:43:00-07:00",
+      "publishedDateTime": "2023-08-10T01:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1317,103 +1403,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition.md",
-      "title": "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition",
-      "excerpt": "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg",
-          "width": 1253,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T07:53:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand.md",
-      "title": "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand",
-      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33550168",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550168",
-      "publishedDateTime": "2023-08-03T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

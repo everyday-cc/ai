@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secu
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

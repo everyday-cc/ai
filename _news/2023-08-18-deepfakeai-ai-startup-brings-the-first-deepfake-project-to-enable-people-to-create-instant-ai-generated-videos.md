@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "\"Vocal deepfakes are here to stay\": AI voice cloning is about to change pop music forever. Here's why"
+    excerpt: "While AI voice cloning software is trained using copyrighted material (the ethics and legality of which is an entirely separate, and no less knotty, issue) its output only lifts the vocal timbre from that material, not the copyright-protected melodies or ..."
+    publishedDateTime: 2023-08-21T16:24:00Z
+    webUrl: "https://www.musicradar.com/news/ai-voice-cloning"
+    type: article
+    provider:
+      name: MusicRadar
+      domain: musicradar.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cAzLNykcxTmGjp6eddLj9Q-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Startup Fortune: DeepFakeAI: AI Startup Brings the First Deepfake Project to Enable People to Create Instant AI Generated Videos"
     excerpt: "Singapore, Singapore--(Newsfile Corp. - August 18, 2023) - DeepFakeAI, a trailblazing AI project, which has garnered substantial attention in the realm of Artificial Intelligence and machine learning, announces the launch of the First Deepfake Project."
     publishedDateTime: 2023-08-18T15:30:00Z

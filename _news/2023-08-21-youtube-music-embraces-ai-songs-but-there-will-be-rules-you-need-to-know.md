@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Abba Star Helps YouTube Come To Grips With AI Music"
+    excerpt: "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors."
+    publishedDateTime: 2023-08-21T15:01:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "YouTube Launches AI Music Incubator With Help From UMG Artists"
     excerpt: "A cohort that includes Juanes, Anitta, Ryan Tedder and the estate of Frank Sinatra will “explore, experiment and offer feedback on AI-related musical tools.”"
     publishedDateTime: 2023-08-21T14:58:00Z
@@ -48,6 +64,6 @@ related:
       domain: musically.com
     quality: 19
 
-secured: "7d48hiVSrDvu5nkJB96Y2Ao2c1d6M8H09FaJXdW8P7WMCzZRkhfKQJt4DzuD39ShkRwuGR2rhgWA9EJLzKMqfhFKMtgnRwkX6RZliEvT5mxuI0+XKJjrzyb3rqOfKxvOQA+POzg2NhsIQUNLpAl+etWAbk0+8D2Hu0+DFgtCJbs10F9HcAUvSTOau9jyZJ0DaNSmzPKasmrBKsVZlyE25wCy5HQB94TGibobWJFurY0ESKQuFXUlKLI6/x2i4voMRSVPw+TmIh0/LZUC6dq2CTpNxIXJNxMRX5X/djNV+gMhdtRq9shTMlV7pktmQYD7vJFMJ7PWjaMUVhDPim1IyFBEcdb8Nqwc+ZYsffyy0Fc=;uvl6E0/FKSBUYoZyHQA9mw=="
+secured: "4310a31BExzkte3tkWBQXpSz2USw+GXKgRsRNIBJC2Ju9IDWLNFu6XuXiLXQXs/Ov+FaP78kVtFlL0DnOCoga5kyJWx3dy2mTvs1Pc9mFqtUUNQ5AsNa4c+pmnAHNERcwOreUqxY2a6JFacim/YT40b1HJjh7vdntG63ItIRfljeoljflfWcm1CM07l9C2F9wLgRE66Ry6qYyHxX6SrXeTsfsg1OkDx4nlz7H+fi+9VoFtFSJFe9GdpE0AX6+IFYrg7k3b3OyhFFKcUg0xOh8NJfyz2WPFvoDYIQWF3ctvXJAs734h1tMXAXKEi4yfhpuJQDHibrRbp4oZy8Q/xIKdX90xz3M44lwh5CItCicSTK8x1dUHsZm1qIj34DFb9iar92LXBEHSnIzE1GN8Y8BWDw+3YYfC9iMzQaiLgONR8dZCi9T46hLKVd+oH+HM0mWJ93idj+55BfCYUxc2J7qXE7OIFRDson0xJRVQimJNzYDLkhQJu90Fct8FSiRxuIJFO8r28tS3taY8gpsia0kA==;5OiROiq7BTAe0+/lBw9ZtQ=="
 ---
 

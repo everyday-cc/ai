@@ -2,6 +2,213 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-17-build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift.md",
+      "title": "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift",
+      "excerpt": "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png",
+          "width": 1216,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T08:31:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-new-1b-fintech-fund-aims-to-plug-uks-2b-funding-gap.md",
+      "title": "New £1B fintech fund aims to plug UK’s £2B funding gap",
+      "excerpt": "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "originalUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-otterai-partners-with-slack-to-share-meeting-insights-with-your-team.md",
+      "title": "Otter.ai partners with Slack to share meeting insights with your team",
+      "excerpt": "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/",
+      "originalUrl": "https://www.zdnet.com/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4faaca476d2cf8f3509e323102536f94cc64325e/2023/08/16/5a05f392-31e4-4ae6-8b63-b380b2b6f198/align.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/",
+      "publishedDateTime": "2023-08-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one.md",
+      "title": "Why Your Business Needs A Winning AI Strategy (And How To Build One)",
+      "excerpt": "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "publishedDateTime": "2023-08-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
       "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
       "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
@@ -53,7 +260,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -296,7 +503,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -379,6 +586,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-korea-to-build-homegrown-ai-chip-powered-data-centers-to-foster-growth-engines.md",
+      "title": "Korea to build homegrown AI chip-powered data centers to foster growth engines",
+      "excerpt": "Korea will speed up efforts to build data centers powered by locally-developed artificial intelligence (AI) chips on its path to nurture the next growth engines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e1a96bb20d184f719a1e08fa6d339b0e.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
+      "publishedDateTime": "2023-08-17T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -939,256 +1189,6 @@
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
       "publishedDateTime": "2023-08-16T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
-      "title": "Robotics part of mid-year success for IDS Imaging",
-      "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "originalUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/growth-2023.jpeg",
-          "width": 780,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027.md",
-      "title": "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In June, I introduced five stocks that AI predicted could double a portfolio",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-performance-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker.md",
-      "title": "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker",
-      "excerpt": "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png",
-          "width": 1260,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-creepily-customized-dishes-and-facial-recognition-how-might-ai-change-fine-dining.md",
-      "title": "Creepily customized dishes and facial recognition: how might AI change fine dining?",
-      "excerpt": "Artificial intelligence could take personalized service a new, possibly sinister level – but can a chatbot replace a chef?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2b73a2245ffe131ee39d2c4c058545a6f6c7767d/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=67119d24f976c08ba2bff3006e890a08",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
-      "publishedDateTime": "2023-08-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories.md",
-      "title": "Google Photos will offer AI assist for collaborating on your favorite memories",
-      "excerpt": "With the updated Memories section, users can add or remove specific photos, start a group of their own, rename a group that Google makes, and see their photos in a scrapbook-like layout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
-      "originalUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/acd7b05c7c968574d109f4b942d7cd8be84b9ad0/2023/08/16/8161436a-4581-4426-a41f-24112694227d/screenshot-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
-      "publishedDateTime": "2023-08-16T08:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

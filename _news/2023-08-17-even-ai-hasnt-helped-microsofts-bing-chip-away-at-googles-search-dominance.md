@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -160,20 +160,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "No, AI in Google Search isn’t going to kill online content"
-    excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
-    publishedDateTime: 2023-08-17T00:24:00Z
-    webUrl: "https://bgr.com/tech/no-ai-in-google-search-isnt-going-to-kill-online-content/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
-        width: 1400
-        height: 862
         isCached: true
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."

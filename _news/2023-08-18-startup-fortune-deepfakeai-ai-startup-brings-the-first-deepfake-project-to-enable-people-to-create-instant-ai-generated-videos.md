@@ -34,6 +34,20 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "\"Vocal deepfakes are here to stay\": AI voice cloning is about to change pop music forever. Here's why"
+    excerpt: "While AI voice cloning software is trained using copyrighted material (the ethics and legality of which is an entirely separate, and no less knotty, issue) its output only lifts the vocal timbre from that material, not the copyright-protected melodies or ..."
+    publishedDateTime: 2023-08-21T16:24:00Z
+    webUrl: "https://www.musicradar.com/news/ai-voice-cloning"
+    type: article
+    provider:
+      name: MusicRadar
+      domain: musicradar.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cAzLNykcxTmGjp6eddLj9Q-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eWXitTBQU8Ce+Kjefkp5MTzXlo13zHjcZjEYv4+GUT48g4bR/1GEY4w7ZgfN84YCL9M/m4tT8QUnrfdQANy2epjwl/tFMi7YSHq8VVwSfjuMCTmW/umjxgk10trU7UGKMedlGsdWZ7Jz/zMBc67XfqEnF+gsnuiOPGbFVln7Mf2LEdqI9vr7XiqoMBf3OxvLuGTakXj7J4MRCOLotDjSKjnS4uUK23KKY7K4E9TYPj6cpwGLf5u1UYl0f3Nf2ht+k2dFjnpRKNTht6AoOuJN3c5z6vqPWEUplXgY08l/WgITOk4m3AFGT0QrhfjVowcl/p4uQcCmR/NcYmmQaIsRjPezwVRWG5PAetZRFZsfBaE=;6cu87BxnB0ghMevN2nXjbw=="
 ---

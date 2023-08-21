@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
+      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
+      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-hitpaw-video-object-remover-v120-released-with-enhanced-features-for-seamless-object-removal-and-enhanced-user-experience.md",
+      "title": "Hitpaw Video Object Remover V1.2.0 Released With Enhanced Features For Seamless Object Removal And Enhanced User Experience",
+      "excerpt": "HitPaw, a leading software technology company, has announced the release of its latest version of the Video Object Remover – the hitpaw video object remover v1.2.0 . This upgraded version comes with enhanced features that make the application more efficient and reliable.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
+      "originalUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/07/SN_a453eimage_story.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-powerful-object-recognition-for-diverse-applications-using-ai-and-robotics.md",
       "title": "Powerful object recognition for diverse applications using AI and robotics",
       "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
@@ -1192,93 +1269,6 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
-      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
-      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "publishedDateTime": "2023-05-16T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-face-recognition-systems-market-2023-2030-size-and-driving-growth.md",
-      "title": "Face Recognition Systems Market 2023-2030 Size and Driving Growth",
-      "excerpt": "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

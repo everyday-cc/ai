@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-12-amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly.md",
+      "title": "AMD-powered LUMI supercomputer lets TurkuNLP create new AI models quickly",
+      "excerpt": "Powered by Advanced Micro Devices chips, the LUMI supercomputer – recently ranked as the fastest supercomputer in Europe as well as one of the most energy efficient – has enabled the TurkuNLP Group to create new models quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
+      "originalUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
       "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
       "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
@@ -1377,58 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
-      "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
-      "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYAznfVq6ko/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

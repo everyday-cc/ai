@@ -1,20 +1,20 @@
 ---
 category: news
 title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-excerpt: "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs."
-publishedDateTime: 2023-08-10T06:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/10/9862353.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862353.htm"
+excerpt: "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ..."
+publishedDateTime: 2023-08-10T08:54:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
-secured: "NYu8n9+bHUVimpEdbnUZiYqInX4pCbfDUVnah2CZxjuRLwTpa3+jdKjdl5tJMEHGhIaZNDr/wGNXTgQanAaahTthZ3cDLZ/TqczQu31WNh+dPoPFEWTG0XEDZc55R+8wuRl5tZhhzpoqMeM129adOfUYpKipKDJ4yR6Kf5O7IymIJBVQGqOmJvTnNMP7FSiPlIF1hMpsjX3qhMyb3Y/GQ5g9DNGUMDIFgmPOeU2oH8Cg+Em1jBXj8+hQmzAV/wPwEEf7AOGduYVk5LqZDiLfXCQSqY6BbkDsCWOq1FI3u8bLw5WyEPFysa5uAECqf8dt0gqepIKomhnRMICEFCjHDC+rwwLXgYT+9e3ikbgKkjBWQV9La7vIOHKAz19yFa9FBuEELSu+UWCBqyGQ1oQla5srpbaCbcsOhtFpx6WHGamfVZGi/ix1QINV0SKaC675MFPNFREJTfzMj4QRByyy3TSAs/0ufXhGuIuThtD3xxemw9Oq3GDpAckgpNK1S5v9LpwwDJ61bWpYvrwY6gB1aA==;g+lceARn+vgxK/OVIAwiwA=="
+secured: "g2hbby69G3nQiOSJQMMY/w2kScUO9Q7c6ecWtoHJHIiIzvli1MxM4ffJSBv4keC24Jcw4xTw6MsLMdOzOgr5WjQRnGHa6Zf0oLVGV49sVJIW77ZlOiwVowIYg69xb71eK/iqE9rL2QEhRqkZUBCpdsYdKRrRuCivukO2gKBinVAeYmCZZ8J4ZTxqFW0zJZ4T3otVqyUITixwuXpV8A4Ss9fo/hLhIBpH5ta7OBT3S8QBbKc66jAYSj/+rKnA9hryVcGC999H6zPMV5zDqBPVdJUjG/2Dy3LjJlyVSQo57ASxl6gcAGQvgK86kIY291ZWpVddU5mBHnanewv0+lRXyqTcZ6dD9tRkjC6o62MrlGk=;9pszaVNGi0nlnKBvOjLWzw=="
 ---
 

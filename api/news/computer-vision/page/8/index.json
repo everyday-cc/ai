@@ -2,6 +2,102 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
+      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
+      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
+      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
+      "publishedDateTime": "2023-05-08T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
+      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
+      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/02/3028c1a9-8c90-5f91-afa2-a0dbf673dec9/6458f6df13782.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize",
+          "width": 1153,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition.md",
       "title": "Build an image search engine with Amazon Kendra and Amazon Rekognition",
       "excerpt": "In this post, we discuss a machine learning (ML) solution for complex image searches using Amazon Kendra and Amazon Rekognition. Specifically, we use the example of architecture diagrams for complex images due to their incorporation of numerous different visual icons and text. With the internet, searching",
@@ -1286,83 +1382,6 @@
         "name": "Daily Express",
         "domain": "express.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
-      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
-      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
-      "originalUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-first-man-wrongfully-arrested-because-of-facial-recognition-testifies-as-california-weighs-new-bills.md",
-      "title": "First man wrongfully arrested because of facial recognition testifies as California weighs new bills",
-      "excerpt": "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

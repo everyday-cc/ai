@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "UK AI summit plans progress, with event now expected in the fall"
-    excerpt: "Plans by the U.K. to host a global artificial intelligence summit, first mooted in June, have reportedly progressed, with the event now expected to be held in the fall."
-    publishedDateTime: 2023-08-17T00:23:00Z
-    webUrl: "https://siliconangle.com/2023/08/16/uk-ai-summit-plans-progress-event-now-expected-fall/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/rishiai.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "UK to host AI safety summit at start of November"
     excerpt: "The UK government will host a summit on the safety of artificial intelligence at the start of November, with “like-minded” countries invited to the event in Bletchley Park to address global threats to democracy, including the use of AI in warfare and ..."
     publishedDateTime: 2023-08-17T14:18:00Z

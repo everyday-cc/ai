@@ -165,20 +165,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "No, AI in Google Search isn’t going to kill online content"
-    excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
-    publishedDateTime: 2023-08-17T00:24:00Z
-    webUrl: "https://bgr.com/tech/no-ai-in-google-search-isnt-going-to-kill-online-content/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
-        width: 1400
-        height: 862
-        isCached: true
   - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
     excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
     publishedDateTime: 2023-08-17T13:57:00Z

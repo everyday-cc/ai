@@ -23,31 +23,38 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas"
-    excerpt: "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ..."
-    publishedDateTime: 2023-08-16T23:27:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
+  - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
+    excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
+    publishedDateTime: 2023-08-21T14:52:00Z
+    webUrl: "https://www.irishexaminer.com/business/companies/arid-41209477.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop"
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7435/3717886_4_seoimageog_2.55896320.jpg_2_.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "NVIDIA Stock Could Push This Leveraged AI ETF Even Higher"
-    excerpt: "Graphics processing unit (GPU) company NVIDIA (NVDA) is the top constituent in the index underpinning the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT)."
-    publishedDateTime: 2023-08-16T23:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-stock-could-push-this-leveraged-ai-etf-even-higher"
+  - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
+    excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
+    publishedDateTime: 2023-08-21T10:16:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-21/nvidia-earnings-will-be-major-test-for-ai-demand-market-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
+    excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
+    publishedDateTime: 2023-08-21T13:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/preview-nvidia-earnings-will-be-major-test-for-ai-demand-market-rally-0"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
+    quality: 47
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
     publishedDateTime: 2023-08-18T06:11:00Z

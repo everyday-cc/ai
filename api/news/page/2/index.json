@@ -2,6 +2,134 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-20-uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports.md",
+      "title": "UK is in talks with Tech Giants on AI chips, Telegraph reports",
+      "excerpt": "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/08/20/1600x900/Rishi_Sunak_1692539300482_1692539300882.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
+      "publishedDateTime": "2023-08-20T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-20-ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence.md",
+      "title": "NGO trains Lagos secondary schools girls on Artificial Intelligence",
+      "excerpt": "A Non-Governmental Organisation (NGO), Women Technology Empowerment Centre (W.TEC), has completed an Artificial Intelligence (AI) empowerment summer camp for 24 girls drawn from some secondary schools in Lagos. The training tagged: “SheCreatesCamp ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
+      "originalUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/ycGktkpTURBXy8wNDJlOGM0NDAxZWVjYjJjMDk4NmVhNDljMDlmMjkzYi5wbmeSlQMAzELNBKLNApuTBc0EsM0Cdg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
+      "publishedDateTime": "2023-08-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-20-regulating-ai-in-schools-could-be-a-top-class-innovation.md",
+      "title": "Regulating AI in schools could be a top class innovation",
+      "excerpt": "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
+      "originalUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg",
+          "width": 590,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
+      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
+      "publishedDateTime": "2023-08-19T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Astro Awani",
+        "domain": "astroawani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-17-critical-skills-for-the-ai-techie.md",
       "title": "17 Critical Skills For The AI “Techie”",
       "excerpt": "AI will gift us with more benefits and advantages than any other invention or discovery in history. But it will also require more skills and mastery than anything else.",
@@ -572,7 +700,7 @@
       "originalUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1106,150 +1234,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-applying-cyber-resilience-to-dora-solutions.md",
-      "title": "Applying cyber resilience to DORA solutions",
-      "excerpt": "A strong cyber-resilience strategy can help organizations protect against and rapidly recover from disruptive cyber incidents.\nThe post Applying cyber resilience to DORA solutions appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
-      "originalUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-where-ai-comes-in-handy-and-where-it-doesnt.md",
-      "title": "Where AI Comes In Handy (And Where It Doesn’t)",
-      "excerpt": "We are still in the early days of the AI revolution. Many organizations are still playing around with this technology and figuring out how to work it into their operations. Teams are starting to determine what today’s large language models (LLMs) do well and where they come up short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
-      "publishedDateTime": "2023-08-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients.md",
-      "title": "McKinsey launches a generative AI chatbot to bring its knowledge to clients",
-      "excerpt": "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
-      "originalUrl": "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
-      "publishedDateTime": "2023-08-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

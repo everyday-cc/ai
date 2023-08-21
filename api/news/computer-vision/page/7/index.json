@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
+      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
+      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "publishedDateTime": "2023-05-16T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-face-recognition-systems-market-2023-2030-size-and-driving-growth.md",
+      "title": "Face Recognition Systems Market 2023-2030 Size and Driving Growth",
+      "excerpt": "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
       "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
       "excerpt": "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ...",
@@ -1342,102 +1429,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
-      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
-      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "publishedDateTime": "2023-05-08T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
-      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
-      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/02/3028c1a9-8c90-5f91-afa2-a0dbf673dec9/6458f6df13782.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize",
-          "width": 1153,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

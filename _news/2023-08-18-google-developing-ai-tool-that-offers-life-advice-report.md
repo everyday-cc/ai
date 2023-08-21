@@ -80,6 +80,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 19
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "7jCnAkwbNeGuU6JGBBWMgBD6MWB9ciBZalDJYH7MoX5MYEE0yg6KrhPESIYnOmR1+1aQQjUaVV+Pcv/S88nhaiO9XhkjnCPEIAGJ20/z5HuKDTZakykFKFMmbfox54ppP1shkH6/1VOt6jiVCzFYpmye3cuADlfo9w4fE8hX/XGMSHkyk/8Q27ltD/CClr1i9r7NHZn9WV2yFS55al9KRWIzTyJVat3ZUmv8qIfFeLOGq7ol3aPtSEKSNzNG/dTg9anNGQ9HW5LDSJbJsKwKQyQEr+TAGJXnTs8CvQssD6jQ4zC5cwAYTfXREdu6v6HoisP7biDLnJn5F9H+vecqOiatxe8rLXvcxXXX9cmT1QwCJR9Z+wSnRJM3ccYRyBUmClqT3+d/J71ZDk1q6FiugfVyLm3ul7D/lB04L3heZH5WG0qYlUh6Q6USqFNt0xfAu6FCkNV/dhM0SLzYYqovDIMvZlQY2gsTsjsff9peX1xDa4DlMAA94b4ShmN+VtSNsykglqeuPXgAcnhrj0Ymaw==;4ygEggmuOG17BfzUdTKXGA=="
 ---
