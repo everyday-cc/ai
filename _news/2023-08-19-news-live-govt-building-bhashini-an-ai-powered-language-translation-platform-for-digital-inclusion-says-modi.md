@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital India expansion approved; Bhashini to translate 22 languages"
-    excerpt: "The Union Cabinet chaired by Prime Minister Narendra Modi on Wednesday approved the expansion of the Digital India programme"
-    publishedDateTime: 2023-08-16T14:59:00Z
-    webUrl: "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html"
-    ampWebUrl: "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2023/07/Statesman-52.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet"
     excerpt: "English-speaking population of India to the global Internet and help them access it in their regional languages."
     publishedDateTime: 2023-08-19T08:45:00Z
@@ -72,52 +56,6 @@ related:
       - url: "https://img.etimg.com/thumb/width-600,height-450,msid-102851839,imgsize-19880/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
-    excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
-    publishedDateTime: 2023-08-19T10:41:00Z
-    webUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi-11692440931885.html"
-    ampWebUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "India to expand digital payments with AI-powered voice transactions"
-    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
-    publishedDateTime: 2023-08-20T02:00:00Z
-    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
-  - title: "Breaking News Live Updates: Building AI-powered language translation platform to support digital inclusion in India's diverse languages, PM Modi says"
-    excerpt: "We are building Bhashini, AI powered language translation platform. It will support digital inclusion in India's diverse languages: PM Modi"
-    publishedDateTime: 2023-08-19T04:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/liveblog/102842536.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/amp_liveblog/102842536.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/amp_liveblog/102842536.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 20
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102842536/102842536.jpg?pl=26516"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "x2YHdxkX/KFUtzGAas3ecXMyMQtc2olFlBQK5pYXDKcsSYLP7Uko/h+Cf1oXHkfF6klofAcj9l0yp5dXt1QHXwPEkebQnwC37ciGr7uvkZhjqtVeyU2DR98bCoXHo39YJtysN+cFFJDjTac4JN0hDhbIYHbW4d/s3M2pfVqeSCLZvPAtHyjOc80XjV44WPmIZezQzdjuaFZB80O8e9D/EDv37KcXZp3FDRtAoF1fnTkVxaAEONlRmJd1KYWOB4dAID1jfVihG1oh2uTSpcQV/rjQON9c0kMSxIcYG8iSUVmd18Mn0tBXIKK8dYqAB1Pkd33wHW72YHmYGMvGSmQUjWHhhtbiCmJ5z6ShkSpVdJTp7fsUNiSlEQS3xtgyBh9wle3n17+dRLXe6hMwqEXRa9t3M5lYHfKvDg0+G7vjlROuujpFr8vx2OMXRlHo7DS46pCDTv04HyeFtjDTwBdevGR9xkF9BNzd5m4p8DFYoAJxyB+WaP6yKaY1LB/M/MsnaEArmuJBnD24FP0UJXAI1w==;BWIxVSGuLhjXBI+S2OMnUw=="

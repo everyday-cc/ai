@@ -24,26 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How continuous automated red teaming (CART) can help improve your cybersecurity posture"
-    excerpt: "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-16T13:09:15Z
-    webUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 74
-  - title: "Cabinet approves Rs 14,903 cr for AI, cybersecurity, digital skilling"
-    excerpt: "The government previously revealed plans to construct three Centres of Excellence (CoE) for the advancement of AI research and innovation in India"
-    publishedDateTime: 2023-08-16T14:40:00Z
-    webUrl: "https://www.business-standard.com/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "What Americans Know About AI, Cybersecurity and Big Tech"
     excerpt: "Americans’ understanding of digital topics varies notably depending on the subject. For example, majorities of U.S. adults know what cookies on websites do and can identify a secure password, but far fewer can recognize an example of two-factor authentication."
     publishedDateTime: 2023-08-17T15:43:00Z
@@ -58,6 +38,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "4 in 10 Americans Think AI Could Help Them Manage Their Money"
+    excerpt: "Click on your state now to find out more. Start Investing The Credit Karma data shows that Americans are warming up to mixing AI and money. Of the investors who responded to the survey, 4 in 10 say they think AI can be a useful tool for managing their ..."
+    publishedDateTime: 2023-08-19T07:48:00Z
+    webUrl: "https://www.charlotteobserver.com/money/ai-could-help-manage-money/"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 17
 
 secured: "QiZr6+bbHi2SoJUptSkTZqA3VptAaq1kG022bpGT6B34s+Bht0ZQvRt0iKfHxCCcWMkdm8kahOVDepvKHJT7Pegm3KbCECPnCU7Bh0D6Xq6On3bssoJ6wr9X5bKm9sXJyc0cDemNXE7ov4R+gsy/KbrKQ0IKilBGmO9efM43fWLPTrgSh7N3MiMHA378g+K6FAMg1Ct4iLTTp2XFUMhhrIz5r3/WD3iwckJrR0cYEWU+C5nxTqeH6RZW6j0WOpPG+d0OA8oyzaWWPRVdCHmlKpWPSuTJrg2dnAgx84CfPwpJbqxU93J0e5R3t6eG6Y7PGvoUtovEy1Hm+KCDH+j7n/z+sXZukrE3KBsDwRAdOF0=;v1kVUrNuHu7I0k8u4zSAsg=="
 ---

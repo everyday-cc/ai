@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
     excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
     publishedDateTime: 2023-08-21T04:55:00Z
@@ -53,6 +67,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "qppwNmtNapWILksGP4UpQbp4A38ga84hl71T2KcXf0z8W90ZJKOHzuy6nejqrub8ziwreMHxagNRx6ZMsSPpxjo6fPNDg7k4M87oGDlHvCy8Bq5uwlGi3+cAbiIdRGDIHLBuqEOYo0Ae8Ik7kLXMfo/kWFqW8OyjdpZjLeWeL8QGojBGsTs6OduFreHPR7gVjMc/BVzApsSYEZ20LfQr2tXW1ixAhB6oexg7shg7GRqsNryXRQ3YUUi+mBoTZdFhtdjb9epQhipz7o+ltWbiCDFV8L3f0xBGuINqCNf5SHoehj3xa/ulWVXK7OQM5IpN3ckw7ghdMLUhlE1xGuhNPOMknmVoL6pUjILacV+vGsA=;WfSkTST7KAg6vWwIKvROiA=="
 ---

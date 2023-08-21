@@ -34,10 +34,10 @@ related:
         isCached: true
   - title: "Marketing tech startup Hypergro.ai raises Rs 7 crore in seed funding from Silverneedle, Huddle, TDV, others"
     excerpt: "The ad spending in the digital advertising market in India is projected to reach $5 billion this year with search advertising being the largest segment having a market volume of $2 billion in 2023."
-    publishedDateTime: 2023-08-21T05:49:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/lite/"
+    publishedDateTime: 2023-08-21T06:54:00Z
+    webUrl: "https://www.financialexpress.com/business/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/"
+    ampWebUrl: "https://www.financialexpress.com/business/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme/marketing-tech-startup-hypergro-ai-raises-rs-7-crore-in-seed-funding-from-silverneedle-huddle-tdv-others/3216875/lite/"
     type: article
     provider:
       name: The Financial Express

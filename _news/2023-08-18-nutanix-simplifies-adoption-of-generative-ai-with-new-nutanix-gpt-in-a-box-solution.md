@@ -7,7 +7,7 @@ originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nutan
 webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/102822278"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 765
     isCached: true
+
+related:
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "Nutanix, a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box solution for customers looking to"
+    publishedDateTime: 2023-08-16T15:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "SP/f4W5RkhssT8hPQ/8z/eVzPZCEQ0xwZFCCcnMyqUJ5cpv4p05q7Ka19hzjmghnzLChX5gWa+6UuwMTHET+AA+Crxhvmht8qUozntk2f2rtZYYu6IH+8TeZo00+SO04ocaX0AW3Xs6eO1lnCX7POWM209mwvUTKqDWD3ph0hORWTEob1j4R5FZCLY7Qoovy4V8yRIgoJy6rKRj8+xbwehKJfBpzFNC+qKxYOVPGnu9un8klszvN56OU1dKPjkk3auhTxS2KzGqlrYp5NQYVf2wGVps+S7jGfSS7fbCwR0UmgpCfmbFc6NRBTonr92I+IFMoFo57s9wYJAj+tSnaueueMLRigKit85mwElLF529pEd81dUDDH6WocKld2WlTk5o9+9ofBinP7EqlJsabvt+7FlQNDBWY4OgoP9bVgTxnoyP1c7wjoueAbWv8ANOnCarAVyxzz/jHfuj6zD+oxhZmNzRGkDAsGcAvgLNurB7L8Of+RlvgLTx7fefWYAT8a9pIM5arzgAh7AJB4n4JvA==;xZjWsmbbyjZaDISz6sxFqw=="
 ---

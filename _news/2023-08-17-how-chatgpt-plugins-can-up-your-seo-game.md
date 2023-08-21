@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z
@@ -47,15 +79,15 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
-    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
-    publishedDateTime: 2023-08-17T11:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
+  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
+    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
+    publishedDateTime: 2023-08-17T13:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 15
 
 secured: "cIKuJ0/etTi8dCgX/gKog5K318oLGiJCDQLrOQhXjRbuAcsAv3h34oL0kDtgvKs08n0lB/jclYFFDP9exjBTp2mOjHET299mCwRX9aym5IMK/smhNRJUX8Mmr6iOOfjH/f8nX0HSMpe3nnSvOOdwlE8bmIy0+xouO+Oz5FNlfAwO0uDetJCU3EmKdDzYlaUNEAvis7Pa6yeSAwthpER9INAFzlwFoAR5UifWR/GzQbtEWhgXYSTmeec+M7DRI7iozJtck/F3izvBFZP+or/RTtwDYotsLJ/C/SV6d0K0tSrfii848QpAcVM2q3BeqlXrEwKwoU4+dzWCeo9uvLClFSPAqvnxTDHvV6F5Mi3OY4EeW/HUQN8AbKoJ1L6jGF/BylmGyXTT5oefYKiyKihYy098PpBYZqAk6TsXB45/o71RKyuurvVUdFXUj3zEvg0owzY4pj/SDdktVfiOYUNTFttkd3VAcDADAzaJ3mdwf2KnHLV3RBuxVNSe6UFL6ipDBLhc5XaERcCDHifjgNsa2A==;Cgt6ZR0dJT10BWznyLU02A=="
 ---

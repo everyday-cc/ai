@@ -25,22 +25,6 @@ images:
     height: 1020
     isCached: true
 
-related:
-  - title: "AI can help small businesses, startups boost search traffic"
-    excerpt: "Generative artificial intelligence tools are becoming force multipliers for small businesses and startups that need to create content quickly to further their business strategy."
-    publishedDateTime: 2023-08-16T15:00:00Z
-    webUrl: "https://www.aol.com/ai-help-small-businesses-startups-120032296.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1YaxuBnCyp8QFfZblgudlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/cec74b80e91cbce4e7bfaf232fceba7f"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "EjLHTrlvnma7Lgzjoa+tHvP3dzrqdcX5yVkcGDyIJSTKBA26ZHkfdjDQIwdOaHNKZZk0Z7LEPWwSrgWder86p4JF2/bs/ijsoyqsGCHn5AuNlFiTIPbMOI1tnRhAQ8e4tySINGKfSgCgzIVDqo1Hoei4FCvwZYFmJ6ipLuHRUjvpq+ywVMPTRR1AeLr6L+7RTiB0yC3wC1G/6uhSwrGHEFSFo7Uk1yBB4hx0wXbtMAtSlbou0eHx9qzi1fPkPQZK++9e1umSQjmSs3Db6V+nyEb1jHybRQ1Lu90DlmY1F/Oqz62P0IzP0fSx9iabCVlrS/18XXoyqMPLJTRVZcqdfZlKCJmiMFSuOx5GJu8k11YCmaktqE3Uz3ZMYwhCie21Kt4ddluzVI90Pks+TJulYHnJhVTFJVGIsRg4cHoe4/Y1nAJxOm4EgrLIabQ0rlTKMPYT7RYVwb/Dag/lqEj5dZOy78e01m1naAuxaawPdqkCWBuqtLwavDSb4jfMsKWxszdtr3VW5DvFtVRJJRVisA==;qZ9e/XShF9Z0h9Z/sbpiNQ=="
 ---
 

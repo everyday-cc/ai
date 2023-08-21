@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest
 webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,36 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Canadian government seeks input on voluntary code of practice for generative AI"
-    excerpt: "Canada's intent to establish a code of practice demonstrates its commitment to ensuring generative AI evolves in a way that benefits society."
-    publishedDateTime: 2023-08-16T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai/"
+  - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
+    excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
+    publishedDateTime: 2023-08-21T04:55:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-drops-to-pandemic-era-levels-in-h123/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_209461318-e1692142857564.jpg?w=1200&strip=all"
-        width: 1200
-        height: 803
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/08/fintech-2.jpeg"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Governments, including Washington State, making policy for use of generative AI"
-    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
-    publishedDateTime: 2023-08-17T21:19:00Z
-    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
-    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 55
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
+    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
+    publishedDateTime: 2023-08-17T18:36:00Z
+    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
+    type: article
+    provider:
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 20
+    images:
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
+        width: 650
+        height: 269
+        isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "Kb3PHVK+PrALqnSIU8eIzq1wOmfOZnCk7qTMH6YpDsEhInXzNRixd+yR/WoKcwOJtNoGM+mbu40zqr6TklxBVQ+Or2HvKWd5DRyRaS1ailTyDbQeL31E1T5r5eBMHhDLsJLpBZxnvsbzO3+SdsKEhkkV3o32qKwRaP02BXHG3UJjvj/7SUGxkz04/JxRd2CSXgNVnb3NYXiVVF0wEaNUeQ9FAT0t9uUhgkvQi3caHkKYQ66f3IvAzz6JGWZ0fT6eRjt6e68XPxJieGUq/f37YXLaUZpsL6DJygsIevkZJMcRmfZ8tXqRReDVhW/Sr/fo7bnvutc/OOeU8h2CtWTyXQzrnPYSmIt91C+x3FYI3TE=;lO+FNfce3ygWBKzsl8eNZQ=="
 ---

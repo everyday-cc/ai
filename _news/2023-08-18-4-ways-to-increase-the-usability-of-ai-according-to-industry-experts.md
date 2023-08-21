@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usab
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Reality of Artificial Intelligence for Family Offices"
-    excerpt: "Artificial intelligence is the replication of human intelligence ... per stirpes to a 10-year-old” or to “explain the concept of delayed revocation in a health care power of attorney in Illinois.” The software will provide a simplified explanation ..."
-    publishedDateTime: 2023-08-16T13:16:00Z
-    webUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 41
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
-        width: 1540
-        height: 799
-        isCached: true
   - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
     excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
     publishedDateTime: 2023-08-19T12:05:00Z

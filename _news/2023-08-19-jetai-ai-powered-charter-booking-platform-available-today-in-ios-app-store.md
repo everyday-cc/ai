@@ -53,22 +53,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Adobe Express with AI Firefly app is available worldwide"
-    excerpt: "Adobe has taken its Adobe Express with Firefly web app out of beta, and its AI-powered image tools are now available online, with a mobile version \"coming soon.\""
-    publishedDateTime: 2023-08-16T14:16:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55900-113518-000-lead-Adobe-Express-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "SvzGozd2pa+plXpDfHc7kLAMRmCWwLX903oV3uwIaAgkamwNxSsZF04Oir4+Um0ymXCLhM4waBV6ul4Aqi/eOmv0OPZQaoCYTga7zCoSOcNuD/ToQad7Nm/QLK9FO7xoEf+oWHR5brT3LXT8xSL9+u4+P0Mr5xRem5qZpLjvxxu9EK5CD9B+DxmExeydCqTb4wE6rZLvWiQy+i0QkZHlJS8JUaaBJJlgt3u6xguSike+hSTutRAlGQURueeNZy+34PsLUGkDWwt98mlE76c8SCxhxeawavEU99Wcqkw01fesCoViFcj3yUhO0zqKn4i89idGwcbRxqAnsZrCVlhj4Bs+1OCLDucrZv77FZtRqzM=;F7mk02QSPTdczikaSYZ5gw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Google’s working beyond Bard to evolve the AI chatbot market"
-    excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
-    publishedDateTime: 2023-08-16T14:33:00Z
-    webUrl: "https://www.onmsft.com/news/googles-working-beyond-bard-to-evolve-the-ai-chatbot-market/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/maxresdefault.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI chatbots could fill gaps in postpartum depression support and care"
     excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
     publishedDateTime: 2023-08-18T16:48:00Z

@@ -114,20 +114,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Google’s working beyond Bard to evolve the AI chatbot market"
-    excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
-    publishedDateTime: 2023-08-16T14:33:00Z
-    webUrl: "https://www.onmsft.com/news/googles-working-beyond-bard-to-evolve-the-ai-chatbot-market/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/maxresdefault.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "UYu0zPuGdFt8TOiXlOTpvEIXRy03Yg6G+vsrpqj3FtRVoG4f0zyilQiy4I0ihwdQJop3s3TXvP7jVyrwOeEs4V+vqu8gVRVhZsa0NBhGSUuTlgklU7NTLII+kxlob4I8sPObzZzJ7fzD7UinW9Jh1zjJwjuUUbctKgbKvHERL+W0gUblFAMYAHxRKherA38dz2MpuDmLeEhKy1bLolA09bC9cdzixsOJQwwk3PylaHAGV6WdS38BI0PgrFtxFYzmbf6umvILlgo+ePIh14GySaHdHNDNflF6pYXf4wBXpK80wuO4fXKKyCdQAKTngG/mw0QM2WeJ4wtAWS/V7b37WB5W0Ajy3dmEaXtU62q+CPqCsYBWZ+p9IXeCqcJ4Kmq/BQ6BErur8XKciDoXZT0R/knMWE0iqAUF3dqqCDQHvp4UjUiv20Onhe9S5kN5ov/IykI+3NLgbHRwc67ogWnOxi/TysC++aLvRf2M270CeTRe20I3KZ+0e9vJ/W0tKJA9nh8y0PHzMRj0JWNjr/TP1w==;Bko5y2JPV1Ip/Sq3Dnt0DQ=="
 ---

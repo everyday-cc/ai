@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 type: article
 quality: 58
-heat: 79
+heat: 78
 published: true
 
 provider:

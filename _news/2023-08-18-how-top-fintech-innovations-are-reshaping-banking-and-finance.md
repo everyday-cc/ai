@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    type: article
+    provider:
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
     publishedDateTime: 2023-08-18T08:48:00Z

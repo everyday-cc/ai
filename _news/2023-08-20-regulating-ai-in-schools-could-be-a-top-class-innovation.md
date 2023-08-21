@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

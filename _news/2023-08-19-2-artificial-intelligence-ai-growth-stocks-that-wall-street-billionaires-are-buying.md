@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-
 webUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/"
 type: article
 quality: 77
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -59,7 +59,7 @@ related:
     provider:
       name: SiliconIndia
       domain: siliconindia.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
         width: 570

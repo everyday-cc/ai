@@ -25,79 +25,142 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI"
-    excerpt: "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-16T14:15:25Z
-    webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
+  - title: "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance"
+    excerpt: "The new Bing with an AI chatbot is called “cute, but not a game changer.”"
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 94
-  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
-    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
-    publishedDateTime: 2023-08-16T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 78
+  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
+    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
+    publishedDateTime: 2023-08-18T06:53:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Firstpost
+      domain: firstpost.com
+    quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
+        width: 640
+        height: 362
         isCached: true
-  - title: "AI As Your Content Partner: Working With ChatGPT To Create Engaging LinkedIn Posts"
-    excerpt: "Learn to craft LinkedIn posts with ChatGPT: from custom instructions and creative briefs to emoji use and editing. A complete guide to engaging LinkedIn content."
-    publishedDateTime: 2023-08-16T14:04:00Z
-    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/08/16/ai-as-your-content-partner-working-with-chatgpt-to-create-engaging-linkedin-posts/"
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: techzine
+      domain: techzine.eu
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcd6ddb9f53bfc4f3d516d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
         height: 800
         isCached: true
-  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
-    publishedDateTime: 2023-08-18T21:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
+  - title: "Microsoft says that AI is the new “tidal wave”"
+    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
+    publishedDateTime: 2023-08-19T01:07:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
+    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
+    publishedDateTime: 2023-08-17T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
-    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
-    publishedDateTime: 2023-08-18T12:00:00Z
-    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    quality: 52
+  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
+    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
+    publishedDateTime: 2023-08-18T05:15:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
-  - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
-    excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
-    publishedDateTime: 2023-08-16T13:41:00Z
-    webUrl: "https://bgr.com/tech/googles-gemini-ai-might-be-the-best-thing-that-happens-to-chatgpt/"
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
+    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
+    publishedDateTime: 2023-08-18T15:44:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "No, AI in Google Search isn’t going to kill online content"
+    excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
+    publishedDateTime: 2023-08-17T00:24:00Z
+    webUrl: "https://bgr.com/tech/no-ai-in-google-search-isnt-going-to-kill-online-content/"
     type: article
     provider:
       name: BGR
       domain: bgr.com
-    quality: 17
-  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
-    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
-    publishedDateTime: 2023-08-17T13:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
+        width: 1400
+        height: 862
+        isCached: true
+  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
+    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
+    publishedDateTime: 2023-08-17T13:57:00Z
+    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 15
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 30
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "9wNWSK3Xc+iNqEECW7uqd3r/n+iH9V6BtuK8RnVlTIT3FLfUOnjbOekD+60zm3ki3CbvYgY3opDoyQF1DuQeVXS8HmxMA+ql228Cbn0ll4n8Hzu4Um9bxYSsInlutxXhInAy+a5VuZ+FXWsviI8kCDBhlsKl29xK1ktHpWig5XBYEyaHJ9djiE7AIWLZ+MSrr4ObDrI3fM8tESWcOeXR7ace0fhmoDR31+X3VRG5KX9XdlMfGKzsUZv/HxY/vxOeQAbB1hUEqeTELGbTboWZpIwjR3pONK1AQ69ABZCzfmaY+pIlDCawetuMyP9lDk+T+5FjU05tm6yok8+RL66HQRCZRLXDa422R8JHBymZxsVqhgBrxXHHoBlox1PN0RT6NEfCLWR1XkfgzWDfi1sQfyZu/yacbLY+3yYx+8a6HB+oq61lCYNrpAdPMgNOn/x0Sr08LwW+46y8/bfgCP1d15TUocEmqU9MUE7xjAnE5MNjG4UeWFO3Gm3nBCa22KiepCH1bfSITHf7K43t8c8p7Q==;WzVIWUtdNQJZTd4v7tl7vQ=="
 ---

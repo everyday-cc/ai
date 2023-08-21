@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-21T04:47:00Z
 originalUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
 webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
@@ -68,6 +69,6 @@ related:
       domain: wuwm.com
     quality: 16
 
-secured: "MhVA19sSCkOHSXjhOGjbm9f73m6Qa8wgOKVgSn1GpW5kxqOPpL5B340cY9/a/blg/z3JorCW2dNUwLUQb8QlJbSZx1ePp7g6DOJgbGNwfN9mF/pJ3jC4WQQXZD7SgJ8nl0VGCrKNeoszP1HsW5Le0iIqwBKJlh+4mWS6LAz0KTG7MdmQr2VOvY78AnIc/B2W+0B6tJzv7wvnNKhUGhQan86OdlvjVs78OaXM3x+x+0aF+TjQ5MdZqvzHLTTNCa08kVRy5pHQgm3ygXviCeFozKFBwH8oLj8+cHzsPI9PXHhRRJpKo11gWvzoBmXkJmwyUvyKlRGLlRNOFC9mn77ffWZfaITFLCY4+CIuymgKhNI=;O4jP36lW/pddCIhRSHUwfQ=="
+secured: "eCG4k5WQzaNVefNzuTLjh3yUpGUcDy1SAQxbDF/Bnhg3+6IwO81LDKxpDfLxTKo4ruiiUtgMH8U0v9sSu0A1PLvb5M/isVtZs7OesOKiNa71NYpax5oLpLd+ndiAyXbhaUyQEzgVGTKLAteDzvV4Sp+UPk9PIuKwD7gMulWHdWvqOWqzKr3A2l8QCBIBUWxs8fdGZBfcU6rkktT5W9ryAZ2kzyqDp0j3jSJ0Rw2H49mradtv3fXS2sIQYj2yebrl610KyVlhOe3YAApI8KPnL5fGHvPO4z3K9H/8W9zunc6Hi6y5F+RmBqy2yI3Cr9FwUmOyaJZfvA6b5qaI53ssOzIVkwZK2LHuSkTsv5N4mwYXBXqIonKeLDEPb9bvNGIsrXGDqQl2AVHL33RKwB2MvA1PaPX0eFG0PvMtCovFjk+xeIuX197dFx9K2WIm8ucvjzHuF0b6yYKTMKwiK/F8wMnigYXc41B3/U51UqU0YnBn+PyPg5clCFxFZtjPeiK9fbPrU9IGvnSZxwlrgh8EmA==;NKA4jKcSHc/p/L7qk5fG7Q=="
 ---
 

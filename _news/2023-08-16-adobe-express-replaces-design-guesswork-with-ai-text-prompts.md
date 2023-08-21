@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Express with AI Firefly app is available worldwide"
-    excerpt: "Adobe has taken its Adobe Express with Firefly web app out of beta, and its AI-powered image tools are now available online, with a mobile version \"coming soon.\""
-    publishedDateTime: 2023-08-16T14:16:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55900-113518-000-lead-Adobe-Express-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
     excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
     publishedDateTime: 2023-08-18T19:13:00Z

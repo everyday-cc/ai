@@ -7,7 +7,7 @@ originalUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-d
 webUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-drops-to-pandemic-era-levels-in-h123/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
     excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
     publishedDateTime: 2023-08-18T11:00:00Z
@@ -53,7 +67,16 @@ related:
         width: 650
         height: 269
         isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
-secured: "mxDISLgwVYz5kgIRStAdY3hphMkwYoBGPMdvhJ/UPLqmyaCzy9TTerorK+lEhUlf7v3dpmNDzjEgUqZzFhO8KW8U8RiyrxnQt5QWr4RnOkGf1LIIXtgicWB2TbgLAPgBYRVu6QAOWnAxlvK/5LmvLlXNFn+d5jCoY+wcb8QCxNVuc/V0uqgl1VP6PyszXi/G3dp83JbEnWFvau0fvjV5my7/FMgBJV/TUI+Ee4XKbA0kqDnPWFW+fmkRqTL+9dMMgSlCJPen30wVAD9CncQkQb2foHqIgf5A02JgapqyXdf8jTM6dH9Z+OYjfleuwAg6FFnjz+M8FnbZFloB6LumRAbbBwbOmL4pWMYyVrYKSeA=;6lPg9vOj3QKFl28DEyMkFg=="
+secured: "ZdThe48PvHVfpfIwg69LTPwQVUA0EtcKg9F2npMrAFwqOVfhJJPtvJJi4crVz83N+PKpicKYmOPep00JcxorR5NbNsLiLFJ6ikQxvAH9MgTR+jqVSEFzMWTX5yxjLKqRjTiyxPDeMm/Q46zCvhG+NWbJKhFPWw8U2PXtyl7mHQl80UfLhZH2gxh4Ye1tKUUcwr/OyarkG1Qp7yrdlmhbgXOCfOCdS0jwTt99RY0oA4PEtxI8y/zwIM5RzfzvW8umpIRxAfsus5jZjz4FJ+Gn2tYsmHlCqm3IHIXl04KmcOYGQk3KVFUFe65K+dXFzUQxPsyJpiNzLYK+C2dw31nJMzg1UHx3SQ2eDumS4+nRafOjxLiDFn7BRnMHumGWMTRfMn33Uwz0Wr/pPOSbLpPYFifD7psnPuOZ5VARa5l/qCHeaxdcpfzc93yaJIFiFGGa6TjZ7m1BlO7oBtwhu4VyMfE8DPO7C0+kgoDKT420L0iK3k+vhd3b41QVMo96Jy2QzR+2Ca51TRI6Unhyf/Z2MA==;0r1yyzvw3GVU4lmoTN8S2w=="
 ---
 

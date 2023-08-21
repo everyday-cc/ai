@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
 webUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    type: article
+    provider:
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
     publishedDateTime: 2023-08-18T08:48:00Z
@@ -72,6 +88,6 @@ related:
         height: 270
         isCached: true
 
-secured: "hKNOykkweE67l50wiHpk+hG91HvEJZ8gttClsQxxYK2aHVL4x4pwgeJz2GQ3Q/itUyIggfbEttDv6L8au8gDwvudTzIehPNkZExAqbuWXTIzJoHbBIuE6cYY8TncOw1kJkbrNyl6frUFfaWT4jqM01ob9uNJzeYJvhDVbkLrfAhE212t8rqke3AdSh1XxQ8pQTyalXCuWcFqL11AULGYeQtuYUbTHxu6hzyXhYZ/trnkJxrZImz9TSY3PbquZ5xT9SZHzNF2hDqUMhLk+Ayxcc44hjGSUuBsiNGEXEq02BLQrmLjDlomOxIGJjDxNnUIyoBEKANbzqtzwI6B3yC7EJ7p24nTJEVDuGqjPtvwV1w=;mPezv2GgFr3Jt2pd1B7A9Q=="
+secured: "kpk8ihOHyZBO5QT1uMtmo8AeS/gHHf0FurQ2Q4WbndFOOZRyUvKkDzxu+tBR5q+0+EaME4Cyl8Gw6jC2Z0CDtm9ChPJzm3KVnMplNtSIB44WbhLWrbwRI9OryaU62FURdhfZXVoG7HYqDAj/eBLjIcq9zzJelKhCEH3QzGBIOeQIjg4Nkl82dnlJ1E9CZwtpEFKpu50AsSAOiXZaivvpqMC2a+seinExCOqsUlRqANbW0D2RGM/2/JsBDgASrTL7XNdMdI41wwhNQO4AqYtZMd0hBUlG3aBsaxMZg2bCCk1rFCXjkf+fzwvebed5kX/RLU4ixofFf7lsX80WMolVzoujqfvnLRvG/vADorF2UzzB2MhQbwbWHUHk1k3KX1PphpCTKk+2iBRg5ipzhsaIPmhkNraJoUtDDK4WVFAFMwo53RXl0VxF8gECk7CPaFjC2p1hE3vvr9hoS/UtsLplTunVWELH79CZ2+CLniPb/9tndV2ztKI/nUdddXSZxSTbu258pum1i07kq/+YD5/Ulw==;ahGXLFZb9IEzFeHMcTtcTw=="
 ---
 

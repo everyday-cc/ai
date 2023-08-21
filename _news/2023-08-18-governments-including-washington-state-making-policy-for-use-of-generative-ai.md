@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11e
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: The Center Square
@@ -27,33 +27,84 @@ images:
     isCached: true
 
 related:
-  - title: "Canadian government seeks input on voluntary code of practice for generative AI"
-    excerpt: "Canada's intent to establish a code of practice demonstrates its commitment to ensuring generative AI evolves in a way that benefits society."
-    publishedDateTime: 2023-08-16T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai/"
+  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
+    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
+    publishedDateTime: 2023-08-17T07:49:00Z
+    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_209461318-e1692142857564.jpg?w=1200&strip=all"
-        width: 1200
-        height: 803
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
+        width: 469
+        height: 314
         isCached: true
-  - title: "Canadian fintech investment plummets"
-    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
-    publishedDateTime: 2023-08-19T04:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+  - title: "Artificial Intelligence and Copyright — AI: The Washington Report"
+    excerpt: "The Washington Report, a joint undertaking of Mintz and its government affairs affiliate, ML Strategies. The accelerating advances in artificial intel"
+    publishedDateTime: 2023-08-17T23:48:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-copyright-ai-washington-report"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 52
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/intellectual%20property%20IP%20copyright%20folder%20calculator%20laptop_0.jpg?itok=ooS_1YBs"
+        width: 500
+        height: 362
+        isCached: true
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
+    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
+    publishedDateTime: 2023-08-17T17:40:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AI-Driven Investment Strategies: Unleashing the Power of Machine Learning in Financial Decision-Making"
+    excerpt: "AI’s incredible ability to analyze vast amounts of data has given rise to sophisticated tools that help investors predict market trends and optimize their portfolios."
+    publishedDateTime: 2023-08-17T16:14:00Z
+    webUrl: "https://financefeeds.com/ai-driven-investment-strategies-unleashing-the-power-of-machine-learning-in-financial-decision-making/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 20
+  - title: "States’ Increased Policing of Artificial Intelligence in the Workplace Serves as Important Reminder to Employers"
+    excerpt: "Employers’ burgeoning use and reliance upon artificial intelligence has paved the way for an increasing number of states to implement legislation governing its use in employment decisions. Illin"
+    publishedDateTime: 2023-08-17T23:38:00Z
+    webUrl: "https://www.natlawreview.com/article/states-increased-policing-artificial-intelligence-workplace-serves-important"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 16
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/46181/Artificial%20Intelligence%20Concept%20AI%20SMALL_0.jpg?itok=b6Y-U8rL"
+        width: 500
+        height: 243
         isCached: true
 
 secured: "FFqyc8t76IvKaAZ2KANyREOd9clJ0KznIgzK1OJZABb6YfncSvg80pCJ7YVbrPU3o1zAppXTq9ZOwDZLJ4CtqbJ34+vKR/HEcBk+vj6VI0iumOjDdBBLh7iHdyFefz3jmMbJulbM6ha37hV77U27/u4JpQPblrAw43DW+e6OrlvoekjpiyZQfx9bKGmDFSNH3cCHX+5r+pzUi/4A8cNd223Tkl5wnDzXUbBCKFFGlDRvySfEFDY0EaQk5vm+OTlsIHeFcb7oXZvfvrFVSK7diOsxnDw5tlQUtIDTuxA/Atx9HDt32glBdzoXUr1CozJ5OelfI2j3E9GNo0ekDawC01nFxDLmvoog2FmE9WV0FdKH6Q5XbHtPOJAekR8JWtkvvJ6X6vQrw1u6iy2jnBOfkIESVLKs6hYVqkUr9I+sK/7G7aPunVTmbRYHgRfMgTQc5+jXwHVYl11eQzr5hz7N9l0Uf3ju0ZEZY2/lbp0rtCTvol/h+D0bMdjp30r2NcYitWdLL/RjvZGaA4l2yTafkg==;zGcrRFangmfoabYzOt7vvw=="

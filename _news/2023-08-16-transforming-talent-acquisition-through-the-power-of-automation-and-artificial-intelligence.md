@@ -73,20 +73,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The future of artificial intelligence in accessibility"
-    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
-    publishedDateTime: 2023-08-16T14:14:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "D+U6Hsnb2FtrRJhZGTjjwfiMhhsmQwf8dDef4ok8rM9aTzEr8Rq8nzYhZA3D15xMDq7PtIow+sRPCCb+XxdYGimf/4XwZq2HoCuobCLPAox8wCyVLhgZIglfh6FTgbN4n2wj3Fl0aQn20jqqth1ry69QeZQxYD6ffDLMr5NpqXmRpAIx7umw6fcCmHzpNbheZ6rSZgzsGHtPF9Mxxht0DIelbN2go52h9hvrJXrC8ALs0lZNf4NU81yaTovFLl4JAoBiQU8G7qviTmDQPkmUoeofI4VnwPtFcI30BRtrL1s5vz2myNTJWoS6t322Hr87rX+ObmJvbdBFin3jD0DmmoacLJ2iulEqDlELPM2AhtUreAP4ii9tHegGhr5TAkgdqi8KToMBZPn0E/PZYeHh45r1u+9ll1L0MglPfTmo3y6iAdlC2ucGgUxxExFlo4Rtl6oIBoM5J9x2BAOgmWDAXpPKCR1whVj6TA0SoPSo1W16c9bK25D13rrdNqgevTPglNVmL0fa4aEluKGc4gbhWw==;f38HAguBBiIzAe7KdNXY4A=="
 ---

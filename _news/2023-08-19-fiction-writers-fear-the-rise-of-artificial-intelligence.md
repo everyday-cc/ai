@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+  - title: "Getting Real About Ai In The Enterprise"
+    excerpt: "Let's be clear: AI is complex, so be careful of vendors that offer to simplify everything-as long as it's inside their box. Many companies have been caught flat-footed by the enormous multicloud integration needed to successfully benefit from AI projects. This is where we excel."
+    publishedDateTime: 2023-08-16T17:09:00Z
+    webUrl: "https://menafn.com/1106868639/Getting-Real-About-Ai-In-The-Enterprise"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
+      - url: "https://menafn.com/updates/pr/2023-08/16/M_89490image_story.jpeg"
+        width: 852
+        height: 1280
         isCached: true
 
 secured: "J5hiUie67eqzvSSPpIEs88RXKmEz80QJc/ihYMXjSgwCTtec3C6Azb9fH7bI4AEo0mjJMp+EsaYRLkfS48FfT+TyiEdMA3tTBY89AtTfraoIXOcM6Uf8zGMO5jRcVOsGCRnxDuBrNPacJusVznNjTUi5hukk1o8dRUnkUFYAupVlx1QlUuLrS5cjlC9B/XhOeCjyHCHLUHSJRCWCwYicHD2ZcusususRnlxJzaxVzgp+91hDY6tm5pg/fhAmQkooHUMUwE+1OI4IQHptgSTTuxR0Got5qc6Iq1PWrrRbEfsUki6jD6f3Vmei55AJDJbZqtTUFRsJuOyx75ExuTp91kHwm2Bg1nMoFltUVT0itXYrpcugrAbkjlY7b131RR5sWxTeewCtq1DUFfq8yVKO5aZcVLJAAaknFgSiJ7ZJmuG0eh64OZ8ZxED5onNDXWqXEeaKyCQ4pYmSwvbsTeKZW6pGm8bkMjMVkz0+Ex2yVx/fSKc9NQT0UARVs2EnLxmXhF2E1sNPNo5+DOGdc/HTPA==;GGgTa1kkLsFfs0hBrhj1pw=="

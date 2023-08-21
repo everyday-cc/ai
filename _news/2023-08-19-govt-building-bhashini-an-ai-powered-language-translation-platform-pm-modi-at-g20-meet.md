@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital India expansion approved; Bhashini to translate 22 languages"
-    excerpt: "The Union Cabinet chaired by Prime Minister Narendra Modi on Wednesday approved the expansion of the Digital India programme"
-    publishedDateTime: 2023-08-16T14:59:00Z
-    webUrl: "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html"
-    ampWebUrl: "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2023/07/Statesman-52.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet"
     excerpt: "English-speaking population of India to the global Internet and help them access it in their regional languages."
     publishedDateTime: 2023-08-19T08:45:00Z
@@ -58,52 +42,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tpps4caa50qgrcjo_1692421617.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
-    excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
-    publishedDateTime: 2023-08-19T10:41:00Z
-    webUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi-11692440931885.html"
-    ampWebUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "India to expand digital payments with AI-powered voice transactions"
-    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
-    publishedDateTime: 2023-08-20T02:00:00Z
-    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
-  - title: "Breaking News Live Updates: Building AI-powered language translation platform to support digital inclusion in India's diverse languages, PM Modi says"
-    excerpt: "We are building Bhashini, AI powered language translation platform. It will support digital inclusion in India's diverse languages: PM Modi"
-    publishedDateTime: 2023-08-19T04:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/liveblog/102842536.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/amp_liveblog/102842536.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/india/breaking-news-live-updates-19-august-2023/amp_liveblog/102842536.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 20
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102842536/102842536.jpg?pl=26516"
-        width: 1280
-        height: 720
         isCached: true
   - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
     excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "'AI-created art can't be Copyrighted': US court dismisses AI entrepreneur's plea"
+    excerpt: "Thaler contested this decision, contending that AI should be considered an author when it satisfies authorship criteria, with the AI system's owner assuming copyright ownership"
+    publishedDateTime: 2023-08-21T06:45:00Z
+    webUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html"
+    ampWebUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 54
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Untitled-design-2023-08-21T121435.989.png"
+        width: 640
+        height: 362
+        isCached: true
   - title: "AI-generated art can't be copyrighted, US court rules"
     excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
     publishedDateTime: 2023-08-20T15:57:00Z

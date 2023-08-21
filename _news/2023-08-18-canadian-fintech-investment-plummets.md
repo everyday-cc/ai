@@ -67,6 +67,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    type: article
+    provider:
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
+        isCached: true
 
 secured: "E19sOUjDm5li0dup3HDU0aeTBVXZu2seP8xn1OZS7TsdBN9ymK9aJ+2mZRbCJnjlw1nZM+nT9s3vZYQy/5zecBrWXH3WSiIiR1PoBkrjMFE1JAEZWcYGYY4hh2BjDxS/Txx0dexaK2VqzvfxuL9ugRYyibA27RuONCvF4wqTk5NyhWRWqNTgZjLjRABuzAuFbwNyMGkclWMputHVu47/mdMULgdqjHFGEswp2QDeVQKQklyd2mM5u0+4AuAxB9IqFWkOQjuoTjveBQyxVUd2owxFlIls9qWlvbdWvB9y9jSI7ewXjxqcw29n5QrSkBw5DXJS+4a4JtwofJ4Rwt/6bm06D7P0pnn6y8X0CadWjO8=;/xsVVXvPGRPTY/8PO0vpYA=="
 ---

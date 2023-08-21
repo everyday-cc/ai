@@ -69,20 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The future of artificial intelligence in accessibility"
-    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
-    publishedDateTime: 2023-08-16T14:14:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
     excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
     publishedDateTime: 2023-08-16T16:19:00Z
