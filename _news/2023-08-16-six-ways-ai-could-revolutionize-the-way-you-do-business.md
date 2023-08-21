@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Chatbots Revolutionizing Gyms & Fitness Centers, 5 Winning Ways."
-    excerpt: "Introduction Welcome to the future of fitness! Gone are the days when gyms were merely a place to break a sweat. Thanks to advancements in artificial intelligence (AI) technology, gyms and fitness centers are now embracing the power of AI chatbots."
-    publishedDateTime: 2023-08-16T07:39:00Z
-    webUrl: "https://techbullion.com/how-ai-chatbots-revolutionizing-gyms-fitness-centers-5-winning-ways/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
-        width: 800
-        height: 440
-        isCached: true
   - title: "How the human brain is revolutionizing AI hardware"
     excerpt: "GEMESYS is developing a revolutionary chip design that mimics the information-processing mechanisms of the human brain – now they are nominated for a"
     publishedDateTime: 2023-08-16T11:50:00Z
@@ -57,6 +43,20 @@ related:
       - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
         width: 400
         height: 217
+        isCached: true
+  - title: "Ai Start Up Revolutionising Business Communication Joins Barclays Black Venture Growth Programme"
+    excerpt: "AI Start Up Revolutionising Business Communication Joins Barclays Black Venture Growth Programme  In Collaboration with Ba"
+    publishedDateTime: 2023-08-21T00:16:00Z
+    webUrl: "https://menafn.com/1106898897/Ai-Start-Up-Revolutionising-Business-Communication-Joins-Barclays-Black-Venture-Growth-Programme"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?890027"
+        width: 375
+        height: 249
         isCached: true
   - title: "AI poised to revolutionize construction"
     excerpt: "Artificial intelligence is making its presence felt across the real estate industry. And its presence has extended into construction, as well. Builders are growing comfortable using drones ..."

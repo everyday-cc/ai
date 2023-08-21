@@ -2,6 +2,161 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-06-28-microsoft-is-already-offering-a-generative-ai-certification-program.md",
+      "title": "Microsoft is already offering a generative AI certification program",
+      "excerpt": "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "originalUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 566,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "publishedDateTime": "2023-06-28T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-what-is-slow-productivity.md",
+      "title": "What is slow productivity?",
+      "excerpt": "Slow productivity can be defined as working at a slower pace on fewer tasks at a time to increase workplace productivity and satisfaction.\nThe post What is slow productivity? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-slow-productivity/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-slow-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/90aeeede-ffda-4f77-8bd18923788d72bd.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T09:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic.md",
+      "title": "New energy and carbon emission tools for your business applications with IBM Turbonomic",
+      "excerpt": "IBM Turbonomic now offers new energy and carbon emission reports to help IT teams identify and reduce energy consumption.\nThe post New energy and carbon emission tools for your business applications with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Energy-Consumption.png",
+          "width": 1078,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T08:49:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-biden-takes-another-step-in-artificial-intelligence-war-with-china-as-ai-frenzy-continues.md",
       "title": "Biden Takes Another Step In Artificial Intelligence War With China As AI Frenzy Continues",
       "excerpt": "Biden’s New Step In AI War. Please click here for a chart of Advanced Micro Devices, Inc. (NASDAQ:AMD). Note the following:",
@@ -1024,152 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
-      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
-      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "publishedDateTime": "2023-06-27T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ftx-holds-off-on-selling-its-stake-in-ai-startup-anthropic.md",
-      "title": "FTX Holds Off On Selling Its Stake In AI Startup Anthropic",
-      "excerpt": "In an unexpected turn of events, FTX has paused the sale of its stake in Anthropic, according to a report from Bloomberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ba1efdd88261a09c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
-      "publishedDateTime": "2023-06-27T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-voice-recognition-leaked-trump-tape-contradicts-denials-on-sharing-iran-war-plan.md",
-      "title": "Voice recognition: Leaked Trump tape contradicts denials on sharing Iran war plan",
-      "excerpt": "There’s nothing stronger than the power of a person’s voice. And few have a more recognizable one than Donald Trump. The media have gone into high-decibel mode over an audio recording ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
-      "originalUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb408128-7d4a-48fd-8d51-7f163fbebcb4/40683727-51bc-4311-8026-8eb3a74ebd3c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
-      "publishedDateTime": "2023-06-27T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

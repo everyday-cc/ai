@@ -2,6 +2,144 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-machine-learning-vs-deep-learning.md",
+      "title": "Machine Learning vs Deep Learning",
+      "excerpt": "Machine learning involves training computers to learn and make decisions from large datasets using algorithms, while deep learning is a subset of machine learning that uses neural networks to ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100131536/100131536.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
+      "publishedDateTime": "2023-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-hackers-look-for-ai-flaws-under-white-house-direction.md",
+      "title": "Hackers look for AI flaws under White House direction",
+      "excerpt": "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "originalUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "publishedDateTime": "2023-05-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-amazon-sagemaker-with-tensorboard-an-overview-of-a-hosted-tensorboard-experience.md",
       "title": "Amazon SageMaker with TensorBoard: An overview of a hosted TensorBoard experience",
       "excerpt": "Today, data scientists who are training deep learning models need to identify and remediate model training issues to meet accuracy targets for production deployment, and require a way to utilize standard tools for debugging model training. Among the data scientist community, TensorBoard is a popular",
@@ -1014,160 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
-      "title": "In Turkey, a modern city sits alongside a mythical site",
-      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "publishedDateTime": "2023-05-10T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
-      "title": "Learn how to build AI-powered software with this $40 bundle",
-      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "publishedDateTime": "2023-05-10T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030.md",
-      "title": "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030",
-      "excerpt": "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

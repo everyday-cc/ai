@@ -49,6 +49,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Australian Electoral Commission launches multi-platform advertising blitz to aptly educate public ahead of Voice referendum"
+    excerpt: "The Australian Electoral Commission has launched a multi-platform advertising campaign for better voter education in the lead up to the Voice to Parliament referendum this year."
+    publishedDateTime: 2023-08-21T00:07:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/ba5364f350c5bc25d6e5d0ed4c5e1778"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "hV4KF/UMwoxBfQCHi+ny//NvxJlxnuHNkvaM1AQS80PMpIreeu76V5FuEv3qcDSIFjf08XasXVWnR782hMPRlj5Tm/GJjUgAOKPLanHersL78vXNeW3ad1YPAMYu7GsW263Kww5WCKzYj9w1bJULRYoniZ7dsbuFrQ7eUHULcbpdbdnFsCdL4R9Q8lDgEdvtc84fchB01UJ5owaMqCcRfw8Egc2WsfeOurmytJFrn7q/wH/rzf2LGZJeZq+PomKnDvgr1qSqEF1SO4uf30Eezv5lwisCs46oKyUbPJM1JThJcTxwMZcAT2+vW6xhFBjKkWDVLvWUPDnFi8BUyBVeH2X7NbuD2b72SOvxe/HdX4jwpTeSnBcMsCrD12f+al9DlAFeQKcJ0cd46Shd6C/CFRoznfkR5EL+/KpTh2hurzQPYMqK3fkjuiuWALjQVgiWSCjI0rTsGb2ng2/tA2L0lAj6C6fJohl9zLCxtKIwLqa2gqcpv7BpMUyuCA/tqNLBIvIR2o6GRAXA+MqaTAAe0g==;eBPfa5UrzbZRhp1U3l7NkQ=="
 ---

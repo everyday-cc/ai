@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-08-17-associated-press-sets-its-first-ai-rules-for-journalists.md",
-      "title": "Associated Press sets its first AI rules for journalists",
-      "excerpt": "The AP's Vice President for Standards and Inclusion estimates their AI committee could issue updates as often as every three months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/",
-      "originalUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/17/Depositphotos_3533706_L.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp",
-      "publishedDateTime": "2023-08-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-17-otterai-partners-with-slack-to-share-meeting-insights-with-your-team.md",
       "title": "Otter.ai partners with Slack to share meeting insights with your team",
       "excerpt": "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack.",
@@ -345,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -801,6 +759,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-17-nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas.md",
+      "title": "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas",
+      "excerpt": "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33885673",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673",
+      "publishedDateTime": "2023-08-16T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality.md",
       "title": "Is AI Art Real Art? Harvard Arts Professors Ponder The Potential Of Artificial Reality",
       "excerpt": "Artificial intelligence art is any form of digital art created or enhanced with AI tools, including images, video, and audio compositions, or music. It is fundamentally different from digital art, which draws from digital technology in the artistic process and dates back to the 1960s,",
@@ -902,6 +903,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-orlando-florida-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown.md",
+      "title": "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown",
+      "excerpt": "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230816-self-driving-shuttle-bus-se-346p-0c76a8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna100272",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna100272",
+      "publishedDateTime": "2023-08-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1148,58 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027.md",
-      "title": "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In June, I introduced five stocks that AI predicted could double a portfolio",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-performance-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

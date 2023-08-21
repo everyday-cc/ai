@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
-excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers"
-publishedDateTime: 2023-08-16T19:18:00Z
-originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-webUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday."
+publishedDateTime: 2023-08-16T19:53:00Z
+originalUrl: "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272"
+webUrl: "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna100272"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna100272"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 65
+heat: 125
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230816-self-driving-shuttle-bus-se-346p-0c76a8.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -75,6 +75,15 @@ related:
         width: 320
         height: 250
         isCached: true
+  - title: "Self Driving Buses Florida"
+    excerpt: "Orlando Mayor Buddy Dyer looks over the new self driving SWAN (Shuttling with Autonomous Navigation) shuttle bus, Wednesday, Aug. 16, 2023, in Orlando, Fla. The SWAN shuttle seats up to"
+    publishedDateTime: 2023-08-16T16:12:00Z
+    webUrl: "https://www.goshennews.com/news/national_news/self-driving-buses-florida/image_d7d64eb4-9e28-53f1-a996-78ef2eac1599.html"
+    type: article
+    provider:
+      name: The Goshen News
+      domain: goshennews.com
+    quality: 19
   - title: "Orlando debuts new free self-driving SWAN shuttles in downtown’s Creative Village"
     excerpt: "If the pilot program is successful, the shuttles could be expanded throughout Orlando, into areas like SoDo and Ivanhoe Village. SWAN shuttles will run every eight minutes during office hours and every 15 minutes on evenings and weekends. Full hours of operation can be found via the LYNX site."
     publishedDateTime: 2023-08-16T20:56:00Z
@@ -99,6 +108,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "+mqruXXHRrFnV25FRc/cydqaLwsT2d4VFohB2viCmRaMY5JOZvz4yPVk9vB/okzWkogjypa5CHhSXcv9rjH2J6kT9d7tRr/L37LIl16BR4NXf6tskUJKemZS9dEz1FRaU11OTWXQz2lgNlAv8nKq0j9tDdbxf9etBL26H2V5rd6ilhlNeBto6dQZNJlJU9jS3IO5NNeAPrl0kfMNVefGKp7txgA22ql2kuWhZkTylKVF2XQN1C1sx76obufsC3gJS9FyKqhiZ7qPDAp3ng8UmGuH+00jxsgCvLaogK3QslGnvf4cgHuKaIOnUPKBeQgfRxt+ZDUtC/VQzb4/9dKmo1oVlKjvKbn5eG/X4v823Qs=;kgMdYI/YWscViHD5Gz8pHA=="
+secured: "i++nMCXEe4hwQa/BM2BCKsbXI4KwgNqZRai/lrm+agKrEmaCa2A3AlIltx37vDi43vo2JPKC92b0vOBOzZNDEpGCUr9tN1faaS641NYr87boQQloh7pMiLn3oxMnTdd/G57ChWsd/jpS/52W4lVa5HJWZ2XqBvkGHXzuTIQxQG0dG72H9RLDpQZOftX46mxbNxyUXVz7EqfAlXn0dsyJVTVLiqht2fnHj+43s1++MsnuAwrwyJ85nb7hAXvN74Xf9G8jJBHsvWB5wdcqUgAHaS6f7ZrG+MQ/oCFpOqgWw35gtogPLmEiiP2eFzNmvLdm3w4DqKJNX1pE0bjOp5BXkkRRSnl4vOks1ZL6Km1E1Vw=;rMVBwIz/CgA9Ah5SofDCFA=="
 ---
 

@@ -96,15 +96,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Demystifying AI in healthcare in India"
-    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
-    publishedDateTime: 2023-08-16T07:29:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 36
   - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
     excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
     publishedDateTime: 2023-08-16T16:19:00Z

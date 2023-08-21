@@ -48,6 +48,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Australian Electoral Commission launches multi-platform advertising blitz to aptly educate public ahead of Voice referendum"
+    excerpt: "The Australian Electoral Commission has launched a multi-platform advertising campaign for better voter education in the lead up to the Voice to Parliament referendum this year."
+    publishedDateTime: 2023-08-21T00:07:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/ba5364f350c5bc25d6e5d0ed4c5e1778"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "Ff5zU3zQMygo3rn6JpR6jrSj/Ysl0lXo2Ta5qDZWFCYgX47rWpqmzHi7UdAYLBFxWZRU8glf+EsoZbwsg6WYG3ZUvcCJ8pDvlbHBY3tTHNXj7r3tal8aq7PjKZWut8X8a9WY26bsYYRaXbBuPQYmw75EAOZg47+kCiCp5Fw/gD0FjTXEr12OC9RAzUgJPFDSOW2iefeK+G52Ex1usiO5Xdvys2mX6ZjtBlfdv6d22PLueUI8QoYbz19+gdIDkwPkmVqb0BHQ2OduSdTTEzhlNmyYDmjmNHiyM2tD1ETSIFEwxdGU4vOWu1d3OUctY4dXRThLBghcBnPAHkVaCJXICdfD5Y0XnjrPO3gHzkXsdBwzEIcDmpGaj4sonSsVac4Y/2UfZmvS2WnPkOMulWsFqkd8cjTe4TTa3Uwjq4RWuRDTN48a2fVRBNXSnls89wxZChwR7+vvU+u1eIOuZAE3VHeqiUgho9OwsNjCQJqmNYzLKogWDB6pq9mzlqLF6RRoZYa3hpNibeaYAjigm/zSCg==;4u3t+iTny2idfZ86dq1wsw=="
 ---

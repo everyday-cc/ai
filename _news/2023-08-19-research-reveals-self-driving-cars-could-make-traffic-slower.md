@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/science-environment/2563867-r
 webUrl: "https://www.devdiscourse.com/article/science-environment/2563867-research-reveals-self-driving-cars-could-make-traffic-slower"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 920
     height: 690
     isCached: true
-
-related:
-  - title: "Self-driving cars could make traffic slower: Research"
-    excerpt: "\"There is a lot of research showing that automated vehicles can improve safety. But our research here -- which relies on computational modeling -- suggests that if we want to also improve travel time,"
-    publishedDateTime: 2023-08-16T08:01:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research/102766027"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102766027,imgsize-66726,width-1200,height=765,overlay-etauto/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "HA8aihhJ+MuLTJuW1h7gXiLPB/2IKiU/D222lMLy5PB70Fc06lj/lB2ITtDWFkzDxJNS475JxymmnVwCBalLN3D/BXrpJfxckRrL8bKWoA9n5zioMMYhwB0/cskA1go3CE5JCVXuUcgltX4QqgweATk9+gkYratEVQABp82sTD9Sb0V/PtJArAhZ6c3th/EvWBvxCUpuB17F9+ZCXjWlJ0eayu48LPvZn1wPlJn14ZHhkYXkBjc4fMqsSIw/o5ocs/1+AMvdwNzi0cx54h1y8lDfgpVXlMdxXpskU8BaaCy/us1F/gRRIFgObxi0iKS9X6+aAuNyJ2xFKYJXGF9pwO4x7TWZx7NRHL0+RJuaCxt09LMFDCQOYQp2RkoIK1ZP+HivMjLMWW9ophTsEkO6bR5/aFnq7zZuuulVO9sjXpgqvrYaZBRVbyyO24qgR0dnRkmiU0rnUiRu6pNRrOv7xwo91HSRAHcoYts7XM5A7Y1dvCIwpV+oCL0hGA+Ac39wOgxmL2CC/CkC5pvpDtogzQ==;pVaDf9YkDcFdFgEjyhtQiA=="
 ---

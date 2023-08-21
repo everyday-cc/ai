@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-31-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
+      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
+      "excerpt": "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences – a first for the industry – by collabo",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "originalUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-05/ixr4.jpg?itok=gIOz0nbP",
+          "width": 6678,
+          "height": 5344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "publishedDateTime": "2023-05-31T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
+      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
+      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
       "title": "AWS Announces General Availability of Amazon Security Lake",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
@@ -1267,102 +1362,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-the-65-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
-      "title": "The 65 Weirdest, Most Hilarious Things You Can Buy on Amazon",
-      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? You can also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-65-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon-FT.jpg",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-announcing-the-updated-microsoft-sharepoint-connector-v20-for-amazon-kendra.md",
-      "title": "Announcing the updated Microsoft SharePoint connector (V2.0) for Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-updated-microsoft-sharepoint-connector-v2-0-for-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-updated-microsoft-sharepoint-connector-v2-0-for-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/18/updated-sharepoint-kendra.jpg",
-          "width": 1068,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T10:25:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

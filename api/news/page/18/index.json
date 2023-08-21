@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-08-05-amazon-cloud-revenue-rises-12-topping-analysts-estimates.md",
+      "title": "Amazon cloud revenue rises 12%, topping analysts' estimates",
+      "excerpt": "During the second quarter AWS introduced Bedrock, a service that organizations can use to deploy generative artificial intelligence models that can compose impressive text and images in response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
@@ -1126,40 +1169,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-every-single-amazon-team-is-working-with-generative-ai-says-ceo.md",
-      "title": "‘Every single’ Amazon team is working with generative AI says CEO",
-      "excerpt": "He added that generative AI can help Amazon become “more cost-effective and streamlined in how we run operations and various businesses, to the absolute heart of every customer experience in which we offer” “It’s true in our AWS business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
-      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-06-24-microsoft-azure-event-grid-mqtt-protocol-support-and-pull-message-delivery-are-now-in-public-preview.md",
+      "title": "Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview",
+      "excerpt": "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load for the developers ... Subscribe for free. Microsoft recently announced the public preview of bi-directional communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
+      "originalUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/en/headerimage/generatedHeaderImage-1687425435338.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
+      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
+      "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "publishedDateTime": "2023-06-23T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
+      "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
+      "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "publishedDateTime": "2023-06-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-sam-altman-calls-ai-most-important-step-yet-for-humans-tech.md",
       "title": "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech",
       "excerpt": "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs.",
@@ -987,150 +1116,6 @@
         "Google AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-using-ai-and-remote-sensing-to-avoid-water-disasters.md",
-      "title": "Using AI And Remote Sensing To Avoid Water Disasters",
-      "excerpt": "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "publishedDateTime": "2023-06-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it.md",
-      "title": "Amazon Had Some AI News. Stock and Options Traders Jumped On It",
-      "excerpt": "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-805564?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
-      "title": "The business value of operating core insurance solutions on the cloud",
-      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:23:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

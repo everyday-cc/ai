@@ -432,49 +432,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-19-zotac-unveils-new-zbox-magnus-mini-pcs-with-intel-13th-gen-cpu-and-rtx-4070-gpu.md",
-      "title": "Zotac Unveils New ZBox Magnus Mini PCs with Intel 13th Gen CPU and RTX 4070 GPU",
-      "excerpt": "Zotac is updating the ZBox Magnus One with the Nvidia GeForce RTX 4070 graphics and 13th-Gen Intel Raptor Lake processors. Nvidia’s Ada Lovelace architecture brings many meaningful improvements, including new RT Cores & an Optical Flow accelerator. This facilitates AI-powered DLSS 3 frame generation for dramatically better in-game FPS.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/",
-      "originalUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2023/08/zotac-magnus-with-rtx-4070-announced.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/",
-      "publishedDateTime": "2023-08-19T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
       "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
       "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
@@ -1222,6 +1179,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare.md",
+      "title": "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare",
+      "excerpt": "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-08-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
       ]
     }
   ],

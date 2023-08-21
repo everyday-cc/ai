@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-15-saudi-arabia-and-uae-invest-in-thousands-of-nvidia-chips-aiming-to-become-global-ai-powerhouses.md",
+      "title": "Saudi Arabia and UAE invest in thousands of Nvidia chips, aiming to become global AI powerhouses",
+      "excerpt": "The Financial Times reports that Saudi Arabia has bought at least 3,000 Nvidia H100 GPUs, which Nvidia CEO Jensen Huang calls the first chip designed for",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
+      "originalUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg",
+          "width": 2100,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-ai-startup-grit-raises-7-mln-to-automate-software-maintenance.md",
       "title": "AI startup Grit raises $7 mln to automate software maintenance",
       "excerpt": "Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday.",
@@ -1154,58 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
-      "title": "AWS cloud migration with IBM Turbonomic",
-      "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
-      "originalUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-2.20.20-PM.png",
-          "width": 2312,
-          "height": 1076,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T09:12:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

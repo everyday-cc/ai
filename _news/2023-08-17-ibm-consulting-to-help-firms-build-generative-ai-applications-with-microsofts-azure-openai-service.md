@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-17T12:05:00Z
 originalUrl: "https://siliconangle.com/2023/08/17/ibm-consulting-help-companies-build-generative-ai-applications-microsofts-azure-openai-service/"
 webUrl: "https://siliconangle.com/2023/08/17/ibm-consulting-help-companies-build-generative-ai-applications-microsofts-azure-openai-service/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-768x512.jpg"

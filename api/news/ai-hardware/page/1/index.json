@@ -88,49 +88,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-19-zotac-unveils-new-zbox-magnus-mini-pcs-with-intel-13th-gen-cpu-and-rtx-4070-gpu.md",
-      "title": "Zotac Unveils New ZBox Magnus Mini PCs with Intel 13th Gen CPU and RTX 4070 GPU",
-      "excerpt": "Zotac is updating the ZBox Magnus One with the Nvidia GeForce RTX 4070 graphics and 13th-Gen Intel Raptor Lake processors. Nvidia’s Ada Lovelace architecture brings many meaningful improvements, including new RT Cores & an Optical Flow accelerator. This facilitates AI-powered DLSS 3 frame generation for dramatically better in-game FPS.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/",
-      "originalUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2023/08/zotac-magnus-with-rtx-4070-announced.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/",
-      "publishedDateTime": "2023-08-19T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
       "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
       "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
@@ -351,6 +308,49 @@
       "provider": {
         "name": "ARN",
         "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas.md",
+      "title": "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas",
+      "excerpt": "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33885673",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673",
+      "publishedDateTime": "2023-08-16T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

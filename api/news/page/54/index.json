@@ -2,6 +2,135 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-07-13-column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Column: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "In the late 1990s it was dot-com companies, more recently crypto, blockchain, NFTs, driverless cars ... That brings us to artificial intelligence chatbots. In from three to eight years we will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "originalUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ab5f0a3/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2Ff9%2F9c8ad23e4785adec762058f585bb%2F1290944-et-ct-wga-strike-jlc-006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-kakao-ups-its-game-in-generative-ai-with-karlo-20-an-ai-image-generator.md",
+      "title": "Kakao ups its game in generative AI with Karlo 2.0, an AI image generator",
+      "excerpt": "Kakao Brain, an AI unit of Korean tech firm Kakao, launched Karlo 2.0, an AI-powered tool that can produce images from prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
+      "originalUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/이미지-카카오브레인-초거대-AI-이미지-생성-모델-‘칼로-2.0-공개_230710.png?resize=1200,581",
+          "width": 1200,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
+      "publishedDateTime": "2023-07-13T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-allen-institute-for-neural-dynamics-launches-first-ever-crowdsourced-neuroscience-experiment.md",
+      "title": "Allen Institute for Neural Dynamics launches first-ever crowdsourced neuroscience experiment",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "originalUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "publishedDateTime": "2023-07-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
       "title": "Here are the 45 best Amazon Prime Day deals still happening",
       "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
@@ -1010,154 +1139,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission.md",
-      "title": "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission",
-      "excerpt": "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186718",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186718",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/wirestory_2e626553cf6333f642fb02fe247707ca_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186718",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186718",
-      "publishedDateTime": "2023-07-12T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
-      "title": "Top 6 AI Trends 2023",
-      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
-      "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
-      "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "publishedDateTime": "2023-07-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

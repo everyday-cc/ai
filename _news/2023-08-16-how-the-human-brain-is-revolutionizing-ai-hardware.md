@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Chatbots Revolutionizing Gyms & Fitness Centers, 5 Winning Ways."
-    excerpt: "Introduction Welcome to the future of fitness! Gone are the days when gyms were merely a place to break a sweat. Thanks to advancements in artificial intelligence (AI) technology, gyms and fitness centers are now embracing the power of AI chatbots."
-    publishedDateTime: 2023-08-16T07:39:00Z
-    webUrl: "https://techbullion.com/how-ai-chatbots-revolutionizing-gyms-fitness-centers-5-winning-ways/"
+  - title: "Ai Start Up Revolutionising Business Communication Joins Barclays Black Venture Growth Programme"
+    excerpt: "AI Start Up Revolutionising Business Communication Joins Barclays Black Venture Growth Programme  In Collaboration with Ba"
+    publishedDateTime: 2023-08-21T00:16:00Z
+    webUrl: "https://menafn.com/1106898897/Ai-Start-Up-Revolutionising-Business-Communication-Joins-Barclays-Black-Venture-Growth-Programme"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
-        width: 800
-        height: 440
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?890027"
+        width: 375
+        height: 249
         isCached: true
   - title: "AI poised to revolutionize construction"
     excerpt: "Artificial intelligence is making its presence felt across the real estate industry. And its presence has extended into construction, as well. Builders are growing comfortable using drones ..."

@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Lack of forensic questioning on the voice keeps Yes campaign alive"
-excerpt: "The Voice debate is missing the TV journalistic talents of interviewers like the late Richard Carleton on current affairs programs like Sixty Minutes."
-publishedDateTime: 2023-08-20T23:05:00Z
-originalUrl: "https://www.theaustralian.com.au/commentary/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e"
-webUrl: "https://www.theaustralian.com.au/commentary/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e"
-ampWebUrl: "https://www.theaustralian.com.au/commentary/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e?amp"
-cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e?amp"
+excerpt: "“The Uluru statement, which you vowed to embrace in full without reading, demands The Voice body be ‘a pathway to recognition of sovereignty’ and the vehicle to achieve ‘self-determination, autonomy and self-government’ plus a financial ..."
+publishedDateTime: 2023-08-21T01:41:00Z
+originalUrl: "https://www.theaustralian.com.au/business/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e"
+webUrl: "https://www.theaustralian.com.au/business/lack-of-forensic-questioning-on-the-voice-keeps-yes-hopes-alive/news-story/b57da1f06ddee41d39864d4847e12a4e"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -20,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "ByI17lISZbSTFCZWXcPfwLuv3Kh/Ot09xKgpWiRDVizOi+oqnbogPgaAmv4LifcGTGK7bizZWHGm3yB2etQy9yx0to4JFt6JyTsyCtWafp1TRVvUGCea0YxKfgV8b+4yOJ5XUWa8Vk/We9bZBTDDWNpPSOv8ML4OGMfgdFjyg0/ILYZmrVxlnG0QQLzDD3yLdNVm10Ou0v6hEA6PgqjCe7lcSFndJLS1O2lwO+oW8PzRPD3Bv+ekFxqiO3oWeju4hIXDPMArByZbapoSLlx6Y9WSCEn3yWE2c6G+rv06BQNCzPQUsxShaPnjz9Tz6oSDc/nb2D9TEmiE4NvUJeFGuKoFeNmK9kIwrIF/pl5euGKjGNmW+VXFdW+4D5VIiGGPZK8KXXumZYFxDh7nNRtFAOl/nX42DqH3ZDhwESeB29265xsDyHS3zkiu5VWO8fCLWNMW6Otm+Ez71dy91pBLAFDJ3fv+WlUQwxW87gxlnIpDXpPM+lnfiqrAOpE9gejkAThof0NPQK1hnnXK+6UGTA==;tGnDi7G9ih2coT+9yyYiUw=="
+secured: "fLJ/ZtCTvttHHoT5WAy1P8XP2Jbz9hjW71q2PnazZ+aepG0d2KjzNPpGzIeDaGZjL6FydYEqYJkpcWw3Cp+GUsQ41YgWkeW2AqLOwbCRTavyNnIbS2jrwwTPNtfGIox1YT8GPoWKDl6Kl5jJPSK10iGwBMXe70E5EBlp4J0a851CYEj4MkR1f7XxSgQbzXVTAXjSQs3ygGSPgcPb7YIAxA0AB1ONpV9goIEz/9uC1dtGs65VyipsqO/ZoMUxH2VupIBhwqpKFRmjj56+E/4U8jSLVj81pn5uIaoSfPY6fQXP/q1rUCyPZ1+GfWKuqSew4bAiTdSenSsu4lf++MfuC7QXgcqjT+qhVavREm07MK0ch3WwfFr5/0kCJBFLEe6AbBf7su55/1wqOobb7mm0xpgA+lLthY6/uimbjJJ46N9x/BZyXZqEKB+wev5/D59Mr/DpkKhrus1v/W/o5QJiF5Dej+QHL+m4qyW6wSarrJF1NDAmm0A8j5BAnpaenEWlD+h6jmZmTflSsMlUw/y8zA==;mPDnwDIn34UF1QzgjXvjeQ=="
 ---
 

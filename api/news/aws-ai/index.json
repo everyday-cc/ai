@@ -863,6 +863,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-04-amazon-reports-blowout-profit-beats-on-sales-and-issues-optimistic-guidance.md",
+      "title": "Amazon reports blowout profit, beats on sales and issues optimistic guidance",
+      "excerpt": "Amazon's report showed a return to double-digit revenue growth. The company posted its biggest earnings beat since its report for the fourth quarter of 2020. The stock rose in extended trading on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107053698-1651245136892-gettyimages-1348139958-bbs12998_2021102225819455.jpeg?v=1691078401",
+          "width": 1626,
+          "height": 1854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/03/amazon-amzn-q2-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/03/amazon-amzn-q2-earnings-report-2023.html",
+      "publishedDateTime": "2023-08-04T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-every-single-amazon-team-is-working-with-generative-ai-says-ceo.md",
       "title": "‘Every single’ Amazon team is working with generative AI says CEO",
       "excerpt": "He added that generative AI can help Amazon become “more cost-effective and streamlined in how we run operations and various businesses, to the absolute heart of every customer experience in which we offer” “It’s true in our AWS business,",
@@ -1364,50 +1417,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-govts-dgt-partners-with-amazon-web-services-to-upskill-students-in-ai-ml-for-better-employability.md",
-      "title": "Govt’s DGT partners with Amazon Web Services to upskill students in AI, ML for better employability",
-      "excerpt": "DGT said students enrolled in the institutions under the DGT will benefit under the tie-up. DGT implements long-term institutional skill training in the country through its network of about 15,000 Industrial Training Institutes (ITIs) and 33 National Skill Training Institutes (NSTIs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
-      "originalUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/startup-pexels.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/",
-      "publishedDateTime": "2023-07-31T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

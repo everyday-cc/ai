@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-20-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Musk optimistic on progress for self-driving, robots",
+      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-ai-takeover-8-jobs-that-are-safe-for-now.md",
       "title": "AI Takeover? 8 Jobs That Are ‘Safe for Now’",
       "excerpt": "Artificial intelligence -- while still in its nascent stages -- seems to be omnipresent, revolutionizing everything including the way we work and the way we make money. Of course, one of the",
@@ -1268,49 +1302,6 @@
       "provider": {
         "name": "Brunswick News",
         "domain": "thebrunswicknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
-      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

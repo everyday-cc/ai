@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Running Llama 2 13B on an Intel ARC GPU, iGPU and CPU"
-    excerpt: "If you are interested in learning more about running Llama 2 on low-cost Intel ARC GPU, iGPU and CPU systems this quick guide provides an"
-    publishedDateTime: 2023-08-16T07:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/running-llama-2-intel-arc-gpu/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Running-Llama-2-on-Intel-ARC-GPU.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "rb4YCvOZ9jjnyr6yo27WiuCaro1HzurCOJwZeKNL70PC506jpVAVqwPr17riFB57iJSQS3l7TJM+lht8ippYxff2UbItK5cHvKIB1tXTo8j4B89DUaWM7G3Yqn6y0/PHHR68HJIGsWEFKtQXaUj0+7vcTVpYvj4ltC32mpeA+diPbg22BEUlaNrDHkz2Wg6ZcYRYbj3AmKqS7iDMXtjtoCEvrCxS0udGz4d2irFYQIzXgsL+bwRRuFzZCSDPmQmprScEV0SqT2eV+yCBLb5cGE5uNBT3lqDE677IhwDGgpwRi2yGVDYPeiFr3kMU7MkQuZWt3f3nwNzeKRZQGr0tKdK+aNIPLdc8WDtHqEy8kMi722gUfcqoyBeJ+bp+AUSBlbKQPK4fX5pJojp/XpRIxbxksVXxFlNwxhtKO1fCsv7gSslyvFJ2oobVcP5WEgjk9mh+ynxUzTOKP+J3VQDeQaTnhkCpnE2IaC+5ejPNMYgetVJVQQ6AcnfW/HynIYmkRntCib2fMelbJyGD9n9QoA==;a6Gj2yYq01RKN3655uEpjw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -41,6 +41,15 @@ related:
         width: 1187
         height: 667
         isCached: true
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "XT4BOvuaW9h1GgxE1/vu5rXPGTLuvv7f4Ys0wbi1H0CS4LB58Bt/P79EYm+LbYVJE/yBZh6lClJP5nSyZEys1Ou3Sjd8YlZKyeMROrmBaeZzfQzPKOLBjaNtqMs4He/2eZodimYP0TzOEZjjy/oHAhEFAbYfnc9JxkJVTDHU7CqDHCnoW57tsjbv816PgqDcOxnOO5cqVIs2TH9U+r/XGRhcJxKv1Bz4djWK3je9reYYXpxtlv1WeFHKFsAyg0laTHYfUxdiz+uDjfPAYst9htcs//k8PndUA1BFfUF4GdTfh97r4uhj5ncGUYh85lcmA6PXfSaZiRaYYuhhJpQzZvyMxB2U7ejh6nrNu9fquUI=;FUv/ZTAVmA5KjrLBwyx9vQ=="
 ---

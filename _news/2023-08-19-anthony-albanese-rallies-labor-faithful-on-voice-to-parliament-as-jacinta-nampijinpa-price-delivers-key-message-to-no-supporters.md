@@ -47,15 +47,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 17
-  - title: "Anthony Albanese rejects Lidia Thorpe's demands to axe Voice referendum after senator's fiery speech pushing for Treaty"
-    excerpt: "The Prime Minister has argued First Nations issues will “fail” to progress without a Voice to Parliament amid calls to axe the upcoming referendum."
-    publishedDateTime: 2023-08-16T07:47:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rejects-lidia-thorpes-demands-to-axe-voice-referendum-after-senators-fiery-speech-pushing-for-treaty/news-story/9bbe00abd2ded023fffcc4760974c7f0"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
 
 secured: "3ybhO38Vi7yrFEx4krY87s8sljj695rt6i0O8nKMbcvkzh3sZKTnle/w0c2Tld/T8Mc1wNMgaXsIwywgKnA05cRyIwNHulbi694mCCWubrO2A6+BXb2JNdyVwAtnTxx8XVUzkW05UqMU2B9mEkvbIywgLDw/uY7FTgCfetX1NvdMjlvEImhHXSJdbKAlAn+VJIEHyQg2diPXCfAdQREvxL25QeMD/0z08DakZ+aQXy8MYV/CUugHlvN+wJ1CQc1894rf3u/afJux4jm7pk1NOOAgSh5H2zy7GSEm2bNbZLvqeTRSKc4GDytIZtBjNnI/qwNHhFYpdY0qoo7AmQUMJ1d+qcbwA3veo0uQdEzemaI=;MHSssmXPt6Fgbs2OMiNPqw=="
 ---
