@@ -2,6 +2,83 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-06-28-deepmind-and-google-gemini-ai-will-surpass-chatgpt.md",
+      "title": "Deepmind and Google Gemini AI Will Surpass ChatGPT",
+      "excerpt": "DeepMind’s Gemini is a large language model that works with text and is similar to GPT-4, which powers ChatGPT. Deepmin CEO Demi Hassabis says his team will combine LLM with AlphaGO reinforcement learning. Gemini will still take months to complete and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-27-at-11.17.23-AM-1024x624.jpg",
+          "width": 1024,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-snowflake-unveils-new-large-language-model-to-extract-deeper-insights-from-documents-while-continuing-to-advance-platform-speed-and-performance.md",
+      "title": "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance",
+      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to its single, unified platform that make it easier for organizations to get value from all of their data,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-ai-is-unlocking-major-wealth-potential-for-robotics-stocks.md",
       "title": "AI Is Unlocking Major Wealth Potential for Robotics Stocks",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over",
@@ -1057,109 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy.md",
-      "title": "Higher education plays a big role in preparing graduates for an AI-led economy",
-      "excerpt": "A career development expert at the best college for entrepreneurship shares how higher education institutions should prepare their students for the future of work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "originalUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/11737f02aaa1b3a4f7527638970d184233fb2e57/2023/06/26/5f88e4b2-3e51-498a-b82b-f2bdb8fa50ee/davenport-1200x630.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "publishedDateTime": "2023-06-27T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai.md",
-      "title": "New York Is Buying a Supercomputer to Understand and Regulate AI",
-      "excerpt": "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

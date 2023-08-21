@@ -9,7 +9,7 @@ ampWebUrl: "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-b
 cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Tesla plans to roll out Full Self-Driving solution in China"
-    excerpt: "Tesla plans to establish a local operation team of around 20 people to introduce its Full Self-Driving (FSD) solution into the Chinese market, according"
-    publishedDateTime: 2023-08-16T09:55:00Z
-    webUrl: "https://technode.com/2023/08/16/tesla-plans-to-roll-out-full-self-driving-solution-in-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg?fit=1800%2C1044&ssl=1"
-        width: 1800
-        height: 1044
-        isCached: true
 
 secured: "TUu+pPC42cuYeUvyHEd7wO7XLY/0ogNfGW7fojw9Xo3gFblxGQtHTE5Tv2fX93Lb8mMLPa8YMP4youaP0Ap1Bi7OqAIItAC5al0RVoWHX7VR9MHcIKRlqel5lY7wSWc2+1XZR3c90O4EHmP7PA8IjjAkYNr92FIBUshCTnViqt52HNY8+0yoQqjJ29sWDyR6BjWynnfWl34EVvAWk8Cap/+GKkRUTqADxYdevrSuryJTXIPE3JVxxvnBQZZNSu/ZExuqEqUVZ8HYYrS2HnfgAIJXNSwSvm4cCirexB8s1Ofq5DC2U2ySpSE3hqYC2fYWogOu/9QtCkWNCRFAbFyI+VmUYAUPdKW9j7RgMElqbytztjnDfwvJKRzi4YSdYtrm2pfYiQVnn34S3VQGeZjBS/5r8U+N1u5UfEjm/HuhdV/ZuGAbOxGOKrb7CyByb1Gw2jRx3bCCkaeegCRLVQNvkTHE8LttM5CD8y2HZMwYk7ZB1N7ejreP2dj1OlAiPPwXGE/HFxq5ggkmKK5DM+Ts4w==;pCNN2jAyK1iYDmTq33+MfA=="
 ---

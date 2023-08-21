@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Advance of the AI adviser: machine learning’s role in managing fortunes"
+    excerpt: "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?"
+    publishedDateTime: 2023-08-21T02:59:00Z
+    webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
   - title: "From mad men to machines? Big advertisers shift to Artificial Intelligence"
     excerpt: "Some of the world's biggest advertisers, from food giant Nestle to consumer goods multinational Unilever, are experimenting with using generative AI"
     publishedDateTime: 2023-08-20T13:59:00Z

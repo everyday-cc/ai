@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Pibot: Korea's LLM-powered smart robotic pilot"
-    excerpt: "A new humanoid robot called \"Pibot\" can read and understand flight manuals and fly aircraft better than human pilots."
-    publishedDateTime: 2023-08-16T10:05:00Z
-    webUrl: "https://interestingengineering.com/innovation/robot-can-fly-an-aircraft"
+  - title: "Researchers build humanoid robot pilot designed to fly planes"
+    excerpt: "Researchers from Korea have designed and created a humanoid robot capable of flying planes 'just like a human pilot' but without human problems."
+    publishedDateTime: 2023-08-20T06:41:00Z
+    webUrl: "https://www.tweaktown.com/news/92933/researchers-build-humanoid-robot-pilot-designed-to-fly-planes/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92933_1598_researchers-build-humanoid-robot-pilot-capable-of-flying-plane_full.png"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "This robot can autonomously fly a plane as well as a pilot can"
+    excerpt: "Researchers are in the process of developing a humanoid robot called Pibot that can fly a plane as well or even better than a human can."
+    publishedDateTime: 2023-08-20T13:28:00Z
+    webUrl: "https://interestingengineering.com/innovation/this-robot-can-autonomously-fly-a-plane-as-well-as-a-pilot-can"
     type: article
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/16/image/jpeg/VG4UYMdOGcIJv6CvfvsSxI8dvvhdJDK76cLXOoUL.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+    quality: 19
 
 secured: "1GkeGS0RXMm+KPqNUOvZjYi53gjqmHkpT8wyQryHuNR5SIkS6EYXETB8lYTBROYp8KHvI+xAq9XQBbibPJJE20Sgmuh31Kw2Yve10iTIwOZdwn0rRdAR0wOBwX1GGFmp1qOUqv+EtacQhkMo8C46BqvM7EWkTXXB+WlYfCamXd4R/H5zP5seqQFjkArFiKs0/vYF4RRGuudMZkAJvWUcarnSvqg3sYAH0UzTmpydZCeCFmNvWqkWvbj1bCdanAzN5TpiW1z4gRPZm5GI7Qdxtcmo9PCQ5spchAsCZgb3bRgBZG9Y4IYyJceDBKbMv0N7sTf7qQLRK7PESGBTfo5h7qfSy30/6mCQcmYSyTiziRii0Q1PkrQX3T3TmnMknw9VLFwEBt1rhoIkIddMzAv4osSGrlUxHujVCd4fRaICpzqm56LVLo/B/AjFGhBzBDmfz1J2QXJpOOM8ozyhwnwyAbVouoWJdJz/yNqZRM2i11dPbrkjF8KuE9rzD5OpXFlm8nRsMiOjeiRNKcYsxSFy6Q==;QulZ1QRsipvLoEFJzr2Gcw=="
 ---

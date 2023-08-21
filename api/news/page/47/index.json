@@ -2,6 +2,109 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top AI Stocks Ready for a Bull Run",
+      "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740040/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-web3-meets-ai-a-dynamic-duo-transforming-user-experiences.md",
+      "title": "Web3 Meets AI: A Dynamic Duo Transforming User Experiences",
+      "excerpt": "By integrating AI technologies into their platforms, innovative companies aim to provide enhanced user experiences, streamline processes, and deliver cutting-edge",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59f0b88ffbe0aac248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
+      "publishedDateTime": "2023-07-18T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
       "title": "AI and advanced applications are straining current technology infrastructures",
       "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
@@ -1040,92 +1143,6 @@
       "provider": {
         "name": "24/7 Wall St",
         "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-un-warns-of-ai-brain-chips-on-steroids-that-could-control-minds.md",
-      "title": "UN warns of AI brain chips ‘on steroids’ that could control minds",
-      "excerpt": "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
-      "originalUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/07/SEI157712892-0324.jpg?quality=90&strip=all&zoom=1&resize=600%2C343",
-          "width": 600,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
-      "publishedDateTime": "2023-07-17T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas.md",
-      "title": "Ready to roll? A new driverless ride-hailing company is coming to Dallas",
-      "excerpt": "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
-      "originalUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcdfw.com/2023/07/Driverless-ride-share-Cruise.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
-      "publishedDateTime": "2023-07-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC DFW",
-        "domain": "nbcdfw.com",
         "images": null,
         "publishers": null,
         "authors": null

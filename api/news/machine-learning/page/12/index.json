@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-01-new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour.md",
+      "title": "New Machine Learning tool by IIT Madras to detect brain, spinal cord tumour",
+      "excerpt": "Madras have developed a Machine Learning (ML)-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "publishedDateTime": "2023-05-01T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef.md",
       "title": "Indian job market to grow 22 pc in 5 yrs; AI, machine learning among top roles: WEF",
       "excerpt": "Top roles for industry transformation in India would be AI (artificial intelligence) and machine learning specialists, and data analysts and scientists, the report added.",
@@ -1331,49 +1374,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains.md",
-      "title": "Networks of silver nanowires seem to learn and remember, much like our brains",
-      "excerpt": "Collections of self-organising nanowires behave a lot like the neurons and synapses in our brains, with startling results.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
-      "originalUrl": "https://theconversation.com/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/522255/original/file-20230421-1579-qs4r3k.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop",
-          "width": 320,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
-      "publishedDateTime": "2023-04-21T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

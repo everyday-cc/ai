@@ -87,22 +87,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The insurance implications of AI are heating up - reviewing the NAIC's Model Bulletin for the use of algorithms and AI"
-    excerpt: "The NAIC's highly anticipated Model Bulletin for the use of algorithms, predicative models and AI came out in July, but what are the implications? Though the bulletin is still in draft form, those with a stake in the insurance industry should be prepared."
-    publishedDateTime: 2023-08-16T09:28:00Z
-    webUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai"
-    ampWebUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2018-03/finger-pointing.jpg"
-        width: 1265
-        height: 872
-        isCached: true
 
 secured: "D+U6Hsnb2FtrRJhZGTjjwfiMhhsmQwf8dDef4ok8rM9aTzEr8Rq8nzYhZA3D15xMDq7PtIow+sRPCCb+XxdYGimf/4XwZq2HoCuobCLPAox8wCyVLhgZIglfh6FTgbN4n2wj3Fl0aQn20jqqth1ry69QeZQxYD6ffDLMr5NpqXmRpAIx7umw6fcCmHzpNbheZ6rSZgzsGHtPF9Mxxht0DIelbN2go52h9hvrJXrC8ALs0lZNf4NU81yaTovFLl4JAoBiQU8G7qviTmDQPkmUoeofI4VnwPtFcI30BRtrL1s5vz2myNTJWoS6t322Hr87rX+ObmJvbdBFin3jD0DmmoacLJ2iulEqDlELPM2AhtUreAP4ii9tHegGhr5TAkgdqi8KToMBZPn0E/PZYeHh45r1u+9ll1L0MglPfTmo3y6iAdlC2ucGgUxxExFlo4Rtl6oIBoM5J9x2BAOgmWDAXpPKCR1whVj6TA0SoPSo1W16c9bK25D13rrdNqgevTPglNVmL0fa4aEluKGc4gbhWw==;f38HAguBBiIzAe7KdNXY4A=="
 ---

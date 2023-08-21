@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
-excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
-publishedDateTime: 2023-08-15T14:29:00Z
-originalUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
-webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
+excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
+publishedDateTime: 2023-08-15T14:42:00Z
+originalUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
 type: article
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing
+  domain: investing.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "zZUytJVMu5gKtj8PxKZ4FytqcpVDCe4+450llIUPIIAd5gDKU3DZMA7tPRn21ZIdDMQ+a6q/5zlxXWbb2KTB9rHAiMNsAcOAKs7ggQFAaeurAaJ74BMpIfAQqUn7QRM0Qvs7eUbTJrvqg7iegRC3v+QO1qAOJ7yTHZ4KqxYzu4zZ6RD2/6JrfhTwY/ovzukCrTa1u6FSl8Gk1V5+6MgHK/AuZfsKZePZQapX+EC9l3w4cocsKh1spLCqDjE8CokFySMtJp5QZu7imTMH5HWqd43j2Uzn9cWEfCQqlKudGYI8uuqYOQ6dJ/jYeGkBs9L2M8Jd3DLle0adM69vEWCPbHif1TmmPo6Fv6SFazYXjYMVGjmGxbaGqDcuT0hEAZbgtRPXrL/L+o+fNRQNEazNYEwU44gqfLuvZrcGExf+boCIvtydbWIe+4DbtevgNLGO3FhAPv9fFK+ZtYJLGGrLVjKmM0Wrs1VjzxTfBvu5FMDneuUSv21vRXX1IVTJwhJr6yA3yNtOmsDRMnJ5qXk31g==;IOumbr18fLKsvnNS9VcU6A=="
+images:
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
+    isCached: true
+
+secured: "kIGVzSdpem31ipOV/RXvffWXupqgMmYLD4WPiv9f3+KPe54nwRHe2SkSQfT6Q1fdCmPsBo9myAeLI+zpCdPo43DmFACy7YiVW6/OrlVJMbClLVvxjBA1KNb9isnR2MpRjzwS7VDRNP5VPfez0Wm7exrMvdBIJHXqPDjJTJHk4xiJfHOzxkyfir4MEw4yFsbpyYsADbd3WsXq7eK7wZsDESjz+P1S4ziwzb/YTsdY0pNIVNvhq4mC8e/1v6fYxTmg31CFEFMFvYl1eaTPPEqyaAVcNY/bt0i37eznR6kHfpA4Bd024V4jJ0BBYqrgxx3keH3QiKX0KD376B4t/hQVSOABNnl2vPbv+RFcrm1VQ4c=;6MdTatBOGgACinTCmu8VLQ=="
 ---
 

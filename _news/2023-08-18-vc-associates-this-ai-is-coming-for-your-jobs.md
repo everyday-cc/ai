@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Move over Bard, Google's next big AI product is coming this fall"
-    excerpt: "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall."
-    publishedDateTime: 2023-08-16T09:10:00Z
-    webUrl: "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence Is Changing The World"
     excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
     publishedDateTime: 2023-08-17T15:57:00Z

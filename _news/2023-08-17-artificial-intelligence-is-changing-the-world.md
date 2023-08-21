@@ -41,20 +41,6 @@ related:
         width: 1159
         height: 814
         isCached: true
-  - title: "Move over Bard, Google's next big AI product is coming this fall"
-    excerpt: "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall."
-    publishedDateTime: 2023-08-16T09:10:00Z
-    webUrl: "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI is coming for your audiobooks. You’re right to be worried."
     excerpt: "Apple and Google want “Madison” and “Archie” to read to you. Major publishers are hiring A-list celebs for the same job. Who will win?"
     publishedDateTime: 2023-08-19T13:05:00Z

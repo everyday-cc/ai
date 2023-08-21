@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/international-business/from-mad-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/from-mad-men-to-machines-big-advertisers-shift-to-artificial-intelligence/amp_articleshow/102877958.cms"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Advance of the AI adviser: machine learning’s role in managing fortunes"
+    excerpt: "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?"
+    publishedDateTime: 2023-08-21T02:59:00Z
+    webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
   - title: "From Mad Men to machines? Big advertisers shift to AI"
     excerpt: "Consumer companies are using data from retailers like Walmart (WMT.N), Carrefour (CARR.PA) and Kroger (KR.N) to power their AI tools, said Martin Sorrell, executive chair of advertising group S4 Capital and the founder of WPP."
     publishedDateTime: 2023-08-18T04:15:00Z

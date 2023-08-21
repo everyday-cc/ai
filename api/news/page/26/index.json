@@ -2,6 +2,102 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-07-31-googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans.md",
+      "title": "Google's RT-2 AI Model: A Step Closer To Robots That Can Learn Like Humans",
+      "excerpt": "The advent of models such as the RT-2 is a testament to how advancements in AI are swiftly influencing robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7609beb8e510cf216a828/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "publishedDateTime": "2023-07-31T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country.md",
+      "title": "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country",
+      "excerpt": "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
+      "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
+      "publishedDateTime": "2023-07-31T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
       "title": "Banking on mainframe-led digital transformation for financial services",
       "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
@@ -1127,91 +1223,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-outcry-against-ai-companies-grows-over-who-controls-internets-content.md",
-      "title": "Outcry Against AI Companies Grows Over Who Controls Internet’s Content",
-      "excerpt": "Authors, artists and internet publishers demand compensation for the alleged use of their work to train generative-AI systems sweeping the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/outcry-against-ai-companies-grows-over-who-controls-internets-content-91d604c9",
-      "originalUrl": "https://www.wsj.com/articles/outcry-against-ai-companies-grows-over-who-controls-internets-content-91d604c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-825914/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-heres-how-uae-is-expanding-the-horizons-of-smart-mobility.md",
-      "title": "Here’s how UAE is expanding the horizons of smart mobility",
-      "excerpt": "Shared mobility, micromobility and autonomous vehicles are set to become mainstream in the coming years, say experts.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/road-to-the-future-uae-boosts-smart-mobility/",
-      "originalUrl": "https://gulfbusiness.com/road-to-the-future-uae-boosts-smart-mobility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

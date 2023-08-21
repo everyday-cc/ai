@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-13-the-face-game-a-citizen-science-project-to-learn-how-artificial-intelligence-will-choose-to-appear-to-humans.md",
+      "title": "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
+      "originalUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2023/ai.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
+      "publishedDateTime": "2023-06-13T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging-talent-demands.md",
       "title": "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands",
       "excerpt": "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,",
@@ -1309,49 +1352,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-wall-street-breakfast-deep-learning.md",
-      "title": "Wall Street Breakfast: Deep Learning",
-      "excerpt": "Investors will have some deep learning to do after being consumed by everything AI this year, especially as they sort through the growing list of companies talking up how they've been AI plays all ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
-      "originalUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452604857/image_1452604857.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

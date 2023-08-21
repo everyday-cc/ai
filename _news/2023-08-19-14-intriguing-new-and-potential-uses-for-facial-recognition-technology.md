@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16160102/apple-macbook-scaled.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Voice Recognition Technology: Enhancing Customer Satisfaction through Innovation"
-    excerpt: "Step into a world where conversing with devices transcends science fiction. Voice recognition technology has transformed interactions with smartphones, smart speakers, and vehicles. Yet, its influence extends further – this groundbreaking innovation is redefining customer service,"
-    publishedDateTime: 2023-08-16T10:28:00Z
-    webUrl: "https://techbullion.com/voice-recognition-technology-enhancing-customer-satisfaction-through-innovation/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-16T112714.686.png"
-        width: 800
-        height: 400
         isCached: true
   - title: "Editorial: Clear dangers of facial recognition tech used by police"
     excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."

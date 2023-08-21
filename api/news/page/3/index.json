@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-17-how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx.md",
+      "title": "How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx",
+      "excerpt": "Building on previous innovation, this year introduced AI Draw Analysis, which ranked every player’s draw on a favorability scale.\nThe post How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-17-at-9.42.04-AM.png",
+          "width": 2100,
+          "height": 1018,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T09:47:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-associated-press-sets-its-first-ai-rules-for-journalists.md",
+      "title": "Associated Press sets its first AI rules for journalists",
+      "excerpt": "The AP's Vice President for Standards and Inclusion estimates their AI committee could issue updates as often as every three months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/",
+      "originalUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/08/17/Depositphotos_3533706_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp",
+      "publishedDateTime": "2023-08-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-otterai-partners-with-slack-to-share-meeting-insights-with-your-team.md",
       "title": "Otter.ai partners with Slack to share meeting insights with your team",
       "excerpt": "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack.",
@@ -303,7 +397,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -906,49 +1000,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-17-orlando-florida-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown.md",
-      "title": "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown",
-      "excerpt": "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/orlando-florida-debuts-self-driving-shuttle-will-whisk-passengers-down-rcna100272",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230816-self-driving-shuttle-bus-se-346p-0c76a8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna100272",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna100272",
-      "publishedDateTime": "2023-08-16T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-17-generative-ai-tops-gartners-top-25-emerging-technologies-for-2023.md",
       "title": "Generative AI tops Gartner's top 25 emerging technologies for 2023",
       "excerpt": "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes.",
@@ -957,7 +1008,7 @@
       "originalUrl": "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1149,49 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
-      "title": "Robotics part of mid-year success for IDS Imaging",
-      "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "originalUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/growth-2023.jpeg",
-          "width": 780,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-17T14:46:00Z
 originalUrl: "https://www.miaminewtimes.com/news/miami-international-airport-expands-facial-recognition-technology-17625023"
 webUrl: "https://www.miaminewtimes.com/news/miami-international-airport-expands-facial-recognition-technology-17625023"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media2.miaminewtimes.com/mia/imager/u/slideshow/17640856/biometric-boarding-cc-j.jpg"

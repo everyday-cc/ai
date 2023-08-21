@@ -33,6 +33,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Meet Pibot, The Humanoid Robot That Can Fly An Aeroplane Just Like A Human Pilot [Video]"
+    excerpt: "A team of engineers and researchers from the Korea Advanced Institute of Science & Technology (KAIST) is currently developing a humanoid robot that can fly aeroplanes without the need to modify the cockpit."
+    publishedDateTime: 2023-08-16T11:28:00Z
+    webUrl: "https://www.2oceansvibe.com/2023/08/16/meet-pibot-the-humanoid-robot-that-can-fly-an-aeroplane-just-like-a-human-pilot-video/"
+    type: article
+    provider:
+      name: 2oceansvibe.com
+      domain: 2oceansvibe.com
+    quality: 30
+    images:
+      - url: "https://media.2oceansvibe.com/wp-content/uploads/2023/08/sddefault-1.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "ScsrQnjODZm/k333en3onTSKNn4pjs+cw25V7+u9eiOvl/B/YB0Lh1afzUQyb7r+MX0ddZmy2vMT1Ut5qNTUXhTynLz//SqX1zgC5HOhUVzK+2KV90kpwcUmY87xpmGpVX8a13l0vPb01yV1HhcEbifNhaYGnr+/VGIqqP3/vyE/Hik3Ng3NK5LYgDXB5rveTrCRM9EE3oGj40Uw2DzBwmfCNcYvGuB6WpSKFuzCDT2vGCExE38gLqpD9agfR3TlcRcEehNusUoM+jhFrQ2+lx4TtLZJ9VslabT530nPxkrUrjXaBWDEauf4bc8h2h4d0OlehA4iEizhiR3A0yJQ+JEzKYweVZLlCI5WfFHqKvWqeDmWxwu/YSQVFBDKUaH0JwG7i3nawCfhP4PQspp6AmT583KW+FcfbkTLRodcTwIJ1okGfgGtTMUeahnB3bb0Kce9hFpuHbS2bzAS/F6m8SaDiRqMF9emH6GRM9tyQN41LtwbKnZgiaIOzs5un/xmCgza6WNgzWl+vbAfuEorKQ==;QPkCRDX6Q+aL6YFNLxSg+g=="
 ---

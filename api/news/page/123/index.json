@@ -2,6 +2,93 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
+      "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
+      "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "originalUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png",
+          "width": 720,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-unlv-engineering-students-ready-to-put-their-off-road-racer-to-the-test.md",
+      "title": "UNLV engineering students ready to put their off-road racer to the test",
+      "excerpt": "Ashton Pearson, is a junior at UNLV, majoring in mechanical engineering and project lead of the Rebel Racing team. Thursday, May 25, 2023. Brian Ramos By Grace Da Rocha (contact) Wednesday, May 31 ...",
+      "sourceUrl": null,
+      "webUrl": "https://lasvegassun.com/news/2023/may/31/unlv-engineering-students-ready-to-put-their-off-r/",
+      "originalUrl": "https://lasvegassun.com/news/2023/may/31/unlv-engineering-students-ready-to-put-their-off-r/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Sun",
+        "domain": "lasvegassun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-this-ai-stock-has-dwarfed-nvidia-nasdaqnvda-with-its-returns.md",
       "title": "This AI Stock Has Dwarfed Nvidia (NASDAQ:NVDA) with its Returns",
       "excerpt": "Nvidia (NASDAQ:NVDA) stock is on a stellar bull run, thanks to investors’ positive outlook on generative AI (Artificial Intelligence) and its",
@@ -1103,83 +1190,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-china-begins-drilling-of-ultra-deep-oil-well-in-tarim-basin.md",
-      "title": "China begins drilling of ultra-deep oil well in Tarim Basin",
-      "excerpt": "This aerial photo taken on May 30, 2023 shows the drilling project of a borehole over 10,000 meters deep for scientific exploration in Northwest China's Xinjiang Uygur autonomous region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202305/30/WS6475e8dca310b6054fad5d69.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202305/30/WS6475e8dca310b6054fad5d69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-hp-sales-miss-estimates-but-sees-boost-ahead-from-new-line-of-ai-focused-pcs.md",
-      "title": "HP Sales Miss Estimates, But Sees Boost Ahead From New Line of AI-Focused PCs",
-      "excerpt": "HP on Tuesday posted its lowest quarterly revenue since the start of the pandemic, reflecting continued weakness in the personal computer market. But the PC maker said it sees market conditions improving in the second half of the year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/hp-stock-price-earnings-6ebedac",
-      "originalUrl": "https://www.barrons.com/articles/hp-stock-price-earnings-6ebedac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-790777/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/hp-stock-price-earnings-6ebedac",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/hp-stock-price-earnings-6ebedac",
-      "publishedDateTime": "2023-05-30T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

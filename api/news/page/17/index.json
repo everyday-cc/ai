@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-08-07-toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv.md",
+      "title": "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV",
+      "excerpt": "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
+      "originalUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/src/image/2023/08/30096746559173.jpg",
+          "width": 770,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-feature-my-perfect-girlfriend-are-ai-partners-a-threat-to-womens-rights.md",
+      "title": "FEATURE-My perfect girlfriend: Are AI partners a threat to women's rights?",
+      "excerpt": "“Many of the personas are customisable ... for example, you can customise them to be more submissive or more compliant,” said Shannon Vallor, a professor in AI ethics at the University of Edinburgh. “And it’s arguably an invitation to abuse in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/global-tech-women-idUSL8N38P498",
+      "originalUrl": "https://www.reuters.com/article/global-tech-women-idUSL8N38P498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
       "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
       "excerpt": "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ...",
@@ -1026,100 +1121,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-uw-researchers-develop-ai-tool-for-therapy-healthlink.md",
-      "title": "UW researchers develop AI tool for therapy: HealthLink",
-      "excerpt": "SEATTLE — From ChatGPT to AI-generated images, artificial intelligence is in the limelight ... researchers have been developing AI programs as a form of behavioral health therapy, but they are by no means the typical chatbots. One of Althoff's projects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "originalUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KING/images/72818523-77d0-42d8-8788-dc72d25648b3/72818523-77d0-42d8-8788-dc72d25648b3_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "publishedDateTime": "2023-08-04T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that.md",
-      "title": "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That",
-      "excerpt": "The AI data sector, worth over $2 billion globally in 2022 ... In the neighboring villages of Alahalli and Chilukavadi, one Indian startup is testing a new model. Chandrika works for Karya, a nonprofit launched in 2021 in Bengaluru (formerly Bangalore ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/?trk=public_post_comment-text",
-      "originalUrl": "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

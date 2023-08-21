@@ -72,20 +72,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Voice Recognition Technology: Enhancing Customer Satisfaction through Innovation"
-    excerpt: "Step into a world where conversing with devices transcends science fiction. Voice recognition technology has transformed interactions with smartphones, smart speakers, and vehicles. Yet, its influence extends further – this groundbreaking innovation is redefining customer service,"
-    publishedDateTime: 2023-08-16T10:28:00Z
-    webUrl: "https://techbullion.com/voice-recognition-technology-enhancing-customer-satisfaction-through-innovation/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-16T112714.686.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
     excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
     publishedDateTime: 2023-08-17T19:37:00Z

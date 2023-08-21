@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-20-coreweave-raises-221m-series-b-to-expand-specialized-cloud-infrastructure-powering-the-generative-ai-and-large-language-model-boom.md",
+      "title": "CoreWeave Raises $221M Series B to Expand Specialized Cloud Infrastructure Powering the Generative AI and Large Language Model Boom",
+      "excerpt": "CoreWeave (\"the Company\"), a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it has secured $221 million in Series B funding. The round was led by Magnetar Capital (\"Magnetar\"),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-raises-221m-series-b-expand-specialized-cloud-/2023/04/20/9798813.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-raises-221m-series-b-expand-specialized-cloud-/2023/04/20/9798813.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
       "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
       "excerpt": "NEW YORK, April 19, 2023 /PRNewswire/ -- The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will ...",
@@ -1329,49 +1363,6 @@
       "provider": {
         "name": "CRN",
         "domain": "channelweb.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-best-rtx-4070-ti-gpu-in-2023-top-nvidia-graphics-cards.md",
-      "title": "Best RTX 4070 Ti GPU in 2023 – top Nvidia graphics cards",
-      "excerpt": "To start with, this GPU has three DisplayPort outputs ... With full ray tracing and DLSS AI acceleration compatibility, you’ll still be able to turn on some of the most groundbreaking graphical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpu/best-rtx-4070-ti/",
-      "originalUrl": "https://www.videogamer.com/tech/gpu/best-rtx-4070-ti/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/image-51-2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -83,22 +83,6 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "The insurance implications of AI are heating up - reviewing the NAIC's Model Bulletin for the use of algorithms and AI"
-    excerpt: "The NAIC's highly anticipated Model Bulletin for the use of algorithms, predicative models and AI came out in July, but what are the implications? Though the bulletin is still in draft form, those with a stake in the insurance industry should be prepared."
-    publishedDateTime: 2023-08-16T09:28:00Z
-    webUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai"
-    ampWebUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2018-03/finger-pointing.jpg"
-        width: 1265
-        height: 872
         isCached: true
   - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
     excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."

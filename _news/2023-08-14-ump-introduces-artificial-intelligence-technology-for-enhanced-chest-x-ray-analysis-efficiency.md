@@ -2,44 +2,25 @@
 category: news
 title: "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency"
 excerpt: "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions."
-publishedDateTime: 2023-08-14T08:21:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9863595.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/14/9863595.htm"
+publishedDateTime: 2023-08-14T07:45:00Z
+originalUrl: "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency"
+webUrl: "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2184845/Group_photo.jpg"
-    width: 400
-    height: 244
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/Group_photo.jpg?h=252f27fa&itok=YgGwlpBJ"
+    width: 600
+    height: 316
     isCached: true
 
-related:
-  - title: "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency"
-    excerpt: "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions."
-    publishedDateTime: 2023-08-15T01:28:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2000"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://mma.prnasia.com/media2/2184845/Group_photo.jpg?p=medium600"
-        width: 600
-        height: 366
-        isCached: true
-
-secured: "DNjhTxZ1QAc/WnfPw3xrRPX0HjrUKRXwW2Q3Hd/AKa19rbH3EpJh/yKTDlA/LH7tGKTvszDt6thYuU+EMrn5OC2wHgmHmz8S51aXGbvH4D9xyD+pZwpK7FYgJWtX1xc7lfsVtbZaKW2LXA9g33i+9Nble/lcdjkWaBrkK7MGSAvTevQsQ5CgVRR2NzExw9IuOlA2GKu5SXa4OXEoEioyhvwTQlPH4W4v5xWycgTLLDKSVrbBBNy4XOqjdM727GB+RKH3Hodx6LyCAmuhlCDHAUI1gzHAFtSbgVGiRGLinFYWsJGe4gr9SvDzU+yzu/WD9qfCr/t1+qAoZpliwZR5L96LLcA32/W1JrLvPOhl6m0=;tx3hOJRVwoWgmeoJuAjvew=="
+secured: "EtrnsizQ/oVSXPOwXVd8ZPKMfnsaDkTzhXqpxStHi2Q9LRD/qvXhY5B9edyoszQtMMJ/xkcmHW63Vcx7xxQ6OEAPVPluiKaq5cuKCboIYBw4MbnhdfIDWGFgWVW+Ig3I+PCPbeXlzgITdSE4CdF5zAF9l7vuW+gncoI4L/yubrqpTPFasqCgkhgnxwFYoxj7c04tfxn82josBZg49UxwAOkh21gUQmYKsNvSv+1KN8ltakXFyI7nZlHh07jkWCHzR3nnbP8akcFQtIe3SynxAjrg9CNDCe68j/sOdQMViv8CwpbLvtzDcJ7tl7QEHdPyX87CskqhqNeJTn7lyt8476hVjurhbmku4TgQrawYq4k=;WjFxQVGORvrakBv/xLA+hA=="
 ---
 

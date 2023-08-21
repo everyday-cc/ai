@@ -54,6 +54,15 @@ related:
         width: 1032
         height: 580
         isCached: true
+  - title: "Startup's tool aims to help companies decide which AI is right for them"
+    excerpt: "OpenAI remains the leader in generative AI, but its rivals have narrowed the gap and may be a better option for certain uses, a new AI assessment tool has found. The open-source testing platform released Thursday by startup Arthur aims to help businesses figure out which large language model is best suited to their needs."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.axios.com/2023/08/17/startups-tool-companies-decide-ai-right"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Top ex-Google Brain researchers start AI research company in Tokyo"
     excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
     publishedDateTime: 2023-08-17T16:20:00Z

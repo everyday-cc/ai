@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-21-advance-of-the-ai-adviser-machine-learnings-role-in-managing-fortunes.md",
+      "title": "Advance of the AI adviser: machine learning’s role in managing fortunes",
+      "excerpt": "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c",
+      "originalUrl": "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg",
+          "width": 619,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-20T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-microsoft-open-sources-onnx-script-for-python-machine-learning-models.md",
       "title": "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models",
       "excerpt": "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ...",
@@ -197,24 +241,33 @@
     {
       "path": "_news/2023-08-15-nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution.md",
       "title": "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution",
-      "excerpt": "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l",
+      "excerpt": "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data.",
       "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
+      "webUrl": "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261",
+      "originalUrl": "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T07:29:00-07:00",
+      "publishedDateTime": "2023-08-15T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
+        "name": "Investing",
+        "domain": "investing.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1322,50 +1375,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction.md",
-      "title": "How can Multimodal Machine Learning ensure positive digital yield extraction",
-      "excerpt": "Artificial intelligence (AI) induced digital revolution seems to be ascertaining how futuristic global technological progress will happen. With machine learning (ML) models considered important for it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "publishedDateTime": "2023-08-06T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
