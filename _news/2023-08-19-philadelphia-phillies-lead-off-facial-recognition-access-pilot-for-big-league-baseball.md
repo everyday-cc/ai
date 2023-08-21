@@ -57,6 +57,22 @@ related:
         width: 4500
         height: 2585
         isCached: true
+  - title: "Philadelphia Phillies roll out facial authentication to let fans skip lines at Citizens Bank Park"
+    excerpt: "The Phillies and the MLB released to following info on the new program:"
+    publishedDateTime: 2023-08-21T20:52:00Z
+    webUrl: "https://6abc.com/philadelphia-phillies-facial-recognition-tickets-to-citizens-bank-park-face-scanner/13681053/"
+    ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-facial-recognition-tickets-to-citizens-bank-park-face-scanner/13681053/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-facial-recognition-tickets-to-citizens-bank-park-face-scanner/13681053/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 48
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FTA investigates SEPTA crashes; Steel Elementary’s new playground; Facial recognition at Phillies games | Morning roundup"
     excerpt: "Feds plan rare safety inspection amid SEPTA crash spike The recent string of crashes involving SEPTA vehicles has prompted the Federal Transit Administration to launch a comprehensive safety inspection for just the"
     publishedDateTime: 2023-08-18T14:05:00Z

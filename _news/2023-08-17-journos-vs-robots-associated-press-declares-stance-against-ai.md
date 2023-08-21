@@ -37,6 +37,17 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "3 tasks for Congress’s to do list on AI"
+    excerpt: "In recent months, Congress has quickly awakened to the potential power and policy ramifications of rapid advances in generative artificial intelligence (AI). In contrast to its passive, responsive approach to development of other technologies like social ..."
+    publishedDateTime: 2023-08-21T21:31:00Z
+    webUrl: "https://thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/"
+    ampWebUrl: "https://thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
 
 secured: "Ue1t1geV7TewQ43HmL2bbCxEx1oOQUqNiKz1n5QqcSpCjfE8liV6r0APOC9xM7gqFl0wYaTsnfkIz+3M5xy+S2dlt5YT12/JGzN/lPhuAUAGc4rcFCWcMB08hYIetot5SfdsvKK84mVVrEVZeIyKD3dsozyAmaK4L6pzO84iBXwCGMEj+EupwqaAnqJhPvraTsxzWydONcce5qiRSB54GjgnDdjMd18jhea+sOe5g2uTSuAoi1EKo9DnEPoLUdZCilnbKSqwcw7Jh5MQj/XSnQi/ESPlfdTTK6HPdV7kvaL+9sfoyZBVgRJ/JruN7UuWA3E0C/wKXn3LMkzc0bv6IeqbiDP3zdyGCiCXDvvQEPlpypVS1mK/HfD1oOicY0yCX7WCvEGkzY0HM28LFJsIPoP1oY6HhclXggG8JdHgyOJHBOFXpT0FD14eP+WpV57AAaS5qgQptbB6zxuVOpgkARDHHGCCNR0o68va6OUhqIO1qg8zzS+BJOfZb15EfKhacqMk0rb1v4tvRX7RAjovjw==;gRRRcotKyN/M9Jjgobxg5Q=="
 ---

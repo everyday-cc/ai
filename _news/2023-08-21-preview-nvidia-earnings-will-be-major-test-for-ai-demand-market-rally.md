@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
+    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
+    publishedDateTime: 2023-08-21T21:39:00Z
+    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 52
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
     excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
     publishedDateTime: 2023-08-21T13:00:00Z
@@ -50,6 +64,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "China keeps buying hobbled Nvidia cards to train its AI models"
+    excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
+    publishedDateTime: 2023-08-21T17:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/08/china-keeps-buying-hobbled-nvidia-cards-to-train-its-ai-models/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
     publishedDateTime: 2023-08-18T06:11:00Z
@@ -64,6 +87,15 @@ related:
         width: 1187
         height: 667
         isCached: true
+  - title: "How Nvidia built a competitive moat around AI chips"
+    excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
+    publishedDateTime: 2023-08-21T19:00:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/how-nvidia-built-a-competitive-moat-around-ai-chips/articleshow/102917968.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "ZwWwDWa7qGMEkVsw0o+JhXY5w9wJVOXwzcRRfvL2Nl5g1kgtoffp7SXIf75GtaVyl6jhBsvfAw5iEI8Bo0HZ0gJ4Ihyc/XROE7QwdD5q14BUJkUj9huKGxJmTM42gfzg2htata3z/E8gu7Hz6+YY10m7q+ZWffz1WGUIlFoSaEc1Bov0SkO6lz9VNkBi0G0w7h2OgWbEJG8M7h13yfUlz15S5va7Vx6U6GPGoHiVN2Hnf240+COxsHpBd8WUBbDAQs9X4l3cSJif0AfhPX+CovSJYDPHh2exAnFFc1QUwGTA4h6YWfb4ARju8KcWKUeXPFZe5e5PoK6ANmqE0NUaTPYofwAHBia5Y/2Mz4pYOgFxsQ2yX7XmeZF4rfRxJTQrri5JD6qoJYKPQ/ydmkikhHf+VxTsVbpkyNgEG77XE8T80Kj91E+rUXf2ZfX/G/QACiAHPGgWr+aJaSJXMyoi0V3/ivibWdNNYD/g/Y9UIiY6TxcaIWug4lHbiTR+o1gxeBcaJHlr9K7bspvogqraaA==;e4zl1Gbiu0hd+DxXWKwnzA=="
 ---

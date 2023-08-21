@@ -96,6 +96,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
+    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
+    publishedDateTime: 2023-08-18T18:30:00Z
+    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
 
 secured: "UpGfK7/qurGcgcfSzNO2exyETU2+igmjOFfKW3q28uaQwjLcCRyMrTML9nwhs7AihD/I+ZPCwLykiVzXeWMKMEseolaldg1PtzeAwRf4Ik2fkNaKyNUJl8b8QPgMXxRgIqbmgZ+/yGT4A85aPsDbri6luTY7POhwfGLO3xnQZESqcLzNP1w7aIwsrnv3WZ9krPzf157B+JIV+2PyB0kTI6jHnrEadVHRX0sh3n3su4QEQHiUaLOTFq9TuXQ5EfBZNCRgQjJf0NqDNaRoBxCmczVnMRXSbVJ6fa/jjyi287c5+Te8VM42WH+tmzMTFccQlD+XwdHLYTDFw9ZVBLp6aiRNFhp32DUOEOTHPTR4UJo=;J+ZtNf2YUXw0g9Q3WA6pPw=="
 ---

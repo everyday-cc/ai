@@ -174,6 +174,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
+  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
+    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
+    publishedDateTime: 2023-08-21T18:32:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 33
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-20T18:36:00Z

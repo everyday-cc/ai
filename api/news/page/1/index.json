@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-21-new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation.md",
+      "title": "New study reveals why mainframe application modernization is key to accelerating digital transformation",
+      "excerpt": "Rapid advancement of emerging technologies are driving organizations to prioritize digital transformation more than ever.\nThe post New study reveals why mainframe application modernization is key to accelerating digital transformation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T13:50:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-siggraph-2023-highlights-new-graphics-technologies-and-missed-opportunities.md",
+      "title": "Siggraph 2023 Highlights New Graphics Technologies — And Missed Opportunities",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag shares his insights from this year's Siggraph graphics conference—including his disappointment with how it was organized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e3c5ca0b850136180f2ee6/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
+      "publishedDateTime": "2023-08-21T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted.md",
       "title": "US judge: Art created solely by artificial intelligence cannot be copyrighted",
       "excerpt": "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ...",
@@ -10,7 +104,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -112,7 +206,7 @@
       "originalUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -164,7 +258,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -215,7 +309,7 @@
       "originalUrl": "https://www.irishexaminer.com/business/companies/arid-41209477.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -298,6 +392,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
+      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
+      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
+      "publishedDateTime": "2023-08-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -551,7 +688,7 @@
       "originalUrl": "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -647,7 +784,7 @@
       "originalUrl": "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -887,49 +1024,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-21-schools-face-challenges-with-ai-as-students-head-back-to-class.md",
-      "title": "Schools face challenges with AI as students head back to class",
-      "excerpt": "Within the last year, artificial Intelligence -- specifically ChatBots -- has grown in prevalence and use since it was introduced in late 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
-      "originalUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/06/932/470/chat-gpt.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp",
-      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp",
-      "publishedDateTime": "2023-08-20T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5",
-        "domain": "fox5dc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-21-advance-of-the-ai-adviser-machine-learnings-role-in-managing-fortunes.md",
       "title": "Advance of the AI adviser: machine learning’s role in managing fortunes",
       "excerpt": "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?",
@@ -1118,108 +1212,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-loftie-magic-storymaker-a-groundbreaking-ai-powered-personalized-bedtime-story-experience.md",
-      "title": "Loftie “Magic Storymaker” - A Groundbreaking AI-Powered Personalized Bedtime Story Experience",
-      "excerpt": "This article discusses the importance of sleep and how new innovations, aided by AI can help improve health and wellness and business productivity Loftie is a company to watch with a very talented CEO who has a brilliant mind and a big heart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e26b9257642d1784c71423/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "publishedDateTime": "2023-08-20T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-christians-shouldnt-fear-ai-they-should-partner-with-it.md",
-      "title": "Christians shouldn’t fear AI, they should partner with it",
-      "excerpt": "Christians shouldn't fear AI, they should put their faith in it. Christianity has always made good use of new tech from the bible to the internet -- to share the Good News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
-      "originalUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36ae3862-0423-4106-81a2-d0758d6f8bcd/50b7085b-418c-431d-8dc8-49f293d407c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
-      "publishedDateTime": "2023-08-20T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

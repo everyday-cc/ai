@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-stude
 cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Fox 5
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital academy offers new AI course to high school students"
-    excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
-    publishedDateTime: 2023-08-17T01:48:00Z
-    webUrl: "https://www.kjrh.com/digital-academy-offers-new-ai-course-to-high-school-students"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 19
   - title: "With AI exploding, local private and independent schools look at potential dangers and benefits for students"
     excerpt: "Some local schools are including new language in their student handbooks about the use of artificial intelligence, some are incorporating it into the curriculum, while others are taking a wait and see approach."
     publishedDateTime: 2023-08-18T18:23:00Z

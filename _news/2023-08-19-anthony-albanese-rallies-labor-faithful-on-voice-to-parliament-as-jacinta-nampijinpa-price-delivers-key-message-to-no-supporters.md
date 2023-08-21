@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Working for Australia: Anthony Albanese’s speech in full"
-    excerpt: "I begin by acknowledging the traditional owners of the land on which we meet and I pay my respects to elders past, present and emerging."
-    publishedDateTime: 2023-08-17T02:54:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "Anthony Albanese tells Labor to campaign ‘like never before’ in Voice fight"
     excerpt: "Anthony Albanese has called on the Labor Party to campaign “like never before”, telling them winning the Voice referendum will depend on grassroots activism."
     publishedDateTime: 2023-08-19T01:32:00Z

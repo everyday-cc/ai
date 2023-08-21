@@ -2,6 +2,101 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-06-20-why-nvidias-brand-new-gpu-performs-worse-than-integrated-graphics.md",
+      "title": "Why Nvidia’s brand new GPU performs worse than integrated graphics",
+      "excerpt": "In essence, this is a computing GPU, and not a graphics card in the same way that most of us know them. It was made for all kinds of HPC tasks, with a strong focus on AI workloads. Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/",
+      "originalUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/nvidia-4-h100.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/?amp",
+      "publishedDateTime": "2023-06-20T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-fall-detection-and-prediction.md",
+      "title": "Clairvoyant Networks, Inc. awarded £80k by Longitude Prize on Dementia for AI / Neural Network Driven Fall Detection and Prediction",
+      "excerpt": "Clairvoyant Networks, Inc. has been named a semi-finalist in the Longitude Prize on Dementia for its innovative AI / Neural Networking remote monitoring platform for detecting and predicting falls amo",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32924009",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924009",
+      "publishedDateTime": "2023-06-20T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-baidu-gains-as-morgan-stanley-touts-its-best-ai-trade-in-china.md",
       "title": "Baidu Gains as Morgan Stanley Touts It’s Best AI Trade in China",
       "excerpt": "Baidu Inc. is positioned to be the best proxy to own as artificial intelligence tools help China shift $7.4 trillion spending from offline to the internet, Morgan Stanley said.",
@@ -1080,83 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
-      "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
-      "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/Untitled_design_1687233330640_1687233337610.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
-      "publishedDateTime": "2023-06-19T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-chinas-own-chatgpt.md",
-      "title": "Xiao-I Corporation: Xiao-I Releases Cutting-Edge Large Language Model \"Hua Zang\" to Create China's Own ChatGPT",
-      "excerpt": "SHANGHAI, CHINA / ACCESSWIRE / June 29, 2023 / Xiao-I Corporation (Nasdaq:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, celebrated today th",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59464786-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-china-s-own-chatgpt-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59464786-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-china-s-own-chatgpt-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

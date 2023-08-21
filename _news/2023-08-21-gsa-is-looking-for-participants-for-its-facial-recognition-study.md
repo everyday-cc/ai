@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Phillies fans can now use facial recognition to enter Citizens Bank Park"
+    excerpt: "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ..."
+    publishedDateTime: 2023-08-21T20:02:00Z
+    webUrl: "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/"
+    ampWebUrl: "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 57
   - title: "GSA undertaking study to examine racial bias in facial recognition tech"
     excerpt: "In a note on LinkedIn announcing the study, Commissioner of the Federal Acquisition Service at GSA Sonny Hashmi said: “This is an important study and initiative to test and validate facial recognition and matching algorithms and technology to identify barriers across demographic lines.”"
     publishedDateTime: 2023-08-18T22:01:00Z

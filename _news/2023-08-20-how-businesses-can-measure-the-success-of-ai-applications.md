@@ -99,6 +99,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
+    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
+    publishedDateTime: 2023-08-18T18:30:00Z
+    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
 
 secured: "HM140KJ15g/wnW0QVHOTRDayWlBmlKSmaOAL1XNK308CSiG/7+H4Eb5DRNdLiz2BuruPnKoh+j2BdQOrgyOboL1hC8/7j3QBv+AoKG4TJNXFlbpEUEhe6ESnWvZiI1dUrrdsVKwmiMR4uri9opirCDJs6U8TYDnikr7wLP2yaBtOS/XnfmNsUrmYWVlFFlCmjqVhTKE+gNxGm9u4LnPARCBbEGeLpgFqG2Db576cGKZbLyqNQzEZwjIFW5OR2PGA78DUGRKTN0wmnPApvQJlo6DywzB579h+5PwPA5wxs9fYwhqNOObV/P5wG1Gwv6LUc6Dni6Wf5lQhKEMevfvi0mGGXCb6YemkwQqhqx+2CtwHUIU81NJj5ox+ETl7v1mdB7x75YDS/MAw2rVq0VxQGC+KD+PTN8hfeQsgcBeG6RKmcAA2+/6Z7A0Huf+x/RgMQ8kbVk5ng/N26MFPOs35sT6yQpzDDPqPoKQ4KDceSZo0iBf0csApQaUOQ2tUSpGcVYQPsvJeRlJO1+akGhm4VA==;dqzjgQcjFmRvPp7TiqYZew=="
 ---

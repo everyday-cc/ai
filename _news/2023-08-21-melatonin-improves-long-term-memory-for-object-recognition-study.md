@@ -35,6 +35,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
+    excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
+    publishedDateTime: 2023-08-21T18:43:00Z
+    webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 12
 
 secured: "fvXrTB7jDExpwixHlu5EtMxZ8PpiJrIBuFOeDmK8E15EaPx/wTDfWAo9AX5zvV5HgufYTx/0rSCyu//7CGI0aoMS7Bq1JOPl8ipGdIHu70PuCnwh1CtIREmPgvYl348nukVZJ3nt/qcULKTVm/01GS1J8w3uSJFIPI7+itif/WTgiawEcSzVhWl7gPErDggwPAQh2tgWzd9LZlFIyAoUWv40bJpf2ejdcUwqxxq7vkP33hjUKeL+nu1Dir3VFH+iHneSfeTZaug1Uheb5OosrTTiHH637jEniNQEjgS8kIr5KxXaap3xohLvYPY9FpR/pQ005ZlbLkOA/leNhoO+sbdBtcW06f54/snvIlyeSuIChmPzvb1mqiYduQusHBQcGRkqqTi96Hu3gx3oiWRYYAHr5RfURppYi89BJofU7hyOcFieW4abW6yIl2Wt0+C8QefQX+PgAm1asmfaLGgz8dlSwU7HwERc9tCZXVxFr11SviFh/XgTBniY51FMBTj5EYTo3XOogQChtfyRj6n+ZA==;Rq8ODdWXgttoUoqoz5P/zg=="
 ---

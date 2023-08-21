@@ -1,20 +1,20 @@
 ---
 category: news
 title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-excerpt: "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ..."
-publishedDateTime: 2023-08-10T08:54:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
+excerpt: "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs."
+publishedDateTime: 2023-08-10T06:43:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/10/9862353.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862353.htm"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "g2hbby69G3nQiOSJQMMY/w2kScUO9Q7c6ecWtoHJHIiIzvli1MxM4ffJSBv4keC24Jcw4xTw6MsLMdOzOgr5WjQRnGHa6Zf0oLVGV49sVJIW77ZlOiwVowIYg69xb71eK/iqE9rL2QEhRqkZUBCpdsYdKRrRuCivukO2gKBinVAeYmCZZ8J4ZTxqFW0zJZ4T3otVqyUITixwuXpV8A4Ss9fo/hLhIBpH5ta7OBT3S8QBbKc66jAYSj/+rKnA9hryVcGC999H6zPMV5zDqBPVdJUjG/2Dy3LjJlyVSQo57ASxl6gcAGQvgK86kIY291ZWpVddU5mBHnanewv0+lRXyqTcZ6dD9tRkjC6o62MrlGk=;9pszaVNGi0nlnKBvOjLWzw=="
+secured: "IpKYGYKS6m0sOS3+qtTUeWA027pjJmEycf4RF0tMXczSfNRE+Svnl/q4gUaWfCi/xmzyOnU35/PtL+y6AcnaPGWXOvVl/J/8QAIOqXCiV/5NvFHrNDFvX8SOCD8rkvR4ejy4Ao+LZR8TZ/PK40YTOi/O4xFk68ZmEhS0tqaJlVRtZBbBjfkV87Ij7tYa1eM9XjMETwtT4Qdu2WdUIWVabTXjiWBdgLrxF2kPEI5WR2QfrRgiW0O9ZODe07Ingon12SYNCeXyF8+N8FuhBa4SdSneT/DJRc/Ihl68xIY6dypl4wmU4C1WBMpqRY6hTahY2FSK4NHrYrT6IaJSlQR6QHE6GIns+gQY7AqJqm3WhZOQVbOTbNOWsY4K7vsA/NN/X3fosB8b352YaYK9cG7YK/zflQic+e1WoUFTjDYhPpJNkfcA9Su3yUZrC3vIuw9MStV1r6gGXM1pW44Ar0kBdsfum66V7yOKhLIIDULNbGBVJeLoeB334DAe5mCta12AWJioi2DgPZniYaw+BxZPBg==;PMEeX4mjEq+QdDxnokz2xg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-09-mark-zuckerberg-concealed-his-kids-faces-on-instagram-should-you.md",
+      "title": "Mark Zuckerberg concealed his kids’ faces on Instagram. Should you?",
+      "excerpt": "When Mark Zuckerberg shared a photo on Instagram of his family on July 4, two things stuck out: the billionaire CEO wore a striped souvenir cowboy hat, and the faces of his children were replaced with happy face emojis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230707152522-03-mark-zuckerberg-0524-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "publishedDateTime": "2023-07-09T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-f1-british-grand-prix-facial-recognition-at-silverstone-being-used.md",
       "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
       "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
@@ -1257,49 +1309,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
-      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
-      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "publishedDateTime": "2023-06-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

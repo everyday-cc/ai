@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/general/23/08/33966714/understanding-the-artif
 ampWebUrl: "https://www.benzinga.com/amp/content/33966714"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33966714"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2023/08/21/shutterstock_2245159551.jpg?width=1200&height=800&fit=crop"

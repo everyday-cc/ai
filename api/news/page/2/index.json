@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-21-loftie-magic-storymaker-a-groundbreaking-ai-powered-personalized-bedtime-story-experience.md",
+      "title": "Loftie “Magic Storymaker” - A Groundbreaking AI-Powered Personalized Bedtime Story Experience",
+      "excerpt": "This article discusses the importance of sleep and how new innovations, aided by AI can help improve health and wellness and business productivity Loftie is a company to watch with a very talented CEO who has a brilliant mind and a big heart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e26b9257642d1784c71423/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
+      "publishedDateTime": "2023-08-20T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-20-christians-shouldnt-fear-ai-they-should-partner-with-it.md",
+      "title": "Christians shouldn’t fear AI, they should partner with it",
+      "excerpt": "Christians shouldn't fear AI, they should put their faith in it. Christianity has always made good use of new tech from the bible to the internet -- to share the Good News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
+      "originalUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36ae3862-0423-4106-81a2-d0758d6f8bcd/50b7085b-418c-431d-8dc8-49f293d407c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
+      "publishedDateTime": "2023-08-20T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports.md",
       "title": "UK is in talks with Tech Giants on AI chips, Telegraph reports",
       "excerpt": "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph.",
@@ -596,7 +698,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1131,110 +1233,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-will-ai-replace-freelancers-using-ai-to-grow-and-empower.md",
-      "title": "Will AI Replace Freelancers? Using AI To Grow And Empower",
-      "excerpt": "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "publishedDateTime": "2023-08-18T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.md",
-      "title": "Buy this chip stock to ride a 'wave of AI-led growth,' according to B. Riley Securities",
-      "excerpt": "Moderating inventory headwinds and a reacceleration in hyperscale spending should propel this chip stock into its next growth wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
+      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
+      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
+      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
+      "publishedDateTime": "2023-06-23T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-why-smart-ai-regulation-is-vital-for-innovation-and-us-leadership.md",
+      "title": "Why smart AI regulation is vital for innovation and US leadership",
+      "excerpt": "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
+      "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
+      "publishedDateTime": "2023-06-23T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
       "title": "Review: Hover Camera X1 is the ideal drone for most people",
       "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
@@ -1080,110 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
-      "title": "AI: Investment Value at Every Link of the Value Chain",
-      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
-      "title": "The Generative AI Investment Sprints For Supremacy",
-      "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1391,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
-      "publishedDateTime": "2023-06-23T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

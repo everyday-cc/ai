@@ -24,6 +24,17 @@ images:
     height: 426
     isCached: true
 
+related:
+  - title: "Chinese Property Giant Files For Bankruptcy And Fed Weighs Further Rate Hikes - Forbes AI Newsletter August 19th"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-08-21T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/08/21/chinese-property-giant-files-for-bankruptcy-and-fed-weighs-further-rate-hikesforbes-ai-newsletter-august-19th/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 26
+
 secured: "IiLOt+wmykKBxKiJr5QleV3yiyC8YlujK61RdPNg+ehCgiiCtxJ+6SuZvPUzNmrbXiNTA3Y/NHdQAgpEOxfaycZEKfl7INmG889u4gieWSok2ay1TGgY5dsJtpVp18YmXHEq2GlA+suMpAu7KBTj8JxaYRWWmAilAyhcKYxdvC/9Zy41e50AoWe1xQklf5YzXsBtkJxWXSBCaw8lFeMRalPUEReUXr+2eAmEWWzOgIghGQg5jucArh+aqyOJL/6G8Ot0nCQ9PIsdy1t9CGl/wNlYSyyyM77T6p9bXZX2Tn3kc/wI5GWVx7ox5VSWBORQ23TBvsIGsLOKpzT12ZXF93e/Maypl/viDvqHyRZGMCYXbdHoO7rM0pNwozI09gA6FfSt5ifZk7CYRhqHmbdDTkyNAOy/movk9FAtZdb438GiTiloQD71K8LZzxDw+ZLzaUtK76ZEDqRxz2KWwyAiTa0Wy7qkIAk2Udg4DCBLmk3Dm0ZU/zn9peCzT4LRb/6NYKJvuXiarvMy6ntQFwSzbQ==;9VocobAbrCmk6fccMjuxEg=="
 ---
 

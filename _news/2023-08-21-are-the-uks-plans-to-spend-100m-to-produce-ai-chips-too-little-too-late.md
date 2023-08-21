@@ -69,6 +69,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
+    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
+    publishedDateTime: 2023-08-21T21:30:00Z
+    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "UK to spend £100m in global race to produce AI chips"
     excerpt: "Funds to be used to order key components from major chipmakers Nvidia, AMD and Intel"
     publishedDateTime: 2023-08-20T10:40:00Z
@@ -86,6 +100,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 34
+  - title: "UK in talks with AI chip giants"
+    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
+    publishedDateTime: 2023-08-21T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
     quality: 34
 
 secured: "3PdObu0rlitNHXpfWzRLB1aNxuyzIAPjlQvrHottmd0l4g4Up0pCS0RyKErJ2OJH8wD3CHbxBmuV+px3MnFRFfYO2d7w0xl9qMhM2kaa5KyYeyGtwIYC8wVUzF268dF64FdV3peJWfVe0WuK8eO1cBwKlKwDXeqsmc3O6w2TyNTTZfutHmTBApFKjFe5WqgW/nsHcdCKpxl22nQi+WZgn0CjHNNgR2JUHIglrJXsTpOpmW/iniUT8fPaoi5itQzDoFybq+17KUKX8g8vJMWuZhk9sPw5HC9UkNX3+Il5YdtIRniHfuFzpq/XXC0NSVAOlwD0Wy15sKgtsQckl0zdJ7aZt1GvxZD/L1a7RieFsDo=;F3bSY3lvFRv/qWeiTolB7Q=="

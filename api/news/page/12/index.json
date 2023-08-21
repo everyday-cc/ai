@@ -2,6 +2,100 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-08-11-new-study-shows-how-ai-can-help-detect-breast-cancer.md",
+      "title": "New Study Shows How AI Can Help Detect Breast Cancer",
+      "excerpt": "The study found that AI-supported screening found 20% more cancers as compared to the standard review by physicians who did not use AI. AI-supported screening did not increase the number of false positives, meaning it did incorrectly diagnose mammograms as abnormal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d17ec3930cd4cc47034c6b/0x0.jpg?format=jpg&crop=1730,974,x0,y149,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "publishedDateTime": "2023-08-10T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space.md",
+      "title": "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE",
+      "excerpt": "LOS ANGELES, Aug. 10, 2023 /PRNewswire/ -- Futureverse, a leading AI and metaverse technology and content company, today announced the publication of research in the advancement of music AI with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33718137/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33718137/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33718137",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33718137",
+      "publishedDateTime": "2023-08-10T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-how-ai-helped-get-my-music-on-all-the-major-streaming-services.md",
       "title": "How AI helped get my music on all the major streaming services",
       "excerpt": "If I can launch an album onto Spotify, Apple Music, Amazon Music, iTunes, and the rest, so can you. Here are all the ways that AI tools did and did not help.",
@@ -1117,111 +1211,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-to-navigate-the-age-of-ai-the-world-needs-a-new-turing-test.md",
-      "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
-      "excerpt": "There was a time in the not too distant past—say, nine months ago—when the Turing test seemed like a pretty stringent detector of machine intelligence. Chances are you’re familiar with how it works: Human judges hold text conversations with two hidden interlocutors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "originalUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d3d7869ec11a2433532db5/191:100/w_1280,c_limit/Humanizing-AI-Mente_cuerpo-feature.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-understanding-onelake-and-lakehouses-in-microsoft-fabric.md",
-      "title": "Understanding OneLake and lakehouses in Microsoft Fabric",
-      "excerpt": "Microsoft Azure’s new, unified data platform aims to be your one-stop shop for analytics and machine learning at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "originalUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/06/10/shutterstock_1331536427-100929861-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "publishedDateTime": "2023-08-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

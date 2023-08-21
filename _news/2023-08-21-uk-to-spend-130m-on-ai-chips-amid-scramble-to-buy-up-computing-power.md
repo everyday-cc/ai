@@ -55,6 +55,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
+    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
+    publishedDateTime: 2023-08-21T21:30:00Z
+    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
     excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
     publishedDateTime: 2023-08-21T11:04:00Z
@@ -86,6 +100,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 34
+  - title: "UK in talks with AI chip giants"
+    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
+    publishedDateTime: 2023-08-21T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
     quality: 34
 
 secured: "LhHzbY+KjTwszgxgRL64w7lUraw3oy19r4AWRGNB1ybv/E9mgwEg6x5k/RtaZ0CaT/Jf219tItMP84Toen8MB/xd6C8Tcr1WEjRqjzZRScbWXOIhO/9xD4wZr6pwUFXtXYTvgu9q8F1Tpyka7FrLbpZS3Bn6nH+gzVPLgOIPfBumpzSTrdPxl5D0WMho2Ojq5Xz+rZujq/smNrT/2NtBeinKR4qR7Lzt0bjg3vtayPSJHCNz0Cd0TuRtIOFXr5Se5ZwsLsbkOM9FZQ8FOB2ZEWikGnKpoo/7caNxupEzKI7IARzn0X5o1Kr8bQ+QEQbQhk14a89+CIOFjwnEixRcR4q+WakVp8kzoBmTyDwvZQEVEicJyc83mSnfvxbBKIq5z9Ik826RKMN/5/qezeNNDj9cxmaqtC3WDMIIDl6sQKM0gTuW2Ofv4iQhTzA0/aJBkzGvecxJxH+hzoe9mH6a7rg08t8/9H/4Xk24ryfRyJCOuS+f5A8t95LimvIiopKR6zvS1v/LhbZhnLl94y4QhA==;gkyxIuo+AQF3c8vIQbQYWw=="

@@ -2,6 +2,100 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-07-13-networking-startups-jump-on-cloud-costs-and-ai.md",
+      "title": "Networking Startups Jump On Cloud Costs And AI",
+      "excerpt": "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64af0ba1f497fc5894534a0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/",
+      "publishedDateTime": "2023-07-12T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-chipotle-testing-avocado-processing-robot-in-test-kitchen.md",
+      "title": "Chipotle testing avocado processing robot in test kitchen",
+      "excerpt": "Chipotle tests Autocado, a cobotic avocado processing prototype, at the Chipotle Cultivate Center in Irvine, California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
+      "originalUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
       "title": "U.S. to decide on GM request to deploy self-driving cars",
       "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
@@ -1094,108 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation.md",
-      "title": "Navigating The AI Regulatory Minefield: State And Local Themes From Recent Legislation",
-      "excerpt": "In an era where AI is integrated into our everyday lives regulators are emphasizing the need for responsible governance — though the challenge lies in compliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeaf21d8b14e270be9bcff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/",
-      "publishedDateTime": "2023-07-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-the-four-ms-to-empower-strategic-workplace-ai.md",
-      "title": "The Four M’s To Empower Strategic Workplace AI",
-      "excerpt": "The Four M’s — Multiplier, Magic, Mistakes, And Mayhem — Help Frame Your Workplace AI Strategy",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aea72e8479cd74c78a3cff/0x0.png?format=png&width=1200",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/",
-      "publishedDateTime": "2023-07-12T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -169,6 +169,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
+  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
+    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
+    publishedDateTime: 2023-08-21T18:32:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 33
   - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
     excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
     publishedDateTime: 2023-08-17T13:57:00Z

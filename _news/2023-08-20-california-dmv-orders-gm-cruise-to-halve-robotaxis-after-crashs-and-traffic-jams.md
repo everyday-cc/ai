@@ -1,0 +1,23 @@
+---
+category: news
+title: "California DMV Orders GM Cruise to Halve Robotaxis After Crashs and Traffic Jams"
+excerpt: "4) We took two rides with driverless Cruise cars ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies ..."
+publishedDateTime: 2023-08-20T13:46:00Z
+originalUrl: "https://www.nextbigfuture.com/2023/08/california-dmv-orders-gm-cruise-to-halve-robotaxis-after-crashs-and-traffic-jams.html"
+webUrl: "https://www.nextbigfuture.com/2023/08/california-dmv-orders-gm-cruise-to-halve-robotaxis-after-crashs-and-traffic-jams.html"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: NextBigFuture
+  domain: nextbigfuture.com
+
+topics:
+  - AI in Autos
+  - AI
+
+secured: "gJAfNCUFze7p3uh/CrzXlX0ycvsYjuGLZ+u6iKQwywYLmtsf/nGVITfqAV5fTCGOQj5mBB6V+021mennSo0rekuNb09xJ4q9I+0JMudQyNYHsyeKHZNM6YH+eFXw7c6odvsLTyDpHr5BpC0Vltf7uv4oNvlkaPXZm7tvMuMcoe73BntJjti6obhBAtiDS0D9UDuNXCwQd1zAk6xck3NpnF4wE5GV0fISF1je+Cla9bHyRc8Ja0nVYAzxDwjUALzlADRztE0HW8xdkEBiWsGHo2sNr3cESSa48XVkRCcDIOja/6Imxp7OL8BcOYFfAFe61D9Wp/DxXXukCExm3zhdtKIR0jefX/0+RnwViGygdLU=;Ai+b+vga0mlhGTjA2TgRPw=="
+---
+

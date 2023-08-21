@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best prompts to get the most out of an AI chatbot"
+    excerpt: "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid."
+    publishedDateTime: 2023-08-21T19:00:00Z
+    webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
   - title: "Tricks for making AI chatbots break rules are freely available online"
     excerpt: "Certain prompts can encourage chatbots such as ChatGPT to ignore the rules that prevent illicit use, and they have been widely shared on social platforms"
     publishedDateTime: 2023-08-21T10:29:00Z

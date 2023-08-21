@@ -7,7 +7,7 @@ originalUrl: "https://www.irishexaminer.com/business/companies/arid-41209477.htm
 webUrl: "https://www.irishexaminer.com/business/companies/arid-41209477.html"
 type: article
 quality: 54
-heat: 94
+heat: 124
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
+    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
+    publishedDateTime: 2023-08-21T21:39:00Z
+    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 52
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
     excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
     publishedDateTime: 2023-08-21T13:00:00Z
@@ -42,6 +56,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 49
+  - title: "China keeps buying hobbled Nvidia cards to train its AI models"
+    excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
+    publishedDateTime: 2023-08-21T17:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/08/china-keeps-buying-hobbled-nvidia-cards-to-train-its-ai-models/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 49
   - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
@@ -66,6 +89,15 @@ related:
         width: 1187
         height: 667
         isCached: true
+  - title: "How Nvidia built a competitive moat around AI chips"
+    excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
+    publishedDateTime: 2023-08-21T19:00:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/how-nvidia-built-a-competitive-moat-around-ai-chips/articleshow/102917968.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "G9+WFHsXQi/tiPY/iJWcXYcvpg/hjUhL7yb1Fb62AyporWmZgvTAmsHRBfvCsDdxnT+Gux8D6g87kNqOrI5Mm4BJ55z8t03T9cHQufKQX8oynKIj7RP0c0nu6j5KGy7whQxQQlznzn6NE54m0cG4R98Eg6uymz+mltDgW47P7qR4cFU8Ydn9QYrTAk0gxiksLbeslWC6oNXMeK/78Iumc4DsXLADwIA2DPBH/AdsU2fvNFYUCYFlgLx2ldxheihTN59PoVqU43c2njIm2RECKbibvm9WmCeogrrY8vhJFo8vuBSq0B4gVGFoL3LsDt7KfIu/Ph5NgMcVYVaf1nNQdq8C4VRP5BYtIa2j/mPsCu7iTcx5SSpdsJw2vMqLEKj+2L7kkTrvwTdpo42ToDAe/jH/n59Ujam9piaRlpMgo/Li0PFgHO7wCjsRnhjyaL97Mskp6ldla8tn7kQ7YPsvvTW1cJpt3l3wyObo30HT60l6ojNP6OM0Hs1rlHLQrJxajnOJZmmxYgHcRU+7u4+5Zg==;fhi39v3PXGeoEdm4pNdUkA=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
+      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
+      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
+      "publishedDateTime": "2023-08-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-14-intriguing-new-and-potential-uses-for-facial-recognition-technology.md",
       "title": "14 Intriguing New And Potential Uses For Facial Recognition Technology",
       "excerpt": "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -62,7 +105,7 @@
       "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -284,24 +327,33 @@
     {
       "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
       "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
+      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
       "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "webUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
+      "originalUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/542202/original/file-20230810-22046-z0l1ej.jpg?ixlib=rb-1.1.0&rect=2%2C16%2C1595%2C797&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:06:00-07:00",
+      "publishedDateTime": "2023-08-14T05:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -586,10 +638,10 @@
     {
       "path": "_news/2023-08-10-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases.md",
       "title": "VisualCortex streamlines workflow for computer vision models with Weights & Biases",
-      "excerpt": "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ...",
+      "excerpt": "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862353.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862353.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -599,11 +651,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T01:54:00-07:00",
+      "publishedDateTime": "2023-08-09T23:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1349,49 +1401,6 @@
       "provider": {
         "name": "Space.com",
         "domain": "space.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-karachi-airport-gets-facial-recognition-system.md",
-      "title": "Karachi Airport Gets Facial Recognition System",
-      "excerpt": "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
-      "originalUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/12/Facial-Recognition.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
-      "publishedDateTime": "2023-08-03T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
         "images": null,
         "publishers": null,
         "authors": null

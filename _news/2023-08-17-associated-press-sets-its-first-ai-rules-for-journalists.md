@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Popular Science
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "3 tasks for Congress’s to do list on AI"
+    excerpt: "In recent months, Congress has quickly awakened to the potential power and policy ramifications of rapid advances in generative artificial intelligence (AI). In contrast to its passive, responsive approach to development of other technologies like social ..."
+    publishedDateTime: 2023-08-21T21:31:00Z
+    webUrl: "https://thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/"
+    ampWebUrl: "https://thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
   - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
     excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
     publishedDateTime: 2023-08-17T13:34:00Z

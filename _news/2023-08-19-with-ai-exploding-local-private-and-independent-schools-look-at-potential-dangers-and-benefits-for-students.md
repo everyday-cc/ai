@@ -35,15 +35,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Digital academy offers new AI course to high school students"
-    excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
-    publishedDateTime: 2023-08-17T01:48:00Z
-    webUrl: "https://www.kjrh.com/digital-academy-offers-new-ai-course-to-high-school-students"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 19
 
 secured: "mRZFTW8pjyN6JSpAbPb+MsBv5fnubcaIy+LuF5JLnHG4HcAlQwyt2E7gguRniLEDSfJZG/0OAOkbyNjeWjOX64CW0/NNVU8GHHxVfrhsS4Kmkrs/e1WK/bJ+faG5wqIoCiv7BBURjJJhxV0YmIag/Qrn3wrxiA1sN4WEpTZUlxksrQP4Vd38bjEETRtTTyZ4cVD6WAR3DcqXvjOCcznTpc2HaaZYGSqeTVIU+GCOTJo/iNcATsrybHIyENnKTBDGoPUwZ6aRSDb2rjGr3coj5l1SDcAUFtXJvpGg0OII3iqFZaqo2o+4laDgKo1arwEMLNeJ45TLnBdUH0nsrumcBzDFGQ9LkuHhpecVzY+5jX9vHKsKw5G1UIRpOkRyJTfvNG6PK3Gl7usNpwGXoTWx7d/yVwCSN4rpmkSX1HpshRlfJBLWhCqlJVRD9Z+CAkDSsjTMmnaQeexWQJAdg23E0kuAqgp8Foo5cMJDnuI9fMttdYGCjGMx3N1x/hk1U4VT1UwcaSgzds604hDXw0kYHA==;QMdjsnCccobAyZuZNsJv9g=="
 ---

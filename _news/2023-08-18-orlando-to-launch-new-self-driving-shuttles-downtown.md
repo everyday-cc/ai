@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Orlando debuts self-driving shuttle that will whisk passengers around downtown"
-    excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile loop in the downtown area for no charge, officials said."
-    publishedDateTime: 2023-08-17T02:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 40
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/a0f8e8fe-782e-4ed1-915d-b7f1a1365654/a0f8e8fe-782e-4ed1-915d-b7f1a1365654_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
     excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday. The eight ..."
     publishedDateTime: 2023-08-19T18:19:00Z
@@ -50,22 +34,6 @@ related:
       - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Meet 'The SWAN': Orlando debuts self-driving shuttle to whisk passengers around downtown, for free"
-    excerpt: "Starting later this month, an electric, self-driving shuttle, branded \"The SWAN,\" will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge."
-    publishedDateTime: 2023-08-17T02:21:00Z
-    webUrl: "https://www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free"
-    ampWebUrl: "https://www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free.amp"
-    type: article
-    provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 30
-    images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2023/08/320/250/Orlando-SWAN-Shuttle3.jpg?ve=1&tl=1"
-        width: 320
-        height: 250
         isCached: true
 
 secured: "C7wfeQUQalLwY0yWoGQl5lgBHsY6bWvvtSy9KLOqLjIcwqrrc2PhEC5Ky35VxS2WRWL5nR0A4nrQ/LWUmcKQHBcuiTo8Haib6fPHhs7HqQiYSpDjMBt0ykm6h9C39VfGJcTHFFuu4v/0O7iVsMl+MR7xrW9dVLf6nshI4hjVfjcgPfbRkIk6C3VhmwTz77jqD2WI36U549gLyKW4Z8tnN9ne5SPMS6CtveGS1Fhi8lquBQAhzy8aLOLHfK8AtebEaFrCyQWtwsmqaMHOljjOJ6MOwVv/rlDmmDBQ9AvTISXudG4n+HInQSIGiXZQM4YC9Y2A5nVLVR2TZaaT+K/fq7D6Do19TPYx/akl5H1B6dvE2bEnC04+hgY2xPW5h7sp5MQxJAvQg6p9Q5DtGwnvtCgX/K9IRDgZFVXQMKoMON0Lq8/InwNvsRVkhPQBBORlEhh1ea19c/t3/M0QDe34wSxMnTeU0E/uJXyNIGZgHZ7f2JKw+figleXN75Y0GG4k4P4+/G07lqu7yB9OQ1kSSw==;U2MmZG6NBkcpTieY0Eik7w=="

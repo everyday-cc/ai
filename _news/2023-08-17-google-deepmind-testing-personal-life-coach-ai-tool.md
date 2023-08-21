@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Now, an AI assistant from Google that can be your personal life coach"
-    excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
-    publishedDateTime: 2023-08-17T04:28:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/now-an-ai-assistant-from-google-that-can-be-your-personal-life-coach/articleshow/102789472.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/msid-102789593,width-1070,height-580,imgsize-43510,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
         isCached: true
   - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
     excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"

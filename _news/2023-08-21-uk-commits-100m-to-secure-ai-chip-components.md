@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-component
 webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
 type: article
 quality: 84
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
+    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
+    publishedDateTime: 2023-08-21T21:30:00Z
+    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
     excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
     publishedDateTime: 2023-08-21T11:04:00Z
@@ -90,6 +104,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 34
+  - title: "UK in talks with AI chip giants"
+    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
+    publishedDateTime: 2023-08-21T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
     quality: 34
 
 secured: "0maSJUsjoNji6+i5Xa4Dlbork+/gY62FUEyKXSDhTSCWyV66eqBTUUd9JmDPN/80IpaekAMJOFKTyvS0aphqz5W3CF9/zgyUhYAbRphfQ3U3y+CkFe1AyRRo5b70KYx6k/kgqnY4lbfmN1RVlPnGGfsdo96tEzdof6JRXOhWnpXMPodPt7SAyLsBOiuwUNlv4i8HTO+UzrWCAJjuqxa6yHASL1WuciO+fjR+VkcQH76NFasKfHwAHbj6lbxDkuYwfqm5NDB4fiewAMLSUHokrr1OX2oGI4JDt5cittkmlLykh09ZxzXA7JkusKtK0dPJhDhHkasFWpKTIRJZ5dzVAHR58xC2Af2pf40CTMzNgXl9Mk5THXSywIKi6/NMMfTW+L6Y7g/kU1e/6NJrITFAR9Dwu6/7t03425Y1ZHeVWqWW4p17cWVNaorlT7GUPzySwRVXiBZLojxmXjeh6CWGLCDan29ryTrUWgo219fYN1QqvfY2Vnq+rNFeJKf+zN8m6zJqXTu1R9slErG2ui45vA==;ybEKj6IYxMG9Wz+1rUbECQ=="

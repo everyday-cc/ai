@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Now, an AI assistant from Google that can be your personal life coach"
-    excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
-    publishedDateTime: 2023-08-17T04:28:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/now-an-ai-assistant-from-google-that-can-be-your-personal-life-coach/articleshow/102789472.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/msid-102789593,width-1070,height-580,imgsize-43510,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
     excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
     publishedDateTime: 2023-08-17T13:00:00Z
@@ -119,6 +105,6 @@ related:
       domain: analyticsindiamag.com
     quality: 34
 
-secured: "0yVAiJLxuGZiyp23tX1azKJxSvrUrSt3a5KWgH6suxtUdPZXjEHZTw0xoCuwqLZ4jcA8q8A7zQbArlb9VFtbST7f6a8qbRXcRwUtEeZWJzXrVY9LG8lwHC25TnmOWsKuV+xFyta2kg+Zjg55U5R6rU6Z/GU8bvOueP50QZntru8Pl879iBXceNkN+kgSfxhLea3wr3mgifbeEK6o3M9AtJndTeW356z8vrMwDWaWw+jdWC13eFmtFOo6BY16SNWJFWeMMecm+1mlIF2Dsg5M5ah+BshtoQgejHt5Jm8kX0M6dVMwJ9BQOeHMpmkJZE6TnCpOzP0D8fLAHy2pMq/EoKNOasOeBcqqr8u6NYb0zLs=;kjQFqEiq+FRS1hsymvEQnQ=="
+secured: "5A+pcToMX+42DA+3qZwO1sTnirLIXl/q5B6hwzuZfW5IhH2yor8tAf8BHrB/C0tLdnnlhl0AQ5HW/1h9ZeAKm8u+3ScTe+IDsdkq8O5gTyIbIYr4d3bjmmtcZ2AuuD7O2KOjBgojQt8oyWZOiP2hdyf2xmJW/yr0BlhFM1Z5Gt2T2cjQZzP8Ti3PF9XTjsqI/PNvBFqH+Vavm1JaoVCuXwyZG7CDiwtOGVt92RMoBhfWcMYs2OMf3NnVRkfnXplFQinkXr2bKN3VossyyFmxllAYv4jw0BMjBEl6F9zSFfb0kGctReBhIGrTxUiYf77CakkyYoshvcprHj5iimUukolsAOuePufnmnStnIBgdPHO7K5kTG9NcASYU70pQPAHUy6LRmbeUifTBQ8+pO9H1Y3JhqFtuiYnu0f8KT0FHMfxsS70fD3fATlToxyKxReP7OLVoSx49pFVRxtF8OXuPUEDiQbOKPai0xk5XHXZISD914ATlrcdOJANGxn2qKeqyYNloeqEafbiy8W7HxW20Q==;KsUKxUC/Z0KNJ3aonapJJw=="
 ---
 

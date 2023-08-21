@@ -35,17 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Working for Australia: Anthony Albanese’s speech in full"
-    excerpt: "I begin by acknowledging the traditional owners of the land on which we meet and I pay my respects to elders past, present and emerging."
-    publishedDateTime: 2023-08-17T02:54:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
 
 secured: "xcSwgBUIY0NTXZ46rRN5AJ3m70uOJybQL2E7GwwKgAPM/C+WMSLzuzxIrJCuDNd8267iwX/2PfyaVJug/hsBc9P40UsHPvJ42neqN2vvqsJg+mmOOkROykH52Au/RZJcUQRDQAsPeTB2+nGloD7hxvU5SXeV7ubtP/PhibcTJ/4sk64zIAEEd2piz7b8RFtaTw+FrSSD8n2Nklbi+phL0ehn+m0789IfHY6AeEZw8uISFu/6CEn+zXp0AAb/xwM/he6+COzZqh6kFTQ6ADSwIrU4hGbadqdwwTvL925hbAquw1O1WwftjoOxyqlgd7tirZIulbVMaojsFE5CnFsCUsiRIZ6ExUYKX8W/uW+XyeyO0aNhC7ivYbm6DF/l0d0DR0uUaCykxdV0hjFjbySZl2pLtDXcv9JOIU4dxzKYPVgT6ItcXjyfRSSm+wZj6m6BXywCxPjW68MaXZ+r8SpWSfy4y66pe3FdoOm2Bhfu/nGSAsagxo/9Xvkx/5ldUSDKOK3Z6mwPg9IQHZG1FFxsfw==;x9BhbFgdyoFo9MIH0DoJYw=="
 ---

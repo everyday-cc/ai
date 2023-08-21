@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
+      "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
+      "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-101536741,imgsize-51502,width-1200,height=765,overlay-ettelecom/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "publishedDateTime": "2023-07-05T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
       "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
       "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
@@ -1380,58 +1423,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-mlperf-30-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance.md",
-      "title": "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance",
-      "excerpt": "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

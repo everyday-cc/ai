@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Best prompts to get the most out of an AI chatbot"
+    excerpt: "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid."
+    publishedDateTime: 2023-08-21T19:00:00Z
+    webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
   - title: "Presto Counts 13 QSR Franchisee Groups Using Its AI-Based Ordering System"
     excerpt: "Presto Voice uses conversational AI, which learns and adapts to human speech patterns using data, machine learning, and natural-language processing to create a human-like conversation. As a result, customers do not have to modify their speech patterns to ..."
     publishedDateTime: 2023-08-18T14:44:00Z

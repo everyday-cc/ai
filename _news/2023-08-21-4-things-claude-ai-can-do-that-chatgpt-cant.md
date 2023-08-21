@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s testing an AI chatbot that could be your personal life coach"
-    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
-    publishedDateTime: 2023-08-17T01:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
     publishedDateTime: 2023-08-18T21:59:00Z

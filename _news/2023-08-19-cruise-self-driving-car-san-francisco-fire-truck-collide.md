@@ -43,6 +43,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Cruise robotaxi gets in accident with San Francisco fire truck, one injured"
+    excerpt: "The incident comes a week after California approved fare collection for driverless vehicles within San Francisco, after months of testing by Cruise and other self-driving car companies."
+    publishedDateTime: 2023-08-19T03:30:00Z
+    webUrl: "https://www.cnbc.com/2023/08/18/cruise-self-driving-car-in-san-francisco-fire-truck-crash-one-injured.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 32
   - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
     excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
     publishedDateTime: 2023-08-18T22:08:00Z

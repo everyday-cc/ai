@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
+    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
+    publishedDateTime: 2023-08-18T18:30:00Z
+    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
 
 secured: "0hYaq4bajR6y1IEI2QUKE2sMs9v6K48FYYze06IuNPdXN4zCq3qwBnBudo+NOT/J0PiXKmeL3Runk0vC7qXtxBqVx1fe9S6VjjqAEpzd2NAx1cBech8jiIUVuqKEFo8ISTsM5cRn+1+XGdjjnj4Alryk5RL/vKR3BWOAVRGiaVZFOzq8MEbKQLqZZIEhnLBEXFRTXNhLSKFNzaZHLi43mtUS+CNMdZPcScuMGpb0TdSxK6bpFqaZNoIaoCfz1p1S/17syfPZnSZah688kyUBKZBEBI1vHba/22fqQokUkGh5/IUKlUMh3bKw1jzQI49l1rUHEK6DuK3ssUVSxm87TnLj7qDwZc+p9BmNSZuh8Rdyw2OYQs6nZafA8Ta33Cwzfqb7kNMHYBaBFm3RgmWlKyXCuUPqR8BqESaSbMi994jDyyVODrHICcX57BlWT0K10Tr1ryCiZFXbWR7/+0AZA4FYiAJMg+lV8ivNSMnLquNlyo6gEfrSNIQ4pooD0eV1+bFAgrcCSmMJ6Bhpqy80XA==;9Az4WSUx8+AOyR8SrqYW2g=="
 ---

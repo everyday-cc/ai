@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How any SaaS company can monetize generative AI"
+    excerpt: "There’s already a handful of great examples of companies leveraging usage-based pricing to monetize AI, including OpenAI and all companies that provide foundational AI models and services, and the likes of Twilio, Snap, Quizlet, Instacart, and Shopify that are integrating with these services to offer customer-facing tooling."
+    publishedDateTime: 2023-08-21T17:49:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "How AI Can Scale Personalization and Creativity in Marketing"
     excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
     publishedDateTime: 2023-08-17T14:30:00Z
