@@ -25,128 +25,170 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI acquires AI design studio Global Illumination"
-    excerpt: "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ..."
-    publishedDateTime: 2023-08-16T17:12:00Z
-    webUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/"
-    ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
+  - title: "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance"
+    excerpt: "The new Bing with an AI chatbot is called “cute, but not a game changer.”"
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is OpenAI Going Bankrupt? No! But AI Models Don’t Create Moats."
-    excerpt: "Experts predict that OpenAI will be bankrupt. Large Language Models and generative AI does not create a moat. But there are other ways to protect OpenAI's investment."
-    publishedDateTime: 2023-08-18T08:24:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/08/18/is-openai-going-bankrupt-no-but-ai-models-dont-create-moats/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 78
+  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
+    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
+    publishedDateTime: 2023-08-18T06:53:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df2494d38f87126b0c8ded/0x0.jpg?format=jpg&width=1200"
-        width: 786
-        height: 882
-        isCached: true
-  - title: "OpenAI acquires startup founded by ex-Instagram talent for undisclosed sum"
-    excerpt: "Global Illumination, Inc., is a New York City-based startup founded in 2021 by a trio of former Facebook and Instagram workers."
-    publishedDateTime: 2023-08-16T17:44:00Z
-    webUrl: "https://venturebeat.com/ai/openai-acquires-startup-founded-by-ex-instagram-talent-for-undisclosed-sum/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Firstpost
+      domain: firstpost.com
     quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_modern_bustling_startup_office_flat__96bfe510-f61d-44a6-9f0c-7090e3c6e8e3.png?w=1200&strip=all"
-        width: 803
-        height: 642
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
+        width: 640
+        height: 362
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
-    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
-    publishedDateTime: 2023-08-17T21:43:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
+    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
+    publishedDateTime: 2023-08-17T10:34:00Z
+    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "OpenAI Acquires AI Startup Global Illumination"
-    excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
-    publishedDateTime: 2023-08-17T03:50:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: Al Bawaba News
+      domain: albawaba.com
     quality: 57
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gmdny8uzalubdamp_1692244065.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Silicon Valley and other top global destinations for Artificial Intelligence professionals"
-    excerpt: "Here is a comprehensive list of ten global destinations that hold the promise of nurturing and propelling AI talent to new heights:"
-    publishedDateTime: 2023-08-20T05:36:00Z
-    webUrl: "https://www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/"
-    ampWebUrl: "https://www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/6-9.jpg"
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
-    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
-    publishedDateTime: 2023-08-17T10:56:00Z
-    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
     type: article
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Microsoft says that AI is the new “tidal wave”"
+    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
+    publishedDateTime: 2023-08-19T01:07:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
+    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
+    publishedDateTime: 2023-08-21T10:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
+    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
+    publishedDateTime: 2023-08-17T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
+    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
+    publishedDateTime: 2023-08-18T05:15:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
+    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
+    publishedDateTime: 2023-08-18T15:44:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "No, AI in Google Search isn’t going to kill online content"
+    excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
+    publishedDateTime: 2023-08-17T00:24:00Z
+    webUrl: "https://bgr.com/tech/no-ai-in-google-search-isnt-going-to-kill-online-content/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
     quality: 37
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
-        width: 1000
-        height: 667
+      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
+        width: 1400
+        height: 862
         isCached: true
-  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
-    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
-    publishedDateTime: 2023-08-17T21:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
+    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
+    publishedDateTime: 2023-08-17T13:57:00Z
+    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 29
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "OpenAI buys AI gaming startup Global Illumination"
-    excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
-    publishedDateTime: 2023-08-16T18:16:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/08/16/openai-acquires-new-york-ai-gaming-startup.html"
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 30
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "ui10EwVL8UZ1OETaKC/drmTmqoOXJq0M2JwDsFfKkXgqeibQzULvoYdWFsgoobyqFnUMOfbjDXYo1AwoEng9CY7R1D5mbcd9hfmi2lJXMcZu1B4PqAZBLBm0kT/fC7CMkF+ZAaXx7wBcpvGXVW2RfLDb9+jG+j8k2Vikc49BTVTYhc7O62j9z6019b7Bm07t8Wtv3Hu/VMWmXYY3qFAyVNbmpjKb+u1lL4Cnos/9hkkQvSgn1H5MOn/FTZ5T59NewxD+omfOjd8p1Nf4XRnGJDUel7QGdFUeJazD1OSU+8t+2muiZuBTrDpWWURaTymV/s5vt9Potw671YRl2F9Q1APgTjfRgFPRXaQnGBTeKRyEBdOdNES6wwhvvidRzykjFLEJaOmZWcyBvyKAJ3n1EVxUJwaEndkBHHnC3l7o0z67Jc+n8Q1s/9L/5v5LfLjhM5culE/xU9rmUTNjjYfGXaiS63obHVCWmlmQaVCPYuhua7AgkJtiB+hX0iOKO18kNjxLCFvEZ1hMRabI47TjHw==;g3CLtLCBu6BnSJpaSEO46w=="
 ---

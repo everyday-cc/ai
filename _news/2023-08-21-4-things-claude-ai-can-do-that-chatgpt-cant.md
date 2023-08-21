@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
+  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
+    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
+    publishedDateTime: 2023-08-17T10:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "OpenAI may have to wipe ChatGPT and start over"
     excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
     publishedDateTime: 2023-08-18T21:35:00Z
@@ -139,6 +153,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "gk+D/Vv//swUqRquVut1Q6VRb12zrHRYKxeZKrtkpx9VK0trNH1aLdtx2+Cr6COSdfsnqQaAdXbVpRmr8qF/OnIu0S1/rfn+dUF+0HPWSltu1b1g8dD/wldI0AUh/G0BERDD1fZKfsTz1wlnoV2IWcy7p4pT1W5JP9UHMNJN490lLbb+BLNReeqogyEzTDu6Cn00nwP2dXQHUPv3F+h4rvsCePZhggz04ZShXcNPoO0wjTIqs/FWip6Va8XbsGm0R7HGeMFwGZVykRSywTYz5BCOxDw34ZdT2MjSmNG8xR1rFBoZuc6hcN5c84hxbicmrpseJgNv0Q8x+rdWyffQXXS5dCOUTr9nBUWGn0njNvE=;zIwSfBzytr7Z7VPCtK9L0Q=="
+secured: "+aGPA8k778l8euYz6KS6g0xmT/2DT2oHPGfHpYltJ/CyEbWLVGJdtdXErUzXBkJc4f1qcljHhlwdFGaw4uordyxGovknVSVqfX/njFJ4L/2pDfnQYPQ8+AUBt+AVbYuJ4x5YKMGKSPlHb0OAe0K9VWOdjJMawhYaaMPKBXsJW483wii1XDBJJhaszD4Jr5ClarNWidEgWVbNVKaITigo5xA5Mqd8kKacuhNw4wZrJpCD//ib9Y6vRVzwH6xJas5gKmY6NCn8BLk73hwRdFua+Bijw0Eul9OjaFsQ+f5BtZa/iM8FXu0IV5qj72UST73RYJ7nqUrZ0IwCkRWsRRqurerIfLQBuOnwD3bjacPrtrEpKzD+1dy9iQWmgwKVAQRK9G7EC/cc9LcXqhWcKl1NsXfkWTRFsD3EIFCb0fQabIwmHQjpmP8FQsj/I4C1OZrLpHvQRoO7y5poSD5biHHcjsZncDRWhPBnzoa3juBcu3xS9fnru0KywHR13kfyONJe+ck4ezRdqj7TC6exLS27BQ==;Jys1nJdx9ZvgjpruPN0xlg=="
 ---
 

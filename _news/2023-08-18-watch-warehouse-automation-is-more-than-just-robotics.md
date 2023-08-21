@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/37872-watch-warehouse-au
 webUrl: "https://www.supplychainbrain.com/articles/37872-watch-warehouse-automation-is-more-than-just-robotics"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Watch: TSA facial recognition software at the Des Moines International Airport"
-    excerpt: "The TSA showed off new facial recognition of at the Des Moines International Airport Wednesday."
-    publishedDateTime: 2023-08-16T17:50:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/2023/08/16/watch-new-tsa-facial-recognition-software-des-moines-airport/8357650001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/08/16/PDEM/c9ff1f9e-b837-4753-baae-9ea7690a8e3b-181c20ff-ee47-48cd-9241-fc5012523b36_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
 
 secured: "w8GMhPQo1PyXCUnB5TaXnqaTxakkt9UuPToUxBSHngBi6UYZCFa33NRkrwvsVfb2zIjshLfabiKwDCBJRdDsAUWwyixPBOa8RgjJhPcaJN4WVv0C04W6BL1LNMSfJyG29Nr4ZySUtdGIROc3YsBWvccFfkwds0Lt9pSLvXE786UuE13Tz2+ywAtP0eNX1EO1LnkhvWHSW1KC6fSQm8mvMaBmFlpOgd+IpUfkUaWFBlIQID6HuEeAQlHd1u61l1oYJh+SAr1Q1vT/nOdZsmiAzd3V1AkrTm+Co/h45r/QxJvrr5eeKTjn+EaYVipdHKgBm1iHKJsQYigx8aGckSOB3YK+AqrqDHi9Aqt4+CxPUkFoDn5ZnYNlbiFAULrKm193773BLFQE2Dfffaro/D2WA9k4NINTW+DVbWsszNZqjHwOCbUxMz2Nfxh1rEvhS26CLdAival9lWgtxRO/UN+6bX1HGwnowQSoMbxCSEuxuQ5sRDfTs4c8Qv9+q/c/nTvO6SAbbRZ7twOQMflC/LUOOQ==;fGIxMjPciLwCCG8TzLoFkg=="
 ---

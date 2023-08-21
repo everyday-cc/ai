@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Salesforce's New Sales Gpt And Service Gpt Drive Productivity And Personalize Customer Interactions With Generative Ai"
-    excerpt: "DUBAI, United Arab Emirates– Salesforce today announced the general availability of Einstein Studio, a new, easy-to-use“bring your own model” (BY"
-    publishedDateTime: 2023-08-16T17:46:00Z
-    webUrl: "https://menafn.com/1106868160/Salesforces-New-Sales-Gpt-And-Service-Gpt-Drive-Productivity-And-Personalize-Customer-Interactions-With-Generative-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/16/M_9fd0aimage_story.jpg"
-        width: 1270
-        height: 714
-        isCached: true
 
 secured: "IYX7cYk5kHOd5PXUdXRRrJEk1og7Kd5KBGqLB0uEUoMDyH1kUMozQMtJz/E8dC6iYeZwOdRYxlx4hsPGb9/R74zuDrN7GB/1BZtcLHwUE9UQAKdiSnX72S4auLVQskfe/j8mbgiuFt5iZOHgEGGe+aMTZPmozof5CG4hbRTZbz9OR3kI6nq23Tu+RNoPUYUnZ5LntfGPPKPzP7ddCEgnR9dCslMvTX8SfdSy0foEyUS/rsPLPnnVmQM6xvQ66khfULoH9gGZSjIFzSd7gBeuF6ZYMUNQwWaS6QkTVdoosrQfBHQy7BYZH0scVYb/0bESbJf15F0VRthlRRRF5mAMiJAQWm7kG4Tb2qMDAKZpwnYKn8WWIVeHiPxsTv3JVKkYf17LXrXKeMmSScmop4b6iE9B1zJPDxqT9VtPBFXHAhL7Mp7T0cFkxfcwmSW3XgKbQLvUzQRU5mbrPyHg2i1Q2ajo5+FQlUdPgNyBoRLz/VGb1vrHuELm4JYpz+3fhP9CqFxr1bGGkfO7ve+BkQmezg==;p7FDMWS6RTN7vCYwqhBQ5Q=="
 ---

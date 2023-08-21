@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is helping expand accessibility for people with disabilities"
-    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
-    publishedDateTime: 2023-08-18T14:30:00Z
-    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
     excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
     publishedDateTime: 2023-08-18T18:12:00Z

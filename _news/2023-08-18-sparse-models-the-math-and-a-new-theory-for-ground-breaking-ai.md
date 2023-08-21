@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Navigating through a world with growing and advancing artificial intelligence"
-    excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
-    publishedDateTime: 2023-08-16T17:56:00Z
-    webUrl: "https://www.wuwm.com/2023-08-16/navigating-through-a-world-with-growing-and-advancing-artificial-intelligence"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 16
 
 secured: "WMxxJZy5LaVScizs4GQ+awrUOc0jqgB1JEZGyrVyjTmzZQfreB/VgR26Z5JBJ4HESqE8frqP4iPh01/i3CjvDae3ZLootldMCReN4UwpXbCrXm8fF9zW5V4z/l/wtYoi8Ia7Ct0dmGzkVetQiQuZSq8HERVAfp3s39FqjjZ9smyck6Usr8mX3FBNTi1gpU7AhT+O0MyAjzko7DHFgXmWjnqbzym3SWE1WuvyvPBH6cy3RGg/s/Dx/1gXmcYQ7QyYVOkSKVU/L42Sq6hn4PSew40Q6J5ScCG1qh31MauocdCJeY7IhDHmAYBOGc/tjC8/b4e7Zfa77kI+kO6pdgr8LLUcqsp3GizhLGEr5pAPHMeh8CFpl2Z/PHfiPAh1MiMHn7I+GZf5YE0BZ5MHApwM2B6x419MuJkoe/WoYFfsfyxI/0SqgcO+bngDtDdASINlIW/yrYNKtE6vQi+/KIUMAWHIZpk3crKKPVZj9mnCZvV/15ANQ9Nl31x7PErXR9HmnlDimTWut4LKqefagRhn/A==;mgpTzs9WzUl3LB29IiwZZg=="
 ---

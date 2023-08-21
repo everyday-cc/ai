@@ -42,15 +42,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Report: Nvidia Is Shifting GPU Production From Desktop to Laptops"
-    excerpt: "The report from the site Mydrivers states that Nvidia is currently attempting to meet the needs of laptop manufacturers by giving them more mobile GPUs. However, to do so, it must reduce the production of its desktop cards,"
-    publishedDateTime: 2023-08-16T18:35:00Z
-    webUrl: "https://www.extremetech.com/gaming/report-nvidia-is-shifting-gpu-production-from-desktop-to-laptops"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "t7ONzf8LqZK93h6g2O3xmnquyTTu4ANhH4VfPHWzixOk8FUYaHaFAdjd2JatWzPOLGn8giBr3QlsfZG9/P4Wuda8O7XsOaPBfLK/alctBtTo9ZZMiab8/Fjp8ePKVq12VesFrKI2yXDF2yTH3nvXH2gyVHPgA3vUKHJorp0++riZ0xPur409YjXQO9LMKwsP8vGjCPW0UCkWu5jkET0mG9cqGLbG4WaG3wwpnjz1rUoxxOxvl9ijF5tjKouHnLcZFHrvR8go4BSUnTMPUmRttsefGdQAc+rnWomA+6QYEE4+DlsxBryxPaHb9c3Zx00Poiaxn/0Jok7JkkbbEtdCNFw9ECgb75xxA0c5QKGR6OGZnCOS3h53LLKxy5WX5ikXBZm9dd5uq4+SfW9lJS7uV12cKgl+03GLAaJzDZs3LVOg2/+NeoS7hPtAt6oOLmcj/7t6tiyK4TO4SGCz4c/oeauxYM+2lRJRmqTu5wHdpjeyYvR8O9vJeqKAJj4ySTGHaafoujSBMS1sBT6fzypy8A==;mKVo2fMdpzsQc7ONoqcM6Q=="
 ---

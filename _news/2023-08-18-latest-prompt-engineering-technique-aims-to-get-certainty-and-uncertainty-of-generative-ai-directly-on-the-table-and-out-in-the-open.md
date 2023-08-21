@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-eng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes"
+    excerpt: "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful."
+    publishedDateTime: 2023-08-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e2ce5257642d1784c7148a/0x0.jpg?format=jpg&crop=2377,1584,x0,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/m2b8gUwRnAO9Rkdm/2nmx4j4wlSDCyZg8bIZi+S37h/vbimcuQgRt9/nNSdd7E9lEECQ9QWq0RfQTZGNf37RTUj3e87QcFdJEjIL0u/awu+Ft0dxH9MgMMBpG+b+fnApAcxQySJAYe2p/QR0bPmRK3DjX8Fh9j02fTE4WAhAQaoitCnwczMUVYmSOAcCLlyZuewSW//jJsQPOWNkJB202ivAQsk5lnA6YtYnfNHzCKtuK+5vLm1WXILcU5ypt0VFW8n8uefzhDTHFzRzC9zKvwI4kYELTE99bDXZfvwLZnOKMHcf9FMqRUqIs131cdYdmuKduRfjSZ6NBiPo8hhI5n/8dWfL+kBSVFv4nfhNfA2+rzI0lWxRF9eRmUyyoxDt6AR3C+JPeU2Saq9irgsHVn+6X9M6eneLyCb1HGnV25fDuVoSuWYB3wtyPxsHscfgiw5nX7wOYQMfB7HyLVyK9kxdFZfv0IX9Z0r/YZNzRWXTyQPPMr6uw2PaEl3vvUWeI5NcZxcpT1a1NEc+dqjZw==;Ewo5USkugLxweETAQ/gTRA=="
 ---

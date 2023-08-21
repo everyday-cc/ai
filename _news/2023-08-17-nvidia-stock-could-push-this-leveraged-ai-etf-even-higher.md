@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The AI hype means Nvidia is making shiploads of cash"
+    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
+    publishedDateTime: 2023-08-18T06:11:00Z
+    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
+        width: 1187
+        height: 667
+        isCached: true
 
 secured: "OTyhXGcIkPogPRRoyR+K9UH9mPb93NgdZqDrWBrWWgFnazn6uzFFIPRsDEs7bwLA+DbiTmjJ+nifp4o/DIaDh7Vu7S7DJ3+OTnUYFWLTLmBguHYILVdqclMu+W3YcnuUO/FOTKdJkWwE9IEHj65gOzUhB2l4htR858JsZT190LIEP+Srz92p/hTRyhv7QAx2oloKiIKoVKeRWZ3ISfkc3nmmbnxlmNxvKxUWTyDBhSqkpp6nVXq897oiuQG5htn5sN8x+k7iAHg+MAzE2hM5za6ftOaBgOZt8iM7u0L/rQYQkt/QZzjSS4X45KtO5knx/1fbYvq6dPNbrK+ll4Yttt9GLz8tvo7pFayHS05Fgi8=;imc+eXEWz/6V7mfK1omkfg=="
 ---

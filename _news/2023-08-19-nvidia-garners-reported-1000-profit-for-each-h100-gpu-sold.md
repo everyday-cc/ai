@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-p
 webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Report: Nvidia Is Shifting GPU Production From Desktop to Laptops"
-    excerpt: "The report from the site Mydrivers states that Nvidia is currently attempting to meet the needs of laptop manufacturers by giving them more mobile GPUs. However, to do so, it must reduce the production of its desktop cards,"
-    publishedDateTime: 2023-08-16T18:35:00Z
-    webUrl: "https://www.extremetech.com/gaming/report-nvidia-is-shifting-gpu-production-from-desktop-to-laptops"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
   - title: "Report: Nvidia Is Raking in 1,000% Profit on Every H100 AI Accelerator"
     excerpt: "However, regarding Nvidia's H100 \"Hopper\" AI Accelerator, we finally have a ballpark estimate of what each one might cost, thanks to some financial analysts. The sticker price they've come up with for one GPU is $3,320, meaning Nvidia is pulling in roughly ..."
     publishedDateTime: 2023-08-18T15:04:00Z

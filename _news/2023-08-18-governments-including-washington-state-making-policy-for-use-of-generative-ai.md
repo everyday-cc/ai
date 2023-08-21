@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11e
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/intellectual%20property%20IP%20copyright%20folder%20calculator%20laptop_0.jpg?itok=ooS_1YBs"
         width: 500
         height: 362
-        isCached: true
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
         isCached: true
   - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
     excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."

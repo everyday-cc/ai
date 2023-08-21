@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?"
-    excerpt: "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
+  - title: "AI Funds Are Missing Out on the AI Stock Boom"
+    excerpt: "AIEQ beat the major indexes for its first few years, but then got clobbered in 2022 by the stock rout triggered by the Federal Reserve’s aggressive interest-rate hikes. AIEQ’s total return since inception is now about 44%, compared with 93% for the SPY ETF, which tracks the S&P 500 index, over the same period."
+    publishedDateTime: 2023-08-21T10:41:00Z
+    webUrl: "https://www.livemint.com/ai/ai-funds-are-missing-out-on-the-ai-stock-boom-11692614080251.html"
+    ampWebUrl: "https://www.livemint.com/ai/ai-funds-are-missing-out-on-the-ai-stock-boom/amp-11692614080251.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-funds-are-missing-out-on-the-ai-stock-boom/amp-11692614080251.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 73
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "The AI hype means Nvidia is making shiploads of cash"
-    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
-    publishedDateTime: 2023-08-18T06:11:00Z
-    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
-        width: 1187
-        height: 667
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/im-835396_1692614370660_1692614384997.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "agkQhmy+9n2lGdbjsPMrUkZrBFY1sVCTKB1PUaZNRKJKmEjZqy+fJR0NIdnQkm/pfhaD6pQlApm9XdL7+03WFeiY+LuvB73hlnKXnrHykW5rKjIm8mgr9OYss9o6sZoOIFjpDa/YE2skCJ5hdmJP5tk8JClBNcl7imYVeR1fFIXnBS3BmEkn+Z5yQX4k9rYY832b+7wGb1ErV3MMiQd1ajfhh3uF1n5D/jOJvYvGKQnYbUxThrCqvckfQ9NzMjkU8W94BERq+XQRhymxTOeO7Fd5h3XFd6brDzzbO0yAUrtow/Z4eOhKYj+a5dXIfU+7fWrtn0KaLuIqhVM1dowNKs8uGqV683xpgCm6fOc+0Ue9tyxX1wL7ogahQTc1d1NMxv+WYLZrpyljCqsAIrKTTKvKiDPm2h/p+rJP48qngbc+hXrTX7wlpM83tS7CUjDyvi6x+bLVGyHmwrxBZuXU9nQl3wvhAA1ZqPVJLeGGe6IGpK7GCatUe/KcagWXEoy4lSGWsnyeWQhvYgXuFBPRRg==;k3ln2HobVOXN6gHf6M7K3w=="

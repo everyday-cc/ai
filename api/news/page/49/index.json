@@ -2,6 +2,411 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-07-18-goldman-sachs-reiterates-baidu-buy-recommendation.md",
+      "title": "Goldman Sachs Reiterates Baidu Buy Recommendation",
+      "excerpt": "As of July 6, 2023, the average one-year price target for Baidu Inc – ADR is 184.32. The forecasts range from a low of 102.01 to a high of $246.75. The average price target represents an ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "originalUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2017/06/baidu-logo.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "publishedDateTime": "2023-07-17T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-un-warns-of-ai-brain-chips-on-steroids-that-could-control-minds.md",
+      "title": "UN warns of AI brain chips ‘on steroids’ that could control minds",
+      "excerpt": "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
+      "originalUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/07/SEI157712892-0324.jpg?quality=90&strip=all&zoom=1&resize=600%2C343",
+          "width": 600,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
+      "publishedDateTime": "2023-07-17T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas.md",
+      "title": "Ready to roll? A new driverless ride-hailing company is coming to Dallas",
+      "excerpt": "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
+      "originalUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2023/07/Driverless-ride-share-Cruise.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
+      "publishedDateTime": "2023-07-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-this-week-in-data-how-to-choose-the-right-generative-ai-use-cases.md",
+      "title": "This week in data: How to choose the right generative AI use cases",
+      "excerpt": "Guest Head over to our on-demand library to view sessions from VB Transform 2023. Register Here With the rapid developments in generative AI today, what should your business be focusing on? This week,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/",
+      "originalUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_78287420-8e7b-471c-8e37-7be83210f0cc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
+      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
+      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-why-overinvesting-in-generative-ai-could-be-a-trap.md",
+      "title": "Why Overinvesting In Generative AI Could Be A Trap",
+      "excerpt": "Generative AI is the hottest property in corporate innovation ... relatively cheap experiments to test your hypotheses before not after you commit resources. The typical startup is forced to de-risk a business model because it starts with relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
+      "originalUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b5a8b0d0939b4ab7248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
+      "publishedDateTime": "2023-07-17T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-miko-the-ai-robot-teaches-kids-through-conversation-very-personalized-experience.md",
+      "title": "Miko, the AI robot, teaches kids through conversation: 'Very personalized experience'",
+      "excerpt": "Miko is an artificial intelligence-powered robot that was designed specifically ... the parent can give it some context so that Miko would start engaging in more conversations around those topics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
+      "originalUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/stabile.png",
+          "width": 1222,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
+      "publishedDateTime": "2023-07-17T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-congressman-says-americans-could-be-the-losers-in-the-ai-social-experiment.md",
+      "title": "Congressman Says Americans Could Be the 'Losers' in the AI 'Social Experiment'",
+      "excerpt": "Rep. Adam Schiff calls the entertainment industry the \"tip of the spear\" in the battle against the disruptive use of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
+      "originalUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/Decrypt-Wallpaper-Format-72-gID_7.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-artificial-intelligence-wheelchair-aims-to-put-users-in-control.md",
+      "title": "Artificial intelligence wheelchair aims to put users in control",
+      "excerpt": "More than a billion people around the globe need assistive technology to go about everyday tasks independently. A new artificial intelligence (AI) wheelchair is taking assistive technology a step further and giving people their freedom back.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-61.jpg",
+          "width": 448,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
+      "publishedDateTime": "2023-07-17T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-this-new-ai-tool-transforms-your-doodles-into-high-quality-images.md",
       "title": "This new AI tool transforms your doodles into high-quality images",
       "excerpt": "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt.",
@@ -749,409 +1154,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-computer-vision-australia-oceania.md",
-      "title": "Computer Vision - Australia & Oceania",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$0.59bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.47%, resulting in a market volume of US$1.35bn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/australia-oceania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/australia-oceania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-natural-language-processing-australia-oceania.md",
-      "title": "Natural Language Processing - Australia & Oceania",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.63bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.02%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/australia-oceania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/australia-oceania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-speech-recognition-australia-oceania.md",
-      "title": "Speech Recognition - Australia & Oceania",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$180.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.23%, resulting in a market volume of US$517 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/australia-oceania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/australia-oceania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "The demise of self-driving startup Argo AI has overshadowed the ongoing efforts of others who are pushing for wider deployment of robotaxi networks. Waymo, Cruise and Baidu already have commercial operations.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://europe.autonews.com/automakers/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-and-government-transforming-public-services-for-the-digital-age.md",
-      "title": "AI And Government: Transforming Public Services For The Digital Age",
-      "excerpt": "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "publishedDateTime": "2023-07-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
-      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
-      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "publishedDateTime": "2023-07-17T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how.md",
-      "title": "Expedia adds new AI features to improve your travel planning. Here's how",
-      "excerpt": "Starting early next month, this conversational planning feature will also be coming to the Expedia Android app, which will add some new features, including the ability to save recommended activities to a Trip Planner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d404ae16ccb038123c2ff711e92b6754c6d53ec5/2023/07/14/3e0e769c-fa5d-4dde-a5d5-7363652528c5/gettyimages-1273914366.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
-      "publishedDateTime": "2023-07-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-artificial-intelligence-is-revolutionizing-stock-investing.md",
-      "title": "How Artificial Intelligence Is Revolutionizing Stock Investing",
-      "excerpt": "In recent years, there has been a major shift in the way stock investing is conducted. And it's thanks to the rapid advancements in artificial intelligence (AI) technology. Investors no longer need to rely solely on human analysis and gut instincts to make investment decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64760b103ac0d58b057b69d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
-      "publishedDateTime": "2023-07-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-machine-learning-market-to-hit-41994-billion-by-2030-grand-view-research-inc.md",
-      "title": "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

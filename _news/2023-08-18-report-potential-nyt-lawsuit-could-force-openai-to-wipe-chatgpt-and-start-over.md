@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-law
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/amp/"
 type: article
 quality: 83
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
 
 secured: "B7S+ifyK8olWNebSgO9/VYSOWCuD/vVYbpkW3I6Dq5eyMAmcJgPl+zsrW23FZxX6/e514cdGa2A1LXXT0X33ALyVngINSN1bri1VCyI0kewUaXznz5SWZHGjkznQ3H+Tjhl1/+Ir/2goImk2dMGKLPJPyp3X46Ll60vm+2fDdop4Cswhp3XCuvfjniyhnw42CssDWVqku8DcINaAXwZldJ8cP1NbpGBw1jdisyxdH8+nmppZoc5dsc7GuQBqJSE7G3Rgzr5Sem+vcs2k32KFDltYf9adRqV2U6q9EyAm/JVYdkQbNPo643qX5Dd67wJb5heYR2gLExmjE1eamLBUsRkPQ+9kNQrC961R9864WS0=;wzxOr/SZNliFQgnJNiAqow=="
 ---

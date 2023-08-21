@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuo
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: InfoWorld
@@ -30,60 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
-    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
-    publishedDateTime: 2023-08-16T17:18:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Gartner: Generative AI Will Bring “Transformational Benefit” in the Next 2-5 Years"
-    excerpt: "The AI subset is positioned on the firm’s “Peak of Inflated Expectations” within the Emerging Technologies Hype Cycle this year. Hype cycles follow the maturity of technologies through their lifecycle, explained Davis. All hype cycles start when a ..."
-    publishedDateTime: 2023-08-16T17:41:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-hype-cycle-generative-ai/"
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr816123-gartner-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
         isCached: true
-  - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
-    excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
-    publishedDateTime: 2023-08-16T18:49:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-hype-cycle-places-generative-ai-on-the-peak-of-inflated-expectations/"
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
-    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
-    publishedDateTime: 2023-08-19T01:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
+      name: Law
+      domain: law.com
+    quality: 29
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
@@ -94,16 +81,7 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
-    excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
-    publishedDateTime: 2023-08-17T12:25:00Z
-    webUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
 
-secured: "EUmN0u8Tf+iYmxMj2xmLbHFhozDXwYq9xBg8nBuBGuijJ4/Ssqy+so+CXjzuqVpsYVWIdIqUQOkxqdOMrWRaiemJaLLSygt6APCo7icSpOBvP1i1ldLU3APVSi5mym1YbPzIoVR1fqTqJbvX+F89f97YVJnDS2yf8USD2BNqVPPahtXEdH8Q3q6bK9L7O8R1asF2WUUfQyRQbsXsf0vfIZBKv9YMISlHT2SA3fDXBzYGdBpJgWKkyWXM/Y4ORs30BfU/o5aPJSdORCwhC8PGPCLpE+9jn+R/xJZaq9+vV/1VMrcD1lEYrZy9E1SznQPAZG+l3cxoVp/dCr94DPqRblEmVxE8iZOsrMnIO8ScxUw=;pJPIsEH8JWSUKCbHOE8M5g=="
+secured: "d7DsHxQxEmo4TKXFsbyroJ8UnhGqLp6xZmd+VW3LEW4tAy+sHChVisJ5x8VwXDBScfzqjMz371PdSRBD6B/VVBf46GD9DBkgNN6D8X7TW7I/Dk8QMAodQGTP8hrILOUAvZqXrC5xlRs6GcOQ2J/Us4gJ20sqxDpRfVCsSxkIZhx/Kyl2KSn3dSlgu88Osvo+WXomPhZYPwf9x6PUFRlRq6psEGLhJ9j9t5co0cB10iSarL0P5l8iyp4yBDpvza2RKEMPeDRaQst81ljwrplMRk6S/muvZDI/SynBVzgkLAY0WvKX59Hqig27ym/G0HTFNYijoBXjmA+TcnvOW7ZFH8HJflpLF64QfkgolvLSBE2iHL6Ba3qJobj+1sOba/dqxzufnpxBTh6nguH2aowJPFMxxJtkBkp41au1gvbKSl4bfqo7y19JLQx5HINaFOMrheShbSjwckdIOMymX/Du8cxQUv+3hTfhE+ZT8obv8PjqE6e1GjD/GJGjFwynLTBDVDhOXayy2vKc0SozIlA58Q==;Nm621Pd8n5b6DAOwnLnzcg=="
 ---
 

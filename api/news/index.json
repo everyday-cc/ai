@@ -2,6 +2,343 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-21-does-ai-pose-an-extinction-risk-the-guardrails-to-keep-ai-on-track-without-stifling-innovation.md",
+      "title": "Does AI Pose An Extinction Risk? The Guardrails To Keep AI On Track Without Stifling Innovation",
+      "excerpt": "While many doomsday scenarios may never come to pass, AI does have the power to cause the dangers that are being discussed today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y125,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
+      "publishedDateTime": "2023-08-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes.md",
+      "title": "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes",
+      "excerpt": "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e2ce5257642d1784c7148a/0x0.jpg?format=jpg&crop=2377,1584,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/",
+      "publishedDateTime": "2023-08-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023.md",
+      "title": "The 3 Most Undervalued AI Chip Stocks to Buy Now: August 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For much of 2023, the AI boom has sent chip stocks to dizzying highs. It",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all.md",
+      "title": "How AI Is Opening Doors And Making Entrepreneurship Accessible For All",
+      "excerpt": "The AI revolution is ushering in a new era of entrepreneurship, where the barriers that once confined dreams to the realm of impossibility are crumbling. Time, money, access to information and networks are no longer insurmountable obstacles, and entrepreneurship is now a more accessible stepping stone toward a better future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/",
+      "publishedDateTime": "2023-08-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector.md",
+      "title": "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector",
+      "excerpt": "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg",
+          "width": 1654,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "publishedDateTime": "2023-08-21T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-uk-commits-100m-to-secure-ai-chip-components.md",
+      "title": "UK commits £100M to secure AI chip components",
+      "excerpt": "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components",
+      "originalUrl": "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-openai-meta-and-tesla-desperately-want-this-nvidia-gpu-but-why.md",
+      "title": "OpenAI, Meta and Tesla desperately want this Nvidia GPU: But why?",
+      "excerpt": "AI faces Nvidia H100 GPU crunch, stalling projects. Dive into its tech features, production challenges, and the ripple effect on AI's future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
+      "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/nvidia-h100-1280-3c1f6abca9.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
+      "publishedDateTime": "2023-08-21T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-4-things-claude-ai-can-do-that-chatgpt-cant.md",
       "title": "4 things Claude AI can do that ChatGPT can't",
       "excerpt": "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus .",
@@ -10,7 +347,7 @@
       "originalUrl": "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -104,21 +441,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-21-nvidias-gpus-why-are-the-hottest-items-in-the-ai-boom-in-short-supply.md",
-      "title": "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?",
-      "excerpt": "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out.",
+      "path": "_news/2023-08-21-3-ways-to-upgrade-continuous-testing-for-generative-ai.md",
+      "title": "3 ways to upgrade continuous testing for generative AI",
+      "excerpt": "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up.",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/",
+      "webUrl": "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg",
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 667,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -126,14 +463,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/",
+      "ampWebUrl": "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html",
       "publishedDateTime": "2023-08-21T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -142,7 +488,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -242,7 +587,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -293,7 +638,7 @@
       "originalUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -630,7 +975,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -851,359 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-modder-converts-95-amd-apu-into-a-16gb-linux-ai-workhorse.md",
-      "title": "Modder converts $95 AMD APU into a 16GB Linux AI workhorse",
-      "excerpt": "A modder recently published instructions for coaxing AMD APUs that cost around $100 into running AI tasks usually associated with far more expensive graphics cards. If",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html",
-      "originalUrl": "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet.md",
-      "title": "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet",
-      "excerpt": "English-speaking population of India to the global Internet and help them access it in their regional languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tpps4caa50qgrcjo_1692421617.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html",
-      "publishedDateTime": "2023-08-19T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
-      "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
-      "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "originalUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64dfe024bd98a6001979d253?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "publishedDateTime": "2023-08-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study.md",
-      "title": "40% of workers will have to reskill in the next three years due to AI, says IBM study",
-      "excerpt": "The executives surveyed estimated that 40% of their workforce will have to reskill in the next three years due to AI implementation, totaling up to a whopping 1.4 billion of the 3.4 billion people in the global workforce, according to World Bank statistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "originalUrl": "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "publishedDateTime": "2023-08-18T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-have-you-used-generative-ai-to-shop-17-of-shoppers-have.md",
-      "title": "Have you used generative AI to shop? 17% of shoppers have",
-      "excerpt": "The Salesforce report highlights that 17% of shoppers have used AI for purchasing inspiration, highlighting how the technology is rapidly growing in retail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "originalUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b588846719e720a0532553f47658527cfea51d1/2023/08/18/d1a579a5-d6a0-4deb-ad21-718a5ef80876/shopping.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "publishedDateTime": "2023-08-18T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers.md",
-      "title": "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers",
-      "excerpt": "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
-      "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
-      "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-18-image-19.jpg",
-          "width": 2000,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
-    excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
-    publishedDateTime: 2023-08-16T18:51:00Z
-    webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 15
 
 secured: "ghiEUuosEt/e2zbaG5GiiPhZoOzMBf5YkNcCPdmxlt8YnFzKhlzFO10l0czQICZUNbNM+sNhqSWOGv7fedcV/M7Jy1aFP80jMLTUK2pxPzT0hncR/SQKHfpcmpkMf0j+4d0KbEq72CtYlqTTkg2K0eyoiUt3aRlJk6MJBbNGhtHLzuAaUCl5mMem1F+IKqk/oirS67grUO8cHqVszIiC0+oxB9EJ5zNafwcLCOeXW2Ubbym6gO7259Lu8QO1mKA39tza0w+ybRaptFvdUnr1N8FYo92j5op2z5ZAlUiJ6Raab5j23q+J9gJrqtWGaY0M3XcmWb9FRDwnUYPwYkf81l+1ixQ1uUtJ3spvPwyIk/ZlmvVdSwcGDGWPWtFKwiJMPw1+maKxaq1PcI7tdCTSmwmhtmRIediFAJeTQlZw9Sy8hwwbR5Phd29CUnqXo0ojx5FUUbi6TB+WIyisvkm+Ma1Y4v+KVW0/mqZNuqmAjfUZjELOOU5jP2SGEIv7ecnvgy9v9ZhkUiIyCf6Fkx7pkg==;/v5Iz/agNXOOWsx1lsnU4w=="
 ---

@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
+    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
+    publishedDateTime: 2023-08-21T11:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "31% of Organizations Using Generative AI Ask It To Write Code"
     excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
     publishedDateTime: 2023-08-17T23:32:00Z

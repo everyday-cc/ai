@@ -41,7 +41,23 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UK moves on AI plan with chip giant talks"
+    excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
+    publishedDateTime: 2023-08-21T10:34:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
-secured: "H2f1hVuSr4Ou0vUIqr/5EfLofYYMfFNMXa/7tnvdI2HFnFx04ajUr2jFy4qIup2VZT59Dgi8/I6gD0TPoSwbEmyM4X6d2EPA72SSDzJUXUTlKYfunn78XiMLBjJe6NcSsz2rGoYkChe+uyaaM3tyD5B5cE5WGy7yFPg4k6fbW7TDQQmimEnxgwwkRlGwEqLJbqDkiuthHNheveMvM0cR7ThFP/9s7gW4rLAGnqhCgDeKH/q5TM8aAZblREBz6GnCs8U2kCeptk97rmXG/sRNt7ocJzxYkthTeCc4pC3JLFR6gal3rr6PqcQb2/HYh/TwrNi5aLnnfuNLdN62ajlnwMnTGE8z6iC0YSXKBZ79Yxo=;TLaCs2VV+bYJkZv3yivkFA=="
+secured: "Zgq9CX62wKMilGJy5fHXWrV7QF68fv1eiOv6pdpGvyaYvxBCOBekFlaOTekxGTf4deSLTkQFb9lmPyaPRTq+tT7/ACjByTTpGnv7RaATD/g3Ke7Wn1kyXwyVFWDbl6lsatOwWXHHDER2IXVcDevBZOHh/fr3UDpgc7WpyrdRIQPNCeYW9xwOSsGRJRRY72Z4PKPbSU91N/N0wUHNrDLQqn419O+AXKCVC9XJJR+O9G59fFu8RqHOhK7eKcrQu7M+Kf5Nhlqmm4tWbJClueEaQU2xZ3D/v414G1yzi8Je2e1daY5EA0r1VpzwugATCP/F+BhlMWPu1nsdlGDbw0I1hWvYDgkCmoMw4mjhv55LKdO1FOCGlvUfBX8ag9A+4KYhx635PJmzjpHEx5dMBfZAnuz6rjHJ6gv/koB0dCAd3p4USjVOPvVov5wflbvTJI2qoRwqypx9Dq+8m6QkLQS3l32zOSi0swHvCgeNzqwRjjmf0TBIcc+3FA4PYO+IS1ZuYmJp5nm5Juh7bGgGWswIdQ==;881j5WiM8/eC1qmrG8rA7g=="
 ---
 

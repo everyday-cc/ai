@@ -25,31 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "How Cutting-Edge AI Technologies Are Helping Companies Establish Trust And Credibility Through PR"
-    excerpt: "In the fast-paced, crowded business world, credibility is the one thing that can cut through the noise. AI can assist in delivering high-impact PR campaign results."
-    publishedDateTime: 2023-08-17T02:24:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
+  - title: "How AI Is Opening Doors And Making Entrepreneurship Accessible For All"
+    excerpt: "The AI revolution is ushering in a new era of entrepreneurship, where the barriers that once confined dreams to the realm of impossibility are crumbling. Time, money, access to information and networks are no longer insurmountable obstacles, and entrepreneurship is now a more accessible stepping stone toward a better future."
+    publishedDateTime: 2023-08-21T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dd82facaec195bbc3d5165/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
-    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
-    publishedDateTime: 2023-08-18T18:12:00Z
-    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
+  - title: "Agencies and AI—how major shops are using artificial intelligence"
+    excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://adage.com/article/agency-news/how-major-ad-agencies-are-using-ai/2511196"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 19
+      name: Ad Age
+      domain: adage.com
+    quality: 52
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230815_WPP_MNTN_Wunderman-Thompson_Publicis_3X2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Assessing AI readiness is paramount to execution"
+    excerpt: "Without an AI readiness assessment, an organisation can end up doing proofs of concept and other initiatives without understanding why they’re failing. Assessing readiness, meanwhile, allows an organisation to identify any gaps in its capabilities and address them before implementing an AI strategy."
+    publishedDateTime: 2023-08-21T09:22:00Z
+    webUrl: "https://techcentral.co.za/ai-readiness-ai-execution-fnbprom/230200/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "w4RTMB9b0tY6eMT8CfWc7r/E+4/5ke8NSrVdYm+afOpAx5i91DJILCT0ujx7wNy2IYS776rIec78+yhlfZoSxXEoVDFYowQGIGb2qG2bpvByxY3Yn9r0JgtZ2VQLR7wvBgcuheX+20E48B0xGDrtzjs/h7YBIGh27KA5sokfEXiW7Tt0emkTkyggSkkvNeq9WEKCQWKcVHC7lY9WqJ6AzsY28flt07wn2ofP/2oaN1sAXuLQPHtUsCqC96sRzpG58AUwAx6XV8GamFYfdO/C0apDGAXFO7sAVkoJ7js6N7scI6l4W8KC0m3FubmL9E6bMwde32OvmUrcm+XhsTOdyYf7rLRT2BcoqytXw49YXgbgFeyj91XALAKZpGr8hZtYuQgKoNeoAGnBJOBekytZn8D4ZKsJr9LOO+IlQUevGrESUzdgI+sUn0hyAe+d38jK3v0gPZyL3X0mplgp1KNC468Vq5e0SIx1FyzRCohIvcu/fcar4Vtjb/CVfMDoT4rZLchQgfITd12bJKFve0CT1A==;IVYP0HLjkNa8RStl5nCKxw=="
 ---

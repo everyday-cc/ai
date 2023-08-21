@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-29-data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031.md",
+      "title": "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
+      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
+      "excerpt": "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-how-generative-ai-is-transforming-enterprise-search-solutions.md",
       "title": "How generative AI is transforming enterprise search solutions",
       "excerpt": "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge.",
@@ -1317,110 +1412,6 @@
         "name": "Princeton University",
         "domain": "princeton.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
-      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
-      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-watch-us-try-to-break-google-bard-and-bing-ai.md",
-      "title": "Watch us try to break Google Bard and Bing AI",
-      "excerpt": "We asked Google Bard and Microsoft's Bing AI a series of questions to see which is better at delivering facts, replacing me at my job and participating in existential debates..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
-      "originalUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/ssQcICIN2fLmn_9D4la6Pg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/595f87d0-cfd5-11ed-b95f-8ab363faefce.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
-      "publishedDateTime": "2023-03-31T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

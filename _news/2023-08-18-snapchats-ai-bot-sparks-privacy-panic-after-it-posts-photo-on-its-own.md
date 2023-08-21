@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-ow
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 2000
         height: 1330
         isCached: true
-  - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
-    excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
-    publishedDateTime: 2023-08-16T18:51:00Z
-    webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 15
 
 secured: "A7bl1wbN0RSt+FPG9hKS+JHT9DnXe1hnOVV4MzufBX3aTdeDyxIxnxIGVuMiq0KfbJpGDvN7yAwXJLqUJOnOWuipQ7xkEj3wb0LE8tFSDMwQkTS8/AkgY3gr70xSqXOsbo/3XFu9qRI2c2oE9tqHOgLw4Ww18qG/uy+4hzrGAnkHMVERStvNS8n6rVFtmlfPA3k69XuLnoD4mmK6EOqDZR389wlgGfV9Vv9cruddM9dMh8DFnHCp46mloiPg2UivQaKPddJxP2MQl1EzdiGk/TJ1n9/nG+U1G4N/MGhqaphGtyj0ewA4qYVS2LUYf0k6f043UtIn/dzDQ+F4902To4xdxrRiAR+14cH++GGQiKzR1/VVjVTb3wIng5Gp3cH+HyqRVx7Rj3GJqi0LoxPgZez7GRu90mD9RfZfMc6lTrNB409QfbwygCjKZY4+hNj0PeV73m6EcYJ3P10l31sPed4epfy9zG9zTHhCft7bVRT9iCwOv6Aiw5v045hBqgDzmHaCq5srByQyL4PbgNyIKw==;PhQlc4cE/uJvwRTSpkNKTA=="
 ---

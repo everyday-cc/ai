@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
+      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
+      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "publishedDateTime": "2023-07-19T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-how-to-build-the-ultimate-gpu-cloud-to-power-ai.md",
+      "title": "How to Build the Ultimate GPU Cloud to Power AI",
+      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge.md",
+      "title": "‘Crazy Times’: Elon Musk Reacts To Tech Stocks’ Latest AI Surge",
+      "excerpt": "AI mania on Wall Street has helped Tesla stock surge more than 170% this year and made Elon Musk more than $100 billion richer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b7ed817e177644c2fb68d1/0x0.jpg?format=jpg&crop=4054,2278,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
+      "publishedDateTime": "2023-07-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
       "title": "2 Top AI Stocks Ready for a Bull Run",
       "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
@@ -1244,154 +1391,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
-      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-lisa-su-believes-ai-will-soon-be-an-integral-part-of-chip-design.md",
-      "title": "Lisa Su believes AI will soon be an integral part of chip design",
-      "excerpt": "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
-      "originalUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
-      "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
-      "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_11.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

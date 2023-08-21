@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secu
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Martech start-up Hypergro.ai raises ₹7-crore seed funding"
+    excerpt: "Bengaluru- based martech start-up hypergro.ai has raised seed funding of ₹7 crore. The round was led by Silverneedle Ventures with participation from Huddle, TDV Partners, HME Ventures, Dholakia Ventures, FiiRE, and angel investors like Arjun Vaidya, Ankit Kedia, and Rajesh Sawhney."
+    publishedDateTime: 2023-08-21T11:22:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/martech-start-up-hypergroai-raises-7-crore-seed-funding/article67219063.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/martech-start-up-hypergroai-raises-7-crore-seed-funding/article67219063.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/martech-start-up-hypergroai-raises-7-crore-seed-funding/article67219063.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
 
 secured: "x9sMPFiSuwiB5OZphkNiFoGkCXQxa5sDqUjbcqlyGUZjWgGDbJjkGYVTHuAwvWayMH1Xvt9jyTsK+SsTJli/yW51/FQ6jY5Z8Z5HPj8nwG6dE0ihz9ckH0Ytp4o1AM6ieuGCCS8DJmsG489TkGlPLE3GG/5RE0dVS8r+DUnvOUXsSTzqzY7s8fEiJCX/Wk59Cptyv1xVdU8irhKb6eA4OqJ9XPtSXpz4tGXl3qV/HUAWYNiTLn+U2vruk+cCrU2i4oO3WMW7O5fP5v3xyqg9xWDxLQNgAyyN1xcNY1vz4nh1GrHIipNszN5e1S/l2FWiE8xGYxE+paJlPAJ+h3Qoz8NR4igc0C0LR5Izda3qKPs=;VCIYtKxAMjktuMNuOSHLdg=="
 ---

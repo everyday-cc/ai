@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-07-the-age-of-ai-the-roots-run-deep.md",
+      "title": "The Age of AI: The Roots Run Deep",
+      "excerpt": "Deep learning evolved within computing. Competition was triggered in Japan. America did not want to be left behind. IBM was a leader in that stage of the AI race. The company built a machine that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/age-ai-roots-run-deep-1817584",
+      "originalUrl": "https://www.newsweek.com/age-ai-roots-run-deep-1817584",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2265869/artificial-intelligence.jpg",
+          "width": 2500,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/age-ai-roots-run-deep-1817584?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/age-ai-roots-run-deep-1817584?amp=1",
+      "publishedDateTime": "2023-08-07T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones.md",
       "title": "Machine Learning In Your Pocket: Unleashing The Full Potential Of Smartphones",
       "excerpt": "On the consumer side, smartphone-based personal AI assistants capable of learning from their users' habits might someday be the big selling points of flagship devices.",
@@ -1310,41 +1362,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai.md",
-      "title": "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI",
-      "excerpt": "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

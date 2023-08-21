@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consulting giant McKinsey unveils its own generative AI tool for employees: Lilli"
-    excerpt: "Throughout it all, the AI cited its sources clearly at the bottom ... including those developed by McKinsey partner Cohere as well as OpenAI on the Microsoft Azure platform, to inform its GenAI Chat and natural language processing capabilities."
-    publishedDateTime: 2023-08-16T19:00:00Z
-    webUrl: "https://venturebeat.com/ai/consulting-giant-mckinsey-unveils-its-own-generative-ai-tool-for-employees-lilli/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Presto Counts 13 QSR Franchisee Groups Using Its AI-Based Ordering System"
     excerpt: "Presto Voice uses conversational AI, which learns and adapts to human speech patterns using data, machine learning, and natural-language processing to create a human-like conversation. As a result, customers do not have to modify their speech patterns to ..."
     publishedDateTime: 2023-08-18T14:44:00Z
@@ -52,6 +43,20 @@ related:
       - url: "https://v6r2p5t5.rocketcdn.me/wp-content/uploads/2023/08/presto-1.jpg"
         width: 677
         height: 677
+        isCached: true
+  - title: "Tricks for making AI chatbots break rules are freely available online"
+    excerpt: "Certain prompts can encourage chatbots such as ChatGPT to ignore the rules that prevent illicit use, and they have been widely shared on social platforms"
+    publishedDateTime: 2023-08-21T10:29:00Z
+    webUrl: "https://www.newscientist.com/article/2388231-tricks-for-making-ai-chatbots-break-rules-are-freely-available-online/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/18140734/SEI_167917530.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "TTLIqTtVxUUDlAzKROZZHArd/yoLhD1sAsJuyuUsp5IYCFYL7UXIz3jOS/C9DofIJomhWNwL4SgWufPwWgMfAomFUxB9VSuPr74Ooh9eDsZLn8+C3hZ8AUTRekZvxlFwf2pQLXBWE1dLFxqnuK0jf6u2jH66LvhnSnKhG/ne0J05n05D+93MP3kwheoefBGf/FeUCWRh3kERExOxU2cj3njG2V75B+Jd+RRyoWyYI5pacsxhLGm1ZhegaS6WuEHZUEMyJLmPfKtdabgHvXLgSc8G3hpl3POk9Uw6B8RXCXMjXAGBwwuxTAfa0+wkAcNtOCmV1bsjVC9EIorJfcHmdXft6C9s4pZCaIEMsVLfjnofFpYuPwWAsoQdg22TzIaPhupXe35lLqvfFXO8g/szt8hqSGe/Iq8vDQq7+cb7rX3qyjWKjxCsvmfjWOVzQAoF24XNRc+l+qzbnzAHXEXD/wB1HvwQh0D81UyuoUniTIvCfq2QyoBqoKTXtmIhyL8hrdFB0GXP70iuAtgxb63ISA==;ne0Zq76gPwCtLgnIwJO6Bg=="

@@ -2,6 +2,449 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
+      "title": "AI robots could play future role as companions in care homes",
+      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "originalUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
+      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
+      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
+      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay.md",
+      "title": "Beware Technophobia Spreading Amid AI Fears And Calls For Delay",
+      "excerpt": "ChatGPT is the fastest new technology to reach 100 million users. Artificial intelligence has brought hope and fears— as well as calls for a pause.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ada9e812a0cb2f0daedd0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-go-medias-ai-innovation-is-off-to-a-rocky-start.md",
+      "title": "G/O Media’s AI ‘innovation’ is off to a rocky start",
+      "excerpt": "Last week, G/O Media leadership had news for staffers at the many publications the company owns: AI-generated articles were just around the corner. “We are both a leading technology company and an editorial organization that covers technology in world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots",
+      "originalUrl": "https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/gapqdOPrQE7L6x3iMxFcfg-6SjI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition.md",
+      "title": "Musk praises Chinese artificial intelligence as Tesla faces tough competition",
+      "excerpt": "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
+      "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbtnews",
+        "domain": "cbtnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications.md",
+      "title": "Integrate SaaS platforms with Amazon SageMaker to enable ML-powered applications",
+      "excerpt": "Amazon SageMaker is an end-to-end machine learning (ML) platform with wide-ranging features to ingest, transform, and measure bias in data, and train, deploy, and manage models in production with best-in-class compute and services such as Amazon SageMaker Data Wrangler, Amazon SageMaker Studio, Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/ML-14213-Arch-3-979x630.jpg",
+          "width": 979,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T08:17:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-people-are-uncomfortable-with-ai-led-healthcare.md",
+      "title": "People are uncomfortable with AI-led healthcare",
+      "excerpt": "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence ... about the new frontier of healthcare technology, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
+      "originalUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/50c181b/2147483647/strip/true/crop/3729x1958+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6e%2F0f%2Ff516ae5d44d4b5de9c80dd60a5d4%2Fistock-863492778.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
+      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
+      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "publishedDateTime": "2023-07-06T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-will-ai-and-humans-cooperate-or-compete.md",
       "title": "Will AI And Humans Cooperate Or Compete?",
       "excerpt": "From my perspective, this could help explain why more people are developing personal relationships with AIs. For example, apps like Replika and EVA AI have been making news headlines for providing companionship.",
@@ -765,436 +1208,6 @@
       "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
       "publishedDateTime": "2023-07-06T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-theres-one-hard-question-my-fellow-doctors-and-i-will-need-to-answer-soon.md",
-      "title": "There’s One Hard Question My Fellow Doctors and I Will Need to Answer Soon",
-      "excerpt": "Or so I thought then. Not even two decades later, we find ourselves at the dawn of what many believe to be a new era in medicine, one in which artificial intelligence promises to write our notes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/06/autossell/NYT_Medical-AI_ShiraInbar_Still/NYT_Medical-AI_ShiraInbar_Still-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
-      "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
-      "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101536741,imgsize-51502,width-1200,height=765,overlay-ettelecom/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "publishedDateTime": "2023-07-05T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests.md",
-      "title": "China says US consideration of AI chip export controls hurts China's legitimate interests",
-      "excerpt": "The United States' consideration of export controls on artificial intelligence chips is detrimental to Chinese companies' legitimate interests and hinders global economic and trade exchanges and cooperation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E",
-      "originalUrl": "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-global-artificial-intelligence-ai-robots-market-report-2023-2028.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market Report, 2023-2028",
-      "excerpt": "(MENAFN- The Express Wire) Artificial Intelligence (AI) Robots Market 2023 Will Give Report Analysis that rapidly arising as one of the [ICT] Sector in the business, by Type (Service Robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106561513/Global-Artificial-Intelligence-AI-Robots-Market-Report-2023-2028",
-      "originalUrl": "https://menafn.com/1106561513/Global-Artificial-Intelligence-AI-Robots-Market-Report-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?841270",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Elon Musk predicts Tesla self-driving cars ‘later this year’",
-      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101531566,imgsize-40988,width-1200,height=765,overlay-etauto/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "publishedDateTime": "2023-07-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ET Auto",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
-      "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
-      "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107265898-1688357564970-gettyimages-1258636487-AFP_33J733J.jpeg?v=1688615964",
-          "width": 8256,
-          "height": 5504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "publishedDateTime": "2023-07-05T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai.md",
-      "title": "The Brain Technology Treating Neurological Disorders That Will Benefit From AI",
-      "excerpt": "Deep brain stimulation meets machine learning and AI in order to deliver better functional outcomes and quality of life for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5de0aef231c76774c321a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "publishedDateTime": "2023-07-05T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-11-startups-developing-ai-to-disrupt-hollywood-and-scoring-hundreds-of-millions-in-vc-and-private-equity-funding.md",
-      "title": "11 startups developing AI to disrupt Hollywood and scoring hundreds of millions in VC and private equity funding",
-      "excerpt": "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6400c5c676a35b00184807c0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

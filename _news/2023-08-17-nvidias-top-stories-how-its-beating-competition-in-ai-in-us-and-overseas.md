@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "The AI hype means Nvidia is making shiploads of cash"
+    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
+    publishedDateTime: 2023-08-18T06:11:00Z
+    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
+        width: 1187
+        height: 667
+        isCached: true
 
 secured: "XT4BOvuaW9h1GgxE1/vu5rXPGTLuvv7f4Ys0wbi1H0CS4LB58Bt/P79EYm+LbYVJE/yBZh6lClJP5nSyZEys1Ou3Sjd8YlZKyeMROrmBaeZzfQzPKOLBjaNtqMs4He/2eZodimYP0TzOEZjjy/oHAhEFAbYfnc9JxkJVTDHU7CqDHCnoW57tsjbv816PgqDcOxnOO5cqVIs2TH9U+r/XGRhcJxKv1Bz4djWK3je9reYYXpxtlv1WeFHKFsAyg0laTHYfUxdiz+uDjfPAYst9htcs//k8PndUA1BFfUF4GdTfh97r4uhj5ncGUYh85lcmA6PXfSaZiRaYYuhhJpQzZvyMxB2U7ejh6nrNu9fquUI=;FUv/ZTAVmA5KjrLBwyx9vQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-21-does-ai-pose-an-extinction-risk-the-guardrails-to-keep-ai-on-track-without-stifling-innovation.md",
+      "title": "Does AI Pose An Extinction Risk? The Guardrails To Keep AI On Track Without Stifling Innovation",
+      "excerpt": "While many doomsday scenarios may never come to pass, AI does have the power to cause the dangers that are being discussed today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y125,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
+      "publishedDateTime": "2023-08-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes.md",
+      "title": "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes",
+      "excerpt": "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e2ce5257642d1784c7148a/0x0.jpg?format=jpg&crop=2377,1584,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/",
+      "publishedDateTime": "2023-08-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-schools-face-challenges-with-ai-as-students-head-back-to-class.md",
       "title": "Schools face challenges with AI as students head back to class",
       "excerpt": "Within the last year, artificial Intelligence -- specifically ChatBots -- has grown in prevalence and use since it was introduced in late 2022.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1356,110 +1460,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-dall-e-3-could-take-ai-image-generation-to-the-next-level.md",
-      "title": "DALL-E 3 could take AI image generation to the next level",
-      "excerpt": "An anonymous leaker who claims to have been a part of an alpha test of Dall-E 3 for several months details features of the new version of the AI image generator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
-      "originalUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
-      "publishedDateTime": "2023-08-01T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-the-debate-around-ai-ethics-in-australia-is-falling-far-behind.md",
-      "title": "The Debate Around AI Ethics in Australia is Falling Far Behind",
-      "excerpt": "In Australia and elsewhere, the debate around AI and ethics rages. Meanwhile, AI apps with questionable ethics are being released daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
-      "originalUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-ai-australia.jpeg",
-          "width": 1400,
-          "height": 954,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

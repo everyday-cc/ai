@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-bmw-is-going-to-sell-a-real-self-driving-car-and-we-tried-it-out.md",
+      "title": "BMW Is Going To Sell A Real Self-Driving Car, And We Tried It Out",
+      "excerpt": "BMW's new Level 3 system is actually headed to production. Reset your expectations for what it's capable of, though.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/",
+      "originalUrl": "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg",
+          "width": 780,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs.md",
       "title": "BMW’s valet parking test trades red vests for remote driving rigs",
       "excerpt": "Part of the autonomous driving dream is the ability to jump out of your vehicle in front of the store, mall, concert hall, or museum and let the car find its own parking while you enjoy life. No more creeping along in garages thinking you found the perfect spot, only to have your delight dashed by the motorcycle you couldn't quite see.",
@@ -1306,49 +1358,6 @@
         "name": "TechRound",
         "domain": "techround.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-forbes-daily-artificial-intelligence-and-what-you-need-to-know.md",
-      "title": "Forbes Daily: Artificial Intelligence And What You Need To Know",
-      "excerpt": "Good morning, Seemingly overnight, artificial intelligence began to dominate public consciousness thanks to the launch of ChatGPT in November. In just two months, the bot had 100 million users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

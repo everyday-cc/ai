@@ -35,20 +35,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Even With Some Cons, AI Should Still Be Used to Empower Students in the Classrooms"
-    excerpt: "Urquiola, Assistant Professor at the University of Notre Dame, discusses AI’s impact to empower students in the classrooms."
-    publishedDateTime: 2023-08-16T17:29:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/even-with-some-cons-ai-should-still-be-used-to-empower-students/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 33
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/Screenshot-8.png"
-        width: 1900
-        height: 1062
-        isCached: true
   - title: "Digital academy offers new AI course to high school students"
     excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
     publishedDateTime: 2023-08-17T01:48:00Z

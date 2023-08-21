@@ -24,128 +24,130 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI acquires AI design studio Global Illumination"
-    excerpt: "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ..."
-    publishedDateTime: 2023-08-16T17:12:00Z
-    webUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/"
-    ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
+  - title: "4 things Claude AI can do that ChatGPT can't"
+    excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
+    publishedDateTime: 2023-08-21T09:41:00Z
+    webUrl: "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
+      - url: "https://www.zdnet.com/a/img/resize/10e17e3b47695ed9d7b5839f3ed9d5ad130db1f0/2023/08/18/0037d63a-2356-4f19-b56c-e121f7f84577/race.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Is OpenAI Going Bankrupt? No! But AI Models Don’t Create Moats."
-    excerpt: "Experts predict that OpenAI will be bankrupt. Large Language Models and generative AI does not create a moat. But there are other ways to protect OpenAI's investment."
-    publishedDateTime: 2023-08-18T08:24:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/08/18/is-openai-going-bankrupt-no-but-ai-models-dont-create-moats/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df2494d38f87126b0c8ded/0x0.jpg?format=jpg&width=1200"
-        width: 786
-        height: 882
-        isCached: true
-  - title: "OpenAI acquires startup founded by ex-Instagram talent for undisclosed sum"
-    excerpt: "Global Illumination, Inc., is a New York City-based startup founded in 2021 by a trio of former Facebook and Instagram workers."
-    publishedDateTime: 2023-08-16T17:44:00Z
-    webUrl: "https://venturebeat.com/ai/openai-acquires-startup-founded-by-ex-instagram-talent-for-undisclosed-sum/"
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_modern_bustling_startup_office_flat__96bfe510-f61d-44a6-9f0c-7090e3c6e8e3.png?w=1200&strip=all"
-        width: 803
-        height: 642
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
-    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
-    publishedDateTime: 2023-08-17T21:43:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+  - title: "Google’s testing an AI chatbot that could be your personal life coach"
+    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
+    publishedDateTime: 2023-08-17T01:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 59
-  - title: "OpenAI Acquires AI Startup Global Illumination"
-    excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
-    publishedDateTime: 2023-08-17T03:50:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 57
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gmdny8uzalubdamp_1692244065.jpeg"
-        width: 768
-        height: 438
+      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-    publishedDateTime: 2023-08-17T21:03:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
+  - title: "OpenAI may have to wipe ChatGPT and start over"
+    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
+    publishedDateTime: 2023-08-18T21:35:00Z
+    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "ChatGPT is a Glorified Tape Recorder"
+    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
+    publishedDateTime: 2023-08-17T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 26
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Kaku_Michi.jpeg"
         width: 1200
-        height: 675
+        height: 1800
         isCached: true
-  - title: "Silicon Valley and other top global destinations for Artificial Intelligence professionals"
-    excerpt: "Here is a comprehensive list of ten global destinations that hold the promise of nurturing and propelling AI talent to new heights:"
-    publishedDateTime: 2023-08-20T05:36:00Z
-    webUrl: "https://www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/"
-    ampWebUrl: "https://www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-top-10-global-destinations-for-talent-development-of-artificial-intelligence-professionals-3213917/lite/"
+  - title: "Google Gemini challenges ChatGPT"
+    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
+    publishedDateTime: 2023-08-18T01:36:00Z
+    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/6-9.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
-    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
-    publishedDateTime: 2023-08-17T21:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
+    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
+    publishedDateTime: 2023-08-17T11:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 29
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "OpenAI buys AI gaming startup Global Illumination"
-    excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
-    publishedDateTime: 2023-08-16T18:16:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/08/16/openai-acquires-new-york-ai-gaming-startup.html"
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
+  - title: "How ChatGPT plugins can up your SEO game"
+    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "7tSxT3BgQ0F/0LDvrBDdya+kZ1AUQL4WV6K5SzZ3psBWhnhNEPfhRrBGm6zLhwcP5zVxR7kmAcbs0CFA8vX74s2/c+rvv72uXUM4CYaNUIWTc2j8vn/E1dh/gf6lYcVUZU7ikgtfDMCM2JUswvH9Tso5IMaVMvMATT318wL/JJpo+xSoilymBc20IDZWWeVg2LQt1NriIR35YgBq9pexcyQb6MTTo+G0wdpyGKfx/+PPGwLsd4/LZQ37cqgFO+BzCGItX2Eophj/+Ubhrve8PoAuZScqFuSMeuSjDPNWFX+Lwt0p9LoRVt6iiRaVx//Pau9MxL/+zgamyLHlBdInvPwA86NVP1Kv8Kuj5FL9DaI=;hrX3Qb9psAvIhdiyasLiqQ=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
+    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
+    publishedDateTime: 2023-08-19T01:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
     excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
     publishedDateTime: 2023-08-18T09:30:00Z

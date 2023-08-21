@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI is helping expand accessibility for people with disabilities"
-    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
-    publishedDateTime: 2023-08-18T14:30:00Z
-    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "YzBdMIEdlmh4lHeHlxc2d0Wik/4ExXtJhbZXURAPtJCkIIa7I5+WYMF3Ps/00/c3giim2LB5zeD3UfPATtfbXV0HV0Hsm0RprUPRzs/0RPzKZahl9Y272UABeRGb3y5Vrj4Q7wvZveQnGIfiE0IEmBGkHLrzB5EwlYBbf/dXPd7KOVvHOq1HTiKhZ4Svqtct5CK4QmlWu9Hiu/lPh2ceBqwtYQsaw8EzpeWt80r/KVXbgjfwUmOj5+dfB6YlS5ngHODn0OATYMSUrxICpmuTQNOwKINbCmCPSHkGlHvuE8mQnjN/PlkZpZDrxEkXpNmbIQQ4BYYqsgt1o0Um3P2eQmU4vH8OJe3B55CUQPxlFd5UkLkLNjEIcORSealO9uK9NbdF/R87DMH+oiOfzk2G1a6cYVA3OAjd8tEzcokBnD+2SF0U8GgpATHu4eiZQ0NPibFSKK42RGmAkaryjYRDec9Ey9NnokMR43CIpwYjRpjx9Z8dX9vpB9lofgKDeaueJ6b3ynhhClzJygwXXnv2tA==;zcU1V6g0jqPOOe7wpi8KKg=="
 ---

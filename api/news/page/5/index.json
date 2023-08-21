@@ -2,6 +2,409 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-16-canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai.md",
+      "title": "Canadian government seeks input on voluntary code of practice for generative AI",
+      "excerpt": "Canada's intent to establish a code of practice demonstrates its commitment to ensuring generative AI evolves in a way that benefits society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_209461318-e1692142857564.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-digital-india-expansion-approved-bhashini-to-translate-22-languages.md",
+      "title": "Digital India expansion approved; Bhashini to translate 22 languages",
+      "excerpt": "The Union Cabinet chaired by Prime Minister Narendra Modi on Wednesday approved the expansion of the Digital India programme",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html",
+      "originalUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2023/07/Statesman-52.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp",
+      "publishedDateTime": "2023-08-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
+      "title": "NCSoft's new AI suite is trained to streamline game production",
+      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai.md",
+      "title": "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI",
+      "excerpt": "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:15:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-6-considerations-to-take-when-approximating-cloud-spend.md",
+      "title": "6 considerations to take when approximating cloud spend",
+      "excerpt": "Six ways organizations can improve their cloud cost management, increase cloud cost optimization and drive as much value from their cloud budgets as possible.\nThe post 6 considerations to take when approximating cloud spend appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cloud-spend-management/",
+      "originalUrl": "https://www.ibm.com/blog/cloud-spend-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:40:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture.md",
+      "title": "How continuous automated red teaming (CART) can help improve your cybersecurity posture",
+      "excerpt": "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "originalUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:09:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.md",
+      "title": "Nutanix Simplifies Adoption Of Generative Ai With New Nutanix Gpt-In-A-Box Solution",
+      "excerpt": "AI infrastructure solution accelerates customers' path to GPT and LLMs while keeping organizations in control of their data. DUBAI, UAE– N",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution",
+      "originalUrl": "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-08/16/M_7295fimage_story.jpg",
+          "width": 942,
+          "height": 1097,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
+      "title": "The Future of Finance: AI Meets Tokenization",
+      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-six-ways-ai-could-revolutionize-the-way-you-do-business.md",
+      "title": "Six Ways AI Could Revolutionize The Way You Do Business",
+      "excerpt": "At Pink Moon Studio, we implemented new AI features to automate tedious tasks like player behavior tracking and ticket handling. AI-powered analytics helped us understand player p",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/",
+      "publishedDateTime": "2023-08-16T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-ai-powered-efficiency-college-hostel-management-in-emerging-markets.md",
       "title": "AI-Powered Efficiency: College Hostel Management In Emerging Markets",
       "excerpt": "By embracing the power of AI, colleges can cultivate a nurturing environment that combines cutting-edge technology with individualized care.",
@@ -783,445 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-amazon-now-using-generative-ai-to-summarize-customer-reviews.md",
-      "title": "Amazon now using generative AI to summarize customer reviews",
-      "excerpt": "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/",
-      "publishedDateTime": "2023-08-15T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-how-to-use-windows-11-copilot-ai.md",
-      "title": "How to use Windows 11 Copilot AI",
-      "excerpt": "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp",
-      "publishedDateTime": "2023-08-15T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-def-con-generative-ai-hacking-challenge-explored-cutting-edge-of-security-vulnerabilities.md",
-      "title": "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities",
-      "excerpt": "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/def-con-hackers-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/def-con-hackers-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-artificial-intelligence-cegep-teachers-want-training.md",
-      "title": "Artificial intelligence:: CEGEP teachers want training",
-      "excerpt": "With artificial intelligence becoming increasingly prevalent, CEGEP professors and lecturers need training in the field, said CSN president Caroline Senneville.",
-      "sourceUrl": null,
-      "webUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
-      "originalUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
-      "publishedDateTime": "2023-08-15T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-learn-as-you-search-and-browse-using-generative-ai.md",
-      "title": "Learn as you search (and browse) using generative AI",
-      "excerpt": "New updates to Search Generative Experience (SGE) help people easily learn new things and understand key concepts while searching online.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search-Back-to-School-2.width-1300.jpg",
-          "width": 1300,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "publishedDateTime": "2023-08-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-whatsapp-is-testing-ai-generated-stickers.md",
-      "title": "WhatsApp is testing AI-generated stickers",
-      "excerpt": "WhatsApp is testing the ability to create custom stickers using generative AI. According to WABetaInfo, the feature is available to a small number of testers through the Google Play Beta Program. Meta is said to be preparing to roll out the tool more broadly in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "originalUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/M4t6RCx511JKkPiOPQ21Vw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/8141dc10-3b7a-11ee-bcff-41515f8b20c0.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "publishedDateTime": "2023-08-15T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-sex-in-self-driving-cars-passengers-are-reportedly-hooking-up-in-san-franciscos-driverless-taxis.md",
-      "title": "Sex in self-driving cars: Passengers are reportedly hooking up in San Francisco's driverless taxis",
-      "excerpt": "People are reportedly having sex during their driverless taxi rides in Cruise vehicles, despite company rules against \"inappropriate behavior.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
-      "originalUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64db8f675e5d5a00195e5656?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
-      "publishedDateTime": "2023-08-15T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution.md",
-      "title": "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution",
-      "excerpt": "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2023/08/thisisengineering-raeng-64YrPKiguAE-unsplash.png",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software.md",
-      "title": "Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software",
-      "excerpt": "A look at the development of Suzhou Universal Chain’s enterprise application integration platform and business process automation management platform.\nThe post Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software/",
-      "originalUrl": "https://www.ibm.com/blog/suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T07:19:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

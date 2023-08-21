@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/rishi-sunak-buy-ai-chips-in-race-fo
 webUrl: "https://cointelegraph.com/news/rishi-sunak-buy-ai-chips-in-race-for-computing-power"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "UK commits £100M to secure AI chip components"
+    excerpt: "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part"
+    publishedDateTime: 2023-08-21T09:54:00Z
+    webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
+    excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
+    publishedDateTime: 2023-08-21T11:04:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/blogs/are-the-uk-s-plans-to-spend-100m-to-produce-ai-chips-too-little-too-late"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 51
+    images:
+      - url: "https://www.newelectronics.co.uk/media/vfipvhi3/investment.png?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK to spend £100m in global race to produce AI chips"
     excerpt: "Funds to be used to order key components from major chipmakers Nvidia, AMD and Intel"
     publishedDateTime: 2023-08-20T10:40:00Z

@@ -35,20 +35,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Even With Some Cons, AI Should Still Be Used to Empower Students in the Classrooms"
-    excerpt: "Urquiola, Assistant Professor at the University of Notre Dame, discusses AI’s impact to empower students in the classrooms."
-    publishedDateTime: 2023-08-16T17:29:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/even-with-some-cons-ai-should-still-be-used-to-empower-students/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 33
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/Screenshot-8.png"
-        width: 1900
-        height: 1062
-        isCached: true
   - title: "With AI exploding, local private and independent schools look at potential dangers and benefits for students"
     excerpt: "Some local schools are including new language in their student handbooks about the use of artificial intelligence, some are incorporating it into the curriculum, while others are taking a wait and see approach."
     publishedDateTime: 2023-08-18T18:23:00Z

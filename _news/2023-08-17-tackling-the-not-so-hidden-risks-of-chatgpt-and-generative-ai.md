@@ -78,6 +78,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
+  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
+    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
+    publishedDateTime: 2023-08-17T10:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "OpenAI may have to wipe ChatGPT and start over"
     excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
     publishedDateTime: 2023-08-18T21:35:00Z

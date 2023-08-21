@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-21-nvidias-gpus-why-are-the-hottest-items-in-the-ai-boom-in-short-supply.md",
-      "title": "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?",
-      "excerpt": "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out.",
+      "path": "_news/2023-08-21-the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023.md",
+      "title": "The 3 Most Undervalued AI Chip Stocks to Buy Now: August 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For much of 2023, the AI boom has sent chip stocks to dizzying highs. It",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/",
-      "publishedDateTime": "2023-08-21T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T03:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,6 +42,102 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-uk-commits-100m-to-secure-ai-chip-components.md",
+      "title": "UK commits £100M to secure AI chip components",
+      "excerpt": "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components",
+      "originalUrl": "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-openai-meta-and-tesla-desperately-want-this-nvidia-gpu-but-why.md",
+      "title": "OpenAI, Meta and Tesla desperately want this Nvidia GPU: But why?",
+      "excerpt": "AI faces Nvidia H100 GPU crunch, stalling projects. Dive into its tech features, production challenges, and the ripple effect on AI's future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
+      "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/nvidia-h100-1280-3c1f6abca9.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
+      "publishedDateTime": "2023-08-21T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -105,7 +201,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -200,7 +296,7 @@
       "originalUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -304,7 +400,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 208,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -369,6 +465,49 @@
       "provider": {
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas.md",
+      "title": "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas",
+      "excerpt": "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33885673",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673",
+      "publishedDateTime": "2023-08-16T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1281,145 +1420,6 @@
       "provider": {
         "name": "Network World",
         "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-opinion-why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints.md",
-      "title": "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints",
-      "excerpt": "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "originalUrl": "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-803752/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "publishedDateTime": "2023-08-09T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-a-new-chip-can-power-the-billions-of-calculations-the-ai-age-requires.md",
-      "title": "A new chip can power the billions of calculations the AI age requires",
-      "excerpt": "The current AI boom demands a lot of computing power. Right now, most of that comes from Nvidia’s GPUs, or graphics processing units—the company supplies somewhere around 90 percent of the AI chip market. In an announcement this week, it aims to extend its dominance with its newly announced next-generation GH200 Grace Hopper Superchip platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/",
-      "originalUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/09/nvidia-gh200-grace-hopper-superchip-platform.png?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nvidia-chip-generative-ai/?amp",
-      "publishedDateTime": "2023-08-09T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidia-unveils-rtx-5000-4500-and-4000-ada-workstation-gpus-to-crush-ai-workloads.md",
-      "title": "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads",
-      "excerpt": "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "originalUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "publishedDateTime": "2023-08-09T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

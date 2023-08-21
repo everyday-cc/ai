@@ -88,6 +88,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
+  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
+    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
+    publishedDateTime: 2023-08-17T10:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z

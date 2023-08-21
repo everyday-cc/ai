@@ -24,6 +24,22 @@ images:
     height: 510
     isCached: true
 
+related:
+  - title: "Geely to launch EV smart car developed with Baidu"
+    excerpt: "and equipped with Baidu’s advanced artificial intelligence technologies in areas including intelligent cabins and autonomous driving, the automaker noted. While overseeing its sales, marketing ..."
+    publishedDateTime: 2023-08-17T07:31:00Z
+    webUrl: "https://europe.autonews.com/automakers/geely-launch-ev-smart-car-developed-baidu"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Ji%20Yue.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "G9Q1TSQ+tqjDnGZby9Lhs3zpEq2e8/s8JqQsdt/J0aJsXqWgXAJ+QQXGKcfTXRd9jAq9likuCcqDGpkUKREFJeU4X7dI36d8fD+etOImxbygQpxj6m+f/3xmqDZhWOdE/cPU0NZFWYEPa2Fo1LldMKkdlIHcqIdTcitS4xLMrg4L7GXdQxvkMVz0vAItMOzsGd1cqwulvrqz5ZhGaY6HnRJEOFupmgAS3OJow9gjpVPjZv6M5EYMkVvMRL0s/gPRTaF77Hb4oLoPtxBrG3BDpnaCqExI7/e9yGyU0446Zd9UcAXAG5T5ayVJ2jPZs33ulxYzjJ/mpZ+4ep5mG/vgb+oxTYQOIshrtl9XJRpjEZTwIVh2CK8IStJbQt08KvxrIneHhPMwDCIgb7v+nUoFdwg7w/6DnhI+ZuYHcRHVeh41QlKjbQ0ibN8ZKWdRI9AAaPLt0afBynXJyxMyAR8Ccj93vxwGdTvjgbxCWj901Tt/2x+Z4oHEljs0DWbzDUMxNtcC4QSXqAX4qelSOak92w==;09+driPE/Sn9PcmgWNdbTQ=="
 ---
 

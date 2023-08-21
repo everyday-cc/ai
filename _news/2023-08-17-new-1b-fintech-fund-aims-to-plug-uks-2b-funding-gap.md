@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
 webUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
+    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
+    publishedDateTime: 2023-08-18T15:15:00Z
+    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "kpk8ihOHyZBO5QT1uMtmo8AeS/gHHf0FurQ2Q4WbndFOOZRyUvKkDzxu+tBR5q+0+EaME4Cyl8Gw6jC2Z0CDtm9ChPJzm3KVnMplNtSIB44WbhLWrbwRI9OryaU62FURdhfZXVoG7HYqDAj/eBLjIcq9zzJelKhCEH3QzGBIOeQIjg4Nkl82dnlJ1E9CZwtpEFKpu50AsSAOiXZaivvpqMC2a+seinExCOqsUlRqANbW0D2RGM/2/JsBDgASrTL7XNdMdI41wwhNQO4AqYtZMd0hBUlG3aBsaxMZg2bCCk1rFCXjkf+fzwvebed5kX/RLU4ixofFf7lsX80WMolVzoujqfvnLRvG/vADorF2UzzB2MhQbwbWHUHk1k3KX1PphpCTKk+2iBRg5ipzhsaIPmhkNraJoUtDDK4WVFAFMwo53RXl0VxF8gECk7CPaFjC2p1hE3vvr9hoS/UtsLplTunVWELH79CZ2+CLniPb/9tndV2ztKI/nUdddXSZxSTbu258pum1i07kq/+YD5/Ulw==;ahGXLFZb9IEzFeHMcTtcTw=="

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Real About Ai In The Enterprise"
-    excerpt: "Let's be clear: AI is complex, so be careful of vendors that offer to simplify everything-as long as it's inside their box. Many companies have been caught flat-footed by the enormous multicloud integration needed to successfully benefit from AI projects. This is where we excel."
-    publishedDateTime: 2023-08-16T17:09:00Z
-    webUrl: "https://menafn.com/1106868639/Getting-Real-About-Ai-In-The-Enterprise"
+  - title: "Does AI Pose An Extinction Risk? The Guardrails To Keep AI On Track Without Stifling Innovation"
+    excerpt: "While many doomsday scenarios may never come to pass, AI does have the power to cause the dangers that are being discussed today."
+    publishedDateTime: 2023-08-21T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/16/M_89490image_story.jpeg"
-        width: 852
-        height: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y125,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "J5hiUie67eqzvSSPpIEs88RXKmEz80QJc/ihYMXjSgwCTtec3C6Azb9fH7bI4AEo0mjJMp+EsaYRLkfS48FfT+TyiEdMA3tTBY89AtTfraoIXOcM6Uf8zGMO5jRcVOsGCRnxDuBrNPacJusVznNjTUi5hukk1o8dRUnkUFYAupVlx1QlUuLrS5cjlC9B/XhOeCjyHCHLUHSJRCWCwYicHD2ZcusususRnlxJzaxVzgp+91hDY6tm5pg/fhAmQkooHUMUwE+1OI4IQHptgSTTuxR0Got5qc6Iq1PWrrRbEfsUki6jD6f3Vmei55AJDJbZqtTUFRsJuOyx75ExuTp91kHwm2Bg1nMoFltUVT0itXYrpcugrAbkjlY7b131RR5sWxTeewCtq1DUFfq8yVKO5aZcVLJAAaknFgSiJ7ZJmuG0eh64OZ8ZxED5onNDXWqXEeaKyCQ4pYmSwvbsTeKZW6pGm8bkMjMVkz0+Ex2yVx/fSKc9NQT0UARVs2EnLxmXhF2E1sNPNo5+DOGdc/HTPA==;GGgTa1kkLsFfs0hBrhj1pw=="

@@ -24,17 +24,6 @@ images:
     height: 2048
     isCached: true
 
-related:
-  - title: "Reproductive clinic uses face biometrics for donor matching"
-    excerpt: "The egg bank claims its platform is the first in the US to feature facial recognition, though the process could perhaps be better described as facial analysis."
-    publishedDateTime: 2023-08-16T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202308/reproductive-clinic-uses-face-biometrics-for-donor-matching"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
-
 secured: "UZViSrbZFBVfELQTiWbnWk1SkaehGURyyV35ZqNakgAqtEzQObXfEAPgpp6yxE6Q9tECZ71q0eqs81/3GiBAHPTdH7vyoe3HsXZ7kS0Vc2sxcObEHjFfs8pKC9NRHU6MMaJ/zfUqcOmrtdo1eO20Y8EXikUeLy5OBOrLnGtDU3OWzGm3PlP7k35CQn4qHFMjIH5F0fpL22MHEc/PFVDPcTAzAD/xtBXvuNcww84ZHmx6Y3ZJrP/mHoQxNDcA/l8vGJ0303dCNUEdqQL5Oc9omf4xiTyB9xb05J32BBeMCtH4JKtzvLZ9A/AQ+1NDVHWtKrzSJGxi25n7+Lla3PkO0MYC+wiiUbAD0A6Kn81C3GRkDj/KnJ4yO/t2FEKPnHjNNRISbaQAg7ExzCRk1kTJOfXZ8Bg//SMC7K3RXPp7RoV4IfCQZrC5k28hQsMr9nf0Gbqr1Ai0vNONPXhvcqsFTQx69Wx8hx9Kik5tGjtkVOAP8ELKMLWTZQfLTXm+favaTRDsh+nEwf5IKofgbLlS3A==;gz16J9Nzs0PtTe68UpWs+g=="
 ---
 

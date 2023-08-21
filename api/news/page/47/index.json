@@ -2,6 +2,410 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-19-robot-control-system-internship-with-lab42.md",
+      "title": "Robot Control System Internship with Lab42",
+      "excerpt": "The gThe goal of the project is to develop a robot control system that can be successfully used on robots with flexible arrangements of sensors and actuators to solve various tasks. The robot control system will be developed according to principles that ...",
+      "sourceUrl": null,
+      "webUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
+      "originalUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
+          "width": 1564,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETH Zurich",
+        "domain": "ethz.ch",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-meta-releases-ai-tech-to-rival-chatgpt.md",
+      "title": "Meta releases AI tech to rival ChatGPT",
+      "excerpt": "Meta, the parent company of Facebook and Instagram, is releasing its open source Llama 2 large language model, which can power artificial intelligence ... also released a research paper along ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/",
+      "originalUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/64a622c57bc120.03896746.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/amp/",
+      "publishedDateTime": "2023-07-18T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
+      "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla TSLA.O Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
+      "originalUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-the-ai-behind-chatgpt-really-does-seem-to-be-getting-dumber-but-no-one-can-quite-figure-out-why.md",
+      "title": "The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why",
+      "excerpt": "There's been a growing feeling for a while now that the AI model behind ChatGPT is ... No one can quite figure out why GPT-4 is changing What the research doesn't seem to identify is why this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b7cbed593b890019f17bdc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
+      "publishedDateTime": "2023-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-the-engines-of-ai-machine-learning-algorithms-explained.md",
+      "title": "The engines of AI: Machine learning algorithms explained",
+      "excerpt": "Trying everything is impractical to do manually, so of course machine learning tool providers have put a lot of effort into releasing AutoML systems. The best ones combine feature engineering with sweeps over algorithms and normalizations. Hyperparameter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "originalUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-451936193-100632457-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "publishedDateTime": "2023-07-18T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-enhance-amazon-lex-with-conversational-faq-features-using-llms.md",
+      "title": "Enhance Amazon Lex with conversational FAQ features using LLMs",
+      "excerpt": "Amazon Lex is a service that allows you to quickly and easily build conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems for applications such as Amazon Connect. Artificial intelligence (AI) and machine learning (ML) have been a focus for Amazon for over 20 years,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/18/enhance-lex-conversational-faq-llm.jpg",
+          "width": 1021,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T15:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-un-officials-urge-regulation-of-artificial-intelligence.md",
+      "title": "U.N. Officials Urge Regulation of Artificial Intelligence",
+      "excerpt": "The U.N. Security Council for the first time held a session on Tuesday on the threat that artificial intelligence poses to international peace and stability, and Secretary General António Guterres called for a global watchdog to oversee a new technology that has raised at least as many fears as hopes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/18/multimedia/18un-ai-1-cpwj/18un-ai-1-cpwj-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
+      "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
+      "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_7fd8f922-a6db-5352-96cf-ede8d3664f09.html",
+      "originalUrl": "https://www.news-journal.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_7fd8f922-a6db-5352-96cf-ede8d3664f09.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-alterme-ai-the-next-generation-photo-editing-app-powered-by-aws.md",
+      "title": "AlterMe AI: The Next-Generation Photo Editing App Powered by AWS",
+      "excerpt": "Amazon Web Services (AWS) has been collaborating closely with our team to develop an innovative and groundbreaking photo enhancement app called Alterme AI. This next-gen app harnesses the power of art",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ab33275812/alterme-ai-the-next-generation-photo-editing-app-powered-by-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ab33275812/alterme-ai-the-next-generation-photo-editing-app-powered-by-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33275812",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33275812",
+      "publishedDateTime": "2023-07-18T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
       "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
       "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
@@ -776,453 +1180,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending.md",
-      "title": "Fed watchdog warns AI, machine learning may perpetuate bias in lending",
-      "excerpt": "The Federal Reserve’s top watchdog warned Tuesday artificial intelligence and machine learning could bolster bias in lending practices. “While these technologies have enormous potential, they also carry risks of violating fair lending laws and ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
-      "originalUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/644c432596de01.94562039.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
-      "publishedDateTime": "2023-07-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for a Bull Run",
-      "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740040/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-web3-meets-ai-a-dynamic-duo-transforming-user-experiences.md",
-      "title": "Web3 Meets AI: A Dynamic Duo Transforming User Experiences",
-      "excerpt": "By integrating AI technologies into their platforms, innovative companies aim to provide enhanced user experiences, streamline processes, and deliver cutting-edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59f0b88ffbe0aac248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "publishedDateTime": "2023-07-18T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
-      "title": "AI and advanced applications are straining current technology infrastructures",
-      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "publishedDateTime": "2023-07-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ai-envisioned-the-future-of-downtown-seattle-heres-where-it-fell-short.md",
-      "title": "AI envisioned the future of downtown Seattle. Here’s where it fell short.",
-      "excerpt": "Can AI help the transform the future of downtown Seattle? In a recent update to its “Downtown Activation Plan” aimed at rejuvenating the city’s core, Seattle leaders released images created… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-envisioned-the-future-of-downtown-seattle-heres-where-it-fell-short/",
-      "originalUrl": "https://www.geekwire.com/2023/ai-envisioned-the-future-of-downtown-seattle-heres-where-it-fell-short/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/6499fe47e327f2a9cfab3011_green_002-up-p-1600.jpeg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-microsoft-goes-beyond-openai-makes-metas-new-ai-model-available-to-azure-customers.md",
-      "title": "Microsoft goes beyond OpenAI, makes Meta's new A.I. model available to Azure customers",
-      "excerpt": "Meta's new artificial intelligence language model, dubbed Llama 2, will be available on Microsoft's Azure cloud-computing service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107268471-1688758329171-gettyimages-1259816455-MICROSOFT_COURT.jpeg?v=1689698925",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "publishedDateTime": "2023-07-18T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
-      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
-      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
-      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
-          "width": 838,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
-      "publishedDateTime": "2023-07-18T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
-      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
-      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
-          "width": 760,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "publishedDateTime": "2023-07-18T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership.md",
-      "title": "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

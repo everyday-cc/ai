@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230821000593"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230821000593"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 500
     height: 358
     isCached: true
+
+related:
+  - title: "SKT grabs stake in developer Persona AI"
+    excerpt: "SKT revealed it will invest in AI assistant developer Persona AI, a move which will see the companies jointly develop AI products."
+    publishedDateTime: 2023-08-21T11:04:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2022/03/16114547/SKTelecom_MWC22_stand.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "pGlsfdo81iy3JzNiQ6mr4Wb+QlWo2EGPlYiMoCxjKuzfyLbJqEtwrigTyaKfxFaCj5GANcrepdtEPGqF/dKI44CTZxqApYzu5++PVj7VXoQf+VWgfaW2qXaEO+HYohpOJy0AftDLPqcWsccxBa7BpuPR3AFg92KzWAfww4+HPANEH+6hEzb6/CSmTn+e3VUvRrEqWLxo7phk0eT3zLrBk18QeCTt9xQiJzTa5DiDJUtHVcBwA5OvBu+b88pLyrfjJalS0WJZindXykIwcMGrTBx8AwYzY+EmACIG3a18nNluveFFUFSodRdVJsFKjcqd8qFnpHW4UoLeXZRQ7ulY1Fi/f+VfPVgRRDpEfQ8ll9kavu+zf8zIWBDTKm1RZ6+/U3bxSRgc1vpeL2aG9lRVWCnqFys2TFSUAnLB/TFijFj/WKAtgzDuP6cvbqNcJacu6FQ3+9VZ9WeyxS872bw8Ge+mLu1+C//MQCB1aQg+alUkZH1a59cliJAQbWiQIqCuA7NQMm3SH1MkdZ5iiE+6Kg==;GrXeve84pwGianfqdd/QKA=="
 ---

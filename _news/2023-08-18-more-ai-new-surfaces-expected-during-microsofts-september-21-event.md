@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
+    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
+    publishedDateTime: 2023-08-17T21:03:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft says that AI is the new “tidal wave”"
     excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
     publishedDateTime: 2023-08-19T01:07:00Z
@@ -77,6 +91,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
+    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
+    publishedDateTime: 2023-08-21T10:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
     excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"

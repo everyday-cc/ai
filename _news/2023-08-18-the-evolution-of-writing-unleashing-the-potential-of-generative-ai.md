@@ -25,87 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Governments, including Washington State, making policy for use of generative AI"
-    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
-    publishedDateTime: 2023-08-17T21:19:00Z
-    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
-    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+  - title: "3 ways to upgrade continuous testing for generative AI"
+    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 55
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
-    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
-    publishedDateTime: 2023-08-17T07:49:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
-        width: 469
-        height: 314
-        isCached: true
-  - title: "Artificial Intelligence and Copyright — AI: The Washington Report"
-    excerpt: "The Washington Report, a joint undertaking of Mintz and its government affairs affiliate, ML Strategies. The accelerating advances in artificial intel"
-    publishedDateTime: 2023-08-17T23:48:00Z
-    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-copyright-ai-washington-report"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 52
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/intellectual%20property%20IP%20copyright%20folder%20calculator%20laptop_0.jpg?itok=ooS_1YBs"
-        width: 500
-        height: 362
-        isCached: true
-  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
-    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
-    publishedDateTime: 2023-08-17T17:40:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 32
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 900
+        height: 800
         isCached: true
-  - title: "AI-Driven Investment Strategies: Unleashing the Power of Machine Learning in Financial Decision-Making"
-    excerpt: "AI’s incredible ability to analyze vast amounts of data has given rise to sophisticated tools that help investors predict market trends and optimize their portfolios."
-    publishedDateTime: 2023-08-17T16:14:00Z
-    webUrl: "https://financefeeds.com/ai-driven-investment-strategies-unleashing-the-power-of-machine-learning-in-financial-decision-making/"
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
     type: article
     provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 20
-  - title: "States’ Increased Policing of Artificial Intelligence in the Workplace Serves as Important Reminder to Employers"
-    excerpt: "Employers’ burgeoning use and reliance upon artificial intelligence has paved the way for an increasing number of states to implement legislation governing its use in employment decisions. Illin"
-    publishedDateTime: 2023-08-17T23:38:00Z
-    webUrl: "https://www.natlawreview.com/article/states-increased-policing-artificial-intelligence-workplace-serves-important"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 16
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/46181/Artificial%20Intelligence%20Concept%20AI%20SMALL_0.jpg?itok=b6Y-U8rL"
-        width: 500
-        height: 243
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
         isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "6H/XilN3STbCiIzsW7rKNk3t7T8qOJnucFN+okrw87UPoyp8z9jbeih3j4+O2AjaCJNfsdz2niATnFVX5HDQDZPscMk2a6sIiH+9gNA95ngflUWYyX4gQ9gd8vfuRcGOPi6cnlPz0+Hm3UaqTVE3EDtGWO1EmvEr8qGRmeN1jIRyhvXOCM4ugu/5GrHmFxdiDMLWv4MX8//WZNT6d+f1E2O3f0V9YmrMxosWMtxLMIN92RRm8QfIJbpBvlAtkY3ln0O36eMBJtWRkVlbAXfvnAThx3yNxgNiqDq89rUwbYvw3P/rlVnO+y5sQPnbTqhF6v/2d8KCMqFwRbdNEdM3t8hHw7gfII46uRacLGPNk33fyUVWTqBDVU/ehF5BYpaHm86xp1x+YxFP/aXhc/yVCNjTLkbjDJ0WH1lc2+kF+w+uI61XWXNJSF1AiyekhYZkoyCC8/DkNWZqkBTjfXwatwH8h6xwNldy5jBU+Pyc/EpR+a0ZG1SdsqK97FpsxZqVZnql1WEE42mVFAg+jXm+3g==;8vzxurIb+EDnhCcJaA/r0g=="
 ---
