@@ -171,7 +171,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 49
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
     publishedDateTime: 2023-08-22T16:30:00Z
@@ -239,6 +239,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z
@@ -248,6 +257,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "6H/XilN3STbCiIzsW7rKNk3t7T8qOJnucFN+okrw87UPoyp8z9jbeih3j4+O2AjaCJNfsdz2niATnFVX5HDQDZPscMk2a6sIiH+9gNA95ngflUWYyX4gQ9gd8vfuRcGOPi6cnlPz0+Hm3UaqTVE3EDtGWO1EmvEr8qGRmeN1jIRyhvXOCM4ugu/5GrHmFxdiDMLWv4MX8//WZNT6d+f1E2O3f0V9YmrMxosWMtxLMIN92RRm8QfIJbpBvlAtkY3ln0O36eMBJtWRkVlbAXfvnAThx3yNxgNiqDq89rUwbYvw3P/rlVnO+y5sQPnbTqhF6v/2d8KCMqFwRbdNEdM3t8hHw7gfII46uRacLGPNk33fyUVWTqBDVU/ehF5BYpaHm86xp1x+YxFP/aXhc/yVCNjTLkbjDJ0WH1lc2+kF+w+uI61XWXNJSF1AiyekhYZkoyCC8/DkNWZqkBTjfXwatwH8h6xwNldy5jBU+Pyc/EpR+a0ZG1SdsqK97FpsxZqVZnql1WEE42mVFAg+jXm+3g==;8vzxurIb+EDnhCcJaA/r0g=="
 ---

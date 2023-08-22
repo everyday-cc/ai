@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -161,7 +161,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 49
   - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
     excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
     publishedDateTime: 2023-08-18T08:45:00Z
@@ -243,6 +243,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z
@@ -252,6 +261,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rjSnWnEk9jxeJjrWh6HVLLgO4XbRfy3emaSJO8P5HkWZh197mYuVYb2CjMbRlZ7SZ2WHaUASI4kYSyGCEWC390AanX2qX5zu2bx39hIA5Ukt8ufO7ktKfV7ldhZvUleIIjI8yG4Gn4Gd68ONxJ40+D8gRZCbWq94rO1M9Of8anaIV+4m8JNAuxEPekjizOIBqoanMBFtYtbNpUpgokKwZIhw5+08OrUGzNGwBOcmjsbpb1gQhqTJ4botvMt5hbtJG/IhHbe+vRrKctKkcmWGlfd8zxdY6ZdWWReax2U069pylUYQo8NZy6MnekXoM5q7ulnAlBbcVlohMaxBzj1kqdRetQ2tFQVDGsetdw52RkrdYQfD2FUWWJ2qvstrw/MnOfgSdaHCo5a4TnM8iigIOkf/ifSnhtPn9ZdXkxCx/E0fGjcGk+cDFmbrv12MnAV0LGQ036g2ku+EOiBwawAKWBjCF+w5/OSEkz36TGmn0B/+3KmtWwvRJfHJjoyOfL9mbyiydawIagS9ceViBviaZQ==;m93E9G4jdgGKz4vykDtghw=="
 ---

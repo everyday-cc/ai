@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "5 Meme Stocks to Sell Immediately, According to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Last week, I revealed MarketMaster AI, a set of deep learning AI algorithms"
+    publishedDateTime: 2023-08-22T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-meme-stocks-to-sell-immediately-according-to-ai-1032574312"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
     excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
     publishedDateTime: 2023-08-22T04:45:00Z

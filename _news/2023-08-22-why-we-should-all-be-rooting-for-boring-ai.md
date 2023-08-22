@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
+    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
+    publishedDateTime: 2023-08-21T04:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Agencies and AI—how major shops are using artificial intelligence"
     excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
     publishedDateTime: 2023-08-21T09:00:00Z

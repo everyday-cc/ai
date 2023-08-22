@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-01-why-artificial-intelligence-cant-bring-the-dead-back-to-life.md",
+      "title": "Why artificial intelligence can't bring the dead back to life",
+      "excerpt": "This year is shaping up to be the year of artificial intelligence. ChatGPT has stolen most of the headlines, but it is only the most infamous in a wide assortment AI platforms. One of the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
+      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/340/340/180914_LSC_Headshots-319-copy-2.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
+      "publishedDateTime": "2023-05-01T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-can-self-driving-ships-revolutionize-water-travel-and-fix-supply-chains.md",
       "title": "Can Self-Driving Ships Revolutionize Water Travel And Fix Supply Chains?",
       "excerpt": "Current autonomous systems aren’t necessarily whizzes at perceiving obstacles or overcoming navigation challenges — Tesla’s Full Self-Driving feature, which despite the name requires some ...",
@@ -1275,49 +1327,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-chinas-drivegpt-could-leave-companies-rushing-to-catch-up.md",
-      "title": "China’s DriveGPT could leave companies rushing to catch up",
-      "excerpt": "Beijing’s regulatory guidelines set a framework for companies to follow, but China’s self-driving industry has grown beyond this. TikTok’s owner ByteDance Ltd, along with startup Haomo Zhixing Technology, backed by domestic automaker Great Wall Motor Co, have established the country’s biggest computing centre for autonomous-driving infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/04/26/600x338/AI_1682534525072_1682534531346.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "publishedDateTime": "2023-04-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

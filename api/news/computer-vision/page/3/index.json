@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-foreign-object-in-the-eye.md",
+      "title": "Foreign Object in the Eye",
+      "excerpt": "There are several ways to remove a foreign object from your eye. It’s important to see a doctor to remove a sharp object, such as a glass or metal fragment. A foreign object in the eye is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/eye-foreign-object-in",
+      "originalUrl": "https://www.healthline.com/health/eye-foreign-object-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
@@ -1277,49 +1311,6 @@
       "provider": {
         "name": "Kentucky Today",
         "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-landing-ai-and-snowflake-partner-bringing-ai-fueled-computer-vision-to-unstructured-data.md",
-      "title": "Landing AI and Snowflake Partner, Bringing AI-Fueled Computer Vision to Unstructured Data",
-      "excerpt": "By extending the power of computer vision to unstructured data located within a Snowflake account, models can now be trained within the Landing AI platform to then be deployed into Snowflake as User-Defined Functions (UDFs), along with pre-trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Landing-AI-and-Snowflake-Partner-Bringing-AI-Fueled-Computer-Vision-to-Unstructured-Data-159568.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Landing-AI-and-Snowflake-Partner-Bringing-AI-Fueled-Computer-Vision-to-Unstructured-Data-159568.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
         "images": null,
         "publishers": null,
         "authors": null

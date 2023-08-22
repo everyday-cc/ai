@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
+    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
+    publishedDateTime: 2023-08-21T04:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Agencies and AI—how major shops are using artificial intelligence"
     excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."

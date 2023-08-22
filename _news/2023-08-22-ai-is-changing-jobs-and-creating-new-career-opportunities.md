@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Networking vendors highlight AI opportunities as order backlog challenges begin to subside"
+    excerpt: "Cisco, Arista, Juniper, Extreme, and HPE Aruba posted strong quarterly financials and talked up the potential for enterprise AI technologies."
+    publishedDateTime: 2023-08-22T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3705096/networking-vendors-highlight-ai-opportunities-as-order-backlog-challenges-begin-to-subside.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 7
+
 secured: "kOqZFBtShoAQM0fQi/oENWPMmog/f7TDZH5vr+LKzrbxvAleAD+XkFq89asynCqrkg0mXs/OV5JgSpclntvy0p+tLxQiUQknca65i7oWCkqg5LyYNtCCgJ0erBklOAD2neGErFxyAZQQBXKESx3Q6XSkoqVLt0T91W87uX6YTXcF1JDfJOqx6UIAWhXcdfAe68L5euljjD3i1HrDGp2eaLd0HRatB/HO6S9gfnMQbNuteTl3xnSxd5x2+ID+gfklVI6+8ZlQqM1GSwVvDrHewpekbRcldqkN2a+ksYImhzU0fa+sXvVD/EdLHvi7HVNfcF8E2gryPAvsqq6ga9KJGLyOat+PtLXHo7qC4Jd9Hq4=;fP0TtpvxNiyh6ONIrKNung=="
 ---
 

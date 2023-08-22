@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-t
 webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
 type: article
 quality: 67
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
+    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
+    publishedDateTime: 2023-08-22T21:38:00Z
+    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
+        width: 1000
+        height: 550
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
@@ -176,6 +190,15 @@ related:
     provider:
       name: Shacknews
       domain: shacknews.com
+    quality: 19
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "QPN5ehqQ7g2M8gAGcH3AxuQ5amSe/SzX7ua+sQ0Jm9A4rV1ZUpMY5vwfz71+EFNwINMlfJaHPXVVo4OTBy5DunRMEF4TS7tIlYz9jUOIBbVQKkfCm4eGrSUqi/aA4xVtbJ/DMDrxTK6xvFKRUjH5gUTJk2WHtNOwn1OpdSMNCbe5QWH/OVOOyU15g4ioIiatEjM+nwgrg2V8EPhHkMhppYRjJoeHgOaX3CwsFNCDh8jhbV4dFQIhM3QF1GTYu2YFC2TiPFijjXXhwdEhBy06HCTtjZ4/mi15V0OAXruotW3MyS0yOqH8us041px7zns4XPR/7AiQszFA6oFOTidrjCnE2FRUS5QUk4yppDRjRbY=;ttwdNCOvtfLiizQFBuDDVQ=="

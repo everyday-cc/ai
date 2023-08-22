@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/retail-and-generative-ai-salesforce-honeywell
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent?amp"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
+    excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."
+    publishedDateTime: 2023-08-22T21:04:00Z
+    webUrl: "https://www.theinformation.com/articles/salesforce-leads-financing-of-ai-startup-at-more-than-4-billion-valuation"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 35
+    images:
+      - url: "https://tii.imgix.net/production/articles/11120/6c44d06c-a347-496a-b947-f149f51cbc39.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Salesforce Announces Speaker Lineup for Dreamforce 2023, Emphasizing AI’s Transformative Role"
     excerpt: "Salesforce this week announced initial speakers for Dreamforce 2023. Diving deep into AI and how it’s transforming the world around us,"
     publishedDateTime: 2023-08-18T16:40:00Z

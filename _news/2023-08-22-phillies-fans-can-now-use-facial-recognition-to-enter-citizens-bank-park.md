@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Man Accused Of Stealing Dead Brother's Identity In 1965 Caught With Facial Recognition"
+    excerpt: "BANGOR, Maine (AP) — An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities, authorities say."
+    publishedDateTime: 2023-08-22T21:36:00Z
+    webUrl: "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a"
+    ampWebUrl: "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 81
+    images:
+      - url: "https://img.huffingtonpost.com/asset/64e529b52600005a0035fe8c.jpeg?ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI facial recognition technology: the black box hurting Black people"
     excerpt: "Unknown to her, the ministry used artificial intelligence (AI) facial recognition technology (FRT) to match her photo to some other woman in its database. MTO passed this information to Immigration, Refugee and Citizenship Canada (IRCC). Subsequently ..."
     publishedDateTime: 2023-08-22T09:02:00Z

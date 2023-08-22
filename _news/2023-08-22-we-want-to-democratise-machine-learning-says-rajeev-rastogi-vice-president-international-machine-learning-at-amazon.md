@@ -8,8 +8,8 @@ webUrl: "https://www.outlookindia.com/business/we-want-to-democratise-machine-le
 ampWebUrl: "https://www.outlookindia.com/business/we-want-to-democratise-machine-learning-says-rajeev-rastogi-vice-president-international-machine-learning-at-amazon--news-312639/amp"
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/we-want-to-democratise-machine-learning-says-rajeev-rastogi-vice-president-international-machine-learning-at-amazon--news-312639/amp"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1692695818.jpg"

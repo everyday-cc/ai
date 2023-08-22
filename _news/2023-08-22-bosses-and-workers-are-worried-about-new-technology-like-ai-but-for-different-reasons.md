@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
+    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
+    publishedDateTime: 2023-08-22T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
+        width: 1400
+        height: 785
+        isCached: true
   - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
     excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
     publishedDateTime: 2023-08-18T17:57:00Z
@@ -45,6 +59,6 @@ related:
         height: 711
         isCached: true
 
-secured: "YShW+nfD5II+u78jwkCv93vp3CWmMa0vSeDyx/IusbtTwmCbtxG6n8wLfNKbSuYMp+4riBf9o4PmjFE2pQ1aZt1riOvEdypTcM4ML2P6NJDxyohHS0E4wN97zHOg0apMPulUeN2W5EHF033ghrTooKz6OW9xxqBhYyBJZ4bryIWhkBZjSFqrgEEi19bD+pFM6xLGethxNwCeoa6kmyERtXeeGRA0ATrnAlk3F6btDMEUM60Ec8RGCCJYKWlkYSvUu5riWJT0eev52CIIXfHEDe3YCUYHdgiII0ynE5z5DDsVFxTuMVNqSNZ3Oa6Z7IzRPYf70Qc+YQYO+f+dmNPBTEMohN2fDBmRGfBwJ7aoZUE=;LbzJwfscLqxhFrU/ALffOg=="
+secured: "WBLwp2ssTKcD3Tg+IjrQD3vaOR9E5Khp/t8x1SeKvv4c7+fnuwy4gNbba5wT70Pbx36wzk3ONhgvlmV0J6xs5mN0sGAfVQt5eXXQuIzKn/oWygYpAZV5srCM0vrfdUlctZinP16ug3v5BhhmW/uvqKL0u2M5UWXWd0TCncoPfNeApWvSedBPrqCO7SPJRYc7ZoIiWAPdM+Dm/DXJDGbO7TWgSmQkne8Re+Ii/ZDPd3uHOCaidp+I4BbG6NK9N2ouaSvxUVLmonAn0Vqs+/MnQdwMd3qlvDPWBoewAb0fiql70U/dcuo+kdXTtCugUm/BgBiP213WOU6e5fUy2xGhbv57l60uTD2p5KY8z5iIwIzkvthF9xdJuW5qEtfsAOX/uR1HoN9rLQvPUB2i/jOicbNryP3/nP241F/qsFtO3CGtknf6tW1T6mOadkYnm/pTz0nUpxp7QRTlelrteMJBU1f3lDNSUSXcrOQT9SL+x9H50sCOpCdqpVnCFBVN3YtvX3aee5YPEYBhzS5yJXrKaw==;xh77ePofg+tmyWWWWDQA+g=="
 ---
 

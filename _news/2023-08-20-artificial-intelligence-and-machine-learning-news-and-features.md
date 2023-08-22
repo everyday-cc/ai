@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Interactive AI App Sizzle Guides Student Learning"
+    excerpt: "Sizzle is a free smartphone app that uses artificial intelligence to help learners work through any problem. It shows a compelling vision for how AI can support learning."
+    publishedDateTime: 2023-08-22T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4b7aa78f7f2f2574af6bb/0x0.jpg?format=jpg&crop=1110,624,x447,y0,safe&width=1200"
+        width: 1110
+        height: 624
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning – News and Features"
     excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
     publishedDateTime: 2023-08-19T16:08:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
         width: 1200
         height: 627
+        isCached: true
+  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
+    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 36
+    images:
+      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NrujEf2BlJbzHvWyNgKlqxTM8IcMHjIwlfRCkmX48ONMrMzIBNuLVv0KQxyrVR1N5/fmPUJ8CP6eZ03s+c2119syJTVY40pFNmGgnn8OWUTqcA0qigBMNlQwbOF2N15YPaeMdydCRoVvSypNiCFAmTwtiNjNttHemrAcejbA8hR4VPl/R+iMIziIGTDJhKANmuqb8ksDk9Jk2JRWtWXoyBS/S4yUStAVky6AEMz4AQZT7MCrSp4Bw+kdJFRHED7t27oGqdHD6LTWWN1jU3WUBQXUs31shMiqqipPZb7aneCOi1V4Y/8yZhL316/gjRQ9MwJpD4E7EYEjXDzbzJi4Z1BR5TkR/Ul9g/b7TrKJMFI=;IDNWVFe9dJTesNbPFRbZXQ=="

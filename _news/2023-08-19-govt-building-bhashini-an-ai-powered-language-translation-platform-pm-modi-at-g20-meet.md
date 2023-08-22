@@ -27,93 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Platforms announces new AI model for speech and text translations"
-    excerpt: "Meta Platforms (NASDAQ: META) announced an AI model that can transcribe and translate nearly 100 languages. SeamlessM4T is the company's first multimodal and multilingual AI translation model that allows people to communicate through speech and text across different languages."
-    publishedDateTime: 2023-08-22T14:00:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/meta-platforms-announces-new-ai-model-for-speech-and-text-translations-432SI-2954620"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/meta-platforms-announces-new-ai-model-for-speech-and-text-translations-432SI-2954620?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/meta-platforms-announces-new-ai-model-for-speech-and-text-translations-432SI-2954620?ampMode=1"
+  - title: "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet"
+    excerpt: "English-speaking population of India to the global Internet and help them access it in their regional languages."
+    publishedDateTime: 2023-08-19T08:45:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 59
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC4Q0CT_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Meta Platforms Pushes New AI Model: What's Going On?"
-    excerpt: "Meta Platforms Inc (NASDAQ: META) shares are volatile Tuesday. The company announced the release of a new multimodal AI model for communication."
-    publishedDateTime: 2023-08-22T14:56:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33986261/meta-platforms-pushes-new-ai-model-whats-going-on"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33986261"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33986261"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/22/facebook-1903445_1920-2.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta launches AI-powered speech translation model, to use it on WhatsApp, Facebook"
-    excerpt: "Meta, formerly known as Facebook, has unveiled an AI model called SeamlessM4T that can translate and transcribe speech in up to 100 languages. The mod"
-    publishedDateTime: 2023-08-22T15:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/articleshow/102953757.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/amp_articleshow/102953757.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/amp_articleshow/102953757.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: RepublicWorld
+      domain: republicworld.com
     quality: 55
     images:
-      - url: "https://static.toiimg.com/photo/msid-102953819/102953819.jpg"
-        width: 1867
-        height: 1280
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tpps4caa50qgrcjo_1692421617.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Meta introduces multilingual speech translation model for 100 languages"
-    excerpt: "‘SeamlessM4T’ supports speech recognition for nearly 100 languages, speech-to-text translation for nearly 100 input and output languages, speech-to-speech translation, supporting nearly 100 input languages and 36 (including English) output languages ..."
-    publishedDateTime: 2023-08-22T14:36:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages?amp=1"
+  - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
+    excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
+    publishedDateTime: 2023-08-19T00:28:00Z
+    webUrl: "https://www.deccanherald.com/india/india-karnataka-august-19-chandrayaan-3-punjab-himachal-pradesh-rains-gurguram-delhi-world-news-2653241"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 44
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 18
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/08/ef6cc09434697285ca3bf4352f08a7d5-1.jpg"
-        width: 2000
-        height: 1414
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-08%2F2d6340e5-8cf1-4af2-9fc5-394f47b56ec1%2Ffm_ani.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Meta Introduces Multilingual Speech Translation Model For 100 Languages"
-    excerpt: "(ians) heating up the artificial intelligence (ai) race, meta on tuesday launched a new all-in-one, multilingual multimodal ai"
-    publishedDateTime: 2023-08-22T17:17:00Z
-    webUrl: "https://menafn.com/1106916284/Meta-Introduces-Multilingual-Speech-Translation-Model-For-100-Languages"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/22/I_9928fimage_story.jpg"
-        width: 1000
-        height: 707
-        isCached: true
-  - title: "Interprefy Unveils Two-Way AI Speech Translation Solution for Events"
-    excerpt: "In August, multilingual meeting technology and services provider Interprefy debuted a major upgrade to its artificial intelligence (AI) real-time translation solution, which translates live speech from 45 languages and regional dialects into AI-generated audio and captions in 74 languages."
-    publishedDateTime: 2023-08-18T13:46:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-unveils-twoway-ai-speech-translation-solution-events"
-    type: article
-    provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 19
 
 secured: "H4F/rem5LLOOOX/F97zajJqe+c3Ugv8qxzV3tGjmoOcSNC1mmkXivQuC/8M9UmaBxIfDuNvO2lXizd+S82wa6p6GqQG12c1dBnDZDNtiZavtNDhXOxuNT+moRJZLnac5lhXnY6rCjhjHsdXxHinYvN570G81LrE90UdA2uP/RQeR8QJTwpEtdNwMtJiRkwe1WIbEp+5SI03Jh6K3TCZtG9EcEEpecMVpbz7iyr/+obiWUu8JUKF/AUUuVzMJtAGYzJ8M/hJUnnH6wMjRyxPe19Ud3B+JYXdCHhtvKQOonWEptYF0wt0etS+TAPAwdOHL2KgPdthZRLeezW3roAJJf3YApMCJnDAmO4uYYwzCZ4UmqJu73xlfTqzpDvntC2nQ2+CKYN1qPpBgn/1Ntn35YsD8w87dPyvvGN5IYRU8FvnKOpD13IJXHPCHNpIxV6swArnjiAwEJchpePYDYyd3BBUSoccYEPityTp097tLj3Mij2wnZjUvu9/UiZ0+VQRodoYwpR/TpfcHCDZP93JdZQ==;Na+63ojfWfRvjL2FWm0rrA=="
 ---

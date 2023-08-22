@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-
 webUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023."
+    publishedDateTime: 2023-08-22T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
     publishedDateTime: 2023-08-18T12:56:00Z

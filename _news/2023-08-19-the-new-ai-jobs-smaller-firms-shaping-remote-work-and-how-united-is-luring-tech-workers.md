@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
+    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
+    publishedDateTime: 2023-08-22T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
+        width: 1400
+        height: 785
+        isCached: true
 
 secured: "51sCPmBx4QGV+iSD1CQzR9FHmu9tBo0rWEJCAdAFeGLFHpkcYk69gu8QQ8b66vcTG2hGX2ZyDLuihMbDzrioKNy7OEjX7/uKVPXGjXLuQRuvIk8s1WllJhKUhUJqddNAZd2yEtvoJ1VxENFFEQbrysh1wtm9ZJ7ims8G6B4eMcLhmCKZ9fwinz5fXoJT5L8wCa4+skY9FEHAEeOJlK52DoG+4XICINKb4TbRzNrAccfypTArS2o3vrFJTUy6p/zIQXmTEZA6qQ8Hzi4WakKbxIy61peL88PHn7UPI9NPfIxjpPGZKdpZycRVEw7uLcHZtp1e2ervK6H862DDI13N00TC4xMWd83EUtmbv3RexZ4uv/43jVeD4iF5+WggxZ0ENs4uozRAHw5+VbcHumEQenASj/AK6KgR3iax4zPJXyWQOtp3aSM62W9oocvFaTq1YPZLh0f0hUw3ke4rt0H09GSqAGQBS/xHNWbelV2i394k0Ku9iYKB3dg8AI5t8aseJtGbNtZaCHvzUO744fw9PA==;gBCNAFBfLf2CV0ZVSPalhA=="
 ---

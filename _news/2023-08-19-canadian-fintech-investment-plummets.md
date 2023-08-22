@@ -69,6 +69,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
+    excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
+    publishedDateTime: 2023-08-22T20:55:00Z
+    webUrl: "https://moneymorning.com/investing/buy-this-beaten-up-fintech-stock-thats-poised-to-soar/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 24
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
+        width: 800
+        height: 712
+        isCached: true
   - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
     excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
     publishedDateTime: 2023-08-18T15:15:00Z
@@ -83,24 +97,10 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
-    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
-    publishedDateTime: 2023-08-18T03:01:00Z
-    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 21
-    images:
-      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
     publishedDateTime: 2023-08-22T14:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-provenir-named-us-fintech-awards-2023-finalist-two-/2023/08/22/9868268.htm"
     type: article
     provider:
       name: TMCnet

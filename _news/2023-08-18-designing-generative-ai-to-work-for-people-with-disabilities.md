@@ -164,7 +164,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 49
   - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
     excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
     publishedDateTime: 2023-08-18T08:45:00Z
@@ -246,6 +246,24 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "nCCYZIU/W/7Gs+ym42KPzLcen3YD43OFYC2RprvmdPkzf6oRRbTkAadUTsGV9US8CEKyLjjvvm6KwtGw6/ADp7K4EUe6nXqqU8VKq/GW6ChfIK+nLX/mTDm0oDlk6h+7TURShklctUnnezAYh9e3r7jtI720nqH+mnAsPTFhFjkGKexVMUrtchNL4rO5w0Q2EO6DUrrBZg2OZoJ3tXS84MFvjzoDnwA8Z/6uapxaH7bRcl0J5xCg7eN1PmnNVNwQCS09TeZcdXDRpTfc8LRZ5k51rgvvbfNb77LSXvI4fzK8jh1bhbMhvfQUOr4BhSAr2rULfXL2MZzf4oc9Vg+Rh1n+iPDdwgzfQkBVW+pWYHmGQCr4c9OjCI1zdPvpUzU5OfS/mgTYwePrwnupuyWPpQIOg0/msQM4BS3ymCXLSnQUmeg3yoRu8AkwOG38w35xIBcUJZO6MDBUf0xuu4cWuYUuC0ceBG2p8PLlJObczs9pd9Bcwrtf9BLciXm+u6Jf3DkARWJZEl+XOJ2gfd3rmw==;rX9y3WbZwEuP4oJBpIuvuw=="
 ---

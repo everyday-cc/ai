@@ -33,6 +33,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Docus.ai: Innovating Global Healthcare through AI-Powered Diagnostics"
+    excerpt: "Docus.ai, an AI-Powered Health Platform, is revolutionizing healthcare by making the highest quality medical resources accessible to everyone, everywhere."
+    publishedDateTime: 2023-08-22T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/22/docus-ai-innovating-global-healthcare-through-ai-powered-diagnostics/70653228007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/22/USAT/70653244007-docus-image-1-1.jpg?auto=webp&crop=1199,677,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
     excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
     publishedDateTime: 2023-08-20T06:01:00Z

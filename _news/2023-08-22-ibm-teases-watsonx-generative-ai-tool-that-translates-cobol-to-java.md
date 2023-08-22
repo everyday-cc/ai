@@ -232,6 +232,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-22T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
   - title: "IBM trains its LLM to read, rewrite COBOL apps"
     excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
     publishedDateTime: 2023-08-22T12:23:00Z
@@ -242,6 +251,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "WsMtU3nxgjFoCRiOkz4j+30v9DzL3+WA6bYDnoxD5kyFyQWk/p2bTnh9JN1Isv0ReOWWv2ZiFKJwXsQGZ+ybKbQcuVXbDif3XtijqH4dnhYJ5JAmm6rC51F+8kEwBXwokQvXP/VYEHHMFx9ECoPZW1JWQOE6ZDF2RY5yOpQJTF91bzoXjnrVKS1Gee/fbUf3YjrUpEzlFogmIkDQfwpSjIE0tRQFOU+whGHlCqep2pOjewhDrtGiuQYQBS5AxNAngfHzqAkX2GbMxI+yhfbg6cP++FE34oZ+8BsJbulQNs384tugzTIpjiwom3+LjK2NgJAJZHplbaYv4fdMj8ykWUGFags9KoqJuDBEM76cgKs=;33LnibmU67uTLFXBcD50VA=="
+secured: "HydNyHVqoFlB2fyD7ILjn8ixbjdbMZCKoFRQ68XKM0wDbvK3vwW9hLM6C+L9YvfLgWcMBVAoaOZLQIYrewfKwOq3Qf9ZvCgK8iIK6ro3YEQueVGa3/XGXbP3e77lUBzwO9vu822Q0kBeC/YMDwLqufdV5gGA7vK7AkblTndAMHSXo+7mepgTptOefUFfbD9ul9LeX+LVr0Le4gslhhm78yQL1Zhm/rg5rO19m0gPDGv/ID05pV9JqZh9btk6boKri/ldbChNGvGMGVxHOOoS4myWe1c++u7SzYdcOSWCcP2l4dV/hJHfThE0mr3hSDWMkWpOBQevNIEc+bYMrPqYx3LWsR4hmr9rS4HCgsWANYpV85zolHsmR3zQ0leyrHMeDZtrTI8nPCH981TOkyc9hGfoOzCrTjuAIKB4jkcYOJ50ufysW+XYDVuW/Mv+BtjVqYHImHeRES1Hqp6AQ5Zenqkow1tPZ5/rVc1WUXzwzGTyWumVbxbjSJiq0Vmi9UTBerJ/5lUFyZClTw3KyG5s7w==;Fx9UGkktRsPiDAik0TthnA=="
 ---
 

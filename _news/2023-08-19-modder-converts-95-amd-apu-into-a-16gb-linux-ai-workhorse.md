@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-19T15:09:00Z
 originalUrl: "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html"
 webUrl: "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg"
@@ -37,7 +38,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://static.tweaktown.com/news/9/2/92943_01_budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion_full.jpg"
         width: 1500

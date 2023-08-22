@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google DeepMind Testing Personal Life AI Tools"
-    excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
-    publishedDateTime: 2023-08-18T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/388362/google-deepmind-testing-personal-life-ai-tools.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 54
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/08/18/shutterstock_2269392697_BFUsuAA.jpg"
-        width: 600
-        height: 375
-        isCached: true
 
 secured: "5A+pcToMX+42DA+3qZwO1sTnirLIXl/q5B6hwzuZfW5IhH2yor8tAf8BHrB/C0tLdnnlhl0AQ5HW/1h9ZeAKm8u+3ScTe+IDsdkq8O5gTyIbIYr4d3bjmmtcZ2AuuD7O2KOjBgojQt8oyWZOiP2hdyf2xmJW/yr0BlhFM1Z5Gt2T2cjQZzP8Ti3PF9XTjsqI/PNvBFqH+Vavm1JaoVCuXwyZG7CDiwtOGVt92RMoBhfWcMYs2OMf3NnVRkfnXplFQinkXr2bKN3VossyyFmxllAYv4jw0BMjBEl6F9zSFfb0kGctReBhIGrTxUiYf77CakkyYoshvcprHj5iimUukolsAOuePufnmnStnIBgdPHO7K5kTG9NcASYU70pQPAHUy6LRmbeUifTBQ8+pO9H1Y3JhqFtuiYnu0f8KT0FHMfxsS70fD3fATlToxyKxReP7OLVoSx49pFVRxtF8OXuPUEDiQbOKPai0xk5XHXZISD914ATlrcdOJANGxn2qKeqyYNloeqEafbiy8W7HxW20Q==;KsUKxUC/Z0KNJ3aonapJJw=="
 ---

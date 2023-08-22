@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing - Hong Kong"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$174m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.78%, resulting in a market volume of ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition - Hong Kong"
     excerpt: "Value in the Speech Recognition market is projected to reach US$50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.95%, resulting in a market volume of US$168m by ..."
     publishedDateTime: 2023-08-19T14:09:00Z
@@ -53,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision - Hong Kong"
+    excerpt: "Value in the Computer Vision market is projected to reach US$162m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.32%, resulting in a market volume of US$439m by 2030."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 19
 
 secured: "P/p7NqHHLH9SOkNYPxP6FGC4THSqjyuwitvtLwzru4e6Wjfsy7gDpXFtkVXiDfR6FOuPTGhIRj7dFkR4rp79WxNUNt2PyT+edFkH/3YTZr6YMmMtAAfKVvy/c4rsiwmgRMjH6fWqD5KqdnrAzobrZy/HxE385CANLOZE9xwpDsnwX4BIIdzwIxc/jAtzppJDdDXHII2lKc9dPst19WsD0X1N1zTgjxmrD0yfvDW/dvlHAxQ2utxm9ESEYWuZgaAo5Me/qwfomKf5qnjYy8jxX5MaPguN5Z++iwod2mr3hyK/DGIKg7wa7t61J1LEZNvdRAznJLGX9882lFkGvQK7ggBsNvnS1CcwMD6/ooN3zNs=;RTvonaD+V+nDALhKiBwTtw=="
 ---

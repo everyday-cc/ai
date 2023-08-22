@@ -56,6 +56,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
+    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
+    publishedDateTime: 2023-08-21T04:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AI is helping expand accessibility for people with disabilities"
     excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
     publishedDateTime: 2023-08-18T14:30:00Z

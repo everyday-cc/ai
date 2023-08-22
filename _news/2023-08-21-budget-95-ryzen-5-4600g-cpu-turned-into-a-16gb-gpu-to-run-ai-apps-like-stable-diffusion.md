@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-21T07:58:00Z
 originalUrl: "https://www.tweaktown.com/news/92943/budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion/index.html"
 webUrl: "https://www.tweaktown.com/news/92943/budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion/index.html"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://static.tweaktown.com/news/9/2/92943_01_budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion_full.jpg"
@@ -33,7 +34,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg"
         width: 2560

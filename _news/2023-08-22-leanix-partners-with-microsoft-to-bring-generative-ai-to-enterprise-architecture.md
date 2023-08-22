@@ -1,18 +1,18 @@
 ---
 category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
-publishedDateTime: 2023-08-22T13:35:00Z
-originalUrl: "https://www.kansascity.com/press-releases/article278479764.html"
-webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
+publishedDateTime: 2023-08-22T12:16:00Z
+originalUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Microsoft AI
@@ -147,6 +147,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "uqQy2juL+AuqiW64dTZGE0BNNENuPSXG6pMOD1EItTP24fkSl4q9Jzr49iw5SQgjZNNCtZS8CTZUpDXnoeSNeyiypHelqxCkCcrw+NxIMbk5sXO7g+wfj+C7cCiaGl2uZpC/ZGnHyhNBlGpH6zvUWw8Ejvpr6/83V4U+DTi2fwFqiNrke0KFC64FTQ03pWFVpmqOVrXRm7gRxIgqsMFuOfx42eTBLYdL7DxYdp0cpyrcyOvSmWpcnhyDT4p86WBqoVF/dETf5auRQigPvUeL77+204iB1w5VbfX392pKsAH/QqpEiMezvKCsR1gmVMxNky7jzMlccAWE+um/28cfQXD1zkXfLWGX5YQVlOvcCPA=;gYN3BrT7RLNPFccm+SuJSA=="
+secured: "WuBX0qBtdbeJ25ZFIByDXjs9YaAFTZtTbzw8MkQK380YQIhwt2hIn2P9ciZvRKgytHiHU+4mLOuI9PQQ6hOcLRMHi3YbC0kl+v5ztA4YFsycFg1wDfZ263hJ+kfpyNn5Iwjauvfwnze0w/R0C/9WxHXkwgj4y44yfUo/R07KGMxjRcK3wRHv0UwJo7HdN9q8TtoqR3GpgEsMoM7GjAQo8+HTh5HXy84MZZhN63EMss6tln3heMj8r2MN9cFscORmMxyMyRMS7Q6TbJHEGqEI/EHYPXj7jWnj9YvR5n8HIu8dRTkxwuD4hQdtSrgvJzFg35d3pmVSDeG0z+fjuwvMdsyBFrW0ztuUkLa0D+5zwPE=;1MF2ToW0p1nV5WEM90B8Kg=="
 ---
 

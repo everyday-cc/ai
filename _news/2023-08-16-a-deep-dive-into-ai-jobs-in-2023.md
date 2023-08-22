@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://lh6.googleusercontent.com/Xt_bfKXg76WA2jXsWjb2S8Ng5AwX49DFfIA_PLlUjlEYG8Xjkgn6Q3qKXpyKbGMtw12dCSrpPf56nPGa5Y5yUTnvtpP3K8l2yA_Wrt3aUhtILcEA9Cthyzlkcm4p3H8h1Gd4MI6AojkhaahLOnISl7Fqt6Dqzc8P5319k5YZawcBeaKRSiWC-RDxWNWtfw"
@@ -24,6 +25,6 @@ images:
     height: 343
     isCached: true
 
-secured: "tSXqGomAc/Rjw6s+AvrkllCTsXk8AbtoIm3LCziSjkynIlhK5UUgJSELUPtNkgozXVLqpn4HWydaTpCpKNqWcAw2TCie5zkgw7N8J/0WdZ2t/xlom1mNuOzXEg0Xi5HThqIs7ZFlP4zwqdARJPDyKjP5LGT9nPuf4qok6IgXQxF36mv3IjdJVm8rFOFP0BdjNISgoD2WxE2yfmWnjt14I/zdzeLdRhEWF255G33/g6Qdf2tcbaVf0WSmf5EChF4w8AGk5GvX/UOZVWSWO9HyO6aCfFEHLAuK+oFl8tkEaW/60ZvTEauHQBCYraNKA5wsSmyA6EHjeL3GxrP7V9LC6S0r0oQqpR0FakTXl6VSunc=;09k78eJFN4gEz/QZr4bXYQ=="
+secured: "QA7UOSk1lYitrLnbaqexrB7uVxHHoiShQ4ediMM9jH5LHUD+K3sZlVVpRFbaqXCc2lz5XfTI1Xi8UEWIlQj79Ahfhvt5cQHV/mqcvOg6slMhWs5IxQ6DFGf1K5RSgPhwLdjbSBkYyKPH0kGRnWXq+Pm3a+RNoHue1A+DzpSmL/SPVruo21YJkn1N3E34Hi+myQnCU2rbGZpxIq8IQv4Ip2yprqbmG48ZXjG5KuJaINtmY/N64YS7HqI/JJwbwGqmtNxqbYB+k1N4iLOxMFu5Wr7nserV+gF9U8XBEaR9cnliwf8gcR/U/SI26xgnlHKlj4XJUNIQfutlyxLGzPKxfWobrBJ1MhCg4RjtygGDpvK017zoVkPEQvGo7M0GEEKzW69kKoMVNuigKiRLYTPn0ktMSL9l2WUwmNIBv9TREH3J9LUGODTOEGkQxv8qy3RdQxA+5E7cHpNhD3hhq4GJABns3tJaFiVkB6V6QdbDxPDMzj2qs2IJpGKcuEqxEqwHGT3Li3pO8fSK0tDuuIfIBw==;WdxdlJ5LEaCTyWqc+1BuOg=="
 ---
 

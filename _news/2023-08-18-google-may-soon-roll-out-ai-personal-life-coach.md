@@ -9,8 +9,8 @@ ampWebUrl: "https://www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: AOL
@@ -40,20 +40,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg"
         width: 1280
         height: 1280
-        isCached: true
-  - title: "Google DeepMind Testing Personal Life AI Tools"
-    excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
-    publishedDateTime: 2023-08-18T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/388362/google-deepmind-testing-personal-life-ai-tools.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 54
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/08/18/shutterstock_2269392697_BFUsuAA.jpg"
-        width: 600
-        height: 375
         isCached: true
 
 secured: "SY+7EJRzstsBK9XQY0SjZjspLeq/Nqd+iIQRvwZj3MBifVRFL2/UAROgxeR1TsBmTP1uevPuGonr46/saunp4t/4r63UJOrtKAIdo69ewI+Bhkq+9E8+syAxmdLgleudkfhjdlmXEGKlEpxFQ4kMpvtqu7BSoN+kds7djtbaTi+EZ64HVwX1yjZGoVlIr5Sdd9QOc1PNb3eBGIUaWMwX/VzizmRX/kVijN2aenDtcqTNIHj1PXbrijEojtGmFYfybVcUA4ssWzJjMcXU+E+iocvlO9+Ct4qnVNBnGlTb/uyG0V0rF0HZg0/7gQ82JOhPUSdLMkN2q+UMJlUubgwNUkimLkr2Hz/HJIs7FyskaWLPVHsQPIjxSENEKqR8Ff4SRDgZ1+P+W0sOO2LJ1EN4ger91vqTeU99LB3HqFZFQgfeUQ9dZikZGl6SCm2TJquGUiJXmDBG+3ZQcyoI4bPG+MVb6vqGmr9l5kEYo+GW+B5Kfsd+CE1BodIVW23k4rB97ICXeIXCGJfJjz+RGm0+ag==;A+G+oxtSfDZAoosL7J8wsA=="

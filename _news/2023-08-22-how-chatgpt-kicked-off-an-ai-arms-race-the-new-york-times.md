@@ -73,20 +73,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Google Gemini challenges ChatGPT"
-    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
-    publishedDateTime: 2023-08-18T01:36:00Z
-    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "d/hmHlq0tq6pn2uclO4en8pdImOC7ecnGjY8QRii8l33+b8xalyfGL/RenndLtenxzYglQIVBc4he3NAenwJvGo1tyD/QX6njKNXLDTF1VfuSFp00hAQcDJu1jdbFELnOWYNfFlBywdwvk+CCeAN2pLq44zFa6okDH5yV6nBKTGdC2NgN9rnfNC4sYViV++7BBBk854Sk9S7ajcqefjpnzBraE9gkCSNvwMfo4Fus3ZWZY4gvjZx/mM4RCI+xkH1IVmmH1mVOOvzKxbvvzPDic0/HUjkttlV4VePd4En8hAeAEqTn6OWEqdXHQ9xLMrli985FX+yLyWyHZTC4P3ZA5avpHQOIB7MyYf/y8mITMe2IMdZMFCYILwTnBE67E8gtcxN9z273CQwgjxdp7Kddr79DKDUQ7aJ7HTeC515v7aAexHECwlQHbt3a3VklElK/LblvF/hkXTX4FKjWG6Y1xwX2tTWQO6VmIP3BMDAiQHet+SxWrcDVKXdU9a/11QQgOQn1JTsEiPlPtfZ7Cv7ug==;mNvcImm8hBTbfCHgKTdIYA=="
 ---

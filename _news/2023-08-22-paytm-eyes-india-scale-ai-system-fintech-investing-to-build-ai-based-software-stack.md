@@ -59,15 +59,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "India to expand digital payments with AI-powered voice transactions"
     excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
     publishedDateTime: 2023-08-20T02:00:00Z

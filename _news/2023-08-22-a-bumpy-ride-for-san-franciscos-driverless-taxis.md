@@ -39,6 +39,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
+    excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
+    publishedDateTime: 2023-08-21T15:37:00Z
+    webUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633.html"
+    ampWebUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The rise of driverless cars: Are they safe?"
     excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
     publishedDateTime: 2023-08-21T23:01:00Z
@@ -115,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cruise self-driving cars stall in San Francisco"
+    excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
+    publishedDateTime: 2023-08-18T12:45:00Z
+    webUrl: "https://www.itworldcanada.com/post/cruise-self-driving-cars-stall-in-san-francisco"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 4
 
 secured: "tjsddVr+kHw/24C4+Jet08A9Fvuqy4RiwepUKhcS/64WYVAjrbVDs9+/EuHvSwmNGF+tIjPqD8Xg4fTTgg1Nd2Fez5sDhs/9XXF5cYeQy2FKmqi6aPYBo+XXZRyVj/hUteMyVEXJNTlojNJxSXXIc1y728NQrPyb9+hUj1knp/2GNHVuGrOP3l7L6aMcpKbi4YKOL8EMLGEF/8LkVe2fFvznSCliCx11kTLDfb8GUH9vJZHE+cG0CKAHK8Mq0GstfWh0hmZPwXGPTK+kwWEjxm9zfwg8Vir1YvrTdiXcuTo13uCWinMAOCXc40qJiqEEZW6mmmiHBuw6sveaBYjJYfKHvc7hL+gl0hnAF0NHO6Fs9TKn56NqrQU5hnFLA9/+UIO8M2FSOFNuaHrNpMoE6cLPuMwftr++euBm48uInK2rSFqpgAAji4AySkxZnJ4VakDYA7rGo+EsnSPmLdWzG8C32AM9YScI0l/XViEcZACZfRFm8wx3iD9ZssJFe2KCG+2YWI6XmbxrolYatUeQcQ==;takwNl7JYx3+n7MDeGxi0g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
 type: article
 quality: 87
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Google Gemini challenges ChatGPT"
-    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
-    publishedDateTime: 2023-08-18T01:36:00Z
-    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
     excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."

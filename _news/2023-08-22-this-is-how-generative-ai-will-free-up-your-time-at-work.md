@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T13:42:00Z
 originalUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
 webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Applying the lessons of open source to generative AI"
@@ -241,6 +242,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z
@@ -250,6 +260,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "wf59kzhl964zgmr2J7/D2kzUgYF+pR2RoRDUMx3Rg0/5HeiSucNNF/pQ1sI4//UfdMotjkap4eDnoTWh8AsuJSRX2OVkAY0rRjkr83sHmN/ffaokiMzgKFQqMrlklQ4O9kgYMYovjyh6dcibVv3uNyGxIojhlcaYjHadofxSNk5CYeXAE6/MxECVwTJUq+mwgEsX01ENjXjS8NzO8dzhFvGth1NW1YMRaPNyygohfxABJsjkMroCSqP6N5jUjHabKE6IeiADoVV1AUM568/zntHICKb6YJWFmeQYZ2mgrncEkqBjoDY6r4Aylh6ZjqHEeaSjWCpGiOvuJHo+whlMW7tom2WcBZb+UaAK8v/jcCej+b8TFM+fFnXCajGl9zIXdPk7CE+pkLE25Bpdv0hb9CUHlno2MZVzN/lUhCcqpaYyBTuwKuseCGDEOU8OwZHG0nfG65Ul6OjG1iDVT2ZuW63H26pRQQUvTqFEAeem7PH8CleBAHBGq7p2oSBwXEbBInD7cVCNydHL0ydf5UBItA==;Hl5QqIwzZLIFc6K9tDgZLQ=="
 ---

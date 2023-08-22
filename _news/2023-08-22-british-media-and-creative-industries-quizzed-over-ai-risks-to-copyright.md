@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/76680815-b313-44a7-b12b-a57ebfcb34bd"
 webUrl: "https://www.ft.com/content/76680815-b313-44a7-b12b-a57ebfcb34bd"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Five things to know about British chip champion Arm"
+    excerpt: "Here are five things to know about British chip designing giant Arm, which has launched what could be the biggest US share offering in years."
+    publishedDateTime: 2023-08-22T18:37:00Z
+    webUrl: "https://techxplore.com/news/2023-08-british-chip-champion-arm.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "N0seN9XUoGX6zf2u0C1lxqcKhd1YaSgwlkgntH3HLgO+1RVkvMAOMqA1w1dK8J4BHKDl6SrjBNrcdkARTrqlSKDbxXpQ119oPXHpYbQnXn+Tvs9SKD6eS7hGSQjhraH9RRC53Df9hPXVHhyCMPBlo44mXk/ZhigqL465JqmzG5wCYIyuV07B1im1DZl5tZgLvKQ/4EtN5b7vEbKhpvnUeu0UscKC+tMOGRxgx3Ye5doUBHW2T7jSMohiBP9v3jMSVRV73cYlJ71R+RaRCc3Xs1yWwHGVThfuLgjelFYNd1GxO2B/D6TQMDCELhy0Z1KoNnrve/HoDBgJNnEXeO27XI9ZCGSpC9H3qYupysQ/HsVoaWUdCdbIduxMmHzEpq4Z0bLE0f9GbFzgqfyv00LnJzmqH0BkrFfSHdp+AqCU1znd6wZW6n709yhcojLkEru/MN62P6VfRRbYsm15YUzgFnaV73sZI/CTDg2flZDEA2obMxeXh/ZBsNdMa5gVHqPpoBdMH/qdmiKDRt9O9wJgWA==;jOcaCgxH5KdP8/aS7HXLhQ=="
 ---

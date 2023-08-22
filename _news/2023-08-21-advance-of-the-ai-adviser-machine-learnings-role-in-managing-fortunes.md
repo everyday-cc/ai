@@ -7,8 +7,8 @@ originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Financial Times
@@ -43,15 +43,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "From Mad Men to machines? Big advertisers shift to AI"
-    excerpt: "Consumer companies are using data from retailers like Walmart (WMT.N), Carrefour (CARR.PA) and Kroger (KR.N) to power their AI tools, said Martin Sorrell, executive chair of advertising group S4 Capital and the founder of WPP."
-    publishedDateTime: 2023-08-18T04:15:00Z
-    webUrl: "https://www.reuters.com/technology/mad-men-machines-big-advertisers-shift-ai-2023-08-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "/n47uN5tu28v9g+Al1QutGMbbAzFcMrYNURhsoTseZ3hXBWuOjahHG5uoqjIkz0ViaBwA6GSm7n8blZIB7giwzxuvWewTiFEgRI6qJifOKPqON+F41LSCPza42p+zkT9Ro1z2mYhQ0OGO1oDHt/f8nnMQbndYvaS9/j9Dy3pJi+B5w0o2oUGCVDVu6tCBO8picrdAjmySSlAm33btWgoyoG4Cug3JacFGEMWJRrJ1a7+dicTmWuhgOu7ocgms7ct0og+OblDUbAOM9LR8Xecc00p2awrprQIuXtaxmklIxij9MpGlHEgVqr8Angl5AqStTnqAzNSNT1WyMVVjQ4zU4YA+2JM162xwW2gYnym5CvQM2QK0v0FCIIpVjVrDrtUu8SRdrUJG5OJH/GAmSed8VmVtxZHkX3wtn5SbOdePPFIAo9qkO1WIiZpcrgJHPxGcpNWOZPysv+RMNl5rTQM3SH/mLwgZJgR3vd940E1sPYA5jCa2B0nyTvE9rhrE+t5o8TEdxcg33wEckPcMiIeyg==;86JGLJh3YvvvAEt6z23kLg=="
 ---

@@ -35,12 +35,30 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/VMware-NVIDIA-Logo-Image-e1692721208151.png?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
+  - title: "VMware, Nvidia Reveal Private AI Foundation To Help Enterprises Run Gen AI Apps"
+    excerpt: "VMware and Nvidia executives explain how Private AI Foundation will help enterprises build custom generative AI applications on top of VMware's cloud infrastructure."
+    publishedDateTime: 2023-08-22T18:00:00Z
+    webUrl: "https://www.crn.com/news/data-center/vmware-nvidia-reveal-private-ai-foundation-to-help-enterprises-run-gen-ai-apps"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
+  - title: "Triple cloud-AI play: Lenovo, VMware, NVIDIA partner to offer ‘turnkey’ services"
+    excerpt: "MORRISVILLE - Lenovo is expanding its partnership with VMware, and chip maker NVIDIA, which is at the forefront of generative artificial intelligence technology, on Tuesday disclosed products and services that are \"turnkey\" and \"cloud ready\" for customers."
+    publishedDateTime: 2023-08-22T18:25:00Z
+    webUrl: "https://wraltechwire.com/2023/08/22/triple-cloud-ai-play-lenovo-vmware-nvidia-partner-to-offer-turnkey-services/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 14
 
 secured: "4ot8eJXk9gV2pE8Fr2AiZP60yzILh+0Gc63vD8wasxHIFYt2WNNVeK4P6+KB0QW4c494w3Iw0JAn9aycLIOMs+eyg8JIEDHaKxEkW0O44stwcQaYcrV+IrYHJ36FjFm9Xyb40QOFFQVWnDjB4z1QCbDvTx4p9wVyKEk65NbAs2bYIEWhIvrJExK7msGlX7cyqyK/6dGyGS1J9DEdEifFgjhyD0HywiM22AzZjlwmL0dpKrEBlqoAZAWlk+g47Fh950KPuDSsZOTnhf+0A7z/pRMZK4MWvJmIPfcVYNrmC2L1HSW3/mSE0YSvq0nxDqEO/3o35BLFgQQyN6doHNgXILc4+n3ESfEZVSEF+aX2oV8=;AIER59Xp+UvD3sjzEoaRSQ=="
 ---

@@ -1,0 +1,81 @@
+---
+category: news
+title: "Computer Vision - Hong Kong"
+excerpt: "Value in the Computer Vision market is projected to reach US$162m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.32%, resulting in a market volume of US$439m by 2030."
+publishedDateTime: 2023-08-19T14:09:00Z
+originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/hong-kong"
+webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/hong-kong"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Statista
+  domain: statista.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "AI Industrial Robotics - Hong Kong"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$65m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.76%, resulting in a market volume of US$172m ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Robotics - Hong Kong"
+    excerpt: "Value in the AI Robotics market is projected to reach US$120m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$317m by 2030."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing - Hong Kong"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$174m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.78%, resulting in a market volume of ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition - Hong Kong"
+    excerpt: "Value in the Speech Recognition market is projected to reach US$50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.95%, resulting in a market volume of US$168m by ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "dQJbgDIZ3VOYhLxxYNaVbGIgoo3HLQo/Ng2qsib0WdO27SiFsZ0dkFXZw6j7wt0h0xXHNbNhzrl96ISxQVTJYVNkU5ifLF6qSfXG8XaxjjQ+xdGedYuVSaiQ1DQ2K+L6WWwyxnIq9URZiERkdCijAL0O3rxtUwmTh/L16EZMRftiF90uZx4KwYGvMlpdpaJNuc7PFpLmvJQKKZPWkdvyVTQ8txsFOOnmdyYgy2mafLIc0b4SehH0RQLsUtcQKcRdUV1aPxgUYeZxCQqQVQOjGhZWa1qcRPzdt93s6Fie0FgzdqPBBI+uxTKDF3dPgAcq+2sOCxTH2V8RfEqCQaFjkvTuvHHBcJLo2nxXTgrwYj8=;QJJr3JAFTMllc24aGIqOsQ=="
+---
+

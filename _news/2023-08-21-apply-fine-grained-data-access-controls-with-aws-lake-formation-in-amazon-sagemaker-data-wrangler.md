@@ -37,6 +37,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler"
+    excerpt: "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler."
+    publishedDateTime: 2023-08-22T20:33:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/21/featured-images-ML-14476-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Explain medical decisions in clinical settings using Amazon SageMaker Clarify"
     excerpt: "In this post, we show how to improve model explainability in clinical settings using Amazon SageMaker Clarify. Explainability of machine learning (ML) models used in the medical domain is becoming increasingly important because models need to be explained from a number of perspectives in order to gain"
     publishedDateTime: 2023-08-21T18:15:44Z

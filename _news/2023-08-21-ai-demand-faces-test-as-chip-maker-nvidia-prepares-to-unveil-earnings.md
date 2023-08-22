@@ -147,6 +147,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
+    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
+    publishedDateTime: 2023-08-22T21:38:00Z
+    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
+        width: 1000
+        height: 550
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
@@ -173,6 +187,15 @@ related:
     provider:
       name: Shacknews
       domain: shacknews.com
+    quality: 19
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "G9+WFHsXQi/tiPY/iJWcXYcvpg/hjUhL7yb1Fb62AyporWmZgvTAmsHRBfvCsDdxnT+Gux8D6g87kNqOrI5Mm4BJ55z8t03T9cHQufKQX8oynKIj7RP0c0nu6j5KGy7whQxQQlznzn6NE54m0cG4R98Eg6uymz+mltDgW47P7qR4cFU8Ydn9QYrTAk0gxiksLbeslWC6oNXMeK/78Iumc4DsXLADwIA2DPBH/AdsU2fvNFYUCYFlgLx2ldxheihTN59PoVqU43c2njIm2RECKbibvm9WmCeogrrY8vhJFo8vuBSq0B4gVGFoL3LsDt7KfIu/Ph5NgMcVYVaf1nNQdq8C4VRP5BYtIa2j/mPsCu7iTcx5SSpdsJw2vMqLEKj+2L7kkTrvwTdpo42ToDAe/jH/n59Ujam9piaRlpMgo/Li0PFgHO7wCjsRnhjyaL97Mskp6ldla8tn7kQ7YPsvvTW1cJpt3l3wyObo30HT60l6ojNP6OM0Hs1rlHLQrJxajnOJZmmxYgHcRU+7u4+5Zg==;fhi39v3PXGeoEdm4pNdUkA=="

@@ -240,6 +240,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-22T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "JRyCz2CcWH15JNPVcsxhQVav9lxda6GE6raU7eB+PLkx9WW6QBUy4UjoZl+lNefwO/OqfcrJZ7hFzV7or5p10ccH3OyWkKAAri4q7rqX4k5AezXh6eCM4PaTDzLjEWswL7ezm2uHPi9kuSG8tnXeOnVIVWX/oQBy32GEIPr0L9RfHeI9PUmh32kOTuMmLa9W/kvqcpsNeY4+4Ai/wIbc4bBwHOf2vMiAFGdI8CvMZr5LSN4a9YQgzA84+85MBYTw1fCp9mgtgPk8NvBp2YLBCzHcDtMwdvhnQvjv3z4pPZMgSBTLke7Yzm9O3MdfGGjFdzKkLGkNpptkiAUdiBAPwCiaDo/wRa/UKfA7Yt7kjek=;L9BfPtqpy9wstpwEr3/aHw=="
 ---

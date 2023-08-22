@@ -24,6 +24,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Interprefy Unveils Two-Way AI Speech Translation Solution for Events"
+    excerpt: "In August, multilingual meeting technology and services provider Interprefy debuted a major upgrade to its artificial intelligence (AI) real-time translation solution, which translates live speech from 45 languages and regional dialects into AI-generated audio and captions in 74 languages."
+    publishedDateTime: 2023-08-18T13:46:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-unveils-twoway-ai-speech-translation-solution-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 19
+
 secured: "O3EvLcLxNLEd7uNujaWPTfTJ4ALawjnD1XdItiK8KsL3uXerBVkkEH2LtSKuw73V+1UHYLK7mCN9Xzf8GRACLVQ5z7NQ5O1u6CXgOb+UdMa3WwfFEmz+nDAMGJuKCD/W4kuvW2Gur0EwMKW77pSiWKYwqvtNr7QO48Nvc4vv9ElJ8zV+Zm0Z5wvB3gYQ67cLvLlToTHSSEI2m/z5wslzaeqyPpTMZQ6T0UiqUuwdNprMNHigIhOyfXLzVZ2EDlCLtRK2Ol0ZVtr6RvJ6pzg0qJSVSfOygi7ftIbVROnaoaTiqc2PKi80HHHpKCMIdnue56DvSGSufSgIwlpIiqEb58L+PeWsgcFeowIcQBbIHAvnFybcttd/SmvKuu1xHtaSeM6gkklJRae/dRkAE12LUCXX1itYlE0E9SxaH1dDzRDqFxsh8hq238LBC4K0W3Ytr29a0nC129tLdVpytEPS1cmA1flJhtunWAHBvY2WgpnL78BmKi/RY3SEdceG7tvPmMKe0WbJ9+Agz/oO6aZXhg==;USYust9Qf3RRZ/FTMYtbKg=="
 ---
 

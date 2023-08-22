@@ -161,7 +161,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 49
   - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
     excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
     publishedDateTime: 2023-08-18T08:45:00Z
@@ -243,6 +243,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
     publishedDateTime: 2023-08-18T12:05:00Z
@@ -252,6 +261,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "/m2b8gUwRnAO9Rkdm/2nmx4j4wlSDCyZg8bIZi+S37h/vbimcuQgRt9/nNSdd7E9lEECQ9QWq0RfQTZGNf37RTUj3e87QcFdJEjIL0u/awu+Ft0dxH9MgMMBpG+b+fnApAcxQySJAYe2p/QR0bPmRK3DjX8Fh9j02fTE4WAhAQaoitCnwczMUVYmSOAcCLlyZuewSW//jJsQPOWNkJB202ivAQsk5lnA6YtYnfNHzCKtuK+5vLm1WXILcU5ypt0VFW8n8uefzhDTHFzRzC9zKvwI4kYELTE99bDXZfvwLZnOKMHcf9FMqRUqIs131cdYdmuKduRfjSZ6NBiPo8hhI5n/8dWfL+kBSVFv4nfhNfA2+rzI0lWxRF9eRmUyyoxDt6AR3C+JPeU2Saq9irgsHVn+6X9M6eneLyCb1HGnV25fDuVoSuWYB3wtyPxsHscfgiw5nX7wOYQMfB7HyLVyK9kxdFZfv0IX9Z0r/YZNzRWXTyQPPMr6uw2PaEl3vvUWeI5NcZxcpT1a1NEc+dqjZw==;Ewo5USkugLxweETAQ/gTRA=="
 ---

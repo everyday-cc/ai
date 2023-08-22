@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing - Hong Kong"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$174m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.78%, resulting in a market volume of ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition - Hong Kong"
     excerpt: "Value in the Speech Recognition market is projected to reach US$50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.95%, resulting in a market volume of US$168m by ..."
     publishedDateTime: 2023-08-19T14:09:00Z
@@ -53,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision - Hong Kong"
+    excerpt: "Value in the Computer Vision market is projected to reach US$162m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.32%, resulting in a market volume of US$439m by 2030."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 19
 
 secured: "0m03+XAYot826/K4ro7eLFY3ZVaRbIxSwG18pvu8gpqVGPnXRP24+UTX8MW37ahqcA7sSG2bWkQa3CvG2B9Hk6s7xSeTdqQx6Kq/12nghWYap6JylZhoYvrnDLAPluUwkHhzPKvdjg2EZULekVUiVWSDAVgglhBw9ZJvjlZVqaM/FvzGWEvor2XwX4JhJXsmvpVjulC0GZDZtaJ2TfH0Zqw173dv3r2+IeUHtZcYcq7vHKTJX+e5QmyALxvNXHq+hTBYcoW8yFm6VtMY66PPgPZwqzZR+sFyZohZmpTvOYNVgDh1xJT8OvHwmUm6Evjz9KGk9bXPG87fBUcx9xsUfmLv3dh4eea+XuVZyHGYtrA=;0EILKsV3p8ESkQe+jyAekQ=="
 ---

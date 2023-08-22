@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI Ethics
+  - Google AI
 
 images:
   - url: "https://images.tech.co/wp-content/uploads/2023/08/17043018/ai-training-courses.jpg"

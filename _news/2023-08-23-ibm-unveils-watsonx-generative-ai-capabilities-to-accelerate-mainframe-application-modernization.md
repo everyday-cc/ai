@@ -233,6 +233,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-22T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
   - title: "IBM trains its LLM to read, rewrite COBOL apps"
     excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
     publishedDateTime: 2023-08-22T12:23:00Z
@@ -243,6 +252,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "gpbTtmF54MJ2GrHvF28fjjALUhubwcbSrumT78H7rGZ4SD3f6FLB4borl20ama6cgca9TEKL45Yfe1YpfPbLa6L6pCL0TVy6vccNNpmcLXKM1sEziCuizkrK08rd/PKXE3Hg4LPAOUxzIZgra29ENYW2LRpL5jsQ1owfz27mr8oc5iAEELe7XvSKGF3/K8BrFvByHyVxQbsSIoZ+aVt2wCP/owRsY5hybJYWuaeiml/Qp3+lZ1OGdlZNUM84q0tQZKEg8U2KY8N46eUEHc7UD7bLwaxqkBJ9BHd+DIfC34Q2ujEaIK6+WJ54ic8YJQous6/BwUtwCXDhWggrbT328ZiqQFMz3kBAVfuBL3/s+8k=;FEDkXSKGvptqlPev6xt07g=="
+secured: "lgnuUHx4st07diN8COuQcV2ZPpcl3eRifMIx3MXyGoO/ikklrMDI6wi0IciBPQKaSxjl5mw7O19K57ns7yLoSKVCpu285jaA/6K4H4cm+QIqwnI/qPYL/CUKf9l/k6xjZ2F6wWruce0eoAtEAN80BmmyWb5Jz8a9wnioz4wJ+jbNHm0xaJb8noYQx83uLvYxrNIxK7zKZMhrZxEYIXJmu0yeSNiMZejE13dPwIOsB33o1ziBlSJXBEGZ6/L5y1sf3xmlZiKjnSMv9wmbhvE+AQHdO8eCpSQje7ReNR6RpWfXkEv0M+z8xi4NYh/9dgcHCcE57lzhL/wHrEGzmUjT9FFfY030R8A1RN3dftWqTikNnzx/PWL5DT87mDfqNmVwQFGlg+n+UlgloHUnI9Q7uVdszgG3ZgYWO53GJ7d7Sc19R5MksaYM2KDzu7HQX5kPDn1ZuQasIdstCcQfWIIr3EWfi7wjuqrzX5Sgt8ROrqIr/nE73OhQ+9r0NyDfe7/ITXhgAsLfqbiNUc+Pwtstvw==;LAHKemrgP2ttzy76IBSBUg=="
 ---
 

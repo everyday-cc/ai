@@ -7,7 +7,7 @@ originalUrl: "https://manilastandard.net/tech/314363124/alibaba-cloud-named-a-ch
 webUrl: "https://manilastandard.net/tech/314363124/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-2nd-straight-year.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 468
     height: 462
     isCached: true
+
+related:
+  - title: "Gartner claims revenue from AI chips to reach US$53b this year"
+    excerpt: "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20."
+    publishedDateTime: 2023-08-22T19:41:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/ad3a2519674a154c0bf6e392f81f20e7_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Global AI chip revenue to reach $53bn this year"
+    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53,4-billion revenue opportunity for the semiconductor industry in 2023, an increase of 20,9% from 2022, according to the latest forecast from Gartner."
+    publishedDateTime: 2023-08-22T09:26:00Z
+    webUrl: "https://it-online.co.za/2023/08/22/global-ai-chip-revenue-to-reach-53bn-this-year/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "EEi5rMwQCro6+O8s+rjGYSqZHd3OwVQQwdW1D3zC0rmIw4l9McjPacAJUAc9/ngJGW1JPsRBnkRbmNBWCToUCf7wAC/yUO/6UGU3FU0s0UTRWwXpoUdmkC7AR7WriaxCl/Ahdf9hojkijQu9W/KumgRjpKSVcWtQg/WkG/W81g5gJ8tLbeCFUk/8T4BGrjFtFEMAhrGOD8mdikWeRz8jZFFSvS1vbn1gcYaVNNfojN8sZ8+QZoXkGzU033nm3NBKr4EMTaTvpYv4B9LcU05Xdswla0c49VfHQHjehFjNsUseizFXY2CaNyRy+H6+Aax51yg1QKJg6QZNZfyU7J70bn2/KXizrrp/UrUFNlpZhKXWRn6ndhsvnCAAi4HIcuI9gh0eQ5O4aJ+nrogHxahw6hOrQLjd1UQxKzgwaWgpmgm0DnAtNU5b+mjyDkPdPzAlrHffYcipFhBLx7p5pyhZwYHtO1++4bOOhzUWj/w9Kh3gSdJ6xOC4ulT/Y56wR4l24RCFTT/yYvXiwSVdswmu4Q==;yselwd0w/4V3S2YTGzFxgw=="
 ---

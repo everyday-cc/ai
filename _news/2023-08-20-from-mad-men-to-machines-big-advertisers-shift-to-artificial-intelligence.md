@@ -40,15 +40,6 @@ related:
         width: 619
         height: 376
         isCached: true
-  - title: "From Mad Men to machines? Big advertisers shift to AI"
-    excerpt: "Consumer companies are using data from retailers like Walmart (WMT.N), Carrefour (CARR.PA) and Kroger (KR.N) to power their AI tools, said Martin Sorrell, executive chair of advertising group S4 Capital and the founder of WPP."
-    publishedDateTime: 2023-08-18T04:15:00Z
-    webUrl: "https://www.reuters.com/technology/mad-men-machines-big-advertisers-shift-ai-2023-08-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "LN5AWu9mSJT/PIVq08/2BVMY2roLMBdP3ZQVdljcCIL59ve1gCNhSA0X0U7fif2frLUNAp+yJ+6j+00drOoiJYFthc0gLdgpgJ2AZNHp/T38yCnO7rPdEc2FN+brkxQvmf9jRT0xtb9XVItLokLQQ7MjQxY1K7zsKS6M+YKC3AayjOIv3Uy2m08Q94GyFfewaCKHpQCaCZ2wKi5EpGz01Cy9bBK4m4w/5+zBAWQ2nCjJsa/oyzI7lZ+bqP/IogKabkapRjeMEQHWJqq8pPtOOWKbqyomkax8brRVx4E6/wIH0FJnNgDx/fPK3VfQOi90NzrEA5iVjlq50us9SUlSMVP3BXyZgEMGe8S/oV/r9F4=;ZUiv20Yn1brupH0l2BURAA=="
 ---
