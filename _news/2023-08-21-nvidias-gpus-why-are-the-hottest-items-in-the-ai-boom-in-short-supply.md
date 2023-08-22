@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Investor Says EV Giant And Nvidia's AI-GPU Fusion Is The 'Future' Now: 'It's All Coming Together'"
+    excerpt: "Tesla Inc TSLA investor Ross Gerber highlighted the synergy between Nvidia Corp NVDA and Tesla, emphasizing the convergence of AI autonomy and GPU technology. The tweet came amid the combined market value of the two companies matched the entire value of ..."
+    publishedDateTime: 2023-08-22T05:17:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33976696"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976696"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 75
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla.Shutterstock_4.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "9Ws1mF8izefOw1uXQudvM2XEHdb8RnPNCu90ulOe8T/2vrecvQ0P4QlQQiMTkeVdyrhhb9xPEQs0DMIV9/RI/g8kPSXGUfNkU8FWLi3+PrygYOsrWeHsdLXRC10R3b7s7P9fghmvz4KpYEHvLLBS9WYkRo3oeEg90MQNps325ybFY1ofz6Zgvwx/vfBE/0lZTIuUa90b4lCMtE3HaLOfJMT5HjAzZcVpD7Ove4opfki2IExxCaeoreuAsz8Npevp6c+M6oOtDoXBwppxuO8IjGi/wRhDWEskBJgYRhj47MlphOQgqTTKNqUFxB98NBfcYHmoFz1ynziQzsBz/M9Y8RXw9FW8KlMVIU1U4UmwX6I=;4sFcvwwyTLGR/6+kCj1vjw=="
 ---

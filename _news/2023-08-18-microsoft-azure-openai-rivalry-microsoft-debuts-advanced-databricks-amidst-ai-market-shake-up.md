@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33910068"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -21,6 +21,64 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
+    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
+    publishedDateTime: 2023-08-18T06:53:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 65
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
+    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
+    publishedDateTime: 2023-08-17T21:03:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Microsoft says that AI is the new “tidal wave”"
+    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
+    publishedDateTime: 2023-08-19T01:07:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
     excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
     publishedDateTime: 2023-08-18T16:01:00Z
@@ -49,6 +107,75 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
+    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
+    publishedDateTime: 2023-08-18T05:15:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
+    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
+    publishedDateTime: 2023-08-18T15:44:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
+    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
+    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
+    publishedDateTime: 2023-08-17T13:57:00Z
+    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 30
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "z+X3NiiNgQ4LT56bXTBRiIEtN81ZezYDWrznot03enQQ43EHGtEn2+DXpjlZDtmfjovN3zNmQYFlT9eNthsOQ7KDBIcvlwR9qMJCdsq56RbLp5jMr5IuyyjQyo4XEe02U1n0fCepkao4iAZJs4UpcQQWj/jAqed4+daJjxAJU86H/0DgTteSFnbv3XwFp6Au3RWAffU4ur5rg2yUwSdBHe2Cx83XSZM6qdZZ+Wpfh3WQwRKdxW3RM2oE04g4ga2E16Hj9ExmszUDtF9JFp+Gbw1XUFJs13bzhfM+p79Ex+/Mz/UC/mXob7EtYjbf3N/tvKKP1OzZ2HeLLmaLeCwHPRDMciexfxXb3EwKTusdHCs=;49GG0wXP1QbrKfGehO4dDQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "b5rbzb1LyydXD2+E5SBv72l/8ANlALHD6KP/Gf2BVBEDP14H1+iXuFPqvQ7qttFhzR9Dxphk83w9XXnwROLxQBfb4TGqicIE4UkiO04GN82oafS+6XizI6qH5mJQ3fYrASFtyZqdUjOGOtWegL36MQI3k/CUiiDpPItJ9Lszm23/0kTUlKpsyGR4YEHFWb0gr+PlngWEDtOC0OqBM+mOnD1pBXV8b0Es//JbajsTfGjBSYvX6JAXN/cwnj6X85WZEc0hlJK2i0/k0wxeO/7nrLxWl067gFldbwQIUFOPEbtgMxTn/iu4nanQSD5nUb1jua/SA63NQa3UG9v8SqjnTAkkNF8DcYfD4L8b/T8zdPU=;enjhTwhJYA+E/LdFlagCWg=="
 ---

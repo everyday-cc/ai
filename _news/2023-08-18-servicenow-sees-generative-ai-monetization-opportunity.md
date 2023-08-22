@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How any SaaS company can monetize generative AI"
+    excerpt: "There’s already a handful of great examples of companies leveraging usage-based pricing to monetize AI, including OpenAI and all companies that provide foundational AI models and services, and the likes of Twilio, Snap, Quizlet, Instacart, and Shopify that are integrating with these services to offer customer-facing tooling."
+    publishedDateTime: 2023-08-21T17:49:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
     excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
     publishedDateTime: 2023-08-21T15:13:00Z

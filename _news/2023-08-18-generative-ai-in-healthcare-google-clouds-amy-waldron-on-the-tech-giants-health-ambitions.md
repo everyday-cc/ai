@@ -121,15 +121,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "From Theory To Practice: How To Implement AI In Your Organization"
-    excerpt: "The reality of AI is that unlocking the true potential of AI in your business requires a thoughtful and strategic approach. While AI can provide valuable insights and automate tasks, it is not infallible. An over-reliance on AI will lead to risks and challenges."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/from-theory-to-practice-how-to-implement-ai-in-your-organization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
     excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
     publishedDateTime: 2023-08-18T13:00:00Z
@@ -139,20 +130,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Transformative Power of AI in Healthcare: Bots, Imaging, and Personalized Medicine"
-    excerpt: "In the ever-evolving landscape of global healthcare, there’s a new player making waves: Artificial Intelligence (AI). Its applications, ranging from interactive AI bots to detailed medical imaging and the promise of tailor-made treatments,"
-    publishedDateTime: 2023-08-17T10:59:00Z
-    webUrl: "https://techbullion.com/the-transformative-power-of-ai-in-healthcare-bots-imaging-and-personalized-medicine/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/tuv-rheinland-131699993_shutterstock_everything-possible-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Here Are the Generative AI Products UK Law Firms Are Using"
     excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
     publishedDateTime: 2023-08-17T17:12:00Z
@@ -229,15 +206,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
-  - title: "Companies go all out to up their generative AI game"
-    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Local teens share how they're using artificial intelligence in school and beyond"
     excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
     publishedDateTime: 2023-08-17T18:39:00Z

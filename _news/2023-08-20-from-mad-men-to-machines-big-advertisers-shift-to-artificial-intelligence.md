@@ -49,20 +49,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "The growing role of AI in science and discovery"
-    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
-    publishedDateTime: 2023-08-22T00:58:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "LN5AWu9mSJT/PIVq08/2BVMY2roLMBdP3ZQVdljcCIL59ve1gCNhSA0X0U7fif2frLUNAp+yJ+6j+00drOoiJYFthc0gLdgpgJ2AZNHp/T38yCnO7rPdEc2FN+brkxQvmf9jRT0xtb9XVItLokLQQ7MjQxY1K7zsKS6M+YKC3AayjOIv3Uy2m08Q94GyFfewaCKHpQCaCZ2wKi5EpGz01Cy9bBK4m4w/5+zBAWQ2nCjJsa/oyzI7lZ+bqP/IogKabkapRjeMEQHWJqq8pPtOOWKbqyomkax8brRVx4E6/wIH0FJnNgDx/fPK3VfQOi90NzrEA5iVjlq50us9SUlSMVP3BXyZgEMGe8S/oV/r9F4=;ZUiv20Yn1brupH0l2BURAA=="
 ---

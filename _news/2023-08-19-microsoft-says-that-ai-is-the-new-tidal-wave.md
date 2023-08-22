@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance"
-    excerpt: "The new Bing with an AI chatbot is called “cute, but not a game changer.”"
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 78
   - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
     excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
     publishedDateTime: 2023-08-18T06:53:00Z
@@ -50,20 +41,17 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
-    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
-    publishedDateTime: 2023-08-17T10:34:00Z
-    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
+  - title: "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up"
+    excerpt: "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ..."
+    publishedDateTime: 2023-08-18T11:59:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33910068"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 57
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
     excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
     publishedDateTime: 2023-08-17T21:03:00Z
@@ -92,29 +80,34 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
-    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
-    publishedDateTime: 2023-08-21T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
+  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
+    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
+    publishedDateTime: 2023-08-18T16:01:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102840813"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 53
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102840813,imgsize-78380,width-1200,height=765,overlay-ettelecom/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
         width: 1200
-        height: 630
+        height: 765
         isCached: true
-  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
-    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
+  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
+    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
+    publishedDateTime: 2023-08-19T08:00:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102853447"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102853447,imgsize-78380,width-1200,height=765,overlay-etbrandequity/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
     excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
     publishedDateTime: 2023-08-18T05:15:00Z
@@ -166,15 +159,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
-    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
-    publishedDateTime: 2023-08-21T18:32:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 33
   - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
     excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
     publishedDateTime: 2023-08-17T13:57:00Z

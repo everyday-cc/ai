@@ -1,0 +1,50 @@
+---
+category: news
+title: "AI is not a one-time bomb, but a slow burn of devastation that is consuming jobs and culture"
+excerpt: "Whether it’s a film script or an automated checkout, artificial intelligence feeds insatiably on the labour of real people"
+publishedDateTime: 2023-08-22T01:30:00Z
+originalUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/aug/22/ai-is-not-a-one-time-bomb-but-a-slow-burn-of-devastation-that-is-consuming-jobs-and-culture"
+webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/aug/22/ai-is-not-a-one-time-bomb-but-a-slow-burn-of-devastation-that-is-consuming-jobs-and-culture"
+type: article
+quality: 26
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/4d5670e4bc155c65c2eef70e4e7fde1ab6d9f6b9/0_210_5555_3333/master/5555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b971e255f51cd29cab1a158e4f3670f2"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI Is Now a Destructive Steward of Diet Culture"
+    excerpt: "Chatbots and other types of artificial intelligence are just as biased against fat people as the rest of society. Here's why that shouldn't come as a surprise."
+    publishedDateTime: 2023-08-17T21:00:00Z
+    webUrl: "https://www.wellandgood.com/diet-culture-artificial-intelligence/"
+    ampWebUrl: "https://www.wellandgood.com/diet-culture-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/diet-culture-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Well+Good
+      domain: wellandgood.com
+    quality: 59
+    images:
+      - url: "https://www.wellandgood.com/wp-content/uploads/2023/08/WG-Editorial_AI-ChatBots-and-diet-culture_v2-1.jpg"
+        width: 1170
+        height: 676
+        isCached: true
+
+secured: "zc9qYwzBAairx6qohU1ap/2hBiOchMSHHvqv7TGqU0eOYItyJbOLlPJwdCu0u8mHqjiI4Q1oitYH1Jh/9oELcSNKe5k1blc2ht7QsD8uCoAC7zQGy44QxK2vG7py7XvfOVjs2+qw37j00TF0gs1fKpVkL9n/aRIG9CLTyYcy4lH62RkXDMl7C/XB9WZwCPUufDcocfIOpAI/BO2WmQXKhcgFmWSm8HIT1Df46KRNMAxn0ZBtE5nl7JPRaRVsrunAvNHJZ4g6HXdyxdzXW0K5b579dPtTLhSX66ePhZ153s+N7cot0jspUESYtpbPFqauFoqSP7g07nDNl2L3iDg0t42vUiPYhCdSEpbgSmM+guM=;bAYd0IQAHBe9LRGHuxQgtg=="
+---
+

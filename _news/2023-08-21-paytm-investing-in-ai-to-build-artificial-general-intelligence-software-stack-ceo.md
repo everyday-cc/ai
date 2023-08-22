@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-a
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Paytm Investing In AI To Build Artificial General Intelligence Software Stack, Says CEO Vijay Shekhar Sharma"
+    excerpt: "All North East Delhi riots victims have petitioned the Delhi High Court for enhanced compensation. But after three and half years, their faith in the legal system and the bureaucracy is declining."
+    publishedDateTime: 2023-08-22T05:40:00Z
+    webUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556"
+    ampWebUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 40
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2021/3/9/PAYTM_570_850_(1).jpg"
+        width: 850
+        height: 567
+        isCached: true
   - title: "Paytm Scales Investment In AI To Build Artificial General Intelligence Stack"
     excerpt: "Paytm CEO Vijay Shekhar Sharma said the fintech major is looking to build a full-fledged artificial general intelligence (AGI) stack."
     publishedDateTime: 2023-08-21T15:12:00Z

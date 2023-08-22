@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
 type: article
 quality: 58
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "The growing role of AI in science and discovery"
-    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
-    publishedDateTime: 2023-08-22T00:58:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "/n47uN5tu28v9g+Al1QutGMbbAzFcMrYNURhsoTseZ3hXBWuOjahHG5uoqjIkz0ViaBwA6GSm7n8blZIB7giwzxuvWewTiFEgRI6qJifOKPqON+F41LSCPza42p+zkT9Ro1z2mYhQ0OGO1oDHt/f8nnMQbndYvaS9/j9Dy3pJi+B5w0o2oUGCVDVu6tCBO8picrdAjmySSlAm33btWgoyoG4Cug3JacFGEMWJRrJ1a7+dicTmWuhgOu7ocgms7ct0og+OblDUbAOM9LR8Xecc00p2awrprQIuXtaxmklIxij9MpGlHEgVqr8Angl5AqStTnqAzNSNT1WyMVVjQ4zU4YA+2JM162xwW2gYnym5CvQM2QK0v0FCIIpVjVrDrtUu8SRdrUJG5OJH/GAmSed8VmVtxZHkX3wtn5SbOdePPFIAo9qkO1WIiZpcrgJHPxGcpNWOZPysv+RMNl5rTQM3SH/mLwgZJgR3vd940E1sPYA5jCa2B0nyTvE9rhrE+t5o8TEdxcg33wEckPcMiIeyg==;86JGLJh3YvvvAEt6z23kLg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
-    excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://www.finextra.com/the-long-read/761/future-of-fintech-in-the-middle-east-2023-aiming-to-become-an-ai-hub"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/761.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
     excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
     publishedDateTime: 2023-08-18T03:01:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
-    excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/canadian-fintech-investment-drops-to-pandemic-era-levels-in-the-first-half-of-the-year-806246580.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/2187873/KPMG_LLP_Canadian_fintech_investment_drops_to_pandemic_era_level.jpg?p=facebook"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "Kb3PHVK+PrALqnSIU8eIzq1wOmfOZnCk7qTMH6YpDsEhInXzNRixd+yR/WoKcwOJtNoGM+mbu40zqr6TklxBVQ+Or2HvKWd5DRyRaS1ailTyDbQeL31E1T5r5eBMHhDLsJLpBZxnvsbzO3+SdsKEhkkV3o32qKwRaP02BXHG3UJjvj/7SUGxkz04/JxRd2CSXgNVnb3NYXiVVF0wEaNUeQ9FAT0t9uUhgkvQi3caHkKYQ66f3IvAzz6JGWZ0fT6eRjt6e68XPxJieGUq/f37YXLaUZpsL6DJygsIevkZJMcRmfZ8tXqRReDVhW/Sr/fo7bnvutc/OOeU8h2CtWTyXQzrnPYSmIt91C+x3FYI3TE=;lO+FNfce3ygWBKzsl8eNZQ=="

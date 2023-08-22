@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless cars may struggle to spot children and dark-skinned people"
-    excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
-    publishedDateTime: 2023-08-17T13:01:00Z
-    webUrl: "https://www.newscientist.com/article/2386635-driverless-cars-may-struggle-to-spot-children-and-dark-skinned-people/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "Agq9bE0Im9m6/yEZEq7ES1jp6iZYl1reuL9JcDA3NLQZYQL/4L1p99R1Q4U9oSEVUfRxXG50jY3bHB8Oo4/S0qZ78XFP2uwHyLAkYKjNjwVKFed1W+mqZ1uLfKJ7MmOlDo7F1N5x5x5djj/PMGLCoKFBvMFWNR7z0KWv08znQuF49pumtkPxN0ppPn7GuLoqQLtMxwRsPalC6tnhmpF8RsTYOuCw28MRtap3X3HWegfyurO1KE1CIao8zVdooMYCQ6BusWR5RYCMzMYSaW+rScrjPidLLszWDby0qptLkfr7BnGNtegtHd9X0fUw3/fzKd7nxCUj6CakuYRUUzd+BYhg7e9kLebZul8Uw5BQxOZG4KMjCo56cZo+pFCIbjQIWRcomGK/RHmFzF/hR50n9MQhlodHru+/1HHOGMiaUBXvrTftJTr5fN12cUy3JgBUC5VeHzOnvWw4/qtN/hNkUXHY+EG3eJQx6HFCYfPJBLjSLnJOj2Epk9DkiUFquLdtdrtY9jWcU4h1kh1NB0MB/A==;cqmtmMXaycoug8oqzbGiYA=="
 ---

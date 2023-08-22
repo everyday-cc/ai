@@ -101,15 +101,6 @@ related:
       name: Buffalo News
       domain: buffalonews.com
     quality: 9
-  - title: "China’s Draft Rules Would Force User Consent for Facial Recognition Technology, With Expected Government Exceptions"
-    excerpt: "China’s new rules for facial recognition technology require companies to protect personal information, and to demonstrate a \"specific purpose\" and \"sufficient necessity\" when collecting biometric data of this nature."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-protection/chinas-draft-rules-would-force-user-consent-for-facial-recognition-technology-with-expected-government-exceptions/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 0
 
 secured: "mhFA3sogYeaSHAHkrgJtx5unjOpUMMn7z1bV6Y+VsU1MoRT++Aqi0JxEk6NVrj4LchOJ4aikdozVxK+vJVRqjlLKm60c+xqkd+bjO4LmPfvTWyxIZ4YMGyNdzg7VwaXB5+f2ZQGcbUWrzuXnBGIGDPZLjj7NLrPzCXao0It3qcZFpUQJ/+Hg3RBeGDk5rln06k3lLFXvXAsMclpmzJbhsjD/0csqo9r4K5RNLY4H+hCTJqJ3k9j9DqemFp2Yr/KKD9JCMYjS1kxDkoJhrZYfJi7AUrIk0U4OmXmVKEpkRu+DemKNTddouVGHI88tbN9wYhsfY89R0/bcS5E/7GUAEX4iXHvL5tZTnSMP4B5cGpHdGprJyutQ4sfqmK8SyYL56h+wFAAku1mowNz2R1vexetgaUeDhmd7+FlJyaETPLs4LRO85cDVmOLLhxwBLC54HZj0cjJZvuxO8TxpWpN9A052jct6RBKZM8vtPBV8O2jrPlHs1EJsrdcdMW+QeidehNbMVDF0Vubz+jG/E4WUdQ==;kVGK3Lr3P7GRKtuTb4omFQ=="
 ---

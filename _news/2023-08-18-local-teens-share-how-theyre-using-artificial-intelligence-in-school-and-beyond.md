@@ -115,15 +115,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "From Theory To Practice: How To Implement AI In Your Organization"
-    excerpt: "The reality of AI is that unlocking the true potential of AI in your business requires a thoughtful and strategic approach. While AI can provide valuable insights and automate tasks, it is not infallible. An over-reliance on AI will lead to risks and challenges."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/from-theory-to-practice-how-to-implement-ai-in-your-organization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
     excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
     publishedDateTime: 2023-08-18T13:00:00Z
@@ -133,20 +124,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Transformative Power of AI in Healthcare: Bots, Imaging, and Personalized Medicine"
-    excerpt: "In the ever-evolving landscape of global healthcare, there’s a new player making waves: Artificial Intelligence (AI). Its applications, ranging from interactive AI bots to detailed medical imaging and the promise of tailor-made treatments,"
-    publishedDateTime: 2023-08-17T10:59:00Z
-    webUrl: "https://techbullion.com/the-transformative-power-of-ai-in-healthcare-bots-imaging-and-personalized-medicine/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/tuv-rheinland-131699993_shutterstock_everything-possible-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
     excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
     publishedDateTime: 2023-08-17T17:56:00Z
@@ -237,15 +214,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
-  - title: "Companies go all out to up their generative AI game"
-    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "fETbnEdxLhV/0l8O1euFpmePyMQZcoqfP1grdeyMfNO2u5jr0SSkbMeNFxp31/wP1Y1eZJi3gJrSaq+l7WNcljKqcJ6BlCRwyVcpSoaHSNbfHSqDp4ZUC9XUuIIA71x4R5l3tt6K/8B7svrAGA48BhGtYIpM/5Q6tLmtrZaIIghOm4Obp4GfeLeqWoto3e6ghuMmCY3dKJK87x9AR5ETL4hqQG5vedDwOPQ5PgxNui+kf99f97L0sdG9t7UJL23jMUluKvzuVSI7MTlpEcXD0owewCTsmyLgHOhDcamt/AVzFmo0MsRrqfQ//HOxLkzJEjZLId3zzu5XMQkUE7wD646wLqa9N9IvuA8qgoFtJY0UqS7VvuSUqMzet1zYpmLtTZwN1eJq//ms2t+TF6owfgWQzdFtgUgQGR5445yDCiW2RnTerN1r17krT/Ksx3+W0yIeqOOBTi6g9fGHYaPmG7tg4Nfiwfd+FdHEJc7wn8mKUkxr68HbkGZMIVTWHyLU6MLh+ybuwq1QVl3q7NVDhQ==;DfG3K+aYVm67U4yfzPcpYQ=="
 ---

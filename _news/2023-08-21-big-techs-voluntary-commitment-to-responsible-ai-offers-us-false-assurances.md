@@ -9,8 +9,8 @@ ampWebUrl: "https://www.westhawaiitoday.com/2023/08/21/opinion/big-techs-volunta
 cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: West Hawaii Today
@@ -41,6 +41,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "I+ztzTFx4r0q+VwrYqjjTI+KM3zEDyaNoKw8DX3ad9VzEdi1WX8toR15why9nUm1etzyWfSDCfXvo2tQT9dEDFhMHaboUZKI5KNYV0ytYOjfNQW4zq7BxwYRYQooeNHz3vGw4O1s6XhvJ4Ez9unDt0HO3I+FNeq88mu+kaV5wSZFrjjukonb0zPzkSv+U6fIOucGkkjH2Iqx5qGsKbobO69q+2ciiLXYuYhQMGILl4PkQ6vmQPk/X7Se0DDALH/JUaxuqx/eSNl1lymDnQNHdgnOYRXUoeTxs8n4OVHOnNNluGhd/o6h4AI2vKHyveX81b4aoghsiVhXicXH4i6kCdqu47EvPdGABGX0Exjkto8=;aSpHx1N4yCN3P0eQR5cdJQ=="
 ---

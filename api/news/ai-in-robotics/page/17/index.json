@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-04-21-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-launch-failure-and.md",
+      "title": "Science News Roundup: Scientists identify mind-body nexus in human brain; Virgin Orbit blames 'dislodged filter' for January launch failure and more",
+      "excerpt": "The steep drop in fresh capital has left many companies in a vulnerable state, while the failure of Silicon Valley Bank, a leading provider of venture debt, has added to the challenge, a report by venture capital (VC) firm Space Capital said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030.md",
       "title": "2023 Artificial Intelligence and Robotics in Aerospace and Defense Market | Dynamic Report By 2030",
       "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market | Outlook 2023-2028 | Pre and Post-COVID Research",
@@ -1347,58 +1381,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
-      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
-      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "publishedDateTime": "2023-04-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

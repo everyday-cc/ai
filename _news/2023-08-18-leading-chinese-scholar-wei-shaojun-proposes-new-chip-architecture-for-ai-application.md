@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
+  - title: "A Chinese Startup VAST Makes Keynote Speech at SIGGRAPH, Unveiling Breakthroughs in Generative AI in 3D Content Creation"
+    excerpt: "During his keynote speech at SIGGRAPH, Nvidia's CEO Jensen Huang announced a series of technology and product updates, including the next-gen GH200 super chip platform, RTX workstations, AI Workbench, an Alliance for OpenUSD (a 3D image editing format), and more."
+    publishedDateTime: 2023-08-18T15:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/18/9866970.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://api.contentsyndicate.net/uploads/stonesPR/editor_image/956d91c1-196a-40ab-ad0e-21b160d4c1b6.jpg"
+        width: 1099
+        height: 815
+        isCached: true
 
 secured: "IiLOt+wmykKBxKiJr5QleV3yiyC8YlujK61RdPNg+ehCgiiCtxJ+6SuZvPUzNmrbXiNTA3Y/NHdQAgpEOxfaycZEKfl7INmG889u4gieWSok2ay1TGgY5dsJtpVp18YmXHEq2GlA+suMpAu7KBTj8JxaYRWWmAilAyhcKYxdvC/9Zy41e50AoWe1xQklf5YzXsBtkJxWXSBCaw8lFeMRalPUEReUXr+2eAmEWWzOgIghGQg5jucArh+aqyOJL/6G8Ot0nCQ9PIsdy1t9CGl/wNlYSyyyM77T6p9bXZX2Tn3kc/wI5GWVx7ox5VSWBORQ23TBvsIGsLOKpzT12ZXF93e/Maypl/viDvqHyRZGMCYXbdHoO7rM0pNwozI09gA6FfSt5ifZk7CYRhqHmbdDTkyNAOy/movk9FAtZdb438GiTiloQD71K8LZzxDw+ZLzaUtK76ZEDqRxz2KWwyAiTa0Wy7qkIAk2Udg4DCBLmk3Dm0ZU/zn9peCzT4LRb/6NYKJvuXiarvMy6ntQFwSzbQ==;9VocobAbrCmk6fccMjuxEg=="
 ---

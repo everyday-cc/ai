@@ -40,29 +40,6 @@ related:
         width: 1159
         height: 814
         isCached: true
-  - title: "Artificial Intelligence Is Changing The World"
-    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
-    publishedDateTime: 2023-08-17T15:57:00Z
-    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 39
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
-  - title: "Stop wasting time looking for stock photos—this AI image generator is on sale"
-    excerpt: "Stop wasting time sourcing stock photos. Get this DALL-E AI Image Generator & WordPress Plugin: Lifetime License on sale for just $59 (reg. $299) for a limited time."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/dall-e-ai-image-generator-sale/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 14
 
 secured: "zoW5ZFAFb2hbNTIyoW3Q7cOiz1pCk2YEbw6oTU7XZ2HRz71EDNa0Pj5q+9kmTVmjPXFL0SskDXFNdzgKp74uemwbjizsDxQ00mpy7ZqZRkHqOzHehZytQbXOOelAcKg32FCgXGxo2Y4c7BoPAIfsIfWyM5J24bnTStMMQ525fexVTRWOZM5nwc/zFPuZW/n3RLTPraz2/CAHa8f02fcKjPywoUmmZdqGDgjORMaT4WaCTyzy2+hAvfJMPlrPLpQdJXkAvV9u8WIcNDh6cJWBI8KDt4oaTNayCjsTy47UgUPfI0HAY+FZjPPCQiR/vn7Cdq0AOr7fItvM4cBB5dVKnAz/wd6BSTyNHO8WQ8nLlcVP9M0hsL8P/LAm/yNP7Z6BJWxF+E3FSc0O+jFm7CbhTtYzcbbWxWLD1zhBbC9IO29RQsC5hhlFJLN3FNCfyhOqPlsnjbYKgw0XF50ZLIbHd+YGGQvWE5p6iDHDBsTWvnMUj0ZtbFtqd/ACH+hk79LlpRWB1Y8IJmDPGFChUQC6Mw==;ik524kr5aQ+aCVVT1Y9BpA=="
 ---

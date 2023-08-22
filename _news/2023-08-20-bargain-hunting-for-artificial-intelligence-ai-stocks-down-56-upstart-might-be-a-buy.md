@@ -42,20 +42,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks Billionaires Are Aggressively Selling, and 1 AI Leader They Can't Stop Buying"
-    excerpt: "Top-notch billionaire investors were quick to hit the sell button for two popular artificial intelligence (AI) stocks in the second quarter. Meanwhile, 10 prominent billionaire fund managers ..."
-    publishedDateTime: 2023-08-17T13:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/17/2-ai-stocks-billionaires-sell-1-cant-stop-buying/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 60
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744184/buy-sell-stock-market-rolling-dice-getty.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
     publishedDateTime: 2023-08-18T12:56:00Z

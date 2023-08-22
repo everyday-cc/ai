@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-18-apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications.md",
+      "title": "ApartmentLove Names Ken Lang CTO as the Company Adopts Machine Learning and AI Applications",
+      "excerpt": "This is a wonderfully formative time for the Company and to have Ken leading our engineering, Machine Learning and AI initiatives ensures ... and vacation rental marketing services to property managers, owners, renters, and vacationers in more than 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
+      "originalUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/13.7.7/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
+      "publishedDateTime": "2023-05-18T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-bahrain-set-to-host-top-fintech-summit.md",
       "title": "Bahrain set to host top fintech summit",
       "excerpt": "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech",
@@ -1331,58 +1375,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
-      "title": "Best Fintech App Development Companies in the USA",
-      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

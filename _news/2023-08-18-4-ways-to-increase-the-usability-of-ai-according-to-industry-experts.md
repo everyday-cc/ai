@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usab
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI in Games Will Revolutionize the Gaming Industry"
+    excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."
+    publishedDateTime: 2023-08-22T05:25:00Z
+    webUrl: "https://www.maketecheasier.com/ai-revolutionize-gaming-industry/"
+    type: article
+    provider:
+      name: maketecheasier.com
+      domain: maketecheasier.com
+    quality: 37
+    images:
+      - url: "https://www.maketecheasier.com/assets/uploads/2023/07/AI-in-games-immersive-technology.jpg"
+        width: 1350
+        height: 675
+        isCached: true
   - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
     excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
     publishedDateTime: 2023-08-19T12:05:00Z

@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Paytm Investing In AI To Build Artificial General Intelligence Software Stack, Says CEO Vijay Shekhar Sharma"
+    excerpt: "All North East Delhi riots victims have petitioned the Delhi High Court for enhanced compensation. But after three and half years, their faith in the legal system and the bureaucracy is declining."
+    publishedDateTime: 2023-08-22T05:40:00Z
+    webUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556"
+    ampWebUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 40
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2021/3/9/PAYTM_570_850_(1).jpg"
+        width: 850
+        height: 567
+        isCached: true
 
 secured: "zPYOKb+3T5iOd9SUJjPsfZiiD7sQj8+CSYseJPGksmUG76K3YFF/3F+hAXgSQFvcIY3hfWjPOuvRIBXQH+EsCxY7foquA0lcHpXIk31eRmbIjICZBVRwV35IJMQHdUupnpkQ/QErsvvKsEmiZCJ7aMccvWVT0dnwy6LILUttLFUFPKw4bTgYdjY4VUgQqcWLdn4aFWHyFQXoaBXcmjn6g+viu9HfsTys+Q41YkMeCnBI97zQcWw5Lxra8EoSMNQWtyJWP2+GSHWYZzfgq1c2z14P3pK6nzPru1x2oZ8l69YCrrFeVMz2rOBWowOEUd37pIjpfubPXHXcPLCj4biMbEp5ryp7n4YZ8otqod/r94c0WnFoUa0mWyXmOkAIY9/wQvibCmP30QgtxH826HFmoTxEpOLBbULgRwwhsYa2s6H6AyA7o9Lh+ETLboZ4Kwp9/27KZBTHWKjKzNNLLvbzhKJ8WdPb5CBgTDSfpOpy9s/rBrodaQ7jdWtixdUkQufpDYKBP8n4d4zvPJZeO3MsDg==;bOeq8AEV1FSpQ725hMEbjQ=="
 ---

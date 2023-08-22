@@ -22,131 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI For Content Creation: How Marketers Can Use It"
-    excerpt: "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
-    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+  - title: "ServiceNow Sees Generative AI Monetization Opportunity"
+    excerpt: "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI."
+    publishedDateTime: 2023-08-17T21:55:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 569
-        isCached: true
-  - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
-    excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
-    publishedDateTime: 2023-08-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
-    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
-    publishedDateTime: 2023-08-21T11:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+  - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
+    excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
+    publishedDateTime: 2023-08-21T15:13:00Z
+    webUrl: "https://www.hrdive.com/news/IT-service-desk-generative-AI-impact-job-loss-user-experience/691366/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: HR Dive
+      domain: hrdive.com
+    quality: 32
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
-    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
-    publishedDateTime: 2023-08-17T23:32:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
-        width: 1400
-        height: 939
-        isCached: true
-  - title: "Federal Judge rules AI-generated Art not eligible for copyright protection"
-    excerpt: "Court rules AI-created art not eligible for copyright protection, impacting creative industry and raising concerns about AI's role in artistic creation."
-    publishedDateTime: 2023-08-21T06:04:00Z
-    webUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection-11692597016243.html"
-    ampWebUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/FILES-CHINA-AI-0_1692597772890_1692597791668.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
-    publishedDateTime: 2023-08-17T14:30:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing?ab=HP-topics-sponsored-text-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 34
-  - title: "China's new rules on AI-generated content"
-    excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
-    publishedDateTime: 2023-08-18T21:27:00Z
-    webUrl: "https://english.ahram.org.eg/News/506790.aspx"
-    type: article
-    provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 19
-  - title: "A Chinese Startup VAST Makes Keynote Speech at SIGGRAPH, Unveiling Breakthroughs in Generative AI in 3D Content Creation"
-    excerpt: "During his keynote speech at SIGGRAPH, Nvidia's CEO Jensen Huang announced a series of technology and product updates, including the next-gen GH200 super chip platform, RTX workstations, AI Workbench, an Alliance for OpenUSD (a 3D image editing format), and more."
-    publishedDateTime: 2023-08-18T15:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/18/9866970.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-    images:
-      - url: "https://api.contentsyndicate.net/uploads/stonesPR/editor_image/956d91c1-196a-40ab-ad0e-21b160d4c1b6.jpg"
-        width: 1099
-        height: 815
+      - url: "https://www.hrdive.com/imgproxy/3SuKnh_OQdkJKswp_ljOKPQhVd6zPlyt4rpAB8h5k2c/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDkwNzEyNzYuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "SdD34L6UP8zjEhWweQZYmwbBIA0x6WoabSWTj3WCBFcRuRDtgV7NSQV6uQEbpFjG5x+7XJBKguVVoDPmwB+ahF/ogSIkVmaJB8nubj9kMaYNczFYHaTQ2vQBYjZl4ZP6E5GGt537oeExr732KBPl7Xqm79uaQrOk5bxlwdkL8IQvNwnEYjt6ZA7k0t92SGl6Etj7zY1uoSIHIPt9Fz6aUVjTiCm/FF1Fpw58kLwuXydFg6A3knHkOJ3Mu8kQZTZt5NInOr/78Va9BhacpARhspQywnc1XW/KjOxlqcg6pYqwin/nOunzHZf5PbAEtvSxFNdELi4Fja5LMwzJIxPfn3QAQtrN3whq+QdhZrW/aku0qBE2IG3+dCp30e6HthNwVWxsXKWnP+z0oo6plFpt9jqChOOP6eygil+oxCn57sgbWF4orzEr52GIkGvFRxQsHPuLU6XlpAVnuCkEvVoqOiauTywuTDRhJO6/DeOlnf+oXWD81ijS+OpwVKsDGDBPRxCB5s8dlQlYECkmSfyTUA==;XBB1Qmdpyv60fRYaUcl0aQ=="

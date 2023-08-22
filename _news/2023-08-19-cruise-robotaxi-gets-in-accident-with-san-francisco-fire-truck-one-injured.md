@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 699
         isCached: true
+  - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
+    excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
+    publishedDateTime: 2023-08-22T03:21:00Z
+    webUrl: "https://www.timesnownews.com/viral/self-driving-car-picks-up-passenger-in-san-francisco-viral-video-article-102922826"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 23
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102922826,updatedat-1692674433895,width-1280,height-720,resizemode-75/102922826.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "San Francisco Wants Halt to Cruise, Waymo Expansion Ruling"
     excerpt: "San Francisco asked California regulators Aug. 16 to halt its approval of Cruise’s and Waymo’s unrestricted commercial expansion in the city, arguing the city “will suffer serious harm.”"
     publishedDateTime: 2023-08-17T17:50:00Z
@@ -80,6 +94,20 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 19
+  - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
+    excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
+    publishedDateTime: 2023-08-21T19:32:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-to-investigate-cruise-self-driving-taxis-after-traffic-incidents/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 19
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/13667262_081823-kgo-cruise-ax-STR-img.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
     excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
     publishedDateTime: 2023-08-18T19:39:00Z

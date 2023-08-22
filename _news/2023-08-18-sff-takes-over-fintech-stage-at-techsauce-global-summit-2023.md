@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "10 Maps Showcasing Asia’s Fintech Startups Landscape"
+    excerpt: "To get to sense of Asia’s fintech ecosystem, we’ve selected some of the most comprehensive maps covering key markets including Singapore, Hong Kong, Indonesia and the Philippines. These maps provide an overview of each of these markets’ fintech landscape,"
+    publishedDateTime: 2023-08-22T05:39:00Z
+    webUrl: "https://fintechnews.sg/75467/fintech/10-maps-showcasing-asias-fintech-startups-landscape/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/10-Maps-Showcasing-Asias-Fintech-Startups-Landscape.png?x34447"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
     excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
     publishedDateTime: 2023-08-17T20:49:00Z

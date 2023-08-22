@@ -59,20 +59,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
-  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
-    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
-    publishedDateTime: 2023-08-17T10:56:00Z
-    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "OpenAI may have to wipe ChatGPT and start over"
     excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
     publishedDateTime: 2023-08-18T21:35:00Z
@@ -101,24 +87,6 @@ related:
         width: 1200
         height: 1800
         isCached: true
-  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
-    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
-    publishedDateTime: 2023-08-17T11:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-  - title: "How ChatGPT plugins can up your SEO game"
-    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
 
 secured: "PMPFSDB0UVyV0qxJUEnU8qGg2qrWmfLrODF1UEiHVrJCksQHr/D5PLtVWLcHZa7ZX7g5Vp4Xxgn5NwlL27Zm+D1xBSQ54R2irpEgvDboG9eF+nAPO8howO7Azp64xzXah8Yqyg4YTGi4QjuT4cMbOe9Wr2Av4oUVnIOg7eGoJfqqGmxwQCKOWQ9jgxD8MRRrDNmhdTiy6qEH+JRUilQZuPaIQCPFEVCZ/OQZ8gHfYc29MawPFLhWhKsylbL9GgXxPYNEZVCAfVuLL324ocuqA2VCuQOA99Pbs2fV3GXihW6WT88undpDcmj4oja+SRm1BvFn0myGbkWo8uPzvC+VHR8WvWJpj00dAns6reGtGEW+Br9nIHEbTtE3MCcPptlrOKXwVvkOX2D1mrly76cbRCq6RiQXzp1hLPQWsHe9zr6eViWFbtBbbTaATXLpQCVWMWhRelujQHoxyLjp/pTHmRb7HvdAZXtwHIkX2NSS7awa64VShz1wdNtD2v472Ztx9Ac9NClQlPSIHngJNcc8RQ==;Nigo2erslouzTI1Q9rDpgg=="
 ---

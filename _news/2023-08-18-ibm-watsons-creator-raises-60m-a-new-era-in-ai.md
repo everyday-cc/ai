@@ -96,6 +96,48 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
+    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
+    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
+    excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-code-assistant/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/IBM-Cobol-to-Java-translation-1.png"
+        width: 729
+        height: 432
+        isCached: true
   - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
     excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
     publishedDateTime: 2023-08-18T09:53:00Z
@@ -112,19 +154,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Consulting to help firms build generative AI applications with Microsoft’s Azure OpenAI Service"
-    excerpt: "For example, it has created a procurement and source to pay application that combines Azure Open AI Service with the Microsoft Power platform to automate the manual and fragmented processes around ..."
-    publishedDateTime: 2023-08-17T12:05:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/ibm-consulting-help-companies-build-generative-ai-applications-microsofts-azure-openai-service/"
+  - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
+    excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/ibms-watsonx-leverage-generative-ai-modernize-mainframe-apps/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 57
+    quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-z16_Banner_alt.jpg"
+        width: 1920
+        height: 720
         isCached: true
   - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
     excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."

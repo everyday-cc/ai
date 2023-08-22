@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
       name: Buffalo News
       domain: buffalonews.com
     quality: 9
-  - title: "China’s Draft Rules Would Force User Consent for Facial Recognition Technology, With Expected Government Exceptions"
-    excerpt: "China’s new rules for facial recognition technology require companies to protect personal information, and to demonstrate a \"specific purpose\" and \"sufficient necessity\" when collecting biometric data of this nature."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-protection/chinas-draft-rules-would-force-user-consent-for-facial-recognition-technology-with-expected-government-exceptions/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 0
 
 secured: "z8MVTOptX27GH7tO6u4MHl0zrKnuxFQKcVisfHHiMPvXgS+B/GwUUii0XzdKN9+2+KqqwYRzx1qG//3S0+CYQjI8A359j1ZWaKWJfNqOvMtQ3fYMI7zUeB8PbToL+DKF6Ij0fJxLvMGhkbatMASXckAENYKNCCxBUYzJ2RO12pR1suDtMS+bzgxab3StCJoE19KLdSJLqVQFOVZk+HhyMZcn0ZsoY0s0k3o2R1maiX5DIi/SIZTLM2oldZ1zxHXvebkzYaR1llQWD05ppDwHehyR3YtShjQZidgZgxtw7ROtkKbV30zvHxBMuM3s3ooNfYZVqYTk0zVBK+onwBmpDfImXE8N/kVCQgDTBOTdBzypiyX3pHF+Vtg9Woz8my2PiGXSUdn0cWPdkNokCYILah9kf2NvTTLvyzGdAyhuKuiPDFiqYm3brWyypn24uPlUh/rKpZSITbN1+gOTBOJVTwLpV1E0HDoZ+4TJE37RSX8yOAVlH1qiVVw8bBs1LujbHR8HKdaXbqMVew2RrMqU9Q==;zYf8G+5pgvISY4xmzcip/Q=="
 ---

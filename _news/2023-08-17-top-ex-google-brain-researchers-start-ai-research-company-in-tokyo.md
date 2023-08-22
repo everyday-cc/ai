@@ -62,15 +62,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Startup's tool aims to help companies decide which AI is right for them"
-    excerpt: "OpenAI remains the leader in generative AI, but its rivals have narrowed the gap and may be a better option for certain uses, a new AI assessment tool has found. The open-source testing platform released Thursday by startup Arthur aims to help businesses figure out which large language model is best suited to their needs."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.axios.com/2023/08/17/startups-tool-companies-decide-ai-right"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "FtkmcKnNS8qeHHyputRtuR61nyHAf54Ohp+I87z9SH0DvbCCZO0cCNSopFAmOGMaC6fU3ox397V2aGnjXHE8tl4PPwxDzdMlbP7nyipYiffpJOB2pQrLzHAbYRxF3ZGlB/DbKG1HvgkI66n8iEQ8beBywTx1xB1d7h36mUgFjMLEyeRTXqT5EgKDxaeKyAf6YjE3U7+qJQ0zAfWDLsgqxpzdpOoijdphbLpqcq7bFI89MP4KrL7E0OeJgi0xMUzTlUi5o3BpqqzqJ14vBhJBVNiuc6IQN9skBumsKFC+DaZweeq6s6e0a9Zc3EK4lI33zwa9wzy/ZKaZi5ivd2dqkjWuQVT9UDtgVdXnv01Eo8y3ddYgQUnND6fHBQrIutma37E5bOFH9KGMuBw5frlLD0hZ2oaNEMuxVYi2iRed/jvZS6G0JRXuJC0q1yg1lMe2cp2wLBPlVouqFKZE20Ck62UUC0nVJNE6DnAccsiFsOj0iFW16LrixAqxEppugFSrCEw6S2A8ekPduN/tRxeD0g==;A9TK7gE1ocaW4uFXAIirSg=="
 ---

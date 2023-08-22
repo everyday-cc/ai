@@ -110,15 +110,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "From Theory To Practice: How To Implement AI In Your Organization"
-    excerpt: "The reality of AI is that unlocking the true potential of AI in your business requires a thoughtful and strategic approach. While AI can provide valuable insights and automate tasks, it is not infallible. An over-reliance on AI will lead to risks and challenges."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/from-theory-to-practice-how-to-implement-ai-in-your-organization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
     excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
     publishedDateTime: 2023-08-18T13:00:00Z
@@ -128,20 +119,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Transformative Power of AI in Healthcare: Bots, Imaging, and Personalized Medicine"
-    excerpt: "In the ever-evolving landscape of global healthcare, there’s a new player making waves: Artificial Intelligence (AI). Its applications, ranging from interactive AI bots to detailed medical imaging and the promise of tailor-made treatments,"
-    publishedDateTime: 2023-08-17T10:59:00Z
-    webUrl: "https://techbullion.com/the-transformative-power-of-ai-in-healthcare-bots-imaging-and-personalized-medicine/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/tuv-rheinland-131699993_shutterstock_everything-possible-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
     excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
     publishedDateTime: 2023-08-17T17:56:00Z
@@ -232,15 +209,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
-  - title: "Companies go all out to up their generative AI game"
-    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Local teens share how they're using artificial intelligence in school and beyond"
     excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
     publishedDateTime: 2023-08-17T18:39:00Z
@@ -251,6 +219,6 @@ related:
       domain: wxyz.com
     quality: 14
 
-secured: "S5afu83VTD17FT2w/nUd1TT531zn2rHEiYv6+gyluNfdPj7WqmVcKwkJhurt91TGMEe2joAqC9EKyZzBSeRfCbKEvbX5xXhXUHDtPoX7REhzbtWpk1F/b2l261X/PxP9FrIRXpMt2JiHqfKL9k+nfu+UmYvpfmm9On3y/cjQUPCGz/lGwi2h+ZCT+cfZ3DplkJ71aeVR9ib755yn3+5FaJK1SVGFDnCk0fLRquMi9NITI3Fj7zgK9im+piH1E65VwjMehBUsOhNlfmo2LWSTUm+66TZ0ZfDSMGgLdJ8+idECM2ruXNh92V+Z9LF2UbYlfJu669UT6zsdl4agOaDSdx5U4KvF21H9Ydey92cUynk=;5NPlW//E5rV4qF48167+cQ=="
+secured: "gqQZ8YZzVf3F8/ewcLCjvLDEgH1/dZB94vkGYG4nRV4sAyT4GfOoWOZ2fYIZNLsZAfuv4SzN8Hz+BtOSd30poib2L1ZR3BcOzBM09j4OgfQWKzklGUXS4IXonB9tZBCzeCSbgsgD9SVmvQP+l0wyynFjG3kCZ7hOX+C4HyBv2QMp2W2zoVN0ARmS5rhjVBopknJWQmnPyBFkOLkxU22/cHJ0Go/+64SAJbwGF6J+/q/FOWLOMH1uQ4fxKx9OqQ5UNcqFGwHnny/nImfxKMYnAlRBu5y58e8NUXu2pITXfdX1EcpJ/ITeg3GVXIN5YGV7HCTJy0Hqy8su7gv+ojlQEP+wEHUDR6PoGheKz2YEjjcnK8OwNpJX4LQU0zwfyDiW7JhTiCGeiBO2pjnQhhccRCL8AkQuTdizya4elSj4nlveM3wgdwixfxze8DrSoWNFNoD2Czhlld40iHUzZPtt61XX0DD/IUSnxuuaYzIUw4nyx5K5nTYwQkJL/w8eFhT/Jch5pUkTKOKfVifx8Jd/ew==;QABvOHd1OyevTW4AAxhQ9g=="
 ---
 

@@ -82,6 +82,20 @@ related:
         width: 1280
         height: 699
         isCached: true
+  - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
+    excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
+    publishedDateTime: 2023-08-22T03:21:00Z
+    webUrl: "https://www.timesnownews.com/viral/self-driving-car-picks-up-passenger-in-san-francisco-viral-video-article-102922826"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 23
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102922826,updatedat-1692674433895,width-1280,height-720,resizemode-75/102922826.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "San Francisco Wants Halt to Cruise, Waymo Expansion Ruling"
     excerpt: "San Francisco asked California regulators Aug. 16 to halt its approval of Cruise’s and Waymo’s unrestricted commercial expansion in the city, arguing the city “will suffer serious harm.”"
     publishedDateTime: 2023-08-17T17:50:00Z
@@ -91,6 +105,20 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 19
+  - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
+    excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
+    publishedDateTime: 2023-08-21T19:32:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-to-investigate-cruise-self-driving-taxis-after-traffic-incidents/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 19
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/13667262_081823-kgo-cruise-ax-STR-img.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "PMjE0Kr/I7J+sW5G4R4UuvvGH9u2HI4mJ5EoThQC02zirNPWqQzZQoGegu5eWzw3ISk4/g9T2P4mpXtQ6EcMxCVZwtx7uvBWksVniS7P4vokADXu6q+tfSGUrs0HuFDDYvNE9mn+vInTpmrea9lC4y+9UQjHDEvU6gzEa2Yusrm5qMLanyVCEROJ14FsVSO+k510nU2n9MdTwicLbx3xOc7Bl7Lo5nPHlhr9VHDcoV+QPQTWMednHjA/WfuEV+Ocwn4QrDhiz3J6CVGJ732BSEbjCzqytQLogZPFJ00MtYVxpGxKSk5xGa4GVmQSQVar5g7zGhFKKVhDTrXYFEvAhSvtTs9mQTh/Uf3b+V92dwXrZxlvcwTyZQXnXOdOzwkGckqihXmFN+CtICNT3++z5kArATvNqd/PnZYMySdxwtY2hjQ90LfRrrwwa6vS9ZhUU1zSIDyZJbaUiOSeUYw5HGjNODOIe3NFOg8V+tgX5+uKEE3Ohcvg/m216iqChrZI6bGgYqSLBSeas0u6qntfiw==;wv91JYFLM0SFYreLYUih+w=="
 ---

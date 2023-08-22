@@ -28,72 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Power Of AI In Modeling Healthy Communications"
-    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+  - title: "How businesses can ensure a prolonged AI summer"
+    excerpt: "As gen AI evolves at a breakneck pace, the specter of an AI winter looms, but so too does the promise of transformative breakthroughs."
+    publishedDateTime: 2023-08-19T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_graph_showing_positive_growth_with_a_summer_scene_beh_1c5f62aa-2ba9-4999-8cd2-2deed5df7024.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Unveiling The Dark Side Of Artificial Intelligence In The Job Market"
-    excerpt: "The rapid advancement of Artificial Intelligence (AI) in the job market has brought forth a myriad of concerns and challenges that cannot be overlooked."
-    publishedDateTime: 2023-08-18T16:59:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/"
-    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Digging Into Enterprise Digitization And The Power Of AI"
-    excerpt: "While it is a challenging time for many, I would argue there has never been a more important moment to harness the power of AI."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df8e0431caa1d854c712f4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The True Role Of AI In Logistics"
-    excerpt: "AI-powered robots can efficiently sort ... Companies need to change their behaviors from looking in the rear-view mirror to what has happened and start looking forward to using real-time and predictive insights. They need to trust the data that allows ..."
-    publishedDateTime: 2023-08-17T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/the-true-role-of-ai-in-logistics/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
-    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
-    publishedDateTime: 2023-08-18T18:30:00Z
-    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 34
 
 secured: "HM140KJ15g/wnW0QVHOTRDayWlBmlKSmaOAL1XNK308CSiG/7+H4Eb5DRNdLiz2BuruPnKoh+j2BdQOrgyOboL1hC8/7j3QBv+AoKG4TJNXFlbpEUEhe6ESnWvZiI1dUrrdsVKwmiMR4uri9opirCDJs6U8TYDnikr7wLP2yaBtOS/XnfmNsUrmYWVlFFlCmjqVhTKE+gNxGm9u4LnPARCBbEGeLpgFqG2Db576cGKZbLyqNQzEZwjIFW5OR2PGA78DUGRKTN0wmnPApvQJlo6DywzB579h+5PwPA5wxs9fYwhqNOObV/P5wG1Gwv6LUc6Dni6Wf5lQhKEMevfvi0mGGXCb6YemkwQqhqx+2CtwHUIU81NJj5ox+ETl7v1mdB7x75YDS/MAw2rVq0VxQGC+KD+PTN8hfeQsgcBeG6RKmcAA2+/6Z7A0Huf+x/RgMQ8kbVk5ng/N26MFPOs35sT6yQpzDDPqPoKQ4KDceSZo0iBf0csApQaUOQ2tUSpGcVYQPsvJeRlJO1+akGhm4VA==;dqzjgQcjFmRvPp7TiqYZew=="
 ---

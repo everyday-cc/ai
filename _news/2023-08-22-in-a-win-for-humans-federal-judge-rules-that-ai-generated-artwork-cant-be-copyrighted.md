@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 807
         isCached: true
+  - title: "Federal Judge rules AI-generated Art not eligible for copyright protection"
+    excerpt: "Court rules AI-created art not eligible for copyright protection, impacting creative industry and raising concerns about AI's role in artistic creation."
+    publishedDateTime: 2023-08-21T06:04:00Z
+    webUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection-11692597016243.html"
+    ampWebUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/FILES-CHINA-AI-0_1692597772890_1692597791668.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "'AI-created art can't be Copyrighted': US court dismisses AI entrepreneur's plea"
     excerpt: "Thaler contested this decision, contending that AI should be considered an author when it satisfies authorship criteria, with the AI system's owner assuming copyright ownership"
     publishedDateTime: 2023-08-21T06:45:00Z

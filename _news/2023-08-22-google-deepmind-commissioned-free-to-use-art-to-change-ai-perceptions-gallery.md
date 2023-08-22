@@ -115,15 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
-    excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/report-googles-deepmind-is-building-a-life-advice-bot-with-generative-ai"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
     excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
     publishedDateTime: 2023-08-21T12:15:00Z
@@ -134,6 +125,6 @@ related:
       domain: analyticsindiamag.com
     quality: 34
 
-secured: "96C3XMnXNWmgSgXv2+hB3QGwialIBgdHC1xjY26emdPd7crU6pHlaTuS2wcRMFrqm0qYihYmmIkoBAmxCHvflhUTkv2Xh+Z0K9KWKErFX7qPFF2/sq++8WhaeN/PTGhRT59bsYFcZL4mARPwmypiDg872dOP+nugvnmZgBzI1OhB58GBSDjuFesH+GnW3MUzD0wbYjEdy2tuNGaeMzipkwujIffISBrM05MhjSUARAV+85jdeA4POnJmLglWxoc6o0KKMQptEWfeTConpmmWFDvu9SDwgVOMpgzT+H/l2jW6VJ/ysmIo6bw25cpdEkuz6bPS9i46PscWrSykMfZiGtHaGO2QhmV/2DZGiTX9Pf8=;TvXH5DrzyJK/5zWdwZFyDg=="
+secured: "TvPwXNDYni1U2S+P8ix+vsXreIfXEqnJo7NbWNtq5biw1/vgxmp/sDlg2FwvzQ9CB/wMVdMy8xZZXR5SZLw+lAA0lPGPGzGRgISHLCeEdL2zMkHp2rP+aAveeJm/SfSukuaptKOM21mGU9BhtVzcCJsrfL3Nbvm0J8eOQfH4aXYuQN0HkmWNUE87oG0SLDU8KcG5V9xIiSIrqxfD6sgnBGnDWgbpI7LiyOi7EsXhWQ6CUlU5GoKnNtwCI9NOVq5//FrX/mwssJMlU6Dohm+SsJ5x15UCb9RWRafdvqzS/VXlJvSaePXV3ZGm5COvGtPcjg/2bJUrphcE0oFv9YhrnLlSjPkJX0uN5xNoESpZ/ZqKStskcNIM6veR96QOANJTCqMwJKsJFj/mNBdC36OXNX1g8VocWzmAwnrz1P3udiEbf08TvVTb6NMJPQyAFcj5fn0jSrHmIufreitbWaJNz0R/U8U3QNdq0zeXxDwdPKG0KBG+nstT3d0ctRaI5SIRm2WbeRq1TSa6rC0odNjY/Q==;7FTaFka8gefUVJ4Ei1CKVw=="
 ---
 

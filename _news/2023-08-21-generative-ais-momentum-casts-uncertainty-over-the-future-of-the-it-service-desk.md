@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How any SaaS company can monetize generative AI"
+    excerpt: "There’s already a handful of great examples of companies leveraging usage-based pricing to monetize AI, including OpenAI and all companies that provide foundational AI models and services, and the likes of Twilio, Snap, Quizlet, Instacart, and Shopify that are integrating with these services to offer customer-facing tooling."
+    publishedDateTime: 2023-08-21T17:49:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "0OQgoEV4U4jmSqVh2GVO6K22RAq1Divi8eb9aNpBWiPQVenOBaWxXoFdzFDGrrqUCDo4Ho8VgKA40K+KEJg5vrze7zTfNPuXbrdi4XvpT/rJkFXAz6ALZd5p+KeDuCZbdUTQL3kfYTvGC9frQuQuI7JoFV+FnXcP0Id4RetHBzyzuea0svPuKTC069QJt9LN/1HITWHnLO45E2WO90M5dBj+924GFUYgeZO+EGLzUR6itICIJWztmKxRjZ7p3CjgfgYJpQ/HlAiMOb/caJD+bTqIMHIJX74OD37UIYI+22TQmwZ767mVCuqPa9UfJjLi+cYghuyA7pcNEhGMp2dqVy4wn1coJUOvnSVrYZwIqu8=;yDYY0OZK7cpvNBN0XvedeA=="
 ---

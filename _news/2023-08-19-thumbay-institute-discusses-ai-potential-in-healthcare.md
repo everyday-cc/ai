@@ -7,7 +7,7 @@ originalUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-a
 webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 750
     height: 450
     isCached: true
+
+related:
+  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
+    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
+    publishedDateTime: 2023-08-18T18:30:00Z
+    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
 
 secured: "2igWqJ2+gN3xH2dvhw/t9v+8088rZ7L4OvezifPsoxza/871vidy+VtADXwQl7WeW0SLEOzbmAs18z2ov48iP6Qt13eJ92whJRDCnpr30Pcso2bHdDbPfxicP/rJbTX5frbIGHBzq8xrnXgMZZdq+V79QK8qRzBNMQZPHnckI+LAsaXo2/9WOgItgkbepwxaj0UcEHBKuB0kLTW78euifyepTg/f2KSwZt/B7RIosS1C6svcHdV6aDfptVBR6eiBlAU5ciqGFKuobvOjbSbfcSPaW7fgrn/ay5rlu6EwHMoJufFXuLYdgR4DstXgtREgAxr4D5kpFUJTecPrDhtRtNXqJmXfczWA9HyvwsEweu8=;2FKTAluO88J5x5KF2+JGAA=="
 ---

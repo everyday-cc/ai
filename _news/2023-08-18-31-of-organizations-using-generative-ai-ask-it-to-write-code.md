@@ -28,51 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI For Content Creation: How Marketers Can Use It"
-    excerpt: "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
+  - title: "3 ways to upgrade continuous testing for generative AI"
+    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
-    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 569
-        isCached: true
-  - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
-    excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
-    publishedDateTime: 2023-08-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
@@ -92,63 +60,57 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Federal Judge rules AI-generated Art not eligible for copyright protection"
-    excerpt: "Court rules AI-created art not eligible for copyright protection, impacting creative industry and raising concerns about AI's role in artistic creation."
-    publishedDateTime: 2023-08-21T06:04:00Z
-    webUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection-11692597016243.html"
-    ampWebUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/FILES-CHINA-AI-0_1692597772890_1692597791668.jpg"
-        width: 600
-        height: 338
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "How any SaaS company can monetize generative AI"
-    excerpt: "There’s already a handful of great examples of companies leveraging usage-based pricing to monetize AI, including OpenAI and all companies that provide foundational AI models and services, and the likes of Twilio, Snap, Quizlet, Instacart, and Shopify that are integrating with these services to offer customer-facing tooling."
-    publishedDateTime: 2023-08-21T17:49:00Z
-    webUrl: "https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/"
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
-    publishedDateTime: 2023-08-17T14:30:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing?ab=HP-topics-sponsored-text-1"
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
     type: article
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 34
-  - title: "China's new rules on AI-generated content"
-    excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
-    publishedDateTime: 2023-08-18T21:27:00Z
-    webUrl: "https://english.ahram.org.eg/News/506790.aspx"
-    type: article
-    provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 19
-  - title: "A Chinese Startup VAST Makes Keynote Speech at SIGGRAPH, Unveiling Breakthroughs in Generative AI in 3D Content Creation"
-    excerpt: "During his keynote speech at SIGGRAPH, Nvidia's CEO Jensen Huang announced a series of technology and product updates, including the next-gen GH200 super chip platform, RTX workstations, AI Workbench, an Alliance for OpenUSD (a 3D image editing format), and more."
-    publishedDateTime: 2023-08-18T15:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/18/9866970.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-    images:
-      - url: "https://api.contentsyndicate.net/uploads/stonesPR/editor_image/956d91c1-196a-40ab-ad0e-21b160d4c1b6.jpg"
-        width: 1099
-        height: 815
-        isCached: true
+    quality: 17
 
 secured: "4U52IdSR20dDWnJgl1Yz4tcNOpEiG5MJ6LyGWdFOGlcVwSLGzhQu8RxivcbOa6514P366ue4GNrwLK9S4ifemLgultZQWG4V3tuHoiLwhEULvoPa2q3eC9rvmviH6WYmXUEI+YYvtvswkx8mcgp2aYPLRZksohxtmEcjkGSvbNUpfW7y2ozZaRrpVMMMLoG46H/QR0ifAeScQ2lh5ZOFibPfGQxS2tMcWiC/vNJ1e/gP/A3Hifdmk02dk2T8yqIUIO2zEvS13BSijkxy9YMQn+QrcHPojD7xc0SQARJ27owhVT1RvqeFl29BF2rnQw93CiLV7BZwj4WZgqfZBnpI1mxHmIhQqsxGjPT7nELgyLe0QHXe1sPFFcR/EZapBewKy+sSZyAyyNUXAysvuQSDfdF3NokwfJckalgVZLkcy5gKsQZnJY+1yA/0u8fSPuS51kM5sbhpZWHjGD++C9BkCPDuNhLs6oBAZfPPpZRa9qUny7IOxW740+/9oACrqA3aeoGvw5CtSDuebzW9dywfiQ==;nLyfIXM2ztQNuBdAajC15Q=="
 ---

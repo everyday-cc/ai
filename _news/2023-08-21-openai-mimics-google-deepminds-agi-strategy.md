@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
-    excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/report-googles-deepmind-is-building-a-life-advice-bot-with-generative-ai"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
 
 secured: "fsrUsozl797iXvgWOunB7LJ/tCIKGKVO9t3wcHIvemPZ1gv7SFD6ILeiaY8RZVf7BB8pMaFkgz9y+LPJs4b1sG1baET148c1oEvQYPFWZeGBieHnyiatPsXHY89BXRpCXx14zrBmm3CfQzUX1LsLDM/o2gDhPAWH3YK/dDb37tn4mg4m8tafJvNWyR0EQF7iJWYewPv67vUeZBc4aSZXtZ8VsXlZObTpoS/lR6TIqmQq/sfoQauv3ptlr46s1KXisX/AW4GnTM4x4RGDprAOFIf6Om2vTHciVxnHA1baGlqXRWJrq5Poqysp7WW/VxwOQfArcivwqkyM7UrRj9TeWnlo71IvgvNMGFgaj/SMXV1ZW1AfKK7pP2ab+8g5y9lYDlJw1gwACwyJEnRZNepxKXwesyMVjyIchSnRPFRZnFjR95N1FpZf//lGLIzN5QAImmPLfrOKBn06A/TCkS4gw+Pg0OzLQcMjgSmivowUoErsCtTiNIP3kMaYT8c+n3lckKVT7YfKN/Vl+jlhZ+aphw==;QS+RuKdOP3QmAy1QVT8uiw=="
 ---

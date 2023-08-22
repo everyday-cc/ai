@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/the-long-read/762/future-of-fintech-in-th
 webUrl: "https://www.finextra.com/the-long-read/762/future-of-fintech-in-the-middle-east-2023-opposing-pressures-dovetail-to-spur-blockchain-growth"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 799
     height: 449
     isCached: true
-
-related:
-  - title: "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments"
-    excerpt: "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-17T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 94
 
 secured: "0JXnH0tO5s5ms2SBDoDh/ce1x3g2uf5fuUKNYPFbzBvZrNyJQJv7QBfBM/9IlHKI0zaikIOvXkGlojCHSqtT6striu7O+d3734zfLhxPgJ/vAAwEttAjVLgl0RzufEdSqOmiT+I35c4GrOe0tiCe28vGZSvKeJAm00MMhRua/M6W7Nh97SEOLRRbDdYvX7rnDUBwu3VXBBfyXRaY7mkss9U/QqL4S+rxaGdkbf9ZsOUZDP5SZ5X8M6ISy/S2Wpf1SOOt+Q7ZBSP6bfZPzAY5voo9ONwFyOPTLRx5d2lgEaeKAuZVAKXE3+yjMs11diohWtD0Ld/HhE0myGU2Kd0NDR+TIqve873MxnMXr0L+B1Y=;gUNkGf6Ih/JRdySkbUFplg=="
 ---

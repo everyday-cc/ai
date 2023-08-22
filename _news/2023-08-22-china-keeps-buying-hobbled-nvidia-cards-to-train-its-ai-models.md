@@ -83,6 +83,20 @@ related:
         width: 1187
         height: 667
         isCached: true
+  - title: "AI buzz on company earnings calls goes silent in regulatory filings"
+    excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
+    publishedDateTime: 2023-08-22T04:00:00Z
+    webUrl: "https://www.ft.com/content/717dfab8-973e-416b-aac6-24c5c9cb1fe8"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
