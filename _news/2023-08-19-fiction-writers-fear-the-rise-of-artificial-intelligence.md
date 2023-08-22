@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Is there an end to artificial intelligence in a complex and ever-changing world?"
+    excerpt: "We are currently in the age of Artificial Intelligence (AI), where machines are rapidly evolving to think, learn, and adapt just like humans. In a world that is becoming increasingly"
+    publishedDateTime: 2023-08-22T09:23:00Z
+    webUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 38
+    images:
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
+        width: 1661
+        height: 962
+        isCached: true
 
 secured: "J5hiUie67eqzvSSPpIEs88RXKmEz80QJc/ihYMXjSgwCTtec3C6Azb9fH7bI4AEo0mjJMp+EsaYRLkfS48FfT+TyiEdMA3tTBY89AtTfraoIXOcM6Uf8zGMO5jRcVOsGCRnxDuBrNPacJusVznNjTUi5hukk1o8dRUnkUFYAupVlx1QlUuLrS5cjlC9B/XhOeCjyHCHLUHSJRCWCwYicHD2ZcusususRnlxJzaxVzgp+91hDY6tm5pg/fhAmQkooHUMUwE+1OI4IQHptgSTTuxR0Got5qc6Iq1PWrrRbEfsUki6jD6f3Vmei55AJDJbZqtTUFRsJuOyx75ExuTp91kHwm2Bg1nMoFltUVT0itXYrpcugrAbkjlY7b131RR5sWxTeewCtq1DUFfq8yVKO5aZcVLJAAaknFgSiJ7ZJmuG0eh64OZ8ZxED5onNDXWqXEeaKyCQ4pYmSwvbsTeKZW6pGm8bkMjMVkz0+Ex2yVx/fSKc9NQT0UARVs2EnLxmXhF2E1sNPNo5+DOGdc/HTPA==;GGgTa1kkLsFfs0hBrhj1pw=="
 ---

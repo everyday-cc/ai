@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/congress-blog/4163202-3-tasks-for-congre
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/4163202-3-tasks-for-congresss-to-do-list-on-ai/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Associated Press sets its first AI rules for journalists"
-    excerpt: "The AP's Vice President for Standards and Inclusion estimates their AI committee could issue updates as often as every three months."
-    publishedDateTime: 2023-08-17T16:00:00Z
-    webUrl: "https://www.popsci.com/technology/ap-ai-news-guidelines/"
-    ampWebUrl: "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/17/Depositphotos_3533706_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "2TrUQHDF9ShYu3nK5G16O5J8vk37WmNcBvGVqtZkqlhNutoifLdljeGtxQs8gk8GqByrugebjB30AbuMq8xshwMEmUJTK6CMb9WtzDGNwW6WwdEtHdjIBjvf2RvUxWNduuy7CtRiq9lCsiYvR3lSM2tbkovzSC5uP6P1cIq0Sbl2UuqltqczWusl4Tyx+eS/qnsbEWxs7Q/ElqS90VPACDw23GHromXmzlVlSmGck7UzW9BzPNy1MkWrTHvpTyFOLQul9Nd34kudIhiaAS00q7RLN6FAeShIfE+oDufZR58wmO6NAItyiSz3tat1LJiLP8vhem59vxqnpu8Rn3AM+1XM7p6Iu5smuWpQnucUh6A=;IJlk4t8fjjOUl+OycvTjzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11e
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 500
         height: 362
         isCached: true
-  - title: "AI-Driven Investment Strategies: Unleashing the Power of Machine Learning in Financial Decision-Making"
-    excerpt: "AI’s incredible ability to analyze vast amounts of data has given rise to sophisticated tools that help investors predict market trends and optimize their portfolios."
-    publishedDateTime: 2023-08-17T16:14:00Z
-    webUrl: "https://financefeeds.com/ai-driven-investment-strategies-unleashing-the-power-of-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 20
   - title: "States’ Increased Policing of Artificial Intelligence in the Workplace Serves as Important Reminder to Employers"
     excerpt: "Employers’ burgeoning use and reliance upon artificial intelligence has paved the way for an increasing number of states to implement legislation governing its use in employment decisions. Illin"
     publishedDateTime: 2023-08-17T23:38:00Z

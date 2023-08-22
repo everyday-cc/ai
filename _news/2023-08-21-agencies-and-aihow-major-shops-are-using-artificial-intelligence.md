@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why we should all be rooting for boring AI"
+    excerpt: "Boring AI is unlikely to break as easily and, most important, won’t kill anyone. Hopefully, soon we’ll forget we’re interacting with AI at all. (It wasn’t that long ago when machine translation was an exciting new thing in AI. Now most people don’t even think about its role in powering Google Translate.)"
+    publishedDateTime: 2023-08-22T09:27:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "AI is helping expand accessibility for people with disabilities"
     excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
     publishedDateTime: 2023-08-18T14:30:00Z

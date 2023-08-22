@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.a
 webUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 647
     height: 450
     isCached: true
-
-related:
-  - title: "Microsoft Open Sources 'ONNX Script' for Python Machine Language Models"
-    excerpt: "PyTorch, meanwhile, is an open source machine learning/deep learning framework based on the Torch library, used for applications such as computer vision and natural language processing, driven by Facebook's AI Research lab, according to Wikipedia."
-    publishedDateTime: 2023-08-17T16:37:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 60
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "1VAUYNHrPL6qY5licBCbkj8zrWBFIoTslqPfMY8GXt30HUgZDdGN/wT+f4+dh+FKAgVHZt0AAYTlnvQZLpBJ5ERN4lV8PWSoMgNR3Air28VNBy79lZQYEXjufAEXqyV3TuIelwAimMag6UdHh6EpZK2mJhzGRDl+djfwh1ty5ZFnZk8mdBQeT+rAnxUP/MUumPvMuWSTQUNqk2GVCh5zoIyaKtbV+oPlZhv7jVxsrcYjpt7gLf3Kgkjb+ZEhnf8SQWcxMrdmKybFrfXStIWPTkqdkHpInphVRXCZlU4J5bXUVAWn4dn6tuO06bfuTmeCPXvwpiO+YMUNvmIII4YOxVjJq9P5hXo2eZNi2z1898YKgx5R7u+gaOWRRpUQ5mMzUm7QQMIgl7pGE7cDDwvP4xai6PeXlE0QWn7hY81aqqblr5LRSbtCADanoW3WjPb/XKVc2HI/Gbb5NCJbo1+ODX9XcMqaJ0izn6m8ng7ihvNTYMJTaogt6HDOdCBg4Wup8dfERIiUEhreGDSyUAVlpA==;a1we1UZrb4BwW5KJTPRUQQ=="
 ---

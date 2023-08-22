@@ -26,200 +26,244 @@ images:
     isCached: true
 
 related:
-  - title: "How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx"
-    excerpt: "Building on previous innovation, this year introduced AI Draw Analysis, which ranked every player’s draw on a favorability scale.\nThe post How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-17T16:47:14Z
-    webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
+  - title: "Applying the lessons of open source to generative AI"
+    excerpt: "The excitement and turmoil surrounding generative AI is not unlike the early days of open source, or the Wild West. We can resolve the uncertainty and confusion."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 128
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-17-at-9.42.04-AM.png"
-        width: 2100
-        height: 1018
-        isCached: true
-  - title: "US Open heralds new era of fan engagement with watsonx and generative AI"
-    excerpt: "The US Open is using IBM's watsonx to deliver commentary and captions on video highlight reels of every men’s and women’s singles match.\nThe post US Open heralds new era of fan engagement with watsonx and generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-17T16:36:48Z
-    webUrl: "https://www.ibm.com/blog/us-open-heralds-new-era-of-fan-engagement-with-watsonx-and-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 113
-  - title: "The scientist behind IBM Watson has raised $60 million for his AI startup in New York"
-    excerpt: "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing."
-    publishedDateTime: 2023-08-17T18:32:00Z
-    webUrl: "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
-        width: 2766
-        height: 1844
-        isCached: true
-  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
-    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_17221348-100944913-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 600
+        height: 798
         isCached: true
-  - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
-    excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
-    publishedDateTime: 2023-08-18T14:10:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+  - title: "3 ways to upgrade continuous testing for generative AI"
+    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 72
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-headed-by-the-former-CEO-of-IBM-Watson-raises-USD-60M.jpg"
-        width: 1500
-        height: 844
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Elemental Cognition, led by IBM Watson’s former CEO, raises USD 60 million"
-    excerpt: "Elemental Cognition Inc., an AI startup founded by David Ferrucci, the former head of the team that created IBM Watson, has raised USD 60M in new funding."
-    publishedDateTime: 2023-08-21T10:36:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/"
+  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
+    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
+    publishedDateTime: 2023-08-21T11:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg"
-        width: 1500
-        height: 844
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
-    excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-code-assistant/"
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/IBM-Cobol-to-Java-translation-1.png"
-        width: 729
-        height: 432
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
         isCached: true
-  - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
-    excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
-    publishedDateTime: 2023-08-18T09:53:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
+  - title: "How businesses can measure the success of AI applications"
+    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
+    publishedDateTime: 2023-08-20T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 64
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-18T151428.383.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How customer engagement will evolve along with generative AI"
+    excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
+    publishedDateTime: 2023-08-22T05:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-customer-engagement-will-evolve-along-with-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_232601963-copy.png?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
-    excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
-    publishedDateTime: 2023-08-17T23:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/elemental-cognition-led-ibm-watsons-former-head-raises-60m/"
+  - title: "OnePlus seems to be testing several generative AI-powered tools"
+    excerpt: "OnePlus' ideas for generative AI include a short video creation app, a personal education app, and more. OnePlus is surveying users in North America, Europe, and India to ask about the usefulness of new generative AI tools. The AI solutions include a video creation app, an education app, a caption generator, and more."
+    publishedDateTime: 2023-08-22T08:18:00Z
+    webUrl: "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
-        width: 610
-        height: 400
+      - url: "https://www.androidauthority.com/wp-content/uploads/2019/05/OnePlus-7-Pro-back-logo.jpg"
+        width: 1919
+        height: 1080
         isCached: true
-  - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
-    excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
-    publishedDateTime: 2023-08-18T08:18:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-watson-team-leader-raises-60m-for-ai-startup-elemental-cognition"
+  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
+    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
+    publishedDateTime: 2023-08-21T14:00:00Z
+    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
+      name: Wired
+      domain: wired.com
+    quality: 64
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvM2EzZmFlMzktNDE4Mi00NzVhLWE4MDQtMDM2OTEzYzZmNmFiLmpwZw==.jpg"
-        width: 1160
-        height: 774
+      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "IBM Watson's Creator Raises $60M: A New Era in AI?"
-    excerpt: "Elemental Cognition, co-founded by IBM Watson's mastermind David Ferrucci, clinches nearly $60 million in a testament to the potential of next-gen AI"
-    publishedDateTime: 2023-08-18T07:35:00Z
-    webUrl: "https://yourstory.com/2023/08/elemental-cognition-ferrucci-60m-ai-funding"
+  - title: "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes"
+    excerpt: "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful."
+    publishedDateTime: 2023-08-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 60
     images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9ift-1692343965647.jpg?fm=png&auto=format"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e2ce5257642d1784c7148a/0x0.jpg?format=jpg&crop=2377,1584,x0,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Latest Prompt Engineering Technique Aims To Get Certainty And Uncertainty Of Generative AI Directly On The Table And Out In The Open"
+    excerpt: "Most do not know that generative AI is showing you responses that have an implied certainty. Prompt engineering can make this explicit. Here's the deal."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1915,1077,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI datasets could face a reckoning | The AI Beat"
+    excerpt: "The datasets used to generative AI could face a reckoning — not just in U.S. courts, but in the court of public opinion."
+    publishedDateTime: 2023-08-21T17:18:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-datasets-could-face-a-reckoning-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-17T17:12:00Z
+    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
         width: 800
         height: 400
         isCached: true
-  - title: "The importance of continuous AI innovation in banking"
-    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
-    publishedDateTime: 2023-08-21T17:05:00Z
-    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
     type: article
     provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 54
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
-  - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
-    excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
-    publishedDateTime: 2023-08-18T19:24:00Z
-    webUrl: "https://menafn.com/1106887438/Ibm-Watson-Creator-Raises-60M-For-Elemental-Cognition-Ai"
+  - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
+    excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
+    publishedDateTime: 2023-08-21T15:13:00Z
+    webUrl: "https://www.hrdive.com/news/IT-service-desk-generative-AI-impact-job-loss-user-experience/691366/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: HR Dive
+      domain: hrdive.com
+    quality: 32
+    images:
+      - url: "https://www.hrdive.com/imgproxy/3SuKnh_OQdkJKswp_ljOKPQhVd6zPlyt4rpAB8h5k2c/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDkwNzEyNzYuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "t7jBXcAAz1XXTjdXxgSTIYmdsAro6p0TFejOotNDJA6rFD6a8cbQAS9cunctF+fxR0zeWAXNbnLyqE6FHCXpHitRAytYd9EWqNvsqV9ycgd325kpW92qXvpwujl6g5IXepq6u/4loxmoiyDCcG6MRqnAja6C7C0g0YXokFsnZnzJMIjCHXQqzyn213ekhYzEQ8jC4+HeCKscHIVz0WRsDl4+ZgwnFMSWCdS37iGeQTJquOMm3CvtchsN47n/hB7Fjlk2SY3wvLBqGq8A3wIjT3fkIbuBWWe41ESJQsf2d7ORzkIyWSGZ24aHJOp5xsNVn+OEVUGxJY8kbNVKtpBgqqXN1LCKmtRgQFkB6F50B+6SEMY4pk0NVPAbYzr0d5HewV0ZUYU03mniI/O3slmdoAEyMr45WvlMUSaWPCXPtvD77ztBADQbgx93A0y7ck9nMtdSyx0fud4hCiNhLwxQ7BHI6PBEOei2E0Nc1+FxX/AxA9NQXC92kjy4KqA2l8IPPmC6yqQ4Bj0qOun0fKcwjw==;E+1E+G9lcJqZ0wBxiwudew=="
 ---

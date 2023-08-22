@@ -2,6 +2,153 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-08-03-opinion-from-principles-to-laws-consumer-protection-can-galvanize-ai-regulation.md",
+      "title": "OPINION: From principles to laws: Consumer protection can galvanize AI regulation",
+      "excerpt": "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB",
+      "originalUrl": "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230802&t=2&i=1640692714&r=LYNXMPEJ710W2&w=800",
+          "width": 728,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-a-new-fund-for-women-creating-ai-startups-in-asia-pacific.md",
+      "title": "A new fund for women creating AI startups in Asia Pacific",
+      "excerpt": "The Google for Startups Women Founders Fund will provide equity-free funding and Google support to women-led AI startups in India, Japan and Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image1_RzbDKRC.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
+      "publishedDateTime": "2023-08-02T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2-earnings.md",
+      "title": "Artificial Intelligence, AWS: What Amazon Investors Are Watching For When E-Commerce Giant Reports Q2 Earnings",
+      "excerpt": "Investors and analysts are focusing on the company’s efforts in artificial intelligence (AI) in light of this year ... including Amazon Web Services (AWS), will come under close scrutiny after the print. AWS' growth rate — which contributed nearly ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664",
+      "originalUrl": "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEC121BH_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1",
+      "cdnAmpWebUrl": "https://m-uk-investing-com.cdn.ampproject.org/c/s/m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1",
+      "publishedDateTime": "2023-08-02T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-ai-can-detect-breast-cancer-as-well-as-radiologists-study-finds.md",
       "title": "AI can detect breast cancer as well as radiologists, study finds",
       "excerpt": "Artificial intelligence can detect breast ... need to be trained and tested more before they can be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ...",
@@ -1058,144 +1205,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-discover-the-autodesk-vision-series-2023-at-siggraph.md",
-      "title": "Discover the Autodesk Vision Series 2023 at SIGGRAPH",
-      "excerpt": "Autodesk’s series of conferences for the 2023 edition of SIGGRAPH will take a peek behind cutting-edge technology and the year’s biggest blockbusters. Prepare to be awestruck! As SIGGRAPH celebrates 50 years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/discover-the-autodesk-vision-series-2023-at-siggraph/",
-      "originalUrl": "https://www.provideocoalition.com/discover-the-autodesk-vision-series-2023-at-siggraph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/autodeskconferences003.jpg",
-          "width": 1420,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/discover-the-autodesk-vision-series-2023-at-siggraph/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/discover-the-autodesk-vision-series-2023-at-siggraph/amp/",
-      "publishedDateTime": "2023-08-02T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-gamers-brace-yourselves-ai-development-could-lead-to-another-gpu-shortage.md",
-      "title": "Gamers, brace yourselves: AI development could lead to another GPU shortage",
-      "excerpt": "The rise in AI tools and chatbots may be exciting for many, but gamers and enthusiasts could soon be getting cryptomining flashbacks. A few years ago the crypto-mining craze gobbled up gaming GPUs, and it looks like history could be (sort of) repeating as businesses begin buying up consumer GPUs to manufacture their artificial intelligence tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/gamers-brace-yourselves-ai-development-could-lead-to-another-gpu-shortage",
-      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/gamers-brace-yourselves-ai-development-could-lead-to-another-gpu-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DkXdwUQwjBFq2y3uogtaz7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-how-to-detect-fake-news-with-natural-language-processing.md",
-      "title": "How to detect fake news with natural language processing",
-      "excerpt": "Discover how natural language processing (NLP) can be used to effectively detect fake news. Learn about the key techniques, examples and tools that NLP offers in the battle against misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing",
-      "originalUrl": "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMGI3M2E5NTMtYTRlMy00NjBlLTk4YjUtZTE3ZTkwM2E4MDNlLmpwZw==.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

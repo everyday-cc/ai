@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-res
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Top ex-Google Brain researchers start AI research company in Tokyo"
-    excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
-    publishedDateTime: 2023-08-17T16:20:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/top-ex-google-brain-researchers-start-ai-research-company-tokyo"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
 
 secured: "u9T6F2e22Ylo29dIZjtmkZYEAVYbrPWgw4bASDy9Z2qec3GsOxLoa2mEPpexY5PvSj++kK9rfylUk9RRexb7bH2Bd4N+MgewYpBnuHPf8tX7w15A1FAPIsOtIny10/nA6QdGPaykuhExrNBRF447UpPXY9XXMEaj51r+2vF+6YSgyonOoSy4Psw1pzEL56niwz9Bpb9LxiazTvdb490wI1hOiHNHd8AMX3/Syur7Ou+UIm24CSJrAUNBioJqBX7LSPqKbjs9UG7ACKtDagatbNHl06oNETMRyq19XdBBt3uT51GxfoVTXbnYssU1tgLxsEWS+dQICdkj1xZ57ZtnZZ/qi/vEVjUuO8+HHp855N8=;pDZF+JkHkdD/Mk8SKIknFg=="
 ---

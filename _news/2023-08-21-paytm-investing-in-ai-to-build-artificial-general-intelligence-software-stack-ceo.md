@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-a
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Indiatimes
@@ -42,6 +42,20 @@ related:
       - url: "https://imgnew.outlookindia.com/public/uploads/articles/2021/3/9/PAYTM_570_850_(1).jpg"
         width: 850
         height: 567
+        isCached: true
+  - title: "Paytm investing in AI with eye on building artificial general intelligence software stack"
+    excerpt: "Fintech giant Paytm plans to bet big on artificial intelligence (AI), a technology that is reshaping the tech narrative and is making its w."
+    publishedDateTime: 2023-08-22T08:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/paytm-investing-in-ai-with-eye-on-building-artificial-general-intelligence-software-stack/articleshow_new/102916134.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 30
+    images:
+      - url: "https://static.toiimg.com/photo/47529300.cms"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2mC2u/30vC2rzqUqaqIv1aM9moNo/ae/iev4W/mVNu4pcaofD2YR5Pv2nu/ZW6OEwl1iE71YlS6mLv7QNd6EM+W6GruI2YfHGOag9c4noSqOXYQA2DtgIPYS7kOGY1vJw5I2nTjzlM8tyZKiQ2HPcFi9PQe6FTe32fy/2NhLzexCguGNjx5sNpobbRTMAbisJ4bfF5vXS1dzdslcB71wipgiMouC7vZn5xiUQRNfBhQdJmJMeob9TU7N6QWZLbVkQdMhjCefxkvGot0vjuIrKeVqDl5Ls3BCDW4N8Y0OIT2q3oiI4vMS4TqEdfwR4OGmAqzLo66BtOCVKmqHOEQrL4Mk9bVmj3mSMyWhwahvmPE=;EFZD+gewNSV+Fcgu1KEJrA=="

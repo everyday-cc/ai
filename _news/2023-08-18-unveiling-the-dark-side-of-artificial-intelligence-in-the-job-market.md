@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The importance of continuous AI innovation in banking"
+    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
+    publishedDateTime: 2023-08-21T17:05:00Z
+    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 54
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "The growing role of AI in science and discovery"
     excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
     publishedDateTime: 2023-08-22T00:58:00Z

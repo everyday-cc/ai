@@ -24,6 +24,22 @@ images:
     height: 449
     isCached: true
 
+related:
+  - title: "Future of Fintech in the Middle East 2023: Cloud connectivity at the centre of fintech innovation"
+    excerpt: "Fintech companies have proved that mass-market growth is achievable ... As countries continue to adopt more AI technologies and keep up with the digital revolution, citizen privacy is becoming an increasingly critical issue. This presents an opportunity ..."
+    publishedDateTime: 2023-08-22T09:11:00Z
+    webUrl: "https://www.finextra.com/the-long-read/763/future-of-fintech-in-the-middle-east-2023-cloud-connectivity-at-the-centre-of-fintech-innovation"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 11
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/763.jpg"
+        width: 799
+        height: 449
+        isCached: true
+
 secured: "0JXnH0tO5s5ms2SBDoDh/ce1x3g2uf5fuUKNYPFbzBvZrNyJQJv7QBfBM/9IlHKI0zaikIOvXkGlojCHSqtT6striu7O+d3734zfLhxPgJ/vAAwEttAjVLgl0RzufEdSqOmiT+I35c4GrOe0tiCe28vGZSvKeJAm00MMhRua/M6W7Nh97SEOLRRbDdYvX7rnDUBwu3VXBBfyXRaY7mkss9U/QqL4S+rxaGdkbf9ZsOUZDP5SZ5X8M6ISy/S2Wpf1SOOt+Q7ZBSP6bfZPzAY5voo9ONwFyOPTLRx5d2lgEaeKAuZVAKXE3+yjMs11diohWtD0Ld/HhE0myGU2Kd0NDR+TIqve873MxnMXr0L+B1Y=;gUNkGf6Ih/JRdySkbUFplg=="
 ---
 

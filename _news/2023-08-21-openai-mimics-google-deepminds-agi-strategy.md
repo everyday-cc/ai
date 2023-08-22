@@ -21,22 +21,6 @@ topics:
 related:
   - title: "Google DeepMind testing ‘personal life coach’ AI tool"
     excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
-    publishedDateTime: 2023-08-17T16:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Google DeepMind testing ‘personal life coach’ AI tool"
-    excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
     publishedDateTime: 2023-08-17T19:59:00Z
     webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"

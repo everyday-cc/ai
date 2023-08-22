@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
-    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
-    publishedDateTime: 2023-08-18T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Applying the lessons of open source to generative AI"
     excerpt: "The excitement and turmoil surrounding generative AI is not unlike the early days of open source, or the Wild West. We can resolve the uncertainty and confusion."
     publishedDateTime: 2023-08-21T09:12:00Z
@@ -57,21 +41,93 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Cutting Through The Hype Cycle Of Generative AI"
-    excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
-    publishedDateTime: 2023-08-19T19:59:00Z
-    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+  - title: "3 ways to upgrade continuous testing for generative AI"
+    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
+    publishedDateTime: 2023-08-21T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
+    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
+    publishedDateTime: 2023-08-21T11:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 687
+        height: 800
+        isCached: true
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
+        isCached: true
+  - title: "How businesses can measure the success of AI applications"
+    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
+    publishedDateTime: 2023-08-20T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How customer engagement will evolve along with generative AI"
+    excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
+    publishedDateTime: 2023-08-22T05:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-customer-engagement-will-evolve-along-with-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_232601963-copy.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OnePlus seems to be testing several generative AI-powered tools"
+    excerpt: "OnePlus' ideas for generative AI include a short video creation app, a personal education app, and more. OnePlus is surveying users in North America, Europe, and India to ask about the usefulness of new generative AI tools. The AI solutions include a video creation app, an education app, a caption generator, and more."
+    publishedDateTime: 2023-08-22T08:18:00Z
+    webUrl: "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2019/05/OnePlus-7-Pro-back-logo.jpg"
+        width: 1919
+        height: 1080
         isCached: true
   - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
     excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
@@ -87,125 +143,126 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "China's new rules on AI-generated content"
-    excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
-    publishedDateTime: 2023-08-18T07:02:00Z
-    webUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb"
-    ampWebUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
-    publishedDateTime: 2023-08-19T09:49:00Z
-    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-  - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
-    excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
-    publishedDateTime: 2023-08-18T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/generative-ai-will-it-win-the-next-enterprise-technology-arms-race/"
+  - title: "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes"
+    excerpt: "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful."
+    publishedDateTime: 2023-08-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/21/latest-in-prompt-engineering-urges-you-to-welcome-and-harness-vagueness-in-generative-ai-rather-than-shunning-its-perceived-woes/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
-    excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
-    publishedDateTime: 2023-08-17T17:56:00Z
-    webUrl: "https://www.healthcaredive.com/news/google-cloud-healthcare-amy-waldron-generative-AI/691085/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 43
+    quality: 60
     images:
-      - url: "https://www.healthcaredive.com/imgproxy/JE6m1JKnt2UbIcxtPg6sykAC5vaRUn1UPaHQJCPBHHw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk3NjE0NTkxLmpwZw.jpg"
-        width: 770
-        height: 435
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e2ce5257642d1784c7148a/0x0.jpg?format=jpg&crop=2377,1584,x0,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Which Generative AI Products are UK Law Firms Using?"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-18T07:40:00Z
-    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
+  - title: "Latest Prompt Engineering Technique Aims To Get Certainty And Uncertainty Of Generative AI Directly On The Table And Out In The Open"
+    excerpt: "Most do not know that generative AI is showing you responses that have an implied certainty. Prompt engineering can make this explicit. Here's the deal."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 58
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1915,1077,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Part 2: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
-    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
-    publishedDateTime: 2023-08-21T09:12:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 36
-  - title: "VMware’s future: Navigating multicloud complexity and generative AI under Broadcom’s wing"
-    excerpt: "Bottom line: AI is increasingly influencing the IT landscape, with ramifications on spending patterns and technology adoption. Although VMware seems poised to leverage this trend, the success might hinge on how effectively they can address software gaps and fortify data partnerships to provide more competitive AI solutions."
-    publishedDateTime: 2023-08-19T15:42:00Z
-    webUrl: "https://siliconangle.com/2023/08/19/vmwares-future-navigating-multicloud-complexity-generative-ai-broadcoms-wing/"
+  - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
+    excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/ibms-watsonx-leverage-generative-ai-modernize-mainframe-apps/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 30
+    quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AdobeStock_327843433_Editorial_Use_Only.jpeg"
-        width: 3200
-        height: 2133
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-z16_Banner_alt.jpg"
+        width: 1920
+        height: 720
         isCached: true
-  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
-    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
-    publishedDateTime: 2023-08-20T06:01:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
+  - title: "Generative AI datasets could face a reckoning | The AI Beat"
+    excerpt: "The datasets used to generative AI could face a reckoning — not just in U.S. courts, but in the court of public opinion."
+    publishedDateTime: 2023-08-21T17:18:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-datasets-could-face-a-reckoning-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 25
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
-        width: 782
-        height: 440
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
-    publishedDateTime: 2023-08-18T18:52:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341165&cat=PR News Wire"
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
-  - title: "Local teens share how they're using artificial intelligence in school and beyond"
-    excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
-    publishedDateTime: 2023-08-17T18:39:00Z
-    webUrl: "https://www.wxyz.com/news/local-teens-share-how-theyre-using-artificial-intelligence-in-school-and-beyond"
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
+    excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
+    publishedDateTime: 2023-08-21T15:13:00Z
+    webUrl: "https://www.hrdive.com/news/IT-service-desk-generative-AI-impact-job-loss-user-experience/691366/"
     type: article
     provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 14
+      name: HR Dive
+      domain: hrdive.com
+    quality: 32
+    images:
+      - url: "https://www.hrdive.com/imgproxy/3SuKnh_OQdkJKswp_ljOKPQhVd6zPlyt4rpAB8h5k2c/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDkwNzEyNzYuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "f9GFU9fQUoh3vBHOExwvIc9gs6LZt5nViu7NVhCBR5sLEaRFVTa1zduBaZL11twUZ4/GjvdC2IFTuuC+O6mOwK4SG5fdjm8f6nnphPVSe+CoyijQVGGpZpoiwrtUrzY/PjJ+JlfCWUbF4cpCOKzKp6wuYM8x0OKDchSGUwF74YPpAqAT7BKDKqW3XV0vjnhQM92MEHaGW2koY2rK5rY1eWBFgXsX6HMPVRBbytVPZqxoDRml4F5jS2ev1w5+EL0cjsVaEqaBEJ/qz17McCtQrbPQyDMl5SW0sfhC0l0xCfkbXoGuA9nmnRtxX9ty69aXtrlDCrIfVul5fawV+nzpZd8WFj0ZNzSgNbp8PYSuQIYeNdtBdup4lq0UKHU04eIoxWIlTWH1UJF0LbDiQBDQlh8LFiQBfYhuQoIfqAPwwtfn316C5UOgY0Gu2jC/ahAIZot7/pHQHjGLaKVXjXhOJ5HanD+YYc3+Nth0STjgkIDPZGrvC+LCGyt45rGx9ANjTd/ikjhM+vh8UoxEijprkw==;WpWI+2Ue6fIKpuOTvZesFw=="
 ---

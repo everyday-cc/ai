@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr
 webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Americans Know About AI, Cybersecurity and Big Tech"
-    excerpt: "Americans’ understanding of digital topics varies notably depending on the subject. For example, majorities of U.S. adults know what cookies on websites do and can identify a secure password, but far fewer can recognize an example of two-factor authentication."
-    publishedDateTime: 2023-08-17T15:43:00Z
-    webUrl: "https://www.pewresearch.org/internet/2023/08/17/what-americans-know-about-ai-cybersecurity-and-big-tech/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 39
-    images:
-      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2023/08/PI_2023.08.17_digital-knowledge_featured-jpg.webp?w=1200&h=628&crop=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "This week in enterprise: Gen AI hype, cybersecurity leaders and laggards, and Cisco’s tech spending boost"
     excerpt: "The outlook was positive as well. For its fiscal first quarter, the company expects adjusted earnings of $1.15 to $1.17 a share, up 40% at the midpoint, on a 16% to 18% rise in revenue, to as much as $1.85 billion. For the full year, the revenue forecast is a tick higher, between 18% and 19%, with adjusted earnings up 19% to 22%."
     publishedDateTime: 2023-08-19T00:19:00Z

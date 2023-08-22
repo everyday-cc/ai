@@ -36,6 +36,28 @@ related:
         width: 1654
         height: 900
         isCached: true
+  - title: "Part 1: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
+    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
+  - title: "Part 2: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
+    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
 
 secured: "4tDKpT8m6DFJP2kJMIgq0aZ6jaJ8rg02AAnils8CRk0msYTmhwgn205e7W3L7XdrY+DepE7dJqC5eeL35fCVNnQR4WQiZ34J4WIxhJSoNVn2ZYEO3+UoXo+YKaEFB3MYbSzkrCgapM7Ei/lZVxUkeDFP3kWjoVLjwwFWVGXYMuCUBQYIQIfJJK6AOlVaRYY+5d+X9nbtMXuQZoKYATq6TZEbw5q2eiDMCxOUvJHpLVPt7sY/uxcwAjIJtuS2cPevZo68XJptz96vqRlFusWSWo83ZYgXVheOlk2qEPt7zsJPf6CZkXBv8ZbRWpQl7y4ZMeodGcsy6xchuEuXE3EtIV+0TIjGG82gbW35z4Knx1xqqfMR5m293+pGBSbT86pOYTcQKKnFPzPiInro16IQxzaTghOkJYvr3TVseIXXEvcq5H4v60+dRVd0fXKeYsNoD+eGzXVpfWLBX2mLGKvLAGakaHYn0YqFSaFlIqBpgdqoy2SXPG97U8bicOyzqMzvohwT/r8IKLh6ISueMIyIiA==;xf+0MiqgURS/FsxqM4NLFw=="
 ---

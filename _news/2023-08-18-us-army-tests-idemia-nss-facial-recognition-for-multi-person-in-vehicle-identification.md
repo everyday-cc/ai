@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AI facial recognition technology: the black box hurting Black people"
+    excerpt: "Unknown to her, the ministry used artificial intelligence (AI) facial recognition technology (FRT) to match her photo to some other woman in its database. MTO passed this information to Immigration, Refugee and Citizenship Canada (IRCC). Subsequently ..."
+    publishedDateTime: 2023-08-22T09:02:00Z
+    webUrl: "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html"
+    ampWebUrl: "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/b0/eb0ee82b-c1af-5a3d-a901-229b6864a65a/64e3dadf0db19.image.jpg?resize=1024%2C1081"
+        width: 1024
+        height: 1081
+        isCached: true
   - title: "Phillies fans can now use facial recognition to enter Citizens Bank Park"
     excerpt: "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ..."
     publishedDateTime: 2023-08-21T20:02:00Z

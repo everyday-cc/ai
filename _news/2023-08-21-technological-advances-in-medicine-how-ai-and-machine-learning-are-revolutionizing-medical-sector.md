@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-adva
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,28 @@ images:
     isCached: true
 
 related:
+  - title: "Part 1: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
+    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-1-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
+  - title: "Part 2: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
+    excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
+    publishedDateTime: 2023-08-21T09:12:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
   - title: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     excerpt: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
     publishedDateTime: 2023-08-18T13:57:00Z

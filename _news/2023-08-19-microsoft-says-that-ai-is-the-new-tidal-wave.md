@@ -122,20 +122,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
     excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
     publishedDateTime: 2023-08-18T15:44:00Z
@@ -159,15 +145,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
-    publishedDateTime: 2023-08-20T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "H53mQR55qCOKtW8crAkeg0XOt21Us3gk7rDR0wkzPEIPPG9T/BMCVjWSSy8IoZ5aw+W6yPBZx1FTuIMADkCMyn8v/DSjrcOWLXNiCzvW1RuG1v6ozVkef65K+FX0eIbQ7V4dyZrlrLlAZJyDxQwiLD8fL9Cd1hfIkBXtupvKuA198EADqPllwl6UYB8yM3mgnD3zJnHp7bRi/Q/pi3hhgWceb4Gr4hXXilDU996xxz3+8IqcM+SoNsuBZ9uwL0WE2liy2BfVkqR1pcWo3ojlfdEh+5gWfHlWeHT8WLd0Ds69Dtx/TW1gdHy71q2lHBF5PAtu+MM8QlMK9OlwdsssAGQZ6Flcx4F+1Sx84x5q3yA=;0PCnbX9uT8S34hZRpv6gGg=="
 ---

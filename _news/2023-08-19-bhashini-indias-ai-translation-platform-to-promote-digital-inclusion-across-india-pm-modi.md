@@ -57,6 +57,15 @@ related:
         width: 619
         height: 376
         isCached: true
+  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
+    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
+    publishedDateTime: 2023-08-19T12:05:00Z
+    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 15
 
 secured: "O+CdjktncXVaSyl1i4ZBRyYeQyt2VjXvCQCiVrg8cnEYvNIedxt2zHlC/HfgpZDo1eoxQk6a/WZ3FawjIMjhKwS9fn+XI8h6a1jn1U5YbMmnuHHcDgZMHD5ktK+IwssQpzyJM3xYK+oLEwN5mVDqvt516FMzG/YvMJHX4HxHcarXPAxR48TKDE1B5ZyOlxyzl2SO4hGUxZbn+iG7QFxysME/JSjmNEly/X/ZLRIeGzG7ep1ohTnKZ7MG/j+k5H/+tGw7srKcufoWcjZ/+GPqyhinaMxfA36zp/esyrtKlZjSN/TSMUHrMkJ4op6FgJ/HGcXV0zHx2PiTUloEKGrn3nReoWfSamuwgb0t4ALz/k2RFsv6KhArA9zQ5qaX4snoNLo9nKl3Jj3YtfKCtt0Toutuy6b9YVJn25WDcw4HiOtwzdSTubi6L4T6yJMiLnq2+L2xiYer5XN6oWLNVVfqx/Rld+homITqm5X59faN4vizcTUBKZukTfoxdSDRuUskqfaqfVt1qEWsmEQ2zILjAg==;rhww0K3v92rMOOZmdMjwbQ=="
 ---

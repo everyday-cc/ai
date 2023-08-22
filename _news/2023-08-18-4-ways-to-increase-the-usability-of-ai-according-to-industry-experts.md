@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usab
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,61 @@ images:
     isCached: true
 
 related:
+  - title: "Will generative AI make the digital twin promise real in the energy and utilities industry?"
+    excerpt: "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To"
+    publishedDateTime: 2023-08-22T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 109
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png"
+        width: 1164
+        height: 610
+        isCached: true
+  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
+    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
+    publishedDateTime: 2023-08-18T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cutting Through The Hype Cycle Of Generative AI"
+    excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
+    publishedDateTime: 2023-08-19T19:59:00Z
+    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 687
+        isCached: true
+  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
+    publishedDateTime: 2023-08-19T09:49:00Z
+    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
   - title: "How AI in Games Will Revolutionize the Gaming Industry"
     excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."
     publishedDateTime: 2023-08-22T05:25:00Z
@@ -45,15 +100,6 @@ related:
         width: 1350
         height: 675
         isCached: true
-  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
-    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
-    publishedDateTime: 2023-08-19T12:05:00Z
-    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 15
 
 secured: "W7zXpNTy6Wmj2uGsD4wM1v5pZen5PEmPBun/UJbSC26zjbvxkFd/FBbyOp548GCpMwJDUWr1B09HHUfxts7J9SGFOek1kOnwu3BIntU5foP2DD7d9C2Y0QrXpDgSb/E+9VZnSEcn1KBCVJFMfc9oDRFPwIkPnqXnEHDV2cbRRQlHqsVSQNfeH9Pd5pXV1wQj4Melq4MFnDppzePEhu92EBREM2jEdjeT8WXJVU6DZtu1lFbzAg/d6F3uriIRJHnSQ6zTORa/0o0KBqKWoxWTs0GMd4oH5UOPMSX4TVr+tSWdgSk0FBPzcV79Xd/temwbjdzP6OOv+mJ2kJZhPDqtFGA1rRooSlyyPS7vUehvuHKZ5gbI67qw6tgYPmmSLwmDx57DzUJW6Nod2iGfoebXxPxlA08mT3kNDATkmsledWnUqtV8xETcGTZRxlQobWEialp0gvQ/HsP3FFWVkfTiRdFgfuQ9udGZ3pcnPphZEGCY2aJU6YyinHxS9u6fYFbxk9kczA434CmPSgbnPvE3+w==;JlwAuTBs8XjZlSgzTF3fNQ=="
 ---

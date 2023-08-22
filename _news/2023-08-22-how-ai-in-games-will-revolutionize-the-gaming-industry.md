@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Will generative AI make the digital twin promise real in the energy and utilities industry?"
+    excerpt: "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To"
+    publishedDateTime: 2023-08-22T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 109
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png"
+        width: 1164
+        height: 610
+        isCached: true
+  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
+    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
+    publishedDateTime: 2023-08-18T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "4 ways to increase the usability of AI, according to industry experts"
     excerpt: "Such is the tone of a recent Twitter essay by Rachel Woods, research data scientist formerly with Meta/Facebook, who cautions that while solid business cases may be forming around AI, usability is still out of reach."
     publishedDateTime: 2023-08-18T14:57:00Z
@@ -40,15 +70,31 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
-    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
-    publishedDateTime: 2023-08-19T12:05:00Z
-    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
+  - title: "Cutting Through The Hype Cycle Of Generative AI"
+    excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
+    publishedDateTime: 2023-08-19T19:59:00Z
+    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 15
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 687
+        isCached: true
+  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
+    publishedDateTime: 2023-08-19T09:49:00Z
+    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
 
 secured: "GInbQwa88M8OJtLGPLqKgSjIx6h0nVYFuqbCiYmBpRjZb1KrJ/EIMo3KPiiygJiXxWBcZ+d/HIgjHmXUcSG11aNB1eiFoy+8yxdNFyCjAmMpGGCp4xe5qMkTuuruQtGy53RXQjjpK88X6HVMRUo72IWV+OkgkOEpt5M7f9Mg0W8Wdfj/sttY9O71oKIMudQs1bQX/DiOVMW6QZh+4BslSchk1P1nNz+FUhW2yqMnM65zXUBPZsyHWfnTNg0hks3avLWEOjW+GpgZHmyFtkK5+IL8LHFp5JqwomYegReMHe+scyN6DUIq33wXI5OZVJSt3PYwu2QEz2U1IQ2wPDsHmzPXL19lX5MYXBEMgNT2aR0=;swbCfaBrImcPBYFpyolZXQ=="
 ---

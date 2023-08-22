@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Phillies fans can ‘Go-Ahead’ into stadium with facial recognition"
-    excerpt: "Those headed to Citizens Bank Park can enter with facial recognition technology starting next Monday, Aug. 21."
-    publishedDateTime: 2023-08-17T16:49:00Z
-    webUrl: "https://www.pennlive.com/life/2023/08/phillies-fans-can-go-ahead-into-stadium-with-facial-recognition.html"
-    ampWebUrl: "https://www.pennlive.com/life/2023/08/phillies-fans-can-go-ahead-into-stadium-with-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/life/2023/08/phillies-fans-can-go-ahead-into-stadium-with-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3SDKSDKL2RDKLLUP3DH4GSHRAE.jpg"
-        width: 4500
-        height: 2585
-        isCached: true
   - title: "Philadelphia Phillies roll out facial authentication to let fans skip lines at Citizens Bank Park"
     excerpt: "The Phillies and the MLB released to following info on the new program:"
     publishedDateTime: 2023-08-21T20:52:00Z

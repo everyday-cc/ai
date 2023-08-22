@@ -43,6 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Paytm investing in AI with eye on building artificial general intelligence software stack"
+    excerpt: "Fintech giant Paytm plans to bet big on artificial intelligence (AI), a technology that is reshaping the tech narrative and is making its w."
+    publishedDateTime: 2023-08-22T08:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/paytm-investing-in-ai-with-eye-on-building-artificial-general-intelligence-software-stack/articleshow_new/102916134.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 30
+    images:
+      - url: "https://static.toiimg.com/photo/47529300.cms"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X2vOVvts5fEazQtQD6qEzWzgv6I4u4CceNRUU6NrhyRqjvvCV3E/R49g8PttU+5eES0WC5x2IsQPdyqdZAJIXCG0vwfSkYWy84r/OzdFa6mhmHDUOMe7rrMQgxvjBPplr377ai5lRBTYH3Mro11k30imM4ffKvqHWQDEI6/vlaUMbvcLY8Yn93L0t8QPc5RHHWX5VONJgMCGK5WCRXJrilygYRPptZvlGoC8KQ5KOUjEQESND7ta2lQKWNSxFU1gY1LY3PHTw0b9Z4f8zfYXn6A7cChdrSKySCCuAisUc84f17Q/0XqtbnMassBi7fITeOAZZ/eXyjvQG9oSdxP96TkGTbBtI7yqiqddTMoriHw=;IE2wEyxSSrHBzd/hrFr2nA=="
 ---

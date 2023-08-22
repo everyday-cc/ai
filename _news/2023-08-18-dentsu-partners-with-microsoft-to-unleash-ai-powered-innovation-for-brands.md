@@ -35,20 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
-    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
-    publishedDateTime: 2023-08-17T15:41:00Z
-    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "yYAwPupsuo1Vr4+15PTS28hGTxSicnYC0cKTQEucKftb0Kvd77hzltz4PzmAXlSnMr6732HG+l2EFrcoO2bcFE4mXHbF2oQtTI/4wWXgFK8DhEKZ69mbs5Jcf8/SlLgJjSoJaNEN90K5EURDKzm6dI/1o8Pg2jNJUuhjt0J2UpFM3d1zvW5aDzarfaDKhqpGYswjYCn4fGOqPbPCZREKolDXoUiAS7XstGheOVS8XVJKU4t6yAkl7kJreeYW//v08BPEfr1oC23VgvCC098na01X6N90Pbx7WgelkT/L0RVSc0B56uFZwb5HQxD9sXx11S5RCptGL4VDNvX6cxu0FtQK3fqoEGPQPyw4Sscx9hU=;r0qD8dBoLV+upIyJBplDJw=="
 ---

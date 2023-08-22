@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelli
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 619
         height: 376
         isCached: true
+  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
+    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
+    publishedDateTime: 2023-08-19T12:05:00Z
+    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 15
 
 secured: "cLAsHpgSaJVrOgjKBIyhhAIebUTbTtk/HLXtCQB3J9lh4KpiPorXZiwyy1CvpXQPbdCcBmxJ4Aca0UH0x7Ls6RkoCfymwuvjq/jC6I3e7+bv/oguOn+OYVKyhfnTHIdmyGfhNXIu0qbyWsLq86XixN11y3X4UWoWaEzblSZOs4ke7xxZUIublE13YSYJFxjRcVD4r8otV3kbHkkK/IxeqUeOBZHxAMJo25yuWaisbp7pkGuDLS+rWV63qM0aLgEW/veIPHQx6xQLZ9k8OjrZp5aXhIE8b0so6sx50mGxThX2ZtYlfn2JedKfHVUQYmM57QRtrFmcihFO2+2ej0mmDqIR/4I7TtdxU9dBaD9Vpcc=;I1CZe2SPp+FsZ+lu46hmeA=="
 ---

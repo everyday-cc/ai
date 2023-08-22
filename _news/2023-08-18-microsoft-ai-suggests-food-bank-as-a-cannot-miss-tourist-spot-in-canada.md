@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
 type: article
 quality: 120
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
-    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
-    publishedDateTime: 2023-08-17T15:41:00Z
-    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Dentsu partners with Microsoft to unleash AI-powered innovation for brands"
     excerpt: "Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment Dentsu Group Inc .."
     publishedDateTime: 2023-08-17T18:30:00Z

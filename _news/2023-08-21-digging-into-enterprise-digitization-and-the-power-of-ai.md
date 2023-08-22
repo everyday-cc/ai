@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/diggin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is there an end to artificial intelligence in a complex and ever-changing world?"
+    excerpt: "We are currently in the age of Artificial Intelligence (AI), where machines are rapidly evolving to think, learn, and adapt just like humans. In a world that is becoming increasingly"
+    publishedDateTime: 2023-08-22T09:23:00Z
+    webUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 38
+    images:
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
+        width: 1661
+        height: 962
+        isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
     publishedDateTime: 2023-08-19T13:04:00Z

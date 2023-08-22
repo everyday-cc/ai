@@ -54,15 +54,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Top ex-Google Brain researchers start AI research company in Tokyo"
-    excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
-    publishedDateTime: 2023-08-17T16:20:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/top-ex-google-brain-researchers-start-ai-research-company-tokyo"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
 
 secured: "okpZOc/TxctYlxgMA8Ko1w46oXYFC8IXEVfSSHVnthC7I0opsKiBX1AN6IICpmqitdSepsKmvGkocTiVG/8ZJ8ejsiQ1xsVIHHkE1R2Zki4Tcdnp7NUXTlAmITR52s+Iv8vHvp4Qq4P5KgNXfXIVhFuz7Ilj5YTtQ954O+VIt1oS7JgFyblIkljaAggog+nNdKli9am77ZyeNcZ9qDeI3xyI41+Iel53nz3ncUBqYpckf2hY6ImigTZNeOWh1zhvGxXZ+Bh5azDk8rgcKC6WudAlYZ5lJz4f2GMduRUZ7KSQauWggFJqZvyekmPy4UBbR5ihSfmOd4NWzk+RSO2g8L4v2U36OoiR4iokW6a2eCQ=;QWduQQH1RbEbxnLB1uCbzA=="
 ---

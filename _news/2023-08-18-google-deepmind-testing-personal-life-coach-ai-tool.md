@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: The Guardian
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind testing ‘personal life coach’ AI tool"
-    excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
-    publishedDateTime: 2023-08-17T16:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google may soon roll out AI ‘personal life coach’"
     excerpt: "Google is reportedly planning to roll out a new artificial intelligence tool that provides “life advice” and acts as a “personal life coach” along with many other AI chatbots to perform tasks like writing and tutoring."
     publishedDateTime: 2023-08-18T07:44:00Z

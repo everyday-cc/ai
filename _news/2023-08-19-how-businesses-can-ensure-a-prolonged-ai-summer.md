@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-a
 webUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "How businesses can measure the success of AI applications"
-    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
-    publishedDateTime: 2023-08-20T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mnuexbZRVu4kDH/kFqUNmBoaU/SfhJy3Dd1T3Cb/lNbijy5QoosL3/xL2Rap/PLRV/0aKF4bAePK8zH1l0V4SEotj824EclruQaFWMrDh7jfyU5LEKQq+r7/e/T4UlODK9f4rnSHKGbw5gyKj7IH7Aao3mHxJ5lEZBWOUkjek3nC9X1dxg7ZEkjVSGV/gXyZdOzsWC8A0kLahX+sKBYt6qxFgxQM+7cZmyHYQlLDlfR66Fi+WHmGJZP2uc22F34GcRaKkwDnKmVZiK1u0pQppoKipynh1ZG1JbAHuusLMEJAZPebw/haHvryd8ulelf/2UlA+V9YHBsrALJLdyZ2KDAb54c3K2gUtIgJq5ZMXyyGzMHQ9iJTrpGveFULXfzsXh08GsXF49+Y7J6U05vXrPozgKrvADvQ73monG9UDfLb17S1I/GfEP/Dw/qZHLrCYLR6TCWw66GkjMqwfFhot2B74cOc8fSGiHv6jIUOglGJmtrXfeifAk9Ve5B9i/XnPRqvo+s0vyVzs04GbdkoPg==;TRMYxSEgUqweCeLSFQGVCA=="
 ---

@@ -64,6 +64,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "The Bull Market in Artificial Intelligence Is Just Getting Started: 2 Big Reasons to Buy Nvidia Stock Right Now"
+    excerpt: "Customers can’t get enough of Nvidia's artificial intelligence chips. A new processor design should extend the company's AI dominance. Investors have rightfully crowned Nvidia the biggest winner ..."
+    publishedDateTime: 2023-08-19T13:28:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/19/bull-market-artificial-intelligence-nvidia-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/744243/artificial-intelligence-gettyimages-1464561797.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
     publishedDateTime: 2023-08-18T06:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-o
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
 type: article
 quality: 65
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
     excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
     publishedDateTime: 2023-08-18T15:44:00Z
@@ -159,15 +145,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
-    publishedDateTime: 2023-08-20T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "2C6N5NtT3p29dQW5LWpHiC4N/qf4NSjcMh4yEv0OOXryVsxxfSBZ7hbnyzRtYBeRsOEgkrGWOSBquadicqgsmuoi+iiPpZkVucB6vfDMwlF8i5EMkXE2g6heD/lQ3oCG5cSfSXWLEPjIpKJOKmvmJLeJyuili9wMClFlWKHnjaWMBn7pcwgCoAeIsTF5i4kxtNCg0k9msOOwx8TglFvESL+DMONKGTH58DmWS2L/yl26PQztncKGWG72pNwg5jmOgyN1XTyQA03Ok8qdwP7Pv+DVovmwaqjF5RV/OrXw8h0pED0nGD+DdSdZMtCF1R4ACTZwgoISa7U+gOGX3ZsvEMp02mQD7RuGm5AW1O/5U98=;N/6666x/ipjIIr47QoYRvA=="
 ---

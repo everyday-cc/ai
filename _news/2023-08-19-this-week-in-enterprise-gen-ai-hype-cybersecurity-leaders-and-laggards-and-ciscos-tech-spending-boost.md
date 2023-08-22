@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What Americans Know About AI, Cybersecurity and Big Tech"
-    excerpt: "Americans’ understanding of digital topics varies notably depending on the subject. For example, majorities of U.S. adults know what cookies on websites do and can identify a secure password, but far fewer can recognize an example of two-factor authentication."
-    publishedDateTime: 2023-08-17T15:43:00Z
-    webUrl: "https://www.pewresearch.org/internet/2023/08/17/what-americans-know-about-ai-cybersecurity-and-big-tech/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 39
-    images:
-      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2023/08/PI_2023.08.17_digital-knowledge_featured-jpg.webp?w=1200&h=628&crop=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "QiZr6+bbHi2SoJUptSkTZqA3VptAaq1kG022bpGT6B34s+Bht0ZQvRt0iKfHxCCcWMkdm8kahOVDepvKHJT7Pegm3KbCECPnCU7Bh0D6Xq6On3bssoJ6wr9X5bKm9sXJyc0cDemNXE7ov4R+gsy/KbrKQ0IKilBGmO9efM43fWLPTrgSh7N3MiMHA378g+K6FAMg1Ct4iLTTp2XFUMhhrIz5r3/WD3iwckJrR0cYEWU+C5nxTqeH6RZW6j0WOpPG+d0OA8oyzaWWPRVdCHmlKpWPSuTJrg2dnAgx84CfPwpJbqxU93J0e5R3t6eG6Y7PGvoUtovEy1Hm+KCDH+j7n/z+sXZukrE3KBsDwRAdOF0=;v1kVUrNuHu7I0k8u4zSAsg=="
 ---

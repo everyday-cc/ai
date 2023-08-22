@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
     publishedDateTime: 2023-08-21T13:02:00Z
@@ -159,15 +145,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
-    publishedDateTime: 2023-08-20T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "4gftD6S6boD0ss3vqUzKwKueGOApokugsAk2F9fFeq8PJHA13YvNYxb0DkgmLcMGZw/54Mt/yXDsNQn6OFEG5ZFq1+8FV/e7bd8BOs5JhYqgQGfWBsQY39QJu7q9Mc1XkbIw8HKX3jVldn7lGbA0ex7wIu+rbPT3F4EJ8b63S7dIDeqxZpRytCXQf+XtIN1Klpd1emsLa0hwzAvP/FMmOyfqeAH2SmgAOx9KNlig90EuUdJV+qnOl8Ty8zZO6qMiONLLrqgjLTZddN3kNEV9flkEepVaSakyDY+Etl1l7R7JuVO9RQllKRHlL1N0/qx88fYVITIiffOJZM395B6/t7r6wtCdqwx+++Q4a+uFS7KCRRdymh835XtikRLLZXKLIprEWpv49jmVMLi8HTdiUi/o4bHAyusJqeha2Ry+UEeiYbZTIXLaCSowwUVy31aPTMdRp2WBYsWdMdWFY8GV3kqjn2PK6fJ4jCrDB59tZokaQE+Cfxp5NnAOXYHju9aYbx7pIKfmI2GRzVh7Oeyeog==;AK92pmltmTZWIJpR86Oznw=="
 ---
