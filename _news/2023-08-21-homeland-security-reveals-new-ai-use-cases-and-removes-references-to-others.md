@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Homeland Security reveals new AI use cases — and removes references to others"
-excerpt: "In addition, a subsection for the Coast Guard previously listed on DHS’s inventory has also been removed — that subsection previously listed an AI program called the “Silicon Valley Innovation Program (SVIP) Language Translator.” Further ..."
-publishedDateTime: 2023-08-21T13:59:00Z
-originalUrl: "https://fedscoop.com/homeland-security-reveals-new-ai-use-cases-and-removes-references-to-others/"
-webUrl: "https://fedscoop.com/homeland-security-reveals-new-ai-use-cases-and-removes-references-to-others/"
+excerpt: "Previously undisclosed use cases include an ICE facial recognition system and technology for identifying “proof of life\"."
+publishedDateTime: 2023-08-21T14:00:00Z
+originalUrl: "https://fedscoop.com/dhs-adjusts-ai-use-case-inventory/"
+webUrl: "https://fedscoop.com/dhs-adjusts-ai-use-case-inventory/"
 type: article
 quality: 53
 heat: 53
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "d9tANUf8240usqiteGfddFH7JLjaD1HGPQEc397sinqsNRB32t253e4IMIGHQ33ucB3tayp353bhNbz7ft/XKMRGL5/x9f9pMeiIgEuN6Rbg6xoBQEZ0tC0gY7haMc2WGDWJ8hZx0+m22GFDCNq6NFF4Zd1+UN5UHNq1+RcjQ2iDmvBBVy2tyNJsQAcWkogWN+mcPUyrh0vxxNf4p2Q/17j/lFrh77tiNBvREpfmy+FCVu6tZsU4jRINp9YfQktJJTQlAZ85k9tjb/FOR0N//zukQeRCtwFLHJM/tK+WC/CBW4xIpo6PdadqY5AAHautv3yFnQEfRYavhBuClCLp2WLMYjeqFjN0SwU+YluAFrIjxOrAMCuZstjpTt58yoG9+Ga5fINge7lUJx0VZ+gVwRqRRI0Sn8LEMoZK6jMf/PcpESXCaYTeeM4CIBrj9K7QaibUJS5KYUU9SUkCCVdRFUsOvOgxpbKl2btS4193J45cJefnV7b5q/acVMCQFQPmwESbHFH8PWKpd32LN+6frA==;HnPloSONLXNIWo989YwFVw=="
+secured: "84L1tZ3nK/KXf4on/AdgcGv+sX68DS5DYKkcVwte5VTm+kM3jDqkJ4iH2JPoNouY0SYoGQFFMyknAGeuzm8Xt5vmoMzmli3VR9wzn9ujGT66py/4rGeJCHmAeS8tDlUF27RAl6vAVpIjF2r2LuH0T0SXhcBxTwbPwjucaN6QtuUTtDl7gRvRQG+FwOTmHdOsKGR1D02PR9aU+o2nCznQb7amrBQPx1qW9D6ky7yihJ6RClFIJvqaHgIsQayrOORjRKOuXqaPNgEWNrEqwYSpnf5UdD6zcq8BXc5I4zEXvt1q62FLf8AbNbjEG2FCnMxxLHqc1lnxM5u8a5Dwp2z3N1nYC9TD9xNt8PgcXMIsl2w=;zr9YmSIWQdFPNc0jXBX+/Q=="
 ---
 

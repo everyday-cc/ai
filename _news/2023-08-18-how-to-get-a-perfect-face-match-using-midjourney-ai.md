@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "50 Midjourney styles to expand your AI art creativity"
-    excerpt: "Midjourney styles to help you quickly and further creativity and uniqueness to your AI art generation. Midjourney styles offer an easy way"
-    publishedDateTime: 2023-08-17T07:42:00Z
-    webUrl: "https://www.geeky-gadgets.com/midjourney-styles/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/50-Midjourney-styles-for-creative-AI-art-generation.jpg"
-        width: 700
-        height: 466
-        isCached: true
-
 secured: "7QzqhIjlIkKfQiNhOqii8ZfnnUdM76+SOIW0UxUDsdv9J4mXxjAmDr5xEVYvbSs4EEiKHXIKzHrSMB1YChKl6fnnM6hzgP/1BBelWfxJ1mGe+6p/FJYTIZ/69OlOT42SnTqy0yKyDtHjsrYzLAPxDVkdrZqiD4i8OPSjAvVw7buTyyOMet4gkcTKUU9qlAvcaWX6x6cPzZZWfTnPUC9k8djB8kjNcq92u51JS6sGR1SL9lvqHInX7S3ZMRCu34QOcyQpDDZnExuo9HDzpBrqZIaX5o4lLwLn6PAhGGLFcMvYPL4Z/q5PCLhyf59DVFHu75eSX+85j/06PFJmPTdl6G4ZECU8OaqOl6LCPjYKAd5IxnbMHJWFqnSYi//ZVSEH7REZnFYnNV/P7tIh68rJip2J3Ez2L6IkAc96otdMuW2mxaf+R21n0kdBRmTfzR99SbQf2KZOFrLFNX8lK5a2fSv3KmuQ3TH+XH3s2HbEXn+Irzn1rGFkaCG0n59nMeDkzObfm6lM7ASG7kcZt3b86g==;fAcJF5sHg74g2Uj7Zde2AA=="
 ---
 

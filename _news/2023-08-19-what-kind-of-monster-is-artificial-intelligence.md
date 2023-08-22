@@ -5,9 +5,11 @@ excerpt: "In this age of apprehension, the development and availability of the l
 publishedDateTime: 2023-08-18T18:30:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/me-the-self-and-i/202308/what-kind-of-monster-is-artificial-intelligence"
 webUrl: "https://www.psychologytoday.com/us/blog/me-the-self-and-i/202308/what-kind-of-monster-is-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/me-the-self-and-i/202308/what-kind-of-monster-is-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/me-the-self-and-i/202308/what-kind-of-monster-is-artificial-intelligence?amp"
 type: article
-quality: 17
-heat: 17
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "IYWjhOrgNoHiGBcokfocN527n4yzVo5+yOP+ZXXzIKSDMtu4jsogN+XRL2UoHQfdlwpaBpq0WNXxI7aZJpETmuz7JWeDIRgAu7YMeSHT0KeKJSzZi1/rHi7kxPFH4I7r1NU4hiX8EDKeONDQi9IMjrJT+9Kigs9yXDbQebiq+UNjcS0Z1JAPvdncX6WR9SLaiokALS736FPju5WEObUIUtzxqsTT5zoOcifHdAVgPgo4+9yMY5l4URIpYKLaNHgrqDbIyjZdp7LxnSGawCXOFE+mL9JkNme9o1neYlstYjfW41uLtF9+d+kxyTSM1TUC0in3Qd4r6PAJ/gkn/k4sbAICxp6Mn4pQp62h9Vz7k9GIGtfTIzOMQPe/KhL/0gQY9VlHoXGp+7PwvhPcsQRo6ayLmc1s0cLOkynnrOlwvl7FujTudaEPCxdqCPzuVP/95OO6m09HlWjL0aPkiGvrZCai44ShXIeeHQZHxAA0y9P8n9J47DL2q1WdAtHyXEfNic/Y6jmCyXUiEpWLOWv7zw==;UQbFS3KellJeGS2V03C8Mw=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/zombies-1296507_1280.png.jpg?itok=3o0Rtpu2"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "ABpB69LI/WF8Q5HhwW+dNIcPiwzRdxE1ceUd5bHGLu51H6m804CoJTJH7M6oEqlHQaMholF4GE7PJEgCJFLEqJLa8IZFfX661Wt7sdrCRGn8eqbODYYqS5tkban7vMTHBJJLQvsNN+QgQyxHowDJy8Bjx4daTjhYX3sLZhISj278/9JB3F/qTGM0tCWT+pxgq6/OXxa9J+aiV3FrabyYKHakPoS8iWDQYIfEPNuDVv2yKaY3WjEzh/Ud54ALrE6aYA0tImyjjJsh2pSgpIPwxh28KH4nT6TpvBX6MrqlNr4P8q1IV/2+bq5vkunDXLVOzPUntTnHrXxuyzOcgvFJ/e0YTbwQnbLKyFy+IJZRdOk=;SEBQSLcfkFUugmMj5SA6YA=="
 ---
 

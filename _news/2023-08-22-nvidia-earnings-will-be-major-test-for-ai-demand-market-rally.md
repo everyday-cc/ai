@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-21T20:40:00Z
 originalUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
 webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
 type: article
-quality: 69
-heat: 139
+quality: 67
+heat: 137
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -103,6 +102,6 @@ related:
       domain: barrons.com
     quality: 33
 
-secured: "uZ3crEIyTYdzhMKLOCY8plByjmfQD7oLauYyX7c4zU3xBjE8K6eUy468B7ezkRxmcZHzkweHMbFaZLtZEQGeyZ1v3E7eNxuw0FC77svQM2I1yzpRtnhwW1opQXaQY1FHdkqUaOE47yQt14ey1XtwaujhIL1ingAzPge9rwP8OjVTvATgOqJDRrvAhYm4aW/w3bv3meTSCMtu7/zcdL9l1EYL8CU5z1dZx1vt0om4Du7LOvAXsF3BR/Vkz+fsUSId87/5v/7mXP/K03c4q8/yk3FCY/tn9YMGWk745WcEgvM2rWrMah4xQF02NC1xLLnpUwrEDW7c7HumXZdOoUSHXpn2TPR6cL1yJ/glvO+ekT4=;70K1vcCqsGiTbhdKajIQkA=="
+secured: "QPN5ehqQ7g2M8gAGcH3AxuQ5amSe/SzX7ua+sQ0Jm9A4rV1ZUpMY5vwfz71+EFNwINMlfJaHPXVVo4OTBy5DunRMEF4TS7tIlYz9jUOIBbVQKkfCm4eGrSUqi/aA4xVtbJ/DMDrxTK6xvFKRUjH5gUTJk2WHtNOwn1OpdSMNCbe5QWH/OVOOyU15g4ioIiatEjM+nwgrg2V8EPhHkMhppYRjJoeHgOaX3CwsFNCDh8jhbV4dFQIhM3QF1GTYu2YFC2TiPFijjXXhwdEhBy06HCTtjZ4/mi15V0OAXruotW3MyS0yOqH8us041px7zns4XPR/7AiQszFA6oFOTidrjCnE2FRUS5QUk4yppDRjRbY=;ttwdNCOvtfLiizQFBuDDVQ=="
 ---
 

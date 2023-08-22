@@ -2,6 +2,59 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2023-05-15-combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response.md",
+      "title": "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response",
+      "excerpt": "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 641,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "publishedDateTime": "2023-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-hormone-therapy-should-be-offered-to-more-women-with-severe-menopause-review.md",
       "title": "Hormone therapy should be offered to more women with severe menopause: review",
       "excerpt": "More women suffering from 'debilitating' symptoms of menopause should be presented with the option of hormonal therapy, according to a paper published in the Canadian Medical Association Journal (CMAJ) on Monday.",
@@ -1180,49 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-gardening-tech-from-robot-lawnmowers-to-app-controlled-watering-systems-the-top-tech-buys-to-get-you-growing.md",
-      "title": "Gardening tech: from robot lawnmowers to app-controlled watering systems — the top tech buys to get you growing",
-      "excerpt": "The Evening Standard's journalism is supported by our readers. When you purchase through links on our site, we may earn an affiliate commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "originalUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/05/11/15/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "publishedDateTime": "2023-05-13T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

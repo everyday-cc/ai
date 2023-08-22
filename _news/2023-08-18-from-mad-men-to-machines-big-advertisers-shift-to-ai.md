@@ -53,6 +53,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "The growing role of AI in science and discovery"
+    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
+    publishedDateTime: 2023-08-22T00:58:00Z
+    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "r4MugM7tRWoXvGOHs+twJ2Xsgxy/DQnXCbKZ66wyU9BTEXM2MT+WjL+fo9aLuDLuQ/zgpNuz32Qote3XWJibQ2+tBLq1xecGzBH6JP+A+MnwHn2LJZ7W86QriG2RjKPJDnMG1MH+32EgyOV3+3cWtdWb0yDTly1EAtjBuNY2q306CbL59B9HABEQRQq1FN6ETrXUZXODzq2C+qlULHOhQNJw5nSC/Hy+FGi/GlK5sGutJ5JyOztGq1z1KOkE2Evmu3AEOhw6k0U7r/vR9XGYP8ZrNnsbmFGBHCmZ0xgosx9HXmQuAB/mDQKgCbBIUkFixWdX/33OhQ2bveh91lGr/IsKa8sldzhmtNxl1q3X658TWzUPQCp13XCc3D/zz1DFiJmAvXmjuPie9yi26crNJmDYrqDsbcN7+VKuyynpR/EuUd+/DX+wFgl0cxHSNVGYf34A2JEYmvJypGGvEOatHIBsHkkIS9O0vGSBV4/UVJCYo3ercANP7HK+BKKCCyi21l6DHfX0GIEbyTo3ZiCBLw==;+W9XGbMURFN3wR/9soseBg=="
 ---

@@ -2,6 +2,48 @@
   "page": 181,
   "value": [
     {
+      "path": "_news/2023-04-27-researchers-use-ai-to-innovate-insect-discovery.md",
+      "title": "Researchers use AI to innovate insect discovery",
+      "excerpt": "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
+      "originalUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg",
+          "width": 2137,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-ai-insect-discovery.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp",
+      "publishedDateTime": "2023-04-27T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-mark-zuckerberg-said-the-word-ai-no-less-than-27-times-during-a-meta-earnings-call-this-week.md",
       "title": "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week",
       "excerpt": "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call.",
@@ -1144,58 +1186,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-2-artificial-intelligence-growth-stocks-smart-investors-are-buying-hand-over-fist.md",
-      "title": "2 Artificial Intelligence Growth Stocks Smart Investors Are Buying Hand Over Fist",
-      "excerpt": "Its software leans on artificial intelligence (AI ... Trade Desk is well positioned to maintain its momentum. Grand View Research predicts the ad tech market's revenues will increase at an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729264/artificial-intelligence-1.jpg",
-          "width": 2070,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

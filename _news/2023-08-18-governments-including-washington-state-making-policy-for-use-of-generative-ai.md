@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11e
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
-    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
-    publishedDateTime: 2023-08-17T07:49:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
-        width: 469
-        height: 314
-        isCached: true
   - title: "Artificial Intelligence and Copyright — AI: The Washington Report"
     excerpt: "The Washington Report, a joint undertaking of Mintz and its government affairs affiliate, ML Strategies. The accelerating advances in artificial intel"
     publishedDateTime: 2023-08-17T23:48:00Z

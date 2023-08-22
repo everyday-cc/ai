@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-05-12-esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc.md",
-      "title": "Esperanto Sees A Bright Future For RISC-V In AI And HPC",
-      "excerpt": "Esperanto has shared key findings of three customer trials conducted last year. Customer “A” demonstrated linear scaling from a single chip to a cluster. Customer “B” demonstrated strong performance and power efficiency vs the NVIDIA A100, and Customer “C” saw very strong performance across hundreds of evaluation parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1c6db5dba549c62796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/amp/",
-      "publishedDateTime": "2023-05-12T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-ai-frenzy-accounts-for-all-of-sp-500-gain-in-2023-socgen-says.md",
       "title": "AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says",
       "excerpt": "The investing frenzy around artificial intelligence has been so strong that without it, US stocks would be down for the year, according to Societe Generale SA strategist Manish Kabra.",
@@ -1457,6 +1405,40 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-protecto-boosts-privacy-protection-by-10x-with-lightning-fast-gpu-technology-from-nvidia.md",
+      "title": "Protecto Boosts Privacy Protection by 10x with Lightning-Fast GPU Technology from NVIDIA",
+      "excerpt": "Protecto, a leading provider of privacy intelligence solutions, today announced it has been able to boost the performance of its privacy models on NVI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

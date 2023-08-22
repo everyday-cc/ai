@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-10-fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation.md",
+      "title": "Fintechs turn to AI and cloud as steadfast forces for innovation",
+      "excerpt": "The rapidly evolving fintech landscape is witnessing a remarkable transformation, driven by advancements in leveraging both AI and cloud technologies.\nThe post Fintechs turn to AI and cloud as steadfast forces for innovation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T06:18:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-smartling-receives-ai-breakthrough-award-for-best-machine-translation-solution.md",
       "title": "Smartling receives AI Breakthrough Award for best machine translation solution",
       "excerpt": "Smartling's solutions are based on AI-powered, natural language processing and guarantee translation quality. LanguageAI™ enables low-to-no-touch operational processes through a combination of ...",
@@ -1119,57 +1162,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-britain-appoints-tech-expert-diplomat-to-spearhead-its-ai-summit.md",
-      "title": "Britain appoints tech expert, diplomat to spearhead its AI summit",
-      "excerpt": "Britain has chosen tech expert Matt Clifford and former senior diplomat Jonathan Black to lead preparations for its global summit on artificial intelligence (AI) later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ai-britain-summit-idUSKBN2ZK1NT",
-      "originalUrl": "https://www.reuters.com/article/ai-britain-summit-idUSKBN2ZK1NT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/2-BLBQdn-YbGQtBXPjh2n5Hshug=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XPKJROO6VZP4FNOTV6WIRDWUJU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

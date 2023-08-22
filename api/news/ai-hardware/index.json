@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-22-nvidia-earnings-will-be-major-test-for-ai-demand-market-rally.md",
-      "title": "Nvidia earnings will be major test for AI demand, market rally",
-      "excerpt": "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-21-ibms-new-analog-ai-chip-is-more-efficient-than-power-hungry-gpus.md",
       "title": "IBM's new analog AI chip is more efficient than power-hungry GPUs",
       "excerpt": "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates",
@@ -1430,6 +1378,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.md",
+      "title": "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments",
+      "excerpt": "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "originalUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "publishedDateTime": "2023-08-10T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

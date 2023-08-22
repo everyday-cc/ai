@@ -131,15 +131,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "Generative AI use cases for Asset Management Firms"
-    excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
-    publishedDateTime: 2023-08-17T08:29:00Z
-    webUrl: "https://www.finextra.com/blogposting/24754/generative-ai-use-cases-for-asset-management-firms"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "A Chinese Startup VAST Makes Keynote Speech at SIGGRAPH, Unveiling Breakthroughs in Generative AI in 3D Content Creation"
     excerpt: "During his keynote speech at SIGGRAPH, Nvidia's CEO Jensen Huang announced a series of technology and product updates, including the next-gen GH200 super chip platform, RTX workstations, AI Workbench, an Alliance for OpenUSD (a 3D image editing format), and more."
     publishedDateTime: 2023-08-18T15:24:00Z

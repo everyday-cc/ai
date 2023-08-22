@@ -55,15 +55,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "ABB, Microsoft bring generative AI to industrial applications"
-    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-17T07:45:00Z
-    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Dentsu partners with Microsoft to unleash AI-powered innovation for brands"
     excerpt: "Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment Dentsu Group Inc .."
     publishedDateTime: 2023-08-17T18:30:00Z

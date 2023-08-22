@@ -2,6 +2,49 @@
   "page": 151,
   "value": [
     {
+      "path": "_news/2023-05-14-gardening-tech-from-robot-lawnmowers-to-app-controlled-watering-systems-the-top-tech-buys-to-get-you-growing.md",
+      "title": "Gardening tech: from robot lawnmowers to app-controlled watering systems — the top tech buys to get you growing",
+      "excerpt": "The Evening Standard's journalism is supported by our readers. When you purchase through links on our site, we may earn an affiliate commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "originalUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.standard.co.uk/2023/05/11/15/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "publishedDateTime": "2023-05-13T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-expert-taps-un-officials-to-learn-how-to-build-a-global-ai-regulatory-body.md",
       "title": "AI expert taps UN officials to learn how to build a global AI regulatory body",
       "excerpt": "Gary Marcus, a cognitive scientist and expert on AI, said he's consulting with people in the UN and UNESCO about how to create a global AI regulatory agency.",
@@ -1197,58 +1240,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-humans-in-the-loop-ai-machine-learning-in-the-bloomberg-terminal.md",
-      "title": "Humans in the Loop: AI & Machine Learning in the Bloomberg Terminal",
-      "excerpt": "The Bloomberg Terminal provides access to more than 35 million financial instruments across all asset classes. That's a lot of data, and to make it useful, AI and machine learning (ML) are playing an increasingly central role in the Terminal's ongoing evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

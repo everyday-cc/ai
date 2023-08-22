@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-08-01-fake-ai-friends-on-facebook-snapchat-this-will-result-in-learned-narcissism.md",
+      "title": "Fake AI Friends On Facebook, Snapchat: ‘This Will Result In Learned Narcissism’",
+      "excerpt": "Now social platforms like Snapchat and Facebook are using generative artificial intelligence to give us smarter and more engaging friends. When Facebook parent company Meta reported financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-on-facebook-snapchat-this-will-result-in-learned-narcissism/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-on-facebook-snapchat-this-will-result-in-learned-narcissism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c9c41e7f72131e4cc6f9a3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-on-facebook-snapchat-this-will-result-in-learned-narcissism/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-on-facebook-snapchat-this-will-result-in-learned-narcissism/amp/",
+      "publishedDateTime": "2023-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-opinion-amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story.md",
       "title": "Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story",
       "excerpt": "When another analyst asked if she was expecting GPU sales of around $500 million this year ... to speed up compute power required for handling AI training and machine learning, but sales to other customers will likely occur in the first half of 2024.",
@@ -1129,50 +1181,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country.md",
-      "title": "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country",
-      "excerpt": "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "publishedDateTime": "2023-07-31T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

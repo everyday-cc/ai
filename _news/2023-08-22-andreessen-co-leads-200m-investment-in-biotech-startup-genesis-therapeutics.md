@@ -52,6 +52,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Genesis Therapeutics Rakes In $200M For AI-Powered Drug Discovery"
+    excerpt: "The startup’s physics-centric AI platform is what sets it apart from its competitors, Sklaroff argued. Genesis has “deep expertise” in physics-based methods for computational chemistry, which the company combines with its proprietary machine learning ..."
+    publishedDateTime: 2023-08-22T00:11:00Z
+    webUrl: "https://medcitynews.com/2023/08/biotech-ai-physics-drug-discovery-venture-capital/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2017/01/GettyImages-488634096.jpg"
+        width: 683
+        height: 512
+        isCached: true
   - title: "An­dreessen Horowitz-backed start­up lands $200M for AI-based drug dis­cov­ery"
     excerpt: "Genesis Therapeutics, a startup using artificial intelligence to design small molecule drugs, has raised $200 million in Series B financing — one of the largest rounds for an AI-focused biotech this year."
     publishedDateTime: 2023-08-21T12:00:00Z

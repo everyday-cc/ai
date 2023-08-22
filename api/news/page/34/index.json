@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-27-ai-tools-pose-threat-to-research-ethics.md",
+      "title": "AI tools pose threat to research ethics",
+      "excerpt": "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
+      "originalUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
+      "publishedDateTime": "2023-07-26T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
       "title": "Waymo putting the brakes on its autonomous truck program",
       "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
@@ -1146,49 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-aws-expands-bedrock-with-new-ai-models-and-complex-task-automation.md",
-      "title": "AWS expands Bedrock with new AI models and complex task automation",
-      "excerpt": "Amazon Web Services Inc. announced today during AWS Summit New York that it’s expanding its fully managed artificial intelligence foundational model service Bedrock to include a variety of new models from Cohere, Anthropic and Stability AI, as well as the capacity for developers to deploy their own automated agents to execute complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/",
-      "originalUrl": "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/swami-sivasubramanian-awssummitnyc2023.png",
-          "width": 1688,
-          "height": 922,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

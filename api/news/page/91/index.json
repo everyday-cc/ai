@@ -2,6 +2,49 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-06-22-accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value.md",
+      "title": "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value",
+      "excerpt": "Accenture (NYSE: ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI for faster business transformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value/article_4345ea4d-2dc8-5983-8d52-9a4f5e73c8e0.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value/article_4345ea4d-2dc8-5983-8d52-9a4f5e73c8e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/90/490fc1c8-8823-54ac-b20b-9083131109ec/64934c0bd1f28.image.jpg?crop=1198%2C629%2C1%2C0&resize=1198%2C629&order=crop%2Cresize",
+          "width": 1198,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-dropbox-launches-50m-ai-focused-venture-fund-intros-ai-features.md",
       "title": "Dropbox launches $50M AI-focused venture fund, intros AI features",
       "excerpt": "Dropbox AI — powered by an OpenAI model via OpenAI’s API — can review and generate summaries from documents as well as video previews. And it can answer questions in a chatbot-like fashion, drawing from the contents of research papers, contracts, meeting recordings and more.",
@@ -1114,49 +1157,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-ai-that-uses-sketches-to-detect-objects-within-an-image-could-boost-tumour-detection-and-search-for-rare-bird-species.md",
-      "title": "AI that uses sketches to detect objects within an image could boost tumour detection, and search for rare bird species",
-      "excerpt": "Teaching machine learning tools to detect specific objects in a specific image and discount others is a “game-changer” that could lead to",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234752",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234752",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/2704e044-952a-43bc-99f6-345da80b3f13-oysteinsorensen.jpg",
-          "width": 517,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

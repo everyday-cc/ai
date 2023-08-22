@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-17-generative-ai-vs-ai.md",
+      "title": "Generative AI vs. AI",
+      "excerpt": "Artificial intelligence has the ability perform tasks that typically require human intelligence. Generative AI, in contrast, is a specific form of AI that is designed to generate content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-vs-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-vs-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/08/ew-generative-ai-vs-ai.png",
+          "width": 1400,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-researchers-use-artificial-intelligence-to-help-diagnose-autism-study-says.md",
       "title": "Researchers use artificial intelligence to help diagnose autism, study says",
       "excerpt": "Researchers are proposing using artificial intelligence technology to help diagnose autism spectrum disorder. In a recent article published in Scientific Reports, researchers from Brazil ...",
@@ -1159,49 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt.md",
-      "title": "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT",
-      "excerpt": "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
-      "originalUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2023/08/Nvidia.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
-      "publishedDateTime": "2023-08-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

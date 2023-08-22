@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-07-25-ai-appears-more-human-on-social-media-than-actual-humans-study.md",
+      "title": "AI appears more human on social media than actual humans: study",
+      "excerpt": "An artificial intelligence study published in Science Advances found that AI-generated text on social media can appear more human than human-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "originalUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bff1022-cc69-4a58-ab0c-7d0afacf8a0c/c38f9884-dfb7-4d64-9f42-d747aef5d144/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-ai-on-the-front-lines-senate-pushes-army-to-develop-neural-sensors-to-track-soldiers-fatigue-stress.md",
       "title": "AI on the front lines: Senate pushes Army to develop neural sensors to track soldiers’ fatigue, stress",
       "excerpt": "Senators on the Armed Services Committee want the Pentagon to move quickly toward adopting AI-driven neural sensors for American warfighters.",
@@ -1145,57 +1197,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ignoring-ai-could-spell-disaster-for-top-executives.md",
-      "title": "Ignoring AI Could Spell Disaster For Top Executives",
-      "excerpt": "How long will your company survive if all of your competitors instantly become 30% more productive? That's exactly what's happening right now with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
-      "originalUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64be91afb47d40b871d98954/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
-      "publishedDateTime": "2023-07-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

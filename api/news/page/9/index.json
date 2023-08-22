@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-14-bridging-the-tech-gap-how-to-make-ai-accessible-for-hourly-workers.md",
+      "title": "Bridging The Tech Gap: How To Make AI Accessible For Hourly Workers",
+      "excerpt": "The best approach to adopting AI as part of your hiring funnel is to see it as a tool to augment human actions, rather than a replacement for your team of recruiters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/bridging-the-tech-gap-how-to-make-ai-accessible-for-hourly-workers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/bridging-the-tech-gap-how-to-make-ai-accessible-for-hourly-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d6330ded860f2198d9eed6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/bridging-the-tech-gap-how-to-make-ai-accessible-for-hourly-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/bridging-the-tech-gap-how-to-make-ai-accessible-for-hourly-workers/amp/",
+      "publishedDateTime": "2023-08-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-upgrading-healthcare-security-strategies-to-combat-ai-based-threats.md",
       "title": "Upgrading Healthcare Security Strategies To Combat AI-Based Threats",
       "excerpt": "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach.",
@@ -1116,57 +1168,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas.md",
-      "title": "Supermarket AI Gives Horrifying Recipes For Poison Sandwiches And Deadly Chlorine Gas",
-      "excerpt": "It seems every company on the planet is experimenting with different ways to incorporate artificial intelligence into their consumer-facing products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d70d062ae3ad4e070f2e72/0x0.jpg?format=jpg&crop=3589,2020,x0,y330,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/",
-      "publishedDateTime": "2023-08-11T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -35,6 +35,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Melatonin improves long-term memory for object recognition: Study"
+    excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
+    publishedDateTime: 2023-08-22T01:42:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20230821/4110824.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
     excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
     publishedDateTime: 2023-08-21T18:43:00Z

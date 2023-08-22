@@ -126,15 +126,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "Generative AI use cases for Asset Management Firms"
-    excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
-    publishedDateTime: 2023-08-17T08:29:00Z
-    webUrl: "https://www.finextra.com/blogposting/24754/generative-ai-use-cases-for-asset-management-firms"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "China's new rules on AI-generated content"
     excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
     publishedDateTime: 2023-08-18T21:27:00Z

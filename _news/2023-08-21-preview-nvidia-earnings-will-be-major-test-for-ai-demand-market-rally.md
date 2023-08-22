@@ -26,7 +26,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg"
         width: 1200

@@ -58,6 +58,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google may soon roll out AI ‘personal life coach’"
+    excerpt: "Google is reportedly planning to roll out a new artificial intelligence tool that provides “life advice” and acts as a “personal life coach” along with many other AI chatbots to perform tasks like writing and tutoring."
+    publishedDateTime: 2023-08-18T07:44:00Z
+    webUrl: "https://www.aol.com/google-may-soon-roll-ai-044420243.html"
+    ampWebUrl: "https://www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 59
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/89c52db5949ec43d13a7e7bcedfd170a"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google DeepMind Testing Personal Life AI Tools"
     excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
     publishedDateTime: 2023-08-18T04:00:00Z
@@ -85,6 +101,20 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google DeepMind commissioned free to use art to change AI perceptions [Gallery]"
+    excerpt: "Google DeepMind wants to change the perception that the public has about AI by offering alternative art and imagery"
+    publishedDateTime: 2023-08-21T23:43:00Z
+    webUrl: "https://9to5google.com/2023/08/21/google-deepmind-ai-art-imagery/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/google-deepmind-ai-art-imagery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
     excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"

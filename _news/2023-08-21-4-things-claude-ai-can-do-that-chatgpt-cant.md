@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
 type: article
 quality: 87
-heat: 168
+heat: 167
 published: true
 
 provider:
