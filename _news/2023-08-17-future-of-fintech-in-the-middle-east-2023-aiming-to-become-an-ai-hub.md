@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/the-long-read/761/future-of-fintech-in-th
 webUrl: "https://www.finextra.com/the-long-read/761/future-of-fintech-in-the-middle-east-2023-aiming-to-become-an-ai-hub"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,25 +25,25 @@ images:
     isCached: true
 
 related:
-  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
-    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
-    publishedDateTime: 2023-08-19T01:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 33
+    quality: 59
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
         isCached: true
-  - title: "Canadian fintech invest plummets"
+  - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
-    publishedDateTime: 2023-08-17T23:12:00Z
+    publishedDateTime: 2023-08-19T04:39:00Z
     webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
     type: article
     provider:
@@ -55,19 +55,19 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
-    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
-    publishedDateTime: 2023-08-18T09:30:00Z
-    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 24
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
-        width: 659
-        height: 1024
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
     excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"

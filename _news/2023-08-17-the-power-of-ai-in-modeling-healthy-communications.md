@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Leveraging AI for a Transformation in Financial Services"
-    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
-    publishedDateTime: 2023-08-17T06:56:00Z
-    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Conclave discusses role of artificial intelligence in healthcare sector"
     excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
     publishedDateTime: 2023-08-18T18:30:00Z

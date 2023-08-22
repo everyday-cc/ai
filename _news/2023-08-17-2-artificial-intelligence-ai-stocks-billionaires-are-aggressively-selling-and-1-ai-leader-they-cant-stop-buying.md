@@ -1,0 +1,71 @@
+---
+category: news
+title: "2 Artificial Intelligence (AI) Stocks Billionaires Are Aggressively Selling, and 1 AI Leader They Can't Stop Buying"
+excerpt: "Top-notch billionaire investors were quick to hit the sell button for two popular artificial intelligence (AI) stocks in the second quarter. Meanwhile, 10 prominent billionaire fund managers ..."
+publishedDateTime: 2023-08-17T13:01:00Z
+originalUrl: "https://www.fool.com/investing/2023/08/17/2-ai-stocks-billionaires-sell-1-cant-stop-buying/"
+webUrl: "https://www.fool.com/investing/2023/08/17/2-ai-stocks-billionaires-sell-1-cant-stop-buying/"
+type: article
+quality: 60
+heat: -1
+published: false
+
+provider:
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/744184/buy-sell-stock-market-rolling-dice-getty.jpg"
+    width: 2000
+    height: 1500
+    isCached: true
+
+related:
+  - title: "2 Artificial Intelligence (AI) Growth Stocks That Wall Street Billionaires Are Buying"
+    excerpt: "Those products led Morgan Stanley analyst Keith Weiss to conclude that Microsoft is the software company \"best positioned\" to monetize generative AI, a bold prediction that bodes well for shareholders. The generative AI market is expected to expand at 42% annually to hit $1.3 trillion by 2033, according to Bloomberg Intelligence."
+    publishedDateTime: 2023-08-19T15:35:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 77
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/744605/wall-street-2.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Bargain Hunting for Artificial Intelligence (AI) Stocks: Down 56%, Upstart Might Be a Buy"
+    excerpt: "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/20/2023. Discounted offers are only available to new members. Stock Advisor list price is $199 per year."
+    publishedDateTime: 2023-08-20T09:28:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/20/bargain-hunting-for-artificial-intelligence-ai-sto/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 73
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/744658/graph-businessman-considering-to-buy-or-sell-stocks.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
+    publishedDateTime: 2023-08-18T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-ai-stocks-to-hold-through-thick-and-thin-1032566550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+
+secured: "1CvtPY2HTJq3mmuAgwXENhy46FjSoDsxqeU9ob02v01dqCUR/JbQMYaknb2upnPu4weOrigr8Dfrf3C8/4Xu5dMaQn1ut1JrR65InoRAkPfzb70jf/618fPa2C0lllA1yEFF6SbIVXY4SIIaqyGlsPTTU4AjRYeUb6uZQwUfppsQg2TdGN/NK3pcVQqVHvW29/jG9OhqX/2ZFfC28rivEHxZr2ahw3gR3ktkIgizrkNXqhReatVuelbPyS1MQkfrXrLRnHjjp7SzZ5H/hKfVqmZzivNt4muqt82u8t2lzTsTEK8ZqCOUHrJn8S93rcgyNonXYQTUAGBUY9m8a57ICVm5NrRGjeHBauTgQabh53U=;FWFKp5uamBoFvIgUjzN0Qw=="
+---
+

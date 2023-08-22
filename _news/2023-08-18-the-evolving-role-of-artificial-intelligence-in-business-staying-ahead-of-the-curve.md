@@ -25,73 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Governments, including Washington State, making policy for use of generative AI"
-    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
-    publishedDateTime: 2023-08-17T21:19:00Z
-    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
-    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+  - title: "RoboBusiness: Generative AI’s impact on robotics"
+    excerpt: "The panel will include Pras Velagapudi, VP of Innovation at Agility Robotics, Jeff Linnell, CEO and Founder of Formant, Ken Goldberg, the William S. Floyd Jr. Distinguished Chair in Engineering at UC Berkeley, Amit Goel, the Director of Product Management at NVIDIA, and Ted Larson, the CEO of OLogic."
+    publishedDateTime: 2023-08-21T22:00:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-generative-ais-impact-on-robotics/"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 55
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/08/genai-keynote-featured-1.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
-    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
-    publishedDateTime: 2023-08-17T07:49:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
+  - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
+    excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
+    publishedDateTime: 2023-08-17T13:34:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/journos-vs-robots-associated-press-declares-stance-against-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
-        width: 469
-        height: 314
-        isCached: true
-  - title: "Artificial Intelligence and Copyright — AI: The Washington Report"
-    excerpt: "The Washington Report, a joint undertaking of Mintz and its government affairs affiliate, ML Strategies. The accelerating advances in artificial intel"
-    publishedDateTime: 2023-08-17T23:48:00Z
-    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-copyright-ai-washington-report"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 52
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/intellectual%20property%20IP%20copyright%20folder%20calculator%20laptop_0.jpg?itok=ooS_1YBs"
-        width: 500
-        height: 362
-        isCached: true
-  - title: "AI-Driven Investment Strategies: Unleashing the Power of Machine Learning in Financial Decision-Making"
-    excerpt: "AI’s incredible ability to analyze vast amounts of data has given rise to sophisticated tools that help investors predict market trends and optimize their portfolios."
-    publishedDateTime: 2023-08-17T16:14:00Z
-    webUrl: "https://financefeeds.com/ai-driven-investment-strategies-unleashing-the-power-of-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 20
-  - title: "States’ Increased Policing of Artificial Intelligence in the Workplace Serves as Important Reminder to Employers"
-    excerpt: "Employers’ burgeoning use and reliance upon artificial intelligence has paved the way for an increasing number of states to implement legislation governing its use in employment decisions. Illin"
-    publishedDateTime: 2023-08-17T23:38:00Z
-    webUrl: "https://www.natlawreview.com/article/states-increased-policing-artificial-intelligence-workplace-serves-important"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 16
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/46181/Artificial%20Intelligence%20Concept%20AI%20SMALL_0.jpg?itok=b6Y-U8rL"
-        width: 500
-        height: 243
-        isCached: true
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 38
 
 secured: "jkb87rsmXfT3RHals/Y2SY/Jo1sJVEY9iYLKXSF9y+tp4E3UBqRhNMGxtRoxnbiEvw2PxJQ/UneCB5gcSZdImVuTSTCrDupz3OPpr1au9ix+zIDpPkcvq/5HwToFHXqgvqautt6WlEqsAwRwSD1fYhnIHAjzdmGwjJLLC71jug2WVWri3JkWKsqO8zabbtUZEq1LhR19r56Tw0vmMPZn9I/VDpLcGAZEv9aSgpw1ryCiJzusTHDSbn4s8KtJUfaGD6f4QzDyZb5rD+KOdkGX7wwRDwnc7ex3l8cxDmJVIrZtz4z0IQLwB06+VS4jRjEAINapDSErJLzDoUe1rEdfZ3UQbhOgcZueqQnAnXcy+Zc=;m5TkVb1OM79wLGZsKhm/sQ=="
 ---

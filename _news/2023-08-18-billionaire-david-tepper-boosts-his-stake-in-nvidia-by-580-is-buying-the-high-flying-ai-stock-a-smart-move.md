@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/18/billionaire-david-tepper
 webUrl: "https://www.fool.com/investing/2023/08/18/billionaire-david-tepper-boosts-stake-in-nvidia/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,31 @@ images:
     width: 2359
     height: 1270
     isCached: true
+
+related:
+  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
+    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
+    publishedDateTime: 2023-08-21T21:39:00Z
+    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 52
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
+    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
+    publishedDateTime: 2023-08-21T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
 
 secured: "FO04yNqLFG0thFieTEt4qb0mgoSIcKTw1lICOak4kLRD7b0qZQWRBisUXKQoHiiEAEx09QrjgL4CQn34hgmM7tmq563nGTRFqOV+NG6G4KqCItJS3VDLHXhz1J9zgxvPj+lz9DxMoqbtFoVuLDfn7eYUz49B753QVn7z3ffy8RTUbuqA5HWN+tFFnOlGExVWknsNfMO8jrvXx2wK5ZHjs1qGsrHi4F8qAed1OyK/l0UugWu8dFc5gOQ5j6DnMkYL69muQhrmwKUi9ku7gQV9ZJFwm43Vh+istKf98rcX7xzrw37iEERc7H9eJvKDhpCpllgr5LwmZLJXpKmoWI4hGVKc+VAALOloFurIyk1tQjM=;/SfU+1UtoXzlAlMtGRWmiA=="
 ---

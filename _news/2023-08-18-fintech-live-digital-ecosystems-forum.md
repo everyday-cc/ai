@@ -19,9 +19,9 @@ topics:
   - AI
 
 related:
-  - title: "Canadian fintech investment plummets"
+  - title: "Canadian fintech invest plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
-    publishedDateTime: 2023-08-19T04:39:00Z
+    publishedDateTime: 2023-08-17T23:12:00Z
     webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
     type: article
     provider:
@@ -32,6 +32,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
         isCached: true
   - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
     excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
@@ -60,6 +74,20 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
         isCached: true
   - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
     excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."

@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
-    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
-    publishedDateTime: 2023-08-17T07:01:00Z
-    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Terrified Snapchat users ‘looking to delete app’ after My AI makes eerie posts and ‘ignores messages’"
     excerpt: "SNAPCHAT users have been trying to delete their accounts after the platform’s My AI feature malfunctioned. Google search data from NoDepositDaily.com recently revealed that online searches"
     publishedDateTime: 2023-08-21T16:08:00Z

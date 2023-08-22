@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11e
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
 type: article
 quality: 55
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/intellectual%20property%20IP%20copyright%20folder%20calculator%20laptop_0.jpg?itok=ooS_1YBs"
         width: 500
         height: 362
-        isCached: true
-  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
-    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
-    publishedDateTime: 2023-08-17T17:40:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 32
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "AI-Driven Investment Strategies: Unleashing the Power of Machine Learning in Financial Decision-Making"
     excerpt: "AI’s incredible ability to analyze vast amounts of data has given rise to sophisticated tools that help investors predict market trends and optimize their portfolios."

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-20-regulating-ai-in-schools-could-be-a-top-class-innovation.md",
-      "title": "Regulating AI in schools could be a top class innovation",
-      "excerpt": "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience.",
+      "path": "_news/2023-08-21-schools-face-challenges-with-ai-as-students-head-back-to-class.md",
+      "title": "Schools face challenges with AI as students head back to class",
+      "excerpt": "Within the last year, artificial Intelligence -- specifically ChatBots -- has grown in prevalence and use since it was introduced in late 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
-      "originalUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
+      "webUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
+      "originalUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class",
       "featuredContent": null,
       "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg",
-          "width": 590,
-          "height": 400,
+          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/06/932/470/chat-gpt.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,13 +128,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "publishedDateTime": "2023-08-19T15:50:00-07:00",
+      "ampWebUrl": "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp",
+      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp",
+      "publishedDateTime": "2023-08-20T21:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
+        "name": "Fox 5",
+        "domain": "fox5dc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/19/17-critical-skills-for-the-ai-techie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/18/ai-no-longer-a-techies-playground-now-everyone-needs-to-take-charge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 89,
       "tags": null,
       "images": [
         {

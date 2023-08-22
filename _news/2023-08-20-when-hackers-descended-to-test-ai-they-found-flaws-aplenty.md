@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/opinion/when-hackers-descended-to-test-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/opinion/when-hackers-descended-to-test-ai-they-found-flaws-aplenty?amp=1"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "When hackers descended to test AI, they found flaws aplenty"
-    excerpt: "The hackers tried to break through the safeguards of various AI programs in an effort to identify their vulnerabilities - to find the problems before actual criminals and misinformation peddlers did - in a practice known as red-teaming."
-    publishedDateTime: 2023-08-17T05:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/articleshow/102790956.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-230420,msid-102790995/when-hackers-descended-to-test-ai-they-found-flaws-aplenty.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "When hackers descended to test AI, they found flaws aplenty"
     excerpt: "Over three days, 2,200 people filed into an off-Strip conference room, using 156 loaner laptops to seek out the dark side of artificial intelligence."
     publishedDateTime: 2023-08-17T18:54:00Z

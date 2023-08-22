@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
+    excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
+    publishedDateTime: 2023-08-21T17:40:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/"
+    ampWebUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "YouTube and Universal Music Group join forces to explore the future of AI music"
     excerpt: "YouTube announced it is launching an artificial intelligence (AI) incubator designed to explore AI's role in music."
     publishedDateTime: 2023-08-21T21:05:00Z
@@ -92,6 +108,6 @@ related:
       domain: musically.com
     quality: 19
 
-secured: "RvEMF0uE0ANY9h5r4WA/QIhRdnCVqZg495/dDv9EP7hGK5XYM8fi8aNelNWgELAAmGK4L/PeZvtQ+LyH6mxi2T9rRM7MaoEb4UbyI5EiWMUaj7jNUykVZVNW5OReFPUp2KCfQIGo6gvhtGC0AVVjMpuUhrmwr5gjs1MpeJ0yoIU4EPDdHHnbWyOFvSQVtDVEzYFnaiyP0LDs/DDcGBdLYnotgczTcN6etG5sXwq94zdpcz6H6u1vnXSMxpl2du32R5GedaK4R9Es8/EKM+LWP1Tmai89PhgdGVDhl4j0zll35WI2NHJq64W1/kGgMXcQmnIsrqLzlMJVbN4lIKPYMUuyRG8jP5b1CkAvoA7C/Q0=;KMWY07JgviYl+NliGfMRzg=="
+secured: "ar1zYeaNnCV/Al+aCtst/SD5JO7nfVFXtUrRnK5CXntTIJkA3iONnpiubGS1qliOpHVnWdCbrJLBJI+nml+rdVmDx8ikmk9LC2dGirL3R5rQvJOWk4+Ard2poeuye2ZbirJUNP3a/4SfHaehMY61TTbIX68a9k2bDSXd6HES9DQxpYHdtkT0WPDsN/bSeatUg06Iea/dxWJoOS/kKszzI9TlSlGreG5WtoTUQ+H5Ei/MS2AukhMuY/wOB37slrKGVQ+zANKeK2jAJ484/h9yOdembmo7T1GLOwu8YgViRDl4fW6/ycp7L4RlfWNidp4Gg/1vD1tK8DVxeqlDUtxGlHDuGA/v7nL8MxNsscugkr5YRIHB+Wy0VkE9xxMqAh/+peaQCgtJib1Q40TjOGX288//vUJHUURGfTpW9rqCP3XuIirm722SVBcrLgjScLFBywIo7alOLcj218Ww6o2D8AEs6S/MqCQSfF6kVCk9rVoAugn9reCu7Sk4W8r1ORN0pNDxLjEq5N8u2nDQ+oi7pQ==;z3HMI4Ngy2PMX2z6pqDdeg=="
 ---
 

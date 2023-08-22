@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-05-australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney.md",
+      "title": "Australian AWS partners take spotlight at Cloud Innovation Awards in Sydney",
+      "excerpt": "More than 300 representatives of AWS partner organisations gathered in Sydney for the announcement of the cloud giant’s Cloud Innovation Awards. The awards dinner, held at Doltone House in Pyrmont, took place on the eve of the AWS Summit in Sydney.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney-592969",
+      "originalUrl": "https://www.crn.com.au/news/australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney-592969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/AWS_Awards_April_2023_1_thumb.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience.md",
       "title": "VPBank collaborates with Amazon Web Services to lift digital banking experience",
       "excerpt": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank) has officially signed a strategic collaboration agreement with Amazon Web Services (AWS) in enhancing digital banking experiences for its customers.",

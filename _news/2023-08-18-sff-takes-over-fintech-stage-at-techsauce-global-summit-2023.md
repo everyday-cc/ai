@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
-    excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://www.finextra.com/the-long-read/761/future-of-fintech-in-the-middle-east-2023-aiming-to-become-an-ai-hub"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/761.jpg"
-        width: 799
-        height: 449
-        isCached: true
-  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
-    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
-    publishedDateTime: 2023-08-19T01:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Canadian fintech invest plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
     publishedDateTime: 2023-08-17T23:12:00Z
@@ -69,20 +39,71 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
-    excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/canadian-fintech-investment-drops-to-pandemic-era-levels-in-the-first-half-of-the-year-806246580.html"
+  - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
+    excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
+    publishedDateTime: 2023-08-21T04:55:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-drops-to-pandemic-era-levels-in-h123/"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 16
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/2187873/KPMG_LLP_Canadian_fintech_investment_drops_to_pandemic_era_level.jpg?p=facebook"
-        width: 1200
-        height: 628
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/08/fintech-2.jpeg"
+        width: 1000
+        height: 562
         isCached: true
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
+        isCached: true
+  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
+    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
+    publishedDateTime: 2023-08-17T18:36:00Z
+    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
+    type: article
+    provider:
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 20
+    images:
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
+        width: 650
+        height: 269
+        isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "EG4VWtV1jQzhVOzalZcodjllTYKICuSni8qNXMjw7RL/q0g+S5HFAPJISoWGNYYXsjQmEWVrPiN49Eoyya6OhYhtY8UoY5LPH0lA/CtfzAzHzAMhB2U4AmEQLW917jxIMc7cXrDa6Scgqw/05WOL1t5FdHNqfNv0BbuE9UFXd0MWIZOSD+OcGQVKvQRXO0HXe+ld3xQkVP9c0Uxaok9T4yOjfZAovLziaagA7cmv9gGwDiNdXAtZQB/fbXSOq9QBFmSpf3YOkBOwuY85Arb+JoXtoDlLUApKrJEkE7lQLKev1GMOAzQCj3a1FmLuNilsxMRAvNurp27TLASlCunNFpk+AuL5LeCJIl7/Ja3+LVh0i38Aeq5Be8JvVeZEJYotEOqmFlgzQOx5NClvuKiKdxPRPVLh2l0blETql536FetGueqNnkNKhb/9CMOG0hVytN74WNbTxJUX8Fc5AlLnuoV3E/ov5mJeYYZge7yil6DYmREhHgsGeNRE91zvS1xaQyaQdeIs/iYS0PKjYSPppA==;VtieLEIAix8ZI/LOSgtONA=="
 ---

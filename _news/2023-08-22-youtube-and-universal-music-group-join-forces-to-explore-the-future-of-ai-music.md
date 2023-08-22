@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
+    excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
+    publishedDateTime: 2023-08-21T17:40:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/"
+    ampWebUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "YouTube Launches AI Music Incubator With Help From UMG Artists"
     excerpt: "A cohort that includes Juanes, Anitta, Ryan Tedder and the estate of Frank Sinatra will “explore, experiment and offer feedback on AI-related musical tools.”"
     publishedDateTime: 2023-08-21T14:58:00Z
@@ -96,6 +112,6 @@ related:
       domain: musically.com
     quality: 19
 
-secured: "pZn6+cP/vAn/pGC0mZ5Q0NdZLtVBHllMY5K9aQ/bF+76vrX0no7HI8HGttbAlxihuQlpRZFbkZ15kbdDEK6dw5wOZwP28o4O6VYWkT4p1WWPNgZCxRJguAwCpu7KImtCClBtj/VtPTYHBoy4CmbDtyN9VwOiXxw0er42ObqxdtmC0fsUiFSiYArWSa7DI0eBThhNKLs7bn0jAlSOR/QRsTkn8aY3IEixc4lURKBzysUGbUGfyg84uZQlCSygqG8t8Lk6QR8Gf1ZdNDcVlbYpqYeZgbIeYAOEKq2+BktAjOotURtDc6LG+udxsQLBFQHFw8tSLNtnGQjmRiKsnIc4MiZGJYTSN9Dmq4SKryPFZBI=;7ZVDYWUdZdBO7XAhIbWiRA=="
+secured: "56iD+qD8AEbyDkD7FiZNA26zdkGcxB9LpzccjbIBaJxYoSn11Rxkgx6xXjHQMZutbeySe4pFs2S4JxxZw+69xLZE6L4p4yJ+zr5/QJP/ayFxyFddB/LzSX5YwvFE4/yRhPJ69rE6rCdFz0fv4dalhjUyI3q2vyGtaTuVTseNwBUQizySZYZByxba0Q9Ruwob31wl8vdBqz1RLjTIWIivDmeSL53ky3yKabfDKw8JOwDxzkLJ6v1hhm0I7Zkj080LEY/DlzRDI59RdRBVG3Ferv5INXWXpzCATF5K4G9zE+khHBCmlO5i6c7X9tluAoylFvys75BJSXZQ8SdB9+oyjve0LVIU/cAFOMoFvP4cK1pfZqKGEqm2xD5nryuSnFXeYjURJZ4Lmk+k2V4ONZw1dbggnXV+nazJKziQ/W61kw6VBz6ubQ9NjtZMGft7uIuSbg09LoEXC3ULdZ0ehTo0by2mgBW+JsLaMs3cOUcxMRJPmrZxJ2YCLxX0ObDZipMk4QNLWAe4vA7mQaGi5Yjm5g==;F/G4NjLfu9HSI3DwGTFMSw=="
 ---
 

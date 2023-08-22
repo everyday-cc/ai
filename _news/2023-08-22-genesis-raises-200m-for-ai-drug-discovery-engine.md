@@ -53,6 +53,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "An­dreessen Horowitz-backed start­up lands $200M for AI-based drug dis­cov­ery"
+    excerpt: "Genesis Therapeutics, a startup using artificial intelligence to design small molecule drugs, has raised $200 million in Series B financing — one of the largest rounds for an AI-focused biotech this year."
+    publishedDateTime: 2023-08-21T12:00:00Z
+    webUrl: "https://endpts.com/genesis-therapeutics-raises-200m-for-ai-drug-discovery-based-on-stanford-research/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 13
 
 secured: "HCI3aXJdw9mK5IXuOszXg22AxOC/7LacelnDkpzCwVLlRpsP5vfmlexXsYpWRkt7x6QiCnNUO/WT3VAoztBomJQmCu9ALN/GnO9GcPOtOnwedxW4pafwGexEystXokrcH5pV61wZtl/0D9Z4zbbPuYwu2l9mnTpmIwnTgi18lWekh4MVXHAKGsRuzAhqn/FJNFIN2Z8ZS3iEjavan2amDKc8XBcFQIfCBOMU4L3Ed2HO2/D+7JbRHw7nvJo4bzorJasP5vANmUJnCazAU3bgTLZy9/lj8fO6V+abVZEkqjDVt99/TWE0NO2EIKbcteHIbuMVd+bh62y7Fc+/WLXzlMr4TvigQXF8suWP7xaMuHk=;jptI52GI9/NPG+/2uWGbPQ=="
 ---

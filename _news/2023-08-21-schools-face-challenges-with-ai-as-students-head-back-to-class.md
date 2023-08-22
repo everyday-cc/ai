@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-stude
 cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 70
+published: true
 
 provider:
   name: Fox 5

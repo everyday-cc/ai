@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia earnings will be major test for AI demand, market rally"
+    excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
+    publishedDateTime: 2023-08-21T20:40:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
     publishedDateTime: 2023-08-21T14:52:00Z
@@ -33,29 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
-    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
-    publishedDateTime: 2023-08-21T21:39:00Z
-    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 52
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
-    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
-    publishedDateTime: 2023-08-21T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
     excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
     publishedDateTime: 2023-08-21T10:16:00Z
@@ -97,6 +88,15 @@ related:
         width: 1187
         height: 667
         isCached: true
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "haumnWnkAoSkY90psMMH0A6+VHFCG1GG4wSmeI297H5l4FGgEupljT+qPHPnRPjXOlVoVrc5WKc4ucKtEZ7PXnY7g+wJZpjL2RIP1cz34LGJq8gSUOeBLV4qIEpSD/ld3kAXtZexP581MuoQcSmQ59Gg0JUDMAl8Q1GLj8Wi5LhwxQg+eSUaRP7POmrvmmEXCBlsJ7SUxV7/m55UPiZbKK5Oxj1MbRXqdt7HQUi2oAeFV53Wcu3oRvlKw9P4JUOTMR2VxIVmR4PkXdNFHta6wOPRuFkemnkzP+WrlKGFy85LH0MmFd6AJ8m8zMH+ElVIsPLKEN1WalybkDhvNj+Ij5iYgxXuqQgZpspOxSBkOqsn/Ee9nsv58IQsXVzEQtgY5349Rw3mpIQ9jxKXV/yp2pjr9KqEwpWOYiWnuq4kVCXkAiw1lLOg/AtG3cefilq0NU9ydnosBKAgTGfe+h+WJ+Dmv78fHuhwHkCxGKPt+3EOQGllsktcxnJmRXYTr7/gUBIPOj4jvrCaKPZDulfkFw==;1UXDuW5qCEsAcInBexgfSw=="
 ---

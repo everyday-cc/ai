@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
+    excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
+    publishedDateTime: 2023-08-21T17:40:00Z
+    webUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/"
+    ampWebUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "YouTube and Universal Music Group join forces to explore the future of AI music"
     excerpt: "YouTube announced it is launching an artificial intelligence (AI) incubator designed to explore AI's role in music."
     publishedDateTime: 2023-08-21T21:05:00Z

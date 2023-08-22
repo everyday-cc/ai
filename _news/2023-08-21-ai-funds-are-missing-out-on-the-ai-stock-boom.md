@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/ai-funds-are-missing-out-on-the-ai-stock
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-funds-are-missing-out-on-the-ai-stock-boom/amp-11692614080251.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
-    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
-    publishedDateTime: 2023-08-17T19:47:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 33
 
 secured: "Ki/KCpfad7aYu+Hy8JFb+Ijr8XGKFVptZ5NEtdbZ8y1pipd+hrIYX0pGYr3Rh4ALTOIFf3lg4seGMPLJNCJQMvn0wOHvg+dl4XdVBtBuHKyNH9V3yl1S/QR16eatWz0lwNYOduZAUOVtZPeSzKK3sbnBckQXEQmmmqhryKRY88p1CbMFVD7YOJB6hdgfB8lLkrvsSHImK76YEVnX/S8kKv3GISvZZ3fZTa7x95PfKabDQACHp1yXQjCgKvC6Xv8mq/zQC5+nkrcnbaq+D/QV/W2Xgx8ahL8Mry/tBWUIRXxpNuaGVqRAcMl2gWLfsqGztvvsZcoVyFkVF8Bv64NogSqDQWkKYZ7g9ohs5yOLqPk=;43Lys+mJGaIFEj0N8rSp6w=="
 ---
