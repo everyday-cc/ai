@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New £1B fintech fund aims to plug UK’s £2B funding gap"
-    excerpt: "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms."
-    publishedDateTime: 2023-08-17T14:04:00Z
-    webUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
     excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
     publishedDateTime: 2023-08-17T18:16:00Z
@@ -52,6 +38,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
     excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
@@ -67,35 +69,133 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
-    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
-    publishedDateTime: 2023-08-21T06:00:00Z
-    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
-    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
-    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
     type: article
     provider:
-      name: disrupt-africa
-      domain: disrupt-africa.com
-    quality: 34
+      name: Mint
+      domain: livemint.com
+    quality: 52
     images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
-        width: 3542
-        height: 2083
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
-    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
-    publishedDateTime: 2023-08-18T15:15:00Z
-    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
+  - title: "Fintech Forward: Bidvest Opts for AI Fraud Detecting Capabilities"
+    excerpt: "In an interview with Bidvest’s Chief Information Officer Nomonde White-Ndlovu, the bank groups initiative in driving digital transformation was explored in greater depth. Nomonde reveals Bidvest’s aim to integrate state-of-art technologies to enhance the customer experience through improving security for digital onboarding and simplify the overall banking experience."
+    publishedDateTime: 2023-08-18T13:48:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/fintech-forward-bidvest-opts-for-ai-fraud-detecting-capabilities/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 39
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Bidvest_Bank_2015.png"
+        width: 800
+        height: 530
+        isCached: true
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
+        isCached: true
+  - title: "Canadian fintech invest plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-17T23:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
     quality: 23
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
         width: 1000
-        height: 500
+        height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
+        isCached: true
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
+    images:
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "E19sOUjDm5li0dup3HDU0aeTBVXZu2seP8xn1OZS7TsdBN9ymK9aJ+2mZRbCJnjlw1nZM+nT9s3vZYQy/5zecBrWXH3WSiIiR1PoBkrjMFE1JAEZWcYGYY4hh2BjDxS/Txx0dexaK2VqzvfxuL9ugRYyibA27RuONCvF4wqTk5NyhWRWqNTgZjLjRABuzAuFbwNyMGkclWMputHVu47/mdMULgdqjHFGEswp2QDeVQKQklyd2mM5u0+4AuAxB9IqFWkOQjuoTjveBQyxVUd2owxFlIls9qWlvbdWvB9y9jSI7ewXjxqcw29n5QrSkBw5DXJS+4a4JtwofJ4Rwt/6bm06D7P0pnn6y8X0CadWjO8=;/xsVVXvPGRPTY/8PO0vpYA=="

@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T04:01:00Z
 originalUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
 webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
 type: article
-quality: 69
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
@@ -224,6 +225,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "pzS4VJtO5NSv7tVuO2UMo1tG+nwsuXbFOfzjdQ0y6/Kw9YgitQtPH2t/q8vr/3NCcdXya6kHj9v42+GaSvOZCf1XsgMlydVGLdCZzmFf04lcyPdQ++ekZMPzdJyscBZ0Kenf0PN/lhMhnMsSUWMQdsD6sFAk19gDty9K6G15GyRbDd7RtXFTUiJzmLswqO30V8uTxRoMzAzxx1UOrvBXVF8N68Zqe9EgeJwo0FE4IOId6iD1frrIim8Ce7dK4ZhlCLDW7dFFIcvRw3xU/EI5EPFK7R0zBMNOXfmKBM9hX2M1AH0SVHs12ZNt8E0OEt4o//qRNqhsxF/OKn+RzlrW7+hZyVmjUOmVuZg2WQBdgnQ=;wCn6GWybKVMk3fttrKQ7yw=="
+secured: "bHovAZdC4rSGj9narO9jWYapO6xFvkBh0CEre5UBDetHWS2m9fHzXyCzSSV9J6Kni3rBfK9EM7xkwdcACivxrfPAPNV2o1Bou/fVVh3nNWM8CI+YcXWmreD/E4YDGT0O9ViWOv9vDIFEi5xZ/1JPPOfItbxaK7kaVeRzdGQtQbMWWNgAy6JI+WErwH93OgyZ6/nb5oyn69TwaQ8TkmLf38+fd0ndf43mgDdzu1DETBI5J5D3WZgtCimnw477LmqSY6SHGt0ojyKKkSzpjBjxw3FowRa4low2nacFlhrMQIDdd/nhMjpTUfVZpCP8c0URW+f3ros+E9ozsVhzO2WJtfcd/wiBVouC0rEgfSrZse+m5kAbNJ9dEd5AewBJrQiiDjwafDoqw+oMHmbgUtxmBmwytrQ9zAhasMMaXEJnv+BJoy/EqNdnVtvZLmT6UH9gasE9cF0g5OsNvPaBQK9RUNIqZHrG2Qd/z1b8H6f+G9f79XKsllmcdRS53GicuCyf/45FojzP9ClTDkt1A2HeTA==;5TUSvI/u3LuVNCeL9Nzu3g=="
 ---
 

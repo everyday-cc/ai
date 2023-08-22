@@ -22,20 +22,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "Top 20 cloud native application protection platforms of 2023"
-    excerpt: "CNAPPs prove an effective consolidation catalyst because their unified platform meets multiple security and compliance requirements."
-    publishedDateTime: 2023-08-17T14:01:00Z
-    webUrl: "https://venturebeat.com/security/top-20-cloud-native-application-protection-platforms-of-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security-e1651084098435.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Why digital transformation raises ethical questions in healthcare"
     excerpt: "Ms. Couts said digital transformation in healthcare can sometimes raise ethical questions ... issues like telemedicine's impact on the doctor-patient relationship, the use of artificial intelligence in diagnosing and treating patients, and the potential ..."
     publishedDateTime: 2023-08-18T18:30:00Z
@@ -45,6 +31,20 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
+  - title: "IBM's New Generative AI Product To Boost Mainframe Application Modernisation"
+    excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z, that will help ena"
+    publishedDateTime: 2023-08-22T07:52:00Z
+    webUrl: "https://menafn.com/1106911129/IBMs-New-Generative-AI-Product-To-Boost-Mainframe-Application-Modernisation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/22/I_a3f11image_story.jpg"
+        width: 400
+        height: 308
+        isCached: true
 
 secured: "DF4IES8pmKNhXyXMXenZ7yXZFin7n9tydsSOmt2OkK1V1dhd5LvLO2Bc65v+DMz6vVlStG96hgq5+9hFN05S/AYWX5DbGf3sAp3VxnPVK+9/lPO0++n7uy6Z3mDuthu5OJS9WMhAIXWeWQPkS6B0QBH9kHRzOXF0uzqLd44PpBhrm3hRfnD/tXkKhSDhS7xfKZZiC3T8eu3j/HmncL3BA1T3BaY5Cjx7uZo6a2ipfhjFSZR2cxBy7JS5XkLU7boCIWQBhvBMvudx3V8sW1+iR2tzbU0XSIMTf6EVY1OW8LuBXnTAPCX2LMCRfSrwzSpa66jmGq6nxm8Btd5qfxkVkq6fzUVM0a1VM8SXeIdZjP0=;MLvE95uC38UF/JIfIdqwgQ=="
 ---

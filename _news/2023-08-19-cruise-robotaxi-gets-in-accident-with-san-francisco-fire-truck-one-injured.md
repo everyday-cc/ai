@@ -55,6 +55,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
+    excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
+    publishedDateTime: 2023-08-22T06:51:00Z
+    webUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240"
+    ampWebUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 38
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/5rvjq3fo_self-driving-car_625x300_22_August_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
     excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
     publishedDateTime: 2023-08-18T22:08:00Z

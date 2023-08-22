@@ -65,6 +65,20 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
+    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
     excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
     publishedDateTime: 2023-08-18T14:10:00Z
@@ -96,20 +110,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
-    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
     excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
@@ -221,6 +221,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "quJ0coZdSc8zfm1f8SY4Ylx3+7ITSNQ0kse+fE66ro14sQuUCpW4IP9xhpILjJMBUxEGhxMn/5pu0CiaDEQy0Smrx6iP2EHfAhgkkHGIZX4XHGe2COx1wfSOJcPvIlzdlzB+00E8C2K7Oth5lZkkkq27FqLxqJ76LSVyYR+W+FmBL634d6nTFR4sIj5a4lRfsTR2bwg8Av0Mz0CS0QC62q7e0GVe34Zi/0yWu3Rzzyl1O1qMd1oUULI39Uxz2nD3nipjW3NX/c35mwaiDz1Xk107WTl0X0s0qkFWbvJ5Iht5En4JPJE6+dHk7cLYGIHXthMhoSsDEqxnRooaC/7rmY4UsC9jRr4LHGbkKlHBrGQ=;UmSkZhWq2u6cTeK9Rm3mQA=="
+secured: "GSXGgz72zHIja2liXFJaDD+k+DJ8C5Uxz4j7dicZ0OSefeEvE06/QT/7XdbzUeX9+ELv1eZy8nfkBJ5EivqXIW7ip/CiMjfrvxcr6XMLiaaaKTYch/tvCkVOWmmFDjNOfMe+ORI/GdkVMumuu6FKhIT6BmyyTKAOFNUM7+Fg8jovxyo6mOim1Mur8PARbfzU2LGdKwTm6iE1xbhMEzWI9MIrPbpS7LJvD3kuelEF9LucnVMyLX7GZDSXW5X7MN+4pJ9qreR/VreJlOveMpOuyJy+dNFocjB+Y6HK55N2S2GLU2oPofGMnuqf6qdaHc45leV82l9zzeZkogB6JnamWpjjvX2MX0L9HAxU0kJvq4khXA1i/RtUkbfYwkCRCKHLTpBHVzzlWNej+SnGu84sv39xSNpDyms4Ut+ZvlkCWOam4dXQ91FjuW7/m9DxKxEsFU4MwRl8uW3Wg9Vbrw7Ktq1OQSisIB/A7RPoF/7ZbTGiDdFKbLkkpLOyhYqeS3xyS/aXWj1AVLjymjzaTmBmCw==;L7/jjxbCgGr4O4Iqfj8/BQ=="
 ---
 

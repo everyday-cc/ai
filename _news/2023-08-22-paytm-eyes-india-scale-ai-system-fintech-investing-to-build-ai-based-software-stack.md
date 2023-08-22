@@ -27,53 +27,177 @@ images:
     isCached: true
 
 related:
-  - title: "How India needs to prepare for the AI disruption"
-    excerpt: "We must develop a comprehensive national AI strategy that connects stakeholders to provide a roadmap for responsible AI deployment and increase funding for AI research"
-    publishedDateTime: 2023-08-21T01:44:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
+  - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
+    excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
+    publishedDateTime: 2023-08-17T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 59
     images:
-      - url: "https://images.indianexpress.com/2023/08/AI-2.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
-    excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
-    publishedDateTime: 2023-08-19T10:41:00Z
-    webUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi-11692440931885.html"
-    ampWebUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
+  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
+    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
+    publishedDateTime: 2023-08-18T16:19:00Z
+    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
-        width: 600
-        height: 338
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "India to expand digital payments with AI-powered voice transactions"
-    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
-    publishedDateTime: 2023-08-20T02:00:00Z
-    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
+  - title: "Fintech Forward: Bidvest Opts for AI Fraud Detecting Capabilities"
+    excerpt: "In an interview with Bidvest’s Chief Information Officer Nomonde White-Ndlovu, the bank groups initiative in driving digital transformation was explored in greater depth. Nomonde reveals Bidvest’s aim to integrate state-of-art technologies to enhance the customer experience through improving security for digital onboarding and simplify the overall banking experience."
+    publishedDateTime: 2023-08-18T13:48:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/fintech-forward-bidvest-opts-for-ai-fraud-detecting-capabilities/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: IT News Africa
+      domain: itnewsafrica.com
     quality: 39
     images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Bidvest_Bank_2015.png"
+        width: 800
+        height: 530
+        isCached: true
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
+        isCached: true
+  - title: "Canadian fintech invest plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-17T23:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
+    publishedDateTime: 2023-08-18T08:48:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-investment-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
+        isCached: true
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
+    images:
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "g6odXzSQAFUnt0IopJdnWLfFAN8PSeYnY822pFNj94e2FTuxH1+6kDunoC3V0RoaEVkzR5PDM0JX7+LlYGHFNWHy1vJEM7PCX09HTFEOSIQwmLs/vWwLMTGVFJb4K6rdn0jSVDbGc5E8B77Acrb70bWUXNzS6pEUaGs5HMVnxj8TtBMkkF/RCen8dg+tJ9nHT4XkXYKFSyL0eHyO3m+ZjcT4WJlrSERCD0AKa2oJ+wHp+ToY2ydtFC4i0f/y/hVlvOnNgehfbGIRQebZK2oHSq1yZdScsM2PU/6A9QT9WB3GiOdUBEmm8avJYkPxsTwsc8cEhvWep2RUrSWhrSHzrk6HDNIJllXEVbtNf33Nb1k=;MtEe4EZm9Q6n9d80kwad0g=="
+secured: "YPZ9c29V8gRjhP1pcUJVyGw6s/L9dx2wDFoChPrrU8McMQOutyCxhlHtK2Sjyt7Xo9mUmGseBKu0DqZZh4DRVrTkKnq5DfSIxZ7b/UhyYa+etZqm13T/JpbjxIVT23KpKrS0bXDZAxlljq6zxE0MsrFpJyU/4PZGHxuW1+hASh5YO1NS4RiStUm8yt6KDbjlBolN/orPn2Ch/+wYGS5JhgAYt9WCMQBy/UwEzu96PPn0cupIORLo6v98msV84IibN4HWdJ2SvpqerJLgUIMm33vF2wPShdd8C4A4/X+BKJwXiUPjQbA4vQ3dDHfJ4m7QBkl1kAzPnfJMXoA3ofN3z6AQ4qwIoYbypOkvTdcKEI3NjG7X6Xw5+k3DcnBpWSiwjxuyj08V86f2gY+vUOnUvSOPN1uN4dj9sF73xjiawERbR0e3KkY7EknWWpRwkap7eO+mWcv+nFzrLeaa0nYBjD0H9AuT85/WLlVlYDF5AVbed96+wzq5Wa8ds+t3YWsXFg+QJHphfHGShwcJPfprzg==;nNvBmFVbH6stF/8xj2IqXQ=="
 ---
 

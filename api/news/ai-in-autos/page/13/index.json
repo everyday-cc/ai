@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-01-can-self-driving-ships-revolutionize-water-travel-and-fix-supply-chains.md",
+      "title": "Can Self-Driving Ships Revolutionize Water Travel And Fix Supply Chains?",
+      "excerpt": "Current autonomous systems aren’t necessarily whizzes at perceiving obstacles or overcoming navigation challenges — Tesla’s Full Self-Driving feature, which despite the name requires some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "originalUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2023/5/1/ab512dfb-acb4-4004-b5f2-79289fedab47-c26b7f51-d378-4944-8bc0-f7216d76cb2e-thecusp_autonomoustravel_header.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-new-artificial-intelligence-tool-can-accurately-identify-cancer.md",
       "title": "New artificial intelligence tool can accurately identify cancer",
       "excerpt": "Exclusive: Algorithm performs more efficiently and effectively than current methods, according to a study",
@@ -1275,58 +1318,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-a-reporters-trip-in-a-driverless-car-named-peaches-was-a-delight-until-it-got-confused-and-stopped-in-the-middle-of-the-street.md",
-      "title": "A reporter’s trip in a driverless car named Peaches was a delight until it got confused and stopped in the middle of the street",
-      "excerpt": "The theory fueling the ambition is that driverless cars will be safer than vehicles ... And the technology to pull it off is advancing steadily, just like other artificial intelligence applications such as chatbots that can write college-level essays ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/",
-      "originalUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/04/AP23115659251209.jpg?w=840",
-          "width": 840,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/amp/",
-      "publishedDateTime": "2023-04-26T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

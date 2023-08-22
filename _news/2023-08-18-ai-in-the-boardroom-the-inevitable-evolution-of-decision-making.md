@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/08/17/ai-in-the-boardro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/08/17/ai-in-the-boardroom-the-inevitable-evolution-of-decision-making/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The Role of Artificial Intelligence in Fintech: Revolutionizing Financial Decision-Making"
-    excerpt: "Prepare to witness the dawn of a new financial era! A groundbreaking revolution is underway, reshaping how we approach financial decisions, all thanks to Artificial Intelligence (AI). Within the realm of Fintech,"
-    publishedDateTime: 2023-08-17T13:43:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-fintech-revolutionizing-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "pqOCNM9Q78QweyBc7QTm+J8s95Zia25a9i75ac7Z1JM0zgP7VaJcIgWbwpWl3/lUDi/7KzEIu6tm4Jmy5TvpS64f+1VcRt0L0rh3VmzCN4O5Aulv4KmHv5wXAC+O23gVENJoDPC+ZWhzTaEFVuX9hlbzT+CFxRoXdARqKF91mpUD62YPuFA0DwkroJZoluZY3zezp9SFsY2OBX2cuoFmhl/YXIc7sMhuGdraEyKZxQxDwJhRfHPZu8W1y6IF1VhV8WXgV7ja89L334BzvQtH4aO1ofRG5zhPboNFb3zKG9FpbWlLSVcjSFMd3+fhg4xjTj0fcJAytm/Vsyvo6+c5hDV+R0kjTiw7hxQ3VGhENtHxOIr/tGfaTX4k/bgDCEUl+6cvVZ07DCw+2oq22W/XkYB+1OXzfrYLIH6BZq4zzFU0rdmOoo05VK3oCuL2HK1M+AbdhkY5c7KdGBIKjffK7xa3BJlpdMnt68SpnZO+KWpaJUXwpMo54ZP2Qq/ozPvESJOGRsJWOTuG+QQd4EqExg==;lBwU56aXtzRI5nUoBeztvA=="
 ---

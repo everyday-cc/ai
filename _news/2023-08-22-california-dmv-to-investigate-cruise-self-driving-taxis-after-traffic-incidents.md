@@ -57,6 +57,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
+    excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
+    publishedDateTime: 2023-08-22T06:51:00Z
+    webUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240"
+    ampWebUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 38
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/5rvjq3fo_self-driving-car_625x300_22_August_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Cruise robotaxi gets in accident with San Francisco fire truck, one injured"
     excerpt: "The incident comes a week after California approved fare collection for driverless vehicles within San Francisco, after months of testing by Cruise and other self-driving car companies."
     publishedDateTime: 2023-08-19T03:30:00Z
@@ -120,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vjuAX/RMiV55gG3rvvIS+JYPMqTk4ndnsyOTAwHP4COzUl/PFfAOkfPKp5/uNUBPjUDkLzaPvZ3bcezYuIHjHQJ/MbLiUYsAEdFmUwPQz8mlpZy390B5FjR3gMHy7r0XNJgZkyxVioJcFDfmj9+E449JxbPxhz+1Jr4rE0Mnn5DJqHAXVawgxExgL5qRki/pD64DQMAj3sNW3nJOAweDF7bFsIYbpIN3nxuJKH/OlClNwLM4yknPcViizNIQN4KYRIdnEw6gOoQF5IZJ1XfqhPGXoA/ayJJNjGg4VJUUn7GdRDQC96lqfQnl87bWHPAc0KHlahRndf7jZxZGQRlPTtwUQdJtZIQ/lRolE+ivluA=;KdF42EEZD6Mz6eDNGdp7EQ=="
+secured: "Z+7p7jXgDyjU+XseGozT/CRSHrh0+acIptUdvp+PBLj4pJgUOUqDBX4dMk4NiVBPTK/jYoNxwC8DKLD0AIkT6IqhZd3fFvJIm7lAT+xpjb4MZDumxjxRr6cHrtEdoPAsOXn5/q0meKrunSLzUgPsMoZJ8W/Cx0dXe7AjGsOYMNoBIdYD+ioYSYR5Mcw/H0lDbPEHYMyu52/5fpdmfssWszSXAglDH777jjMrudDPlyFgP6HNZQb3OknHGS1kHlkyGUqVxXsZ4JbfDcilmS0rnlSUVXu86QG+MojEgbAq25JgjLO24Vl29aNU1RmgFpuAKyk/LWw0EqjJJVL+gEqWD4GfyYAMJ0jiXvc6XW5n+MmldPCMLqEoelgHHm6bDXiIEOofcvfU4/STBq/kGw0XqTeDmKClpWXmCV5oO8y/+zaLP1rqim62Dr1XMieDJFhYvhEh/CyGneIsPtYnKouta0tuPFZ5EttxyY25UGcjoU591vbiISUISGem96/qwgCvpvZ+Us2JEeswx0g+pnYAzg==;eLCcTBzH17UJLro2RHf2Aw=="
 ---
 

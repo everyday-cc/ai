@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-int
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,45 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai partners with Slack to share meeting insights with your team"
-    excerpt: "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack."
-    publishedDateTime: 2023-08-17T14:01:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
+  - title: "Schools face challenges with AI as students head back to class"
+    excerpt: "Within the last year, artificial Intelligence -- specifically ChatBots -- has grown in prevalence and use since it was introduced in late 2022."
+    publishedDateTime: 2023-08-21T04:22:00Z
+    webUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class"
+    ampWebUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
+    cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4faaca476d2cf8f3509e323102536f94cc64325e/2023/08/16/5a05f392-31e4-4ae6-8b63-b380b2b6f198/align.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/06/932/470/chat-gpt.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
+    excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
+    publishedDateTime: 2023-08-18T08:12:00Z
+    webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/hAdhlAyeUOEsIhT8p_zmKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ebe2dc002aa9e7327d4343330a92e8fc"
         width: 1200
         height: 675
         isCached: true
+  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
+    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
+    publishedDateTime: 2023-08-18T18:12:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 19
 
 secured: "bC1nvFZIRHPxz1I6/s4GYiS5hGpjGXWSl50C2lGd8I+qnmGA3GFmEDcqbP+YZkn+L2w0u0cFLzA9eQ8N7FL/FzoeWos/JRO8TnPPiQbOGRkNniF1eIW1bEQ6Pmjo4XdqojQKUtYLFxF+lBN61OD+19q1BU4uv6hwKDAg1krnaWmKWkOxHRgfwMYinPAy0D3KBq+9eTSRhZ5ZbsclwM+3Qm2RI0WGDfD/Xqyh1gY2J7Z8N0mQqopJKkELDVA3oH9pTZ8gxg3FOfylu9cf0MR0XghReFGCNiSQEL0Kbc9uVFhLRj0c72+hCVZqol/mjNF3aEj8H8Ah1GL+Dgn6LMABkorJTZDCUwqjEQgwzGFh87E=;kDV1DdyBC5EsG3WAPXcqiQ=="
 ---

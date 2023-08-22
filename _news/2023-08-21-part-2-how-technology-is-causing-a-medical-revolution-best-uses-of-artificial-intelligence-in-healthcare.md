@@ -108,15 +108,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
-  - title: "Navigating Change Management In The Era Of Generative AI"
-    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
-    publishedDateTime: 2023-08-17T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
     excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
     publishedDateTime: 2023-08-18T13:00:00Z

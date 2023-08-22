@@ -65,6 +65,20 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
+    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
     excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
     publishedDateTime: 2023-08-18T14:10:00Z
@@ -110,20 +124,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
         width: 600
         height: 450
-        isCached: true
-  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
-    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
     excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
@@ -221,6 +221,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "ha6cQswbRRsHTHwnmGJ4GIF006eDT/L4OMBfJt2o7w3A6uG28ShZDwi7l2jWHxy8HY+G3hneE3mU69h0kcj62DqcXZYE7bt4Z8ePMfzClwcjtVgx8Q6OKD/5DK46pgSXLRd4maOsZTeKcS34fgbSk0U6B5Qv+0ekLbcgRThUojefLArBsjgnlU10IBUKd4mlXvzS6oBZpnBHqlKWV30ef+7zWFZF2FXl4XxbDw58nBjM17zY0pZFYMi5dbEVt32cwn2GXpi/qV1ZSeSRajk4KdCtIi+c3ilxwe6CKBzgEBv62aX4rz1zO/2doTGS3RjSLyOEADVij8e1F/sINTFkWzuV4JAT/oEQwoM/zcOqke4=;Z+zReM4g1QCitJ6hFe3j1w=="
+secured: "t7jBXcAAz1XXTjdXxgSTIYmdsAro6p0TFejOotNDJA6rFD6a8cbQAS9cunctF+fxR0zeWAXNbnLyqE6FHCXpHitRAytYd9EWqNvsqV9ycgd325kpW92qXvpwujl6g5IXepq6u/4loxmoiyDCcG6MRqnAja6C7C0g0YXokFsnZnzJMIjCHXQqzyn213ekhYzEQ8jC4+HeCKscHIVz0WRsDl4+ZgwnFMSWCdS37iGeQTJquOMm3CvtchsN47n/hB7Fjlk2SY3wvLBqGq8A3wIjT3fkIbuBWWe41ESJQsf2d7ORzkIyWSGZ24aHJOp5xsNVn+OEVUGxJY8kbNVKtpBgqqXN1LCKmtRgQFkB6F50B+6SEMY4pk0NVPAbYzr0d5HewV0ZUYU03mniI/O3slmdoAEyMr45WvlMUSaWPCXPtvD77ztBADQbgx93A0y7ck9nMtdSyx0fud4hCiNhLwxQ7BHI6PBEOei2E0Nc1+FxX/AxA9NQXC92kjy4KqA2l8IPPmC6yqQ4Bj0qOun0fKcwjw==;E+1E+G9lcJqZ0wBxiwudew=="
 ---
 

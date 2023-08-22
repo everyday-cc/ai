@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/robobusiness-generative-ais-impact-
 webUrl: "https://www.therobotreport.com/robobusiness-generative-ais-impact-on-robotics/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
-    excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
-    publishedDateTime: 2023-08-17T13:34:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/journos-vs-robots-associated-press-declares-stance-against-ai/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 38
   - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
     excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
     publishedDateTime: 2023-08-17T17:40:00Z

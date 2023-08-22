@@ -19,47 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
-    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
-    publishedDateTime: 2023-08-18T09:30:00Z
-    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 24
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
-        width: 659
-        height: 1024
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
         isCached: true
-  - title: "10 Maps Showcasing Asia’s Fintech Startups Landscape"
-    excerpt: "To get to sense of Asia’s fintech ecosystem, we’ve selected some of the most comprehensive maps covering key markets including Singapore, Hong Kong, Indonesia and the Philippines. These maps provide an overview of each of these markets’ fintech landscape,"
-    publishedDateTime: 2023-08-22T05:39:00Z
-    webUrl: "https://fintechnews.sg/75467/fintech/10-maps-showcasing-asias-fintech-startups-landscape/"
+  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
+    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
+    publishedDateTime: 2023-08-18T15:15:00Z
+    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/10-Maps-Showcasing-Asias-Fintech-Startups-Landscape.png?x34447"
-        width: 1024
-        height: 567
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
-    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
-    publishedDateTime: 2023-08-17T20:49:00Z
-    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
+    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
+    publishedDateTime: 2023-08-17T18:36:00Z
+    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 22
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 20
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
-        width: 1050
-        height: 735
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
+        width: 650
+        height: 269
         isCached: true
 
 secured: "Qem0uZUAUn/A4p59jJSxHf+DVjNCG9OT+hVAqiUjnqpXdcpuU9JLcP0KukcdT51L2e6KoBf8MYNmsamTh1uQ0qaPwf3t9168rACBvEwPAWgAOdtgx5PGkSDEfvOkD0HdoM4hiAsqU8HM56pNaYfQejXKIo5VDgvOCAC/aeMHRn8Y7PFCOckp4TdBCYlIcVqIJmKsM7dT1eMAXPQhfc5sTWj6vQRIraAOnzqKljEMmeSVe3qdnR010eFoMA9uMruw5k1zV9BqB6kTmOPr1gkXt9tfYKzZbMaQhPBrzYjAd0YmjQK6oAjGqp8L7Ua6LdWhY+vgxF6+fCn7q4ayeU52P1qEBnunHDPmbvcLucnYskfhX5Xh1MyK/nAumWYlNdqRx/Bs38zX+ODPg/fKvbVJkOOIGkiMtzmr//0C8XfxsgMSaeDzh4FhGTAkcVqcryClXUjQHUZpFO+HZrWQwPf2I6sngqotQJUqMBMJ8BxyGxkz/Lm0a6c8uI5faTP5dwRSAJLBCAMKBaXvv8xMimCYrg==;ehtx9+sSccMjGV+YhRVfqw=="

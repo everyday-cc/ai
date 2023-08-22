@@ -43,20 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Paytm Scales Investment In AI To Build Artificial General Intelligence Stack"
-    excerpt: "Paytm CEO Vijay Shekhar Sharma said the fintech major is looking to build a full-fledged artificial general intelligence (AGI) stack."
-    publishedDateTime: 2023-08-21T15:12:00Z
-    webUrl: "https://inc42.com/buzz/paytm-scales-investment-in-ai-to-build-artificial-general-intelligence-stack/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 36
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/paytm-AI-social-.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "X2vOVvts5fEazQtQD6qEzWzgv6I4u4CceNRUU6NrhyRqjvvCV3E/R49g8PttU+5eES0WC5x2IsQPdyqdZAJIXCG0vwfSkYWy84r/OzdFa6mhmHDUOMe7rrMQgxvjBPplr377ai5lRBTYH3Mro11k30imM4ffKvqHWQDEI6/vlaUMbvcLY8Yn93L0t8QPc5RHHWX5VONJgMCGK5WCRXJrilygYRPptZvlGoC8KQ5KOUjEQESND7ta2lQKWNSxFU1gY1LY3PHTw0b9Z4f8zfYXn6A7cChdrSKySCCuAisUc84f17Q/0XqtbnMassBi7fITeOAZZ/eXyjvQG9oSdxP96TkGTbBtI7yqiqddTMoriHw=;IE2wEyxSSrHBzd/hrFr2nA=="
 ---

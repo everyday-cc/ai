@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doct
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 1799
     isCached: true
-
-related:
-  - title: "Most Patients Surveyed Trust an AI Diagnosis Over a Doctor’s Diagnosis"
-    excerpt: "In a survey of more than 1000 people, 64% said they would trust a diagnosis made by AI over a diagnosis made by a doctor."
-    publishedDateTime: 2023-08-17T14:15:00Z
-    webUrl: "https://www.cancertherapyadvisor.com/home/general-medicine/most-patients-surveyed-trust-an-ai-diagnosis-over-a-doctors-diagnosis/"
-    type: article
-    provider:
-      name: Cancer Therapy Advisor
-      domain: cancertherapyadvisor.com
-    quality: 19
 
 secured: "J7WJELFvupjBTGTbvxTHvfjJhxMEX920M76mFqTtZFlf065YazY+PolQiytKWhksK6PEOCKEmaAwlSZhoINOZ28H1qxqZbNZ5ORCGkfHlLMf4hiin1YPlkfPpOvNu9df1YrdFGIHVV5L/YZR1qLOPcYS+2r6oEHRkFyj3gUIxQTeDND+7VXlF9wXG8v/zXuuymjhKgxqEv6OiiYJaUaOo6b2gWOnAvd0EOYCmWeKuA1AYi2sq28uT5K+ktn1L/O2SW9KixDG5e5ifMhUHeDQ6nYwXm7ZHpUIenJozuEwTxXGDBVDp7RrVKzMwgUoxHT8w24EDGtoYUmMSfH/z6Pe9sDiPTTTA/JNtMfssPSmQNmZWfU+6pCBDI+UJK/rmUjn8ZvVDs4DZzDG2zAx522cQPfDE9kUp2/kNpVBkLztzifLQI/viqf6PDbs3QFxOTj0TTF8w8PSvfSWqDOai+tf7BUh8mekl4bC5p/pMyBOaSVWFQa4wOz37sVWH/hweHpEeRW3d0wJzDrfHhcdNSP0+w==;vLx8SflTQkLmcDzq0r/AEQ=="
 ---

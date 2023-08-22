@@ -29,19 +29,19 @@ related:
       name: IBM
       domain: ibm.com
     quality: 66
-  - title: "Top 20 cloud native application protection platforms of 2023"
-    excerpt: "CNAPPs prove an effective consolidation catalyst because their unified platform meets multiple security and compliance requirements."
-    publishedDateTime: 2023-08-17T14:01:00Z
-    webUrl: "https://venturebeat.com/security/top-20-cloud-native-application-protection-platforms-of-2023/"
+  - title: "IBM's New Generative AI Product To Boost Mainframe Application Modernisation"
+    excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z, that will help ena"
+    publishedDateTime: 2023-08-22T07:52:00Z
+    webUrl: "https://menafn.com/1106911129/IBMs-New-Generative-AI-Product-To-Boost-Mainframe-Application-Modernisation"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security-e1651084098435.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 422
+      - url: "https://menafn.com/updates/pr/2023-08/22/I_a3f11image_story.jpg"
+        width: 400
+        height: 308
         isCached: true
 
 secured: "63ntCj9/EqK9acwdvKIGrtxMMUt2D6Mbrcamx2AzaI5neE0+z5+zB5gWRKD3mOIjL+JxFxcHdLPXWpooXFuDdrkduAppDkwfjMpL0+x5Au3tNGAdhJaRJdRTwJi2UBNKtXvKKU1YtVAVCx6dumGTtEmwnmXFtagzOfPgd4svYYsnQuU/C0RYDIBAOoYLe+iDgTKZ8QkqILubUDEnlq0hfMG7jMlNXoly4ugaLKaH2rJxhJaVES2KoNetbiQS8zeIFLFgUC4w6l+UxMPQWf05UB3MIHGJEqB0yrMVOAfyl4ZFqWgeowa6qktRHLNN5HZB6DMTzn3xiC4lQH/Ox0vXEcBKqU/44P91YghmzBFuqLw=;ngAJieD0zzwikwzl5Ss69Q=="

@@ -25,19 +25,177 @@ images:
     isCached: true
 
 related:
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+  - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
+    excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
+    publishedDateTime: 2023-08-17T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
         width: 1200
-        height: 711
+        height: 675
+        isCached: true
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
+    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
+    publishedDateTime: 2023-08-18T16:19:00Z
+    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Fintech Forward: Bidvest Opts for AI Fraud Detecting Capabilities"
+    excerpt: "In an interview with Bidvest’s Chief Information Officer Nomonde White-Ndlovu, the bank groups initiative in driving digital transformation was explored in greater depth. Nomonde reveals Bidvest’s aim to integrate state-of-art technologies to enhance the customer experience through improving security for digital onboarding and simplify the overall banking experience."
+    publishedDateTime: 2023-08-18T13:48:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/fintech-forward-bidvest-opts-for-ai-fraud-detecting-capabilities/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 39
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Bidvest_Bank_2015.png"
+        width: 800
+        height: 530
+        isCached: true
+  - title: "Canadian fintech invest plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-17T23:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
+    publishedDateTime: 2023-08-18T08:48:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-investment-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
+        isCached: true
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
+    images:
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cztN95TudKO/O7sqESxfBG81QnULEB8ZnxaZKd6m2ZB3JJ8lSnSj4yDmESzEEPcDrwgRDLVA3nyoVFwjEvJusiYRCqbhWNjpJ6rC1RAA+iNGGOUG08HtrwOexH6wLECLqCQhvws6x4VGJGSRsI9v5KT5t6cwOBfZjManJOM8J5+R/GNa4FWYqiepENha8A48fEGg/5bEpoPV7b2mfvzSTsxQfQA24IypSzJv1f6VTXg2b4FPZKV3+fih+MRCJqld0HCySBwXE+63dmRqszOEwpqPOwYmYkFoDX1+mTJ3n5+/TNN20aJj693Fd4T69K0kQQg3N0OYkO4X+w+ld33faTdtzdYiRhRtecpi+tgHDIH7jp8XHDK54Oithd3bpf9Vhjm1T4gFxaW9Kj0U37Fxn9BOiPfzbhp/v7FJD9pCdBdHnijyTwj5AqMvQQKcBnyvWZOnNCpo5PBSlEp1hc1ZIHojID+j7iU8/igvpwj/kB4gHqN2esVGphxjqcXKrDrRqmzRURnXpSPsm48qbei23A==;tbGKYVPkdt7xqv9lIB6PUg=="

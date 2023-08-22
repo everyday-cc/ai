@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-stude
 cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox 5
@@ -27,15 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "With AI exploding, local private and independent schools look at potential dangers and benefits for students"
-    excerpt: "Some local schools are including new language in their student handbooks about the use of artificial intelligence, some are incorporating it into the curriculum, while others are taking a wait and see approach."
-    publishedDateTime: 2023-08-18T18:23:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2023/08/18/independent-schools-artificial-intelligence-policy.html"
+  - title: "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team"
+    excerpt: "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases."
+    publishedDateTime: 2023-08-18T11:44:00Z
+    webUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team"
+    ampWebUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1200/675/AP21301594731187.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
+    excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
+    publishedDateTime: 2023-08-18T08:12:00Z
+    webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/hAdhlAyeUOEsIhT8p_zmKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ebe2dc002aa9e7327d4343330a92e8fc"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
+    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
+    publishedDateTime: 2023-08-18T18:12:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 19
 
 secured: "MqVZsYOPzf6LjfNSQ6SzB+tLcrCVrxO07SsGxBLLx0YQ4kiPiL0wMQECkgwJXxX02niVZCbd7aXBiNzhBbsE50rzetHS1QWsXVvyrqMCqQKV902AQotaKsqpCebi4byziNYVElbOhtQSSgn8brlFSvDbFYyJKc4cGFR67rWDomgperPiuD9MEXFRGVPLsa6GXdcYYHTwQjkkzrkVLpE2fMfW94+X2uG3Hqt9A9CDAprTg6R5YHwNgt6sZW567TXxglGfrYm8kg+sfy+MdS94/hEejNFLS5xShz7uKRQRPQerbi/PWDed9V4feTi4IhGe60S5+uNUf3AYnR5DUzJjhzuAxxQMGLJyYyPbEtHNdP/V63Ey5KsWGVAWw0XJCr0I3Mq0uP6ptmpRmUJcUrr7bRpVw66x+iVRuEwoc5yv/p/YGOQ+cEvmC5YAC1JrcQkXs5kw4wXbFV+tzgs0pvI5dyOu1UDL/xmPe2duc8T16K+SNW3KAGizrICnhnvfnXVsS1ZTRpOy5j13i12r3zRe4A==;+2pp3pvspneoT60WjWtOCg=="
 ---

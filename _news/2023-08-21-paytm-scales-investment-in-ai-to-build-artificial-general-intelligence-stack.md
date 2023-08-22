@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Paytm investing in AI to build Artificial General Intelligence software stack: CEO"
-    excerpt: "CEO Vijay Shekar Sharma said Paytms next contribution will be small mobile credit with high credit quality and fully compliant with the regulators guidelines"
-    publishedDateTime: 2023-08-21T14:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms"
-    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
+  - title: "Paytm shares rise 3% as firm eyes AI-powered financial risk management system"
+    excerpt: "Paytm chief Vijay Shekhar Sharma said that the fintech firm is building India scale AI system to help financial institutes capture risks and frauds. This development is not intended solely for the Indian market but can also be leveraged outside India."
+    publishedDateTime: 2023-08-22T06:57:00Z
+    webUrl: "https://www.cnbctv18.com/market/paytm-share-price-rises-as-company-eyes-ai-powered-financial-risk-management-system-17596341.htm"
+    ampWebUrl: "https://www.cnbctv18.com/market/paytm-share-price-rises-as-company-eyes-ai-powered-financial-risk-management-system-17596341.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/market/paytm-share-price-rises-as-company-eyes-ai-powered-financial-risk-management-system-17596341.htm/amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 56
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35592,msid-102914945/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Paytm Investing In AI To Build Artificial General Intelligence Software Stack, Says CEO Vijay Shekhar Sharma"
-    excerpt: "All North East Delhi riots victims have petitioned the Delhi High Court for enhanced compensation. But after three and half years, their faith in the legal system and the bureaucracy is declining."
-    publishedDateTime: 2023-08-22T05:40:00Z
-    webUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556"
-    ampWebUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 40
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2021/3/9/PAYTM_570_850_(1).jpg"
-        width: 850
-        height: 567
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/paytm.jpg"
+        width: 650
+        height: 407
         isCached: true
 
 secured: "zPYOKb+3T5iOd9SUJjPsfZiiD7sQj8+CSYseJPGksmUG76K3YFF/3F+hAXgSQFvcIY3hfWjPOuvRIBXQH+EsCxY7foquA0lcHpXIk31eRmbIjICZBVRwV35IJMQHdUupnpkQ/QErsvvKsEmiZCJ7aMccvWVT0dnwy6LILUttLFUFPKw4bTgYdjY4VUgQqcWLdn4aFWHyFQXoaBXcmjn6g+viu9HfsTys+Q41YkMeCnBI97zQcWw5Lxra8EoSMNQWtyJWP2+GSHWYZzfgq1c2z14P3pK6nzPru1x2oZ8l69YCrrFeVMz2rOBWowOEUd37pIjpfubPXHXcPLCj4biMbEp5ryp7n4YZ8otqod/r94c0WnFoUa0mWyXmOkAIY9/wQvibCmP30QgtxH826HFmoTxEpOLBbULgRwwhsYa2s6H6AyA7o9Lh+ETLboZ4Kwp9/27KZBTHWKjKzNNLLvbzhKJ8WdPb5CBgTDSfpOpy9s/rBrodaQ7jdWtixdUkQufpDYKBP8n4d4zvPJZeO3MsDg==;bOeq8AEV1FSpQ725hMEbjQ=="

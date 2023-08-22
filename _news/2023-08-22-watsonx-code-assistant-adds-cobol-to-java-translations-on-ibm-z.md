@@ -68,6 +68,20 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
+    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
     excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
     publishedDateTime: 2023-08-18T14:10:00Z
@@ -113,20 +127,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
         width: 600
         height: 450
-        isCached: true
-  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
-    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
     excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
@@ -224,6 +224,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "zCavjepkmxMoCjqSPdg7G3akNvHwguVskqAVhI5DDFCWdrNhJUN9+9FAOoCEJGvnPT4MaoQrqID0+tpi77DcvJWRm40yLWGk+V2Ugk9WO8c391rJ2UJdijlNN/pWbphIiqa2XruI/Ix7ONIVmzhEk92YjsOqE7tGDQPTlemDnK91dhlOkYVi2WK4AkR+/e/sLZuOk4O6QHhoAAtDffzWaCkbSfQGwNrdZsme6n1sNm5VYidzYpuayk61XiVgDF6VnJLHuXo8an4SKNd15YznxHQ2GIaDe3GGiSGvS6X2t2kM2xXwHFlOghRjpUVUNRxNAOo2ySFOtUCqIcVrjiyGHBcuOnlilTq2oxcI1kgsIkU=;w/dvvCRT50Ywk30MnJDLpg=="
+secured: "2ebVr+9CC711XHkya8I8rjknBzENgBU9cEb28pbdSAXSjwfmGsuRYrZFhI8OcFEmCgrbCDIC99rK2NBtSbeGxKYA9G2Z+RArn6aaGcH/kuMJC9bRYuXfd3VcmIZFQ+SOqgPZVq5u+jIGW3xXU5rz3hValtEImplYh6Z6dqm03MGbvsMrWqdz0jm7in6FQA5VvVlbp/HfDXyq4/waQ7ROEGHxE+G39AYKZnb9ybpnHjVYzv6jN3/i31f3Kq2KRx3yoW/O943IE5tXhDu3LC9/bFsp/zFZCskoR1H5kXgcHCw/POEYNwxZ/5uQimUZZWCXHSMa/7Q0ZYcIxfRi/Y1WoHL8tE96I32hgG469vG/YnJZ8pQr+g/9M6XeUF1B7Pol09N8Zw0qOIjPm5hgGpsb6OiOPAyj4E2Qqpe9xQfxunsOfT6slCfPzYUuVwf3EYihn5i9TPzmSjqoWngAznEk9pkWcn75wOVLwztdbY3BKKrowc3734w3EM/bOLHvJYH0oMz08SxdTsXf+m/9p+TVQw==;nVUgte4QeBTnL1UizzHsHQ=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
-    publishedDateTime: 2023-08-17T14:30:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing?ab=HP-topics-sponsored-text-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 34
-
 secured: "Smi0oTgvipLaUI2zKt2wf2UgtZg+66Ksy6EowG0CDXKfAq/UQewQudBFRL4BaAU92IoD2b14MkCquOmeOSfiDkQksd0mDu3R2ou0lphFRAm1Q57f04C52in+ZarGi5BDiXXuswt+13HhunUSHRWKo48C/7PVLDFrXtut4t5JbX/2jFIJlWjiBMPHwaMnj0HkHCo/3ijvrTB/UpAyK7B4CU1Yp6/1J1op5r02DZuzKzzeU2cK5p2iVIYlkwq9YI4fG1c2aYjjvCnhXFjihnHyicWP3mwS5bBqS4z13O5nSo/Wq9Ret42zB9O9kzrhrF7XKjMCeDmIf8KxV9y8k5VqvLNRY6WZ1y/ZlTfY3fHJSyE=;ioQjyOHnnISNN6OjatzrEA=="
 ---
 

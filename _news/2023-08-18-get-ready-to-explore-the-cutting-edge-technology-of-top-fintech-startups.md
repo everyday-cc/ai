@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New £1B fintech fund aims to plug UK’s £2B funding gap"
-    excerpt: "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms."
-    publishedDateTime: 2023-08-17T14:04:00Z
-    webUrl: "https://thenextweb.com/news/fintech-growth-fund-funding-gap"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
-    excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
-    publishedDateTime: 2023-08-17T18:16:00Z
-    webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
-    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
-    publishedDateTime: 2023-08-18T16:19:00Z
-    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
     excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
     publishedDateTime: 2023-08-21T06:00:00Z
@@ -83,20 +41,29 @@ related:
         width: 3542
         height: 2083
         isCached: true
-  - title: "Canadian fintech investment plummets"
-    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
-    publishedDateTime: 2023-08-18T08:48:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-investment-plummets"
+  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
+    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
+    publishedDateTime: 2023-08-17T18:36:00Z
+    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 20
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
+        width: 650
+        height: 269
         isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "QQ9AcPQoXHx0JLlW7L2Uoop61TG1HofES8HFT2MxzSiXapqFvX7EseU6qMnNnZBMEwUW5pmtM+GazKL9HAXLC/rHPHsYjGyXNHg5XPkPNRnfJikkXqahOz63Fb89EQQsBc8sMD8+/ElKnSBVg+ThCzsZO8kvIKssKzTMn6TL0QTlSy3jpa/DvasYVBelPKVs6K/3PzrwRKGXHwbqfHakljhLTQmNlvEBZSLJ83hF6wpsJKQGZ8DvYGkWH3w2HMa9X7OvdRYqn5IWcFjTvs11YsaPw6RY7qyF77G4H/835N5/6sH73kOtHH/5fytb6GYbBRC+j62QLva8md8lUx3rjwQ4RBF5LiApn9+fRXIaSWHQFwZocGjuo0oDpuVa8Aj86376sp9JoIXUgpyfRCOCmf9kFrQUJCHEwBUSwpdYeRHNnhT/G43rltQSUFr6+/EeTmaQPOkD6uBYKLbJAuhHmVutVUezueDQ/l2WiXvWGy2u64qxDB2HMUjZ00cdko9dR/N14ccGrri/jLpqEhudXQ==;H1iuVeIE5LWEgnkVSoyJjw=="
 ---

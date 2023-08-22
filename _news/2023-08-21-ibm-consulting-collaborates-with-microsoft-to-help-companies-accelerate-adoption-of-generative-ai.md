@@ -167,15 +167,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
-    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
-    publishedDateTime: 2023-08-17T13:57:00Z
-    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 30
 
 secured: "sVrx8Z67CkyFNm992Csck6JFyXJJnLjE2iutzfzaYxHDcxlhaULByJK4XjMV++c+bQ9UZkASL0qCio5JFqavVuxPsyoTdiuHXaMk8bMM8G6S77S1OEHKO35trFq7jUa4Gq6X/ah82k7O1i9MgxkjXtae6hxbtpO0FxLqAPQqfae+zIvSK+9za0XwdMK3wVtFXZfT2/VUq9KGCCVLO8knQD9myrOkcSllRlSsbFHamWQeCxbOyDHJ7KwJQ7ciu5KiMj7Ky2gbAI2FoUX9qkyoCestqXKb9cLTTZQB/ye+FFhbnb1E0JZoK3aMFtVFlL7rqoPx074Dc6zpXyUGnO0qW5WgcdslVvBAcp3x2Gv257M=;F4ZgZ4bZgqKL++21tb9zZA=="
 ---

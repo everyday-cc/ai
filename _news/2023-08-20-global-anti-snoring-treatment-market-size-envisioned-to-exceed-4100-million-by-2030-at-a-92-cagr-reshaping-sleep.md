@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Education Market to reach $88.2 billion, Globally, by 2032 at 43.3% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \" Artificial Intelligence in Education Market by Component (Solution and Services), Deployment Mode (On-Premise and Cloud), Technology (Machine Learning and Deep Learning and Natural Language Processing (NLP)),"
+    publishedDateTime: 2023-08-22T06:26:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/22/9867785.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/3950895/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Voice Cloning Market to Reach $16.2 Billion, Globally, by 2032 at 27.3% CAGR: Allied Market Research"
     excerpt: "The increasing demand for immersive gameplay and advancements in voice recognition and synthesis technologies is expected to provide lucrative opportunities for the market. North America region garnered the major share in 2022 Based on region ..."
     publishedDateTime: 2023-08-21T14:32:00Z

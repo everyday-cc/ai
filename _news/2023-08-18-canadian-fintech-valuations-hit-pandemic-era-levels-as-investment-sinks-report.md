@@ -25,34 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
-    excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
-    publishedDateTime: 2023-08-21T04:55:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-drops-to-pandemic-era-levels-in-h123/"
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/08/fintech-2.jpeg"
-        width: 1000
-        height: 562
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
         isCached: true
-  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
-    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
-    publishedDateTime: 2023-08-18T11:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
+  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
+    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
+    publishedDateTime: 2023-08-18T15:15:00Z
+    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
     type: article
     provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
+      name: Impacts
+      domain: techbullion.com
     quality: 23
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
         width: 1000
-        height: 600
+        height: 500
         isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "qppwNmtNapWILksGP4UpQbp4A38ga84hl71T2KcXf0z8W90ZJKOHzuy6nejqrub8ziwreMHxagNRx6ZMsSPpxjo6fPNDg7k4M87oGDlHvCy8Bq5uwlGi3+cAbiIdRGDIHLBuqEOYo0Ae8Ik7kLXMfo/kWFqW8OyjdpZjLeWeL8QGojBGsTs6OduFreHPR7gVjMc/BVzApsSYEZ20LfQr2tXW1ixAhB6oexg7shg7GRqsNryXRQ3YUUi+mBoTZdFhtdjb9epQhipz7o+ltWbiCDFV8L3f0xBGuINqCNf5SHoehj3xa/ulWVXK7OQM5IpN3ckw7ghdMLUhlE1xGuhNPOMknmVoL6pUjILacV+vGsA=;WfSkTST7KAg6vWwIKvROiA=="
 ---
