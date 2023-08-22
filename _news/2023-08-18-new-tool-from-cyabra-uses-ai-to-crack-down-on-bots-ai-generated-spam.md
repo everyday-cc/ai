@@ -56,6 +56,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Summer Camp Meets AI"
+    excerpt: "By now you’ve probably heard of ChatGPT, an AI chatbot released to the public in late 2022 by the company OpenAI. Feed it a prompt, and it can write poems or songs in the style of specific authors, translate text from one language to another, and generate computer code."
+    publishedDateTime: 2023-08-22T17:07:00Z
+    webUrl: "https://today.duke.edu/2023/08/summer-camp-meets-ai"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://today.duke.edu/sites/default/files/inline-images/IMG_3364_0.jpg"
+        width: 2654
+        height: 3539
+        isCached: true
   - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
     excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
     publishedDateTime: 2023-08-18T18:12:00Z

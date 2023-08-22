@@ -3,25 +3,24 @@ category: news
 title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
 excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
 publishedDateTime: 2023-08-22T04:45:00Z
-originalUrl: "https://www.stltoday.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_f87e1af5-73fc-55f8-b76c-0952a9b0417d.html"
-webUrl: "https://www.stltoday.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_f87e1af5-73fc-55f8-b76c-0952a9b0417d.html"
+originalUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
+webUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/7a/27a0c0a2-2149-5f9f-9bad-f04e3ce04174/64de7940512b0.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/a5/4a5ac3d1-cba0-50cd-a326-f0deb4ad3d9d/64de7940409df.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize"
     width: 1200
-    height: 630
+    height: 631
     isCached: true
 
 related:
@@ -53,6 +52,6 @@ related:
       domain: nasdaq.com
     quality: 33
 
-secured: "nUM+m9gKPdf7lSIW1/JL2P0fsuyRARt4cYVG5SS/MEM7JxWzQgl1hyYhENuEt7HU8B4AKIfcY3KXowyVqn4vFYIUsyXDEzVsB5Vuovf6urI12c21b2IKi2B7eUkgkR3iEPPE4pwsPU2ILSIf6BzjSKaH6l/zo2cZB1/r3gJ/0MXJyIdlPvzKwHoyG4fpcTAmHxHUMzyBtCJ0O1DloXC1ygIppiyD++QnPZc7N9QpCtl+5gCspEYZp9PKh2t60/Tj2EB4frfGGUnJynUeQ78FgaUX3AQTeP/NCE1oIg111qeseYUSqFjsP53msd/8Nz2AKtz1Z5umXyPXHb084VzhqjfoqMnT/9S1g949EnI3tB8=;1WF69tsyAI/JmUrMOSuBbw=="
+secured: "rSU7SZTbBavhxh/xvY+99US5x9Ned0dx7zcwzpgdFZJqZA4sr+xY41cumyLEUgxEiIy1v6RynXezCtp4yDmGqCWQelT9m6lB8LbmMEI2Mw7LnzEv9eJiNlEFZd+l6W5xXj/Rqx1mMd7GuJUfKtS/5hmfi/EfS47ENQtivsOYx6Vs4aNGenv9PiVrCMmmACxRyZwH6KAh2bu49L3Pwi3uggfn/7sAMHI0slbGPSitljmVymU4rBltWmHQ1EnPI4cmN1N5CVA5R+cdgbmNimBSeT598s36gE4fF4hKdLlOpMfA/1jthhK5Uhc4+vpRUzF+UbeC4+khTaRGM/VoXLmP0pUhHI7Fg58qOC8ZNw/hbuo=;z/D9t9YHEuX9cQ+IgBD7SQ=="
 ---
 

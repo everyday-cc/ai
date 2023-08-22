@@ -35,16 +35,16 @@ related:
   - title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
     excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
     publishedDateTime: 2023-08-22T04:45:00Z
-    webUrl: "https://www.stltoday.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_f87e1af5-73fc-55f8-b76c-0952a9b0417d.html"
+    webUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
+      name: Omaha.com
+      domain: omaha.com
+    quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/7a/27a0c0a2-2149-5f9f-9bad-f04e3ce04174/64de7940512b0.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/a5/4a5ac3d1-cba0-50cd-a326-f0deb4ad3d9d/64de7940409df.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize"
         width: 1200
-        height: 630
+        height: 631
         isCached: true
   - title: "The 3 Most Undervalued Autonomous Driving Stocks to Buy Now: August 2023"
     excerpt: "The post The 3 Most Undervalued Autonomous Driving Stocks to Buy Now: August 2023 appeared first on InvestorPlace."

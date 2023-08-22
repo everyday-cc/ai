@@ -41,22 +41,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
-    excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
-    publishedDateTime: 2023-08-19T06:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/videoshow/102851839.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-102851839,imgsize-19880/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "x2YHdxkX/KFUtzGAas3ecXMyMQtc2olFlBQK5pYXDKcsSYLP7Uko/h+Cf1oXHkfF6klofAcj9l0yp5dXt1QHXwPEkebQnwC37ciGr7uvkZhjqtVeyU2DR98bCoXHo39YJtysN+cFFJDjTac4JN0hDhbIYHbW4d/s3M2pfVqeSCLZvPAtHyjOc80XjV44WPmIZezQzdjuaFZB80O8e9D/EDv37KcXZp3FDRtAoF1fnTkVxaAEONlRmJd1KYWOB4dAID1jfVihG1oh2uTSpcQV/rjQON9c0kMSxIcYG8iSUVmd18Mn0tBXIKK8dYqAB1Pkd33wHW72YHmYGMvGSmQUjWHhhtbiCmJ5z6ShkSpVdJTp7fsUNiSlEQS3xtgyBh9wle3n17+dRLXe6hMwqEXRa9t3M5lYHfKvDg0+G7vjlROuujpFr8vx2OMXRlHo7DS46pCDTv04HyeFtjDTwBdevGR9xkF9BNzd5m4p8DFYoAJxyB+WaP6yKaY1LB/M/MsnaEArmuJBnD24FP0UJXAI1w==;BWIxVSGuLhjXBI+S2OMnUw=="
 ---

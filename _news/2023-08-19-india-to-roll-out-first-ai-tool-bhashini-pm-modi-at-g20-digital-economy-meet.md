@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-to-r
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: RepublicWorld
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
-    excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
-    publishedDateTime: 2023-08-19T06:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/videoshow/102851839.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-102851839,imgsize-19880/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
     excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
     publishedDateTime: 2023-08-19T00:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.au.investing.com/news/stock-market-news/meta-platforms-ann
 cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/meta-platforms-announces-new-ai-model-for-speech-and-text-translations-432SI-2954620?ampMode=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Investing
@@ -27,28 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta releases an AI model that can transcribe and translate close to 100 languages"
-    excerpt: "Meta has created an AI model, SeamlessM4T, that can translate and transcribe close to 100 languages across text and speech. Available in open source along with SeamlessAlign, a new translation data set, Meta claims that SeamlessM4T represents a ..."
-    publishedDateTime: 2023-08-22T13:31:00Z
-    webUrl: "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/"
+  - title: "Meta Platforms Pushes New AI Model: What's Going On?"
+    excerpt: "Meta Platforms Inc (NASDAQ: META) shares are volatile Tuesday. The company announced the release of a new multimodal AI model for communication."
+    publishedDateTime: 2023-08-22T14:56:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33986261/meta-platforms-pushes-new-ai-model-whats-going-on"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33986261"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33986261"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-  - title: "Translate and transcribe in nearly 100 languages with Meta’s new AI model"
-    excerpt: "Meta, the parent company of Facebook, Instagram and WhatsApp, has developed a new AI model and donated it to the open-source community. Called"
-    publishedDateTime: 2023-08-22T14:45:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/110392/translate-and-transcribe-in-nearly-100-languages-with-metas-new-ai-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/Shutterstock_585922391-scaled.jpg"
-        width: 2560
-        height: 1380
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/22/facebook-1903445_1920-2.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Meta launches AI-powered speech translation model, to use it on WhatsApp, Facebook"
     excerpt: "Meta, formerly known as Facebook, has unveiled an AI model called SeamlessM4T that can translate and transcribe speech in up to 100 languages. The mod"
@@ -66,6 +59,22 @@ related:
         width: 1867
         height: 1280
         isCached: true
+  - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
+    excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
+    publishedDateTime: 2023-08-19T06:25:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/videoshow/102851839.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-102851839,imgsize-19880/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "‘SeamlessM4T’ supports speech recognition for nearly 100 languages, speech-to-text translation for nearly 100 input and output languages, speech-to-speech translation, supporting nearly 100 input languages and 36 (including English) output languages ..."
     publishedDateTime: 2023-08-22T14:36:00Z
@@ -82,24 +91,29 @@ related:
         width: 2000
         height: 1414
         isCached: true
-  - title: "Meta unveils AI model for speech translation between languages"
-    excerpt: "The company said in a blog post that its SeamlessM4T model could support translations between text and speech in nearly 100 languages, as well as full speech-to-speech translation for 35 ... a flurry of mostly free AI models this year, including a large ..."
-    publishedDateTime: 2023-08-22T14:27:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/22/meta-unveils-ai-model-for-speech-translation-between-languages/"
+  - title: "Meta Introduces Multilingual Speech Translation Model For 100 Languages"
+    excerpt: "(ians) heating up the artificial intelligence (ai) race, meta on tuesday launched a new all-in-one, multilingual multimodal ai"
+    publishedDateTime: 2023-08-22T17:17:00Z
+    webUrl: "https://menafn.com/1106916284/Meta-Introduces-Multilingual-Speech-Translation-Model-For-100-Languages"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/22/I_9928fimage_story.jpg"
+        width: 1000
+        height: 707
+        isCached: true
+  - title: "Interprefy Unveils Two-Way AI Speech Translation Solution for Events"
+    excerpt: "In August, multilingual meeting technology and services provider Interprefy debuted a major upgrade to its artificial intelligence (AI) real-time translation solution, which translates live speech from 45 languages and regional dialects into AI-generated audio and captions in 74 languages."
+    publishedDateTime: 2023-08-18T13:46:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-unveils-twoway-ai-speech-translation-solution-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
     quality: 19
-  - title: "Meta AI’s SeamlessM4T model enables universal, on-demand translation for hundreds of languages"
-    excerpt: "That’s thanks to the capabilities of SeamlessM4T, which is being open-sourced and made available to the AI research community. According to Meta, SeamlessM4T supports speech recognition and speech-to-text translation for 100 input and output languages ..."
-    publishedDateTime: 2023-08-22T13:31:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/meta-ais-seamlessm4t-model-enables-universal-demand-translation-hundreds-languages/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 7
 
 secured: "fM6LLdRyZ3PM65ZzxcZwGtvybgYGxkqdoFOYlSy9CKmEAXNHQGfXTAyShExYDuSl9iwMZJP38GLSIdTpoXY54hYVPnnACikO/rzuddPCbNQKECfFZ+Is90XlGgVho/q618DmeUQsFf+aW9mz3FoAi4xDCHElQn+uXcplgvuhEyJY6d86Fzz8vDW6WhFVNACjGcu/FLqTAMiqQ44IW0IpJFIqL9IUEsej+NtNykUGlqxm4ApNRKtwwOiaRxKwJ9uZUq2wxYRVOTWvkkmN4jSHvLG2avnws9Z2CJRjRL3pJFIFZ6SlxhEj4dtA8zPwddzr4xaemeTdl9EXokiT3saMlks6Q2Qvgy88A/SlmIHi3h4=;asmqq3lLc9gGpNIKnbOyCQ=="
 ---

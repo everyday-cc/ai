@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VMware, Nvidia team on enterprise-grade AI platform"
+    excerpt: "VMware Private AI Foundation with Nvidia will enable enterprises to customize models and run generative AI applications on their own infrastructure in their data centers, at the edge, and in their clouds."
+    publishedDateTime: 2023-08-22T16:56:00Z
+    webUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.html"
+    ampWebUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
     excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
     publishedDateTime: 2023-08-21T10:16:00Z
@@ -116,6 +132,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
+        isCached: true
+  - title: "VMware, Nvidia target businesses that want their own AI"
+    excerpt: "VMware Inc on Tuesday said it has developed a new set of software tools in partnership with Nvidia Corp aimed at businesses which want to develop generative artificial intelligence in their own data centers rather than the cloud."
+    publishedDateTime: 2023-08-22T16:33:00Z
+    webUrl: "https://www.aol.com/news/vmware-nvidia-target-businesses-want-163300618.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/1eed3cc5502d6bfffb39ebfc031bcb16"
+        width: 800
+        height: 534
         isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."

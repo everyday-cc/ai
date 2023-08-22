@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-p
 webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Gooses Grace-Hopper GPU Memory, Gangs Them Up For LLM"
+    excerpt: "If large language models are the foundation of a new programming model, as Nvidia and many others believe it is, then the hybrid CPU-GPU compute engine is the new general purpose computing platform. After years and years of having others build these hybrid ..."
+    publishedDateTime: 2023-08-22T17:53:00Z
+    webUrl: "https://www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/"
+    ampWebUrl: "https://www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/08/nvidia-2nd-gen-gh200-logo.jpg"
+        width: 943
+        height: 585
+        isCached: true
   - title: "Nvidia generates up to 1,000% profit for each H100 GPU sold"
     excerpt: "For every H100 GPU accelerator sold, Nvidia appears to be making a remarkable profit, with reported margins reaching 1,000 percent of production costs. Tae Kim, a"
     publishedDateTime: 2023-08-18T17:16:00Z

@@ -43,6 +43,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "SK Telecom acquires stake in Korean firm AI Persona"
+    excerpt: "Korean operator SK Telecom said it acquired a stake in local AI assistant developer Persona AI, with the aim of collaborating on the launch of products designed to improve automated customer service facilities for enterprises."
+    publishedDateTime: 2023-08-22T15:20:00Z
+    webUrl: "https://www.rcrwireless.com/20230822/ai-ml/sk-telecom-acquires-stake-korean-firm-ai-persona"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 39
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2022/05/JP-headshot.png?lossy=1&strip=1&webp=1"
+        width: 283
+        height: 353
+        isCached: true
 
 secured: "pGlsfdo81iy3JzNiQ6mr4Wb+QlWo2EGPlYiMoCxjKuzfyLbJqEtwrigTyaKfxFaCj5GANcrepdtEPGqF/dKI44CTZxqApYzu5++PVj7VXoQf+VWgfaW2qXaEO+HYohpOJy0AftDLPqcWsccxBa7BpuPR3AFg92KzWAfww4+HPANEH+6hEzb6/CSmTn+e3VUvRrEqWLxo7phk0eT3zLrBk18QeCTt9xQiJzTa5DiDJUtHVcBwA5OvBu+b88pLyrfjJalS0WJZindXykIwcMGrTBx8AwYzY+EmACIG3a18nNluveFFUFSodRdVJsFKjcqd8qFnpHW4UoLeXZRQ7ulY1Fi/f+VfPVgRRDpEfQ8ll9kavu+zf8zIWBDTKm1RZ6+/U3bxSRgc1vpeL2aG9lRVWCnqFys2TFSUAnLB/TFijFj/WKAtgzDuP6cvbqNcJacu6FQ3+9VZ9WeyxS872bw8Ge+mLu1+C//MQCB1aQg+alUkZH1a59cliJAQbWiQIqCuA7NQMm3SH1MkdZ5iiE+6Kg==;GrXeve84pwGianfqdd/QKA=="
 ---

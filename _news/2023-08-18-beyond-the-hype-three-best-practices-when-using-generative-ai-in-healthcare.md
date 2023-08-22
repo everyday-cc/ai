@@ -101,6 +101,20 @@ related:
         width: 1350
         height: 675
         isCached: true
+  - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
+    excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."
+    publishedDateTime: 2023-08-22T16:08:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/gen-ais-role-transforming-industries-crucial-need-data-integrity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Rehan-Jali-CLEAN.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "K5nHTQaApxNaMc9OgY521Pd2H8QBaMlRV5kA7KoIO9X8hZN3+ZiwWcbqMmHcvzTwDA/F5OX7G7JhwM51ggIDsk2Z0QdCvIRw/t9It7CGIo9C6f+mdejZZy+HTfZYcz2WSdPw2YSYxrnEmIwyMwyQEmMkLVg95qv3BjrY3jBO4Hbo3l13Ai18JPOilIdG67Xhn2vBUosslVIOzBv0w9irT94G8yjJuAjMUk85icH/+dX/QSgPQ9DUPXzxC8XZLUxzl1XJfJpAaa8ij/XJtA283+INL8RQUhkj329guQogh0ZPdTyk6jpnRnNB8K629Wot/09UyaWDCa4rQAZBIur6m6Q5k40Gxyu2ovM/txzsXJJc7FLeiHHcQP5wcVKwBLFwV2MaJsTjl4wSJsJBVMTZBuB2k9RXr7lXt3u3GC71ihCghqdWbTSmOLgwr97WEvw1O32ZUdm4V+93Mqfr6+wW+bk7frlg6xe263d9mSWndZtCDhDIn/yUdrSN0jL2Q7SOSUIzBSThU5YlbWxx69iq0w==;SeSsps+pazBo2BywyBCgQA=="
 ---

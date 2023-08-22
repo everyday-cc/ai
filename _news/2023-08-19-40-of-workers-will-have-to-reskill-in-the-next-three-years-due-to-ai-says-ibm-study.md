@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
-    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
-    publishedDateTime: 2023-08-18T20:47:00Z
-    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+  - title: "Two-thirds of professionals think AI will increase their skills' value"
+    excerpt: "Of the professionals surveyed, 64% said they expect their professional skills to be \"more highly prized\" over the next five years. Twenty-four percent of those respondents see that positive change occurring in the next 18 months while 40% see it happening between 18 months and five years from now."
+    publishedDateTime: 2023-08-22T16:28:00Z
+    webUrl: "https://www.zdnet.com/article/two-thirds-of-professionals-think-ai-will-increase-their-skills-value/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/two-thirds-of-professionals-think-ai-will-increase-their-skills-value/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-thirds-of-professionals-think-ai-will-increase-their-skills-value/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/0cf0590ca171ce7290e17caaf7b480fff4c2b05b/2023/08/22/adfd966e-f4d6-4485-8822-71e70ad209fc/gettyimages-1195223774.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "8Uu2cfBdXL46cCUNv1frSvoHM/FZppkHLa+N/9PVd5z1zzD9DBG9OH3Qlzh4vV0Pg5AY7wM+BDd+BMUbUsR8k2NRft0miHsMCd2o0PYB6alwPR6uQqO9uj/Z3kc+V8r46fOXDcNgJNhi9EhRkPyH673zzJ/DEk36vRhbZa2TIp1TDm0yjtaHaHlF10qptmHKK+XQwTf6LHFotx+cC9VavWtT4LUOVbDK3CYSbTqZr2L2oVAYg5r+tcsXbv2Tnlie4uUqczle/gD+2FmD0qormiu09ohlYOpqTBDctj2fcOh+p6D1GKjyLdxnkRTgbj9+elc63TPigoKknh9OslSzMuw25yRT2fmOgS+4k77bNA6QB8oHWN690hYAQf0hsDmADU6BYJXGi3XdECBI1+j4/ed9fEw4IFRel3f7A2pe0xfXNgaRFX/iKghdtbvNK2AMRWHYPPoct8G+rZ+VCNo0tboNF0PMtWar45FxdJyiwt2qbpSWqIRABmcolAme7lIPUeJ8s2Drxym/w8BPXdKcrw==;/f8ro2u+es33xK/VTpiatQ=="

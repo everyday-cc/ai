@@ -103,20 +103,6 @@ related:
         width: 729
         height: 432
         isCached: true
-  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
-    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
-    publishedDateTime: 2023-08-17T23:32:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
-        width: 1400
-        height: 939
-        isCached: true
   - title: "IBM Rolls Out Watsonx Generative AI Capabilities To Boost Mainframe App Modernisation"
     excerpt: "IBM revealed that the Watsonx Code Assistant product portfolio will extend over time to address other programming languages"
     publishedDateTime: 2023-08-22T08:14:00Z
@@ -180,12 +166,31 @@ related:
   - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
     excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
     publishedDateTime: 2023-08-22T13:18:00Z
-    webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
     type: article
     provider:
       name: CRN
       domain: crn.com
-    quality: 51
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
+    excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
+    publishedDateTime: 2023-08-22T17:11:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 43
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
   - title: "IBM’s new generative AI product to boost mainframe application modernisation"
     excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z. New Delhi: Tech major IBM on Tuesday announced a new generative AI-assisted product — Watsonx Code Assistant for Z, that will help enable faster translation of COBOL to Java on ‘IBM Z’ and enhances developer productivity on the platform."
     publishedDateTime: 2023-08-22T08:58:00Z

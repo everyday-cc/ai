@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-int
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/06/932/470/chat-gpt.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Summer Camp Meets AI"
+    excerpt: "By now you’ve probably heard of ChatGPT, an AI chatbot released to the public in late 2022 by the company OpenAI. Feed it a prompt, and it can write poems or songs in the style of specific authors, translate text from one language to another, and generate computer code."
+    publishedDateTime: 2023-08-22T17:07:00Z
+    webUrl: "https://today.duke.edu/2023/08/summer-camp-meets-ai"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://today.duke.edu/sites/default/files/inline-images/IMG_3364_0.jpg"
+        width: 2654
+        height: 3539
         isCached: true
   - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
     excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."

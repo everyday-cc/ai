@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Summer Camp Meets AI"
+    excerpt: "By now you’ve probably heard of ChatGPT, an AI chatbot released to the public in late 2022 by the company OpenAI. Feed it a prompt, and it can write poems or songs in the style of specific authors, translate text from one language to another, and generate computer code."
+    publishedDateTime: 2023-08-22T17:07:00Z
+    webUrl: "https://today.duke.edu/2023/08/summer-camp-meets-ai"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://today.duke.edu/sites/default/files/inline-images/IMG_3364_0.jpg"
+        width: 2654
+        height: 3539
+        isCached: true
   - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
     excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
     publishedDateTime: 2023-08-18T08:12:00Z

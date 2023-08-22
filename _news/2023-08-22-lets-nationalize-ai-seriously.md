@@ -24,6 +24,22 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "From Startup Nation to AI Nation: What Does the AI Doctor Say?"
+    excerpt: "IDF graduates have established two startups that seek to harness AI to change the way in which we receive medical treatment"
+    publishedDateTime: 2023-08-22T17:05:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-what-does-the-ai-doctor-say/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/dror-bin1649338365-400x400.jpeg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "Smi0oTgvipLaUI2zKt2wf2UgtZg+66Ksy6EowG0CDXKfAq/UQewQudBFRL4BaAU92IoD2b14MkCquOmeOSfiDkQksd0mDu3R2ou0lphFRAm1Q57f04C52in+ZarGi5BDiXXuswt+13HhunUSHRWKo48C/7PVLDFrXtut4t5JbX/2jFIJlWjiBMPHwaMnj0HkHCo/3ijvrTB/UpAyK7B4CU1Yp6/1J1op5r02DZuzKzzeU2cK5p2iVIYlkwq9YI4fG1c2aYjjvCnhXFjihnHyicWP3mwS5bBqS4z13O5nSo/Wq9Ret42zB9O9kzrhrF7XKjMCeDmIf8KxV9y8k5VqvLNRY6WZ1y/ZlTfY3fHJSyE=;ioQjyOHnnISNN6OjatzrEA=="
 ---
 

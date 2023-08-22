@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
-    excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
-    publishedDateTime: 2023-08-17T23:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/elemental-cognition-led-ibm-watsons-former-head-raises-60m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
-        width: 610
-        height: 400
         isCached: true
   - title: "IBM Watson's Creator Raises $60M: A New Era in AI?"
     excerpt: "Elemental Cognition, co-founded by IBM Watson's mastermind David Ferrucci, clinches nearly $60 million in a testament to the potential of next-gen AI"

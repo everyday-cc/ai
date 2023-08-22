@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.maketecheasier.com/assets/uploads/2023/07/AI-in-games-immersive-technology.jpg"
         width: 1350
         height: 675
+        isCached: true
+  - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
+    excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."
+    publishedDateTime: 2023-08-22T16:08:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/gen-ais-role-transforming-industries-crucial-need-data-integrity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Rehan-Jali-CLEAN.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "1K3DlbmKsE/8svUCp/TTW6CGbob9NPpuQNDaG38wy3hRswWqnaxkvRhQsnrLkW9YxJ2hbvgzS+hxGC3m23hd5jz3J3XoBp3Kdiw+Bxin1vchgUxyXvLF3iVs04V2kqP5VhKABmeiD0eWkqep9pWtxkpL8Hk0ZzifdcTB/+OF8nRYWP8Pjk6aR7ArHSfm7+ZKjrZbWfAl28BTLamp2HVXaTpx7kNI16C+ThFNL7PHEtJWz7+B69aBwkkFiiVOgLcgDR8xhfFYQyj7qZxUeykzpuKxCxR7ETjWJO2AmhtdeP8DGQtizEe1DIooxjOilbhrHYW3xkc1devEtQCzJ30C4WcsbhIZ3uvS5d9mCv+tep4=;9kQwlMuymSzz4ciJmw7jpw=="

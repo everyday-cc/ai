@@ -95,6 +95,20 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
+  - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
+    excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."
+    publishedDateTime: 2023-08-22T16:08:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/gen-ais-role-transforming-industries-crucial-need-data-integrity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Rehan-Jali-CLEAN.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "GInbQwa88M8OJtLGPLqKgSjIx6h0nVYFuqbCiYmBpRjZb1KrJ/EIMo3KPiiygJiXxWBcZ+d/HIgjHmXUcSG11aNB1eiFoy+8yxdNFyCjAmMpGGCp4xe5qMkTuuruQtGy53RXQjjpK88X6HVMRUo72IWV+OkgkOEpt5M7f9Mg0W8Wdfj/sttY9O71oKIMudQs1bQX/DiOVMW6QZh+4BslSchk1P1nNz+FUhW2yqMnM65zXUBPZsyHWfnTNg0hks3avLWEOjW+GpgZHmyFtkK5+IL8LHFp5JqwomYegReMHe+scyN6DUIq33wXI5OZVJSt3PYwu2QEz2U1IQ2wPDsHmzPXL19lX5MYXBEMgNT2aR0=;swbCfaBrImcPBYFpyolZXQ=="
 ---

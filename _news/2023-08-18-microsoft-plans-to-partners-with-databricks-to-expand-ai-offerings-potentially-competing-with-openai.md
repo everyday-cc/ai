@@ -25,6 +25,52 @@ images:
     isCached: true
 
 related:
+  - title: "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'"
+    excerpt: "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ..."
+    publishedDateTime: 2023-08-22T17:16:00Z
+    webUrl: "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 113
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Python is coming to Microsoft Excel"
+    excerpt: "This will enable users to perform complex statistical analysis, advanced visualizations, predictive analytics, and machine learning in Excel."
+    publishedDateTime: 2023-08-22T17:41:00Z
+    webUrl: "https://www.zdnet.com/article/python-is-coming-to-microsoft-excel/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f19a01c69ca1095117ebe9fad7097214ff82f81c/2023/08/22/b58df5b7-d18a-4f36-ae1c-e474a7114e03/color-ropes-stock-photo.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Adds Python Programming to Excel Spreadsheets"
+    excerpt: "Microsoft is introducing the ability to use Python code directly in Excel spreadsheets. It's called Python in Excel, and it's being made available as a Public Preview for Microsoft 365 Insiders using the Beta Channel in Excel for Windows."
+    publishedDateTime: 2023-08-22T15:20:00Z
+    webUrl: "https://uk.pcmag.com/office-suites/148306/microsoft-adds-python-programming-to-excel-spreadsheets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-adds-python-programming-to-excel-spreadsheets_vbmj.1200.jpg"
+        width: 1199
+        height: 680
+        isCached: true
   - title: "Epic, Microsoft expand partnership to accelerate generative AI in healthcare"
     excerpt: "Epic and Microsoft announced on Tuesday an expanded collaboration focused on integrating generative artificial intelligence tools in ... is intended to speed the development of AI tools in healthcare, bringing the technology as “quickly as possible ..."
     publishedDateTime: 2023-08-22T15:13:00Z
@@ -69,34 +115,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Microsoft says that AI is the new “tidal wave”"
-    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
-    publishedDateTime: 2023-08-19T01:07:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
-    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
-    publishedDateTime: 2023-08-21T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Epic, Microsoft add new AI capabilities to EHR software"
     excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
     publishedDateTime: 2023-08-22T14:23:00Z
@@ -120,34 +138,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Microsoft adds partnerships with energy companies, Aramco and Petronas, to drive innovation and sustainability"
-    excerpt: "Microsoft has collaborated with Aramco and Petronas, two prominent energy industry companies, in two projects to drive innovation forward."
-    publishedDateTime: 2023-08-21T14:41:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-adds-partnerships-with-energy-companies-aramco-and-petronas-to-drive-innovation-and-sustainability/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 34
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Windows-Aramco-Petronas-1.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "New York's largest health system is pushing into generative AI with help from a former Amazon exec and a $100 million venture partnership"
-    excerpt: "Northwell Health and the startup studio Aegis Ventures are working on AI tools to help rescue doctors from a mountain of paperwork."
-    publishedDateTime: 2023-08-22T10:00:00Z
-    webUrl: "https://www.businessinsider.com/northwell-health-generative-ai-strategy-ascertain-aegis-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/64dfc5c3b698ac0019dcd2cd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
     publishedDateTime: 2023-08-22T13:35:00Z
@@ -157,24 +147,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 29
-  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
-    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
-    publishedDateTime: 2023-08-21T13:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-08-22T04:22:00Z
-    webUrl: "https://www.inferse.com/686087/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "4gftD6S6boD0ss3vqUzKwKueGOApokugsAk2F9fFeq8PJHA13YvNYxb0DkgmLcMGZw/54Mt/yXDsNQn6OFEG5ZFq1+8FV/e7bd8BOs5JhYqgQGfWBsQY39QJu7q9Mc1XkbIw8HKX3jVldn7lGbA0ex7wIu+rbPT3F4EJ8b63S7dIDeqxZpRytCXQf+XtIN1Klpd1emsLa0hwzAvP/FMmOyfqeAH2SmgAOx9KNlig90EuUdJV+qnOl8Ty8zZO6qMiONLLrqgjLTZddN3kNEV9flkEepVaSakyDY+Etl1l7R7JuVO9RQllKRHlL1N0/qx88fYVITIiffOJZM395B6/t7r6wtCdqwx+++Q4a+uFS7KCRRdymh835XtikRLLZXKLIprEWpv49jmVMLi8HTdiUi/o4bHAyusJqeha2Ry+UEeiYbZTIXLaCSowwUVy31aPTMdRp2WBYsWdMdWFY8GV3kqjn2PK6fJ4jCrDB59tZokaQE+Cfxp5NnAOXYHju9aYbx7pIKfmI2GRzVh7Oeyeog==;AK92pmltmTZWIJpR86Oznw=="
 ---

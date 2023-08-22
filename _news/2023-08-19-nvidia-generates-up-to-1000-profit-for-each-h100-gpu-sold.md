@@ -37,6 +37,22 @@ related:
         width: 2000
         height: 999
         isCached: true
+  - title: "Nvidia Gooses Grace-Hopper GPU Memory, Gangs Them Up For LLM"
+    excerpt: "If large language models are the foundation of a new programming model, as Nvidia and many others believe it is, then the hybrid CPU-GPU compute engine is the new general purpose computing platform. After years and years of having others build these hybrid ..."
+    publishedDateTime: 2023-08-22T17:53:00Z
+    webUrl: "https://www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/"
+    ampWebUrl: "https://www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/08/22/nvidia-gooses-grace-hopper-gpu-memory-gangs-them-up-for-llm/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/08/nvidia-2nd-gen-gh200-logo.jpg"
+        width: 943
+        height: 585
+        isCached: true
   - title: "Report: Nvidia Is Raking in 1,000% Profit on Every H100 AI Accelerator"
     excerpt: "However, regarding Nvidia's H100 \"Hopper\" AI Accelerator, we finally have a ballpark estimate of what each one might cost, thanks to some financial analysts. The sticker price they've come up with for one GPU is $3,320, meaning Nvidia is pulling in roughly ..."
     publishedDateTime: 2023-08-18T15:04:00Z
