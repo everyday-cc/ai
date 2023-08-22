@@ -99,15 +99,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
-  - title: "Editorial: Clear dangers of facial recognition tech used by police"
-    excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."
-    publishedDateTime: 2023-08-17T17:31:00Z
-    webUrl: "https://www.marinij.com/2023/08/17/clear-dangers-of-photo-tech-used-by-police/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 19
   - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
     excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
     publishedDateTime: 2023-08-21T11:32:00Z

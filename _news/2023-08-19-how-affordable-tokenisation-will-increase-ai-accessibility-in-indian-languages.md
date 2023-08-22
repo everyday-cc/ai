@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
     excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
     publishedDateTime: 2023-08-19T10:41:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
+        isCached: true
+  - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
+    excerpt: "Amazon India launched the third edition of Machine Learning (ML) Summer School, an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon, making them industry-ready for a career in machine ..."
+    publishedDateTime: 2023-08-22T11:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school-nid-224893-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 15
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/rwodxzTU.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "g6mxD9oliN6JdWhML6KSHW+JQThJVIJSiRuN3q+L90wez+nWTdmT8uuQIBdxNWw8NsIaH2N8SsnskWoXbpWqyZ+HCk8bD8aSpHZJb00etNK85TvJSk9Fdbw9qZLKkDaVOPmh36Zb+LRAubYY2mXMoesVniGXUAEMC/VygGtSDLoEum5+rrkHBmBl5axka6LmBSYHWa4BtSyUWT/ThizXty3FsUlN2XkGVkgW4lVGc3PM9dmdrKKdHdhoekz+tcsjM0baOwEaH9VhX8s3Atx/0gzMhC1d6swXFQ7zE4uSdhWu8qJlIg0SeZspOMJzNGMj+5/rD86Giel/Ie4W8S1KLTl/V+pvlou78qfqopwmnDUIQJQouL2oQzxlPNkkIqTAO1y9ksqvrhYgvCRTUcP5eiDG2oFapGXz1zm1DQfWMq5DimiWQk5Ld520tlnuvXDbCycQVr1Hi8jJ0kUX6drFAStFosePmbLdD37ORObY2+JoSOyZ1yES/C/uTeCHLms865VwRf5JRtomF8nFSwOZTw==;LbDoOuxAW9M5jq5u8gNSEQ=="

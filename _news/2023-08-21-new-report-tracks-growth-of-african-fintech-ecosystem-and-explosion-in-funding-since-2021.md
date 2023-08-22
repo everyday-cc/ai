@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
-    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
-    publishedDateTime: 2023-08-18T15:15:00Z
-    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
-    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
-    publishedDateTime: 2023-08-17T18:36:00Z
-    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
-    type: article
-    provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
-        width: 650
-        height: 269
-        isCached: true
   - title: "FinTech LIVE: Digital Ecosystems Forum"
     excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
     publishedDateTime: 2023-08-18T12:00:00Z

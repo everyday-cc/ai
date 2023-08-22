@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-21-technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector.md",
+      "title": "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector",
+      "excerpt": "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg",
+          "width": 1654,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "publishedDateTime": "2023-08-21T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances.md",
+      "title": "Big Tech’s voluntary commitment to responsible AI offers us false assurances",
+      "excerpt": "In response to widespread concerns over artificial intelligence, representatives from Amazon ... Google and Amazon’s union-busting efforts, Facebook’s Cambridge Analytica scandal, and Microsoft and OpenAI’s copyrights violations are only the tip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/",
+      "originalUrl": "https://www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/amp/",
+      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/amp/",
+      "publishedDateTime": "2023-08-21T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "West Hawaii Today",
+        "domain": "westhawaiitoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-uk-commits-100m-to-secure-ai-chip-components.md",
       "title": "UK commits £100M to secure AI chip components",
       "excerpt": "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part",
@@ -208,7 +294,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -400,7 +486,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-holdings-shares-gain-on-higher-profit-payout-ratio-projections-d236bccd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -452,7 +538,7 @@
       "originalUrl": "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -883,6 +969,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-19-ai-industrial-robotics-hong-kong.md",
+      "title": "AI Industrial Robotics - Hong Kong",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$65m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.76%, resulting in a market volume of US$172m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet.md",
       "title": "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet",
       "excerpt": "English-speaking population of India to the global Internet and help them access it in their regional languages.",
@@ -969,6 +1098,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-19-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking.md",
+      "title": "The art of artificial intelligence: Changing the face of filmmaking",
+      "excerpt": "Artificial Intelligence is emerging as a valuable collaborator for screenwriters and storytellers. By leveraging it, filmmakers can save time, enhance storylines, and refine characters, making narratives more engaging. Although, it is necessary to keep in mind that some parts of human touch are retained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T182052.360.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/",
+      "publishedDateTime": "2023-08-18T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
       "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
       "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
@@ -1017,212 +1189,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study.md",
-      "title": "40% of workers will have to reskill in the next three years due to AI, says IBM study",
-      "excerpt": "The executives surveyed estimated that 40% of their workforce will have to reskill in the next three years due to AI implementation, totaling up to a whopping 1.4 billion of the 3.4 billion people in the global workforce, according to World Bank statistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "originalUrl": "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
-      "publishedDateTime": "2023-08-18T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-have-you-used-generative-ai-to-shop-17-of-shoppers-have.md",
-      "title": "Have you used generative AI to shop? 17% of shoppers have",
-      "excerpt": "The Salesforce report highlights that 17% of shoppers have used AI for purchasing inspiration, highlighting how the technology is rapidly growing in retail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "originalUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b588846719e720a0532553f47658527cfea51d1/2023/08/18/d1a579a5-d6a0-4deb-ad21-718a5ef80876/shopping.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "publishedDateTime": "2023-08-18T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
-      "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
-      "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-18-image-19.jpg",
-          "width": 2000,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-14-intriguing-new-and-potential-uses-for-facial-recognition-technology.md",
-      "title": "14 Intriguing New And Potential Uses For Facial Recognition Technology",
-      "excerpt": "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64df7e960bca66ac42c712f4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
-      "publishedDateTime": "2023-08-18T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

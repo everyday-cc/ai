@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
 type: article
 quality: 120
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Dentsu partners with Microsoft to unleash AI-powered innovation for brands"
-    excerpt: "Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment Dentsu Group Inc .."
-    publishedDateTime: 2023-08-17T18:30:00Z
-    webUrl: "https://www.dailymirror.lk/business-news/Dentsu-partners-with-Microsoft-to-unleash-AI-powered-innovation-for-brands/273-265493"
-    type: article
-    provider:
-      name: The Daily Mirror
-      domain: dailymirror.lk
-    quality: 32
 
 secured: "QOagcdkHVO88FSJS7tJfhfDVVmPIh2pJowkYd94K9dN5CCxN5Z/zxCM6Qad2mV8gVPFjAP85dgwnI40y8MTWUCWEa4beD9Xv5dW7t2N+rjYRnWier8gV6Kv6tH+m060SUP4WGeoy+Qh9s/Q8ckjUIqxxKTYITjgMnQmrX7hTdWgPpbuhpIyjQG+dYXZ2UMmqtDmkj2PMAKiXAjOa0oQPsQMtbVJaLyyNUqpATjNCo6pGUTUl2GpCplPsJ5xxUnjfR93dlH4H3W0wK/hTq6Sqyxgeag6WyJpEwoLfc9gVmVN8UIOk2/uZLlJD4XNHv1FM2+mT7WsOYYg8Javr9O5xALKgqXc9wXBKxqs5sOfhWE6FG9wkRlOYvbZ3yMu9PeFURDInWlDsE5mXmT8y2dZY7ewKSQEgvp4aNUWRBHTdtKJLQmGcHDZFxNAUG0EWVdL+0wnKSGuT6sboJulCR48qFz2K4oJyKFApj3d7HqUcqQMIyoSvXuS9aLUbwPgSKuwhayB8ruccN02Y8NcfSrQX5A==;dY/YoOWrnjNZa14D42pQLQ=="
 ---

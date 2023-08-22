@@ -35,34 +35,6 @@ related:
         width: 3542
         height: 2083
         isCached: true
-  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
-    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
-    publishedDateTime: 2023-08-18T15:15:00Z
-    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Canadian fintech valuations hit pandemic-era levels as investment sinks: report"
-    excerpt: "Investment in Canadian fintech companies plunged in the first half of the year as valuations fell to levels not seen since the beginning of the pandemic, says a report by KPMG in Canada."
-    publishedDateTime: 2023-08-17T18:36:00Z
-    webUrl: "https://www.vancouverisawesome.com/national-business/canadian-fintech-valuations-hit-pandemic-era-levels-as-investment-sinks-report-7418590"
-    type: article
-    provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/08/20230817090848-c4b9f5869544a408b5df217c0c669766ff4d577903aed26fa3f11104b8a02151.jpg;w=650;h=269;mode=crop"
-        width: 650
-        height: 269
-        isCached: true
 
 secured: "Qem0uZUAUn/A4p59jJSxHf+DVjNCG9OT+hVAqiUjnqpXdcpuU9JLcP0KukcdT51L2e6KoBf8MYNmsamTh1uQ0qaPwf3t9168rACBvEwPAWgAOdtgx5PGkSDEfvOkD0HdoM4hiAsqU8HM56pNaYfQejXKIo5VDgvOCAC/aeMHRn8Y7PFCOckp4TdBCYlIcVqIJmKsM7dT1eMAXPQhfc5sTWj6vQRIraAOnzqKljEMmeSVe3qdnR010eFoMA9uMruw5k1zV9BqB6kTmOPr1gkXt9tfYKzZbMaQhPBrzYjAd0YmjQK6oAjGqp8L7Ua6LdWhY+vgxF6+fCn7q4ayeU52P1qEBnunHDPmbvcLucnYskfhX5Xh1MyK/nAumWYlNdqRx/Bs38zX+ODPg/fKvbVJkOOIGkiMtzmr//0C8XfxsgMSaeDzh4FhGTAkcVqcryClXUjQHUZpFO+HZrWQwPf2I6sngqotQJUqMBMJ8BxyGxkz/Lm0a6c8uI5faTP5dwRSAJLBCAMKBaXvv8xMimCYrg==;ehtx9+sSccMjGV+YhRVfqw=="
 ---

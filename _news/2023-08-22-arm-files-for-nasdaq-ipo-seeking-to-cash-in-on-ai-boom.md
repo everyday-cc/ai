@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "A Filing for the Biggest IPO of the Year Is Producing More AI Excitement"
+    excerpt: "Japan's Softbank plans to spin off chip designer Arm, and the buzz over that deal is combining with Nvidia's coming earnings to energize the AI crowd."
+    publishedDateTime: 2023-08-22T11:45:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/a-filing-for-the-biggest-ipo-of-the-year-is-producing-more-ai-excitement-16131505"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 38
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/56fa8dd0-e2a7-11ed-85d3-597f3c58369a.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "JGnqeeviBeMDR1V93KCx6YCMUP5Ky8Yei4MYfbNnKX1IiITZG0mrfclAygQ0TsEpGRCQZ/CO2VcQJ12HyiHhDJE8ZyokwtHT4/0XY30rtJqnBu6JgAiXk3h+kLe8DUwnYhsVyeV9bsinHZI0XLnQiBMgXFjMTs84GH/X9eeHNMspdB9lxIkryqTYNH/LbGRU9z0Jvec9sFARAAEiHjFfUkYZ1leA6jOLdlbGnAY0fFKmDV3+XbPSEcfi9aCAwsgD2m8HEMqLOWPoIh1cyal/9z4y6IQa54zUg++OUPusaXIMKa/m35KFRlGFTzKOQTguIGAZDmr65/BhOpYn8e5p+wA1Oe0O9lx3kNgeVvFvRSc=;HfNcOdlesVpPRyBNkVj79g=="
 ---
 

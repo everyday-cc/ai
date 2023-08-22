@@ -2,6 +2,299 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-06-28-mongodb-loves-developers-at-mongodblocal-nyc.md",
+      "title": "MongoDB ‘Loves Developers’ At MongoDB.local NYC",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "publishedDateTime": "2023-06-27T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-when-the-ai-is-more-compassionate-than-the-doctor.md",
+      "title": "When The AI Is More Compassionate Than The Doctor",
+      "excerpt": "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1273,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "publishedDateTime": "2023-06-27T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise.md",
+      "title": "Reka emerges from stealth to build custom AI models for the enterprise",
+      "excerpt": "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/",
+      "publishedDateTime": "2023-06-27T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
+      "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
+      "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "publishedDateTime": "2023-06-27T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-how-ai-and-web3-id-tech-can-defeat-deepfake-frauds.md",
+      "title": "How AI And Web3 ID Tech Can Defeat Deepfake Frauds",
+      "excerpt": "As exciting as this technology is, it’s brought with it a rise in frauds and deepfake duplicate accounts looking to steal our identities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649473a86aba405b693cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/",
+      "publishedDateTime": "2023-06-27T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
+      "title": "Artificial Intelligence: Risks, Ethics and Future",
+      "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
+      "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
+      "publishedDateTime": "2023-06-27T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
       "title": "AI is catching on with API developers",
       "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
@@ -815,308 +1108,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
-      "title": "Spectrum Scale on IBM Cloud performance",
-      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:20:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
-      "title": "New bioinspired robot flies, rolls, walks, and more",
-      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
-          "width": 1600,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "publishedDateTime": "2023-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
-      "title": "AI ethics toolkit updated to include more assessment components",
-      "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "publishedDateTime": "2023-06-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-edge-ai-will-shape-all-aspects-of-mediatek-business.md",
-      "title": "Edge AI will shape all aspects of MediaTek business",
-      "excerpt": "Dr. Finbarr Moynihan, head of Corporate Marketing at MediaTek, will speak at the event to explore AI adoption for smart edge devices. In a preliminary interview with DIGITIMES Asia, the MediaTek VP shares his insights on where the leading mobile chipmaker stands when it comes to AI deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2141507/image_800964_20918992.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support.md",
-      "title": "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support",
-      "excerpt": "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
-      "publishedDateTime": "2023-06-27T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-qualcomm-is-right-about-ai-it-requires-strong-edge-computing.md",
-      "title": "Qualcomm Is Right About AI: It Requires Strong Edge Computing",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he wants to unpack the need for strong on-device AI processing and the leadership role Qualcomm is taking on that front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0a613c6a3dfabf6aa415/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "publishedDateTime": "2023-06-27T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-11-the-benefits-of-ai-in-healthcare.md",
+      "title": "The benefits of AI in healthcare",
+      "excerpt": "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
+      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 316,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T07:31:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-the-economy-of-things-the-next-value-lever-for-telcos.md",
       "title": "The Economy of Things: the next value lever for telcos",
       "excerpt": "Over the years, the Internet of Things (IoT) has evolved into something much greater: the Economy of Things (EoT). The number of connected things surpassed the number of connected humans for the first time in 2022. The number of IoT connected devices are growing in practically every industry, and is",
@@ -1310,48 +1354,6 @@
       "topics": [
         "IBM AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-what-is-asset-reliability.md",
-      "title": "What is asset reliability?",
-      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:26:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

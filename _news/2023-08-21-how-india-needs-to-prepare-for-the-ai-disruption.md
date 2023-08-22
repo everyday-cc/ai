@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelli
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
     excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
     publishedDateTime: 2023-08-19T10:41:00Z
@@ -66,6 +82,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 15
+  - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
+    excerpt: "Amazon India launched the third edition of Machine Learning (ML) Summer School, an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon, making them industry-ready for a career in machine ..."
+    publishedDateTime: 2023-08-22T11:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school-nid-224893-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 15
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/rwodxzTU.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "cLAsHpgSaJVrOgjKBIyhhAIebUTbTtk/HLXtCQB3J9lh4KpiPorXZiwyy1CvpXQPbdCcBmxJ4Aca0UH0x7Ls6RkoCfymwuvjq/jC6I3e7+bv/oguOn+OYVKyhfnTHIdmyGfhNXIu0qbyWsLq86XixN11y3X4UWoWaEzblSZOs4ke7xxZUIublE13YSYJFxjRcVD4r8otV3kbHkkK/IxeqUeOBZHxAMJo25yuWaisbp7pkGuDLS+rWV63qM0aLgEW/veIPHQx6xQLZ9k8OjrZp5aXhIE8b0so6sx50mGxThX2ZtYlfn2JedKfHVUQYmM57QRtrFmcihFO2+2ej0mmDqIR/4I7TtdxU9dBaD9Vpcc=;I1CZe2SPp+FsZ+lu46hmeA=="
 ---

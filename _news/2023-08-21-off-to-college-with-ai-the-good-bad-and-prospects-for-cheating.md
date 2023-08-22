@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
+    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
+    publishedDateTime: 2023-08-18T16:19:00Z
+    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "4PIrgw2vlKtLTf4zJ+U0gwkZq/roNEuGlQ8TI9kPJaOR5b61wzv7soypz/O4k7oLTaxDIruhomz0xuW3LJLnMaCJ/h2K0H+cV7RFDK4w14v+nPt4Y32BcdEbOPvKkky0VCy0ZA8rL8kBNk6El7rRu/wKIdxRXaQn2n+McZwfhzj6th483mg3tRXPa9Nh3TNat/bVVK4VMrDoSklSEPoFnFksbY31jEwbqbKRSdwKBgqgLJhYGQQrkV2Mp4otPv6/5qQBg1dATs0ADVL7gHVvWNupMimbmMhFhZUAfABExTgDAL6FmUTn2qxdXhZvpTjKEPrvaXSQg1zjNchmjKC21UjDy1taJL3Z1fOV5aT0/wFvrRjOHCObcHFP8pInyNznFOHGE+82bDKnoKa/nhKZThh6RrYs6ksGSkZJyTsJgi+5sV2qxzrxNim/ImOw36dz1YkiBoCLXpESUoNvnTLoBqDmsY/8wv3uH0t8XiqRbikMrknTXFa7hDjkjY0YKYhxFXBWMApaVD8UEPv/t1dfVg==;J3lgmQcHy6EIL3/X07SkNA=="
 ---

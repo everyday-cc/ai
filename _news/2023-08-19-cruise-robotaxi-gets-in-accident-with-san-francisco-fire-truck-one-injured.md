@@ -101,15 +101,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "San Francisco Wants Halt to Cruise, Waymo Expansion Ruling"
-    excerpt: "San Francisco asked California regulators Aug. 16 to halt its approval of Cruise’s and Waymo’s unrestricted commercial expansion in the city, arguing the city “will suffer serious harm.”"
-    publishedDateTime: 2023-08-17T17:50:00Z
-    webUrl: "https://www.ttnews.com/articles/san-francisco-cruise-waymo"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 19
   - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
     excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
     publishedDateTime: 2023-08-21T19:32:00Z

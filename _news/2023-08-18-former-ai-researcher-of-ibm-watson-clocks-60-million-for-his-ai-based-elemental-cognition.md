@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "The scientist behind IBM Watson has raised $60 million for his AI startup in New York"
-    excerpt: "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing."
-    publishedDateTime: 2023-08-17T18:32:00Z
-    webUrl: "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
+  - title: "IBM Watsonx to use generative AI to translate COBOL code into Java"
+    excerpt: "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle."
+    publishedDateTime: 2023-08-22T10:53:00Z
+    webUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
-        width: 2766
-        height: 1844
+      - url: "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 803
+        isCached: true
+  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
+    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
+    publishedDateTime: 2023-08-21T11:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
+    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "IBM unveils AI-based watsonx Code Assistant for Z for developers"
     excerpt: "IBM has announced watsonx Code Assistant for Z, an AI-assisted product. This development is expected to enable translation of COBOL to Java on IBM Z and can enhance developer productivity on the platform. Reportedly, this product will be available in Q4, 2023, and is being designed to help accelerate COBOL application modernization."
@@ -59,51 +89,93 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
-    excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
-    publishedDateTime: 2023-08-18T14:10:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
+    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 72
+      name: CRN
+      domain: crn.com
+    quality: 71
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-headed-by-the-former-CEO-of-IBM-Watson-raises-USD-60M.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Elemental Cognition, led by IBM Watson’s former CEO, raises USD 60 million"
-    excerpt: "Elemental Cognition Inc., an AI startup founded by David Ferrucci, the former head of the team that created IBM Watson, has raised USD 60M in new funding."
-    publishedDateTime: 2023-08-21T10:36:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/"
+  - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
+    excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-code-assistant/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 72
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/IBM-Cobol-to-Java-translation-1.png"
+        width: 729
+        height: 432
         isCached: true
-  - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
-    excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
-    publishedDateTime: 2023-08-17T23:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/elemental-cognition-led-ibm-watsons-former-head-raises-60m/"
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
+        isCached: true
+  - title: "IBM Rolls Out Watsonx Generative AI Capabilities To Boost Mainframe App Modernisation"
+    excerpt: "IBM revealed that the Watsonx Code Assistant product portfolio will extend over time to address other programming languages"
+    publishedDateTime: 2023-08-22T08:14:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 67
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/nizb0sblr2xvuyv6_1692692056.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
+    excerpt: "Generative AI can help developers to more quickly assess, update, validate and test the right code, allowing them to more efficiently modernize large applications and focus on higher impact tasks. IBM is designing these capabilities to provide tooling for ..."
+    publishedDateTime: 2023-08-22T04:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
+    excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
+    publishedDateTime: 2023-08-22T04:01:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/ibms-watsonx-leverage-generative-ai-modernize-mainframe-apps/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 54
+    quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
-        width: 610
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-z16_Banner_alt.jpg"
+        width: 1920
+        height: 720
         isCached: true
   - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
     excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
@@ -119,19 +191,19 @@ related:
         width: 1160
         height: 774
         isCached: true
-  - title: "IBM Watson's Creator Raises $60M: A New Era in AI?"
-    excerpt: "Elemental Cognition, co-founded by IBM Watson's mastermind David Ferrucci, clinches nearly $60 million in a testament to the potential of next-gen AI"
-    publishedDateTime: 2023-08-18T07:35:00Z
-    webUrl: "https://yourstory.com/2023/08/elemental-cognition-ferrucci-60m-ai-funding"
+  - title: "IBM’s new generative AI product to boost mainframe application modernisation"
+    excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z. New Delhi: Tech major IBM on Tuesday announced a new generative AI-assisted product — Watsonx Code Assistant for Z, that will help enable faster translation of COBOL to Java on ‘IBM Z’ and enhances developer productivity on the platform."
+    publishedDateTime: 2023-08-22T08:58:00Z
+    webUrl: "https://telanganatoday.com/ibms-new-generative-ai-product-to-boost-mainframe-application-modernisation"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 38
     images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9ift-1692343965647.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/IBM.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
     excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
@@ -142,6 +214,24 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
+    publishedDateTime: 2023-08-18T18:52:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341165&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "LZDkeh494gQRtXJl1JGhITHubJz0u2HgkhuEBvr91PCKx25EzyT+nN2MqAMOcRikTLpgM3ykxhUTj6f598cmzfVoEPk90Pq7kYKVsDOpGSuM2YZkW9DTdJy2X+TJAXGpJtMe9poHKhxI8By9cYbBtOkBxOlyr8H6TWkofiAg6FQRE2lt0AszF1e1bkBPTh12PP4MNXFlskUhjNMoexsLPiRwTJTgh0PjJd8T9taBfretj51JXdwnV7riOY5NpQtS3czl9dZkgq8VQ+msXZxmqyyCRmCTDOAjbcIFyDKfH/srnGCh+pj9oE9TlAf+fnXegtN9/WMTNNiSCZpDdy/BvsaP+xwn4JasIgiD5WRVRf0OoMFWVGCer5r2hXQkUgRhVRZhGceWbxeA1AbsW4JyXNB60AcV/NukeK7/QcHGD007PSY11E5lhnqRY6WjDc64uJN15xlI6tisdLXJ75PjvUka8lbdH93TOQxuPxNpcJG/XaH6WIRA5rlcWhf4H6R0J3AK04ySLwDk1QSXwoh5kw==;bM3673KSEsUsN+Vj7+TV3w=="
 ---

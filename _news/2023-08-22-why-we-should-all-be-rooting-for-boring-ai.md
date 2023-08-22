@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-b
 ampWebUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000"
@@ -85,6 +86,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Si0fsWl9iEfZoPZeMIm55PWKL5f9RpsEK1WUWYR7KYvFrJ2s7lEkyozT4xivxrYxrohvYULKp+/YmCysnXoGnxMk5Gc5Nu4smSwymhlg9kwHLhsKKPULt4yNr8MMXAWIoj7D1cNQwFNTch51meJa9GHfNAiJv1QAERdTELv0x/9KEfSpZgDbzKezU1E+g1TJ2ax6ZjpfdY1CiyW0X1PMLtIMZyobDf/gBVb82Cj0UkJJyi2gORn9OM3FKBE8mOrXCX2EhXHme804jJD8QOS0tr8FyijNHKkRVhGBNGho4+E/byYLf9tp2A1uBLm/BVzSBfzA9JBxMxf7odyGOyyRx0EM5H+q/i50r10quHt/VSw=;SxDjE9AvkOqYt9qeYnELtQ=="
+secured: "8xYRLpziPbgZgbZaIY8xn50IIMfCixWf5RFQpSPcP1HZPr/uuoWP64VUtvCsxPOPzKBuTr6k5v/ej2FxB436/0oluWPo9fV8s5YP9bv9/OMXQp3MYd2w9hSOsIX1q3trStQyOHMc7I32g5iIto1Gu5MhB8X1liyzYKJLeuRgLaHRy0JuLuMom3QrL0MBpkC9sd7FQtCJbPYqRLz+xUoL4C+UVdQ7Sw0LnPi2wzNpAZAfMWnbESFaU3zy//Kf+Bo8HKP+pLzZ9WKTzStadu7By+8WU0OWLF3jyoyUG3LqVfDhKMDsyK178E6KDYNj+NIxHGN3+tUvEeWU3S4rX/qAZP5yWaWMrYm7TEuzcGeZEOip6Nuq1zEGyaW5p3mgYEPdPH9VJxU2wDITYqrhNwoLck3/Oa4bzUUnxBaMTGuHjKAXji1CDm0Lqdh9ZMAwGXfEJhCO3cgLR9w44G4qdzJf98WmFM5wffxnjxOLi5UhzYae+n2SV51C8twkuOwJW6bNHe/Ky8TzD8XG5j6vuO+Owg==;Tumk8VkpXf3kfEn8F5PDhA=="
 ---
 

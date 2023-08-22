@@ -91,15 +91,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
-  - title: "Editorial: Clear dangers of facial recognition tech used by police"
-    excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."
-    publishedDateTime: 2023-08-17T17:31:00Z
-    webUrl: "https://www.marinij.com/2023/08/17/clear-dangers-of-photo-tech-used-by-police/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 19
   - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
     excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
     publishedDateTime: 2023-08-17T19:37:00Z
@@ -119,6 +110,6 @@ related:
       domain: buffalonews.com
     quality: 9
 
-secured: "MIyuPVwqcgG0tHg1BiFUQzR4xFFl+sgLU9rDwTm1dQKKX4XD+xljeBuBFuAiuYBaYf+tcCwoWLV118Sx9YPpC9FKiz490edmRB8PmZIUnsDDGbLxDnRvtOaWt7+vtEifZ0V/qnFwrEEpHCmJNso9vnJo7AEAT62UpN55NcWP9yTa2oLGxPvuTMfAZJsYOxgkfgWlmpuALVoXyjAqk2ol/pmESjFJMSdETaVFHd2MxCuakoLtzuBHjLPQ7NBRiGJvqSKUsQJafnM8gJiwIIpB/DNAxQUElkcerK6reQcLgSIO3CruUVkUPpRGR7fZ7m1RDK9whpkFZt5kRmUaoM4iiv/z8bQd5w7qLd1heBTqSA8=;Ir+q56sWLtQbQk145EtSeA=="
+secured: "8hACYkZ6XWkGl1yD0lPvWbI5n02xfDq81Dqa813HiXhnkakADFXALfSmrxQIKqpc3KaUGxsMkGbqpC1eB4qrZF9rSBmjaaEd0n98v1Z8mCfdIZU+6UJ90/wnGTE+VFoZUmtpBX5cdMqg26z6j/D3NHgVKmav2P0WLLvlAeFjDvQhG3Vmd6gdW+gm06ifgl5DcYp6xCW02Fy+aGbTb5pM37lrw8NVCfZ6HOBrsUQSaeOC5ivzoHD/c2oYZ8UQN/6GvCsb15Q/WtMqfcyir06yXHDDAywJezEcYh5cOdqqcPpbFY242LSZI/yzp09oLSKdt2a7fdWdIe4n1fDEgH5fhzPByR2KSwTDuN5MXeJ9M49MTYEVyG+nPDDM/YBY7UNVgVQTV2buJroGexB/CGnecCTnsPP1X+K+4KBaFJu9OzTb1yxkwY473cJ1PbvePnHJ0v6VnI7jo8Pl3QIQ9dx1VOX+xZsPe0T9nxCdHaTBAyPQECdKWWHovWP9EinTsASfNJjevm1kpc1YiB5thXfu6Q==;V0XE5rSbySXe+XH8NmvvBw=="
 ---
 

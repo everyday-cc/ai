@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 159
+heat: 162
 published: true
 
 provider:

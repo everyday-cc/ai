@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T09:23:00Z
 originalUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
 webUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"

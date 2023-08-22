@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/compu
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/hong-kong"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "AI Industrial Robotics - Hong Kong"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$65m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.76%, resulting in a market volume of US$172m ..."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Robotics - Hong Kong"
+    excerpt: "Value in the AI Robotics market is projected to reach US$120m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$317m by 2030."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/hong-kong"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hong Kong Fintech Week 2023 from October 30 to November 5"
     excerpt: "Hong Kong Fintech Week 2023 is to be held in a hybrid format; physical attendees will participate but overseas attendees and"
     publishedDateTime: 2023-08-17T19:30:00Z

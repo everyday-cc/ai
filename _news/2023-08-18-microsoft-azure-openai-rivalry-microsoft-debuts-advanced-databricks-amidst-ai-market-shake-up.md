@@ -37,6 +37,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
     excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
     publishedDateTime: 2023-08-17T21:03:00Z

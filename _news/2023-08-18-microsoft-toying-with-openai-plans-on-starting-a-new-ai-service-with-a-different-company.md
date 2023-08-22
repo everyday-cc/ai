@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-o
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
 type: article
 quality: 65
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up"
     excerpt: "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ..."
     publishedDateTime: 2023-08-18T11:59:00Z

@@ -1,0 +1,45 @@
+---
+category: news
+title: "A Filing for the Biggest IPO of the Year Is Producing More AI Excitement"
+excerpt: "Japan's Softbank plans to spin off chip designer Arm, and the buzz over that deal is combining with Nvidia's coming earnings to energize the AI crowd."
+publishedDateTime: 2023-08-22T11:45:00Z
+originalUrl: "https://realmoney.thestreet.com/investing/stocks/a-filing-for-the-biggest-ipo-of-the-year-is-producing-more-ai-excitement-16131505"
+webUrl: "https://realmoney.thestreet.com/investing/stocks/a-filing-for-the-biggest-ipo-of-the-year-is-producing-more-ai-excitement-16131505"
+type: article
+quality: 38
+heat: -1
+published: false
+
+provider:
+  name: TheStreet.com
+  domain: thestreet.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/56fa8dd0-e2a7-11ed-85d3-597f3c58369a.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Arm files for Nasdaq IPO, seeking to cash in on AI boom"
+    excerpt: "Arm isn’t new to the stock market. After it was founded in 1990, it held its first IPOs on the London Stock Exchange and Nasdaq in 1998, and remained a publicly traded company until 2016, when it was acquired by SoftBank and went private."
+    publishedDateTime: 2023-08-22T01:09:00Z
+    webUrl: "https://siliconangle.com/2023/08/21/arm-files-nasdaq-ipo-seeking-cash-ai-boom/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/2c1fa490-55a5-4696-aa59-04f5fa01aa8f-1-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "2jCdkFguqmCfSNntiN8UlS+5z5dyrQwEOg0R0GFLx8UkZKbVk6Ls86LjYECbRourXbyl3RaxquKI0PFrl05/EqwVIyl0r6GsSAe/1cKNuXCp/KkPQOG2l2QLWPWjf7oOjltH5P3ufFZu/QteMHrsax8IjYmNQ1iv7xHd2iOg66HYZYn7523r0nUXsE88PwKMlmrkXZ+/2h1khjR1rVx46pt9XOav8As5gus8QKTqPXakYMc7nMoT5p5U6Bn8zmEAcNCoaWfqPuKqpQi7Vy0Wo2W4Jb6pXT8MtxGRv/Yg0aIKq2kH0H5kribsS++zSoMY1QhxPGMGmZoIslvFOA1T+b1zDVGtJm1oyldM8OYwUvU=;z0I0TtXvCajWhXLR9+AE4g=="
+---
+

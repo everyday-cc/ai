@@ -48,7 +48,7 @@ related:
     provider:
       name: TheCable
       domain: thecable.ng
-    quality: 38
+    quality: 40
     images:
       - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
         width: 1661
