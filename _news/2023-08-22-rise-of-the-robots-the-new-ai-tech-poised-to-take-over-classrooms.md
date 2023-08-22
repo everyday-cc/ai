@@ -1,0 +1,38 @@
+---
+category: news
+title: "Rise of the robots: The new AI tech poised to take over classrooms"
+excerpt: "the U.S. Department of Education emphasizes that the future of teaching with AI must start with keeping humans “in the loop.” Noting that AI does not have the broad qualities of contextual judgment that humans do, the researchers insist that for all ..."
+publishedDateTime: 2023-08-22T15:09:00Z
+originalUrl: "https://neworleanscitybusiness.com/blog/2023/08/22/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/"
+webUrl: "https://neworleanscitybusiness.com/blog/2023/08/22/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: New Orleans City Business
+  domain: neworleanscitybusiness.com
+
+topics:
+  - AI
+
+related:
+  - title: "Collaborative robots: Tackling manufacturing’s labor crunch woes"
+    excerpt: "By Ali Haj Fraj, Senior Vice President, Digital Factory, Schneider Electric   COVID-19. The war in Ukraine. Geopolitical fragmentation. Climate change. Even people with little interest in logistics are aware of what’s driving today’s supply chain challenges—with repercussions like inflation and the energy crisis."
+    publishedDateTime: 2023-08-21T05:23:00Z
+    webUrl: "https://www.thaipr.net/en/manufacturing_en/3372239"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 39
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/Cobot2-f697d3de.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+
+secured: "dC7MT2CqyHg3ZtdlWofeAQYYuQLWum7kd8H/zN+MIJ8jtKW0zI64l2eqHOvkXPqeexorxtt51QhgCR7J69H1zPQc9vRL0WUVSDYzuVIyP+9len6epMsx6kqKyROb4ssUSzIg7vCxeCrNab7Lbq3mqHtfCAJg1W5VvretaIM0GAitB0PJmwn4eHGgy14RmpORMuoJm12lOAA7hypt8wFYcuxN55TwKe6wrEAu+W/y0t16UMUfaTSqME0OwmdgodvUN56c5vsmiiLYWptgPTbZ17hXPWlBKldFISOIrafFVgMNZa1yyt15qacIvj6Qr8lxtrxUogwxGmPj7vP8XZHTFnB8ualI9eFWrXuBhYGyObqBuMhLTttd6Fo1CreuOUnsmH/pVYp2sPtmAOgjUX81NnSNmWLpXaiXaC1fKJGym6Jy1gDZ4KvzAaUBtdmg+oQl7LKv0VWAH4qQXUqGQGxGZo43+b701tlpwOKBv0CkwABGT4ff3B9RuZ7XyogZbkM7P86h/KKyE2fZ25R8uJiPTA==;o02opF3lLanKkyzXpjihkA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT boosts crypto botnet with AI-generated tweets"
+    excerpt: "ChatGPT may well revolutionize web search, streamline office chores, and remake education, but the smooth-talking chatbot has also found work as a social media crypto huckster. Researchers at Indiana University Bloomington discovered a botnet powered by ChatGPT operating on X—the social network formerly known as Twitter—in May of this year."
+    publishedDateTime: 2023-08-22T13:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/chatgpt-boosts-crypto-botnet-with-ai-generated-tweets/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Top UK university partners with AI startup to analyze crypto market"
     excerpt: "Imperial College London announced a collaboration with AI startup FluidAI to tackle major issues in the crypto market such as liquidity aggregation. Imperial College London announced a partnership with the artificial intelligence (AI) startup FluidAI on ..."
     publishedDateTime: 2023-08-21T13:57:00Z

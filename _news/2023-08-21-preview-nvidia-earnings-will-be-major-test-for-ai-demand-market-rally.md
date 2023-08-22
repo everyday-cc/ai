@@ -64,6 +64,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
+    excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
+    publishedDateTime: 2023-08-22T15:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-hits-record-high-as-ai-boom-lifts-bets-on-another-strong-forecast"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
   - title: "The Bull Market in Artificial Intelligence Is Just Getting Started: 2 Big Reasons to Buy Nvidia Stock Right Now"
     excerpt: "Customers can’t get enough of Nvidia's artificial intelligence chips. A new processor design should extend the company's AI dominance. Investors have rightfully crowned Nvidia the biggest winner ..."
     publishedDateTime: 2023-08-19T13:28:00Z
@@ -115,15 +124,24 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
-  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
-    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
-    publishedDateTime: 2023-08-17T19:47:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+  - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
+    excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
+    publishedDateTime: 2023-08-22T12:42:00Z
+    webUrl: "https://www.barrons.com/articles/arm-nvidia-ipo-stock-price-ai-chips-cf4614e4"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 33
+    quality: 19
+  - title: "NVIDIA DLSS 3.5 introduces AI-boosted Ray Reconstruction"
+    excerpt: "Alan Wake 2 and Cyberpunk 2077 will be among the first games to support NVIDIA's DLSS 3.5 update."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.shacknews.com/article/136733/nvidia-dlss-35-announced-gamescom-2023"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 19
 
 secured: "ZwWwDWa7qGMEkVsw0o+JhXY5w9wJVOXwzcRRfvL2Nl5g1kgtoffp7SXIf75GtaVyl6jhBsvfAw5iEI8Bo0HZ0gJ4Ihyc/XROE7QwdD5q14BUJkUj9huKGxJmTM42gfzg2htata3z/E8gu7Hz6+YY10m7q+ZWffz1WGUIlFoSaEc1Bov0SkO6lz9VNkBi0G0w7h2OgWbEJG8M7h13yfUlz15S5va7Vx6U6GPGoHiVN2Hnf240+COxsHpBd8WUBbDAQs9X4l3cSJif0AfhPX+CovSJYDPHh2exAnFFc1QUwGTA4h6YWfb4ARju8KcWKUeXPFZe5e5PoK6ANmqE0NUaTPYofwAHBia5Y/2Mz4pYOgFxsQ2yX7XmeZF4rfRxJTQrri5JD6qoJYKPQ/ydmkikhHf+VxTsVbpkyNgEG77XE8T80Kj91E+rUXf2ZfX/G/QACiAHPGgWr+aJaSJXMyoi0V3/ivibWdNNYD/g/Y9UIiY6TxcaIWug4lHbiTR+o1gxeBcaJHlr9K7bspvogqraaA==;e4zl1Gbiu0hd+DxXWKwnzA=="
 ---

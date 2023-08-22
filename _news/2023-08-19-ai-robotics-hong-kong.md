@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hong Kong Fintech Week 2023 from October 30 to November 5"
-    excerpt: "Hong Kong Fintech Week 2023 is to be held in a hybrid format; physical attendees will participate but overseas attendees and"
-    publishedDateTime: 2023-08-17T19:30:00Z
-    webUrl: "https://www.dailynews.lk/2023/08/18/business/81382/hong-kong-fintech-week-2023-from-october-30-to-november-5/"
-    type: article
-    provider:
-      name: Daily News
-      domain: dailynews.lk
-    quality: 4
 
 secured: "0m03+XAYot826/K4ro7eLFY3ZVaRbIxSwG18pvu8gpqVGPnXRP24+UTX8MW37ahqcA7sSG2bWkQa3CvG2B9Hk6s7xSeTdqQx6Kq/12nghWYap6JylZhoYvrnDLAPluUwkHhzPKvdjg2EZULekVUiVWSDAVgglhBw9ZJvjlZVqaM/FvzGWEvor2XwX4JhJXsmvpVjulC0GZDZtaJ2TfH0Zqw173dv3r2+IeUHtZcYcq7vHKTJX+e5QmyALxvNXHq+hTBYcoW8yFm6VtMY66PPgPZwqzZR+sFyZohZmpTvOYNVgDh1xJT8OvHwmUm6Evjz9KGk9bXPG87fBUcx9xsUfmLv3dh4eea+XuVZyHGYtrA=;0EILKsV3p8ESkQe+jyAekQ=="
 ---

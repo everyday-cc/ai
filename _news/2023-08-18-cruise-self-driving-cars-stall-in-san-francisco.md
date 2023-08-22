@@ -49,19 +49,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Self-Driving Car Gets Stuck in Freshly Poured Concrete"
-    excerpt: "Self-driving robotaxis have caused all kinds of mayhem across San Francisco, from obstructing the fire department during active blazes to running over a dog. Now, a driverless Cruise robotaxi has ..."
-    publishedDateTime: 2023-08-17T20:12:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-car-stuck-freshly-poured-concrete"
+  - title: "Passenger books an Uber, gets a self-driving car instead"
+    excerpt: "In a video taken from the backseat of the car and shared on Reddit, the driver's seat could be seen empty with the steering wheel moving on its own."
+    publishedDateTime: 2023-08-22T14:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
     images:
-      - url: "https://wp-assets.futurism.com/2023/08/self-driving-car-stuck-concrete.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Collage-Maker-22-Aug-2023-07-51-PM-2137.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ISVSXklWxTGLFRjT/bOAsh3QDpmmfF5ouOSIcGQsrtTQQuQdtpKW4ObRBuWtDwzMNvTAOxpUhN9xyeoPMic3n8La/nnxYNIz+1ypOxnn47DCzDdLDgbxMsFhOAn1piBn/9ZgZlHhiUuC4Kvon8wBlkBe6qHOfa32fIFUGmmuWXyTI2wC8gjg99zR6rrQFXf6PR7HqVUQW1WBmxXjwIrN68WrZ44ExuiT3/hJNGriT3aJxRR394JPVaUnxFEH1Tup4qhaACjdPZTQY0viB/f57Y5VehFTM/kZa8Q4DAz9XWlNd+D8B8D2eo/NUDaYFWvjT1Nk2t/3PpBfIY+K0k+ab1egHEfCE0aFyJ4YV5pGils=;f9ynplgC/OvggbAMXZ2TUw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-te
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp"
 type: article
 quality: 53
-heat: 83
+heat: 85
 published: true
 
 provider:

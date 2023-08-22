@@ -9,7 +9,7 @@ ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-af
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech LIVE: Digital Ecosystems Forum"
-    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
-    publishedDateTime: 2023-08-18T12:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+  - title: "UK retains European crown despite fintech funding slump"
+    excerpt: "The UK is still the largest market in Europe for fintech investment, despite a 57% slump in investment during H1 2023 over the same period last year"
+    publishedDateTime: 2023-08-22T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/uk-retains-european-crown-despite-fintech-funding-slump"
     type: article
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
-    quality: 4
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/f9feef1f6a1ca69ae89aaf9ecaecd101:7e6c3659acf4c86f763a0be943b6b08c/gettyimages-1159969537.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fHchA5hZp80/g2Ih4NTSXsrwKttLnFFYO+6CK27h0s6sk7YqaL6JUIZBaBX5ApdYKd5UILmJuyXE340ZwniMAnij/nXr5a66eFW4g/W0BX8SHWeP9bMzJrIeXtzURm0NWP0ym7SW4SYc1+Q5tYPPMfBsmuMBQ5RjcPE3aofK9CvHVZXONhfI9LgsjtYwt64O7/8KCWD/dFtJ8Ueh+PlfzFoEMmt8ntkvMF2H1ABB7tTmY4o7o5oB8r6nZmsGdtrPOQREv48CzqWH25lukkg3PwhjOwevQAhmE6PyX6vXjoLnWDZT70Iagp1tL6Byi15bHHYt0993Bm6PzFeoie5bqcuuHx52cmrGJ1h9uT+SO0HzF6i53mGifPERZ1GcRswWwdCUDQrN7vWfk2tLA1CXhfAYvDC0fYBFFh5kZH/uqknBYJtwsehJl/k8pGlErkK5mtZHjjLqsnkFaEBkKP/+0uro0RT0LIf2bVAndNKDrfiw1FKVJwTn5Fi1QISKsLZX5cj0vqBeDwiifODGUutkkA==;trqeYwvMBzefD9yKlUBjPw=="
 ---

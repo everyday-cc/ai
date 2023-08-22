@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
     publishedDateTime: 2023-08-18T08:48:00Z
@@ -83,6 +97,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
+    publishedDateTime: 2023-08-22T14:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "a7axsMfX9GlnrCqnFda5hWZBn57CpcdiwqHmdXcSv95TLG9EmzdFO1AwI9RrycSxJUXNlNLPboFDtab7OOIyMVYAFzqaHjrx8VJ1TkJl7eAHGcafpSFhavdnopnx8vIWNOM3KpWsur7Gj7KcPYIZa7+HL6Zj+lyH5UDptsteRNXq30Q/CYFz2L/ByFnDF05DHSLoTUVeCALTUFbgq2q/Q3ZRlneVPzExDXRjpmEnta2+bdOuwSzPWwVyMy5TT51G03LEuyOyKS6q/5X4nenBUHOOxVfuWlP6fvYgFzgqqrpDvXMRqFOjz6qmGMnJOX8V5VubaOwoeHrMu6x0UmW3AdJEihc8FBRc1A8DTV59Tb8=;6z/95hf3Z2pB3Jrw+YVIXQ=="
 ---

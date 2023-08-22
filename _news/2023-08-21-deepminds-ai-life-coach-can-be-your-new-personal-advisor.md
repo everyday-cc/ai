@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind testing ‘personal life coach’ AI tool"
-    excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
-    publishedDateTime: 2023-08-17T19:59:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google may soon roll out AI ‘personal life coach’"
     excerpt: "Google is reportedly planning to roll out a new artificial intelligence tool that provides “life advice” and acts as a “personal life coach” along with many other AI chatbots to perform tasks like writing and tutoring."
     publishedDateTime: 2023-08-18T07:44:00Z
@@ -72,43 +56,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "Google's DeepMind reportedly developing AI Tools for life advice"
-    excerpt: "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ..."
-    publishedDateTime: 2023-08-18T07:43:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 54
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google DeepMind commissioned free to use art to change AI perceptions [Gallery]"
-    excerpt: "Google DeepMind wants to change the perception that the public has about AI by offering alternative art and imagery"
-    publishedDateTime: 2023-08-21T23:43:00Z
-    webUrl: "https://9to5google.com/2023/08/21/google-deepmind-ai-art-imagery/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/google-deepmind-ai-art-imagery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
-    excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
-    publishedDateTime: 2023-08-21T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/openai-mimics-google-deepminds-agi-strategy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
 secured: "5A+pcToMX+42DA+3qZwO1sTnirLIXl/q5B6hwzuZfW5IhH2yor8tAf8BHrB/C0tLdnnlhl0AQ5HW/1h9ZeAKm8u+3ScTe+IDsdkq8O5gTyIbIYr4d3bjmmtcZ2AuuD7O2KOjBgojQt8oyWZOiP2hdyf2xmJW/yr0BlhFM1Z5Gt2T2cjQZzP8Ti3PF9XTjsqI/PNvBFqH+Vavm1JaoVCuXwyZG7CDiwtOGVt92RMoBhfWcMYs2OMf3NnVRkfnXplFQinkXr2bKN3VossyyFmxllAYv4jw0BMjBEl6F9zSFfb0kGctReBhIGrTxUiYf77CakkyYoshvcprHj5iimUukolsAOuePufnmnStnIBgdPHO7K5kTG9NcASYU70pQPAHUy6LRmbeUifTBQ8+pO9H1Y3JhqFtuiYnu0f8KT0FHMfxsS70fD3fATlToxyKxReP7OLVoSx49pFVRxtF8OXuPUEDiQbOKPai0xk5XHXZISD914ATlrcdOJANGxn2qKeqyYNloeqEafbiy8W7HxW20Q==;KsUKxUC/Z0KNJ3aonapJJw=="
 ---

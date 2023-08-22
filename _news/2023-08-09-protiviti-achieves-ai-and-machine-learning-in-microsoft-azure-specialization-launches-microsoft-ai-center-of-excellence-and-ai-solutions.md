@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
-publishedDateTime: 2023-08-09T14:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
+publishedDateTime: 2023-08-09T15:54:00Z
+originalUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
+webUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Microsoft AI
@@ -19,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize"
+    width: 924
+    height: 485
     isCached: true
 
-secured: "0NgFBMA73VO/1Tvgw4WOKoa2Lds0dQZVfvvc0FJCA9kLUhB7Kd/EmT+tpraOK9dSZf952s7Ze5D+0ExIRsbIK44xHtmDXs7091w7L6lId841binXTEYkET0B6OnOtntUAQW2leu4Q/liFtBxdrAF8HdEr3C8q8Rx/Z8AP8Oz3sV756VJu7GwKzxrDNrjxfqrfZpK0/Ea68sc38GMg418ZkMlwBRPffpl2PE0XgbnLgiemnGb0HUT+AADXp7uqzOOu/SN4SCZyk2N5++mKoDWMO+46xfojWXe5FAG++NxM1KPTpOz4vvrA8c9ZnQZdM8RoWQ+z7LGCpzTleOLgnJqBBJhbObJfxdH1v6wS1jQ8Og=;Z/s5bjstZ3+9gj98ZhhI0Q=="
+secured: "oJyp3oQgsL9dTkhjqTlS48y/k4RBuXMTzAc+1i4XNoQnSCmj/67x9rlZOiiZlUcMTRnJEFbwu7Jw5L9Q1SHFl2ak1lUnfoAv2bMvh/9bknX2xOMRZ7N3g2NVVideCPQlKFJ6bN7KxRopIhwHm+4RQ2GfXrWg8lJhePNa/5p9Wdj1DZZ6WBcShbPjZdkFKWBhOMQC3zmbov1viPrSvILaX3tbCppM3U0eQllseCJFinf/i/8xKLaMasKfs6H/j2hjEsA+DTzYmDoIgN3ugPB0AQ5ryCJu+R/OKEdXVPmmNVT6eZp6CyspGCQw4J/i7X8EZdvu/RJomJiTY/ZqOAzjn9+iT7clMX/jelZoheWUK/o=;GzOFMO8DD99HWUjft/cn4g=="
 ---
 

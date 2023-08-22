@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-ef
 webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM reports analog AI chip patterned after human brain"
+    excerpt: "Deep neural networks are generating much of the exciting progress stemming from generative AI. But their architecture relies on a configuration that is a virtual speedbump, ensuring the maximal efficiency can not be obtained."
+    publishedDateTime: 2023-08-22T14:41:00Z
+    webUrl: "https://techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ibm-reports-analog-ai.jpg"
+        width: 1782
+        height: 1614
+        isCached: true
   - title: "IBM Has Revealed an Analogue AI Chip Prototype That’s More Energy Efficient Than Contemporary GPUs, All We Know"
     excerpt: "IBM has developed a prototype of an analog AI chip that “has been tested to be as adept at computer vision AI tasks as digital counterparts” like GPU. And at that, it is much more energy efficient. In process, it uses a combination of analog in-memory ..."
     publishedDateTime: 2023-08-18T08:25:00Z

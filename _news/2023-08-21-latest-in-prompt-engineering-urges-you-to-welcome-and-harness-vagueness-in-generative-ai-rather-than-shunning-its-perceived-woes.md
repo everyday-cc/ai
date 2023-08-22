@@ -144,6 +144,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Overcoming Fear To Realize The Benefits Of Artificial Intelligence"
+    excerpt: "AI's progress should be followed closely and perhaps subject to ethical regulations over time, but seeking to delay its advancement strikes me as counterproductive."
+    publishedDateTime: 2023-08-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/overcoming-fear-to-realize-the-benefits-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "This is how generative AI will free up your time at work"
+    excerpt: "Generative AI is impacting the way people work across industries. Here's a look at how you can be a part of the revolution."
+    publishedDateTime: 2023-08-22T13:42:00Z
+    webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
     excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
     publishedDateTime: 2023-08-18T08:45:00Z
@@ -186,6 +204,15 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Generative Artificial Intelligence in Finance: Risk Considerations"
+    excerpt: "In recent years, technological advances and competitive pressures have fueled rapid adoption of artificial intelligence (AI) in the financial sector, and this adoption is set to accelerate with the recent emergence of generative AI (GenAI)."
+    publishedDateTime: 2023-08-22T13:40:00Z
+    webUrl: "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/08/18/Generative-Artificial-Intelligence-in-Finance-Risk-Considerations-537570"
+    type: article
+    provider:
+      name: International Monetary Fund
+      domain: imf.org
+    quality: 34
   - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
     excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
     publishedDateTime: 2023-08-21T15:13:00Z
@@ -199,20 +226,6 @@ related:
       - url: "https://www.hrdive.com/imgproxy/3SuKnh_OQdkJKswp_ljOKPQhVd6zPlyt4rpAB8h5k2c/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDkwNzEyNzYuanBn.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
-    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
-    publishedDateTime: 2023-08-17T21:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 29
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Designing Generative AI to Work for People with Disabilities"
     excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."

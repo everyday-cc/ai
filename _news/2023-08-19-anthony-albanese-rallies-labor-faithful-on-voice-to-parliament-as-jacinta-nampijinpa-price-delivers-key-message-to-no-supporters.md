@@ -36,6 +36,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 17
+  - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
+    excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
+    publishedDateTime: 2023-08-22T10:49:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-tipped-to-announce-voice-to-parliament-referendum-date-in-south-australia-next-week/news-story/46f99c4152790b4878a10105b4d6cb97"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 0
 
 secured: "3ybhO38Vi7yrFEx4krY87s8sljj695rt6i0O8nKMbcvkzh3sZKTnle/w0c2Tld/T8Mc1wNMgaXsIwywgKnA05cRyIwNHulbi694mCCWubrO2A6+BXb2JNdyVwAtnTxx8XVUzkW05UqMU2B9mEkvbIywgLDw/uY7FTgCfetX1NvdMjlvEImhHXSJdbKAlAn+VJIEHyQg2diPXCfAdQREvxL25QeMD/0z08DakZ+aQXy8MYV/CUugHlvN+wJ1CQc1894rf3u/afJux4jm7pk1NOOAgSh5H2zy7GSEm2bNbZLvqeTRSKc4GDytIZtBjNnI/qwNHhFYpdY0qoo7AmQUMJ1d+qcbwA3veo0uQdEzemaI=;MHSssmXPt6Fgbs2OMiNPqw=="
 ---

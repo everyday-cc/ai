@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
+    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
+    publishedDateTime: 2023-08-22T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Google Brain Researchers Launch AI Startup in Japan"
     excerpt: "Sakana AI's pivotal undertaking revolves around the development of an indigenous generative AI model, characterised by its capability to produce diverse forms of content such as text, images, code, and multimedia elements."
     publishedDateTime: 2023-08-18T09:08:00Z
@@ -39,20 +48,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-2.35.24-PM.png"
         width: 2262
         height: 1268
-        isCached: true
-  - title: "Former Google researchers launch startup to build nature-inspired neural networks"
-    excerpt: "Two prominent artificial intelligence researchers have launched a startup, Sakana AI, that aims to build a new kind of nature-inspired neural network. The Financial Times reported the startup’s launch this morning."
-    publishedDateTime: 2023-08-17T19:59:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/former-google-researchers-launch-startup-build-nature-inspired-neural-networks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/unsplash-2.png"
-        width: 1032
-        height: 580
         isCached: true
 
 secured: "u9T6F2e22Ylo29dIZjtmkZYEAVYbrPWgw4bASDy9Z2qec3GsOxLoa2mEPpexY5PvSj++kK9rfylUk9RRexb7bH2Bd4N+MgewYpBnuHPf8tX7w15A1FAPIsOtIny10/nA6QdGPaykuhExrNBRF447UpPXY9XXMEaj51r+2vF+6YSgyonOoSy4Psw1pzEL56niwz9Bpb9LxiazTvdb490wI1hOiHNHd8AMX3/Syur7Ou+UIm24CSJrAUNBioJqBX7LSPqKbjs9UG7ACKtDagatbNHl06oNETMRyq19XdBBt3uT51GxfoVTXbnYssU1tgLxsEWS+dQICdkj1xZ57ZtnZZ/qi/vEVjUuO8+HHp855N8=;pDZF+JkHkdD/Mk8SKIknFg=="

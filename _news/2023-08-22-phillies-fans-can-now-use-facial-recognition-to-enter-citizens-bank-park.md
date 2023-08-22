@@ -92,15 +92,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
-  - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
-    excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
-    publishedDateTime: 2023-08-17T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202308/us-army-tests-idemia-nss-facial-recognition-for-multi-person-in-vehicle-identification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
   - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
     excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
     publishedDateTime: 2023-08-21T11:32:00Z

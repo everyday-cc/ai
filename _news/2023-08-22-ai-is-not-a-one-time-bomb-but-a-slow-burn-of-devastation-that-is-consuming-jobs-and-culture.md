@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/aug/
 webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/aug/22/ai-is-not-a-one-time-bomb-but-a-slow-burn-of-devastation-that-is-consuming-jobs-and-culture"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Is Now a Destructive Steward of Diet Culture"
-    excerpt: "Chatbots and other types of artificial intelligence are just as biased against fat people as the rest of society. Here's why that shouldn't come as a surprise."
-    publishedDateTime: 2023-08-17T21:00:00Z
-    webUrl: "https://www.wellandgood.com/diet-culture-artificial-intelligence/"
-    ampWebUrl: "https://www.wellandgood.com/diet-culture-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/diet-culture-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Well+Good
-      domain: wellandgood.com
-    quality: 59
-    images:
-      - url: "https://www.wellandgood.com/wp-content/uploads/2023/08/WG-Editorial_AI-ChatBots-and-diet-culture_v2-1.jpg"
-        width: 1170
-        height: 676
-        isCached: true
 
 secured: "ZuWTwtVl8UR6FoZEFv7txhcmGGk2R1L6U8DG363rhdWeXOkhjShhHMOrtuquvAeRBBcocSSNVRvMmT0igmqdjoaCYmsGKuKRo5S3YwsQH5yR44wTZQzMqAtl8p6x7M1OXrX0bCO1VfyjUMxTEz97dj+EO+XtDJSYiZxWKMqa/GbdLSFFpb+PMmgTGSbP0lYwBekjTEhB6mW//q1eC4/SvPidNrOTk5qdEsx9XGeclB+2D3BjDGzwPtAb/qur6DM5KoNyRw8xUxefwkMtcPgHa07ZkuvdKMT/QFmoDJmiirl1guf967VGkJfSaptjJascVWZ73ex7q6uorUvAm7HCiRRGJglANVhNqEupdMP0eCm1BJnLE0l+Uok5cXvkYg2REpR/IzX1wp6ZxxqU7c01SoO4ai0hum2bRzPCrBsgjZa/a66U2EfMLbuCe0EcAx8pT/f35Y8A2bw2tgW6FI7aXBsL9Fqh1/9VTVS2vFYeXSXKLXX0LJ2eUazkTrOlyRwjToP72H2rl5P+jjb/F6X29w==;sKhVeWaAqve2Oxy3FH+mKg=="
 ---

@@ -73,6 +73,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
+    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
+    publishedDateTime: 2023-08-22T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
     excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
     publishedDateTime: 2023-08-19T12:05:00Z

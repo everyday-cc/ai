@@ -40,20 +40,15 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Former Google researchers launch startup to build nature-inspired neural networks"
-    excerpt: "Two prominent artificial intelligence researchers have launched a startup, Sakana AI, that aims to build a new kind of nature-inspired neural network. The Financial Times reported the startup’s launch this morning."
-    publishedDateTime: 2023-08-17T19:59:00Z
-    webUrl: "https://siliconangle.com/2023/08/17/former-google-researchers-launch-startup-build-nature-inspired-neural-networks/"
+  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
+    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
+    publishedDateTime: 2023-08-22T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/unsplash-2.png"
-        width: 1032
-        height: 580
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
 
 secured: "okpZOc/TxctYlxgMA8Ko1w46oXYFC8IXEVfSSHVnthC7I0opsKiBX1AN6IICpmqitdSepsKmvGkocTiVG/8ZJ8ejsiQ1xsVIHHkE1R2Zki4Tcdnp7NUXTlAmITR52s+Iv8vHvp4Qq4P5KgNXfXIVhFuz7Ilj5YTtQ954O+VIt1oS7JgFyblIkljaAggog+nNdKli9am77ZyeNcZ9qDeI3xyI41+Iel53nz3ncUBqYpckf2hY6ImigTZNeOWh1zhvGxXZ+Bh5azDk8rgcKC6WudAlYZ5lJz4f2GMduRUZ7KSQauWggFJqZvyekmPy4UBbR5ihSfmOd4NWzk+RSO2g8L4v2U36OoiR4iokW6a2eCQ=;QWduQQH1RbEbxnLB1uCbzA=="
 ---

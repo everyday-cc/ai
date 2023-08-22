@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hong Kong Fintech Week 2023 from October 30 to November 5"
-    excerpt: "Hong Kong Fintech Week 2023 is to be held in a hybrid format; physical attendees will participate but overseas attendees and"
-    publishedDateTime: 2023-08-17T19:30:00Z
-    webUrl: "https://www.dailynews.lk/2023/08/18/business/81382/hong-kong-fintech-week-2023-from-october-30-to-november-5/"
-    type: article
-    provider:
-      name: Daily News
-      domain: dailynews.lk
-    quality: 4
 
 secured: "P/p7NqHHLH9SOkNYPxP6FGC4THSqjyuwitvtLwzru4e6Wjfsy7gDpXFtkVXiDfR6FOuPTGhIRj7dFkR4rp79WxNUNt2PyT+edFkH/3YTZr6YMmMtAAfKVvy/c4rsiwmgRMjH6fWqD5KqdnrAzobrZy/HxE385CANLOZE9xwpDsnwX4BIIdzwIxc/jAtzppJDdDXHII2lKc9dPst19WsD0X1N1zTgjxmrD0yfvDW/dvlHAxQ2utxm9ESEYWuZgaAo5Me/qwfomKf5qnjYy8jxX5MaPguN5Z++iwod2mr3hyK/DGIKg7wa7t61J1LEZNvdRAznJLGX9882lFkGvQK7ggBsNvnS1CcwMD6/ooN3zNs=;RTvonaD+V+nDALhKiBwTtw=="
 ---

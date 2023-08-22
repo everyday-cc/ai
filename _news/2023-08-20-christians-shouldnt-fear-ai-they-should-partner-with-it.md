@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

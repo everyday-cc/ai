@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise’s self-driving taxis are causing chaos in San Francisco"
-    excerpt: "The San Francisco Municipal Transportation Agency, for example, had apparently logged almost 600 “incidents” involving autonomous cars since 2022, while the San Francisco Fire Department has tracked 55 “episodes” this year where the vehicles interfered with its attempts to fight fires and save lives by running through yellow emergency tape,"
-    publishedDateTime: 2023-08-17T19:59:00Z
-    webUrl: "https://www.popsci.com/technology/cruise-san-francisco-outside-lands/"
-    ampWebUrl: "https://www.popsci.com/technology/cruise-san-francisco-outside-lands/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/cruise-san-francisco-outside-lands/?amp"
+  - title: "A Bumpy Ride for San Francisco’s Driverless Taxis"
+    excerpt: "Autonomous vehicles scored a victory this month when state regulators approved their expansion in the city, but then the mishaps kept coming."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicles.html"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam-e1692199566142.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Cruise self-driving car, San Francisco fire truck collide"
     excerpt: "SAN FRANCISCO - A passenger in a driverless Cruise vehicle suffered injuries on Thursday after the vehicle was struck by a San Francisco fire truck that was responding to an emergency call. The collision took place at 10:23 p.m. at the intersection of Turk ..."
     publishedDateTime: 2023-08-18T20:12:00Z
@@ -56,6 +49,20 @@ related:
       - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/08/932/470/cruise-cars.png?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "The rise of driverless cars: Are they safe?"
+    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
+    publishedDateTime: 2023-08-21T23:01:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
     excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
@@ -82,22 +89,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 32
-  - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
-    excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
-    publishedDateTime: 2023-08-18T22:08:00Z
-    webUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/"
-    ampWebUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 32
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/09/car-dashboard_30940040_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 699
-        isCached: true
   - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
     excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
     publishedDateTime: 2023-08-22T03:21:00Z
@@ -112,20 +103,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
-    excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
-    publishedDateTime: 2023-08-21T19:32:00Z
-    webUrl: "https://www.cbtnews.com/california-dmv-to-investigate-cruise-self-driving-taxis-after-traffic-incidents/"
+  - title: "Here come the driverless taxis"
+    excerpt: "San Francisco finally permits a 24/7 service despite local resistance. Can autonomous carmakers now win over the world?"
+    publishedDateTime: 2023-08-18T15:34:00Z
+    webUrl: "https://www.ft.com/content/84ef1d6c-f731-4c78-a056-5bf368beac2b"
     type: article
     provider:
-      name: cbtnews
-      domain: cbtnews.com
+      name: The Financial Times
+      domain: ft.com
     quality: 19
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/13667262_081823-kgo-cruise-ax-STR-img.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "PMjE0Kr/I7J+sW5G4R4UuvvGH9u2HI4mJ5EoThQC02zirNPWqQzZQoGegu5eWzw3ISk4/g9T2P4mpXtQ6EcMxCVZwtx7uvBWksVniS7P4vokADXu6q+tfSGUrs0HuFDDYvNE9mn+vInTpmrea9lC4y+9UQjHDEvU6gzEa2Yusrm5qMLanyVCEROJ14FsVSO+k510nU2n9MdTwicLbx3xOc7Bl7Lo5nPHlhr9VHDcoV+QPQTWMednHjA/WfuEV+Ocwn4QrDhiz3J6CVGJ732BSEbjCzqytQLogZPFJ00MtYVxpGxKSk5xGa4GVmQSQVar5g7zGhFKKVhDTrXYFEvAhSvtTs9mQTh/Uf3b+V92dwXrZxlvcwTyZQXnXOdOzwkGckqihXmFN+CtICNT3++z5kArATvNqd/PnZYMySdxwtY2hjQ90LfRrrwwa6vS9ZhUU1zSIDyZJbaUiOSeUYw5HGjNODOIe3NFOg8V+tgX5+uKEE3Ohcvg/m216iqChrZI6bGgYqSLBSeas0u6qntfiw==;wv91JYFLM0SFYreLYUih+w=="
 ---

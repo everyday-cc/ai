@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT boosts crypto botnet with AI-generated tweets"
+    excerpt: "ChatGPT may well revolutionize web search, streamline office chores, and remake education, but the smooth-talking chatbot has also found work as a social media crypto huckster. Researchers at Indiana University Bloomington discovered a botnet powered by ChatGPT operating on X—the social network formerly known as Twitter—in May of this year."
+    publishedDateTime: 2023-08-22T13:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/chatgpt-boosts-crypto-botnet-with-ai-generated-tweets/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
 
 secured: "e0ZQA8UcRdXj8YIBo7R8BkQ26eTfoQDvGLBM67i4jshI9SkWChZpdexfra/0ZLDWVNQgszUAsmBdk0HCAwFLB5lCmi7D5GrX380oNCfOJ00qmb/BYTmBHDzOtmZoaablCVSXPIvWoV0r06j1IXmW4SMT4EVg/HZ1sA3HsmlWnxaHIhuMIWdf5dBT74QvD+DQB7p0ZcM4LGs1s+myLc4ldEXEOXRNTrCNxGksDDFfL1DE2NYx1MDeWfzMnWOu6mNtt55IVQKnSIv0bCwtKE4/k8C352JxrHw++n711NQHEgpMa1uPMpBrApewUHu1436+2s5cmxs5VD7JrMleKv4BgeCCRP4b+tGSt7a0JKj2fUtoj+3z3TOBz0KjSd6INXHnCgRs5oxNHHK305jkXIzsX7SPW/8kYnoWzVaRYrgVAgURHzctSSm8s4SNAkxG7Uxz/cOh47XRlJkk/qxv5FR8mfAbTlujN5431DZSDmNZ8hSSsBOwHQVMK7dQXn4yj4e9hZi2Pj5ZsYBPLS6r6BcAsg==;pAEJ4HKCDc/jH3vcajudpg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "Rise of the robots: The new AI tech poised to take over classrooms"
+    excerpt: "the U.S. Department of Education emphasizes that the future of teaching with AI must start with keeping humans “in the loop.” Noting that AI does not have the broad qualities of contextual judgment that humans do, the researchers insist that for all ..."
+    publishedDateTime: 2023-08-22T15:09:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/22/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 17
+
 secured: "OrMPKRPttRSVTt2mrNVaBsXD+y8Ftlfm0ZFM65ue+yT55Oy0I1NpvDT1DAWCa9VzC98nkLKy8hQxs7+lUR3oG+boozm33wgxHaHutElvvfb0TEAFIWySYBO8JHtgOI6vs8RiaqCuoGqULEZLSTpuG0bKqQ53MobTEx+W+yfSwhx8BFMMo9/tEX9SCkPD/wlIfe9/T3e/P+RoXZRSX7HuaCe/xfPEeKbjrBgA7sPtJVESx2e4AxzXVQFN9stnXxbauf9BzwPz8Kw6FpeiNhqv6psI/GnpE060NrEA+k6/E/hcFNV4ztL4vKTT8KQFrF+xUeRXZcvHd8gHL+LU6llnjYJv99lGAGbKKO80myd27KkyMrOWNlIS8sNKtLi2q3sN3FUppAa3jiiLKQ7kfA5j1cS5W63JyJpWRPdupzIrAiBGlLekNcosj3TS1CWH401maGJJkI3kpl0fb4WoQuZ/LoHlFtwFIgiylt9hfOcm4ZLSivGw7/uZ1ACW39ee2RW/armj/Q8R6POWHZ8Hx8vWmw==;y8IqnIy75HLJ0sa3apXJ6A=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
     publishedDateTime: 2023-08-19T04:39:00Z
@@ -83,6 +97,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
+    publishedDateTime: 2023-08-22T14:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "E19sOUjDm5li0dup3HDU0aeTBVXZu2seP8xn1OZS7TsdBN9ymK9aJ+2mZRbCJnjlw1nZM+nT9s3vZYQy/5zecBrWXH3WSiIiR1PoBkrjMFE1JAEZWcYGYY4hh2BjDxS/Txx0dexaK2VqzvfxuL9ugRYyibA27RuONCvF4wqTk5NyhWRWqNTgZjLjRABuzAuFbwNyMGkclWMputHVu47/mdMULgdqjHFGEswp2QDeVQKQklyd2mM5u0+4AuAxB9IqFWkOQjuoTjveBQyxVUd2owxFlIls9qWlvbdWvB9y9jSI7ewXjxqcw29n5QrSkBw5DXJS+4a4JtwofJ4Rwt/6bm06D7P0pnn6y8X0CadWjO8=;/xsVVXvPGRPTY/8PO0vpYA=="
 ---

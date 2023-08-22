@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-underva
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "These Are the ONLY 7 AI Stocks to Consider in August 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Navigating the vast ocean of investment opportunities, the quest for the best"
+    publishedDateTime: 2023-08-22T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/these-are-the-only-7-ai-stocks-to-consider-in-august-2023-1032573142"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
     excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
     publishedDateTime: 2023-08-22T04:45:00Z

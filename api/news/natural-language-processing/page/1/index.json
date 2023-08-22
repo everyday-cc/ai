@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-22-meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages.md",
+      "title": "Meta releases an AI model that can transcribe and translate close to 100 languages",
+      "excerpt": "Meta has created an AI model, SeamlessM4T, that can translate and transcribe close to 100 languages across text and speech. Available in open source along with SeamlessAlign, a new translation data set, Meta claims that SeamlessM4T represents a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
       "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
       "excerpt": "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -50,7 +93,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -159,7 +203,7 @@
       "originalUrl": "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1376,49 +1420,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-the-rise-of-artificial-intelligence-ai-in-grc-trends-and-use-cases.md",
-      "title": "The Rise of Artificial Intelligence (AI) in GRC: Trends and Use Cases",
-      "excerpt": "Emerging developments in AI, Machine Learning, Natural Language Processing, Automation, and More – Where Does it All Fit Inside the World of GRC? AI-driven technology has been making headlines for breakthroughs as well as breakdowns lately (like ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15913_1741.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
         "images": null,
         "publishers": null,
         "authors": null

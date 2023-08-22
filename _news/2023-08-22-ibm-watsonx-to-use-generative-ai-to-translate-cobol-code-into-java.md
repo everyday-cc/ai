@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative
 ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
-quality: 104
-heat: 254
+quality: 121
+heat: 281
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70"
@@ -76,20 +77,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-22T141328.772.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
     excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
@@ -195,6 +182,15 @@ related:
         width: 1160
         height: 774
         isCached: true
+  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
+    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
+    publishedDateTime: 2023-08-22T13:18:00Z
+    webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
   - title: "IBM’s new generative AI product to boost mainframe application modernisation"
     excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z. New Delhi: Tech major IBM on Tuesday announced a new generative AI-assisted product — Watsonx Code Assistant for Z, that will help enable faster translation of COBOL to Java on ‘IBM Z’ and enhances developer productivity on the platform."
     publishedDateTime: 2023-08-22T08:58:00Z
@@ -236,7 +232,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
+  - title: "IBM trains its LLM to read, rewrite COBOL apps"
+    excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
+    publishedDateTime: 2023-08-22T12:23:00Z
+    webUrl: "https://www.ciodive.com/news/IBM-COBOL-AI-watsonx/691395/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 19
 
-secured: "ZXvN4ilknaT0Lq+LDeJTHewKXp7ETt8fXILMrXwYuaV7WK+6GmQVGqhEC6BC8ufhBc4g9oUUZnQAd9o4BQbBxuMdShA++hn7aJeECSH36iplhCnYJll+eqXZAcJUM+Tpn54BFkDLSpEbli9foou6UNt0YHhic5Z2yVXNp9XNnh+LuI6iiXbcVllBxQo1jWhzIGtmmWycwAixkAjSF4n8RFBjYkOJjk2dJZguB+WG55Ut75zr+Y9DE76E1GhaDJdRDb9FQzWw7ipMjMspr1TEXLe7W6D61W7Ioq3Sg9ONUsZjM/X7MUUcVcv9hyiAG8LSBUPPOkeVEHL+bxM20CDe0bfIgPk/3Lj/dfyHW0oTrBc=;Lg22X2/38hxBPz+T52yFqw=="
+secured: "H2PsGcxrhAIsMAycVmxQtG9y+bxHQ29vnnrYgZFHHa7ZFVLdc6HpfNWVJ+9Hq6PGOQJqW1CgXCaKves/E37Bs/CbPPGzUVUlggiUffYvl7kKdCfWFczPJaDERLUnwvC9fLZSvvwyU3zfb0WRDGMuhCwZMhJDsCW0+3D5naVWjNrgY0ul5fIlBnXTRItuz07RWVPoOzY8c5Z4KfUvwQSx8FbAnbt8/Wp9BROrdSIvrxTS1xI7t7dcN9tOT89SrKG+iN4lPBDudgzZV+7TX/QfqSbPYwlRH8aLDfPN+T+Xq9he9ZnOz9slItJbF1Y4Rd+g1uNI/MNl0rCNW043e97nRJyMV2A7my4keHaWioumZtcy/U4jI1RQ7gm0TUsPEnwfkXS0P6bunZ/RjIUYUYGf/LrBKLI1cre7UKm4PixlVk5PZJB8FulrFP4CFLoGTH0ZRG9Rx6vGwiH6NHtma+lYCgL68pPnIU69tjG+cn1Xh+7XGIg4MHKow/pWhAczAhIYDfvmhl+WndAmsdZeiWeQQw==;Whh2PSUSGtCAQ3pt0t9z3A=="
 ---
 

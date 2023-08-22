@@ -52,6 +52,15 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
+    excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
+    publishedDateTime: 2023-08-22T13:57:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-arm-s-ipo-ai-chips-nvidia-brsk-48293/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 34
 
 secured: "FO04yNqLFG0thFieTEt4qb0mgoSIcKTw1lICOak4kLRD7b0qZQWRBisUXKQoHiiEAEx09QrjgL4CQn34hgmM7tmq563nGTRFqOV+NG6G4KqCItJS3VDLHXhz1J9zgxvPj+lz9DxMoqbtFoVuLDfn7eYUz49B753QVn7z3ffy8RTUbuqA5HWN+tFFnOlGExVWknsNfMO8jrvXx2wK5ZHjs1qGsrHi4F8qAed1OyK/l0UugWu8dFc5gOQ5j6DnMkYL69muQhrmwKUi9ku7gQV9ZJFwm43Vh+istKf98rcX7xzrw37iEERc7H9eJvKDhpCpllgr5LwmZLJXpKmoWI4hGVKc+VAALOloFurIyk1tQjM=;/SfU+1UtoXzlAlMtGRWmiA=="
 ---

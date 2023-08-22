@@ -91,6 +91,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "The AI Judge: Should Code Decide Your Fate?"
+    excerpt: "AI emerged in 2023 as the most potent technology the legal world has ever seen. Perhaps more startling is the rapidity with which it is improving, prompting at least one expert to use the term \"compounding exponential\" progress to describe anticipated future advancements."
+    publishedDateTime: 2023-08-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/22/the-ai-judge-should-code-decide-your-fate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI-generated art can't be copyrighted, US court rules"
     excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
     publishedDateTime: 2023-08-20T15:57:00Z

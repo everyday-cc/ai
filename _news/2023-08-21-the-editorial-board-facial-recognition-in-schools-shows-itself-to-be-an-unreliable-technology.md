@@ -100,15 +100,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
-  - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
-    excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
-    publishedDateTime: 2023-08-17T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202308/us-army-tests-idemia-nss-facial-recognition-for-multi-person-in-vehicle-identification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "3ogiTvpAqjavBgIkGRgMmuDmwhc4i8zRdIvXLJE2VOQw1Spmmwi6Jlrcki5rNlDMEFi3DlCsMRfnjBrxxd5gKcQgZ89FB6rfV2bEPmhha6IyAgt8zuvBoKdmKbgeaYfj544N4Kw0nZi1dZ43kfpY/5kXgLbEIKOodGP7hSOrPFiOrpmXs220ZS9KPdtMxVr3ZIDf6R/BAf867jba3TZ1Jp3W1mUklfIZdFJ9bHwgELresjx/B/butSh83VKI9DdOUUkGCd8QyaTs/sfy4EDGKqJu8QoNRXAk7hcBZSNticcRLCBmwhQCbcwnrlWbtbC6TJVA97SisgfpPwWFJvsqTneNjlc12z2kasnfT8Xst7E5LVXKC5NFOCPcYiu32KHhqm1kCm5hlp2foyXlyYprrqXSTZZ/sUCAu0eUcxOOnarwGmjlCXC60tigwBvUiz1+yAItmKZZm5zqMlLYUhO1b5tH7LQ7A4BpC9OP7ZQ8sSSrlLU9utk8m9YOmDanYt7uAHyi7emtD7xZ3HxvjvUeZQ==;kLlaGdaglkmmsvPP/LfzvQ=="
 ---

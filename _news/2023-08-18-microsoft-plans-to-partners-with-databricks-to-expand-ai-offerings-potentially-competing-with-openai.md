@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Epic, Microsoft expand partnership to accelerate generative AI in healthcare"
+    excerpt: "Epic and Microsoft announced on Tuesday an expanded collaboration focused on integrating generative artificial intelligence tools in ... is intended to speed the development of AI tools in healthcare, bringing the technology as “quickly as possible ..."
+    publishedDateTime: 2023-08-22T15:13:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-epic-generative-ai-partnership/691505/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 68
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/i6TwXMDqR2-SwpYLbQVAMHZ7RenE-M2CAeuYj2kIA9I/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNjI3ODA5NTRfcVlwU3JLSi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
     excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
     publishedDateTime: 2023-08-18T06:53:00Z
@@ -40,40 +54,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
         width: 640
         height: 362
-        isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
-    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
-    publishedDateTime: 2023-08-17T21:43:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up"
-    excerpt: "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ..."
-    publishedDateTime: 2023-08-18T11:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33910068"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-    publishedDateTime: 2023-08-17T21:03:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 54
-    images:
-      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
         isCached: true
   - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
     excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
@@ -103,47 +83,33 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
-    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
-    publishedDateTime: 2023-08-18T16:01:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102840813"
+  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
+    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
+    publishedDateTime: 2023-08-21T10:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 53
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102840813,imgsize-78380,width-1200,height=765,overlay-ettelecom/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
-  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
-    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
-    publishedDateTime: 2023-08-19T08:00:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102853447"
+  - title: "Epic, Microsoft add new AI capabilities to EHR software"
+    excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
+    publishedDateTime: 2023-08-22T14:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-microsoft-add-new-ai-capabilities-to-ehr-software.html"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 53
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102853447,imgsize-78380,width-1200,height=765,overlay-etbrandequity/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
-    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
-    publishedDateTime: 2023-08-18T05:15:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
@@ -154,6 +120,61 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
+  - title: "Microsoft adds partnerships with energy companies, Aramco and Petronas, to drive innovation and sustainability"
+    excerpt: "Microsoft has collaborated with Aramco and Petronas, two prominent energy industry companies, in two projects to drive innovation forward."
+    publishedDateTime: 2023-08-21T14:41:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-adds-partnerships-with-energy-companies-aramco-and-petronas-to-drive-innovation-and-sustainability/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 34
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Windows-Aramco-Petronas-1.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "New York's largest health system is pushing into generative AI with help from a former Amazon exec and a $100 million venture partnership"
+    excerpt: "Northwell Health and the startup studio Aegis Ventures are working on AI tools to help rescue doctors from a mountain of paperwork."
+    publishedDateTime: 2023-08-22T10:00:00Z
+    webUrl: "https://www.businessinsider.com/northwell-health-generative-ai-strategy-ascertain-aegis-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://i.insider.com/64dfc5c3b698ac0019dcd2cd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
+    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
+    publishedDateTime: 2023-08-22T13:35:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 29
+  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
+    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
+    publishedDateTime: 2023-08-21T13:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
+    publishedDateTime: 2023-08-22T04:22:00Z
+    webUrl: "https://www.inferse.com/686087/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "4gftD6S6boD0ss3vqUzKwKueGOApokugsAk2F9fFeq8PJHA13YvNYxb0DkgmLcMGZw/54Mt/yXDsNQn6OFEG5ZFq1+8FV/e7bd8BOs5JhYqgQGfWBsQY39QJu7q9Mc1XkbIw8HKX3jVldn7lGbA0ex7wIu+rbPT3F4EJ8b63S7dIDeqxZpRytCXQf+XtIN1Klpd1emsLa0hwzAvP/FMmOyfqeAH2SmgAOx9KNlig90EuUdJV+qnOl8Ty8zZO6qMiONLLrqgjLTZddN3kNEV9flkEepVaSakyDY+Etl1l7R7JuVO9RQllKRHlL1N0/qx88fYVITIiffOJZM395B6/t7r6wtCdqwx+++Q4a+uFS7KCRRdymh835XtikRLLZXKLIprEWpv49jmVMLi8HTdiUi/o4bHAyusJqeha2Ry+UEeiYbZTIXLaCSowwUVy31aPTMdRp2WBYsWdMdWFY8GV3kqjn2PK6fJ4jCrDB59tZokaQE+Cfxp5NnAOXYHju9aYbx7pIKfmI2GRzVh7Oeyeog==;AK92pmltmTZWIJpR86Oznw=="
 ---

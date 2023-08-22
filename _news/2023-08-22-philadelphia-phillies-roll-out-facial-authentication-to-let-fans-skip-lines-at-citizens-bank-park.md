@@ -9,7 +9,7 @@ ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-facial-recognition-ticket
 cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-facial-recognition-tickets-to-citizens-bank-park-face-scanner/13681053/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works"
-    excerpt: "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday."
-    publishedDateTime: 2023-08-17T20:40:00Z
-    webUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-    ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 65
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Philadelphia Phillies lead off facial recognition access pilot for big league baseball"
     excerpt: "The Philadelphia Phillies of Major League Baseball (MLB) are launching contactless, ticketless stadium entry with facial recognition."
     publishedDateTime: 2023-08-18T17:11:00Z

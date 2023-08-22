@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence, AWS: What Amazon Investors Are Watching For When E-Commerce Giant Reports Q2 Earnings"
-excerpt: "Investors and analysts are focusing on the company’s efforts in artificial intelligence (AI) in light of this year ... including Amazon Web Services (AWS), will come under close scrutiny after the print. AWS' growth rate — which contributed nearly ..."
-publishedDateTime: 2023-08-02T19:44:00Z
-originalUrl: "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664"
-webUrl: "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664"
-ampWebUrl: "https://m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1"
-cdnAmpWebUrl: "https://m-uk-investing-com.cdn.ampproject.org/c/s/m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1"
+excerpt: "Several factors, including Amazon Web Services (AWS) and commentary on AI ... are focusing on the company’s efforts in artificial intelligence (AI) in light of this year’s AI boom."
+publishedDateTime: 2023-08-03T02:57:00Z
+originalUrl: "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2"
+webUrl: "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2"
+ampWebUrl: "https://www.benzinga.com/amp/content/33529224"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33529224"
 type: article
 
 provider:
-  name: Investing
-  domain: investing.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/news/LYNXNPEC121BH_L.jpg"
-    width: 800
-    height: 533
+  - url: "https://cdn.benzinga.com/files/images/story/2023/Moenchengladbach,,Germany,-,25,January,2019:,Amazon,Logo,At,The.jpeg?width=1200&height=800&fit=crop"
+    width: 896
+    height: 597
     isCached: true
 
-secured: "5WHrN7fJ9m+5K587LXJ+oST0pwz0N9e7ZIMkVnjHysBQM7K/Yfe/yKI2KhbWrNAC1qkHc+k/rNctyuQpLgbwUWvlv/8UADPRa3Fyrt07xDc9daYDvZpJ/rMcz3KhZHtFtgc4zBHI+mNmCyOy3Zg+zcKcyb6k+Gl7OdYE5LMuhHVyu/knaAO3BD90vjW0SzMWCvyIiUbrd0RMdnzhFAlsDPPLEVA9Bwuup2PHaVUIxfDIhd6dHNXp4yBPU/ewwB3S+zGZs76MsWm389joeM1KmM2qnpmH3LaJWvoQIHNljBBqhG839EmTWqX/MxILTW+1mCHGSGV0ecdp9uKqfqNaTH6SSXgp3rNl2MY74xw8xl0=;Dm70kXQhKNrPjS48Lh+JzQ=="
+secured: "cEBD+EEWrDpB6IUrSq8qJEjXMf2EbLx3kNaXSoYOdXbj5eFRmq2UoD7XntnPLzcwQPQvnHhzaAjS1jh28KwcVx0k0LIbKnfFe6ZV+5KeaH5TfwxJpwiDVjx+uB9EcXCqFBlXTOe6+Jt7WSNK5JQynvgkPWuD8GHYJ3q7xzfzWPg8grfnCutV/PqXPX4ozrBDXp8GDnn1AZ1WVDA2TmXFEc40mOhiW/3YveXcDB9Bg172mrfTPqi/BfVuaL1Csr6Et+7bVX9ac4Lv5MKqEWVhmpSm3F8edcD64cJZsry2KkUAVmbxRshSnXApgqi0FD4NFuKqtfjnPcFuKgQDc8ta40mpAy+v3Nq+BYEEpLX9lmg=;RCy8+kaAf+0A/Z1HrL6+8Q=="
 ---
 

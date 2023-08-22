@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-t
 webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
 type: article
 quality: 67
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
+    excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
+    publishedDateTime: 2023-08-22T15:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-hits-record-high-as-ai-boom-lifts-bets-on-another-strong-forecast"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
   - title: "The Bull Market in Artificial Intelligence Is Just Getting Started: 2 Big Reasons to Buy Nvidia Stock Right Now"
     excerpt: "Customers can’t get enough of Nvidia's artificial intelligence chips. A new processor design should extend the company's AI dominance. Investors have rightfully crowned Nvidia the biggest winner ..."
     publishedDateTime: 2023-08-19T13:28:00Z
@@ -120,15 +129,24 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
-  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
-    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
-    publishedDateTime: 2023-08-17T19:47:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+  - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
+    excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
+    publishedDateTime: 2023-08-22T12:42:00Z
+    webUrl: "https://www.barrons.com/articles/arm-nvidia-ipo-stock-price-ai-chips-cf4614e4"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 33
+    quality: 19
+  - title: "NVIDIA DLSS 3.5 introduces AI-boosted Ray Reconstruction"
+    excerpt: "Alan Wake 2 and Cyberpunk 2077 will be among the first games to support NVIDIA's DLSS 3.5 update."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.shacknews.com/article/136733/nvidia-dlss-35-announced-gamescom-2023"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 19
 
 secured: "QPN5ehqQ7g2M8gAGcH3AxuQ5amSe/SzX7ua+sQ0Jm9A4rV1ZUpMY5vwfz71+EFNwINMlfJaHPXVVo4OTBy5DunRMEF4TS7tIlYz9jUOIBbVQKkfCm4eGrSUqi/aA4xVtbJ/DMDrxTK6xvFKRUjH5gUTJk2WHtNOwn1OpdSMNCbe5QWH/OVOOyU15g4ioIiatEjM+nwgrg2V8EPhHkMhppYRjJoeHgOaX3CwsFNCDh8jhbV4dFQIhM3QF1GTYu2YFC2TiPFijjXXhwdEhBy06HCTtjZ4/mi15V0OAXruotW3MyS0yOqH8us041px7zns4XPR/7AiQszFA6oFOTidrjCnE2FRUS5QUk4yppDRjRbY=;ttwdNCOvtfLiizQFBuDDVQ=="
 ---

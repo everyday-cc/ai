@@ -73,6 +73,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
+    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
+    publishedDateTime: 2023-08-22T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "India to expand digital payments with AI-powered voice transactions"
     excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
     publishedDateTime: 2023-08-20T02:00:00Z
@@ -97,6 +106,6 @@ related:
       domain: analyticsindiamag.com
     quality: 15
 
-secured: "YQ6RS7B/FY6uDH9ivfZk6Ga4pEXfW9jEfJxz47j7iIHEbAP7uO2wf2h24sN8zIne0IjcH84TzFesCl1R/k8/mJ0YliJ413GY9x0Bv7eCixDXvpnqXJ9i5CT0jMlMNK1YpvIi2dwTkzAtOkd03cHVEegWsLi3qTuEHZSf8iTZxbZeIBBQiCwMp4IP4hRiKm0jaKJ0QceMBEBcydvMspgv4tMh4fvjbf5XtpjutHbq9nWLIzaQMoG3f5RvdT5XAI1cslNvLOZQbjxmHdYDg/Yh2RHL2NoKD7hEYVxxcpNiegnrIt25DG8jBijew6+5mwTrEWvyRNOe8mLJNyTa2yORmiB5gBX7NHVlmrCSkMifoBE=;ufKWiSR0gBPXeBZU9NZbQQ=="
+secured: "bRTt3pJX6TxVACPFEn+mGxW7RWBpacKrgcBFAckvtqSKTC+4tMc8FB5ro4iV4Mc2qRHS3LxzdTV/Yzy+0iB0HO5tS4tDfR6h6ZNUFcKVhAk57U3i5c6AHQ4cPsulJtTYOpVtYQP6mNdIi34FTWaH0yBx1dZ5v1sK6KaRxQn30KiOz42y8nVdkdSr6Y2tsgWtdVO+OaW3EyVHYlJC87L9q2vvQNEkZjwt4FjNBZFIY/8t8/OCKeOQFcZU7bjIg4t/Bt0nd+TJzmbA9YgpqWQDL38949wt4G5GD2YM2/YJWfuA2mAYPK16ytkVcuSswQrfa9DzaIPSP7hDfIyTP5XGUoF5mFVcjLX1ZXKnyZ6Vh+D2HccjbF+9XvBVd9NXYuo+Q7UTiwf9eh7iXo5Uxst5M1femBsp6QzBcv9KyvrwAEg309qElo2pGIft8AjtbWvz6eT9G5nDdUnqRx8avVvExT8HSSQqGqQhU0DbSOD08aO4oAhfKOP28em2kd7nPW9+m+Chwbht1Eu6WgfNxVV/yQ==;vMPIyoJvLlCgoCroJ3FnyA=="
 ---
 

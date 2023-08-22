@@ -62,20 +62,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "ChatGPT is a Glorified Tape Recorder"
-    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
-    publishedDateTime: 2023-08-17T21:13:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 26
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Kaku_Michi.jpeg"
-        width: 1200
-        height: 1800
-        isCached: true
   - title: "Google Gemini challenges ChatGPT"
     excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
     publishedDateTime: 2023-08-18T01:36:00Z
@@ -89,6 +75,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
+    excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."
+    publishedDateTime: 2023-08-22T15:16:00Z
+    webUrl: "https://www.inferse.com/687129/how-chatgpt-kicked-off-an-a-i-arms-race-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1285.png"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "+aGPA8k778l8euYz6KS6g0xmT/2DT2oHPGfHpYltJ/CyEbWLVGJdtdXErUzXBkJc4f1qcljHhlwdFGaw4uordyxGovknVSVqfX/njFJ4L/2pDfnQYPQ8+AUBt+AVbYuJ4x5YKMGKSPlHb0OAe0K9VWOdjJMawhYaaMPKBXsJW483wii1XDBJJhaszD4Jr5ClarNWidEgWVbNVKaITigo5xA5Mqd8kKacuhNw4wZrJpCD//ib9Y6vRVzwH6xJas5gKmY6NCn8BLk73hwRdFua+Bijw0Eul9OjaFsQ+f5BtZa/iM8FXu0IV5qj72UST73RYJ7nqUrZ0IwCkRWsRRqurerIfLQBuOnwD3bjacPrtrEpKzD+1dy9iQWmgwKVAQRK9G7EC/cc9LcXqhWcKl1NsXfkWTRFsD3EIFCb0fQabIwmHQjpmP8FQsj/I4C1OZrLpHvQRoO7y5poSD5biHHcjsZncDRWhPBnzoa3juBcu3xS9fnru0KywHR13kfyONJe+ck4ezRdqj7TC6exLS27BQ==;Jys1nJdx9ZvgjpruPN0xlg=="

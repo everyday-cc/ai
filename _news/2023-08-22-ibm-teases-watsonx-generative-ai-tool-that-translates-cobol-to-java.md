@@ -2,11 +2,11 @@
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
 excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-publishedDateTime: 2023-08-22T04:01:00Z
-originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+publishedDateTime: 2023-08-22T13:18:00Z
+originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
@@ -19,12 +19,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-    width: 600
-    height: 450
-    isCached: true
-
 related:
   - title: "IBM Watsonx to use generative AI to translate COBOL code into Java"
     excerpt: "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle."
@@ -36,7 +30,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 121
     images:
       - url: "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70"
         width: 1200
@@ -233,7 +227,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 21
+  - title: "IBM trains its LLM to read, rewrite COBOL apps"
+    excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
+    publishedDateTime: 2023-08-22T12:23:00Z
+    webUrl: "https://www.ciodive.com/news/IBM-COBOL-AI-watsonx/691395/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 19
 
-secured: "GSXGgz72zHIja2liXFJaDD+k+DJ8C5Uxz4j7dicZ0OSefeEvE06/QT/7XdbzUeX9+ELv1eZy8nfkBJ5EivqXIW7ip/CiMjfrvxcr6XMLiaaaKTYch/tvCkVOWmmFDjNOfMe+ORI/GdkVMumuu6FKhIT6BmyyTKAOFNUM7+Fg8jovxyo6mOim1Mur8PARbfzU2LGdKwTm6iE1xbhMEzWI9MIrPbpS7LJvD3kuelEF9LucnVMyLX7GZDSXW5X7MN+4pJ9qreR/VreJlOveMpOuyJy+dNFocjB+Y6HK55N2S2GLU2oPofGMnuqf6qdaHc45leV82l9zzeZkogB6JnamWpjjvX2MX0L9HAxU0kJvq4khXA1i/RtUkbfYwkCRCKHLTpBHVzzlWNej+SnGu84sv39xSNpDyms4Ut+ZvlkCWOam4dXQ91FjuW7/m9DxKxEsFU4MwRl8uW3Wg9Vbrw7Ktq1OQSisIB/A7RPoF/7ZbTGiDdFKbLkkpLOyhYqeS3xyS/aXWj1AVLjymjzaTmBmCw==;L7/jjxbCgGr4O4Iqfj8/BQ=="
+secured: "jxWr6lEr1DYGZz7YLUzaJbmYZw9dh/AQBqsjwPjOZarFIQgoYlhEjhHUzA1MZ8XNZG92vUa35WRWmTX0s5ugu+O3qz4uYtoDXF67Kj8ZIO46btxtnUvCBwR3bMn31ZUSQ9lWsPbmrD7Lf2dBbAWsodVTjLqhe+J1u6qVevxUZppUUl49c44rfxTAzx1TwLbMNoKFjMDVakq5Pl4x76WC7GkY75LoerHSAblWdXSq/piFfFwI6B61Bi4zNvG4JxqsjNRMZooJ4licdgc/z/xQAMwV7BdamcBAMKYk4o+UzsGzkFE3MGh0d86zh1OJz1Y+A4oRX1noqU3POSU+zv2NjsvhTHlGj2F5z/BI+3fhVST8FEht/lDp8vgA57FLsOazKdrB/tnc4eITfgAdcxP1R/sRRLE28jJlg2yVVNzeb9hP9v3dUhxpQ1S4IoHqSGb9kJG44jHKaeoWpyY1T+Cpuo3a81pVUmB2DtSFP0CUOyumn/B7rmT4LDBWPo2ccR8yn7izu1toWBS+Xam/7H9vQA==;WEawV5waTLknuwHbrDJNbQ=="
 ---
 

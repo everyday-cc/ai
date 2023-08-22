@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "These Are the ONLY 7 AI Stocks to Consider in August 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Navigating the vast ocean of investment opportunities, the quest for the best"
+    publishedDateTime: 2023-08-22T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/these-are-the-only-7-ai-stocks-to-consider-in-august-2023-1032573142"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The 3 Most Undervalued Autonomous Driving Stocks to Buy Now: August 2023"
     excerpt: "The post The 3 Most Undervalued Autonomous Driving Stocks to Buy Now: August 2023 appeared first on InvestorPlace."
     publishedDateTime: 2023-08-18T13:37:00Z
@@ -44,6 +53,6 @@ related:
       domain: nasdaq.com
     quality: 33
 
-secured: "1AtF3Lr7hRA2jt35IcfhdacTpqqLLbq5AtmtYnPxeHfMXdLBEpNGuEjvyPXcN2oKGRNbcaKb8PAiaawKQ9WO/z2TYH3kcRxS5flUUm6HEaVX4F/3nHx7beh9VlIvQIgffh3zG3BActXNCkAZwyyaGk6NK9u2xQNRbmddaeYpYu5JXI4vEVHxw/mY9J/mIImsgDCsu3UhyNabJy+NQH1Cg4STYWfJCIX6S1HHTMBZXZkk0UWw4POC24uXQzoFPZRaU7eYrTp/nHq1hx2mhrB/o/jPFdNO1Z4ICAW7JphKo624noIP/TJGhSk6A99NwRJXQOJonaKZx8zCOAYjMUzJ6GXyw8dHQ30A4Mank7nCxIc=;XJqw1F8jLQt0sOqoy8OpXg=="
+secured: "nUM+m9gKPdf7lSIW1/JL2P0fsuyRARt4cYVG5SS/MEM7JxWzQgl1hyYhENuEt7HU8B4AKIfcY3KXowyVqn4vFYIUsyXDEzVsB5Vuovf6urI12c21b2IKi2B7eUkgkR3iEPPE4pwsPU2ILSIf6BzjSKaH6l/zo2cZB1/r3gJ/0MXJyIdlPvzKwHoyG4fpcTAmHxHUMzyBtCJ0O1DloXC1ygIppiyD++QnPZc7N9QpCtl+5gCspEYZp9PKh2t60/Tj2EB4frfGGUnJynUeQ78FgaUX3AQTeP/NCE1oIg111qeseYUSqFjsP53msd/8Nz2AKtz1Z5umXyPXHb084VzhqjfoqMnT/9S1g949EnI3tB8=;1WF69tsyAI/JmUrMOSuBbw=="
 ---
 

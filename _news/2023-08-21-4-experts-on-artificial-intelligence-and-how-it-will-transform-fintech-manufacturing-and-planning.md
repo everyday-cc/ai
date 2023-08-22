@@ -25,20 +25,87 @@ images:
     isCached: true
 
 related:
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 711
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
+    publishedDateTime: 2023-08-18T08:48:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-investment-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
+    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
+    publishedDateTime: 2023-08-18T15:15:00Z
+    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Fintech and venture capital investment into Ireland declines by more than 15%"
+    excerpt: "Report by KPMG finds economic and geo-political issues have led to 6th consecutive quarter of declining global VC investment"
+    publishedDateTime: 2023-08-18T03:01:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/08/18/fintech-and-venture-capital-investment-into-ireland-declines-by-more-than-15/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
+    images:
+      - url: "https://www.irishtimes.com/resizer/t1tPkprry6pUFzAJfMMDcKjgrnw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TMD5M6CNXBC7JK7GCCHLG45SBY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
+    publishedDateTime: 2023-08-22T14:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "cztN95TudKO/O7sqESxfBG81QnULEB8ZnxaZKd6m2ZB3JJ8lSnSj4yDmESzEEPcDrwgRDLVA3nyoVFwjEvJusiYRCqbhWNjpJ6rC1RAA+iNGGOUG08HtrwOexH6wLECLqCQhvws6x4VGJGSRsI9v5KT5t6cwOBfZjManJOM8J5+R/GNa4FWYqiepENha8A48fEGg/5bEpoPV7b2mfvzSTsxQfQA24IypSzJv1f6VTXg2b4FPZKV3+fih+MRCJqld0HCySBwXE+63dmRqszOEwpqPOwYmYkFoDX1+mTJ3n5+/TNN20aJj693Fd4T69K0kQQg3N0OYkO4X+w+ld33faTdtzdYiRhRtecpi+tgHDIH7jp8XHDK54Oithd3bpf9Vhjm1T4gFxaW9Kj0U37Fxn9BOiPfzbhp/v7FJD9pCdBdHnijyTwj5AqMvQQKcBnyvWZOnNCpo5PBSlEp1hc1ZIHojID+j7iU8/igvpwj/kB4gHqN2esVGphxjqcXKrDrRqmzRURnXpSPsm48qbei23A==;tbGKYVPkdt7xqv9lIB6PUg=="
 ---

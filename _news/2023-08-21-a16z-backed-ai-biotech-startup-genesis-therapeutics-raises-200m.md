@@ -76,6 +76,15 @@ related:
       name: ENDPOINTS NEWS
       domain: endpts.com
     quality: 13
+  - title: "AI drug discovery company Genesis Therapeutics scores $200 million in new funding"
+    excerpt: "A Stanford University spinout, promising a new era of AI-guided drug discovery ... Genesis has no clinical data – in fact, it’s not officially saying yet when it will even start clinical trials, let alone which conditions it is targeting – but ..."
+    publishedDateTime: 2023-08-22T15:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/22/genesis-therapeutics-200-million-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "whatbrLne4CWMBHLRwwmZeJxr/laK9OeIQoIgTXh6kOr26NTObgz2PSH4zSietKJyCWlOYqbCwkYpyuujq5mYcBnrJ2KT1aWxtfvMg7Fi514LJlkoIKkWdHSnky2qqRgBwlutZpk+FtPEZ9FOIe+UAJLzQiEVHfdViWu9GB9RCJIOc/lEFfbDuG8oNg7Enf6M+ffZbetomXpKCym9IenL5tBR74gI9/+RuF0SHtm8pGo57S2gGhtbU+fzwbb0gvjdVZxPaDajwvJ3dFu04ixpGN5g963ZyPRo/iCJvkBIS4T0tOlgek2uDViK+DqKo7x8CUdkRL5FyTVea6h4zo+ckhjh1dUtikRycs0k8xEbq6m10J6FBldoBlp2EgxIRpE8/rug/ATAedY7UpN2kFdMBsYno9QEhcxhSMkNEcU0cjW189pPwE/NjcjIdvi7r464haDoXIQ+ZAMIOThnKLBUjQM6azOih7b6h80HMJ5hGaHwRSS4QapBYYGO7lItyE6MDrNPAjwIbpliznoSP3qJg==;pcuhlhrrto/M4mnfGBG4TQ=="
 ---
