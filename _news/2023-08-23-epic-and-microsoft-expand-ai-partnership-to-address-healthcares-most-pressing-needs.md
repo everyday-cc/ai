@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
 type: article
 quality: 113
-heat: 203
+heat: 195
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://www.healthcaredive.com/imgproxy/i6TwXMDqR2-SwpYLbQVAMHZ7RenE-M2CAeuYj2kIA9I/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNjI3ODA5NTRfcVlwU3JLSi5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
-    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
-    publishedDateTime: 2023-08-18T06:53:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 65
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
-        width: 640
-        height: 362
         isCached: true
   - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
     excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"

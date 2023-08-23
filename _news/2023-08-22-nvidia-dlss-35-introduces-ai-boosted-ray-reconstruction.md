@@ -33,21 +33,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "VMware, Nvidia team on enterprise-grade AI platform"
-    excerpt: "VMware Private AI Foundation with Nvidia will enable enterprises to customize models and run generative AI applications on their own infrastructure in their data centers, at the edge, and in their clouds."
-    publishedDateTime: 2023-08-22T16:56:00Z
-    webUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.html"
-    ampWebUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+  - title: "Nvidia shares hit all-time high as chipmaker dominates AI market"
+    excerpt: "Rising bets that Nvidia’s revenue target will once again surpass Wall Street estimates lift the stock about 19% from two-month low"
+    publishedDateTime: 2023-08-22T16:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 61
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/c446e34e469bb311d1bcedff852daa784b411b37/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=6b96b0090ed13f2560176b0767798731"
+        width: 620
+        height: 372
         isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
@@ -113,20 +113,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "The AI hype means Nvidia is making shiploads of cash"
-    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
-    publishedDateTime: 2023-08-18T06:11:00Z
-    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
-        width: 1187
-        height: 667
-        isCached: true
   - title: "AI buzz on company earnings calls goes silent in regulatory filings"
     excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
     publishedDateTime: 2023-08-22T04:00:00Z
@@ -140,34 +126,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
-        isCached: true
-  - title: "VMware, Nvidia target businesses that want their own AI"
-    excerpt: "VMware Inc on Tuesday said it has developed a new set of software tools in partnership with Nvidia Corp aimed at businesses which want to develop generative artificial intelligence in their own data centers rather than the cloud."
-    publishedDateTime: 2023-08-22T16:33:00Z
-    webUrl: "https://www.aol.com/news/vmware-nvidia-target-businesses-want-163300618.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/1eed3cc5502d6bfffb39ebfc031bcb16"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
-    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
-    publishedDateTime: 2023-08-22T21:38:00Z
-    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
-        width: 1000
-        height: 550
         isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
@@ -186,15 +144,6 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 19
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
-    publishedDateTime: 2023-08-22T19:08:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
 
 secured: "dNMwttd1wuc4uUTc72ewyfgbIhn4YsRghDI6pVpA8wikZ4FduzY+b/bVMK1CSaJ33Vpj/EYC0zEp/TYkz7b1btYWdimFttd1cOQQbMpGUWemgNaKKo3xVLiHyqym0tbB29dgguaAowSAZjMoOm/bLAQTRn/yEolOWkE9wqBxDO8aAkWIMLaDy0ndimKh605hw7CYekL1MpOT96HaVEYOZpkTLnhgX1Z75PqtXH80gRQE3SKJBIc+UyKycETBDa7q4Gv0tOPSh7zbOzmB7NMY3jiOlYlADLNa9vcesEPrwKTgEJdRRlMcE3WIddD0k5gmRY1LWu1RWILfEwzIIsRCPWwCDJtWfD3nxQSP2Ij1VyCn4+LOfN5vdlynXQOIxZPp8ChwYUG0smdhwL41N6y1NMDWooZ88KmM9gI1oNm80HD400iIedpXwGFVw7potUUt4CJmU79moKa+Dc77g+3ZRqFjsy7epHFp9QLZw4UjRJyaDfS56A9xJv00k5zhMnOrMiW7bQ6ygux35+YBO6yuUQ==;k4C5t9i64oDzTAztal006A=="

@@ -137,6 +137,20 @@ related:
         width: 1867
         height: 1280
         isCached: true
+  - title: "Meta Releases AI to Translate Dozens of Languages Using Speech and Text"
+    excerpt: "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from speech or text in up to 100 languages and generate translation in either mode of communication."
+    publishedDateTime: 2023-08-22T20:50:00Z
+    webUrl: "https://gizmodo.com.au/2023/08/meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/1e1a0f03db5318c6ee689ba8646ed173.jpg?quality=75"
+        width: 1543
+        height: 867
+        isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "‘SeamlessM4T’ supports speech recognition for nearly 100 languages, speech-to-text translation for nearly 100 input and output languages, speech-to-speech translation, supporting nearly 100 input languages and 36 (including English) output languages ..."
     publishedDateTime: 2023-08-22T14:36:00Z
@@ -200,6 +214,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "TenyvTbC9Uv9Sj0cp/1pz4YQaxt7FRQVG+rK5oYDUDgQ7HHcH/T9c5V3+RSL6JX2ahRMY9xxzX41L5K8oKn2F1arRLGkm1O7v9xbL0i5i+inwIP6xGwPZc/b6IfFEWzqDcYo4hWMfEp3+5u6MiahmS4tlNg0GBS3z++lbHGbD4/g8egauIPolzg0RSt3z227IpivkTuRPTiM8LtL6AmUGUEAZFIebjAbiFTt1gC2wCHryWGtLLSe3SjiZFFLWZG8Kd0ywOZL3IcZabQuVR2lb0zowPFUW45Fodxsdvolm8NRBwohNKbD+0satbrE+QCU+0cDQ8lb9vAL0ykasQFpERr0/WU/V7VYun41xiNRK6Q=;OWi7Vz0M9NQHOE6oCdNDLg=="
+secured: "KkIlhCiCrakkgUZKcdHcmJLs1IhgW0zklAw9jjIk2iI4lOMyYjo840wTZGz085Wu1SDjqVCY9BHZl5bu3wsZrMx8bMtC7ko2aTd9nA0jZzz4xFz8y5/IdCzjh90o4ouLpN7dMBuaeds7bOpkY1DLOuvD5LvpBG5/aLcWbhLt7BYIHkB9VVHFyPf078ahAYhVm6Csc9R+0zCUVy+cd1wSg25uEOe1eILVkTuffLQS+CDf+Uud4aQBTCh+TOYfJ9szvRSrjQAcCpnyBmuH2h33at3dLF7inw5VQodKGfK+mqRcVWTdC8Z4wdGTrxrwH5LkddHAHX/8yPzcK35efY8xpBaEeVhyjqiHZeXFRuSVxsFT/bUs4CFTXfIikcLeAd9YXHwWlLS/loIi62FtazINQJbNrNzZ/9jcpwsyDyWVmICNXAGgVA5WPGgykdbB7ZTcpx7s0pDg/k4QM/RUxTNH22sAZL3jV+fTGPMuq1zIKAOnxU+RSgJmAkT9sxhQeRCOimFPGGAfPD3vnpoGNd6tFg==;wRzdZQOkdQqtk1zIyS/JdA=="
 ---
 

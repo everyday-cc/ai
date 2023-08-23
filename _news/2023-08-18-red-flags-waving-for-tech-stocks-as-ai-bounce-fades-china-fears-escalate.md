@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/red-flags-waving-for-tech-stoc
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
 type: article
 quality: 86
-heat: 98
+heat: 96
 published: true
 
 provider:

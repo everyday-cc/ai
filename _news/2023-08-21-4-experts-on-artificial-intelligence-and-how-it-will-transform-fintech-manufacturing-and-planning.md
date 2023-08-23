@@ -100,7 +100,7 @@ related:
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
     publishedDateTime: 2023-08-22T14:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-named-us-fintech-awards-2023-finalist-two-/2023/08/22/9868268.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
     type: article
     provider:
       name: TMCnet

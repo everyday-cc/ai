@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
+    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
+    publishedDateTime: 2023-08-22T23:54:00Z
+    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 27
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision - Hong Kong"
     excerpt: "Value in the Computer Vision market is projected to reach US$162m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.32%, resulting in a market volume of US$439m by 2030."
     publishedDateTime: 2023-08-19T14:09:00Z

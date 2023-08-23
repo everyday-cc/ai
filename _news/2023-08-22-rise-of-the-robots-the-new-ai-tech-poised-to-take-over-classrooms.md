@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Collaborative robots: Tackling manufacturing’s labor crunch woes"
-    excerpt: "By Ali Haj Fraj, Senior Vice President, Digital Factory, Schneider Electric   COVID-19. The war in Ukraine. Geopolitical fragmentation. Climate change. Even people with little interest in logistics are aware of what’s driving today’s supply chain challenges—with repercussions like inflation and the energy crisis."
-    publishedDateTime: 2023-08-21T05:23:00Z
-    webUrl: "https://www.thaipr.net/en/manufacturing_en/3372239"
+  - title: "AI Robots Poised to Take Over English Language Instruction for Young Students"
+    excerpt: "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language."
+    publishedDateTime: 2023-08-22T23:00:00Z
+    webUrl: "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/"
+    ampWebUrl: "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1"
+    cdnAmpWebUrl: "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 39
+      name: Bill McEwen
+      domain: gvwire.com
+    quality: 71
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/Cobot2-f697d3de.jpg"
-        width: 1024
-        height: 768
+      - url: "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/08/22112132/AP368756065526814-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "dC7MT2CqyHg3ZtdlWofeAQYYuQLWum7kd8H/zN+MIJ8jtKW0zI64l2eqHOvkXPqeexorxtt51QhgCR7J69H1zPQc9vRL0WUVSDYzuVIyP+9len6epMsx6kqKyROb4ssUSzIg7vCxeCrNab7Lbq3mqHtfCAJg1W5VvretaIM0GAitB0PJmwn4eHGgy14RmpORMuoJm12lOAA7hypt8wFYcuxN55TwKe6wrEAu+W/y0t16UMUfaTSqME0OwmdgodvUN56c5vsmiiLYWptgPTbZ17hXPWlBKldFISOIrafFVgMNZa1yyt15qacIvj6Qr8lxtrxUogwxGmPj7vP8XZHTFnB8ualI9eFWrXuBhYGyObqBuMhLTttd6Fo1CreuOUnsmH/pVYp2sPtmAOgjUX81NnSNmWLpXaiXaC1fKJGym6Jy1gDZ4KvzAaUBtdmg+oQl7LKv0VWAH4qQXUqGQGxGZo43+b701tlpwOKBv0CkwABGT4ff3B9RuZ7XyogZbkM7P86h/KKyE2fZ25R8uJiPTA==;o02opF3lLanKkyzXpjihkA=="

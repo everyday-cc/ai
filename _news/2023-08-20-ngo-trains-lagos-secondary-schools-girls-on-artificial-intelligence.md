@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-g
 cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:

@@ -149,6 +149,20 @@ related:
         width: 1867
         height: 1280
         isCached: true
+  - title: "Meta Releases AI to Translate Dozens of Languages Using Speech and Text"
+    excerpt: "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from speech or text in up to 100 languages and generate translation in either mode of communication."
+    publishedDateTime: 2023-08-22T20:50:00Z
+    webUrl: "https://gizmodo.com.au/2023/08/meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/1e1a0f03db5318c6ee689ba8646ed173.jpg?quality=75"
+        width: 1543
+        height: 867
+        isCached: true
   - title: "Meta's new AI translation model performs speech and text translations for up to 100 languages"
     excerpt: "Read more about Meta's new AI translation model performs speech and text translations for up to 100 languages on"
     publishedDateTime: 2023-08-22T15:56:00Z

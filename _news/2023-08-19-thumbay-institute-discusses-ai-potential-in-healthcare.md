@@ -7,7 +7,7 @@ originalUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-a
 webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/22/USAT/70653244007-docus-image-1-1.jpg?auto=webp&crop=1199,677,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Study shows potential for generative AI to increase access and efficiency in healthcare"
+    excerpt: "The large-language model (LLM) artificial intelligence chatbot performed equally well in ... are occurring at a fast pace and transforming many industries, including health care. But the capacity of LLMs to assist in the full scope of clinical care has ..."
+    publishedDateTime: 2023-08-22T23:30:00Z
+    webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Conclave discusses role of artificial intelligence in healthcare sector"
     excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"

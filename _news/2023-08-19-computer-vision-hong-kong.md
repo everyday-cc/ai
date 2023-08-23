@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
+    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
+    publishedDateTime: 2023-08-22T23:54:00Z
+    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 27
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dQJbgDIZ3VOYhLxxYNaVbGIgoo3HLQo/Ng2qsib0WdO27SiFsZ0dkFXZw6j7wt0h0xXHNbNhzrl96ISxQVTJYVNkU5ifLF6qSfXG8XaxjjQ+xdGedYuVSaiQ1DQ2K+L6WWwyxnIq9URZiERkdCijAL0O3rxtUwmTh/L16EZMRftiF90uZx4KwYGvMlpdpaJNuc7PFpLmvJQKKZPWkdvyVTQ8txsFOOnmdyYgy2mafLIc0b4SehH0RQLsUtcQKcRdUV1aPxgUYeZxCQqQVQOjGhZWa1qcRPzdt93s6Fie0FgzdqPBBI+uxTKDF3dPgAcq+2sOCxTH2V8RfEqCQaFjkvTuvHHBcJLo2nxXTgrwYj8=;QJJr3JAFTMllc24aGIqOsQ=="
 ---

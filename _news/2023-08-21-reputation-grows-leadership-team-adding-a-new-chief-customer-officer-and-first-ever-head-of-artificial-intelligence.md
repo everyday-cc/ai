@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/the-wire/reputation-grows-leadership-team-
 webUrl: "https://www.cmswire.com/the-wire/reputation-grows-leadership-team-adding-a-new-chief-customer-officer-and-first-ever-head-of-artificial-intelligence/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Why Every Company Needs A Chief AI Officer"
-    excerpt: "Unveiling the pivotal role of a Chief AI Officer, this article delves into why businesses, regardless of size or industry, must embed AI in their core strategy."
-    publishedDateTime: 2023-08-18T06:31:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/18/why-every-company-needs-a-chief-ai-officer/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/18/why-every-company-needs-a-chief-ai-officer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/18/why-every-company-needs-a-chief-ai-officer/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df0fea37d171311ec712f4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "OOXfc+UTCy1WF5mcHsg+K7QQ7YFIg57p/ESzcyiIrmV344DmXPsU4aKlmmlkkBPcJJ4oIuFsHE1/MP4EwnTfKxzsJGP23QnmSxKtbVZlrYkaiwB+GJMQTqjr1F7gZK5sUiGqkhEFCcHoXK4Ld5k1iolqgXbqalieoeKJZ+l4LadGaqeHy8rOYfkXpN3yFdYvoO57TIeSak5LFcqmEW6m6zXGS4FGHERRRS+zp18fWk+U6wQBIkkuNNotKPCYMSRTFRJ88mZvvRQdSG6Ztb6nJAd5b12E7VQOvRr1cGfJc/7RCgyGIZMUyCkWHocsYuR504s8zkAECfctDq/oeeYeitNUlMbUb89ArQczR8oCtS8=;bi9/OCzobjR5i0hGTwYFiQ=="
 ---

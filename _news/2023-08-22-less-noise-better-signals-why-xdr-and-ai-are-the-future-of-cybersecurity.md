@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr
 webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
 type: article
 quality: 65
-heat: 75
+heat: 77
 published: true
 
 provider:

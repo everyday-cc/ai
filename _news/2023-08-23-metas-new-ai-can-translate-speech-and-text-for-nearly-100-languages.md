@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/metas-new-ai-can-t
 webUrl: "https://www.cnet.com/tech/services-and-software/metas-new-ai-can-translate-speech-and-text-for-nearly-100-languages/"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://static.toiimg.com/photo/msid-102953819/102953819.jpg"
         width: 1867
         height: 1280
+        isCached: true
+  - title: "Meta Releases AI to Translate Dozens of Languages Using Speech and Text"
+    excerpt: "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from speech or text in up to 100 languages and generate translation in either mode of communication."
+    publishedDateTime: 2023-08-22T20:50:00Z
+    webUrl: "https://gizmodo.com.au/2023/08/meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/1e1a0f03db5318c6ee689ba8646ed173.jpg?quality=75"
+        width: 1543
+        height: 867
         isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "‘SeamlessM4T’ supports speech recognition for nearly 100 languages, speech-to-text translation for nearly 100 input and output languages, speech-to-speech translation, supporting nearly 100 input languages and 36 (including English) output languages ..."

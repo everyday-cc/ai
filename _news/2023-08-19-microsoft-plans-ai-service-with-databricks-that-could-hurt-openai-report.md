@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
-    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
-    publishedDateTime: 2023-08-18T05:15:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "IMiJKGLDnwd3FHBxnorkXQFzF5i88GMoFCu9unq2Fe6T5ubtxWX5mVNRUP6nEtxMgeBOcDnymrBWWsoW1SJ1hz7XoV1rLHapOo71wj820VNB4jHEmg+63W1q9zHwt0FAaPmYZF1OXbUt6al8t8e5gjv4OCdupit4Tp3G4kEZLITCNoZjkG9+O5Gpp8S0riIewca/f4g58JCWH2D4p4OJlU3esF3mGNjWmX8YtYxxHuUTlo1V1LQc5oEKaBH9nOniXcbjKhOuq85wjZb7pvcL/WK0ln40o40e5p4s8kgVN5Hrtf1swcdeEXJHgvXh8MP+N/vE+GKgFa/wsln1/QnUYLClidqHJlzzuaz8fPo2Ymw=;IeoV513oJckaLH4mmH11pA=="
 ---
