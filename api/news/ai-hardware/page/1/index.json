@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-23-mediatek-powered-flagship-phones-will-get-on-device-ai-support-in-2024.md",
+      "title": "MediaTek-powered flagship phones will get on-device AI support in 2024",
+      "excerpt": "The company is working with Meta to offer the Llama 2 large language model for on-device AI capabilities. It adds that the first phones with this chip will be available by the end of the year. The Taiwanese chipmaker revealed that it’s working with Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/",
+      "originalUrl": "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Mediatek-Dimensity-9200-back-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-gartner-claims-revenue-from-ai-chips-to-reach-us53b-this-year.md",
       "title": "Gartner claims revenue from AI chips to reach US$53b this year",
       "excerpt": "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20.",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1353,58 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-what-nvidias-new-superchip-means-for-the-future-of-ai.md",
-      "title": "What NVIDIA’s New Superchip Means for the Future of AI",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg",
-          "width": 917,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

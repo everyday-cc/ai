@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-22-intel-gives-details-on-future-ai-chips-as-it-shifts-strategy.md",
+      "title": "Intel gives details on future AI chips as it shifts strategy",
+      "excerpt": "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3",
+          "width": 810,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
       "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
       "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
@@ -1370,58 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-nvidias-ai-chips-will-help-power-these-5-industries-for-years-to-come.md",
-      "title": "Nvidia's AI Chips Will Help Power These 5 Industries for Years to Come",
-      "excerpt": "Nvidia is the world leader in advanced semiconductor chips known as GPUs. The company has leaned into AI, developing hardware and software platforms for customers. Nvidia is poised to grow by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731598/artificial-intelligence-ai-data-deep-processing-2.jpg",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

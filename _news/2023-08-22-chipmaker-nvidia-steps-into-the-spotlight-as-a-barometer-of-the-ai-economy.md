@@ -7,7 +7,7 @@ originalUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/
 webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Billionaire David Tepper Boosts His Stake in Nvidia by 580%. Is Buying the High-Flying AI Stock a Smart Move?"
-    excerpt: "Many retail investors closely follow the stocks that Buffett buys. It could be helpful to pay attention to what Tepper does, too. The billionaire hedge fund manager recently boosted his stake in Nvidia ( NVDA -0.33%) by a whopping 580%. Is buying this high-flying AI stock a smart move?"
-    publishedDateTime: 2023-08-18T09:51:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/18/billionaire-david-tepper-boosts-stake-in-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 50
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744366/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
   - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
     excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
     publishedDateTime: 2023-08-21T13:00:00Z

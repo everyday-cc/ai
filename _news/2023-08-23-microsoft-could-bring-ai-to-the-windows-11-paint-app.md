@@ -85,20 +85,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
-    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
-    publishedDateTime: 2023-08-18T10:15:00Z
-    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Epic, Microsoft add new AI capabilities to EHR software"
     excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
     publishedDateTime: 2023-08-22T14:23:00Z
@@ -146,6 +132,6 @@ related:
       domain: kansascity.com
     quality: 29
 
-secured: "4rsDY5vK3lfe84alz9UPdudT7imlH08vP3FZ5vYJqvYfgKxJN6mVEr0+veTUj4j/uSvlFJGD7BGbpBEIsTCIs7agwky0wYGBmjgofS4H+Jdu1qTsi2Z7Z1gWgXyyEPKohMPKCI1tHhd2N/WV6k9YNZMyCJZkVgTPQrwBUNlWoMtAdCRwlItJftJdI7T2QY62SemH11pGJU9QjD2CXCDpvz+iuwbfocEATjelBxnirxuWr7sFD1kIPB1bsdh/BediXvXLMtk0qdL0eVjOG2Z7RgmQUWz1yCvejiantmOFE0CCojjj4F1hGsWztu7pdMPVytAuvNrCJZaNg4xQk04ea/LfH0e0/ODYzvzIIjbZrzo=;H1TqyEhQea96dcA92V5pWg=="
+secured: "zPfXjCoyTbeDwYtKpko93ho9hORy8yQ1c+zwVDb3fYYzj1KlXlL06ksJBJ+So0dEP/nMfhuSemTUU3aUJG1Izgtyo6rpgd/anhgctYs8ahOCNvqwzeNx78YPSzRSkVd5gsCHyyDGdkB4qFDkvlXFzNMdIT0hSY35YLyEFza6s60fTiMRpsCdHjCIYgmXlRfm7dN5w2O5ftiZDYsKkZ6pPkbutca5gUAOmwMxxnjbFTZzYJTDUq+4WLoXZezO/8n85/3KUzoSiL0dLHu+WCYUWviQOA+QbFffK8AshMGV/noE338xsxTnLz26xldwBQun4zocNfOb2g7yxzGiyv6COexGEXo5MjU3W9ya1WOg+hV4oTahtRGy0cszzMeizyFNuQqPVIeAU7ygc04tZGZLMOrDum8p6rKOMFVc/TmPjDg2ah6XY4bjrgI6BOds965n8kBwu3WzS86VOn7OH9xZpbMF5tKVyNCSZUIQ6DbDVYxlroGi3r4pjAOGKMGzaimNJxXVpCbsYY61QB41jKTuiQ==;NGU16wKlukN+Tk8m3uGBVQ=="
 ---
 

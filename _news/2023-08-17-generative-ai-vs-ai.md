@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew-generative-ai-vs-ai.png"

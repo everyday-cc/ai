@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T20:05:00Z
 originalUrl: "https://venturebeat.com/ai/meet-seamlessm4t-the-meta-ai-model-that-can-translate-100-languages-into-speech-or-text/"
 webUrl: "https://venturebeat.com/ai/meet-seamlessm4t-the-meta-ai-model-that-can-translate-100-languages-into-speech-or-text/"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all"

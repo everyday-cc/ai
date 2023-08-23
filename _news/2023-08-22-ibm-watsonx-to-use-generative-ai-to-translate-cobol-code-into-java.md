@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
 quality: 121
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/nizb0sblr2xvuyv6_1692692056.jpeg"
         width: 768
         height: 439
-        isCached: true
-  - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
-    excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
-    publishedDateTime: 2023-08-18T09:53:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 64
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-18T151428.383.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
     excerpt: "Generative AI can help developers to more quickly assess, update, validate and test the right code, allowing them to more efficiently modernize large applications and focus on higher impact tasks. IBM is designing these capabilities to provide tooling for ..."

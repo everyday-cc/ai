@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
 type: article
 quality: 113
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.healthcaredive.com/imgproxy/i6TwXMDqR2-SwpYLbQVAMHZ7RenE-M2CAeuYj2kIA9I/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNjI3ODA5NTRfcVlwU3JLSi5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
-    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
-    publishedDateTime: 2023-08-18T10:15:00Z
-    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
-        width: 1500
-        height: 800
         isCached: true
   - title: "Epic, Microsoft add new AI capabilities to EHR software"
     excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."

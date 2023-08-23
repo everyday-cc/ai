@@ -85,20 +85,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
-    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
-    publishedDateTime: 2023-08-18T10:15:00Z
-    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Microsoft could bring AI to the Windows 11 Paint app"
     excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
     publishedDateTime: 2023-08-23T01:03:00Z

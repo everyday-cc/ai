@@ -49,7 +49,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all"
         width: 1200
@@ -226,6 +226,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "8HvJdL614vFS4J5oyvzXBe9UQqTKULOGzVaT8UkbGyiSk6eHsYUuSTZZ5hpzDxDtQRalfsZa4J7PAnvlPIlEfMZ2QLQ3A5jxvn9s5pGZddGe4n4luAIxpS2/c3q3k5Kny1aFbb6UfKVD6zi4B7xmSErx6or1fkW6ZeQWLHJ/KMAaIIkFIKl8nXVCGcbF1cStPH0PiHFfqSkgevN3tEC6ahT/eUSEX8dref3Z6K0NrqMUS/Il8G5xJgHHVkVPxo8kqsp/aLRhNDeP5Yjiz8n/6w1Q5zqZzXgaZZN5fv58fssazrB8PD/Nm2AJwpHhj1mRnDV2hrqaXhuQ+xjZdrdAb76oFmi7htEjaNYqnKl5PK8=;Tj3OY5wfqQmaR1DZUOusIw=="
+secured: "UZ2D0h1vRogwe5prxxyLWCKMteDUJpUgFxfu/CQl9d/Hd8FFrW0MU1vfOlFlGODBjOiz53BsVXXM6HYnTwxujjN5gHfECVgpFiNTMRA9yozn8mUlY46W+r1xUPiElotivOkNNf7DyWcwZBi6HVIfAbPAEdonWnZy2UQMEUhgipjyf9sU6eyoIVqlxIkAOg/wds7ic0G8kDRLwQ4333vKglmFCI5BJzwp0+0QlN4tTnndPAk9DRKpi17yW2kUL2xIo5SMAX/xEM5RsBb2Nr8TeGCd6IX4U10TPeBaHcON9v9kr44vulrZLGweWiVQfRFkTUd5k4KoAJ6A6Vqq+QFOPrFLs1VD2+r6Nr6GAV3l/YEST9BoZpiMODxaCSRU7MiWcwRG2SB+MPRceLKDkaiTyXfmFA/iJt6sM8aLFedzDC5C/yJuh9cDhwv1VrmNiI5RER+1tVx2EuTqStPjib4f6DnPIEzMGEbCTNsp8NcQkaRfmmRToguT1HUO5neR0hELsZG6sTjBBAk9D49o8GbQhA==;PUUKpRYBAeSGCqdBrjH1kQ=="
 ---
 

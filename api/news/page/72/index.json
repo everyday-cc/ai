@@ -2,6 +2,134 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-07-05-ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast.md",
+      "title": "Ahead of AI, this other technology wave is sweeping in fast",
+      "excerpt": "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
+      "originalUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7f8f9958018ed7ccbbceb5ed330adfe138127b6e/2023/07/04/2bb4198f-c7ab-4b46-8a2b-03680b9ce3e7/gettyimages-1395926351.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
+      "publishedDateTime": "2023-07-05T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
+      "title": "Growing bio-inspired polymer brains for artificial neural networks",
+      "excerpt": "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg",
+          "width": 1075,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-roland-corporation-fine-tunes-translation-with-language-weaver.md",
+      "title": "Roland Corporation Fine Tunes Translation With Language Weaver",
+      "excerpt": "CHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government, has partnered with Roland Corporation, the Japan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
+      "originalUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-auto-executive-ai-will-be-used-for-more-than-just-the-products.md",
       "title": "Auto Executive: “AI Will Be Used For More Than Just The Products”",
       "excerpt": "Artificial Intelligence will certainly revamp must of the future vehicles. But an automotive executive states productized AI is just the tip of the iceberg.",
@@ -1031,151 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-artificial-intelligence-could-change-outlook-of-education-in-the-near-future.md",
-      "title": "Artificial Intelligence could change outlook of education in the near future",
-      "excerpt": "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "publishedDateTime": "2023-07-03T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wbng",
-        "domain": "wbng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
-      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
-      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "publishedDateTime": "2023-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-valve-raises-concerns-about-legality-of-ai-in-game-development.md",
-      "title": "Valve raises concerns about legality of AI in game development",
-      "excerpt": "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "originalUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

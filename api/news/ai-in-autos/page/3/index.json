@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
+      "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
+      "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
+      "originalUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2023/05/Social-Media-Hacking-Generic_NBC-5-Responds.png?resize=1200%2C675&quality=85&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
+      "publishedDateTime": "2023-07-26T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
       "title": "Waymo putting the brakes on its autonomous truck program",
       "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
@@ -1351,49 +1395,6 @@
       "provider": {
         "name": "WFTV",
         "domain": "wftv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-teslas-full-self-driving-tech-might-actually-end-up-in-other-evs.md",
-      "title": "Tesla’s Full Self-Driving Tech Might Actually End Up In Other EVs",
-      "excerpt": "Tesla’s CEO Elon Musk revealed during a second-quarter earnings call that the company is in early talks with a major automaker about using Tesla’s Full Self-Driving feature. Musk elaborated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/tech/tesla-full-self-driving-license-ev",
-      "originalUrl": "https://www.inverse.com/tech/tesla-full-self-driving-license-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/getty/2023/7/20/02469680-cd07-4f09-97d9-c41431febbfd-getty-1031879976.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356
 webUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Android Authority
@@ -27,6 +27,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Dimensity 9300 Processor will Run Generative AI on Smartphones, Says Mediatek"
+    excerpt: "Details of the Dimensity 9300 chipset suggest a radical design, with specifications including Arm’s Cortex-X4 and A720 CPU cores and the Immortalis-G720 GPU. This technical composition suggests a strong commitment to delivering a robust and efficient AI ..."
+    publishedDateTime: 2023-08-23T02:58:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/mediatek-dimensity-9300-generative-ai-smartphones/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 66
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/MediaTek-Dimensity.jpeg"
+        width: 960
+        height: 541
+        isCached: true
 
 secured: "AJt7VssPXvPoDpGDi6mx1dEFDytz+VRrqpy5/V1iUEhMAPm59c8D51Gl97dLMDN/3rqqohQVWpHdCQokJ1OX6v438ZnMCAV1AHLtX2FW+etgbAktIKZhxXmZ3AyP95pfdWPeOdez81BRwKUwFWFKo1BSlND3lKp3035S4IX6ew24ojlE+W4Nz6spT6LHCQcqGPxOaBoBHHpqZ3R3upXeYbJqpbZWsnvJNu+WLuej04d31B5ZvgTvtOub9cjMEviRo7lBWtP9JAHUPrsWetd+4Z+7gHVIL04Ew1JtuO6DDeEKSaJ8ZpNQa6mcCEYelbRrOtpVZrfxlA4EKM4Cofhk9hWrQCrrqVFSnycCS5NPaVs=;D2KhTS/fNwdoSJofVxVh1g=="
 ---

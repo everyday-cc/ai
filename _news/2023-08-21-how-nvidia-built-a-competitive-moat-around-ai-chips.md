@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Billionaire David Tepper Boosts His Stake in Nvidia by 580%. Is Buying the High-Flying AI Stock a Smart Move?"
-    excerpt: "Many retail investors closely follow the stocks that Buffett buys. It could be helpful to pay attention to what Tepper does, too. The billionaire hedge fund manager recently boosted his stake in Nvidia ( NVDA -0.33%) by a whopping 580%. Is buying this high-flying AI stock a smart move?"
-    publishedDateTime: 2023-08-18T09:51:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/18/billionaire-david-tepper-boosts-stake-in-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 50
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744366/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
   - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
     excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
     publishedDateTime: 2023-08-22T13:57:00Z

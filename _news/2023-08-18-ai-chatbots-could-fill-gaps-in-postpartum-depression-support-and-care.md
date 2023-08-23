@@ -7,7 +7,7 @@ originalUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps
 webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Best prompts to get the most out of an AI chatbot"
+    excerpt: "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid."
+    publishedDateTime: 2023-08-21T19:00:00Z
+    webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
+  - title: "Tricks for making AI chatbots break rules are freely available online"
+    excerpt: "Certain prompts can encourage chatbots such as ChatGPT to ignore the rules that prevent illicit use, and they have been widely shared on social platforms"
+    publishedDateTime: 2023-08-21T10:29:00Z
+    webUrl: "https://www.newscientist.com/article/2388231-tricks-for-making-ai-chatbots-break-rules-are-freely-available-online/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/18140734/SEI_167917530.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "UYu0zPuGdFt8TOiXlOTpvEIXRy03Yg6G+vsrpqj3FtRVoG4f0zyilQiy4I0ihwdQJop3s3TXvP7jVyrwOeEs4V+vqu8gVRVhZsa0NBhGSUuTlgklU7NTLII+kxlob4I8sPObzZzJ7fzD7UinW9Jh1zjJwjuUUbctKgbKvHERL+W0gUblFAMYAHxRKherA38dz2MpuDmLeEhKy1bLolA09bC9cdzixsOJQwwk3PylaHAGV6WdS38BI0PgrFtxFYzmbf6umvILlgo+ePIh14GySaHdHNDNflF6pYXf4wBXpK80wuO4fXKKyCdQAKTngG/mw0QM2WeJ4wtAWS/V7b37WB5W0Ajy3dmEaXtU62q+CPqCsYBWZ+p9IXeCqcJ4Kmq/BQ6BErur8XKciDoXZT0R/knMWE0iqAUF3dqqCDQHvp4UjUiv20Onhe9S5kN5ov/IykI+3NLgbHRwc67ogWnOxi/TysC++aLvRf2M270CeTRe20I3KZ+0e9vJ/W0tKJA9nh8y0PHzMRj0JWNjr/TP1w==;Bko5y2JPV1Ip/Sq3Dnt0DQ=="
 ---
