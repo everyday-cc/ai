@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-p
 webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Report: Nvidia Is Raking in 1,000% Profit on Every H100 AI Accelerator"
-    excerpt: "However, regarding Nvidia's H100 \"Hopper\" AI Accelerator, we finally have a ballpark estimate of what each one might cost, thanks to some financial analysts. The sticker price they've come up with for one GPU is $3,320, meaning Nvidia is pulling in roughly ..."
-    publishedDateTime: 2023-08-18T15:04:00Z
-    webUrl: "https://www.extremetech.com/computing/report-nvidia-is-raking-in-1000-profit-on-every-h100-ai-accelerator"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "4NetqwtVAEzK6YfkU3nmtqby1SzBaubP3gY7GvxUPdoofls81LUBcKXG7C4Y6FXgLqhhkvwkeANDC9ivRkn12Ew2/uKMqGz4EKKSmtVgCbvqY3DahbXLS2NNjz0vBGqk3qf3ovU+/oQE649x/uqoiIa20yPCmPwbUipTR1ZXCxNktNciRXguyJAb6A8g/ShqWEsv7Isf6DLBRKkfscMCFUO3cj7yaeTu7PIpcUwxF5SK+PxUlIXsbfVEBgp5aINE+AMI9K4IAtqeiiNJahStcpCR7Tf+nvgcz76WoHjtGbmMcxYbKoxKtJpFcIp+HsWu4Zb8+rITKyu6uwClWRX8Z7ng5XZ9u4up3e0DOFy7uKY=;4XxFX18XlhNxTfhZMca7Hg=="
 ---

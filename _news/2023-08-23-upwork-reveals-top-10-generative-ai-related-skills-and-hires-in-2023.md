@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-
 webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
 type: article
 quality: 67
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
+    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
+    publishedDateTime: 2023-08-23T06:05:00Z
+    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 33
 
 secured: "1td70fyy0woiRPSdHi0R4YYKtWB3GxqWzrSGFpL8FktK+QZPj1bSqXW+ZzkZAe0S9xvubvwneOlkqxHbMCOSFnKqrAhAFjvKLpdd/BZJsNcYnxUluRqMADnOF4a/4Mu4IKig74Hccn5qpVC8IZMog2E3zh4ZFQq4nejozux2eapnrMAQ0D1/WkqG34MEMnC7qvYgFocpA3sd0eMuA0S2dlEeMonj6On1b10Ohob9CF5oxN4l1YRDMpjX8iyWkwUC1IGvBT5lTbsH6yWtcbJ2QIfGNQmZ1me7UpQcL9MQ8jRa4oFL+pbHrbUCopqoPOsBDAkDboAPkF63ScTSzTwqYVRA7vatYRj1Quh5ZNznWcGKjQW9p2GqxjZfdQnZtZmcETdATlbkFzsgQKbuVOHEwMmrR0bhbwPc5jvoAOjmEXiYtqVtws5sCG2JrF2vIpO9T5cpraZ7Zhjf35cwk3ns+6hgwPtPGEdkQQsY7As+BUnCEnWDP1t9mwDQvyfsoOOANw9eRYkbdE03sM/B5zggJQ==;KGC31dJntC+ITPgKFUGYAQ=="
 ---

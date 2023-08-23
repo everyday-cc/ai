@@ -42,20 +42,6 @@ related:
         width: 2048
         height: 1291
         isCached: true
-  - title: "FTA investigates SEPTA crashes; Steel Elementary’s new playground; Facial recognition at Phillies games | Morning roundup"
-    excerpt: "Feds plan rare safety inspection amid SEPTA crash spike The recent string of crashes involving SEPTA vehicles has prompted the Federal Transit Administration to launch a comprehensive safety inspection for just the"
-    publishedDateTime: 2023-08-18T14:05:00Z
-    webUrl: "https://billypenn.com/2023/08/18/philly-news-friday-morning-roundup-71/"
-    type: article
-    provider:
-      name: Billy Penn
-      domain: billypenn.com
-    quality: 14
-    images:
-      - url: "https://billypenn.com/wp-content/uploads/2023/08/367686486_2027800630886045_6464861395299766899_n.jpg"
-        width: 1080
-        height: 1350
-        isCached: true
 
 secured: "4FC3dGE5SoMak/lbPjbJmBXwU1Yyft9+SPSzLXUhZ3oJaO7bg/0AybRHDa5ih2mDms9Hm+6bWQn8HksP1XP0xfOkDA2i8dVJTD7Bvo1zvY3Euoq7s1FGV/xSxbLytusCSMkAgSKaJ0dp05ZwM3B4Z/BubaJNctX3qrEHeW1n37/4ygZUcRKrWX+5dZSQBOqy5ROSe1KASvgAzB2f1UMec0Dct26bINo4uvw9ZP7u64RqR9W7wNV2VsNrvSpNMOyAKt8ALyqtKiDVh+8+yF3wPZxAz5d9J0MRmeVuUmVytoO0dXr+yy0+KcTKibYdv1uAtP/W2D9337YNwrHKlPtrtddq1WKK7+7dSeVwrQnmwIg=;0kX88Ro2PFWJNFSx11tv7w=="
 ---

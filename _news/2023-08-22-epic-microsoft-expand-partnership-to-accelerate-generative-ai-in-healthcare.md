@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
+    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
+    publishedDateTime: 2023-08-23T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
+        width: 2473
+        height: 1795
+        isCached: true
   - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
     excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
     publishedDateTime: 2023-08-23T04:11:00Z

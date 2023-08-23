@@ -67,6 +67,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
+    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
+    publishedDateTime: 2023-08-23T06:05:00Z
+    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 33
 
 secured: "0ctI0xdJ48x/Hyx5CYLnKsUNeaBlKEjRtG+NpPQ7tZGyBVdLcsGuNGJ93NGHnRsvipQq1KdheeiRd5oQGIq0zl2R0B+uEqE9FfLe+TySfnpJDlhHN28yaOHJbSx1bo343ZGoEG+S/vLBg0hu8U62quCj34xcHsPGm4Dohuo/7yYxsaAFF5iNWhPhxIu7ufg/nlIdS0EcMWqvSgzquTl6e+hUGdSQUBAqr0B28QxPulomPNpbw6lxbc1wjH5CXfhFRKtiZdgUVU8Pk36j1aHTpbFT4UN8eh8KZLGN7nsKjZuNKV0BM/qi+bpTHxfUyLuystrNZ8aJ/VwfFGTTkhcRAVVU8W6ONZFVbtqP9pBEjZHHxjALiE1rbFm048VHwsk8rq93yCuBktyZEUcP40X3/TkDLChlPBy27hViF8V2Gy3adimt5WnNxB6agdeNyzBhMpH3pBKJeE/oo9+YNPoz7LWj81Yi2WWiitd01hVaBrArTnq4y2jOlmJkFabICrMrKegPTAjnNunP0rft5eZGeg==;33Imv09a2JIOryi/h1VT+Q=="
 ---

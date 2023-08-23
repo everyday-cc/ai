@@ -48,15 +48,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 36
-  - title: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
-    excerpt: "NLP in Healthcare and Life Sciences Market to Show Promising Growth due to Increasing Emphasis on Telemedicine and Remote Monitoring"
-    publishedDateTime: 2023-08-18T13:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273936091/nlp-in-healthcare-and-life-sciences-market-to-show-promising-growth-due-to-increasing-emphasis-on-telemedicine-and-remote-monitoring"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 5
 
 secured: "vYGTL+fVXonAnPgWr2M6JLLObRqMbAzvB5PlfiF7Lxyp1D+wEXtiQADwcmphu292qMGO17N6Mkl3qhkl9TP+rveDF9dr+OrBWRIOyZgTbaPQ2E0TLbFyFgAxeXivbutWBBxosUJZlxbap2WZ4N7F4LTX0ygPkCfug06YBXt61cFN+8PYbyuCR/HTnIRPdIQPU3rwQWIPMk1MWtFsCXF+dC7CcOPM3N31meAhTrLXdOiLlYUsUVlGngKjDBzxBqnJVvSjE5WsJ90gbsYuT0v/gcBZCgYYWl/nI0EBMFZ8Hb1e8wg1WrQJOZ0otw2tboYv8d4tvgLAKX9B3LA1UPAPiT7J5Y5ny5L6PSuK8XGABOY1GvxlMHQKnlfyCb8zuwdYeerkWhi02QU+uVbBeOw63iR0ah9I8gbnnfWLV9Km89EybL1nMExiVnv58ST+zULGulS+NojeZzO2YO967M0r/eWaqhglpK3eQ6jp8s1cjk8LgQUrLdbcE98WKkQ/c50R4hxcvMVGxiPtvwVIGaKq+w==;s8C6z8+Afybpw2OzmdMzHg=="
 ---

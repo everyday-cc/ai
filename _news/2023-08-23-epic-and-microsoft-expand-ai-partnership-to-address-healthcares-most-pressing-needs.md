@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
 type: article
 quality: 113
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/f19a01c69ca1095117ebe9fad7097214ff82f81c/2023/08/22/b58df5b7-d18a-4f36-ae1c-e474a7114e03/color-ropes-stock-photo.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
+    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
+    publishedDateTime: 2023-08-23T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
+        width: 2473
+        height: 1795
         isCached: true
   - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
     excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."

@@ -70,20 +70,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "AI is helping expand accessibility for people with disabilities"
-    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
-    publishedDateTime: 2023-08-18T14:30:00Z
-    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Assessing AI readiness is paramount to execution"
     excerpt: "Without an AI readiness assessment, an organisation can end up doing proofs of concept and other initiatives without understanding why they’re failing. Assessing readiness, meanwhile, allows an organisation to identify any gaps in its capabilities and address them before implementing an AI strategy."
     publishedDateTime: 2023-08-21T09:22:00Z

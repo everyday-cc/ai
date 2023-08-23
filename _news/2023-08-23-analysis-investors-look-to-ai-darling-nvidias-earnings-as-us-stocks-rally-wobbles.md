@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Analysis-Investors Look to AI-Darling Nvidia's Earnings as US Stocks Rally Wobbles"
-excerpt: "NEW YORK (Reuters) - Bullish investors are hoping Wednesday's earnings report from chip heavyweight Nvidia can rejuvenate a ... Can Big Tech continue to lead the market, and is this AI story for real?\" said Anthony Saglimbene, chief market strategist ..."
-publishedDateTime: 2023-08-23T05:24:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/analysis-investors-look-to-ai-darling-nvidias-earnings-as-us-stocks-rally-wobbles"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/analysis-investors-look-to-ai-darling-nvidias-earnings-as-us-stocks-rally-wobbles"
+title: "Analysis-Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles"
+excerpt: "In one sign of AI's overall market boost, a Societe Generale analysis zeroing ... Nvidia shares have jumped nearly 12% since the start of last week, setting an all-time high on Tuesday before retreating. Such buildup in the shares, however, could make ..."
+publishedDateTime: 2023-08-23T06:18:00Z
+originalUrl: "https://www.aol.com/news/analysis-investors-look-ai-darling-050434263.html"
+webUrl: "https://www.aol.com/news/analysis-investors-look-ai-darling-050434263.html"
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/9825dad5459689b518499cbb9c70339e"
+    width: 800
+    height: 525
+    isCached: true
 
 related:
   - title: "Nvidia earnings will be major test for AI demand, market rally"
@@ -52,6 +54,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c446e34e469bb311d1bcedff852daa784b411b37/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=6b96b0090ed13f2560176b0767798731"
         width: 620
         height: 372
+        isCached: true
+  - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
+    excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
+    publishedDateTime: 2023-08-23T07:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33998198/nvidia-said-to-be-tripling-production-of-worlds-hottest-ai-chip-for-2024-but-will-supply-chain-snags"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33998198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33998198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Taipei,,Taiwan,On,June,1,,2023,:,Jen-hsun,Huang,(jensen.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
@@ -173,6 +191,6 @@ related:
       domain: shacknews.com
     quality: 19
 
-secured: "pNuoolFDXqAXeW2TSPL+/yjlXD81UjaTLPK0SU5V+BSyy2WJmbWSScBGbACkwkCqUiHEH5dbX3JYlb5Egy2XgwSUBjroLoJzCGyx0GO013ZAiD/BV5ctSlCziH7CzHA28IfR0c4c462J1yASdGuW3QkU38u24Qv5VW4+DE35PHGkAyB5L5vMXvVIkzHcx47C22+xGuyhrsluyaJkrO9kPvGKCBq7nxaeBbXEGuXixb5Jr0ezCkoCm3HFuboYrsUOTDSjbMBV7Y7tWXHq1v2pgcIAerlWPzL+JPFD3FkN0CbfCWs33rDwmFXQpeezio1iyO9Dccq87Kzf0F7qcpDCqGoJ9E4omgTI5k4j755MLYu0TE3z1woMvalXawudK/75yJxeG0mjhBHFoCo2ZQbnSmSAYcMctG/A7tGy9e/MZyqZcc6EEkH3EkRDCwkJgKGM2AVrcvyd+PNNRKkgTiT2o8Y/kf7hwgY3hjI0YnL42Z0KTIdgjCxsXnhhr/TQO1tgk0R67MSEDGOCW1pDiJQaWQ==;xCqR35wej6Y3kUKjffUL3A=="
+secured: "mttC5Yx/UlvE83VwQG3LdD1RT/iQZu9Scs1CtB+wtvmZv909l+1PASwxtyXEA48272XvEhuAp2lTmK1XrELD06plPlyGNR1FgY4Vhz5QIsCE8vbl2jc3hQjwGSxMPIu8NFc0Hgg+nB4nfZJNgT9QiTfXLqV1fiZ8DVomICfF1vX2yzh7X7OefF966T8/+RC02AloXBtYgekJ+Uv18a7L0DPEDsHPl55xCSFTrcUrLhgcstdqVXQpWGMVibeLdN/i3DBWwWvFa+7tAkOOWzrV8RyLlHmXRWUCiPKw8AXWVKhcrrBgJT3zpomcg4wQJbPq9XTfOTluTf+BPxS5aCSBpcIb1w4HcdHdPAirrfAMG5k=;ejDMdC5YyY/aqxaBA/3OWA=="
 ---
 

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
+    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
+    publishedDateTime: 2023-08-23T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
+        width: 2473
+        height: 1795
+        isCached: true
   - title: "Microsoft Adds Python Programming to Excel Spreadsheets"
     excerpt: "Microsoft is introducing the ability to use Python code directly in Excel spreadsheets. It's called Python in Excel, and it's being made available as a Public Preview for Microsoft 365 Insiders using the Beta Channel in Excel for Windows."
     publishedDateTime: 2023-08-22T15:20:00Z
@@ -148,6 +162,6 @@ related:
       domain: kansascity.com
     quality: 29
 
-secured: "9MGsvHoB2vGZIE8W3z9JYXmjIXPyhyh9DbLpVUvOdbsmmAruutUIkUSLIU29B/cDptD9fdsrWl/EroaEfbX9thmgBQlt0USj6gfU4YG1xQsuVzECz8JaOMEdILxkmOtUUiBLi9NVRNkWRdZLvKSzJMapZoIv2dIfJ7+QolFbXNrRZMz6KksSsTXqMkQJqUI6oDta1QsHf4B+MTyvORR9xhPac/RMmO1YqA7rkwY4dc9xw+brYr6dvI+mIxknjacfoA8CgYqtSM3eIksy/gssIVAjxx8wFX8biSjq62bMCJo7RQvTzcdmlrJfOf7VtGJ+w27x5Dl6Jcc03TPyj5uHvRRT5VGq+o7ccoyR9n06HNw=;cG+ISLFOMgt/7KaOPCyULg=="
+secured: "57NCRBlluCO+4UfZnw1WO2hrvgw2s5X12j6sJTHeJpFuYNtNijptL0z+G87mURFaRmkQnu/+Nln6OtTQHVSye3f9EX3UzSNBirDVIi2ViZ0+hq8Resrt6DJyfL7aKL2JgeLcD5gvNH+wKcuCMpjn3dYewsbc92kcO/CQ35S8nAe/Z+mZa/wWJ8yup3fJcr5bpEOZ5R9JnrOCBwA7kk4sdzctR+kdUreZMlSOf7P3akYVzHltz2kaCFH8A+ZHGMP5TUXHGAS1sJwegN2Wrw1iyUxevNK1muprCP0heIpA9Cx/g7c+POfXnvXnLl2SmCxmwM34nv3CSpyXjeEvxqsknBwXzqnGvz3YGPtWr8u3gbcT/crYpC6n04UeaTRp6CgPO4i+m4mnFysYiKDlyEEvOLfuQTXGbi2v4WPK6ecGLv19iufKoqf8qr2Ki7NntSIDsf5epXIDK6cFZpQczn4lO8tpOpxuRep4wMihtGgfGHqPL3ESUVnKJYSyDK0YszDgCRQZox0Z/at8ong7TqZVCg==;ARyeZF2Uv6+L5b28if7wHA=="
 ---
 

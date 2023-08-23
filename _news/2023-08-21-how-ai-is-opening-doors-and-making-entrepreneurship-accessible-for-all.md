@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230815_WPP_MNTN_Wunderman-Thompson_Publicis_3X2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI is helping expand accessibility for people with disabilities"
-    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
-    publishedDateTime: 2023-08-18T14:30:00Z
-    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Assessing AI readiness is paramount to execution"
     excerpt: "Without an AI readiness assessment, an organisation can end up doing proofs of concept and other initiatives without understanding why they’re failing. Assessing readiness, meanwhile, allows an organisation to identify any gaps in its capabilities and address them before implementing an AI strategy."

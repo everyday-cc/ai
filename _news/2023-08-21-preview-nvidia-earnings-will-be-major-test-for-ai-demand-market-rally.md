@@ -48,6 +48,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
+    excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
+    publishedDateTime: 2023-08-23T07:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33998198/nvidia-said-to-be-tripling-production-of-worlds-hottest-ai-chip-for-2024-but-will-supply-chain-snags"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33998198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33998198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Taipei,,Taiwan,On,June,1,,2023,:,Jen-hsun,Huang,(jensen.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
     publishedDateTime: 2023-08-21T14:52:00Z
@@ -117,15 +133,6 @@ related:
         width: 2309
         height: 1299
         isCached: true
-  - title: "Analysis-Investors Look to AI-Darling Nvidia's Earnings as US Stocks Rally Wobbles"
-    excerpt: "NEW YORK (Reuters) - Bullish investors are hoping Wednesday's earnings report from chip heavyweight Nvidia can rejuvenate a ... Can Big Tech continue to lead the market, and is this AI story for real?\" said Anthony Saglimbene, chief market strategist ..."
-    publishedDateTime: 2023-08-23T05:24:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/analysis-investors-look-to-ai-darling-nvidias-earnings-as-us-stocks-rally-wobbles"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 43
   - title: "AI buzz on company earnings calls goes silent in regulatory filings"
     excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
     publishedDateTime: 2023-08-22T04:00:00Z
@@ -149,6 +156,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "Analysis-Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles"
+    excerpt: "In one sign of AI's overall market boost, a Societe Generale analysis zeroing ... Nvidia shares have jumped nearly 12% since the start of last week, setting an all-time high on Tuesday before retreating. Such buildup in the shares, however, could make ..."
+    publishedDateTime: 2023-08-23T06:18:00Z
+    webUrl: "https://www.aol.com/news/analysis-investors-look-ai-darling-050434263.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9825dad5459689b518499cbb9c70339e"
+        width: 800
+        height: 525
+        isCached: true
   - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
     excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
     publishedDateTime: 2023-08-22T12:42:00Z

@@ -262,6 +262,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Meta releases new AI model for translation and transcription in dozens of languages"
+    excerpt: "With the hope of building a universal language translator, Meta on August 22 released a new AI model called SeamlessM4T that can perform translation and transcription services in dozens of languages. The model currently supports: Speech recognition for ..."
+    publishedDateTime: 2023-08-23T06:56:00Z
+    webUrl: "https://www.medianama.com/2023/08/223-meta-ai-model-seamlessm4t-transcription-translation/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 13
   - title: "Meta AI’s SeamlessM4T model enables universal, on-demand translation for hundreds of languages"
     excerpt: "That’s thanks to the capabilities of SeamlessM4T, which is being open-sourced and made available to the AI research community. According to Meta, SeamlessM4T supports speech recognition and speech-to-text translation for 100 input and output languages ..."
     publishedDateTime: 2023-08-22T13:31:00Z

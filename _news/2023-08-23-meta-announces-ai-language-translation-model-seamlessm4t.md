@@ -262,6 +262,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Meta releases new AI model for translation and transcription in dozens of languages"
+    excerpt: "With the hope of building a universal language translator, Meta on August 22 released a new AI model called SeamlessM4T that can perform translation and transcription services in dozens of languages. The model currently supports: Speech recognition for ..."
+    publishedDateTime: 2023-08-23T06:56:00Z
+    webUrl: "https://www.medianama.com/2023/08/223-meta-ai-model-seamlessm4t-transcription-translation/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 13
   - title: "Meta AI’s SeamlessM4T model enables universal, on-demand translation for hundreds of languages"
     excerpt: "That’s thanks to the capabilities of SeamlessM4T, which is being open-sourced and made available to the AI research community. According to Meta, SeamlessM4T supports speech recognition and speech-to-text translation for 100 input and output languages ..."
     publishedDateTime: 2023-08-22T13:31:00Z
@@ -272,6 +281,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "C5YPf77sUQkJM6ff7qkLV80QN02cY65ZtAwfv0Qs2DAFB9UrHMjI7hbr1xZ//Kkq7h6odfoD3pG4lnoOXiPQTKjcBZ/8J7ywyuESZq41o6Zr5D9lqSbBlDzH1EPzJQZQwivbs4zTbBTOd61VWCRkWWXj/h821Zwi17idNpWRIjXC2T6i0q9Ws2aBJzj2Eoai0nEK3prwUBfPiRc1dFbEzSg+pO/bgqFcYSnfBVAzrmUGzFgLlzot+iWmG5OO5jaNLHnY1EzPX0SQ4Ll2CFfdVvF3JmTJ9sceAE9wLyVaSvQbsoZgoCQNeILyUCGLRaqJc9tHypdBUGAaYwRAEtlN0kMg2QFuiNUMsSIB1ScJUOg=;jCeoY+f+81tqrWJ8Xqmx/w=="
+secured: "R3RrazpK+82OKmYWWepO/hYosjYFkS9rpY0lAt11Vif5VmwESPq4O45Iuf3K1JGlf4agFnyWgO4LoJ7f7ifLQn4gaklHwu/1HzN7cLEXtZVx9oC7UL2h+gw+x2qBf9YbzkGuilo/re2GQS15aadyAj9J5cmgSxIuvklQrHRVicibCynuSFDbc1+Ey/bd8e5CKgPFdnzCKxbV6xT49kfHqg/Rcfh65bc17dE1NxVkMeaPr9sW7vHoJFZwvDld2bIjszyJJ6w3tRXs5Q5OlxQAt6Ulc4BQQVxiJlT+0/vzDV2lMw4jM3LZunVOhHDngWsq7/945/wk8npsZmpy/GYbTRplrnye0gQnJI2GiSgMv2KdWbr5ES4VxJmIropkIA9MfjxWGQUoDLy0D3cP97Qg8mgiqH1eWQ1piT4k04tZo6Ky10yWUZYxz5/rae7tp2jZ5QqSt/brEFEU6Ow76AoS9/gwmmj9rWmZFOE0gylT80hM/CmrZL0eLaLNNAzUpfB0eajtvQBt+nvkHaivhvwmKw==;xKhmlGc/bUiPFvGa2i6tMg=="
 ---
 

@@ -34,38 +34,6 @@ related:
         width: 1164
         height: 610
         isCached: true
-  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
-    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
-    publishedDateTime: 2023-08-18T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "4 ways to increase the usability of AI, according to industry experts"
-    excerpt: "Such is the tone of a recent Twitter essay by Rachel Woods, research data scientist formerly with Meta/Facebook, who cautions that while solid business cases may be forming around AI, usability is still out of reach."
-    publishedDateTime: 2023-08-18T14:57:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cutting Through The Hype Cycle Of Generative AI"
     excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
     publishedDateTime: 2023-08-19T19:59:00Z
@@ -81,6 +49,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
         width: 1200
         height: 687
+        isCached: true
+  - title: "How will AI impact the data center industry?"
+    excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
+    publishedDateTime: 2023-08-23T06:02:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-will-ai-impact-the-data-center-industry/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Adam_Levine.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 421
         isCached: true
   - title: "How AI in Games Will Revolutionize the Gaming Industry"
     excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."

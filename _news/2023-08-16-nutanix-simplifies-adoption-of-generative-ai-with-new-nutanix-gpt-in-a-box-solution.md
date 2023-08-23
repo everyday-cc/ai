@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Nutanix Simplifies Adoption Of Generative Ai With New Nutanix Gpt-In-A-Box Solution"
-excerpt: "AI infrastructure solution accelerates customers' path to GPT and LLMs while keeping organizations in control of their data. DUBAI, UAE– N"
-publishedDateTime: 2023-08-16T12:55:00Z
-originalUrl: "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution"
-webUrl: "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution"
+title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+excerpt: "Nutanix, a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box solution for customers looking to"
+publishedDateTime: 2023-08-16T15:54:00Z
+originalUrl: "https://www.datanami.com/this-just-in/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
+webUrl: "https://www.datanami.com/this-just-in/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-08/16/M_7295fimage_story.jpg"
-    width: 942
-    height: 1097
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
     isCached: true
 
-secured: "ZTWwrsuAnOdDa18dvL7iS9UK8IE/25geAsWEQjqYqOsEEWUTPLbZZxNccMzbo3RO4heF73evZioKJHR/jlkLtdyHsShYVzFhwtnxQmOskIX7PTcusk4pm79U0FlEqyjCZyunu+r881tVu9XUVkkznfjMCwzuL0zGwVbpE6dVk7buHWg6uu2BqrOkSPa3MX6vUo/tzsoPhf76QEK+0uez8nxUVBuIGRhFA8oE3Dgd7Jy6DZ8vL1xy7xVmuvamFDBlhBuqWymi9H7C/J6ixRLilxyQMpsIDX4G0qIwEWtB7FQNAvhmOtF2lYNpzSCvXG3KNddFXvf0Kyak9oDpmc9bwcuR453vr/xMB23NCE2Xysi61v9o1A4uuKBEjNZBtQRrFkaTLfGxe6xsvAXP9WQ60Ka8y2nVueY5UMmkRucR785MhNH6KRol/Y/cpfgVWVodfaxHGP3jsvqOoDPGsolKXvGHZpz2ZDqBvCVdVXLGd4MLoYEq3JdJqgMNFa2WeIr8LIuySVi9DAq2XOIpWYwm+A==;L0j/jrORQxzXBNAaDXEtgQ=="
+secured: "C2oKmUqRNEpQs1Tw4+EH4/2bzo4fvVjCfMdWH/m/m8s9O+Jjwr+KdRwi2MtJCKi4LrCQzThRlwU4pQuq8kLA8KLTS2snabUUE95NRERMkLrzZK3lKSxEQvC+JMZtdq1pFwaJXd4NumTzl/53b1J5l36vsgmvPrZ3twB+rR97JZdXgnQOLxHjkecuvhfqIoZIBV1Lf2hZKB0/goEKoULjtnFj1Ule6MnDyhXSCAsf5DdpfxJhcNHJhbwPJfyc+LvHY9k8sQI4TmqiGZ0HIUCV6l0n8rkLS30s8QQKppdvOIqEJIxm09yvGFzqvkkfAD2V/GajQgqEa25JxOa0vZrrCbYHrkhTqI/j7zHGFCzyON0=;jcT/tXuur4DF/iK2Q3yR4Q=="
 ---
 

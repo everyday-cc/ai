@@ -36,6 +36,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 17
+  - title: "Anthony Albanese set to announce Voice referendum date as October 14"
+    excerpt: "Anthony Albanese will officially announce the date of the Voice referendum in the must-win state of South Australia next Wednesday and kick off a six-week campaign."
+    publishedDateTime: 2023-08-23T05:48:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-to-announce-voice-referendum-date-as-october-14/news-story/c2c6ca459082b3aed3116e5e2dc056d5"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
   - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
     excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
     publishedDateTime: 2023-08-22T10:49:00Z
