@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI will transform every aspect of professional work, new “Future of Professionals” report shows"
+    excerpt: "New report by Thomson Reuters shows that industry professionals expect AI to dramatically impact the way they work today and in the future."
+    publishedDateTime: 2023-08-22T14:05:00Z
+    webUrl: "https://www.thomsonreuters.com/en-us/posts/technology/future-of-professionals-2023/"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 27
+    images:
+      - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2023/08/Future-Image.png"
+        width: 1368
+        height: 747
+        isCached: true
 
 secured: "8Uu2cfBdXL46cCUNv1frSvoHM/FZppkHLa+N/9PVd5z1zzD9DBG9OH3Qlzh4vV0Pg5AY7wM+BDd+BMUbUsR8k2NRft0miHsMCd2o0PYB6alwPR6uQqO9uj/Z3kc+V8r46fOXDcNgJNhi9EhRkPyH673zzJ/DEk36vRhbZa2TIp1TDm0yjtaHaHlF10qptmHKK+XQwTf6LHFotx+cC9VavWtT4LUOVbDK3CYSbTqZr2L2oVAYg5r+tcsXbv2Tnlie4uUqczle/gD+2FmD0qormiu09ohlYOpqTBDctj2fcOh+p6D1GKjyLdxnkRTgbj9+elc63TPigoKknh9OslSzMuw25yRT2fmOgS+4k77bNA6QB8oHWN690hYAQf0hsDmADU6BYJXGi3XdECBI1+j4/ed9fEw4IFRel3f7A2pe0xfXNgaRFX/iKghdtbvNK2AMRWHYPPoct8G+rZ+VCNo0tboNF0PMtWar45FxdJyiwt2qbpSWqIRABmcolAme7lIPUeJ8s2Drxym/w8BPXdKcrw==;/f8ro2u+es33xK/VTpiatQ=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
+    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
+    publishedDateTime: 2023-08-23T04:11:00Z
+    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 74
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "Microsoft Adds Python Programming to Excel Spreadsheets"
     excerpt: "Microsoft is introducing the ability to use Python code directly in Excel spreadsheets. It's called Python in Excel, and it's being made available as a Public Preview for Microsoft 365 Insiders using the Beta Channel in Excel for Windows."
     publishedDateTime: 2023-08-22T15:20:00Z

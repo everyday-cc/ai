@@ -33,6 +33,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
+    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
+    publishedDateTime: 2023-08-18T18:12:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 19
 
 secured: "8rogLw72UiSMXqLjQ+prXs2mWCdzfj0G6jE9XW8Xbhe8rELXK+npWUuwjHYUTyydxKYohMfBrIPh8Pu8LgdaWywcUdccPt4twq1gDUrS/+Gdpu3G8/M6T8ZAhgHNkOm5JhPJy4eQ5sD3Y3+V+0kgzvrYEZGbS8Jzqqr85cgKRslBHLPVZTofAJWxkPH3Fy0APEjhqfIYtM/iDNT8ghMfuSC62ZsSGcV2Djpho7GqgYOnywylLk3iyzrfq63QLOKq26qKmFUYRUpDjq5IpGtiHyoIZ3LPwxQnock0NMOeC93thoDuwQUfOew7PlTSwskwAVE1ZzdgDDefDOQcr1b4seueY++L+kPo1GdqmJheCHbSNbiBbWbIszdZyeIrrlAFQVB0w4loH/64xc2brjrSw/BOb5XG9I18u7cz7nNbyIWvDe8YHFfIYi5XyM/h8DW5E3nKIl3ABbDoNBPR8fl1zKmKQhfNHL5aV044UTfeHg8eKWCrlQTtkcsctN76KRkP8wUSVWCNB8+lUNz1r1qVdQ==;rb3FtUtDn0M33ynCJ46V+A=="
 ---

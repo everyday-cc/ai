@@ -128,15 +128,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cruise self-driving cars stall in San Francisco"
-    excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
-    publishedDateTime: 2023-08-18T12:45:00Z
-    webUrl: "https://www.itworldcanada.com/post/cruise-self-driving-cars-stall-in-san-francisco"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 4
 
 secured: "8eV/k+CLdyWfMMES7X0mC8iZ+8Sxf6nmnS6r4EpoLg00BKMoh3hC+Xoq5LR+iazgoENSHeFXB+89NCSquNoXK/amzFovNdPdBbFbOOrON4e2rwNVKDyUYeYxlRYm70aYWbHi1bbq22H1yTaZnjVchWzJPoK1+u48ds2857zOm9bju2ZelRsXCkAnpbOS3glsrJUE3A3SzTOjQ6kCmchgYHQKuHW2Wdt5NRd2eUPZ2tqJCxyVZGiN+f9oEs/1wsgAUZEp/0Lz3w8jqCbW16bRqjn5a7s0PQ9tKAyizkN8G2Tk87DJjXqoSaSQDOv5y6+V/UbaH/34FMTsaM07L3kEGJHDguu/RFYWmdJ7wWogpHc=;yio8gv6xy4PW04dcJuUbiw=="
 ---

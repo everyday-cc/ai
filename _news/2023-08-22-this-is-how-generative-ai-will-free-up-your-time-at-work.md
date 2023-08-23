@@ -221,15 +221,6 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
-  - title: "Designing Generative AI to Work for People with Disabilities"
-    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
-    publishedDateTime: 2023-08-18T12:05:00Z
-    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
     publishedDateTime: 2023-08-22T18:58:00Z

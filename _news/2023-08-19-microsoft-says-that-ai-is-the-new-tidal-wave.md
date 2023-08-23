@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-t
 webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: Fudzilla
@@ -38,6 +38,34 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
+    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
+    publishedDateTime: 2023-08-18T16:01:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102840813"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102840813,imgsize-78380,width-1200,height=765,overlay-ettelecom/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
+    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
+    publishedDateTime: 2023-08-19T08:00:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102853447"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102853447,imgsize-78380,width-1200,height=765,overlay-etbrandequity/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "H53mQR55qCOKtW8crAkeg0XOt21Us3gk7rDR0wkzPEIPPG9T/BMCVjWSSy8IoZ5aw+W6yPBZx1FTuIMADkCMyn8v/DSjrcOWLXNiCzvW1RuG1v6ozVkef65K+FX0eIbQ7V4dyZrlrLlAZJyDxQwiLD8fL9Cd1hfIkBXtupvKuA198EADqPllwl6UYB8yM3mgnD3zJnHp7bRi/Q/pi3hhgWceb4Gr4hXXilDU996xxz3+8IqcM+SoNsuBZ9uwL0WE2liy2BfVkqR1pcWo3ojlfdEh+5gWfHlWeHT8WLd0Ds69Dtx/TW1gdHy71q2lHBF5PAtu+MM8QlMK9OlwdsssAGQZ6Flcx4F+1Sx84x5q3yA=;0PCnbX9uT8S34hZRpv6gGg=="

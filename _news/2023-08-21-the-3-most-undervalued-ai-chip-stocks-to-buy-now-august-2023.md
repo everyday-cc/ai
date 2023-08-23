@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-underva
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273"
 type: article
 quality: 64
-heat: 105
+heat: 104
 published: true
 
 provider:

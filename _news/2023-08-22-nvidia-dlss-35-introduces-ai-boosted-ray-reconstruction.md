@@ -127,6 +127,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Analysis-Investors Look to AI-Darling Nvidia's Earnings as US Stocks Rally Wobbles"
+    excerpt: "NEW YORK (Reuters) - Bullish investors are hoping Wednesday's earnings report from chip heavyweight Nvidia can rejuvenate a ... Can Big Tech continue to lead the market, and is this AI story for real?\" said Anthony Saglimbene, chief market strategist ..."
+    publishedDateTime: 2023-08-23T05:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/analysis-investors-look-to-ai-darling-nvidias-earnings-as-us-stocks-rally-wobbles"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
   - title: "AI buzz on company earnings calls goes silent in regulatory filings"
     excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
     publishedDateTime: 2023-08-22T04:00:00Z

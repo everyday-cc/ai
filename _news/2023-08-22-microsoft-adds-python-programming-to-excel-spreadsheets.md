@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
+    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
+    publishedDateTime: 2023-08-23T04:11:00Z
+    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 74
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "Epic, Microsoft expand partnership to accelerate generative AI in healthcare"
     excerpt: "Epic and Microsoft announced on Tuesday an expanded collaboration focused on integrating generative artificial intelligence tools in ... is intended to speed the development of AI tools in healthcare, bringing the technology as “quickly as possible ..."
     publishedDateTime: 2023-08-22T15:13:00Z

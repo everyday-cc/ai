@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5dc.com/news/schools-face-challenges-with-ai-as-stude
 cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/schools-face-challenges-with-ai-as-students-head-back-to-class.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,45 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team"
-    excerpt: "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases."
-    publishedDateTime: 2023-08-18T11:44:00Z
-    webUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team"
-    ampWebUrl: "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp"
+  - title: "With AI exploding, local private and independent schools look at potential dangers and benefits for students"
+    excerpt: "Some local schools are including new language in their student handbooks about the use of artificial intelligence, some are incorporating it into the curriculum, while others are taking a wait and see approach."
+    publishedDateTime: 2023-08-18T18:23:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/news/2023/08/18/independent-schools-artificial-intelligence-policy.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 85
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1200/675/AP21301594731187.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Summer Camp Meets AI"
-    excerpt: "By now you’ve probably heard of ChatGPT, an AI chatbot released to the public in late 2022 by the company OpenAI. Feed it a prompt, and it can write poems or songs in the style of specific authors, translate text from one language to another, and generate computer code."
-    publishedDateTime: 2023-08-22T17:07:00Z
-    webUrl: "https://today.duke.edu/2023/08/summer-camp-meets-ai"
-    type: article
-    provider:
-      name: Chronicle
-      domain: duke.edu
-    quality: 39
-    images:
-      - url: "https://today.duke.edu/sites/default/files/inline-images/IMG_3364_0.jpg"
-        width: 2654
-        height: 3539
-        isCached: true
-  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
-    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
-    publishedDateTime: 2023-08-18T18:12:00Z
-    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "MqVZsYOPzf6LjfNSQ6SzB+tLcrCVrxO07SsGxBLLx0YQ4kiPiL0wMQECkgwJXxX02niVZCbd7aXBiNzhBbsE50rzetHS1QWsXVvyrqMCqQKV902AQotaKsqpCebi4byziNYVElbOhtQSSgn8brlFSvDbFYyJKc4cGFR67rWDomgperPiuD9MEXFRGVPLsa6GXdcYYHTwQjkkzrkVLpE2fMfW94+X2uG3Hqt9A9CDAprTg6R5YHwNgt6sZW567TXxglGfrYm8kg+sfy+MdS94/hEejNFLS5xShz7uKRQRPQerbi/PWDed9V4feTi4IhGe60S5+uNUf3AYnR5DUzJjhzuAxxQMGLJyYyPbEtHNdP/V63Ey5KsWGVAWw0XJCr0I3Mq0uP6ptmpRmUJcUrr7bRpVw66x+iVRuEwoc5yv/p/YGOQ+cEvmC5YAC1JrcQkXs5kw4wXbFV+tzgs0pvI5dyOu1UDL/xmPe2duc8T16K+SNW3KAGizrICnhnvfnXVsS1ZTRpOy5j13i12r3zRe4A==;+2pp3pvspneoT60WjWtOCg=="
 ---

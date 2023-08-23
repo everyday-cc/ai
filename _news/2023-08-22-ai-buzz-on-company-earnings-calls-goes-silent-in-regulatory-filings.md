@@ -133,6 +133,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Analysis-Investors Look to AI-Darling Nvidia's Earnings as US Stocks Rally Wobbles"
+    excerpt: "NEW YORK (Reuters) - Bullish investors are hoping Wednesday's earnings report from chip heavyweight Nvidia can rejuvenate a ... Can Big Tech continue to lead the market, and is this AI story for real?\" said Anthony Saglimbene, chief market strategist ..."
+    publishedDateTime: 2023-08-23T05:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/analysis-investors-look-to-ai-darling-nvidias-earnings-as-us-stocks-rally-wobbles"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z

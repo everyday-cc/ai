@@ -39,15 +39,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Machine learning could boost antimicrobial resistance on farms"
-    excerpt: "New research has shown that big data and machine learning could be used to boost antimicrobial resistance (AMR) surveillance on farms, improving outcomes for livestock."
-    publishedDateTime: 2023-08-18T12:49:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/machine-learning-could-boost-antimicrobial-resistance-on-farms"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 19
 
 secured: "QTXLTsMlMdKtmWJ3Itvs/qZCbeHg0MrDPemjD6QeU5Lwdn0it/NiS641Wud4a5ZeEZ2oTIHiUmgambR86T2SpLdIhWjI4nVULjJbsTnSpDEcEIgTJTdavypo2hJzEs4pUpXg4gL9z2ZDlxIEF5M/vBXsbbkPVEFGikFf95tylqIWJnPyeHsGU4u7VyJwE4UzN57V3urOnFAiVnUj5XwGjcndexIiMbl5KVu1bt6X0K695bHnBQEhFj5du359qLK4bwHJ+P2IiLxTExsOy26LHq7n2LJfS55PYhrfjU6aOhY2DejoQrlerKFqiTUJqpzxUxlt/XGCKlNJa0a/t1ZJqDeRVLJCY5VTYu2sgQKSfS4=;7MuTahJBlVGkATssRLYniw=="
 ---

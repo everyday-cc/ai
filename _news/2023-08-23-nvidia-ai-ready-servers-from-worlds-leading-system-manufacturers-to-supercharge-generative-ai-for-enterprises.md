@@ -226,15 +226,6 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
-  - title: "Designing Generative AI to Work for People with Disabilities"
-    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
-    publishedDateTime: 2023-08-18T12:05:00Z
-    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "Pdo+D0y7aZ/MURJmeziHKuYprss3/gMuTvOUz0X/lccvnYvWnyZQgRf8ld7eXF7YDoTGXQJ/Noq86siv8d62baOXEH1y1PRTb4CuA7wOAwvATSeMHpQOtTaIahObTqVId4+GGEMOjTAQDm/9HidjsgEOxTPwTR8alNS1REMP0ST8txmXLK/8tNRunoZ1gtLEub7NfA4S6eVmHbyyFkMlSstkUoulTd11dxE7ukjItHDRH7OJf/4z4tS4t5qtBzGZX/K4IW0zpiBZiIbd595BRSBPblQhU4JKJSXF2uhwpLWO25mI/tbUeky1pvW5c7XQVc0QKwwxNR++T8N5lf0m7ZLhsy8UQWRJcXFQivTEdNg=;auGsZCO5Ub4K776ecFDwpQ=="
 ---

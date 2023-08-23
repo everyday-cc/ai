@@ -67,6 +67,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Health care, generative AI among major bets, in talks with Indian telcos for OpenRAN: Rakuten India CEO"
+    excerpt: "From around 100 employees in 2016, to housing 2000 people in its largest office outside Tokyo, the Indian arm of Rakuten, the Japanese technology conglomerate has been scaling up its presence in India with bets across fintech,"
+    publishedDateTime: 2023-08-23T05:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry/health-care-generative-ai-among-major-bets-in-talks-with-indian-telcos-for-openran-rakuten-india-ceo/102968223"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry/health-care-generative-ai-among-major-bets-in-talks-with-indian-telcos-for-openran-rakuten-india-ceo/102968223"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry/health-care-generative-ai-among-major-bets-in-talks-with-indian-telcos-for-openran-rakuten-india-ceo/102968223"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102968223,imgsize-104666,width-1200,height=765,overlay-ettelecom/industry/health-care-generative-ai-among-major-bets-in-talks-with-indian-telcos-for-openran-rakuten-india-ceo.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "India to expand digital payments with AI-powered voice transactions"
     excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
     publishedDateTime: 2023-08-20T02:00:00Z

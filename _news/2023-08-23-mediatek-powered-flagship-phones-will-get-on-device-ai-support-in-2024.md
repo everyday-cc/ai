@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356
 webUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

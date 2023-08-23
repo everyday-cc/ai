@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/two-thirds-of-professionals
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-thirds-of-professionals-think-ai-will-increase-their-skills-value/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI will transform every aspect of professional work, new “Future of Professionals” report shows"
+    excerpt: "New report by Thomson Reuters shows that industry professionals expect AI to dramatically impact the way they work today and in the future."
+    publishedDateTime: 2023-08-22T14:05:00Z
+    webUrl: "https://www.thomsonreuters.com/en-us/posts/technology/future-of-professionals-2023/"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 27
+    images:
+      - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2023/08/Future-Image.png"
+        width: 1368
+        height: 747
         isCached: true
 
 secured: "78A3wGVzTcNYWKKSP+tUq2tgVX/8txJcnmzGR/q0Dh0kVaxI7PX7FnUa6i66MRXndJKkeCCTb3ojBFKCAu+++zD3UKYa7ANaVAfHJVuOLm57OefERyFnUpIEh0b15zkeMb+r2Tx7DNbUCYQYhNhduhR4weGZU6UX9gktmnuKPjE11zQ1XjJZOQX1pX6hGiWqG5S6uOiMgSA4bsmG32DL1xAJULqLcm3n+Eh6xGp4Mok6Nq0+rA1wZ1Gg2jBWGbPDoepGdIlHe+kbVRNiGQZVpSrcuIfOLCynewB5/VkjiNRfgVv9tqf3nosLgRgtnUeTlphsCg+LKEmihQjLXSox/dmI5NlzjUw9ZUodZVYf4XknDfP1h7Q5w9nDy/5Ya85f3FlJTr30VsU74BDxD27qcz6IiYjyD+QouLwk3mxlWkGWnAJvjz0ifPFIqIfY5B83qIFJ7zwA+mf/zJ23QzamkW+9HP3SJWVRdhIdeaz67GZ9IPSbCGXqfrCSvOpPHGXo3Yxib0OvieyBr3NEoPyOoQ==;m0AftXha409oQ2eUMwsZyg=="

@@ -107,15 +107,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
-    excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
-    publishedDateTime: 2023-08-18T11:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/504696-advanced-project-announces-upgrade-to-tier-service-with-facial-recognition-ai-technology.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 27
 
 secured: "3ogiTvpAqjavBgIkGRgMmuDmwhc4i8zRdIvXLJE2VOQw1Spmmwi6Jlrcki5rNlDMEFi3DlCsMRfnjBrxxd5gKcQgZ89FB6rfV2bEPmhha6IyAgt8zuvBoKdmKbgeaYfj544N4Kw0nZi1dZ43kfpY/5kXgLbEIKOodGP7hSOrPFiOrpmXs220ZS9KPdtMxVr3ZIDf6R/BAf867jba3TZ1Jp3W1mUklfIZdFJ9bHwgELresjx/B/butSh83VKI9DdOUUkGCd8QyaTs/sfy4EDGKqJu8QoNRXAk7hcBZSNticcRLCBmwhQCbcwnrlWbtbC6TJVA97SisgfpPwWFJvsqTneNjlc12z2kasnfT8Xst7E5LVXKC5NFOCPcYiu32KHhqm1kCm5hlp2foyXlyYprrqXSTZZ/sUCAu0eUcxOOnarwGmjlCXC60tigwBvUiz1+yAItmKZZm5zqMlLYUhO1b5tH7LQ7A4BpC9OP7ZQ8sSSrlLU9utk8m9YOmDanYt7uAHyi7emtD7xZ3HxvjvUeZQ==;kLlaGdaglkmmsvPP/LfzvQ=="
 ---

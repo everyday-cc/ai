@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Women in Data Science (WiDS) Worldwide To Host Global Virtual Conference September 14th"
-excerpt: "Global Event to Showcase Advances in Data Science, Natural Language Processing, and Large Learning Models, Exploring Impact On Economic Justice, Sustainability, Health, Safety and Leadership; Speaker Lineup Includes Leaders from The World Bank, Boeing ..."
-publishedDateTime: 2023-08-22T15:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33985900/women-in-data-science-wids-worldwide-to-host-global-virtual-conference-september-14th"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/b33985900/women-in-data-science-wids-worldwide-to-host-global-virtual-conference-september-14th"
-ampWebUrl: "https://www.benzinga.com/amp/content/33985900"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33985900"
+excerpt: "Worldwide, a nonprofit dedicated to elevating and empowering women in the field of data science, today announced the full lineup for its Global Virtual Conference, taking place on September 14, 2023."
+publishedDateTime: 2023-08-22T14:28:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/22/9868417.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/22/9868417.htm"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "VHMhJmhxKSgqITCpJqAevmjPs79VtSVZqaXcLQYC8YG1NeL+WRShkSFoIgp2Y0M8kqMoZiVwCOY3ADSN2zlXBCP6BOO8mYUwfjoIXyZuMrrpizeVQWglxsUuz0UZjrMNoDMtwJEzO1C9oll/oPlXOLs1w/o5VwrnYJqC/UGtATz95YmlLi+dXIDfHVnHy5H9jvWxXvgWwsSKnyfoB4eZ5c75C4Bzue6PnAwQ0rnaeIZlxuGpyyLgrMbCkK50VLC3sGBn3qUDQDt2zAml6cQhnQdkgfC0eN6ZYtOKf8w6U5lmg69oDkRhH4t7hxwRL8tc5PLdDkyiKtYTb5qUgxTrS1CXTxxXb5ljJmEm8O+sH5w=;L33n16rNSOWQ8CsTbtRw7A=="
+secured: "BD8zhQh7rTSkJWBSIC6VQV3hjjjpgDy04aaLXEGfJTd3oeGwStLkeYyKORmsBqfzrUezZITM26bl4byhJpXOvmkwvBpzwlwHXLHIK/Wmq2DOJ/YBmo6xrxEwCL3EQKzt4L+zTqRlNwt1rRZ3SUXywr+/Dsi3relUYxIq+5/prB2oWVQ9e4esLKsiQ3JAOHiOrMtTGUnrWQ3fTkP5G1aSDp9kfDXo355wV4lzxYai5wcJ7RVDZ4o2TbUtGYDgiSHB4hFjBGAtvv/4IqYwL68EQNFgif3NWk5+GCxs0PPEJo9FRscNsPq4e2FcLsmUcMfWFIoaQlK2Hz00AYvhaE/3BXGByRRyie2Qqqzsp39JA9A=;1aT0mp312Wj6/BBH6wJo8w=="
 ---
 

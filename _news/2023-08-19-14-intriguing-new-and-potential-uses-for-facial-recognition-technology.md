@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
-    excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
-    publishedDateTime: 2023-08-18T11:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/504696-advanced-project-announces-upgrade-to-tier-service-with-facial-recognition-ai-technology.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 27
   - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
     excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
     publishedDateTime: 2023-08-21T11:32:00Z

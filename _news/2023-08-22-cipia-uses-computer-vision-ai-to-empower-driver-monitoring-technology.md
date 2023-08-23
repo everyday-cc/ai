@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driv
 webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digi Times
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
+    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
+    publishedDateTime: 2023-08-18T18:12:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 19
   - title: "Use of AI during the COVID-19 pandemic required adapting the technology to its context, says researcher"
     excerpt: "The artificial intelligence (AI) divide between industrialized and developing countries is not just about being able to access and use new technologies. It's also about governments and local enterprises around the world being able to create their own AI tools,"
     publishedDateTime: 2023-08-18T16:16:00Z
