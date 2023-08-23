@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-gen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Five Use Cases For Generative AI: Creativity, Coding And Beyond"
+    excerpt: "This simple design has led to generative AI, one of the most transformational technological advances since electricity. I’ll delve into five use cases of generative AI I find most intriguing and impactful: generative writing,"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/23/five-use-cases-for-generative-ai-creativity-coding-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "va8xW2QmRkLS1xKOKeoj3Jw8QWeqsJEnwkrynCsR1JRlzLioyQO1G3ziOG2uVBSX4sVt//R8HQDLIAN/0+pqpynkziyi1HpJgdp5Eh0/656bifsSp5PDO44s1BUMeg1Yk7orapPjR1RahSvXsYNR4H9o4OZERKXWIhfvDluWjNhY1tGjVXsw0/kvrvUc8bvaBbbvQwthfc31XRU4mMhOmGCTP2riembx/LbWly2N/Q3699waGTt9ctRkpDuGf9vooVwxuWWqbLnbff8N9Qes9S6cGgsS9zLEsrcret8Sl4y9WBA3FotP5Icfo0xTXWZcCj7vxgrlClE7cWxd2QbUF6aUThMv13YLiqBveRJYJxlqAivaa3+hnsk9ckrywGIeMVdt5taJQaeC2A4x+sGkEzlagAKViYRIFaNnrNnWPs1xXmMW6CRrY26BK9I0TTud3tVDp7Q4Xc85ADu504OGRpujy49Q0m7PCOsbkqVJmgeWtUOeF6cDCCGQZLqU12g1ozKo2hXSwLNr1gpaRWF45A==;AWa3DlPU6rFxM6tgVVhnKQ=="
 ---

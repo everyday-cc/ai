@@ -56,18 +56,13 @@ related:
         isCached: true
   - title: "Artificial Intelligence and Machine Learning – News and Features"
     excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
-    publishedDateTime: 2023-08-19T17:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+    publishedDateTime: 2023-08-19T22:24:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
     type: article
     provider:
       name: technologynetworks
       domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
-        width: 1200
-        height: 627
-        isCached: true
+    quality: 34
 
 secured: "Q4Tt1E8LGlMyanA9j0PeYucC0DnLtmDDFdnRLFU8ho91EsLhzNJAWUWlgEHSu1DJ65OgPSgrs0k4g1pY+BiSUeE5rFiPtfopvT8RxS0e4t/wiisWQAso+3FYv/Yd6PZWts5ku82aaNVOa0UZVshB4P/wson2s0GuCL73BxnoXTihzrRpXb3i2DOmpfrGX1Kq5wSs7Al+YirvUlKyZnrKt3UaUP/8YbqpP6I6fLqzqY3lXeB3ulXmnpPaVHq2HWQaSKEEDCZGKrHh65uvutqPl7QJvBs95u0Ku7uHk4HD/v0rDg1fYIjKH3NVrOn/oKnDK6MeQv8J1VRWNd3Ru5obocEcx/4ebsBpkVcpq3QFBXQcTUOsVDntVYnM3hb7CIZdCtIOIWEAngL91WGxPxTctic+TLB+CIwpt4IJ2uL+mPpBN0D9zu99P0T9huES2AgryoBziS0GYugjIl4H4t2F+hTZ58RuC9Yrj8sH+ltQqVzPzGQEYlWWKuP6MkiwC0SRS8sWhbr8ji2XN1NKNbTt0A==;ah208FrDhdBx1+Ic3GO48g=="
 ---

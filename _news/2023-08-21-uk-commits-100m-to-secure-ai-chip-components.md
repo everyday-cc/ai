@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-component
 webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
         width: 800
         height: 800
+        isCached: true
+  - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
+    excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
+    publishedDateTime: 2023-08-23T13:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/rishi-sunak-to-spend-up-to-100m-of-taxpayer-money-on-ai-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/s465_Rishi_profile.2e16d0ba.fill-1200x630.jpg"
+        width: 465
+        height: 246
         isCached: true
   - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
     excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "OpenAI may have to wipe ChatGPT and start over"
-    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
-    publishedDateTime: 2023-08-18T21:35:00Z
-    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
     excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
     publishedDateTime: 2023-08-22T13:00:00Z
@@ -100,6 +86,6 @@ related:
       domain: unite.ai
     quality: 17
 
-secured: "pgBthvMklE1fxY7H5pLiutjB2TRf4WKK9PnMdMl/xj/WFlyibbtAkqL3n6fHIHIznLPDr++PxZGf4Ln7PhCfLaY+uMONlxM9sDytlbFlWqDMYfaPNwL8ehIpogjkN2JRJLS2CMhxnf0wp6ZY6NUxNpnHGUOIogVbnASepr6DC4d9OVa0xNPcwFDWVNHvCSJxQn5UAKPmfLhvV8heGxisW0HXBEwZmdcJiNAV5g7DZQ+Q5QDVQZRLDstZ3knVheWCoJsXRmvyI8Q7KNtRTZtVkc4hiB0m6UespQbi4NYub309OtCFhOhl+ddLt5+H2/vRJvNZNjwIf9jrmb4CrE6qjE4gl0nBQvOMnJgnww/vv50=;yNH8AfkRyIpAJuvrmV1B6w=="
+secured: "WiXMSV1d5riEkbrhvKiQsKPkja1tdKlcq8k2bIgjTbu6JTSv+UJ4L8xmpas5xsXrh/V+18CoV5qzL8Y0/cHmUHghfGdZF0JaxPZqYFJI3uyEVDQjiLV65rO3zjUqtzS/IyPtwKBeNGPhyiuPrn8YfxoyyUUqAv9RceZlQJG3KzkAXU/wy8XBLIfXXgDrQwKLHqKm2+nPEhPwsgd+yBtrfXBUOmA1PzYkq7fOYMuuQ0e8/2Sdm3mQKG8fnVsIuqAaI3/aDa6Q69wMdN+nklb+RC7H8RTxGKmoi7e4EalgfJLlzl0Q+2hZSXfn+ZdzmZ93uEfJGbfWMJENVFepzevndgegttwRP5PW1P6DYwN9V9JN9avkLFc+sqiIN3zG5d4lPYmd/TIgl0RWj9P7ZQljcN3aa/Ho39xzq/auJ8Duvuapt3PWr6cWzI7wQfFb4tKd7hb53cIAzaY/P30ARW2MZ507whqlsc31ThuKRUXplWSxyOyGSkbEnz8j/G1/Xv5TMg2NxM0emBMiSgTeDVWpcg==;p+6LeTOWsGRLWZemq9AkJg=="
 ---
 

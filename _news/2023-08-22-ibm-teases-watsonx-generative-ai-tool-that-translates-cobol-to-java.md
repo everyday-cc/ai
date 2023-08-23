@@ -189,15 +189,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
-    excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
-    publishedDateTime: 2023-08-18T19:24:00Z
-    webUrl: "https://menafn.com/1106887438/Ibm-Watson-Creator-Raises-60M-For-Elemental-Cognition-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-20T18:36:00Z

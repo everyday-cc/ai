@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/683688/the-brilliance-and-weirdness-of-cha
 webUrl: "https://www.inferse.com/683688/the-brilliance-and-weirdness-of-chatgpt-the-new-york-times/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
-    publishedDateTime: 2023-08-18T21:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
     excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."
     publishedDateTime: 2023-08-22T15:16:00Z

@@ -62,6 +62,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
+    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
+    publishedDateTime: 2023-08-23T12:50:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
 
 secured: "EEi5rMwQCro6+O8s+rjGYSqZHd3OwVQQwdW1D3zC0rmIw4l9McjPacAJUAc9/ngJGW1JPsRBnkRbmNBWCToUCf7wAC/yUO/6UGU3FU0s0UTRWwXpoUdmkC7AR7WriaxCl/Ahdf9hojkijQu9W/KumgRjpKSVcWtQg/WkG/W81g5gJ8tLbeCFUk/8T4BGrjFtFEMAhrGOD8mdikWeRz8jZFFSvS1vbn1gcYaVNNfojN8sZ8+QZoXkGzU033nm3NBKr4EMTaTvpYv4B9LcU05Xdswla0c49VfHQHjehFjNsUseizFXY2CaNyRy+H6+Aax51yg1QKJg6QZNZfyU7J70bn2/KXizrrp/UrUFNlpZhKXWRn6ndhsvnCAAi4HIcuI9gh0eQ5O4aJ+nrogHxahw6hOrQLjd1UQxKzgwaWgpmgm0DnAtNU5b+mjyDkPdPzAlrHffYcipFhBLx7p5pyhZwYHtO1++4bOOhzUWj/w9Kh3gSdJ6xOC4ulT/Y56wR4l24RCFTT/yYvXiwSVdswmu4Q==;yselwd0w/4V3S2YTGzFxgw=="
 ---

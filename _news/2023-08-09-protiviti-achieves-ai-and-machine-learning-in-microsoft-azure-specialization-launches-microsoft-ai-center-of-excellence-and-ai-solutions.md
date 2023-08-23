@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
-publishedDateTime: 2023-08-09T16:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
-webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
+publishedDateTime: 2023-08-09T15:54:00Z
+originalUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
+webUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "JwUo5ZjHNntc4Ie93hik/Xtx8FtdjOIkFxDbE4MSbNDJuUKOMo/2lobYgCM5jJOIdcewL+/hYx9o0U52OOkFf9nr47BOKiMb+cpwPVEwGthIf86Cf0hWWkDA+9ltqsrobhKVNHL2/Ru+tKbz3tty4xKt8ejpYYVJHIa/rB4+groDSY/h8LKy7Q6ViUAB2cNoQtAB7hgYjygEn5OoH1g/8gFUMN0x9WU+PVrAur8flHANwpb2kGK++8kJWADiNnrGBYoH3gcCWe/gzfMRDaF4N6moI1daZsKrqC+nPZvmH2tlAWEa72Ng7gfOYsbgZRkJasoVx5njR3W/HXX7u872nL6xHYN8WqkxkSKxNHLbXIjkec+xSlQW6LBmQghHp3bEyIw+61OVuwndVueZjtF22Wmq4y3M1lFe0uDY8IhgF1DikHbIqeqsA3T9Co94oKcVCjWrOL/Gtans/47brgdkG9dD0TW7y5+OrqVtaNyFzirGJatqblxMU3wAz21VurwPGwY78gBfNAo3eOrBhaUWqg==;Lyk/XwXoHQ3i0VM42Vx6/w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize"
+    width: 924
+    height: 485
+    isCached: true
+
+secured: "cTJlEoU2/6y5n0dSGRHgmlH5r5kO1dNmD2tgHNtuZB+/ZQ4BcL3U6TJlEXdPTmJRl4LA7cgglH27Gmb1NSPjKcCLhhMvdUji14u1wW/BrI9ju4NyuFuyBtb2YVEaejGdvQYnjjVg51VZNoQ3YIEjGjglICY0534To227J5IBcygUtcE48H9ZOrrRmHZNz1l8TqjI72wiOLboFoNhOJHas3H//VsByWxhzmtmAAMsFp6LAF4khKo7rlP+QZEG/9Ewqo3EJbxesD5TMHtlq2OULxpMJfW+m8S2d+YAhH4WFa7TlzZ3MPr545yYX+9WxV9gGf+ZSmAH4Qrzh6Ntu8q7cr3j4fbf3NryKTQPP7YYyXg=;/Arzs1IxrWyEdV6g0cNW2g=="
 ---
 

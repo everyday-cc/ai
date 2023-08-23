@@ -156,6 +156,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Responsible AI: The Solution To Generative AI's Threats"
+    excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/responsible-ai-the-solution-to-generative-ais-threats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "OpenAI gets lukewarm response to customized AI offering"
     excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
     publishedDateTime: 2023-08-23T10:58:00Z

@@ -69,6 +69,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 73
+  - title: "Meta releases AI model for translating speech between dozens of languages"
+    excerpt: "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides."
+    publishedDateTime: 2023-08-22T16:35:00Z
+    webUrl: "https://www.reuters.com/technology/meta-releases-ai-model-translating-speech-between-dozens-languages-2023-08-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 70
+    images:
+      - url: "https://www.reuters.com/resizer/KzumeMKQ6J3LE2yegaLyNvl4hDs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PGRJZN6TSVMSLBS5E4ZSLX6SIQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Translate and transcribe in nearly 100 languages with Meta’s new AI model"
     excerpt: "Meta, the parent company of Facebook, Instagram and WhatsApp, has developed a new AI model and donated it to the open-source community. Called"
     publishedDateTime: 2023-08-22T14:45:00Z

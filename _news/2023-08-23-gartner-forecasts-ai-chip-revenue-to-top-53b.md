@@ -48,6 +48,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
+    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
+    publishedDateTime: 2023-08-23T12:50:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
   - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
     excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
     publishedDateTime: 2023-08-22T07:30:00Z
@@ -63,6 +72,6 @@ related:
         height: 462
         isCached: true
 
-secured: "66k7+hK3TOIidB/hephLnzfNXHvqaOdum9RuFEFhu3POC61GlPVZrpVUqScR177D/oecXeNpdWF+IDuqaKgiyw3/Z+DQ/0QdcFC66bZP/gKDKtQsyz16AdGiORxT2pCAnM+EtPWvvUDkSe+ZRHwr9D7po3159lhDlcJmUDJl4A0236HgdtT0DopqnyOyntG6T+yyZSyymst1Y453EKy6KQgS8oakvQnaY4vt+PV7SwIPGixbl1guVw2yBwhlpzcxY1htKBBprSL+dElPKkgkVKyziIFQziZbi8V6sWsKBR9Suu6loicA13Lj3AZTg988hYsgCu2xJdxBR/IWHKYls76HQ2NMLQaUYN/k75ylte0=;mMEVHzK5MU/6DudLjrp42g=="
+secured: "8eZjloADTGVYLKxb3/Ihy7kHA4vdgFNL+vUDDWBAdF6AjEqyDaQFv1XWI9tfbZBepmIk4hr8dMfFcxWaMoFDMBn7cWqeR6b+FcXMT/qEn6radoy/yC9oS6pc8GLjfOPpwM3iW8PTvwCQuMIv057VgmqBuzqGyDo1ckLe2NosGuZvgjJfLJpnQv8ufWwX7BxiFWHz+A1R0pHkJC0ISKBnOcNCbKqT84xMHnwFbboVfLj8gOx0R4w+72o3yRGB0w8Iihuh2B9ZIelJgAY9KDsZJzzpOjjQFdEnXHK3e5dg7vddXcFui9Jy8ixp6teQEXnq7uM5/d6Y6X8cKJUuDxIamkE1MT9CMsfxWoL+DHt+kZIh6qpl6dLxMt50gGLwiIuACD2brcDUV2Jsbqc4Y+3XdeieEDgqKuWxwbGJaEnah4WEdI/NnqoqhdcVBHge93wJGa1lg2WKqCw1nO69ea94N2XxatMLcckwXOHd//OveBiFKZ0Qf8UJHPLXJDPZ4GWW0uI7NMy+i6w+FaIrQ+8f2g==;l3URp5803OKjCxv96XWP1A=="
 ---
 

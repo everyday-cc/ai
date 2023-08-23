@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Responsible AI: The Solution To Generative AI's Threats"
+    excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/responsible-ai-the-solution-to-generative-ais-threats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z

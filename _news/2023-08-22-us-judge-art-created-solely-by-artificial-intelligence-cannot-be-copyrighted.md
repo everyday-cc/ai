@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-sol
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -117,15 +117,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules"
-    excerpt: "As questions swirl about how artificial intelligence will impact the music business, a federal judge offers one definitive answer."
-    publishedDateTime: 2023-08-18T19:18:00Z
-    webUrl: "https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 17
 
 secured: "sBeJeY/cFpVKaFWYV9KZi2LchoUAx0r/ZEk3cEyw5Fd49dDFePLqnMMqtikh9IH9vIS+A3AxI8qhiRUD5pNdQJKddcMIV6WDXr2QQYaTVgYZDRyVMc/CFOrW0lS+ZD3S3SjbiUVjEw+hB619bJaJFNgv6P5DXMcwhsArCI+Lhrs6LuGMujj7LWWUAhz7Q+wIqTZSe2ClXoZ+fpb0iqleENb0FDZGb0T8jKd3tlhNrJ7UTVCfkqLuyptizAM8doIKL4uG2G6TCKHxTPgvRV7hl8I5YJMkX8iZHG4uDNk+jTmtF8rhXRel2xICjlpeucO9rsgJYzB6SL2J/9booebjl35ezjYs2qjn/HZdYWUOoVFZoNRumu/7LGNmJaD2myAJyaodGiSSPGxEZ2QsYk212KEB6LyPsK3XkZohlncLgla6wXg8S7+fDHPZgu4o2djuycwpUaEoCbaQD4lA6aU9/Gk2IDUQLse052Rhel01bj3Gc4QGZkPHHE6U4757CGthCb5vzjeBMCwPXtSNs0m4yw==;PSRrX3gv5woa6TQiDuCaYQ=="
 ---

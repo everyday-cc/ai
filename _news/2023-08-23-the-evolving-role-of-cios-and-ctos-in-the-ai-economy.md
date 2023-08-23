@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolvi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "The growing role of AI in science and discovery"
     excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
     publishedDateTime: 2023-08-22T00:58:00Z
@@ -55,6 +46,6 @@ related:
         height: 480
         isCached: true
 
-secured: "esoTqVxYx3oTNsl7E/JXVIlEet/hz4lj0+WzqB8hTFSMVvqw7570r9QmYtTTe4W7HSYXq8QDy5BCHu3A7en7io5nt68Vco1WGGtkmGz2zoPnXCBchvq+JnT5NWstyGHhpx2y5QVXSRnRQBwyFS9XZxXhM0lSqi7RJDf3hmwJe+6IKE3WeWvLQ3pJD9tqYVLzGghjR274HXNyVnoeU8Q9zkbE9WvzncuPiQyEfYEwL/QhKpoq9evLho0NR5fsLRW6a56gKRZcrFZFHXKN3qv1P7dIH0jYpCJCu0ZKkMtAiBz/KLLi53jjeSTzLTN3yGew3NRaLR4S7Eg6SETe8U1/+WRVgdD2BUihKUCvG3f6bD8=;/zpypgm8l0OOXlmroXfO8A=="
+secured: "oCIvfsO6mzSZK7KKTx631v/EcnqM6kkusYDZBU8WX7jMAuXnQQcXa8gkJ6y8q3N2xisJmKXw8Js8Lbrz78KX5m4ZE6CtC0HYUqlCDERMHIUZuXaGffhzEl0BefS9j2lS1Dv+our1bJjW8gHU6CliBM7BmiZHEuV1Bj2Wpqy/UCj9DhDmKrY8/7wLfHESvOICPWp5UcjzFBFRN4ocktvqbNuvRmaorg9bHm1cIMR1NjJOUlwF7jSmwNhpVzLgDCoMSCumlp3VwO3zS25ZiuL0xiosmsAYXWFVAlPmjhczVDLwjuxOW0ZNhAdTDu7QX4FtX5EF6VMyFI8y4hGDASCoNGw7B0wXpaP7qcMT6XubsUsvq9RZ3BNkbGfdxQH83oQg0ETny3SajJZgdK3u7RdPGy0GRJYKvMcgneFs6U+brpagKR694kUwyivZ5AiM34wgQUJ3ySvYs14u4EJJ2MovsBbunVuQUCAsoSIR9BhZOo76bgg2UhtoWvvNTyFRUvOip3rx7OycpvQp2b8L6XRArg==;m2lo1kMwuJaSjAm7yEsTLQ=="
 ---
 

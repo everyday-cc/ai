@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
+    excerpt: "The study highlights the impact of generative AI in the cybersecurity industry, analyzing the technology's positive and negative effect on organizations' security postures and preparedness. Unsurprisingly,"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "QiZr6+bbHi2SoJUptSkTZqA3VptAaq1kG022bpGT6B34s+Bht0ZQvRt0iKfHxCCcWMkdm8kahOVDepvKHJT7Pegm3KbCECPnCU7Bh0D6Xq6On3bssoJ6wr9X5bKm9sXJyc0cDemNXE7ov4R+gsy/KbrKQ0IKilBGmO9efM43fWLPTrgSh7N3MiMHA378g+K6FAMg1Ct4iLTTp2XFUMhhrIz5r3/WD3iwckJrR0cYEWU+C5nxTqeH6RZW6j0WOpPG+d0OA8oyzaWWPRVdCHmlKpWPSuTJrg2dnAgx84CfPwpJbqxU93J0e5R3t6eG6Y7PGvoUtovEy1Hm+KCDH+j7n/z+sXZukrE3KBsDwRAdOF0=;v1kVUrNuHu7I0k8u4zSAsg=="
 ---

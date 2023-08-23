@@ -34,22 +34,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Cruise self-driving car, San Francisco fire truck collide"
-    excerpt: "SAN FRANCISCO - A passenger in a driverless Cruise vehicle suffered injuries on Thursday after the vehicle was struck by a San Francisco fire truck that was responding to an emergency call. The collision took place at 10:23 p.m. at the intersection of Turk ..."
-    publishedDateTime: 2023-08-18T20:12:00Z
-    webUrl: "https://www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck"
-    ampWebUrl: "https://www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
-    images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/08/932/470/cruise-cars.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
     excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
     publishedDateTime: 2023-08-21T15:37:00Z
@@ -116,20 +100,6 @@ related:
     quality: 21
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
-    excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
-    publishedDateTime: 2023-08-18T19:39:00Z
-    webUrl: "https://www.autonews.com/mobility-report/2-cruise-self-driving-vehicles-involved-san-francisco-crashes"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 10
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CruiseNightRidehail-MAIN_i.jpg"
         width: 1200
         height: 630
         isCached: true

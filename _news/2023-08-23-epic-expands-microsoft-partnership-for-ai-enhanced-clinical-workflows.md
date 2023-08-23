@@ -1,0 +1,179 @@
+---
+category: news
+title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
+excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
+publishedDateTime: 2023-08-23T13:30:00Z
+originalUrl: "https://ehrintelligence.com/news/epic-expands-microsoft-partnership-for-ai-enhanced-clinical-workflows"
+webUrl: "https://ehrintelligence.com/news/epic-expands-microsoft-partnership-for-ai-enhanced-clinical-workflows"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: EHR Intelligence
+  domain: ehrintelligence.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'"
+    excerpt: "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ..."
+    publishedDateTime: 2023-08-22T17:16:00Z
+    webUrl: "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 113
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Python is coming to Microsoft Excel"
+    excerpt: "This will enable users to perform complex statistical analysis, advanced visualizations, predictive analytics, and machine learning in Excel."
+    publishedDateTime: 2023-08-22T17:41:00Z
+    webUrl: "https://www.zdnet.com/article/python-is-coming-to-microsoft-excel/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f19a01c69ca1095117ebe9fad7097214ff82f81c/2023/08/22/b58df5b7-d18a-4f36-ae1c-e474a7114e03/color-ropes-stock-photo.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
+    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
+    publishedDateTime: 2023-08-23T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
+        width: 2473
+        height: 1795
+        isCached: true
+  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
+    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
+    publishedDateTime: 2023-08-23T04:11:00Z
+    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 74
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
+  - title: "Microsoft Adds Python Programming to Excel Spreadsheets"
+    excerpt: "Microsoft is introducing the ability to use Python code directly in Excel spreadsheets. It's called Python in Excel, and it's being made available as a Public Preview for Microsoft 365 Insiders using the Beta Channel in Excel for Windows."
+    publishedDateTime: 2023-08-22T15:20:00Z
+    webUrl: "https://uk.pcmag.com/office-suites/148306/microsoft-adds-python-programming-to-excel-spreadsheets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-adds-python-programming-to-excel-spreadsheets_vbmj.1200.jpg"
+        width: 1199
+        height: 680
+        isCached: true
+  - title: "Epic, Microsoft expand partnership to accelerate generative AI in healthcare"
+    excerpt: "Epic and Microsoft announced on Tuesday an expanded collaboration focused on integrating generative artificial intelligence tools in ... is intended to speed the development of AI tools in healthcare, bringing the technology as “quickly as possible ..."
+    publishedDateTime: 2023-08-22T15:13:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-epic-generative-ai-partnership/691505/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 68
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/i6TwXMDqR2-SwpYLbQVAMHZ7RenE-M2CAeuYj2kIA9I/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNjI3ODA5NTRfcVlwU3JLSi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Epic, Microsoft add new AI capabilities to EHR software"
+    excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
+    publishedDateTime: 2023-08-22T14:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-microsoft-add-new-ai-capabilities-to-ehr-software.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft could bring AI to the Windows 11 Paint app"
+    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
+    publishedDateTime: 2023-08-23T01:03:00Z
+    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
+        width: 1399
+        height: 787
+        isCached: true
+  - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
+    publishedDateTime: 2023-08-23T13:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
+    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
+    publishedDateTime: 2023-08-21T13:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
+    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
+    publishedDateTime: 2023-08-22T13:35:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 29
+  - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
+    excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."
+    publishedDateTime: 2023-08-22T13:30:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+
+secured: "hu39vOfRu+1CzgoOxjp9Tg0o9bDcyhsoaaafZy8SBjSevWF3Kga5x0aOj34kI9Jl7V6CZCsPpSps2oRMXbBq4biuYNBce8UsL12OD4L9cdmYHeZdb9g7FlJXiRlVmgU+YOhbbqJYrXjV/n2kMM2AtDGNS0MIBEyiO3scYoaeNkVWj6xj87WDvUvticRaDXxipL5QZixuSUAQ34iQ6uhksY+NWpYMk6CircVEqlEUT7/e2d5OD3Zie6oLKiijrW8FIgfhESeNKiWsbpAI28Jn2kNeLkjNlEtUWSgqu6AU+5hjd6h3g/+B3FGI9yE/s5Epi+bM/qL35d2CRPLVlZgPBMzp7zdDEsCy2tBQsoyS6YsREapHH9Kh4laabA07J4/TFv6M2TZaIwggMv4gMblBjqJ1suOSK5pSqEb20PUHiOj/yx61U8yMcS95imZgZq2LW2GjWZWhDQEc/XtxtDZgx2Pozeq3J4pmp35dqbgSgJ6unBsaHaIA2aj0kczPUGdIqCuFbYqraMG2ob/iy7f/Ng==;wQlzhCCrZsa+S+gb5rxuIA=="
+---
+

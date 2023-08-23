@@ -50,15 +50,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "China's new rules on AI-generated content"
-    excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
-    publishedDateTime: 2023-08-18T21:27:00Z
-    webUrl: "https://english.ahram.org.eg/News/506790.aspx"
-    type: article
-    provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 19
 
 secured: "GNJhycjwSW6AZhMSgQWGamMyb5PQd76KD9MNKeMdiWec913LYDZszmY89HKFLdpy83bkIIeejc4sUV6KAj/FL7aqjTFDBFBOy0l1PLiMQQGlodw9EvMoa8qCMlAx7l8ymmkXRBFh5TCgiVXqxLTezvEeWJuDsyGmN7yEw03J7LRuh7vhR4BykG6bwpD+uZULte2ATKqk8UWvro/4CJe46QT/4DSivHa3vMJbP+e+IqUFBHUyUi2VQ4qJJpzWv6sx6K/EC/qZJ8S9cFDRlSM893gGHAEqqkmMJb+AhBk0NjLMarvw+0LrEzsVadoBfIOkRqMObouoykxjjZFaSwTrQmyPeDMGT/fL+3902Rk8Cje1nuMXRmlL+IJfHicN9aVRDBe+ybtrft+cePyWE4A+pwnRfCTw/+wRCyUP+xbFboIr6iPTK6IpibLDqGjaa9xNZZxXvU1pC10KJPRRAdtT+/AXhc3t6C+5aUVvQY0Oc6AFVBq/wFoFY3PgMjB4TBswM2RaZGCg47foEcu6nzn0yA==;eNzuqnjNs9bv89NDRaocrg=="
 ---

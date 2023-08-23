@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr
 webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
 type: article
 quality: 65
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1019
         height: 757
         isCached: true
+  - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
+    excerpt: "The study highlights the impact of generative AI in the cybersecurity industry, analyzing the technology's positive and negative effect on organizations' security postures and preparedness. Unsurprisingly,"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "EQ/vZ0OvG1/zNdsC+SKxHgR2XKAu0Ur7Zzdx/hDpNie/jsJQlLyestk3eD2VOP+PfA1Ih2o8rkArrhzLwhCZtsRjHSZgAX6rdBc61q0H2L2V8yKlSRsaTQAZyZG3An1JTEC2EGZ6GGVhzDcLmuQ7BVeKwuQcz7qqBcVfiaEI1BSYr46z3yOxMMRc9zH6M0Fro+b2+IRq0yBJMVJYRzk98ikUjFJwB9EKuLPUTnPlM/Ux81XYHaE/ImszmTkVEr/PRnTucY38r1xA9KtFe6Et4ZtbRSXY0PNhY71PwZfHbQVnTNmSnpd3IBNEjCpk97ywVopMV2GBtTE0S5eJWRHwwDtzYWKbCm+ulcE2DlISsOa+ALlwO0KXuBCS1GmJSBMsT8rDCcZVUPWvjMfJX5MxykOsuYl643mdG6gaVvC5Y06yvG5e6Ii+iDhACyPsluWt3MQZUeiZR3hEfv0/LT0QbNDNCW52i2KLMpIZqQ5Xt4O+tWQZjQ40D7+i50o5UHJnHEWbkTUuseSmGQerK/WlUA==;gbLv4nTrxR5olkxvUHEPaw=="
 ---

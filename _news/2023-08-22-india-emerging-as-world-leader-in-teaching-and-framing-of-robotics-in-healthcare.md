@@ -34,6 +34,20 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "Data Analytics in Healthcare: Defining the Most Common Terms"
+    excerpt: "As data analytics becomes essential for healthcare organizations, stakeholders need to understand the basic vocabulary related to the process."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-648272290.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "JbYf+VDilvqbTRDnUA3RVGBUGUin5Xa8YUWurIZGrXfVXVyotI7Pa201r7ZjPHQTmDc3URiDp5MINjMTneNO7y1OPNU8qj/b/3TpDFN1GOYkAvQCleJKAGgPPjv590EzRh8KSxF4HOtdTCHz2dZ6CrCLpRKh4JrE/nzrurim8RG8/vLODxILX+J1B9yooq/7cz1kQXqvobnIYDGPTb0V4xdzoSrW7wItJUP9zIc8dJcc0lguicXUAVozl7vPP2zA/1HsNI6jN0O9j5iKQhr6uXJOCj7O4pY1SyU9aDu5ZAQNbQ2ZnfcINTr50fAXUZ5H6o8kT2NUmp0GeRaVazzaZxlxcRblk17nzFN4ltFv8Kg=;2ZoGKLDFh703KDIstvUabQ=="
 ---

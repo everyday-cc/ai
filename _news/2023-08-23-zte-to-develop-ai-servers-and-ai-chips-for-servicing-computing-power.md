@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230823PD211/china-zte-chips.html
 webUrl: "https://www.digitimes.com/news/a20230823PD211/china-zte-chips.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 426
     isCached: true
 
-secured: "kob7zp/S50vQDRwOP4lwjWdJIBKBlF/2s62LNHlr3CsboUuFwX8NZSR4smCNhcWNYRXrHGWmTovoop1VFti4r9j0TZJJtGj/9+SRn263neLSf7KvFndsgedgxg77xuGwkglJE7ieonRMhXsSeUfDIM4Xml6x2retu2doMfLvYNDEIH+IRo45lQgPxlldpj/r5F0kbq9ykM49IhrwQzmpA0BxgK9qY3XJMoMk3A8nfih0VXrEqBX6PTs4bkkbWwvwer6bYlsWMbdA6L5JmBtcA+OAmEsRQz+wBSo++70lFiHmg/ivPfkta6M1h6Y1i3vMF2l4r1o4PoUfmfkjBFo2rEwttKpKXqqwkZHDMtFA3kc=;34A7J7c1YBr0TdEgPm8TUg=="
+related:
+  - title: "How will leveraging AI change the future of legal services?"
+    excerpt: "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model."
+    publishedDateTime: 2023-08-23T13:06:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "/FGe6Fmc2fQFtZvd74bdZUMVvJwRly5KtQLm2DQDX7OI1cSfE/FJXwDLCrKBac/uW6Hp70UMEapppHD2P2ju90xzjbKF+v9WofgM7XQK/fP+f9A995fNXd04y6ADbmPNLvgnSOHvZU+wVBhDUxN9wPXHC79PS4foRTCR4EuMD2xjeC6rNpN4h86xa99rG/LoFLrMz29dVEkWEzIzuqFLb1wuegb//VOITs/ayt9i+EMsVHXlZYfcaDDTj8zng9R+WGhboq2yEzGRwGDzS2OoXmBqCGv7ucr810MBW7fvA6vp5ew6uxKV+7bOT5YYWd50wlk/tViiRVfaMouZPi+tkrJEXcTf8OL7ZIiO1ZyRyXBhBF3dmeABXnxy8ChYQl6MgyeWknHMPfKxf72b4/S5Shhl0xeV3b4WVKTzZTFw3n0gZXbv0muU+lfIpOzcW7ntcredHxmUqLJU1FvWrqG53iiNzJ3tshNCiYRs6M4abUkj0bwzpF3S4cyaEB6/4wWnwZzugzGu/TKixEl/V9jfWQ==;y3XsQF+MfbQNJi3Hye/dAw=="
 ---
 

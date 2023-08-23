@@ -7,7 +7,7 @@ originalUrl: "https://www.proactiveinvestors.com/companies/news/1024231/regulati
 webUrl: "https://www.proactiveinvestors.com/companies/news/1024231/regulation-focused-fintech-rtop-floats-in-london-this-week-via-direct-listing-1024231.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Türkiye is on its way to becoming a Fintech base with its young population"
+    excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ0YTNiMmQtMTU0OS00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "7rcIi65ZkKx6vtueH8hiQtKLkNEVBkhsTWZj7d1yPLnYocIMe9+Df7nnYQmdBusSrnhawhFWpgvjM38qZSL7qbJdSnJnykYbnPNAYQtJzofZw19wnqIN+3zEuGSEP4sQ93vzb+iZnZW8y1CxHLcJz1M/MRkpLNhlmu/LKtcKyn7D6AckkkHwGu822t0298UDzSuXhw4sGrq7i+H/eNIlVy4wwDKSmLf2/+B9UVp8vcwmqY2x/9NcuZcZCBuqOdIgV6DJ8GgyvHrjXreYDbS6QkpwadZL9PtEZtwILp0OanMizleGqQBV6Rcd+FvGDBVDb+BRP+e1qUWZQr45KhMI5gYJvaBLG8kSk+zjrh5zxPQ=;zK9ksQCQC+HzxewUMXwYSw=="
 ---

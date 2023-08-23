@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T04:45:00Z
 originalUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
 webUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/a5/4a5ac3d1-cba0-50cd-a326-f0deb4ad3d9d/64de7940409df.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize"
-    width: 1200
-    height: 631
-    isCached: true
 
 related:
   - title: "The 3 Most Undervalued AI Chip Stocks to Buy Now: August 2023"
@@ -52,6 +46,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "DWlf7RHFgq4pffHCYgP95CFMDurqCY5DkPQvWeSfFf0F3eVZyhw7QULCKnAaLqRef/11GsQcr9L0yCyXoazgxD4T3subMeyPs6RrgQJw+Jzd55uIEyD5vcAyWykRYqYTFqq9ipU2tGdq5qkODNQd6HPSddwsJ+oVD2r6NGw97NCjySD42B0aoCTrPb1yCpG6YkYXG/Z5WK6R97zugKjb9KKFOsVWM6y8Yka4MD1a4jUnV53iOj4EA/JaYqwnzEi5IDU61tG+BAC9lfFBkhsPhGaPtVe2FDRykypjJEnRgMs0VMy/0DdDhalBub61uQEU+rWqq6+gOgKXpwtAt4wuhU+6YXHQB8tXJr91Aftxa32ORQsmXe2VlmhGp82lNOSzUNClPzUGpAlMEKjZK7AyDV9FgD783+vDMB29Jyur7jlz6sNq1RdRTkqX4rUt7HtI2/l6PMDS7BKB7zWNOBuz8IW1C1D9ZyR9WvzevPpbjVt4T3d5/WZLwewh2948YXmRTdlP8sSbYKL15D+enHksEg==;10szyTBkWxjmKGlOUuuwFQ=="
+secured: "ctcNPv9NTRoiGhmdKjViA6VyzP7aX25e0ajPrYLcmfB0eIofYBs/f38GVQwU8KAEykLuN4MdEalQVfKTEs820lDwXA8q6TMQQGAAPpO8sX4jWzwgUmeMW5ey80r17gYnQzre5v5nVp+twkeFElgxSgGBifuRSYPozdUkZCFUvdU0b8HGeLxfQzUxtXYMAVp9BD48wIK7dLvmu51mBhN++v5NuP6hxxBS4pdSXRH9urQ+32RV45FgCPX8/Zg9D247N3Mod6MjQcTT0s+UNi9+RVvGRXfpBGs7KNMMHUQ6f7Ms6FybxQlf6U69GSTqgu60O6sdSR5Hz3zlyeSpRRyPE2y0vpBVk7/ZREu62yeslBOpsNblK8ie511n1UQ8Jl/I8uvjVJuvutEBj4sCZuSWl0+aBopT0xhb5eM9NHktB1MoRELC9EkIwTB6f2mn76WC68VysGYUjFp8bwZ3crreYFk6OYUeze8Rwlhs+ucGyJjmaUgwRjCLYvUWPQCUC9DfezKdA+bCK8w1mtxWCWCkZA==;CCd1Uak80qinFcHdRwElZQ=="
 ---
 

@@ -114,15 +114,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules"
-    excerpt: "As questions swirl about how artificial intelligence will impact the music business, a federal judge offers one definitive answer."
-    publishedDateTime: 2023-08-18T19:18:00Z
-    webUrl: "https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 17
 
 secured: "+VzoPgIjptZz4y74rjZ/yPqq7hwjm/4imqxj1e2LGxWE6n+7XsuTZLG+9zQy1j/dG6zqu+TNrPdymhlvarzLT8BVQqf1Cofk09uxjPLMmQEYRo2eSuqtqf81B/uwtvcmgK2Ig8PX0hEsKeMm4oen0XkglVVx6F2aqMLIAeJXtJtoRminCRSOtlvpiCFVIU8lnLTzh0+aPGl8mTjeAJ06Wuilngkn7ZK+FNNPl0422qmw4XjrDGJC4eHMyR9NefRSlG/vJ6ahMH2fEnXYCiVB1PWo+y69H1YBaoz4K2vedKZL7X/KLTLy7lEa+3CSiRPNsh6+/r5O8FNNyU0jyYveUutnky256KPIex6UXXFrvo8=;97/maesodDOJEvTKxXF01A=="
 ---

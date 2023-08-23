@@ -114,15 +114,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules"
-    excerpt: "As questions swirl about how artificial intelligence will impact the music business, a federal judge offers one definitive answer."
-    publishedDateTime: 2023-08-18T19:18:00Z
-    webUrl: "https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 17
 
 secured: "ptfkhNCfD4hOUYwRuXMk1hfG1qMLDte+d7dhufllWGXCSErsIKG69HUFXrzSv38D5qX5jGpDtd26dPPzP0BCql1qylY5vJD88kkU887OO7K7+oWsp4wrQko327P0Ejz3FKZ8voOdgGI9fi7yZQwQ+AcbHG56UhZr4ivVXfA/p/xn49IgiG80/ij2dlW3HZ1rp9DtK9y7kQlAK2AbX8g16Q9+bI9PwsA2h3sHIubpGhrGQ7k8UaVjUIBlQVD96/fu3ntsVIEI+UCCDCWmk3wEhtZrHGFuogFmh1kJPecaGdWxuk93lLpD82UHoHEvBr7bHmGbhnXg5Tq4m5+uq6cdkjccZaQm93UUkrxdjo0eIZeof45yWMpbd7yjP/G9eKTvwdhH1eBMO4nTHXS4mZcKlQxi0IPx7LDRKxrHIz+uvD13U6Iji2JR5TfL5GfFIKldlsROXT5Il3HV90OLLteISNGbLvG1b+PFeqNihWVfkE3ytOuUlvbZFKjHoenlpFCxEdwDFxrZ6RCR7vuPSD9M/Q==;1VRxLTnHuteRMISyNSZhgg=="
 ---

@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "OpenAI may have to wipe ChatGPT and start over"
-    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
-    publishedDateTime: 2023-08-18T21:35:00Z
-    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
     excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
     publishedDateTime: 2023-08-22T13:00:00Z

@@ -19,20 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft adds partnerships with energy companies, Aramco and Petronas, to drive innovation and sustainability"
-    excerpt: "Microsoft has collaborated with Aramco and Petronas, two prominent energy industry companies, in two projects to drive innovation forward."
-    publishedDateTime: 2023-08-21T14:41:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-adds-partnerships-with-energy-companies-aramco-and-petronas-to-drive-innovation-and-sustainability/"
+  - title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
+    excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-23T13:27:48Z
+    webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 34
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Windows-Aramco-Petronas-1.png"
-        width: 1024
-        height: 768
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 105
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-08-21T08:23:00Z
+    webUrl: "https://www.inferse.com/683837/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "UffVWqqtQTkSaXGJMZmCJOzioZjjduxsbrujSf6MrOXQOXhiOzEOuILmEz3npcqb7ubRrrKKq601w67jYNjf1Y4EqCnS955OSlYLp4zdWSfgP/5n+gJ8p2Z2enrKToPyOi57SEMv2cGDv50D55LOEaMcfhU/b+UamRglgOhmw0iqgxaf0xC5lJkobsmOSfdrb57v5dJm2ThkkRksFWGL0QovTEmBziJWFAnvsbH9Fg3xVEYEFzDuSi+dhNPcctvAzhZDZCrI0b8iSM2fU0M2e5i72OuzjtISQlLLCsf2SuBiwXHJRlYGxeML0EOSna32X5kp3AnZvPaGAhRQQuKnAAH+gkl+EOMeBYYeK3myKvU=;Ny/EuCBGAC+XQQso1Y6NWw=="
 ---

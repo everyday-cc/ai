@@ -34,6 +34,20 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 45
+  - title: "Data Analytics in Healthcare: Defining the Most Common Terms"
+    excerpt: "As data analytics becomes essential for healthcare organizations, stakeholders need to understand the basic vocabulary related to the process."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-648272290.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "gyRPqep5txeIlslJSU2wO6z6voWCr70YB4tf0Q3ajfXQng2DYUFXvyJObd6o9Ey0i5WhD5cXkGpCOsoDtEMqGELUW5L8cFMk7se42tQwo8zYfgb86kU1zRHVwXl9v4C+Nlo75vIIqtCY2/wPjSrQrP0mdPsWmWDWCZmFA9PmZY6R6YKmGgkDd8mfM+m+XLLIFsoIeI/SkEuIl51YdVSt+MMtBOTwbaryLxkC+uBug8kmbIxmGagWdGHOZrLS4SqlN4RGTHFyEPY3BaAaHGafidfTzj/CVU1XWNXL3H7a2rL6zwOjH3D0/4eEA1QZQPk9xjccgJvD/BOGaRU7zAF3AU73Hkjl3QVuMwGddn1LMegc6CbJA7dsUoxHrslvNWuWwg77txKQnSy9Q/cuOt6MjmTj09/FYOX4fWm0ouD8F3xAOiOmI8m7uubtSpiT9lO1AQi60Q7DrqsrVNpvp8m/EG82sE/ykyFwrfjHcB4IDjaByn5sOtxq0d/2mntkWVHdazQ4GHUA5f4hYXSIs1f9JA==;hFQmsxmYbvQjFZunmyBNeA=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
 excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
-publishedDateTime: 2023-08-19T17:00:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+publishedDateTime: 2023-08-19T22:24:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Interactive AI App Sizzle Guides Student Learning"
@@ -70,6 +64,6 @@ related:
         height: 720
         isCached: true
 
-secured: "NrujEf2BlJbzHvWyNgKlqxTM8IcMHjIwlfRCkmX48ONMrMzIBNuLVv0KQxyrVR1N5/fmPUJ8CP6eZ03s+c2119syJTVY40pFNmGgnn8OWUTqcA0qigBMNlQwbOF2N15YPaeMdydCRoVvSypNiCFAmTwtiNjNttHemrAcejbA8hR4VPl/R+iMIziIGTDJhKANmuqb8ksDk9Jk2JRWtWXoyBS/S4yUStAVky6AEMz4AQZT7MCrSp4Bw+kdJFRHED7t27oGqdHD6LTWWN1jU3WUBQXUs31shMiqqipPZb7aneCOi1V4Y/8yZhL316/gjRQ9MwJpD4E7EYEjXDzbzJi4Z1BR5TkR/Ul9g/b7TrKJMFI=;IDNWVFe9dJTesNbPFRbZXQ=="
+secured: "/hWjuulzCeMBX1ZtvweiChy+1ZpMXeq/itHg6ReG50/npj2mDnPMFuFybEkld+E6O0Zl5wk9fW0Gy3lON969Vviinve/86KUeXUwYmr9vNP/aR1XYmPYL6iIP7zQe69lPkBFWEhSGDO1SOsIt6osCjFzO7ulmMEkaQQyxeuDIFrj5lDOg8OdKaQSz7DkCzx2SQkgueSAUKR3VqnHPhMsHng9N9JbeHK7i+5Gw2T35m9ez4yui1+uZmXH/IqZd7Cj2h6BVAKH9k4BUcpr/fj559AlMsXZm8Mcre9uXjUgLF38A6h3mgw+ZMZ/hb240I3uHHelBgsiDZCoFuOwfQnPpUUYoXMrNEmjF9SYRm61zfs=;SHcq57oZBjHz5sAAiJkE+g=="
 ---
 

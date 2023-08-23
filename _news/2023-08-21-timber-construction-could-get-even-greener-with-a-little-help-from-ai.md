@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/architecture/carlo-ratti-maestro-ai/"
 webUrl: "https://newatlas.com/architecture/carlo-ratti-maestro-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: New Atlas
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "A map of every conceivable molecule could be possible with AI"
+    excerpt: "A map of all chemicals that places compounds with similar properties next to each other could speed up the process of discovery for everything from drugs to materials"
+    publishedDateTime: 2023-08-23T14:21:00Z
+    webUrl: "https://www.newscientist.com/article/2388562-a-map-of-every-conceivable-molecule-could-be-possible-with-ai/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/22200508/SEI_168462924.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "+V+drxLNUOn8GtoQ8Emp3EaD7/YCqAqJa9JM+aXIjFeyYH99WZeUaxPrR8d8PFI81k3dHScmRV16n/cXEM+r2qp8OUNltJR5eeCfoQI0EIJlLTB/uhr4z/cLR/pIbEFrquE4frd5QY6moRYX+MixASU4PTYtmUc33sWyRFOcke+GOa4UBXS6HC3IDvRlO/UWqFEdaEGwKlQbYRfltPbqKWg1CYpDiAJw2b3HmVp/JToFFG/Uemd3Ox6mgUl1ouUD1RYqIfN7+wWaiSxEfHffBn+Y+6Gng+g5FxlxMOEL9tvljIqZ4EcCntXFHbw9qZgLgtPPFkowLIDqZEcddNXxezWajY0zWA+E5UY0X86nlAI=;oLCa9cveSSgDn19lG2yRnQ=="
 ---

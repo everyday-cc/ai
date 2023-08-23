@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/science-environment/2563867-r
 webUrl: "https://www.devdiscourse.com/article/science-environment/2563867-research-reveals-self-driving-cars-could-make-traffic-slower"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
-    excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
-    publishedDateTime: 2023-08-18T22:08:00Z
-    webUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/"
-    ampWebUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 32
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/09/car-dashboard_30940040_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 699
-        isCached: true
   - title: "NC State study finds self-driving cars can make traffic slower"
     excerpt: "It might be possible one day to hail a driverless taxi in Charlotte; an automated cab company tested its vehicles in the city last week. Advocates of the new technology point to improved safety and quicker trips."
     publishedDateTime: 2023-08-21T07:58:00Z

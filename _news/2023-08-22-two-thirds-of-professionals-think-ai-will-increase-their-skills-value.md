@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/two-thirds-of-professionals
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-thirds-of-professionals-think-ai-will-increase-their-skills-value/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "40% of workers will have to reskill in the next three years due to AI, says IBM study"
-    excerpt: "The executives surveyed estimated that 40% of their workforce will have to reskill in the next three years due to AI implementation, totaling up to a whopping 1.4 billion of the 3.4 billion people in the global workforce, according to World Bank statistics."
-    publishedDateTime: 2023-08-18T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI will transform every aspect of professional work, new “Future of Professionals” report shows"
     excerpt: "New report by Thomson Reuters shows that industry professionals expect AI to dramatically impact the way they work today and in the future."
     publishedDateTime: 2023-08-22T14:05:00Z

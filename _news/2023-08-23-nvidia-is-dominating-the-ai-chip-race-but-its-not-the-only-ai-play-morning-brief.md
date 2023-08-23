@@ -149,6 +149,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "It's Not Just Nvidia—AI Stocks Are Beating the Market Big Time"
+    excerpt: "Betting on AI has really paid off this year. A basket of stocks tied to artificial intelligence has outperformed the S&P 500 by 62 percentage points so far in 2023, according to Goldman Sachs data as of Monday."
+    publishedDateTime: 2023-08-23T13:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-23-2023/card/it-s-not-just-nvidia-ai-stocks-are-beating-the-market-big-time-EExPw9TiBvvRFnIjyQoM"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "AI buzz on company earnings calls goes silent in regulatory filings"
     excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
     publishedDateTime: 2023-08-22T04:00:00Z
@@ -162,6 +171,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
+        isCached: true
+  - title: "Nvidia shares up on hopes of strong results powering another AI rally"
+    excerpt: "As investors up their bets on the company that virtually makes all chips used in generative AI such as ChatGPT, its stock has surged 13% in the past week and tripled in value so far this year. \"A lot is riding on these numbers,"
+    publishedDateTime: 2023-08-23T14:19:00Z
+    webUrl: "https://www.aol.com/news/nvidia-shares-hopes-strong-results-111959275.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/dfa4268597051a0e7d6a179d41bf2266"
+        width: 800
+        height: 525
         isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
@@ -205,6 +228,6 @@ related:
       domain: shacknews.com
     quality: 19
 
-secured: "Gxy1/gCzT6FuV+TbeiMRCcUmTbm0c1qRlMGBt/BBzbDcPJFfqDeZ5OKAKzvo2m/NniFiHCWfxvgqU/VJEG+KXRZjnYrvlc20cZ8pm8HlgoKSQhB2Xa8RYxBhFtxNC0nW3ws76NNLgajoPPvof48/W/l17vKUhx1EsLa8qXsLtWAcN0hdhX9U5aIT8oTZXRYcDyfZvoKaL3RsrXU3T/1ZHJis2EF2WVYz9+CRIQpECtEh/XEZzq6nljuGUY6ftAVbATru9pwYOdReP7RjIrdYm7AO/q0cFMXAIkYz140iJyPKYkcGiyrxYvyKOrB+3xkp/SeBmednaGa9wJtzMAPhmYbBEdzOrfNw4g6H4XBjtEs=;gZ8Zu583Q3T3PKsTfGyC6Q=="
+secured: "VELlQLu1kquAjb+byu3W1lJ9H5MasKe4/awazmo3rNLNpbmJSM2bBWHIErhIY/4yYYy5gz3FemhdS0+MA2CF355epUKu+s0sy/PkMeiIpVK94G7abgwCocUK1mtDtWu7aDNpLbu7A6ZZ98MM8dZERoAkZq0UP6er/Xot6Z103Gj/htC9/U0182aeXKM3kYmuF0ZYyVlGojGKAaOmffQmOZv8q9xkwEU+U+YnnDRfW8DCi9nTgUlCRRLQVUcYWOAznZzSebGg+TWkgRRrqBuujLQJO2Q6YUeqLuB0p/B6hlMNQ6MmECRvsADKo1pD7c0znbueRPz5j7rBw9n+vbLEQw/hG85MJOEzt8MRVvVSUGai4tErXedboeh+dQ0IbRHxKNTTLPhg6LmyYKiHCelBNLpWVtTaiNZO5I6VuIr67Rv12/13qI2ssxwFhOclbvM15wxn9zIOT+HUmR+wsM1YPU9qYxHO7hXwwSsxE7T+yyZBa/KHLCFwwtj29loOpfcsGeLr7EoGC06KhVvVX2a+bQ==;je6Mk64crPBg/9gQcZL5cQ=="
 ---
 

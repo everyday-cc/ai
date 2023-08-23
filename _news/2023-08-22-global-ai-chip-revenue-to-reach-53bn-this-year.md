@@ -47,6 +47,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
+    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
+    publishedDateTime: 2023-08-23T12:50:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
   - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
     excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
     publishedDateTime: 2023-08-22T07:30:00Z
