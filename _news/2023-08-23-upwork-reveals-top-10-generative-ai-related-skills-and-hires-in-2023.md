@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-
 webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: TechRepublic
@@ -28,35 +28,44 @@ images:
     isCached: true
 
 related:
-  - title: "Bosses and workers are worried about new technology like AI, but for different reasons"
-    excerpt: "Execs are planning to invest in generative AI, but employees are nervous these new tools will put them out of work."
-    publishedDateTime: 2023-08-22T13:43:00Z
-    webUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
+  - title: "The end of work: which jobs will survive the AI revolution?"
+    excerpt: "Smart machines are meant to work for us, but there are already signs that we will end up working for them. What will the workplace of the future look like, and will your role still exist?"
+    publishedDateTime: 2023-08-19T07:00:00Z
+    webUrl: "https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/dcf271d3db722ae7fa9a2b5f1c1753db2ae921d7/2_0_2287_1372/master/2287.jpg?width=620&quality=85&auto=format&fit=max&s=03b4b2a906259a8a9121520ef3439a4c"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
+    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
+    publishedDateTime: 2023-08-22T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/64e410bdbd98a600197b78e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+    quality: 42
+  - title: "LinkedIn Reveals the Top 5 AI Skills We’re Adding to Our Profiles"
+    excerpt: "Natural Language Processing, or NLP, is one of the core components of AI platforms such as ChatGPT. It's the ability to understand prompts and commands written in human language. While AI in the workplace is still a relatively young concept, the effect it ..."
+    publishedDateTime: 2023-08-18T15:30:00Z
+    webUrl: "https://tech.co/news/linkedin-top-5-ai-skills"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: Tech.co
+      domain: tech.co
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 711
+      - url: "https://images.tech.co/wp-content/uploads/2023/08/18111454/ai-skills-linkedin.jpg"
+        width: 1920
+        height: 960
         isCached: true
 
 secured: "YFgN2jhpY8e10Z3Gp2ylo1WfZ3Zg9y2lPviTidtG5jZgytVryiaKQtipDEiMRM6N0KD/+AMQAKrBjkzqTmuXPYR/gHALXgdVKH5XxqFh3oxlrn8+Ht5374ECKLo1co6yjgVmroMOC+c9LA6LAj6Y9efyPbbT0rZs6PB+Xt02vRJIMfZO56CT1gmcN3J6t2EW5cjEL7tQGF5hPDQC8ZV1YXLCAd+Kj3sew1q/zASZKZfkgmg2JnuTwjhG7+82xbRR3Mo6s2hyLuJLx29LiMvDXZCvxr/4DL79sPaPWgutEzaIGMNKd7RVD4mi5mI6SDvsLbMRa+hTDZKxBh6kNd7tQDpga3BczbCQMEUCOUywXCc=;Rb0jYR4v49t6HpWwW006Tw=="

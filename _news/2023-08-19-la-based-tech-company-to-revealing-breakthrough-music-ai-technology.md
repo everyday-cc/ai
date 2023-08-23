@@ -65,20 +65,6 @@ related:
         width: 2654
         height: 3539
         isCached: true
-  - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
-    excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
-    publishedDateTime: 2023-08-18T08:12:00Z
-    webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/hAdhlAyeUOEsIhT8p_zmKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ebe2dc002aa9e7327d4343330a92e8fc"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YzBdMIEdlmh4lHeHlxc2d0Wik/4ExXtJhbZXURAPtJCkIIa7I5+WYMF3Ps/00/c3giim2LB5zeD3UfPATtfbXV0HV0Hsm0RprUPRzs/0RPzKZahl9Y272UABeRGb3y5Vrj4Q7wvZveQnGIfiE0IEmBGkHLrzB5EwlYBbf/dXPd7KOVvHOq1HTiKhZ4Svqtct5CK4QmlWu9Hiu/lPh2ceBqwtYQsaw8EzpeWt80r/KVXbgjfwUmOj5+dfB6YlS5ngHODn0OATYMSUrxICpmuTQNOwKINbCmCPSHkGlHvuE8mQnjN/PlkZpZDrxEkXpNmbIQQ4BYYqsgt1o0Um3P2eQmU4vH8OJe3B55CUQPxlFd5UkLkLNjEIcORSealO9uK9NbdF/R87DMH+oiOfzk2G1a6cYVA3OAjd8tEzcokBnD+2SF0U8GgpATHu4eiZQ0NPibFSKK42RGmAkaryjYRDec9Ey9NnokMR43CIpwYjRpjx9Z8dX9vpB9lofgKDeaueJ6b3ynhhClzJygwXXnv2tA==;zcU1V6g0jqPOOe7wpi8KKg=="
 ---

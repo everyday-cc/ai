@@ -113,6 +113,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft could bring AI to the Windows 11 Paint app"
+    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
+    publishedDateTime: 2023-08-23T01:03:00Z
+    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
+        width: 1399
+        height: 787
+        isCached: true
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
     publishedDateTime: 2023-08-21T13:02:00Z
@@ -123,13 +137,13 @@ related:
       domain: crn.com
     quality: 34
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-    excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
-    publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
+    publishedDateTime: 2023-08-22T13:35:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 29
 
 secured: "4gftD6S6boD0ss3vqUzKwKueGOApokugsAk2F9fFeq8PJHA13YvNYxb0DkgmLcMGZw/54Mt/yXDsNQn6OFEG5ZFq1+8FV/e7bd8BOs5JhYqgQGfWBsQY39QJu7q9Mc1XkbIw8HKX3jVldn7lGbA0ex7wIu+rbPT3F4EJ8b63S7dIDeqxZpRytCXQf+XtIN1Klpd1emsLa0hwzAvP/FMmOyfqeAH2SmgAOx9KNlig90EuUdJV+qnOl8Ty8zZO6qMiONLLrqgjLTZddN3kNEV9flkEepVaSakyDY+Etl1l7R7JuVO9RQllKRHlL1N0/qx88fYVITIiffOJZM395B6/t7r6wtCdqwx+++Q4a+uFS7KCRRdymh835XtikRLLZXKLIprEWpv49jmVMLi8HTdiUi/o4bHAyusJqeha2Ry+UEeiYbZTIXLaCSowwUVy31aPTMdRp2WBYsWdMdWFY8GV3kqjn2PK6fJ4jCrDB59tZokaQE+Cfxp5NnAOXYHju9aYbx7pIKfmI2GRzVh7Oeyeog==;AK92pmltmTZWIJpR86Oznw=="

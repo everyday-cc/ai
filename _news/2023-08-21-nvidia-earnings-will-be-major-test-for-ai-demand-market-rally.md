@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the AI revolution made Nvidia the world’s most valuable chip maker"
+    excerpt: "While Google, Amazon, Meta, IBM, and others have also produced AI chips, Nvidia today accounts for more than 70% of AI chip sales."
+    publishedDateTime: 2023-08-23T01:04:00Z
+    webUrl: "https://techwireasia.com/2023/08/how-did-the-ai-revolution-make-nvidia-the-worlds-most-valuable-chip-maker/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_2321347753-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "China keeps buying hobbled Nvidia cards to train its AI models"
     excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
     publishedDateTime: 2023-08-21T17:58:00Z

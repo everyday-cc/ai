@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google's DeepMind reportedly developing AI Tools for life advice"
-    excerpt: "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ..."
-    publishedDateTime: 2023-08-18T07:43:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html"
+  - title: "DeepMind’s AI Life Coach Can Be Your New Personal Advisor"
+    excerpt: "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ..."
+    publishedDateTime: 2023-08-21T16:59:00Z
+    webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 54
+      name: The Tech Report
+      domain: techreport.com
+    quality: 56
     images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
+      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg"
+        width: 1280
+        height: 1280
         isCached: true
   - title: "Google DeepMind commissioned free to use art to change AI perceptions [Gallery]"
     excerpt: "Google DeepMind wants to change the perception that the public has about AI by offering alternative art and imagery"

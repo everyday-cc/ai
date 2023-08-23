@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
+      "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
+      "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/19/ml-13782-image001-1260x573.jpg",
+          "width": 1260,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:24:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry.md",
       "title": "Are Embedded And Federated Machine Learning The Future Of The AI Industry?",
       "excerpt": "These revolutionary technologies are poised to redefine our interaction with AI, and their integration across varied sectors is only set to accelerate.",
@@ -1307,49 +1360,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
-      "title": "‘College will start new courses in AI and ML’",
-      "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/20/1600x900/We-will-launch-courses-in-areas-like-artificial-in_1687283554342.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442-amp.html",
-      "publishedDateTime": "2023-06-20T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning"
       ]
     }

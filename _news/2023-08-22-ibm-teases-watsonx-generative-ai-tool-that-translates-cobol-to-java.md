@@ -163,20 +163,6 @@ related:
         width: 1920
         height: 720
         isCached: true
-  - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
-    excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
-    publishedDateTime: 2023-08-18T08:18:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-watson-team-leader-raises-60m-for-ai-startup-elemental-cognition"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvM2EzZmFlMzktNDE4Mi00NzVhLWE4MDQtMDM2OTEzYzZmNmFiLmpwZw==.jpg"
-        width: 1160
-        height: 774
-        isCached: true
   - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
     excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
     publishedDateTime: 2023-08-22T17:11:00Z
@@ -251,6 +237,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "pPJj3S2aWBVM9Ctewuxd2v1kF0w3ozVwqiyMEFAMbRhircruGD3fRMV/6VgrAadXL8zdRKdtSjhnqJydExuZdXQ0PzpXhWBOn67sVBd/1mvyGu2Zy+8hNL2m70DkdNTcUZdYIJ6LH16BSyQEK4hSFJyk08up2pO+9X0JbXqujtrLAQx4k0DKlAOHMhrD2blfnQjXq3TmqFC0QSZDHsI0KomkrsB6zOoS8dQ7kH2OWjNQ+1k0dw9waEXyPzHKd2I+rrKADre7wwiYajl0B9qsbTft0h52CG+NhLEV/xIlBekFgm3xzXX0hkNHIMXzEjXjDmbYEhL2lYgGK7S7qvtI0m6Jbgi9LDZjY6m42QsBYhY=;vBYrcL+oi1cU72DhfM2kAw=="
+secured: "fsJLh1qDVgpEZWgax5m/x2+SlqM0cm38lGpNTlcdI+D9QIs1yC3oPSpSwsYc9b088i2kpTEeNJjITW9VBVLOnYBxUZhnQs9su2pAqa4q+AmzP8OUjdyOcyhhNjGovoI3JjlR/uSfR4adsiIuG2ONFVbQHViqsQAvvd/051jfFSFzwQDpUjBBrGUkydewV97Rxx7VhDmgtTjrNnGx7ZnW1mFC9DGVa9XDlwJauSgfrrpFDrYGMtDL85+eMITRrZgltTqwXC2V0Y4cXO4xOzDmO7xtUM1IyPKeRYcedL/JR65LAnzr5LQFxaqBqFfBn5+nhfD9aDdF9YIcC90vHe3BqtuWDpdT37jcuNrWFuohq9TB04Nsn1gQrOP4Ginjw1L/Jy1Fd34dYxqPmBfcx3gxAVrv+r0ff0KSNmpcrc3Cu74u1ScgjpqmRRDSX6Bufxo8bYWVw4InCQHnQ6ieP2PCyILMODZSP16v0aaDFMH5+fDcRfa/EKZgV8TDrxYQo86e8W13er7566VMexiFV3SZIQ==;Kh9osekC0mtdAX6cSy0mbQ=="
 ---
 

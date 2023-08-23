@@ -174,20 +174,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z

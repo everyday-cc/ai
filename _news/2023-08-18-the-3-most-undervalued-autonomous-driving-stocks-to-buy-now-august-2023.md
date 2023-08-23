@@ -49,16 +49,16 @@ related:
   - title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
     excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
     publishedDateTime: 2023-08-22T04:45:00Z
-    webUrl: "https://www.stltoday.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_f87e1af5-73fc-55f8-b76c-0952a9b0417d.html"
+    webUrl: "https://omaha.com/ap/lifestyles/careers-now-job-seekers-can-use-artificial-intelligence-to-their-advantage/article_47932b03-9d93-5c2e-8631-3f7e0be2fca2.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
+      name: Omaha.com
+      domain: omaha.com
+    quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/7a/27a0c0a2-2149-5f9f-9bad-f04e3ce04174/64de7940512b0.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/a5/4a5ac3d1-cba0-50cd-a326-f0deb4ad3d9d/64de7940409df.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize"
         width: 1200
-        height: 630
+        height: 631
         isCached: true
 
 secured: "1TasESM0HmsVMv9R9McfWuakeXKUQ7mYcUIe5mZJL44G6TMpUsV7bsaOj1tPzJDMURQ+sGoMmUjdy5GaNqrgjbjUWMYPLFddUtgAiqaAvuXm5z5nvFKN1ihjcp6jGladGZq7yYvqqAeBjVixK5XDsjPq/pk08mfmtpukps6qAdzCDK50YsdWCJdpCLLpDIvyNCU/8480y0m8wy2bshukavhFEE6mzQEGFk2C5JdXvSlJ0lzIQ7jvpBKBN9ZGrkwSNhfhZ9xS1pbGwG9FyRvYJjGT07Faxi98kWsMWO3ufwwHS8i1EO33Bb8QZumjXCsftW/lhFpkL/0J9+lh23bQy8yUAg/0e9vBUfdHSOFpW+TJa0/KyLm8wRVU4MI957UkbjOTO697OjhK4dfe4h6ULdiDUA6SPaqir0aGzev7RtiKWNuQIoOi/rqV5aYIBL0G02HtJ6xASDJqHvEk69zMduxoVvJ2vAZvcWkfU0ru0BHmQ88E3/R5L3QI91n9GU22omh2hzT9h30wuOSrE9kDig==;pic0VpTOWFqWbOkCvpmy/Q=="

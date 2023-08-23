@@ -27,8 +27,8 @@ images:
 related:
   - title: "Sullivan & Cromwell's Investments in AI Lead to Discovery, Deposition 'Assistants'"
     excerpt: "Two post-doctoral students set up a lab in Sullivan & Cromwell’s offices to develop and train AI technology. Its capabilities could alter the very fabric of being a lawyer."
-    publishedDateTime: 2023-08-22T11:23:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/21/sullivan-cromwell-investments-in-ai-lead-to-discovery-deposition-assistants/"
+    publishedDateTime: 2023-08-21T20:12:00Z
+    webUrl: "https://www.law.com/americanlawyer/2023/08/21/sullivan-cromwell-investments-in-ai-lead-to-discovery-deposition-assistants/"
     type: article
     provider:
       name: Law

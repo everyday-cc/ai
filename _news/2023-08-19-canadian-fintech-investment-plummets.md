@@ -41,34 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
-    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
-    publishedDateTime: 2023-08-20T23:25:00Z
-    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 25
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
-        width: 794
-        height: 509
-        isCached: true
-  - title: "Canadian fintech investment plummets"
-    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half ... Crypto and blockchain firms accounted for 15 investments, with seven AI companies picking up funds and six payments outfits also securing money. The majority of deals were ..."
-    publishedDateTime: 2023-08-18T08:48:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-investment-plummets"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
     excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
     publishedDateTime: 2023-08-22T20:55:00Z

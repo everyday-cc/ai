@@ -7,7 +7,7 @@ originalUrl: "https://tech.co/news/linkedin-top-5-ai-skills"
 webUrl: "https://tech.co/news/linkedin-top-5-ai-skills"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1920
     height: 960
     isCached: true
+
+related:
+  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
+    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
+    publishedDateTime: 2023-08-22T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
+        width: 1400
+        height: 785
+        isCached: true
+  - title: "The end of work: which jobs will survive the AI revolution?"
+    excerpt: "Smart machines are meant to work for us, but there are already signs that we will end up working for them. What will the workplace of the future look like, and will your role still exist?"
+    publishedDateTime: 2023-08-19T07:00:00Z
+    webUrl: "https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/dcf271d3db722ae7fa9a2b5f1c1753db2ae921d7/2_0_2287_1372/master/2287.jpg?width=620&quality=85&auto=format&fit=max&s=03b4b2a906259a8a9121520ef3439a4c"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
+    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
+    publishedDateTime: 2023-08-22T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
 
 secured: "zHEnEWZrsEnHW0tgvavKDdaKk2tp4qvwPKTtP4Zz2GO2ylbJxFMBSAy4q4gLYEiSy2rMlRNKbYGc6TzCk5E06ehhOA8hP+nfIg6EWxAR6MYAZbP4vlzySAXwWbUG9WtLU0lpgC4bc7M3vWSO2ePAwvybYtWwbtV7cF4HTiynVs9xcgVFljx++ASerN9DoI27NiUyma3CVyRRJZJ4A3PHyDEQ04f2hunGDSyzECj25Tx652W5gNHAv91huNwAOQDkPRv4w1EZwQvi3FISKzNtyflFmTAywQwmdrUVRQIRMsMsdLpIC8RAPkXQHWeju169V1DIseHawaVMoiNu4lsPHYCk/khtqNf0obAYmnYcpalZeno98f2sgk45FQfkpbuUCSM0r5lYsrGLxbzr0Z7DDf1uf56lobYFFrEt//VHUEjk5VJ4MIQZfVixSHqWAvwHDjbf6/le/FprdIETAZS51B3n6EA7WZVFQ+X9CWmwruEL7ZHmr8YvOLL5Gp6JIpxpSX414bsGQRyAft6l8sPzVQ==;/IlaYEb27UHRosP3DjL4uw=="
 ---

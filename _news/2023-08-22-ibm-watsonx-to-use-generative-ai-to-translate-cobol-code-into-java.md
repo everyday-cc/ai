@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
 quality: 121
-heat: 291
+heat: 281
 published: true
 
 provider:
@@ -153,20 +153,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-z16_Banner_alt.jpg"
         width: 1920
         height: 720
-        isCached: true
-  - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
-    excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
-    publishedDateTime: 2023-08-18T08:18:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-watson-team-leader-raises-60m-for-ai-startup-elemental-cognition"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvM2EzZmFlMzktNDE4Mi00NzVhLWE4MDQtMDM2OTEzYzZmNmFiLmpwZw==.jpg"
-        width: 1160
-        height: 774
         isCached: true
   - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
     excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."

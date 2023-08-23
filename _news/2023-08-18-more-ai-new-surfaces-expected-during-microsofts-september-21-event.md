@@ -99,6 +99,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft could bring AI to the Windows 11 Paint app"
+    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
+    publishedDateTime: 2023-08-23T01:03:00Z
+    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
+        width: 1399
+        height: 787
+        isCached: true
   - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
     excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
     publishedDateTime: 2023-08-18T15:44:00Z
@@ -123,13 +137,13 @@ related:
       domain: crn.com
     quality: 34
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-    excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
-    publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
+    publishedDateTime: 2023-08-22T13:35:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 29
 
 secured: "YWOqCjmno8936KpkdMALdQv0xe+naZdxoEiDphAD1sf3KOhYLWgF5sIi2UdYP6i9etySbcUxm+4YvM1+9lqx/J86jE1eKEiO6mKkj8s7Q6mYsSeih+Q5byCwSv8C5bJ6FO1cck5P+ifmoPg16zWWbhi9a82f8eEBgJytY0fT/I1Ptyx5ZZvzETIDsaT86f4EtokO2GHr8PoFEDz5kXXngEjKlY9cP5skyE8pvqhq30nP48DxjpkCdr7CFmbY38xJTZPOYWD/kztXbS9wSvCGC3EXOU5AkEy+27dL2mboipT47T7hv81FalZ4nrvoHZcQrCPYahWj/xLsLmuhA/B4TcAg1lNNQt9s27zKCriluK4=;IEquRbuxWlYtQAb4L9fj+A=="

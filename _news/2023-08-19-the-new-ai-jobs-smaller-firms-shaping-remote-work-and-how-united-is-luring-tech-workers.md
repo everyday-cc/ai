@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jo
 webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Forbes
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bosses and workers are worried about new technology like AI, but for different reasons"
-    excerpt: "Execs are planning to invest in generative AI, but employees are nervous these new tools will put them out of work."
-    publishedDateTime: 2023-08-22T13:43:00Z
-    webUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
     images:
-      - url: "https://i.insider.com/64e410bdbd98a600197b78e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
-    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
-    publishedDateTime: 2023-08-22T21:22:00Z
-    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
-        width: 1400
-        height: 785
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
         isCached: true
 
 secured: "51sCPmBx4QGV+iSD1CQzR9FHmu9tBo0rWEJCAdAFeGLFHpkcYk69gu8QQ8b66vcTG2hGX2ZyDLuihMbDzrioKNy7OEjX7/uKVPXGjXLuQRuvIk8s1WllJhKUhUJqddNAZd2yEtvoJ1VxENFFEQbrysh1wtm9ZJ7ims8G6B4eMcLhmCKZ9fwinz5fXoJT5L8wCa4+skY9FEHAEeOJlK52DoG+4XICINKb4TbRzNrAccfypTArS2o3vrFJTUy6p/zIQXmTEZA6qQ8Hzi4WakKbxIy61peL88PHn7UPI9NPfIxjpPGZKdpZycRVEw7uLcHZtp1e2ervK6H862DDI13N00TC4xMWd83EUtmbv3RexZ4uv/43jVeD4iF5+WggxZ0ENs4uozRAHw5+VbcHumEQenASj/AK6KgR3iax4zPJXyWQOtp3aSM62W9oocvFaTq1YPZLh0f0hUw3ke4rt0H09GSqAGQBS/xHNWbelV2i394k0Ku9iYKB3dg8AI5t8aseJtGbNtZaCHvzUO744fw9PA==;gBCNAFBfLf2CV0ZVSPalhA=="

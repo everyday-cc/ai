@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-t
 webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
 type: article
 quality: 67
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/7435/3717886_4_seoimageog_2.55896320.jpg_2_.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How the AI revolution made Nvidia the world’s most valuable chip maker"
+    excerpt: "While Google, Amazon, Meta, IBM, and others have also produced AI chips, Nvidia today accounts for more than 70% of AI chip sales."
+    publishedDateTime: 2023-08-23T01:04:00Z
+    webUrl: "https://techwireasia.com/2023/08/how-did-the-ai-revolution-make-nvidia-the-worlds-most-valuable-chip-maker/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_2321347753-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
     excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."

@@ -19,33 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
-    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
-    publishedDateTime: 2023-08-18T09:30:00Z
-    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+  - title: "New report tracks growth of African fintech ecosystem, and explosion in funding, since 2021"
+    excerpt: "Africa’s fintech startup ecosystem grew in size by almost 20 per cent, and saw US$2.7 billion in investment flood in, over the last 24 months, according to a new report released today by Disrupt Africa."
+    publishedDateTime: 2023-08-21T06:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/"
+    ampWebUrl: "https://disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/08/21/new-report-tracks-growth-of-african-fintech-ecosystem-and-explosion-in-funding-since-2021/?amp=1"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 24
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 34
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
-        width: 659
-        height: 1024
-        isCached: true
-  - title: "10 Maps Showcasing Asia’s Fintech Startups Landscape"
-    excerpt: "To get to sense of Asia’s fintech ecosystem, we’ve selected some of the most comprehensive maps covering key markets including Singapore, Hong Kong, Indonesia and the Philippines. These maps provide an overview of each of these markets’ fintech landscape,"
-    publishedDateTime: 2023-08-22T05:39:00Z
-    webUrl: "https://fintechnews.sg/75467/fintech/10-maps-showcasing-asias-fintech-startups-landscape/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/10-Maps-Showcasing-Asias-Fintech-Startups-Landscape.png?x34447"
-        width: 1024
-        height: 567
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/08/Slide-1.png"
+        width: 3542
+        height: 2083
         isCached: true
 
 secured: "Qem0uZUAUn/A4p59jJSxHf+DVjNCG9OT+hVAqiUjnqpXdcpuU9JLcP0KukcdT51L2e6KoBf8MYNmsamTh1uQ0qaPwf3t9168rACBvEwPAWgAOdtgx5PGkSDEfvOkD0HdoM4hiAsqU8HM56pNaYfQejXKIo5VDgvOCAC/aeMHRn8Y7PFCOckp4TdBCYlIcVqIJmKsM7dT1eMAXPQhfc5sTWj6vQRIraAOnzqKljEMmeSVe3qdnR010eFoMA9uMruw5k1zV9BqB6kTmOPr1gkXt9tfYKzZbMaQhPBrzYjAd0YmjQK6oAjGqp8L7Ua6LdWhY+vgxF6+fCn7q4ayeU52P1qEBnunHDPmbvcLucnYskfhX5Xh1MyK/nAumWYlNdqRx/Bs38zX+ODPg/fKvbVJkOOIGkiMtzmr//0C8XfxsgMSaeDzh4FhGTAkcVqcryClXUjQHUZpFO+HZrWQwPf2I6sngqotQJUqMBMJ8BxyGxkz/Lm0a6c8uI5faTP5dwRSAJLBCAMKBaXvv8xMimCYrg==;ehtx9+sSccMjGV+YhRVfqw=="

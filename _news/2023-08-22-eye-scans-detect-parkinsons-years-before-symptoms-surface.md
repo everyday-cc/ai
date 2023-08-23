@@ -53,6 +53,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Eye scans detect signs of Parkinson's disease up to seven years before diagnosis"
+    excerpt: "Markers that indicate the presence of Parkinson's disease in patients on average seven years before clinical presentation have been identified by a UCL and Moorfields Eye Hospital research team."
+    publishedDateTime: 2023-08-23T01:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230821174246.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
 
 secured: "a1ms9t3H5fUYcMpz+AMmndzvnOyw02eNtzplt4fN6mMeo2ZH+1qGTRxttTxu/lK7tUWdlTym5TK/KdEb/DntU5VnSuFMX7ncwS8eRWOXDta9kPYUEEUPuOxMEqoJTsceukA2gyzgexUk7AJ+X61uZ/2Sc5dzYNkrPcEyjUO3U1VSJlB0kYjWfPpaoB/NREzqfZFYGSk3E/OaUnrNeYCqr/J7yHE1ZbdcF6jR2ekvOwXi2ijYycn9d8mteUnLpcyFLYB0sbZRVzNVEaRHWEJwC2umE0BYMFLGLXf03vXoSwwjl+VKDd0DvJlEHGb30Qhi6b6mIOnZ9z8gzfJ8/wh3nmGEAgl2puoVINmQDp9UOIbqvLVxbFK/G7UVagh+F/1Dlfl/78d8YhLCKO8oCGhbPm7HnocYzitPwB3ukcT90ttH3JdOI38Rv7sUjwwang89/D/UGK3xfaPwA8VldABfp6hEAcsEzFo8J9Rk935SnLg6dgJUXVyZhImcLkyWTR9bz6b8HifzhZ6PIjMvbLtLJw==;v2MT20TmNOtt41z9R1GEHg=="
 ---

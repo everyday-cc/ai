@@ -24,20 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "IDTechEx Discusses Chips as Currency: America, China, and the AI Race"
-    excerpt: "The story is far from being finished, but with a projected growth of US$257.6 billion by 2033 for AI chips alone, there is much to be gained and lost over the next ten years."
-    publishedDateTime: 2023-08-21T06:53:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/21/9867178.htm"
+  - title: "Americans Are Terrified About Data And AI"
+    excerpt: "Americans are extremely worried about data, privacy, and the rapid development of AI according to a new report"
+    publishedDateTime: 2023-08-22T21:53:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/2187421/IDTechEx_Semiconductors.jpg"
-        width: 400
-        height: 225
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e52dbc25547dd2ca4af6bd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 475
         isCached: true
+  - title: "Bosses and workers are worried about new technology like AI, but for different reasons"
+    excerpt: "Execs are planning to invest in generative AI, but employees are nervous these new tools will put them out of work."
+    publishedDateTime: 2023-08-22T13:43:00Z
+    webUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/64e410bdbd98a600197b78e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "4 in 10 Americans Think AI Could Help Them Manage Their Money"
+    excerpt: "Click on your state now to find out more. Start Investing The Credit Karma data shows that Americans are warming up to mixing AI and money. Of the investors who responded to the survey, 4 in 10 say they think AI can be a useful tool for managing their ..."
+    publishedDateTime: 2023-08-19T07:48:00Z
+    webUrl: "https://www.charlotteobserver.com/money/ai-could-help-manage-money/"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 17
 
 secured: "9M30tltKputxAP8TznsABasmzewyxC+exox+2+0LXYbIzcWRFp3xIWj7rqUnyB8e3C+VetaYP+nlaYUJsfaWJ8R1BofPMstwyUe+22fdKcgTv+O6VY7EEhDL+xqQt198F+hBU1OU2ohM7H4VNr1DTfoF5g2qRjNA6ZLNox2Scoo/3yV+5ATbtBazjCsI+tq7Uf2bHGuZLHVkHO2OsiwWwQyQKWqcNwEpXZATGRLiYqaXuL1lOGAVV+V1viEnYGTa+84K48Yiur0IYePPLlgcdGkU6GrJrh4fZevNHjI/A0ibsSi6PDpmD9OPGuOo16tDA2ti9YhFr6CZHfPjMgaHn7kWQQYPwz1OQ0hgyqNq7XtohwiQ7ilqFIkVHRQCE8crtCb+0fr3zVIqZKIrWOtBw8p/k6ScxsEB/BFI29w/rsFqNsbsYCtBIBmmCYvtPFhACJqI9fV0TOv99hrHM6r1xtlZkrvPo2dnQ5zd1AiewPI38AQeRLX+rXsxPU1Wqcz4hW37O28BtYK66d6prwDLGw==;uVec1W13U9pSHMhOfUKIBA=="
 ---

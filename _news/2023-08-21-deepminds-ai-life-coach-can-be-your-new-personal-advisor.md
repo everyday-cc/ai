@@ -7,8 +7,8 @@ originalUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-ne
 webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: The Tech Report
@@ -26,22 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Google may soon roll out AI ‘personal life coach’"
-    excerpt: "Google is reportedly planning to roll out a new artificial intelligence tool that provides “life advice” and acts as a “personal life coach” along with many other AI chatbots to perform tasks like writing and tutoring."
-    publishedDateTime: 2023-08-18T07:44:00Z
-    webUrl: "https://www.aol.com/google-may-soon-roll-ai-044420243.html"
-    ampWebUrl: "https://www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-may-soon-roll-ai-044420243.html"
+  - title: "Google DeepMind commissioned free to use art to change AI perceptions [Gallery]"
+    excerpt: "Google DeepMind wants to change the perception that the public has about AI by offering alternative art and imagery"
+    publishedDateTime: 2023-08-21T23:43:00Z
+    webUrl: "https://9to5google.com/2023/08/21/google-deepmind-ai-art-imagery/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 59
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 50
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/89c52db5949ec43d13a7e7bcedfd170a"
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/google-deepmind-ai-art-imagery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
+  - title: "DeepMind Wants to Take Humans Out of RLHF"
+    excerpt: "ReST emerges as a formidable innovation in the realm of RLHF, aiming to remove the humans from the loop and drive self-improving agents."
+    publishedDateTime: 2023-08-22T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-wants-to-take-humans-out-of-rlhf/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/deepmind.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
+    excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
+    publishedDateTime: 2023-08-21T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/openai-mimics-google-deepminds-agi-strategy/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "5A+pcToMX+42DA+3qZwO1sTnirLIXl/q5B6hwzuZfW5IhH2yor8tAf8BHrB/C0tLdnnlhl0AQ5HW/1h9ZeAKm8u+3ScTe+IDsdkq8O5gTyIbIYr4d3bjmmtcZ2AuuD7O2KOjBgojQt8oyWZOiP2hdyf2xmJW/yr0BlhFM1Z5Gt2T2cjQZzP8Ti3PF9XTjsqI/PNvBFqH+Vavm1JaoVCuXwyZG7CDiwtOGVt92RMoBhfWcMYs2OMf3NnVRkfnXplFQinkXr2bKN3VossyyFmxllAYv4jw0BMjBEl6F9zSFfb0kGctReBhIGrTxUiYf77CakkyYoshvcprHj5iimUukolsAOuePufnmnStnIBgdPHO7K5kTG9NcASYU70pQPAHUy6LRmbeUifTBQ8+pO9H1Y3JhqFtuiYnu0f8KT0FHMfxsS70fD3fATlToxyKxReP7OLVoSx49pFVRxtF8OXuPUEDiQbOKPai0xk5XHXZISD914ATlrcdOJANGxn2qKeqyYNloeqEafbiy8W7HxW20Q==;KsUKxUC/Z0KNJ3aonapJJw=="
 ---

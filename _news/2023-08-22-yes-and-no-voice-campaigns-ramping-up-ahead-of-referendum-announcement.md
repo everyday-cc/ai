@@ -24,6 +24,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Anthony Albanese confirms announcement of Voice to Parliament referendum date to be made in South Australia next week"
+    excerpt: "Prime Minister Anthony Albanese has revealed when he will confirm the date for the Voice to Parliament referendum, as he prepares to kickstart a six-week campaign for the constitutional amendment. Anthony Albanese has confirmed when the date for the Voice to Parliament referendum will be announced."
+    publishedDateTime: 2023-08-23T01:29:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 21
+    images:
+      - url: "https://content.api.news/v3/images/bin/1ed692cdc13dbdcda5fd7111438ff10c"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "0oA5GQlIyyb/GK/TMfUZAFAgZ7oBDDanT1HcCqQBaAiSPx2v0HInEmUZSvYSOw077tHxmZ5pTIgbqlEfsz1QCpOFkoDBZiqK8LKYq0MLY5Ud+5M2lMwufZtF/2YoiEKGm9oSrDVdub8XgMls762/GHFNtIS8MdpKf+KBIzLuwayEyNWM4HwctTMq7tZSjEjPwGH/T/T1/Z9wStOSqH25qSrHQO+x7qd9A+K7Mj3SPbee/No1T9Pj9r5ZKOSaGP2XHjju4QClEVh2KsHqYAv6HdQFNcKtXPqFqsG2O+gy9E+2N5smbVp9MQ41PeLOAly47dbUH4UQ78Q9wSE+JbXAoSFSfNYWu5UuaeoJFNx4WL90HHjck2FnQD5/UL1vw9+AtcKnYCcp7kox2lg3UALJonpmVpX3KBINQmrrFkUoSy8yqAce1XDmygN8NGPCpny/VXYJkegcbyGQOyZqrfRlWZbK84fkMUHq0kSFqzVwXfiu/Oc4o/mweYjybAJz2PYop+Ie0ePBmppUKqCOtvwNFg==;RStpdeR/ea1UUP47zENNSw=="
 ---
 

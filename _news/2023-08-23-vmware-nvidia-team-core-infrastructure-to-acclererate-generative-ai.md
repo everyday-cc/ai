@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
 type: article
-quality: 87
-heat: 177
+quality: 89
+heat: 179
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64e39ecdc2691457f00c8df5/0x0.jpg?format=jpg&width=1200"
@@ -141,6 +142,6 @@ related:
       domain: wraltechwire.com
     quality: 14
 
-secured: "GX1dnO6lmtth5nekjamo7eQHvJx0OAxT26/rwgXeEWuG9dOGDXxr906opiGEuH2mT2uR9CWqODIhAXvH01bpT0YmRfkzxKbX0W6gZGFbUw2zrxs+06sxc6IWhcvwDO7Rpz6quPhom61CqVWNnnOtYujfplEjpNWC8FC0Cy3ggIak6y3zyPBzmfCejb8AFVWgIXvYVqZEwBLzxsY9uq1XG/8ryf0O5qGc0o5x/EZe68z7+hZ7NN3TY4l6N8mY0BVbvmrv49gWxEQ3KroS1DKAY3fMxKKNJBSIgGro3s/KXcda3SWhwTbyGWdR1EkBdX5j4F5Vjq25P/NDk9mQPxzAHMH3uB6bHImcaEV+IPHyFfs=;FJfG/GgBE6eBJZLs3OUHzg=="
+secured: "hEnKeVRV06iUrnnhdBkbkjxYdkVcp4IE4VOPMs9jR83bRk/HZXRLEnEs5uN9iQ4RAk1cMrV14ztBjKtyZMKf2WBYIehBy6Ei+2eF2SVunaZnTM27HceSNHpnpdlGWEsRniESBRyeU52eA6PixeFftdTPVuFEex7UfmkZGjlwRKTXpEVgb1o0tT29J+Iyz90ezyCx8Y+H5e3pa0DpnKhpAkqSuOld3t2JSWOmO+6uokdoduu908sIyfLEjaOKcDpJ7eiAh4rpEY8mG1ofYe3ZLCKA2K+rOvbX8AzRtDvJAkoz9m5o+/OtQJ3rvlcD+VToZV6w/RuCGJoZ26QKJZSad5MAdDTsERVG2fsTUTP+lOJfTWllnMcPuWtcNjJqdmY0G7QtW7aiZ7HjaDVd403bej5Fypdvb78UcV6lsh+McHgA3VtpFC7rdVLHqNxZSxqnoC+ZzTczSHrVXJ6DJxNtqx7mB8y90lWfC+iAJyvTHpwuo/5mv0SugF/xKxpI06Ui6FfYI2c2FiRJMkBP8VHW1A==;vdb16iMnJnG9jT5h1GBOGg=="
 ---
 
