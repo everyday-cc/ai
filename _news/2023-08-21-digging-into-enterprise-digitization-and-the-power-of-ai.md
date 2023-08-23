@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/diggin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,62 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the surge of artificial intelligence in higher education"
-    excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
-    publishedDateTime: 2023-08-23T05:18:00Z
-    webUrl: "https://dailyiowan.com/2023/08/23/artificial-learning-navigating-the-surge-of-artificial-intelligence-in-higher-education/"
+  - title: "Why data governance is essential for enterprise AI"
+    excerpt: "Learn why we need to focus first on managing, understanding and protecting the data that is input into the AI models with data governance.\nThe post Why data governance is essential for enterprise AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/"
     type: article
     provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 56
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/AI-front-copy-1.jpg"
-        width: 2001
-        height: 1334
-        isCached: true
-  - title: "Is there an end to artificial intelligence in a complex and ever-changing world?"
-    excerpt: "We are currently in the age of Artificial Intelligence (AI), where machines are rapidly evolving to think, learn, and adapt just like humans. In a world that is becoming increasingly"
-    publishedDateTime: 2023-08-22T09:23:00Z
-    webUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How Specialised AI Models Offer Complete Solution for Enterprises"
+    excerpt: "According to recent trends, Enterprise AI is shifting towards specialised models rather than a single generalised model. Recent reports have highlighted that an overwhelming majority (96%) of global executives are actively engaging in discussions about generative AI within their organisations."
+    publishedDateTime: 2023-08-22T09:51:00Z
+    webUrl: "https://analyticsindiamag.com/how-specialised-ai-models-offer-complete-solution-for-enterprises/"
     type: article
     provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 40
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
-        width: 1661
-        height: 962
-        isCached: true
-  - title: "The growing role of AI in science and discovery"
-    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
-    publishedDateTime: 2023-08-22T00:58:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/unnamed-49.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Fiction writers fear the rise of artificial intelligence"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
-    publishedDateTime: 2023-08-19T13:04:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/19/fiction-writers-fear-the-rise-of-artificial-intelligence/"
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Books-AI-A_Story_to_Tell_62073-7e888.jpg"
-        width: 899
-        height: 666
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "e3Atgg/TkeWrtxwPMTGI91d5mUSYD0/aKprtAkcyJcQAKsps9CStDaFmRkdny8U7qjOkIr9YOImv3RzpRa/N1NKs3ZFjWT0CnPSZrtvcHlj/8UFQD0aD/UB7okLDgRxPXJOCtm1SJPedaqYjoCb+zu9ddiQYow6jJzhymsV9vLWIGHT7XpgUaC3Bwbfr5r0WEFuY4zuVIQH2//p0RFukpOgUKExKMzCzDNG4aq39QVl/AFC8vXJ8MQJwYPT/l1KHNcMfJyxA6g4vZjxf3t+N1W+TPbH7GXOfX2zz7a5scAsKQ3qp/14c16fJC6dtSxc80adDrPFrlAaGsMSzsewfoHOavF4kqU+oeU0jlINnseY=;OuKxRIZSd/ABKiGf+HHPkA=="
 ---

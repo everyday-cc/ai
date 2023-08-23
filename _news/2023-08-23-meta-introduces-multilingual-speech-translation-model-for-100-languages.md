@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Meta Introduces Multilingual Speech Translation Model For 100 Languages"
-excerpt: "(ians) heating up the artificial intelligence (ai) race, meta on tuesday launched a new all-in-one, multilingual multimodal ai"
-publishedDateTime: 2023-08-22T17:17:00Z
-originalUrl: "https://menafn.com/1106916284/Meta-Introduces-Multilingual-Speech-Translation-Model-For-100-Languages"
-webUrl: "https://menafn.com/1106916284/Meta-Introduces-Multilingual-Speech-Translation-Model-For-100-Languages"
+title: "Meta introduces multilingual speech translation model for 100 languages"
+excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."
+publishedDateTime: 2023-08-23T10:00:00Z
+originalUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html"
+webUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html"
+ampWebUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-08/22/I_9928fimage_story.jpg"
-    width: 1000
-    height: 707
+  - url: "https://www.thestatesman.com/wp-content/uploads/2022/05/7fd56ad9dd860cebbe0a1885f7320d93-1.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -281,6 +283,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "x4rzPFXNH3Y9HlcZTKOIBaMaLJqq670mQBoOPzsFglcsKkLYUkU5KNvU6Wvr2sF5DIVwHASBT8Efnn8X2BczdU7E2DKZ+Rg4WGEb6a7y3hDtKftz7dAmmg64FtZNEtwEwSvvURizflJmVURRw2AW9baC7vnHkiYQz2/8lcCHJGLseCyPDVA2LaTVDuiaxF76rFhmeCwKccA0nsrRBJJryQmjj3JYdFjFzaWy/MidcC+4qBFMvyYp4A9Qg2QFQq1E0LfLoYSeZLOVkcVnSMy5QjkyyE92pHJSXBPenYVXcyU9Z4ebvEz6qlRtmvTJaD+rvJyJeSmbj4xMwhzqaIynnT5jH3Y8Ixbsj8e3DvP/zSA=;pIhgy+W5gGnuK1wuI885nw=="
+secured: "59aroWnzowr80Xzn1xo5gQkb3XWNgNA57jvRhiH0c8Rpe4yLvbsVpd1i6Xtn1hsHFarOImNx+DBs2Ag3FYAQkmjFsVr4+/scF52nL2oWP1cykA3mKHggNfFGxq6eFX2fQUsB9aj3QVaT80GwsBMWzGVrbAnvV9DrAikT//A57Hmyw5IOY5xQBcxTCVNHkfQYOAK293LGNVNFmctgNDyVoCELwZpyOcHK5iZpZO7qo5I6D+L64U59R4bOL3hZhYEJyauIbeivK55JbzCUXyn/DBwyGuQTy39VM48I7flcurJq1wfZIpYo6QicvpvvXymtct/ELsmEK1lyQ4YCoKx/QSJmJ9Fe7Nl+276M15ot/zw=;mgqHDRfuaiDIt9NB1A+LGg=="
 ---
 

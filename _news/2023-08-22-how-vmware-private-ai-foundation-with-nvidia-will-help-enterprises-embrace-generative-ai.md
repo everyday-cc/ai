@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://insidebigdata.com/2023/08/22/vmware-and-nvidia-unlock-generative-ai-for-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2022/12/Data_Pipeline_shutterstock_9623992_small.png"
+        width: 300
+        height: 225
+        isCached: true
   - title: "VMware, Nvidia target businesses that want their own AI"
     excerpt: "VMware Inc on Tuesday said it has developed a new set of software tools in partnership with Nvidia Corp aimed at businesses which want to develop generative artificial intelligence in their own data centers rather than the cloud."
     publishedDateTime: 2023-08-22T16:33:00Z
@@ -105,15 +119,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
-    publishedDateTime: 2023-08-22T19:08:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Rubrik brings power of AI to VMware customers to accelerate cyber recovery"
     excerpt: "Rubrik, the Zero Trust Data Security™ Company announced new generative AI capabilities for VMware customers through Rubrik AI-Powered Cyber Recovery.Minimising data lossLeveraging"
     publishedDateTime: 2023-08-22T13:21:00Z

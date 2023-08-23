@@ -113,20 +113,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
-    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
-    images:
-      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes"
     excerpt: "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful."
     publishedDateTime: 2023-08-21T11:00:00Z
@@ -170,21 +156,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
+  - title: "OpenAI gets lukewarm response to customized AI offering"
+    excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
+    publishedDateTime: 2023-08-23T10:58:00Z
+    webUrl: "https://cointelegraph.com/news/openai-gets-lukewarm-response-to-customized-ai-offering"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMDgzNmY2ZmYtNDE2My00ZmI4LTgzY2YtY2Y0YjY1YTE5Y2EwLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
     excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
@@ -246,15 +230,6 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
-    publishedDateTime: 2023-08-22T18:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "00FjSzTfkSWTEnN1FavPnsoa8XaXekmxiEFQr37pGQiimn5YnWeQBRo3Qz/p9xg5arSSnltfC0WWW1mcebi6N/4lc4oUZds5Ba6/NCJt1THF2twO2LPZwSaXCiOd2FZnI+KYlJw6ftfTkhfrVGoqgOHJshtj6ciQHvo63jWzVjJeXovpQ5LkDGnCusgsAXKDAh3sRkI9rCDv3f2wZHwx2YgteK7hiE5ApYrIt0uUHedPhVtfGk61IAEyqD5ou4cx962qlegfFukA7rEdLoZttnHRK2sMdgw07AUsYTegBQRnO4gjIncUY/gAcEcNtayheLXsAsHK6gqkAZW8sRQEt2eH/+i/goGygMFEQPj1o3k=;b6awp9VCdPGHvjh9zwSwuQ=="
 ---

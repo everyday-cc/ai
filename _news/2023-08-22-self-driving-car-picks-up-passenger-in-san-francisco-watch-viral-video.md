@@ -105,6 +105,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 32
+  - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
+    excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
+    publishedDateTime: 2023-08-20T12:00:00Z
+    webUrl: "https://www.latimes.com/opinion/story/2023-08-20/editorial-the-robotaxi-california-lack-of-regulation"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 21
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
     excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
     publishedDateTime: 2023-08-18T19:39:00Z

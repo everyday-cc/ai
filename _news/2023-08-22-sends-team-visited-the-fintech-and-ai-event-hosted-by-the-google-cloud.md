@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
+    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
+    publishedDateTime: 2023-08-20T23:25:00Z
+    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 25
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
+        width: 794
+        height: 509
+        isCached: true
   - title: "Canadian fintech investment plummets"
     excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
     publishedDateTime: 2023-08-19T04:39:00Z

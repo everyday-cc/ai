@@ -25,64 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Digging Into Enterprise Digitization And The Power Of AI"
-    excerpt: "While it is a challenging time for many, I would argue there has never been a more important moment to harness the power of AI."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
+  - title: "The Evolving Role Of CIOs And CTOs In The AI Economy"
+    excerpt: "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade."
+    publishedDateTime: 2023-08-23T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df8e0431caa1d854c712f4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Navigating the surge of artificial intelligence in higher education"
-    excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
-    publishedDateTime: 2023-08-23T05:18:00Z
-    webUrl: "https://dailyiowan.com/2023/08/23/artificial-learning-navigating-the-surge-of-artificial-intelligence-in-higher-education/"
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T19:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
     type: article
     provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 56
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/AI-front-copy-1.jpg"
-        width: 2001
-        height: 1334
-        isCached: true
-  - title: "Is there an end to artificial intelligence in a complex and ever-changing world?"
-    excerpt: "We are currently in the age of Artificial Intelligence (AI), where machines are rapidly evolving to think, learn, and adapt just like humans. In a world that is becoming increasingly"
-    publishedDateTime: 2023-08-22T09:23:00Z
-    webUrl: "https://www.thecable.ng/is-there-an-end-to-artificial-intelligence-in-a-complex-and-ever-changing-world"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 40
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
-        width: 1661
-        height: 962
-        isCached: true
-  - title: "Fiction writers fear the rise of artificial intelligence"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
-    publishedDateTime: 2023-08-19T13:04:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/19/fiction-writers-fear-the-rise-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 37
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Books-AI-A_Story_to_Tell_62073-7e888.jpg"
-        width: 899
-        height: 666
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "vo+XpR+ejBLZT+hmMkCkXGGThsssmaxIT/aOCmRrVJ/UScU//trZCEFrLYbZvRCVkRWCvEKvoU3/crgVJyTHu2rfHAdPCpsJzhV6+ApNPg7U+WqCX0fW+XEfzLMfVlTMVczM7Xtuf8QI+7ix5E0zMAR0wHEL00GgWTXBKAZd1WkdxGeUX4yL9OYPSuHV7bSJD/chQnS3wfeAE3gkqpAkihY91uVa0Q8MVY5N56h4MfhKjO3HnQtbZXLn3ieARTpk3727sNHiZzYX889AwVp7NFM5yCKUMX7ij+1YfxtAF/8uIwTE1GtT0eRSbfFrbkoIznV/nqFCZtetijnrdgWp1T7mD2Sk/qU/BMyaPJff47c=;4eK1Li7TXXwEC9Ksv9+NHA=="
 ---

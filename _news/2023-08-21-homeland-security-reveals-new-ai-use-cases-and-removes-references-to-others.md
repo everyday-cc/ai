@@ -36,7 +36,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.idgesg.net/images/article/2023/08/shutterstockthapana_studio-100945002-large.jpg?auto=webp&quality=85,70"
         width: 1200

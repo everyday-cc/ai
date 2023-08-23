@@ -143,13 +143,13 @@ related:
       domain: crn.com
     quality: 34
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
-    publishedDateTime: 2023-08-22T13:35:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+    excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
+    publishedDateTime: 2023-08-22T13:16:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 29
 
 secured: "A5uEwlt7mpUqqNPeCRMqAFBh5ZN4tIOEBv9pqHcUJmfnmEMyrVXd6SFVUpVC/ywOCxqHf7k4FHiGElDf024GlgAbKfemFKpLuOM6g4cobNNoia8ln6CnRokIW2DiibNBUyB0Uft+9G5kJVTtY+IDNdLU4aBakSK/lRgcAqJn1gS3FWPr11cy+EkMb8pxwgcKYmUXpmBTPY0fREvBEmnlcCUhv08QB16V8ECZGoIlqfczROWdw1LJqb+jte/rFZvVizRaDgUMSwW09W3m7FpUGSnAito4FJPbawdSKoe5L/BIW4hASWaB/DhuNzLpTv4Frfttr3HqnWhBIcMIE9eqqaKUUYOeVT4R28xTTjJDqIk=;hP2f0faP+0+pkskXgOo55g=="

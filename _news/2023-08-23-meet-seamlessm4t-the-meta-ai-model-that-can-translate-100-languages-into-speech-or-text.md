@@ -200,6 +200,22 @@ related:
         width: 2000
         height: 1414
         isCached: true
+  - title: "Meta introduces multilingual speech translation model for 100 languages"
+    excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."
+    publishedDateTime: 2023-08-23T10:00:00Z
+    webUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 44
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/05/7fd56ad9dd860cebbe0a1885f7320d93-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mark Zuckerberg's Meta Unveils SeamlessM4T AI Model To Enable Multilingual Communication Across 100 Languages"
     excerpt: "The AI tool boasts capabilities spanning speech-to-text, text-to-speech, speech-to-speech translation, and text-to-text translation, encompassing a vast linguistic spectrum of up to 100 languages."
     publishedDateTime: 2023-08-23T04:50:00Z
@@ -243,20 +259,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_04_2023_07_01_56_2739472.jpg?width=920&format=jpeg"
         width: 920
         height: 690
-        isCached: true
-  - title: "Meta Introduces Multilingual Speech Translation Model For 100 Languages"
-    excerpt: "(ians) heating up the artificial intelligence (ai) race, meta on tuesday launched a new all-in-one, multilingual multimodal ai"
-    publishedDateTime: 2023-08-22T17:17:00Z
-    webUrl: "https://menafn.com/1106916284/Meta-Introduces-Multilingual-Speech-Translation-Model-For-100-Languages"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/22/I_9928fimage_story.jpg"
-        width: 1000
-        height: 707
         isCached: true
   - title: "Meta unveils AI model for speech translation between languages"
     excerpt: "The company said in a blog post that its SeamlessM4T model could support translations between text and speech in nearly 100 languages, as well as full speech-to-speech translation for 35 ... a flurry of mostly free AI models this year, including a large ..."

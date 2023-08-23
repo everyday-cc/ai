@@ -119,6 +119,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
+    excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
+    publishedDateTime: 2023-08-23T10:00:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-dominating-ai-chip-race-100003548.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 48
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/.K45FEz5EXgehTdhLI0YuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5fea31115bd0fc6cdf12cc4c7150984e"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "The Bull Market in Artificial Intelligence Is Just Getting Started: 2 Big Reasons to Buy Nvidia Stock Right Now"
     excerpt: "Customers can’t get enough of Nvidia's artificial intelligence chips. A new processor design should extend the company's AI dominance. Investors have rightfully crowned Nvidia the biggest winner ..."
     publishedDateTime: 2023-08-19T13:28:00Z

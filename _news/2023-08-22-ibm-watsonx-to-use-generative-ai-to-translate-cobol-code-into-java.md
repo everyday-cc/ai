@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
 quality: 121
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -203,15 +203,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
-    publishedDateTime: 2023-08-18T18:52:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341165&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-20T18:36:00Z

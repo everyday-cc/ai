@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/new-study-reveals-why-mainframe-applicati
 webUrl: "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: IBM
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "Why digital transformation raises ethical questions in healthcare"
-    excerpt: "Ms. Couts said digital transformation in healthcare can sometimes raise ethical questions ... issues like telemedicine's impact on the doctor-patient relationship, the use of artificial intelligence in diagnosing and treating patients, and the potential ..."
-    publishedDateTime: 2023-08-18T18:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/why-digital-transformation-raises-ethical-questions-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
 
 secured: "DF4IES8pmKNhXyXMXenZ7yXZFin7n9tydsSOmt2OkK1V1dhd5LvLO2Bc65v+DMz6vVlStG96hgq5+9hFN05S/AYWX5DbGf3sAp3VxnPVK+9/lPO0++n7uy6Z3mDuthu5OJS9WMhAIXWeWQPkS6B0QBH9kHRzOXF0uzqLd44PpBhrm3hRfnD/tXkKhSDhS7xfKZZiC3T8eu3j/HmncL3BA1T3BaY5Cjx7uZo6a2ipfhjFSZR2cxBy7JS5XkLU7boCIWQBhvBMvudx3V8sW1+iR2tzbU0XSIMTf6EVY1OW8LuBXnTAPCX2LMCRfSrwzSpa66jmGq6nxm8Btd5qfxkVkq6fzUVM0a1VM8SXeIdZjP0=;MLvE95uC38UF/JIfIdqwgQ=="
 ---

@@ -23,63 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "Interactive AI App Sizzle Guides Student Learning"
-    excerpt: "Sizzle is a free smartphone app that uses artificial intelligence to help learners work through any problem. It shows a compelling vision for how AI can support learning."
-    publishedDateTime: 2023-08-22T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
+  - title: "The Evolving Role Of CIOs And CTOs In The AI Economy"
+    excerpt: "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade."
+    publishedDateTime: 2023-08-23T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4b7aa78f7f2f2574af6bb/0x0.jpg?format=jpg&crop=1110,624,x447,y0,safe&width=1200"
-        width: 1110
-        height: 624
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-    publishedDateTime: 2023-08-19T16:08:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 627
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
-    publishedDateTime: 2023-08-19T17:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+  - title: "The growing role of AI in science and discovery"
+    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
+    publishedDateTime: 2023-08-22T00:58:00Z
+    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
     images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
-    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
-    publishedDateTime: 2023-08-19T14:09:00Z
-    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 36
-    images:
-      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "SvzGozd2pa+plXpDfHc7kLAMRmCWwLX903oV3uwIaAgkamwNxSsZF04Oir4+Um0ymXCLhM4waBV6ul4Aqi/eOmv0OPZQaoCYTga7zCoSOcNuD/ToQad7Nm/QLK9FO7xoEf+oWHR5brT3LXT8xSL9+u4+P0Mr5xRem5qZpLjvxxu9EK5CD9B+DxmExeydCqTb4wE6rZLvWiQy+i0QkZHlJS8JUaaBJJlgt3u6xguSike+hSTutRAlGQURueeNZy+34PsLUGkDWwt98mlE76c8SCxhxeawavEU99Wcqkw01fesCoViFcj3yUhO0zqKn4i89idGwcbRxqAnsZrCVlhj4Bs+1OCLDucrZv77FZtRqzM=;F7mk02QSPTdczikaSYZ5gw=="

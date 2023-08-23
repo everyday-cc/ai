@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-23T08:07:00Z
 originalUrl: "https://www.infoq.com/news/2023/08/kubeflow-cncf-project/"
 webUrl: "https://www.infoq.com/news/2023/08/kubeflow-cncf-project/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://res.infoq.com/news/2023/08/kubeflow-cncf-project/en/headerimage/generatedHeaderImage-1692714438210.jpg"

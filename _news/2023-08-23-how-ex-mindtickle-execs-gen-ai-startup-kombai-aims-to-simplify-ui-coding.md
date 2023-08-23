@@ -7,7 +7,7 @@ originalUrl: "https://inc42.com/startups/how-ex-mindtickle-execs-gen-ai-startup-
 webUrl: "https://inc42.com/startups/how-ex-mindtickle-execs-gen-ai-startup-kombai-simplify-ui-coding/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     height: 628
     isCached: true
 
-secured: "VzhVNEjTwJbtawiB+hvDQMKLT/R2FAuDSTz7PfpWCCOtpvRtDeyCxu95VM+8Vs8GhbkcPEQXgTd7/2vs2t3IBenEcGglG748l0939t5tz5IKtp1bJewHyOCMtpsTdZUPu9TU5fNLHbTBk83x4SY8mEdFCgz4k1dLTF01LWbS4V7JlpU7d0d41yefY0zuEOBTrT0sBUbziBQvWeaknBzRIpTdzsIIsU8zqa761sb2Wg2h+AAB8HNQ+s5uXzhRwqS9HefBKYN7XRaw/QKZFdm48f62/cqc16x35yRE9H6Lw20jZNPkQR/VY5hM8Jxorc5ogpUAmRlc6yrzEIjeQvBRtVZ4M/vYlgTyFy0Mf9cPxGQ=;J4FLToNrI4oGDPgDgWTqzA=="
+related:
+  - title: "Portkey.ai Secures $3M funding for Faster Deployment of GenAI Apps"
+    excerpt: "Bengaluru-based startup Portkey.ai is today announcing a $3m seed funding round empowering engineering teams to build and launch generative AI apps faster."
+    publishedDateTime: 2023-08-23T10:40:00Z
+    webUrl: "https://analyticsindiamag.com/portkey-ai-secures-3m-funding-for-faster-deployment-of-genai-apps/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/chatgpt-fail-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Portkey.ai makes it easier to build generative AI apps. Check out the 14-slide deck it used to raise $3 million from Lightspeed."
+    excerpt: "A startup that enables businesses to build their own generative AI apps has just raised $3 million from Lightspeed. San Francisco-based Portkey.ai — launched in January this year — aims to help companies deploy \"very complex applications\" on top of ..."
+    publishedDateTime: 2023-08-23T09:17:00Z
+    webUrl: "https://www.businessinsider.com/portkeyai-startup-businesses-build-ai-apps-with-3-million-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/64e5c2014c17ff0019bac2a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "uvSn4Nwi2+9+7TCHSBJgImGtMJVT+s2nHTXyLGuoTEcaVbuJJNJpID00FXzwyw3rMTvYxtDY9KYUpt89H4k5+oDorgkYWGZXOd3OlKNKx2F5mcmsUnhcEo0X5d+FWy7jLrFQzrgXrl5nytbW+tVQ5l2Czivh6bNKqgTcFC3lxdqABw+hs0C5JFImlFBVzYo3c9OFbPQbRgbixEHovQv3CIzZ9NMNCmKkCMfpn9QuMlpc8aqMSrEG9wffzJJT6conxVo4IDmESc7RCbanLKkaUsoWsbNLV7uo+Le0RATjsEC/3mJUmOrErdqoNA7UDkfogIqYQh/TGs2iLjE0iGqxZPxrxuXn0+bmGO+lRKatT0XuC/ETUb8QyNi8XEV8SV1/VOfGGlfUfkb4fkETCWhHnpLFzE5wfDuDrOVFYkkFSf3Q2pJtSL9pxJ0RcJUTKSICGXMpeU8nd4QXdE8GlwziSmG4+cda4o2ifBPC+Q1tBdcRPUHuzlfS8gyrKJnCHnTWTRXualJ3Qeb2UrIpEiSNbw==;1jgWqmUKWGhRAHJojCuvGg=="
 ---
 

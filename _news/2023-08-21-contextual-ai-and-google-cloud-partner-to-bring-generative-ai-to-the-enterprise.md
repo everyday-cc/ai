@@ -113,20 +113,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
-    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
-    images:
-      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Latest In Prompt Engineering Urges You To Welcome And Harness Vagueness In Generative AI, Rather Than Shunning Its Perceived Woes"
     excerpt: "Prevailing wisdom says to shun vagueness and embrace specificity when using generative AI and entering prompts. Latest prompt engineering says vagueness can be useful."
     publishedDateTime: 2023-08-21T11:00:00Z
@@ -170,22 +156,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z
@@ -199,6 +169,20 @@ related:
       - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2023/08/robot-hand-with-human-AdobeStock_208992806-WEB.jpg?quality=80&w=768\t"
         width: 768
         height: 508
+        isCached: true
+  - title: "OpenAI gets lukewarm response to customized AI offering"
+    excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
+    publishedDateTime: 2023-08-23T10:58:00Z
+    webUrl: "https://cointelegraph.com/news/openai-gets-lukewarm-response-to-customized-ai-offering"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMDgzNmY2ZmYtNDE2My00ZmI4LTgzY2YtY2Y0YjY1YTE5Y2EwLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Generative Artificial Intelligence in Finance: Risk Considerations"
     excerpt: "In recent years, technological advances and competitive pressures have fueled rapid adoption of artificial intelligence (AI) in the financial sector, and this adoption is set to accelerate with the recent emergence of generative AI (GenAI)."
@@ -246,15 +230,6 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
-    publishedDateTime: 2023-08-22T18:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YqcpkI0PBv60WGUmn5+mtWOwX6SUSGIbkMpUlCgFKW6rXrhZC82+2AuwrD0YZehdc+vE/DYw2gC+VYFhqyt0+/XfGg2ALRpTJSkjgrCINUHTA+cC1eBCfoTBfoSIvPfFPAtoduiOcvrGZhY8/q5M+UZiyj6uks1TcdthBtatsh2PcO/ntfWJtMChmFjqwi4epGjwhZiFSg1WZezO6ELt4VF1BBzK1I1tEDuAd0F1JCUrHYyoOkzwJlvkDiXUE4RdbrDy+rP6jzA4fx5tEEckSgNIX7Ju4T/TXOjKROFzEwWsFfhnDrJ1OVUEf+H3iilAeit+oT6kKg6cIS4AY102LRVzMKxP/dops9kRs2PjzzLmD3wqldVRi9ABJqo/N27G2hNd+pv5QFloqGXo+Pkv87zsauEAZqN0BKDhKDA0yyy/jXaZdkeb29uyR/uxaA+zQZHYZ7PcGEf+w+g6rTBWDtfyCHlrLHlAKBDzHYozvW4NT9Ej2TFDZ3FiUHlT20GKyCIFmp2bSbTnxr6Frz5hLw==;lWE4wCOkfg7UJRpRMjdqOw=="
 ---

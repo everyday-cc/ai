@@ -8,9 +8,9 @@ webUrl: "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-ski
 ampWebUrl: "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Computerworld
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/08/shutterstockthapana_studio-100945002-large.jpg?auto=webp&quality=85,70"
@@ -42,6 +43,6 @@ related:
         height: 640
         isCached: true
 
-secured: "6kdZyzEQJYCHfM0Hjwh/TFVKJS0RAMKvpacETwX835WsABLePmgj9h9hR7eBhPzPcVZ1m8HvAhVWZGXoM1JvU9WErNRgnnpZ1RsmnZzyY1PgyJgremRSrMBay3/TrxhUjgn1GgM7gAxOpOGa2fn5axe/QxrqFh3uP/Zx8uyXz8ErDzZbEHnS5puEUcP3sttuCqsRbb+sfswkDFVnBJXos9UVNsWWVMtK9Zr17+Qz9I25tnLgO0oJCp2V+m6tzQKUqFErjTbxo/O6Hng6CxvM5DsnHYKF+BEWPmtyyP+qSM72nYzebexgDsKFt992ISFVUDtitKWUmN7aWSymnmtgVvO8lpahO1ArxlelZBrn5uE=;tpFXu47NafV+T7ihfeOCUQ=="
+secured: "Ez52x5cNeTzUHvJcThA/xQFwOVKUYBfTYO8KxfwhsxloKQ6DBsTEoXQv101YE0YJO532dZEkBly309RSw1zGdr/tdEs0YbT+zj5ZzVi089r16BfUy756N0ZW38B+0gXh71/F+jCD68kEj3kKZ/1JOIDolz0W08s6XTneC6nc3etFY74nGACb8Fdo19osFQ9dSCWuYOBjSyTU+LsFSjV5iemwI9yf6wzLWa/IteVu04jcVPJZqmQ9Y5klb1p/adfoh2dZXavoe7q0+lP/3oxkJMOoXyO1YOHgSGfholjmZLRWzmTWvltbIfx0+lrxW0/2j5zfDql+CNQonkZ5IlsKgUXcbUAqIfOhg6vO3FcoygwsbYgBUEc0gOxElDL3h+yJ+4Me7OrIS+VBRb/f18IpFQMlPBlJA35/tjPhrYxJNkhQ9KCEjgicmlJHsN/gGvbFC0G8zoSgq0Eq2DcobkdsfDduEwYHE15CXJm0PUbmwSJArzm+5Xu6e/cyiKtL9BDqN1KgWwlrPHDkt0+xRVoIRQ==;B7BxOzKdoN73TLiz+NQcxQ=="
 ---
 

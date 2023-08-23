@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-sol
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/528540"
         width: 690
         height: 407
-        isCached: true
-  - title: "US judge rules in favor of human ingenuity, denies copyright for AI art"
-    excerpt: "AI-created art lacks copyright protection. Verdict impacts AI's use of copyrighted content, shifts focus to human innovation."
-    publishedDateTime: 2023-08-20T10:06:00Z
-    webUrl: "https://cointelegraph.com/news/u-s-judge-denies-copyright-for-ai-art"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYmUzMDJjMjMtNWJhOS00ZjVhLWJiMjgtMjgzYmZmOGY0ZjQ1LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules"
     excerpt: "As questions swirl about how artificial intelligence will impact the music business, a federal judge offers one definitive answer."

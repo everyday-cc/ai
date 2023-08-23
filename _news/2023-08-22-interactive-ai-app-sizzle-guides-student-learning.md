@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
     excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
     publishedDateTime: 2023-08-19T14:09:00Z

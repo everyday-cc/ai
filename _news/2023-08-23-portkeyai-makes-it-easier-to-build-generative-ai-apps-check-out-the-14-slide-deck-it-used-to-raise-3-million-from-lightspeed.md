@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/portkeyai-startup-businesses-build
 webUrl: "https://www.businessinsider.com/portkeyai-startup-businesses-build-ai-apps-with-3-million-2023-8"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Portkey.ai Secures $3M funding for Faster Deployment of GenAI Apps"
+    excerpt: "Bengaluru-based startup Portkey.ai is today announcing a $3m seed funding round empowering engineering teams to build and launch generative AI apps faster."
+    publishedDateTime: 2023-08-23T10:40:00Z
+    webUrl: "https://analyticsindiamag.com/portkey-ai-secures-3m-funding-for-faster-deployment-of-genai-apps/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/chatgpt-fail-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "How Ex-Mindtickle Exec’s Gen AI Startup Kombai Aims To Simplify UI Coding"
+    excerpt: "“We are building a generative AI model that understands design as humans do,” Dey told Inc42. Today, the Pune-based startup has announced the launch of its public research preview, along with its $4.5 Mn seed funding round led by Stellaris Venture ..."
+    publishedDateTime: 2023-08-23T09:31:00Z
+    webUrl: "https://inc42.com/startups/how-ex-mindtickle-execs-gen-ai-startup-kombai-simplify-ui-coding/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 36
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/Kombai-social.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "WOUnDnmQSCd6GlzM4aX3d/07XBJeCKCcy9hJ+oMR9E4UI76WEjvy4JL3nHONQQr8SdCkArAOu7SBIye29Usfz4281ct+fxE8yqgMYfVrj0tcQyhreMIQDYIJzDFc3FJ68gjy5qMUJfZMbUmM6AYGEau/7BuzT4fQp/9Kp8qGhLfwwT62MPM1s9vaOKlS35rZ63VPPoloXrkabNZFMY/MWaiJfaKXmX4H2IsHTxyaXZTWWrIOsmH/FXcMVulecKHDP/1pXzmx2pjNTLs1ZetmbFaS3mBHromNH2mrB9yCqPB7umo8wPHxEz2X/GHSsUfmnOmPdsUYh1yYCIEfJPXfJ5vWsUvI0SVl4Lm3A5NVI+4=;GjkT1crWNea/qubDnqXh0A=="
 ---

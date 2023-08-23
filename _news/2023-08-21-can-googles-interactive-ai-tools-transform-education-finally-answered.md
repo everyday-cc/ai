@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/can-googles-inter
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating the surge of artificial intelligence in higher education"
+    excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
+    publishedDateTime: 2023-08-23T05:18:00Z
+    webUrl: "https://dailyiowan.com/2023/08/23/artificial-learning-navigating-the-surge-of-artificial-intelligence-in-higher-education/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 56
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/AI-front-copy-1.jpg"
+        width: 2001
+        height: 1334
+        isCached: true
   - title: "AI-driven transformation: Reshaping the future of work"
     excerpt: "In today’s rapidly changing business landscape, the convergence of cutting-edge technology and human resources is reshaping the way we operate, engage, and envision the future. The infusion of Artificial Intelligence (AI) into HR practices is undoubtedly a game-changer,"
     publishedDateTime: 2023-08-20T12:10:00Z

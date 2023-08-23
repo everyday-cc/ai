@@ -119,6 +119,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
+    excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
+    publishedDateTime: 2023-08-20T12:00:00Z
+    webUrl: "https://www.latimes.com/opinion/story/2023-08-20/editorial-the-robotaxi-california-lack-of-regulation"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 21
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PMjE0Kr/I7J+sW5G4R4UuvvGH9u2HI4mJ5EoThQC02zirNPWqQzZQoGegu5eWzw3ISk4/g9T2P4mpXtQ6EcMxCVZwtx7uvBWksVniS7P4vokADXu6q+tfSGUrs0HuFDDYvNE9mn+vInTpmrea9lC4y+9UQjHDEvU6gzEa2Yusrm5qMLanyVCEROJ14FsVSO+k510nU2n9MdTwicLbx3xOc7Bl7Lo5nPHlhr9VHDcoV+QPQTWMednHjA/WfuEV+Ocwn4QrDhiz3J6CVGJ732BSEbjCzqytQLogZPFJ00MtYVxpGxKSk5xGa4GVmQSQVar5g7zGhFKKVhDTrXYFEvAhSvtTs9mQTh/Uf3b+V92dwXrZxlvcwTyZQXnXOdOzwkGckqihXmFN+CtICNT3++z5kArATvNqd/PnZYMySdxwtY2hjQ90LfRrrwwa6vS9ZhUU1zSIDyZJbaUiOSeUYw5HGjNODOIe3NFOg8V+tgX5+uKEE3Ohcvg/m216iqChrZI6bGgYqSLBSeas0u6qntfiw==;wv91JYFLM0SFYreLYUih+w=="
 ---

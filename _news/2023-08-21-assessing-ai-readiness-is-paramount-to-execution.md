@@ -71,6 +71,22 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "How AI used to detect depression and anxiety just by listening to a person's voice"
+    excerpt: "AI-enabled tools are being developed to address mental health issues, such as vocal biomarker technology for detecting depression and anxiety. Know all about them. Mental health is increasingly becoming an issue societies around the world are paying more attention to."
+    publishedDateTime: 2023-08-23T11:22:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/how-ai-used-to-detect-depression-and-anxiety-just-by-listening-to-a-persons-voice-71692788512055.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/how-ai-used-to-detect-depression-and-anxiety-just-by-listening-to-a-persons-voice-71692788512055.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/how-ai-used-to-detect-depression-and-anxiety-just-by-listening-to-a-persons-voice-71692788512055.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 53
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/23/1600x900/elisa-ventur-bmJAXAz6ads-unsplash_1692789504742_1692789514208.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Agencies and AI—how major shops are using artificial intelligence"
     excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
     publishedDateTime: 2023-08-21T09:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-a
 webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Conclave discusses role of artificial intelligence in healthcare sector"
-    excerpt: "Todays paper, print headlines - News from The Hindu newspaper on a daily basis"
-    publishedDateTime: 2023-08-18T18:30:00Z
-    webUrl: "https://www.thehindu.com/todays-paper/2023-08-19/th_chennai/articleGUGBKT5ME-3964903.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 34
   - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
     excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
     publishedDateTime: 2023-08-20T06:01:00Z

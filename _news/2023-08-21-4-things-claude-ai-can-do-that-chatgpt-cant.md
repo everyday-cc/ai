@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
 type: article
 quality: 87
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,15 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
-    publishedDateTime: 2023-08-18T21:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
+  - title: "How ChatGPT turned generative AI into an “anything tool”"
+    excerpt: "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction."
+    publishedDateTime: 2023-08-23T11:31:00Z
+    webUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 91
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
+    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
+    publishedDateTime: 2023-08-21T14:00:00Z
+    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
+    images:
+      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "OpenAI may have to wipe ChatGPT and start over"
     excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
     publishedDateTime: 2023-08-18T21:35:00Z
@@ -67,20 +88,15 @@ related:
         width: 1500
         height: 841
         isCached: true
-  - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
-    excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."
-    publishedDateTime: 2023-08-22T15:16:00Z
-    webUrl: "https://www.inferse.com/687129/how-chatgpt-kicked-off-an-a-i-arms-race-the-new-york-times/"
+  - title: "Exploring OpenAI’s ChatGPT Code Interpreter: A Deep Dive into its Capabilities"
+    excerpt: "OpenAI advancements in Natural Language Processing (NLP) are marked by the rise of Large Language Models (LLMs), which underpin products utilized by millions, including the coding assistant GitHub Copilot and the Bing search engine."
+    publishedDateTime: 2023-08-21T17:54:00Z
+    webUrl: "https://www.unite.ai/exploring-openais-chatgpt-code-interpreter-a-deep-dive-into-its-capabilities/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1285.png"
-        width: 1050
-        height: 550
-        isCached: true
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "+aGPA8k778l8euYz6KS6g0xmT/2DT2oHPGfHpYltJ/CyEbWLVGJdtdXErUzXBkJc4f1qcljHhlwdFGaw4uordyxGovknVSVqfX/njFJ4L/2pDfnQYPQ8+AUBt+AVbYuJ4x5YKMGKSPlHb0OAe0K9VWOdjJMawhYaaMPKBXsJW483wii1XDBJJhaszD4Jr5ClarNWidEgWVbNVKaITigo5xA5Mqd8kKacuhNw4wZrJpCD//ib9Y6vRVzwH6xJas5gKmY6NCn8BLk73hwRdFua+Bijw0Eul9OjaFsQ+f5BtZa/iM8FXu0IV5qj72UST73RYJ7nqUrZ0IwCkRWsRRqurerIfLQBuOnwD3bjacPrtrEpKzD+1dy9iQWmgwKVAQRK9G7EC/cc9LcXqhWcKl1NsXfkWTRFsD3EIFCb0fQabIwmHQjpmP8FQsj/I4C1OZrLpHvQRoO7y5poSD5biHHcjsZncDRWhPBnzoa3juBcu3xS9fnru0KywHR13kfyONJe+ck4ezRdqj7TC6exLS27BQ==;Jys1nJdx9ZvgjpruPN0xlg=="
 ---

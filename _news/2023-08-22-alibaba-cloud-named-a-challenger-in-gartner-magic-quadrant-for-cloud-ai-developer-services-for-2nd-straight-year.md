@@ -39,6 +39,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Gartner forecasts AI chip revenue to top $53B"
+    excerpt: "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI."
+    publishedDateTime: 2023-08-23T11:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Global AI chip revenue to reach $53bn this year"
     excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53,4-billion revenue opportunity for the semiconductor industry in 2023, an increase of 20,9% from 2022, according to the latest forecast from Gartner."
     publishedDateTime: 2023-08-22T09:26:00Z

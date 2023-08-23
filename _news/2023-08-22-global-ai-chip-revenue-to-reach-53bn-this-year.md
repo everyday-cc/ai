@@ -33,6 +33,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Gartner forecasts AI chip revenue to top $53B"
+    excerpt: "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI."
+    publishedDateTime: 2023-08-23T11:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
     excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
     publishedDateTime: 2023-08-22T07:30:00Z

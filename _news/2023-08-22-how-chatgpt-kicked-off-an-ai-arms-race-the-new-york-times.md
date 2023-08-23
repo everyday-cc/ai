@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 things Claude AI can do that ChatGPT can't"
-    excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
-    publishedDateTime: 2023-08-21T09:41:00Z
-    webUrl: "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/10e17e3b47695ed9d7b5839f3ed9d5ad130db1f0/2023/08/18/0037d63a-2356-4f19-b56c-e121f7f84577/race.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
     publishedDateTime: 2023-08-18T21:59:00Z
@@ -50,33 +34,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "OpenAI may have to wipe ChatGPT and start over"
-    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
-    publishedDateTime: 2023-08-18T21:35:00Z
-    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
+  - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
+    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
+    publishedDateTime: 2023-08-21T07:19:00Z
+    webUrl: "https://www.inferse.com/683688/the-brilliance-and-weirdness-of-chatgpt-the-new-york-times/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Inferse
+      domain: inferse.com
+    quality: 24
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
-    excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/how-do-chatbots-work/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 37
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/16/2311_PopSci_AI_Language_Final.jpg?auto=webp"
-        width: 1500
-        height: 841
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-11584.png"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "d/hmHlq0tq6pn2uclO4en8pdImOC7ecnGjY8QRii8l33+b8xalyfGL/RenndLtenxzYglQIVBc4he3NAenwJvGo1tyD/QX6njKNXLDTF1VfuSFp00hAQcDJu1jdbFELnOWYNfFlBywdwvk+CCeAN2pLq44zFa6okDH5yV6nBKTGdC2NgN9rnfNC4sYViV++7BBBk854Sk9S7ajcqefjpnzBraE9gkCSNvwMfo4Fus3ZWZY4gvjZx/mM4RCI+xkH1IVmmH1mVOOvzKxbvvzPDic0/HUjkttlV4VePd4En8hAeAEqTn6OWEqdXHQ9xLMrli985FX+yLyWyHZTC4P3ZA5avpHQOIB7MyYf/y8mITMe2IMdZMFCYILwTnBE67E8gtcxN9z273CQwgjxdp7Kddr79DKDUQ7aJ7HTeC515v7aAexHECwlQHbt3a3VklElK/LblvF/hkXTX4FKjWG6Y1xwX2tTWQO6VmIP3BMDAiQHet+SxWrcDVKXdU9a/11QQgOQn1JTsEiPlPtfZ7Cv7ug==;mNvcImm8hBTbfCHgKTdIYA=="

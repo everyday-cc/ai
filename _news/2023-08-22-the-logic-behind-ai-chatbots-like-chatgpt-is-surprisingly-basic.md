@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How ChatGPT turned generative AI into an “anything tool”"
+    excerpt: "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction."
+    publishedDateTime: 2023-08-23T11:31:00Z
+    webUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 91
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "4 things Claude AI can do that ChatGPT can't"
     excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
     publishedDateTime: 2023-08-21T09:41:00Z
@@ -40,15 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
-    publishedDateTime: 2023-08-18T21:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
+  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
+    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
+    publishedDateTime: 2023-08-21T14:00:00Z
+    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Wired
+      domain: wired.com
+    quality: 64
+    images:
+      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "OpenAI may have to wipe ChatGPT and start over"
     excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
     publishedDateTime: 2023-08-18T21:35:00Z
@@ -63,20 +84,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
-    excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."
-    publishedDateTime: 2023-08-22T15:16:00Z
-    webUrl: "https://www.inferse.com/687129/how-chatgpt-kicked-off-an-a-i-arms-race-the-new-york-times/"
+  - title: "Exploring OpenAI’s ChatGPT Code Interpreter: A Deep Dive into its Capabilities"
+    excerpt: "OpenAI advancements in Natural Language Processing (NLP) are marked by the rise of Large Language Models (LLMs), which underpin products utilized by millions, including the coding assistant GitHub Copilot and the Bing search engine."
+    publishedDateTime: 2023-08-21T17:54:00Z
+    webUrl: "https://www.unite.ai/exploring-openais-chatgpt-code-interpreter-a-deep-dive-into-its-capabilities/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1285.png"
-        width: 1050
-        height: 550
-        isCached: true
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "UfK10cHffc0OQ4PEEB6mUu8zJrqqg6azYqJuCIMK20LrwDkjdgbLVFTL4dHiqijg8nf21+0N7OlEnlILihhHJc4yPe61WrMYKTFrMbDbTJ4QFJVoE/dXAx7sacNjOoUUAL5MRscZNv8nsxywBGVQNAeSs2uehBOwFSCOftnvzIvmceuXYlTR3oWNJ6pDwWY3xuJTYTO+iwZaajuju65x+Ouyu8QZJtykkENEFG6C14GvRUdVmCRQyhRUgMcQ+TRbyZ9ICYPBL2CCG/UfwMUMPT+LKipa0MDXO2sVQicrlc1KhJDeqyX2rlVVrxNjXwxU+tjeLPMfyMSIR1F7lViFbNi8BpKWTxSitTUwsZjBWws=;gfkSEj/5/8OKpwm1NWabEQ=="
 ---
