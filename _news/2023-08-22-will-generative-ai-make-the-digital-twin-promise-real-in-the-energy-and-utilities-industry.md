@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
         width: 1200
         height: 687
+        isCached: true
+  - title: "Twilio expands CustomerAI capabilities with generative and predictive AI"
+    excerpt: "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns."
+    publishedDateTime: 2023-08-23T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all"
+        width: 1200
+        height: 607
         isCached: true
   - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
     excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"

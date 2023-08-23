@@ -30,38 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
-    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
-    publishedDateTime: 2023-08-22T21:22:00Z
-    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+  - title: "Dear Superintendents, Get Ready For the AI Guidance Revolution"
+    excerpt: "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance."
+    publishedDateTime: 2023-08-23T16:13:00Z
+    webUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
-        width: 1400
-        height: 785
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dce896503cde930688000c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
-    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
-    publishedDateTime: 2023-08-22T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
+  - title: "Fiction writers fear the rise of artificial intelligence"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
+    publishedDateTime: 2023-08-19T13:04:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/19/fiction-writers-fear-the-rise-of-artificial-intelligence/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
-    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
-    publishedDateTime: 2023-08-23T06:05:00Z
-    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 33
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Books-AI-A_Story_to_Tell_62073-7e888.jpg"
+        width: 899
+        height: 666
+        isCached: true
 
 secured: "0ctI0xdJ48x/Hyx5CYLnKsUNeaBlKEjRtG+NpPQ7tZGyBVdLcsGuNGJ93NGHnRsvipQq1KdheeiRd5oQGIq0zl2R0B+uEqE9FfLe+TySfnpJDlhHN28yaOHJbSx1bo343ZGoEG+S/vLBg0hu8U62quCj34xcHsPGm4Dohuo/7yYxsaAFF5iNWhPhxIu7ufg/nlIdS0EcMWqvSgzquTl6e+hUGdSQUBAqr0B28QxPulomPNpbw6lxbc1wjH5CXfhFRKtiZdgUVU8Pk36j1aHTpbFT4UN8eh8KZLGN7nsKjZuNKV0BM/qi+bpTHxfUyLuystrNZ8aJ/VwfFGTTkhcRAVVU8W6ONZFVbtqP9pBEjZHHxjALiE1rbFm048VHwsk8rq93yCuBktyZEUcP40X3/TkDLChlPBy27hViF8V2Gy3adimt5WnNxB6agdeNyzBhMpH3pBKJeE/oo9+YNPoz7LWj81Yi2WWiitd01hVaBrArTnq4y2jOlmJkFabICrMrKegPTAjnNunP0rft5eZGeg==;33Imv09a2JIOryi/h1VT+Q=="
 ---

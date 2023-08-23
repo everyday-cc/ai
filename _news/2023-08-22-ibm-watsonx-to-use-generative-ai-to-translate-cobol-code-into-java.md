@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
 quality: 121
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "IBM’s generative AI tool aims to refactor ancient COBOL code for its mainframes"
+    excerpt: "IBM, eager to keep those legacy functions on its Z mainframe systems, wants that code rewritten in Java. It tried getting humans to do it a few years back, but now it has another idea. Yes, you guessed it: It's putting AI on the job."
+    publishedDateTime: 2023-08-23T16:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-800x600.jpg"
+        width: 800
         height: 600
         isCached: true
   - title: "IBM unveils AI-based watsonx Code Assistant for Z for developers"

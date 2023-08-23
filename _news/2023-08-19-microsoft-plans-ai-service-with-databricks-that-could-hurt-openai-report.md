@@ -7,7 +7,7 @@ originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/micr
 webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102853447"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "Microsoft says that AI is the new “tidal wave”"
-    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
-    publishedDateTime: 2023-08-19T01:07:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
-    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
-    publishedDateTime: 2023-08-21T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IMiJKGLDnwd3FHBxnorkXQFzF5i88GMoFCu9unq2Fe6T5ubtxWX5mVNRUP6nEtxMgeBOcDnymrBWWsoW1SJ1hz7XoV1rLHapOo71wj820VNB4jHEmg+63W1q9zHwt0FAaPmYZF1OXbUt6al8t8e5gjv4OCdupit4Tp3G4kEZLITCNoZjkG9+O5Gpp8S0riIewca/f4g58JCWH2D4p4OJlU3esF3mGNjWmX8YtYxxHuUTlo1V1LQc5oEKaBH9nOniXcbjKhOuq85wjZb7pvcL/WK0ln40o40e5p4s8kgVN5Hrtf1swcdeEXJHgvXh8MP+N/vE+GKgFa/wsln1/QnUYLClidqHJlzzuaz8fPo2Ymw=;IeoV513oJckaLH4mmH11pA=="
 ---

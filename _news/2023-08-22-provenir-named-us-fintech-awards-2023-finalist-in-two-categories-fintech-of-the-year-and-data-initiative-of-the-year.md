@@ -35,6 +35,31 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "5 Best Fintech Banks to Invest in Now"
+    excerpt: "Discover Financial Services (NYSE: DFS) owns the Discover credit card and has diversified into many banking services. Discovery Financial Services owns Discover Bank, which offers online savings, checking, money market, certificates of deposit (CDs) and IRAs. The savings account advertises that it pays five times the national savings average."
+    publishedDateTime: 2023-08-22T15:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-best-fintech-banks-to-invest-in-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "A Guide to Fintech ETF Investing"
+    excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
     excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
     publishedDateTime: 2023-08-20T23:25:00Z

@@ -20,19 +20,35 @@ topics:
   - AI Ethics
 
 related:
-  - title: "We're adding to our position in this AI software leader on a post-earnings pullback"
-    excerpt: "With the stock market still in oversold territory Monday, we remain on the hunt for stocks of high-quality companies."
-    publishedDateTime: 2023-08-21T15:53:00Z
-    webUrl: "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html"
+  - title: "No AI Can Learn the Art of Medicine"
+    excerpt: "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research."
+    publishedDateTime: 2023-08-23T10:00:00Z
+    webUrl: "https://time.com/6306922/artificial-intelligence-medicine-doctors/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107279969-1690906498059-gettyimages-1569410256-Omarques_01082023_techPOL_8_of_21.jpeg?v=1692640426&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
+        width: 2945
+        height: 1018
+        isCached: true
+  - title: "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector"
+    excerpt: "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning."
+    publishedDateTime: 2023-08-21T10:29:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 60
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg"
+        width: 1654
+        height: 900
         isCached: true
 
 secured: "gMaHEL4I5iv59NmtJIj9DG7Z8KSUd7CaBsJmMBV6AIC3wf11H7HuPkPIZhti//gkOsDGE2tAo4h00VAr2NjNtB295CFtnetbv4hEiy3JZPQsyXyGWW7pBtsZpn9kMDnDRXwIgCCN5ww4Ktfcd8xZcpdchAifeD0iFe5WRFuCoNik5mADaD7qSgRYg/vUw7hqnDD6oBK6jvbpVflGeSMSHYR35pbP8VtnSh026hAQiKaehlpmJPE7x5dM/6SyC5i1UHB+/IeBzE+r00bpovSoEYs5InXWJx4rnkv6m6gHs0yyU0jUZO6PrJosHyH1W75qRq+ggbzEbIU2L3wh49Qr/I10pijW99N3MuQDQfq/b57dTFDCw9B7S0ueMBleXmitNqFcRnthKliZ9VXEP1ZT2HLCF/imaVMJtDsmHUqxAWCI2lzuTIJRccNERFHZMZ2T9guMwjLoaJPZcyXVqrFisftca178phuIasOfIp+pxEtI1IeLVMYTTo+rTz6mZljDZRmh5TlRF+PjQHq7kAyEhQ==;tRZJsuq9hof0qlGz0aPCTQ=="

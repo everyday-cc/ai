@@ -161,13 +161,13 @@ related:
       domain: ehrintelligence.com
     quality: 34
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-    excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
-    publishedDateTime: 2023-08-22T13:35:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+    excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
+    publishedDateTime: 2023-08-22T12:16:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 29
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
     excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."

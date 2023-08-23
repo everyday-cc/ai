@@ -143,6 +143,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
+    excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
+    publishedDateTime: 2023-08-23T07:12:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 58
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102973423,updatedat-1692774727385,width-1280,height-720,resizemode-75/102973423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meta releases SeamlessM4T AI model capable of translating nearly 100 languages"
     excerpt: "Nothing will be lost in translation anymore as Facebook's parent company Meta has introduced an AI model that can translate and transcribe speech in numerous languages, serving as a"
     publishedDateTime: 2023-08-22T16:33:00Z
@@ -302,6 +318,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "LwByP8/l0/yNi7Dj3xV06UBPY1GmXGr6QvmwMn7hvgydiub/DmisYXmisjq/3O6vql3QymhnlfHQ/9M2fzkeQQTNnzdbJ1TEMNQ+ysI9PlnnCagActGF2wPKTraehg7nOXHvKsqf5FoudFZ0C1zXbxTRIvWK17L5vKhyFdIr+PcqixVhg8QtZhW1w9FI9NVCP0Atx5hhNHm5KKIV1tNrtYkjDw4yVTHumi7Ga8evMkbEEGYSR1lxh8P1rEii8UyjNzbh4em03FJL8ABG0qzikLr8bam4zjErWjcSf4NvJsNmlKSboGRazHhpN7rWbudmA2Tb2qwAHjmUB/HSmu8C8rZB4Qmx6P8th/c8WHOEUl0=;DyI9Ixn7yDiU1kfm00dtlw=="
+secured: "Kgx8VygjnGMC3iTEH7vMTcilHQdfZmIkIzcsCyD9YAJvvPlH1K8xCAnKmlQa+b6VdvWTV2Ts/MStxpzdC6i6A4Chj+claK2IUlD2po/JTVxiB7nIE9XdVmasS6sMI1QEAA7KY7U0tTMTFmPldPL9Nnb956Fs+EWBvHCe744Z+EqDDr6g7djKwtawpOnOh8Sb9IDLuoIclUmMEcnrgpvqbuNDjytIUj7EzfZNDczU3B3Qc7pAxJ/9k0cDDsrMs/ULbEfDNTnY0BsabMDuo2bzMjJjx8uKd6n9A3+dQYOGFKGpFWrDioUEbA3Fq6TUriNpCiw7VVPFx3cmpdBwpxLU6ccJL/pIyrHoC1e216cMrohAAztddTl3F3uFUg+z2cFp/W9aJYoUtbERhpuzKkYqhrO3ALVvJkMF9bCefzn90Rw/oolZT5Iup/uI7bPGEHkI8fpFdNOiD5bt0lPNmxGnVOed0sFEQu4r/5YUJJj4bi38Xr3jDoHil2x+chXIr1N9d9kaRemg5a3u/R/ZthbWTw==;hZK+zzQJueI15i+BR+VYSg=="
 ---
 

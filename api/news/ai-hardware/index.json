@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-23-nvidias-earnings-arent-the-focus-future-ai-chip-supply-is-everything.md",
+      "title": "Nvidia’s Earnings Aren’t the Focus. Future AI Chip Supply Is Everything.",
+      "excerpt": "The critical question for investors is whether or not the company can show progress in alleviating its supply constraints over the longer term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-earnings-stock-price-4c4f44d2",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-earnings-stock-price-4c4f44d2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-839819?width=548&height=365",
+          "width": 548,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-earnings-stock-price-4c4f44d2",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-earnings-stock-price-4c4f44d2",
+      "publishedDateTime": "2023-08-23T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-how-chatgpt-turned-generative-ai-into-an-anything-tool.md",
       "title": "How ChatGPT turned generative AI into an “anything tool”",
       "excerpt": "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -202,49 +245,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-22-chipmaker-nvidia-steps-into-the-spotlight-as-a-barometer-of-the-ai-economy.md",
-      "title": "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy",
-      "excerpt": "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/",
-      "originalUrl": "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-21-ibms-new-analog-ai-chip-is-more-efficient-than-power-hungry-gpus.md",
       "title": "IBM's new analog AI chip is more efficient than power-hungry GPUs",
       "excerpt": "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates",
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {

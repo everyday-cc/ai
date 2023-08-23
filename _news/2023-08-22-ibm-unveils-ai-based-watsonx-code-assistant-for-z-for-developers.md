@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM’s generative AI tool aims to refactor ancient COBOL code for its mainframes"
+    excerpt: "IBM, eager to keep those legacy functions on its Z mainframe systems, wants that code rewritten in Java. It tried getting humans to do it a few years back, but now it has another idea. Yes, you guessed it: It's putting AI on the job."
+    publishedDateTime: 2023-08-23T16:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-800x600.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
     excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
     publishedDateTime: 2023-08-22T04:01:00Z

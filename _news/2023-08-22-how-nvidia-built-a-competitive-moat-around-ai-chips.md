@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia’s Earnings Aren’t the Focus. Future AI Chip Supply Is Everything."
+    excerpt: "The critical question for investors is whether or not the company can show progress in alleviating its supply constraints over the longer term."
+    publishedDateTime: 2023-08-23T15:48:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-earnings-stock-price-4c4f44d2"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-earnings-stock-price-4c4f44d2"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-earnings-stock-price-4c4f44d2"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 73
+    images:
+      - url: "https://images.barrons.com/im-839819?width=548&height=365"
+        width: 548
+        height: 365
+        isCached: true
   - title: "Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
     publishedDateTime: 2023-08-21T20:40:00Z
@@ -32,6 +48,20 @@ related:
       - url: "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia – King Of AI Becomes King Of Stock Market"
+    excerpt: "Today is one of those very rare days when earnings of a single stock become a macro event for the entire stock market. Nvidia, king of AI, has now become the de facto king of the entire stock market."
+    publishedDateTime: 2023-08-23T16:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-–-king-of-ai-becomes-king-of-stock-market-1032577278"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/yiorgos-ntrahas-mcauhlgirvs-unsplash_1_2.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Nvidia shares hit all-time high as chipmaker dominates AI market"
     excerpt: "Rising bets that Nvidia’s revenue target will once again surpass Wall Street estimates lift the stock about 19% from two-month low"
@@ -93,6 +123,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
+    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
+    publishedDateTime: 2023-08-21T21:39:00Z
+    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 52
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
     excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
     publishedDateTime: 2023-08-21T10:16:00Z
@@ -134,20 +178,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "The Bull Market in Artificial Intelligence Is Just Getting Started: 2 Big Reasons to Buy Nvidia Stock Right Now"
-    excerpt: "Customers can’t get enough of Nvidia's artificial intelligence chips. A new processor design should extend the company's AI dominance. Investors have rightfully crowned Nvidia the biggest winner ..."
-    publishedDateTime: 2023-08-19T13:28:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/19/bull-market-artificial-intelligence-nvidia-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744243/artificial-intelligence-gettyimages-1464561797.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
     publishedDateTime: 2023-08-21T13:09:00Z
@@ -157,29 +187,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "It's Not Just Nvidia—AI Stocks Are Beating the Market Big Time"
-    excerpt: "Betting on AI has really paid off this year. A basket of stocks tied to artificial intelligence has outperformed the S&P 500 by 62 percentage points so far in 2023, according to Goldman Sachs data as of Monday."
-    publishedDateTime: 2023-08-23T13:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-23-2023/card/it-s-not-just-nvidia-ai-stocks-are-beating-the-market-big-time-EExPw9TiBvvRFnIjyQoM"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "AI buzz on company earnings calls goes silent in regulatory filings"
-    excerpt: "The motivation for executives to join the AI conversation is clear. The seven largest AI-linked tech groups have been responsible for the majority of the US stock market’s rise this year. Chipmaker Nvidia, due to report its latest results on Wednesday, has led the way with a gain of more than 200 per cent."
-    publishedDateTime: 2023-08-22T04:00:00Z
-    webUrl: "https://www.ft.com/content/717dfab8-973e-416b-aac6-24c5c9cb1fe8"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
   - title: "Nvidia shares up on hopes of strong results powering another AI rally"
     excerpt: "As investors up their bets on the company that virtually makes all chips used in generative AI such as ChatGPT, its stock has surged 13% in the past week and tripled in value so far this year. \"A lot is riding on these numbers,"
     publishedDateTime: 2023-08-23T14:19:00Z
@@ -194,6 +201,24 @@ related:
         width: 800
         height: 525
         isCached: true
+  - title: "This chip stock could yield a quick profit, depending on Nvidia's earnings, Morgan Stanley says"
+    excerpt: "How well Nvidia performs Wednesday could have implications for this derivative play, according to Morgan Stanley."
+    publishedDateTime: 2023-08-21T17:33:00Z
+    webUrl: "https://www.cnbc.com/2023/08/21/this-chip-stock-could-yield-a-quick-profit-morgan-stanley-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 37
+  - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
+    excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
+    publishedDateTime: 2023-08-22T13:57:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-arm-s-ipo-ai-chips-nvidia-brsk-48293/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 34
   - title: "Analysis-Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles"
     excerpt: "In one sign of AI's overall market boost, a Societe Generale analysis zeroing ... Nvidia shares have jumped nearly 12% since the start of last week, setting an all-time high on Tuesday before retreating. Such buildup in the shares, however, could make ..."
     publishedDateTime: 2023-08-23T06:18:00Z
@@ -217,15 +242,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "NVIDIA DLSS 3.5 introduces AI-boosted Ray Reconstruction"
-    excerpt: "Alan Wake 2 and Cyberpunk 2077 will be among the first games to support NVIDIA's DLSS 3.5 update."
+  - title: "Nvidia AI tools could add toxic NPCs to your PC games of the future"
+    excerpt: "Nvidia is all about AI at the moment, but its next project could help make NPCs in your favorite adventures more toxic. That’s thanks to a new custom toolkit that “aims to bring intelligence “to non-playable characters through AI-powered natural language interactions,"
     publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.shacknews.com/article/136733/nvidia-dlss-35-announced-gamescom-2023"
+    webUrl: "https://www.gamesradar.com/nvidia-ai-tools-could-add-toxic-npcs-to-your-pc-games-of-the-future/"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 19
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 17
 
 secured: "haumnWnkAoSkY90psMMH0A6+VHFCG1GG4wSmeI297H5l4FGgEupljT+qPHPnRPjXOlVoVrc5WKc4ucKtEZ7PXnY7g+wJZpjL2RIP1cz34LGJq8gSUOeBLV4qIEpSD/ld3kAXtZexP581MuoQcSmQ59Gg0JUDMAl8Q1GLj8Wi5LhwxQg+eSUaRP7POmrvmmEXCBlsJ7SUxV7/m55UPiZbKK5Oxj1MbRXqdt7HQUi2oAeFV53Wcu3oRvlKw9P4JUOTMR2VxIVmR4PkXdNFHta6wOPRuFkemnkzP+WrlKGFy85LH0MmFd6AJ8m8zMH+ElVIsPLKEN1WalybkDhvNj+Ij5iYgxXuqQgZpspOxSBkOqsn/Ee9nsv58IQsXVzEQtgY5349Rw3mpIQ9jxKXV/yp2pjr9KqEwpWOYiWnuq4kVCXkAiw1lLOg/AtG3cefilq0NU9ydnosBKAgTGfe+h+WJ+Dmv78fHuhwHkCxGKPt+3EOQGllsktcxnJmRXYTr7/gUBIPOj4jvrCaKPZDulfkFw==;1UXDuW5qCEsAcInBexgfSw=="
 ---

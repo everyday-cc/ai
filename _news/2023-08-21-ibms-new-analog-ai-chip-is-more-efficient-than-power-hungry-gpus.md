@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-ef
 webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
 type: article
 quality: 99
-heat: 110
+heat: 109
 published: true
 
 provider:

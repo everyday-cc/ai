@@ -103,6 +103,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
+    excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."
+    publishedDateTime: 2023-08-23T16:34:00Z
+    webUrl: "https://cacm.acm.org/news/275717-driverless-cars-may-struggle-to-spot-children-dark-skinned-people/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
+    publishedDateTime: 2023-08-23T16:11:00Z
+    webUrl: "https://jweekly.com/2023/08/23/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    type: article
+    provider:
+      name: Jweekly.com
+      domain: jweekly.com
+    quality: 11
+    images:
+      - url: "https://jweekly.com/wp-content/uploads/2023/08/20210408_BaxTowner_Cruise_CamA_NEIGHBORHOOD_700848.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cIBtWs+SPWhREvLuc/+4oar3jvKjIvZFXrLL30b2eS6H6KBsBtpSGrkX5ic14cqGV3v2T52vYZJm2bhKJRHp3o5aHCZpaXdp3DxTqTx6FkS8LxarsaJx7fp+BOpDlC/uYgntnB4xaWxny/ytU6wzFrovwkW8xtdrqOPg2hzSoUopRyAjKBePHN5JxBDj0eeBeYbbsvc56eaOAQprUYnI6PfngtzxAcpzesAqVv/IxVcwEbn8VhaP9CLYgcZmLnnItGUQh7BJcjU6aAk+5NpsDg8s4iiV1qhBBb8gaxOvQB0Obla8zDK/r/yZXPAuL/s+KJoUuNP6GYRWWuWwQLp2KEHnDqDIpwRrv8ti+9CSJqNXZLMpVKHFR+lW/a+oFyc3d7GtK4T7fJeNLzX/S3JeQFYqW6OHcX6EojpbiyVwQyPteDprzDBzzavBCbB02CCIuxu9MFnMgMG7kPq4H81HRIqDh9N4Z11zQykqL4DsQrERE7SpEAWxk7iQEBnLKDSH+rzb1VANczo7krSAeBEihA==;3PKSYf00MB4L5Z/UC8n/1A=="
 ---

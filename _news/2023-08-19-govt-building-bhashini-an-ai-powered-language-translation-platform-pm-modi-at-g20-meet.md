@@ -43,20 +43,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
-    excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
-    publishedDateTime: 2023-08-19T00:28:00Z
-    webUrl: "https://www.deccanherald.com/india/india-karnataka-august-19-chandrayaan-3-punjab-himachal-pradesh-rains-gurguram-delhi-world-news-2653241"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 18
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-08%2F2d6340e5-8cf1-4af2-9fc5-394f47b56ec1%2Ffm_ani.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "H4F/rem5LLOOOX/F97zajJqe+c3Ugv8qxzV3tGjmoOcSNC1mmkXivQuC/8M9UmaBxIfDuNvO2lXizd+S82wa6p6GqQG12c1dBnDZDNtiZavtNDhXOxuNT+moRJZLnac5lhXnY6rCjhjHsdXxHinYvN570G81LrE90UdA2uP/RQeR8QJTwpEtdNwMtJiRkwe1WIbEp+5SI03Jh6K3TCZtG9EcEEpecMVpbz7iyr/+obiWUu8JUKF/AUUuVzMJtAGYzJ8M/hJUnnH6wMjRyxPe19Ud3B+JYXdCHhtvKQOonWEptYF0wt0etS+TAPAwdOHL2KgPdthZRLeezW3roAJJf3YApMCJnDAmO4uYYwzCZ4UmqJu73xlfTqzpDvntC2nQ2+CKYN1qPpBgn/1Ntn35YsD8w87dPyvvGN5IYRU8FvnKOpD13IJXHPCHNpIxV6swArnjiAwEJchpePYDYyd3BBUSoccYEPityTp097tLj3Mij2wnZjUvu9/UiZ0+VQRodoYwpR/TpfcHCDZP93JdZQ==;Na+63ojfWfRvjL2FWm0rrA=="
 ---

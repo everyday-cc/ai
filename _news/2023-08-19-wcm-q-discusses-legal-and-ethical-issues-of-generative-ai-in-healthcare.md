@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 687
         isCached: true
+  - title: "Twilio expands CustomerAI capabilities with generative and predictive AI"
+    excerpt: "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns."
+    publishedDateTime: 2023-08-23T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all"
+        width: 1200
+        height: 607
+        isCached: true
   - title: "How will AI impact the data center industry?"
     excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
     publishedDateTime: 2023-08-23T06:02:00Z

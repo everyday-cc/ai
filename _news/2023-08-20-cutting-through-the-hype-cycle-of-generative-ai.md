@@ -44,6 +44,20 @@ related:
         width: 1164
         height: 610
         isCached: true
+  - title: "Twilio expands CustomerAI capabilities with generative and predictive AI"
+    excerpt: "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns."
+    publishedDateTime: 2023-08-23T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all"
+        width: 1200
+        height: 607
+        isCached: true
   - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
     excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
     publishedDateTime: 2023-08-19T09:49:00Z

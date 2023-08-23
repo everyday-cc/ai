@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-
 webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
 type: article
 quality: 67
-heat: 99
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The end of work: which jobs will survive the AI revolution?"
-    excerpt: "Smart machines are meant to work for us, but there are already signs that we will end up working for them. What will the workplace of the future look like, and will your role still exist?"
-    publishedDateTime: 2023-08-19T07:00:00Z
-    webUrl: "https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/dcf271d3db722ae7fa9a2b5f1c1753db2ae921d7/2_0_2287_1372/master/2287.jpg?width=620&quality=85&auto=format&fit=max&s=03b4b2a906259a8a9121520ef3439a4c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
     excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
     publishedDateTime: 2023-08-22T12:13:00Z
