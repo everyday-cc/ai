@@ -63,20 +63,6 @@ related:
         width: 800
         height: 712
         isCached: true
-  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
-    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
-    publishedDateTime: 2023-08-18T15:15:00Z
-    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "G1MSL/ZsutHhZ36KfUNO6MSc9Vx2BhRpf41HnRbMIGouEFQeLfUupfekqZwwmwo1t7fhmEGx2pWe3vc1A0/gjPjVzhbfxX/QataiNMkcZxJYRvttyV4gfR9FvOCPxC0xcrLkKePT9Nddboehxs0Z2+MIMpuu/urzCrBe+KjUJ4miTZzTPi8HGzPqH1bGpOYp5HdDffUu42rYuivlmw77vfFLjhPbh9SWCITZ0P9oMnkga0v2QX7s5oYmFfP5HjzP7xOls1dQ5/6Eukq2+A90E6AeDfSCdszqe9UPF7cG4YCC4cpUMJHW6HP7p8TaI3vzZVbPFbLgVMT7HhVmPEA1LPRar77EsxVzaOxgTETUjB4=;d3N1ZPXfRSQH3gyga7i7qQ=="
 ---

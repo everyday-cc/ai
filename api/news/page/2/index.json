@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-22-cipia-uses-computer-vision-ai-to-empower-driver-monitoring-technology.md",
-      "title": "Cipia uses computer vision AI to empower driver-monitoring technology",
-      "excerpt": "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ...",
+      "path": "_news/2023-08-22-will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry.md",
+      "title": "Will generative AI make the digital twin promise real in the energy and utilities industry?",
+      "excerpt": "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To",
       "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
+      "webUrl": "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/",
+      "originalUrl": "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 162,
       "tags": null,
       "images": [
         {
-          "url": "https://img.digitimes.com/newsshow/20230822vl206_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png",
+          "width": 1164,
+          "height": 610,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T23:22:00-07:00",
+      "publishedDateTime": "2023-08-22T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "IBM AI",
         "AI"
       ]
     },
@@ -104,7 +113,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -972,7 +981,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {

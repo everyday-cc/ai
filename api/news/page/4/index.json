@@ -2,92 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-19-thumbay-institute-discusses-ai-potential-in-healthcare.md",
-      "title": "Thumbay institute discusses AI potential in healthcare",
-      "excerpt": "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
-      "originalUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://gulftoday.ae/-/media/gulf-today/images/articles/news/2023/8/19/thumbay-ai-ajman-750.ashx?h=450&w=750&hash=BFCEEDC23B79CADBD7505AF297AAAE5D",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gulftoday",
-        "domain": "gulftoday.ae",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking.md",
-      "title": "The art of artificial intelligence: Changing the face of filmmaking",
-      "excerpt": "Artificial Intelligence is emerging as a valuable collaborator for screenwriters and storytellers. By leveraging it, filmmakers can save time, enhance storylines, and refine characters, making narratives more engaging. Although, it is necessary to keep in mind that some parts of human touch are retained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T182052.360.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/",
-      "publishedDateTime": "2023-08-18T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-microsoft-says-that-ai-is-the-new-tidal-wave.md",
       "title": "Microsoft says that AI is the new “tidal wave”",
       "excerpt": "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business.",
@@ -96,7 +10,7 @@
       "originalUrl": "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1187,6 +1101,100 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients.md",
+      "title": "McKinsey launches a generative AI chatbot to bring its knowledge to clients",
+      "excerpt": "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
+      "originalUrl": "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/",
+      "publishedDateTime": "2023-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-googles-deepmind-reportedly-developing-ai-tools-for-life-advice.md",
+      "title": "Google's DeepMind reportedly developing AI Tools for life advice",
+      "excerpt": "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

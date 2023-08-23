@@ -64,6 +64,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
+    excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/how-do-chatbots-work/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 37
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/16/2311_PopSci_AI_Language_Final.jpg?auto=webp"
+        width: 1500
+        height: 841
+        isCached: true
 
 secured: "d/hmHlq0tq6pn2uclO4en8pdImOC7ecnGjY8QRii8l33+b8xalyfGL/RenndLtenxzYglQIVBc4he3NAenwJvGo1tyD/QX6njKNXLDTF1VfuSFp00hAQcDJu1jdbFELnOWYNfFlBywdwvk+CCeAN2pLq44zFa6okDH5yV6nBKTGdC2NgN9rnfNC4sYViV++7BBBk854Sk9S7ajcqefjpnzBraE9gkCSNvwMfo4Fus3ZWZY4gvjZx/mM4RCI+xkH1IVmmH1mVOOvzKxbvvzPDic0/HUjkttlV4VePd4En8hAeAEqTn6OWEqdXHQ9xLMrli985FX+yLyWyHZTC4P3ZA5avpHQOIB7MyYf/y8mITMe2IMdZMFCYILwTnBE67E8gtcxN9z273CQwgjxdp7Kddr79DKDUQ7aJ7HTeC515v7aAexHECwlQHbt3a3VklElK/LblvF/hkXTX4FKjWG6Y1xwX2tTWQO6VmIP3BMDAiQHet+SxWrcDVKXdU9a/11QQgOQn1JTsEiPlPtfZ7Cv7ug==;mNvcImm8hBTbfCHgKTdIYA=="
 ---

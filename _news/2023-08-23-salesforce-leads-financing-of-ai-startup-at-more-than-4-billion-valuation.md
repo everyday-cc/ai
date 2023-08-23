@@ -40,20 +40,6 @@ related:
         width: 852
         height: 688
         isCached: true
-  - title: "Salesforce Announces Speaker Lineup for Dreamforce 2023, Emphasizing AI’s Transformative Role"
-    excerpt: "Salesforce this week announced initial speakers for Dreamforce 2023. Diving deep into AI and how it’s transforming the world around us,"
-    publishedDateTime: 2023-08-18T16:40:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-announces-speaker-lineup-for-dreamforce-2023-emphasizing-ais-transformative-role/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 28
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
 
 secured: "dEyS1keIeA2tXdoHkzHAS7PLdpRzN1isQ4jdp87DJTI40gBdGDN3g0pKypnPyvgrkeuSPz9NYlEwr+RFc8WdEaYIFmGdY5UaQ2/Rxldi67aqOSwcA0yb0Qt8//DXXVJH/5gyw7LPIeYlV99e7m7/TT7co8PAmP6G3rJNxNFezHO3vTne6x/56B64vBq/VtjOmHLDOJD7I+nrALeRi2N4CvE2HKsMscwTz/SetYfTI3n38eOD9SioCP6/fu1l3+F7uV6OVf6lWgai9rfDcjalkfnL9bXfF8X46o4paWBIDvjmZaD0hvwe8hUg6L0zmEMas0CY/3x6ehaPk2PN9aM75lNTsPxEteUPNlRZooNd7IEf1QBZ2vaiJEf8BTsO7w1r10u2hTM+h4I+iX0wjSl2WVU7Gnc41Gl40XWohVAqfRSyHuarax1IhiGMDH0yZlJJvKAiikSlykgD5UK+Go3fUsZKdfw1Bv66oZL+qSdBdhhrR3Ldbp0mX5nmVDw+CweXCSrOvekSmpiBowCIsjngXA==;u7HtS9xjgFviJ+f2NCn5Ow=="
 ---

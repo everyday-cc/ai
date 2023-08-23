@@ -58,20 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "LinkedIn Reveals the Top 5 AI Skills We’re Adding to Our Profiles"
-    excerpt: "Natural Language Processing, or NLP, is one of the core components of AI platforms such as ChatGPT. It's the ability to understand prompts and commands written in human language. While AI in the workplace is still a relatively young concept, the effect it ..."
-    publishedDateTime: 2023-08-18T15:30:00Z
-    webUrl: "https://tech.co/news/linkedin-top-5-ai-skills"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/08/18111454/ai-skills-linkedin.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "CFXbzJ3+H6eDmktp0+wakFk5bh3sBMylTsMk+QrbnxC5GWgJrCd07H/CPZn1bjPSFJNJylP4hz5PB7cyVg6VZJF7WTmUOSzrPwDKXDJ9fbGShRJfu77fBimcAdsP/9lpeQSrxrP++W0V6pJ0qJejStbATbTkBsKBubgDC63kXwbaprTLsbZJupeqKt9M+fXQ9bNnEhPsV4cxhnmC8TQ/djZBb3N8vNZlatLIvfETW0OfsIKwPFCfHJ4tS2xiLgwacR9SVSjD65S5jxk+jIwuZj9tCJqcX0khrfWH1r6zWcY0aogvo/GWKlpnci6+uwffirtJZ/M/5dbgdBuxOi0LI0l3yL5feQKyphgF8jhSkmI=;TdjLibHPQGyJ8DOMbtfYXg=="
 ---

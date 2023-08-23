@@ -243,7 +243,7 @@
       "originalUrl": "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -345,7 +345,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -826,7 +826,7 @@
       "originalUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1115,49 +1115,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-19-how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line.md",
-      "title": "How Index Ventures jumped to the front of the AI GPU line",
-      "excerpt": "In the process of using our GPU cluster, we’re actively helping our ... How do you as an investor ensure that your AI companies don’t overlap? And is that any harder or more difficult than ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/",
-      "originalUrl": "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet.md",
       "title": "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet",
       "excerpt": "English-speaking population of India to the global Internet and help them access it in their regional languages.",
@@ -1197,6 +1154,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-thumbay-institute-discusses-ai-potential-in-healthcare.md",
+      "title": "Thumbay institute discusses AI potential in healthcare",
+      "excerpt": "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
+      "originalUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://gulftoday.ae/-/media/gulf-today/images/articles/news/2023/8/19/thumbay-ai-ajman-750.ashx?h=450&w=750&hash=BFCEEDC23B79CADBD7505AF297AAAE5D",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gulftoday",
+        "domain": "gulftoday.ae",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,101 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-08-13-should-we-move-fast-and-break-things-with-ai.md",
-      "title": "Should We \"Move Fast And Break Things\" With AI?",
-      "excerpt": "In Silicon Valley, the mantra of \"move fast and break things\" has been a guiding principle. But a new poll shows most Americans disagree with that when it comes to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/13/should-we-move-fast-and-break-things-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/13/should-we-move-fast-and-break-things-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d7b846e7df329444d9eede/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/13/should-we-move-fast-and-break-things-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/13/should-we-move-fast-and-break-things-with-ai/amp/",
-      "publishedDateTime": "2023-08-13T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
-      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
-      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "originalUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/10X7bxjieGGeYPapEpiwFX-4MVU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/LX7O27XT5ZBNZK5TZ4KAY5VQ74.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "publishedDateTime": "2023-08-13T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hawaii News Now",
-        "domain": "hawaiinewsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-08-13-where-ai-can-and-cant-help-in-talent-management.md",
       "title": "Where AI Can And Can’t Help In Talent Management",
       "excerpt": "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts.",
@@ -1148,6 +1053,92 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-mlops-and-the-evolution-of-data-science.md",
+      "title": "MLOps and the evolution of data science",
+      "excerpt": "Machine learning (ML), a subset of artificial intelligence (AI), is an important piece of data-driven innovation.\nThe post MLOps and the evolution of data science appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "originalUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:45:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

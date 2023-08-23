@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
+      "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
+      "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "publishedDateTime": "2023-06-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "publishedDateTime": "2023-06-11T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
       "title": "How Could A.I. Destroy Humanity?",
       "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
@@ -1243,102 +1340,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers.md",
-      "title": "Artificial Intelligence: Why Auto Companies Are Redesigning Cars And Suppliers",
-      "excerpt": "Automotive companies aren't just changing applications to include AI. They're changing architectures, ecosystems and suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645272f4a40f8ee7ada63a42/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
-      "publishedDateTime": "2023-05-31T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

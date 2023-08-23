@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the
 webUrl: "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechCrunch
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "UkOlfcR7Ed6Fq7bQoN0bdP+/a0qn2V2654Xveod3hkXfV8IeVRlfLEjZOUcCX2WR61PcsRab69m8GIyHhX3Sa96x+0ZkakBzJvxsZWfVDfrPD+HnwvLuhC6ULG740OR/vaP04s2WWGX2YhyWGMFwCMfQapn21wfHKjbB06ryJxRah04YsIPtq6+aceJYPdqD5ofp5lHlm2hlEVCAYob9xI6R6pEMTvR62x7pYu3W5EyniK29Ss6MhHHa7bjHQeWXzmkjPnqUgISxxbazCXmwXSoIpmVTY+9du4zRmMwF1Dn9QdBDMyC/55W4S1cPJMeLqf+eGE6gXnoixLQLiVnJtHoLXYfiPhEjN2tBpWEw984=;lcdD3VgUId0seNH+NaNaHQ=="
 ---

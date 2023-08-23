@@ -98,6 +98,20 @@ related:
         width: 1919
         height: 1080
         isCached: true
+  - title: "Generative AI: the Rising Kid on the Start-up Block"
+    excerpt: "The AI ecosystem in the country is a flourishing one, with reports stating that more than 4226 startups exist in the space in the country alone. Nasscom, in its recent report revealed that over 60 active start-ups existed in the generative AI section in ..."
+    publishedDateTime: 2023-08-23T07:39:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/generative-ai-the-rising-kid-on-the-start-up-block/457891"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692775850-Hithere2.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
     excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
     publishedDateTime: 2023-08-21T14:00:00Z
@@ -208,6 +222,20 @@ related:
       name: International Monetary Fund
       domain: imf.org
     quality: 34
+  - title: "Portkey Bags $3 Mn Seed Funding To Help Enterprises Ride The Generative AI Wave"
+    excerpt: "the Indian SaaS market is projected to breach the $26 Bn mark by 2026 Generative AI-focussed enterprise tech startup Portkey.ai has raised $3 Mn as part of a seed funding round led by Lightspeed. The round also saw participation from multiple angel ..."
+    publishedDateTime: 2023-08-23T08:59:00Z
+    webUrl: "https://inc42.com/buzz/portkey-bags-3-mn-seed-funding-to-help-enterprises-ride-the-generative-ai-wave/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 33
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/portkey-funding-social-.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How human advisors can bring out the best in generative AI"
     excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
     publishedDateTime: 2023-08-22T18:51:00Z

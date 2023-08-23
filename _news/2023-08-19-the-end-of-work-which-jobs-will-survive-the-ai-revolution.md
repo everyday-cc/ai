@@ -53,20 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "LinkedIn Reveals the Top 5 AI Skills We’re Adding to Our Profiles"
-    excerpt: "Natural Language Processing, or NLP, is one of the core components of AI platforms such as ChatGPT. It's the ability to understand prompts and commands written in human language. While AI in the workplace is still a relatively young concept, the effect it ..."
-    publishedDateTime: 2023-08-18T15:30:00Z
-    webUrl: "https://tech.co/news/linkedin-top-5-ai-skills"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/08/18111454/ai-skills-linkedin.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
     excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
     publishedDateTime: 2023-08-23T06:05:00Z

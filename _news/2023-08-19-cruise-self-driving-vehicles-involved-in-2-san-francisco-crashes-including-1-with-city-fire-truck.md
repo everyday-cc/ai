@@ -119,15 +119,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here come the driverless taxis"
-    excerpt: "San Francisco finally permits a 24/7 service despite local resistance. Can autonomous carmakers now win over the world?"
-    publishedDateTime: 2023-08-18T15:34:00Z
-    webUrl: "https://www.ft.com/content/84ef1d6c-f731-4c78-a056-5bf368beac2b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "PMjE0Kr/I7J+sW5G4R4UuvvGH9u2HI4mJ5EoThQC02zirNPWqQzZQoGegu5eWzw3ISk4/g9T2P4mpXtQ6EcMxCVZwtx7uvBWksVniS7P4vokADXu6q+tfSGUrs0HuFDDYvNE9mn+vInTpmrea9lC4y+9UQjHDEvU6gzEa2Yusrm5qMLanyVCEROJ14FsVSO+k510nU2n9MdTwicLbx3xOc7Bl7Lo5nPHlhr9VHDcoV+QPQTWMednHjA/WfuEV+Ocwn4QrDhiz3J6CVGJ732BSEbjCzqytQLogZPFJ00MtYVxpGxKSk5xGa4GVmQSQVar5g7zGhFKKVhDTrXYFEvAhSvtTs9mQTh/Uf3b+V92dwXrZxlvcwTyZQXnXOdOzwkGckqihXmFN+CtICNT3++z5kArATvNqd/PnZYMySdxwtY2hjQ90LfRrrwwa6vS9ZhUU1zSIDyZJbaUiOSeUYw5HGjNODOIe3NFOg8V+tgX5+uKEE3Ohcvg/m216iqChrZI6bGgYqSLBSeas0u6qntfiw==;wv91JYFLM0SFYreLYUih+w=="
 ---

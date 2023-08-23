@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driv
 webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Digi Times
@@ -34,15 +34,6 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 19
-  - title: "Use of AI during the COVID-19 pandemic required adapting the technology to its context, says researcher"
-    excerpt: "The artificial intelligence (AI) divide between industrialized and developing countries is not just about being able to access and use new technologies. It's also about governments and local enterprises around the world being able to create their own AI tools,"
-    publishedDateTime: 2023-08-18T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-covid-pandemic-required-technology.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 3
 
 secured: "xWGceD7WWi3Lqa0jVCl0vHADCt7bVV1SYhvgASCXbge5WIAO0K+pE8MR7h3yyXblsxKHlD3lCcdiOZ0VWNhyONCeQJNPh3flNf5J5Rph/vJvI0sR75YYfClIiXEC96aq2IJLPh+YEhogA1xlB6P5Hy753bcmEcpYYncWSh73Cz7nEisiQwKhIabpBO7+Xwiztsek+nL71k3zvyeamY/n58h2dDjuPYjRD8n8HeV5SRROBzDG+FiGwxF6+TmCzJxp94B1m2AoVaoLTz6DvsZu/jQNVlKLC6r+nLTV//tHOEx7QuG33lACRV6CUQcPjthhTjr/YSK9WbIUqDa0mLSvoO9zN0aWD3lhQF9gbi4xGjN171GGVfRkR2mX5VeVz54o1eknADlB+dGxK5UrQYrFf8sJYfyoF6KLlpl5iP6653xxYnItX10ixnsEcNW7rL5OeSNlzBoOTULq+vBWO9jCiX+BqTMJerhp41Rc6nfTUSTMOpRzr1a+cSLQbPLF6Iva/JOCGUlK+pTsJXIJmjPeXw==;C2qZ0zHYYw+3pWfsRma7EA=="
 ---

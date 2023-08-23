@@ -105,15 +105,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here come the driverless taxis"
-    excerpt: "San Francisco finally permits a 24/7 service despite local resistance. Can autonomous carmakers now win over the world?"
-    publishedDateTime: 2023-08-18T15:34:00Z
-    webUrl: "https://www.ft.com/content/84ef1d6c-f731-4c78-a056-5bf368beac2b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
     excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
     publishedDateTime: 2023-08-18T19:39:00Z

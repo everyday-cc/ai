@@ -531,49 +531,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-19-how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line.md",
-      "title": "How Index Ventures jumped to the front of the AI GPU line",
-      "excerpt": "In the process of using our GPU cluster, we’re actively helping our ... How do you as an investor ensure that your AI companies don’t overlap? And is that any harder or more difficult than ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/",
-      "originalUrl": "https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
       "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
       "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
@@ -1405,6 +1362,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-what-nvidias-new-superchip-means-for-the-future-of-ai.md",
+      "title": "What NVIDIA’s New Superchip Means for the Future of AI",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg",
+          "width": 917,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

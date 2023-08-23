@@ -38,6 +38,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "The importance of continuous AI innovation in banking"
+    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
+    publishedDateTime: 2023-08-21T17:05:00Z
+    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 54
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
     publishedDateTime: 2023-08-18T21:27:00Z

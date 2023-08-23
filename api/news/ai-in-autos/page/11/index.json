@@ -2,6 +2,75 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-18-apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-feds-say.md",
+      "title": "Apple engineer steals secrets on self-driving cars and flees to China, feds say",
+      "excerpt": "He booked a one-way ticket to China and left the United States on the same night FBI agents searched his home, prosecutors say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "originalUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "publishedDateTime": "2023-05-17T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
+      "title": "How Common is Common Sense in AI, and Why Should We Care?",
+      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "publishedDateTime": "2023-05-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-baidu-boss-charged-with-stealing-apples-self-driving-car-tech.md",
       "title": "Baidu boss charged with stealing Apple’s self-driving car tech",
       "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier ...",
@@ -1316,92 +1385,6 @@
         "name": "Gulf Times",
         "domain": "gulf-times.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-uk-to-roll-out-first-driverless-bus-service.md",
-      "title": "UK to roll out first driverless bus service",
-      "excerpt": "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service",
-      "originalUrl": "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
-      "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
-      "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -1077,16 +1077,16 @@
       "title": "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year",
       "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106840102/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
-      "originalUrl": "https://menafn.com/1106840102/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
+      "webUrl": "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
+      "originalUrl": "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_6.jpg?688679",
-          "width": 396,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?778257",
+          "width": 388,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1264,6 +1264,50 @@
       ]
     },
     {
+      "path": "_news/2023-08-09-protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions.md",
+      "title": "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions",
+      "excerpt": "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-how-machine-learning-could-aid-compatibility-in-kidney-transplantation.md",
       "title": "How machine learning could aid compatibility in kidney transplantation",
       "excerpt": "The United States saw a record 25,487 kidney transplants in 2021, according to the latest annual data report from the Organ Procurement and Transplantation Network and Scientific Registry of Transplant Recipients.",
@@ -1304,50 +1348,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions.md",
-      "title": "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions",
-      "excerpt": "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33669654",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654",
-      "publishedDateTime": "2023-08-09T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

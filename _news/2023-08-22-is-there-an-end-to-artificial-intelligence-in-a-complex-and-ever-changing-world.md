@@ -44,6 +44,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Navigating the surge of artificial intelligence in higher education"
+    excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
+    publishedDateTime: 2023-08-23T05:18:00Z
+    webUrl: "https://dailyiowan.com/2023/08/23/artificial-learning-navigating-the-surge-of-artificial-intelligence-in-higher-education/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 56
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/AI-front-copy-1.jpg"
+        width: 2001
+        height: 1334
+        isCached: true
+  - title: "The growing role of AI in science and discovery"
+    excerpt: "With the advent of ChatGPT4, the use of artificial intelligence in medicine has absorbed the public's attention, dominated news headlines, and sparked vigorous debates about the promise and peril of medical AI."
+    publishedDateTime: 2023-08-22T00:58:00Z
+    webUrl: "https://www.news-medical.net/news/20230821/The-growing-role-of-AI-in-science-and-discovery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
     publishedDateTime: 2023-08-19T13:04:00Z

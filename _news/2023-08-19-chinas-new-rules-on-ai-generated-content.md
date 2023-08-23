@@ -35,6 +35,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "The importance of continuous AI innovation in banking"
+    excerpt: "Despite all of the talk about AI in financial services, banks and credit unions struggle to know where to start and where best to deploy resources at a"
+    publishedDateTime: 2023-08-21T17:05:00Z
+    webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 54
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Technology-Chip-With-Ai-La-474067925.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "China, UK Moving on Regulation Tops the Week’s AI News"
     excerpt: "This week, the spotlight moves to the UK and China as the nations get ahead of the US to formalize plans to regulate artificial intelligence."
     publishedDateTime: 2023-08-19T11:00:00Z

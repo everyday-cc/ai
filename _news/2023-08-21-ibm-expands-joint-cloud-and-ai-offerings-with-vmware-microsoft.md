@@ -137,20 +137,6 @@ related:
         width: 1399
         height: 787
         isCached: true
-  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
-    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
-    publishedDateTime: 2023-08-18T15:44:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
     publishedDateTime: 2023-08-22T13:35:00Z

@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
-      "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
-      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2016/08/81e5444011ea410282b5bcd2bee64934_38691788_ver1.0.jpg?w=2000&#038;ssl=1",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN-TV",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-a-painting-newly-attributed-to-raphael-by-ai-facial-recognition-goes-on-view-for-the-first-time.md",
       "title": "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time",
       "excerpt": "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael.",
@@ -1312,6 +1269,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
+      "title": "Cedar Rapids airport testing facial recognition technology",
+      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2023-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

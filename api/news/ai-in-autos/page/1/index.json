@@ -923,6 +923,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-12-richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Richardson Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33757073/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33757073/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33757073",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33757073",
+      "publishedDateTime": "2023-08-11T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
       "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
@@ -1049,6 +1092,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city.md",
+      "title": "GM self-driving firm Cruise, rival to Tesla, is bringing robotaxis to a new city",
+      "excerpt": "One of the biggest potential off-shoots of self-driving technology is the robotaxi, a driverless, artificial-intelligence-powered car that maneuvers itself without any input or supervision from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
+      "originalUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1282,83 +1359,6 @@
       "provider": {
         "name": "Penn Live",
         "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-toyota-to-set-up-self-driving-taxi-developer-with-chinese-firm.md",
-      "title": "Toyota to Set Up Self-Driving Taxi Developer with Chinese Firm",
-      "excerpt": "Beijing, Aug. 7 (Jiji Press)--Japan's Toyota Motor Corp. said it will set up a new firm that develops autonomous driving taxis ... technologies such as artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nippon.com/en/news/yjj2023080401109/",
-      "originalUrl": "https://www.nippon.com/en/news/yjj2023080401109/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nippon.com/en/ncommon/contents/news/2443330/2443330.jpg",
-          "width": 450,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nippon",
-        "domain": "nippon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-beijings-tougher-regulations-thwart-big-techs-electric-vehicle-dreams.md",
-      "title": "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams",
-      "excerpt": "Red tape is frustrating the efforts of Big Tech in China to launch electric vehicles, with car rollouts from search giant Baidu, smartphone maker Xiaomi and ride-hailing group Didi all being stalled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
-      "originalUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

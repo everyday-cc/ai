@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Big Data and Machine Learning Key to Combating Antimicrobial Resistance in Livestock, Study Reveals"
-    excerpt: "A new study suggests that using big data and machine learning in antimicrobial resistance (AMR) surveillance in livestock production"
-    publishedDateTime: 2023-08-18T16:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/big-data-and-machine-learning-key-to-combating-antimicrobial-resistance-in-livestock-study-reveals/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 25
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-
 secured: "QTXLTsMlMdKtmWJ3Itvs/qZCbeHg0MrDPemjD6QeU5Lwdn0it/NiS641Wud4a5ZeEZ2oTIHiUmgambR86T2SpLdIhWjI4nVULjJbsTnSpDEcEIgTJTdavypo2hJzEs4pUpXg4gL9z2ZDlxIEF5M/vBXsbbkPVEFGikFf95tylqIWJnPyeHsGU4u7VyJwE4UzN57V3urOnFAiVnUj5XwGjcndexIiMbl5KVu1bt6X0K695bHnBQEhFj5du359qLK4bwHJ+P2IiLxTExsOy26LHq7n2LJfS55PYhrfjU6aOhY2DejoQrlerKFqiTUJqpzxUxlt/XGCKlNJa0a/t1ZJqDeRVLJCY5VTYu2sgQKSfS4=;7MuTahJBlVGkATssRLYniw=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Get Ready to Explore the Cutting-Edge Technology of Top Fintech Startups"
-    excerpt: "Are you ready to embark on a thrilling journey through the forefront of technological innovation? Brace yourself, because we’re about to dive headfirst into the exciting world of top fintech startups."
-    publishedDateTime: 2023-08-18T15:15:00Z
-    webUrl: "https://techbullion.com/get-ready-to-explore-the-cutting-edge-technology-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Fintech-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
     publishedDateTime: 2023-08-22T14:28:00Z

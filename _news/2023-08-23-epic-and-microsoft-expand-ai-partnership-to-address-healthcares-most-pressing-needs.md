@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
 type: article
 quality: 113
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
         width: 1399
         height: 787
-        isCached: true
-  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
-    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
-    publishedDateTime: 2023-08-18T15:44:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."

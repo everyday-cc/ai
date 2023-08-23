@@ -2,111 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-08-17-generative-ai-vs-ai.md",
-      "title": "Generative AI vs. AI",
-      "excerpt": "Artificial intelligence has the ability perform tasks that typically require human intelligence. Generative AI, in contrast, is a specific form of AI that is designed to generate content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-vs-ai/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-vs-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/08/ew-generative-ai-vs-ai.png",
-          "width": 1400,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-researchers-use-artificial-intelligence-to-help-diagnose-autism-study-says.md",
-      "title": "Researchers use artificial intelligence to help diagnose autism, study says",
-      "excerpt": "Researchers are proposing using artificial intelligence technology to help diagnose autism spectrum disorder. In a recent article published in Scientific Reports, researchers from Brazil ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study",
-      "originalUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Musto-Headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp",
-      "publishedDateTime": "2023-08-16T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-08-17-pick-up-new-coding-skills-with-74-off-this-premium-coding-training.md",
       "title": "Pick up new coding skills with 74% off this premium coding training",
       "excerpt": "App development is explored with training on Golang and Android machine learning using TensorFlow Lite. Coding is only going to become more important as both a specialized and general skill. This 14-course bundle gives you top instruction from experienced ...",
@@ -1158,6 +1053,112 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-ai-powered-efficiency-college-hostel-management-in-emerging-markets.md",
+      "title": "AI-Powered Efficiency: College Hostel Management In Emerging Markets",
+      "excerpt": "By embracing the power of AI, colleges can cultivate a nurturing environment that combines cutting-edge technology with individualized care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649d8709912e06741b6aa415/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/amp/",
+      "publishedDateTime": "2023-08-16T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
       ]
     }
   ],

@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Use of AI during the COVID-19 pandemic required adapting the technology to its context, says researcher"
-    excerpt: "The artificial intelligence (AI) divide between industrialized and developing countries is not just about being able to access and use new technologies. It's also about governments and local enterprises around the world being able to create their own AI tools,"
-    publishedDateTime: 2023-08-18T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-covid-pandemic-required-technology.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 3
 
 secured: "YzBdMIEdlmh4lHeHlxc2d0Wik/4ExXtJhbZXURAPtJCkIIa7I5+WYMF3Ps/00/c3giim2LB5zeD3UfPATtfbXV0HV0Hsm0RprUPRzs/0RPzKZahl9Y272UABeRGb3y5Vrj4Q7wvZveQnGIfiE0IEmBGkHLrzB5EwlYBbf/dXPd7KOVvHOq1HTiKhZ4Svqtct5CK4QmlWu9Hiu/lPh2ceBqwtYQsaw8EzpeWt80r/KVXbgjfwUmOj5+dfB6YlS5ngHODn0OATYMSUrxICpmuTQNOwKINbCmCPSHkGlHvuE8mQnjN/PlkZpZDrxEkXpNmbIQQ4BYYqsgt1o0Um3P2eQmU4vH8OJe3B55CUQPxlFd5UkLkLNjEIcORSealO9uK9NbdF/R87DMH+oiOfzk2G1a6cYVA3OAjd8tEzcokBnD+2SF0U8GgpATHu4eiZQ0NPibFSKK42RGmAkaryjYRDec9Ey9NnokMR43CIpwYjRpjx9Z8dX9vpB9lofgKDeaueJ6b3ynhhClzJygwXXnv2tA==;zcU1V6g0jqPOOe7wpi8KKg=="
 ---

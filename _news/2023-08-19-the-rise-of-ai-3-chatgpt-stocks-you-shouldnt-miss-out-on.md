@@ -52,6 +52,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
+    excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/how-do-chatbots-work/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 37
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/16/2311_PopSci_AI_Language_Final.jpg?auto=webp"
+        width: 1500
+        height: 841
+        isCached: true
   - title: "How ChatGPT Kicked Off an A.I. Arms Race – The New York Times"
     excerpt: "All year, the San Francisco artificial intelligence company had been working toward the release of GPT-4, a new A.I. model that was stunningly good at writing essays, solving complex coding problems and more."
     publishedDateTime: 2023-08-22T15:16:00Z

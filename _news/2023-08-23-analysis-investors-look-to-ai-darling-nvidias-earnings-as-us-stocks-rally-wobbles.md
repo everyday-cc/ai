@@ -42,7 +42,7 @@ related:
   - title: "Nvidia shares hit all-time high as chipmaker dominates AI market"
     excerpt: "Rising bets that Nvidia’s revenue target will once again surpass Wall Street estimates lift the stock about 19% from two-month low"
     publishedDateTime: 2023-08-22T16:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai"
     ampWebUrl: "https://amp.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/aug/22/nvidia-earnings-ai"
     type: article

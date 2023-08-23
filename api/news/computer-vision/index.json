@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-22-cipia-uses-computer-vision-ai-to-empower-driver-monitoring-technology.md",
-      "title": "Cipia uses computer vision AI to empower driver-monitoring technology",
-      "excerpt": "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230822vl206_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
       "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
       "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
@@ -372,8 +329,8 @@
       "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
       "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "webUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -383,11 +340,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:06:00-07:00",
+      "publishedDateTime": "2023-08-14T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
+        "name": "Midland Daily News",
+        "domain": "ourmidland.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1341,6 +1298,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
+      "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
+      "excerpt": "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
