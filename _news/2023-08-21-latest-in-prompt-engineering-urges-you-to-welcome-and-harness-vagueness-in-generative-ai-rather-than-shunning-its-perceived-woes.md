@@ -155,6 +155,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Epic looks to accelerate generative AI offerings"
+    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
+    publishedDateTime: 2023-08-23T20:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z
@@ -234,6 +248,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Beyond the hype: How will generative AI translate to enterprise solutions and apps?"
+    excerpt: "In late 2022, ChatGPT and gen AI made the biggest splash in tech since, perhaps, the iPhone. Everyone swiftly adopted the tool to source information, spur ideas and ease their workflows — chiefly because it expertly summarizes and presents information."
+    publishedDateTime: 2023-08-23T18:11:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/beyond-hype-will-generative-ai-translate-enterprise-solutions-apps-vmwareexplore/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
   - title: "How human advisors can bring out the best in generative AI"
     excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
     publishedDateTime: 2023-08-22T18:51:00Z

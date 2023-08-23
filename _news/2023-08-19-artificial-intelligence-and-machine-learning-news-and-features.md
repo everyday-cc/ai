@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-publishedDateTime: 2023-08-19T16:08:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+excerpt: "and a potential method of treating it which uses artificial intelligence techniques. Spanish researchers have discovered that bilinguals use different neural networks to read languages that are pronounced as they are written. The results are valuable for ..."
+publishedDateTime: 2023-08-19T10:23:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/248"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/248"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230822"
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230823"
     width: 1200
     height: 627
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: technologynetworks.com
     quality: 34
 
-secured: "Z+PHN3K/Ryc61Ix30g+p29LXpM35RuCjY6AVV3LnqWZjYVF3UyBBQL7U3A0mMwDe6x9w2MpzOmE2xNJ88zLRM3MzmC6GjNOX/CmmkT1SUdZPs4HUi9vnsb+jdGNPwed0hq4pM6hsUHhCrYY8hGIRCvwJES+bjwVKRfgCSnxYYIoWd621vumFad2y9GjIgRv/WKcirKxZ9E9ykQxcPZ4GHomKZaEAMj1hwfv8O8vgr5Ds+LBa54IaRzsMd/MTWUba6D5RtdCsfNAC85uiZ2IylFbU23yzJ2jiq7sSxNcdYbzccYgmpA7Q8S/N7whKI7RbCDjzTTWSw3qMxFo9nCQxRf70Q0hNHazKif2eP5ZS6Kg=;7rZ0di/9lL4G6Y4Tp49oPQ=="
+secured: "n5KLuYidk+LsnQ6dAWPAZtNODn/vytpk+O4shlohoVFFQoKD8/PC0TPBjIjqsRDxzNCHBUgQbIHGEUWxk0PQ+sJSrcP8072sXu9HBDJ5YyLBqEH98oZRd+O1XDPT6mlxuPHlc933+52L0lNJTJUUwR6by79a9b1ZjIghENUWwp4LARHjIP8LHB/l3AC6Nlyu6p7ZnN9Xv6A7UOe1c1Yni/frVTIoFZpCReXKJ7R0BYE/pPLWc2ivU9XD2ny+PTWZkiP5WRGT2T3Jb8OFdGMqW2PPYT3hdW1hlK3Hwe9xts4eoJPv0xUgAABvRAQfSEtiLPygb5eqxBnjweMMVVQfydIeW+gUMw0OU7dU2t3LkcA=;sLnl33jOAtgkk7Df9QCD8A=="
 ---
 

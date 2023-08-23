@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generation AI: Thanks for the music"
+    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-08-23T19:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "qFvUoARrSkGTi3EYJYGkLlnGS2ambUlMnhO9upJiaIi489lNepEqfaf1/UDcdwcrDM/8FUHI8yZwLjO395L2QysvaTSRWceT/AbNDJ7dglo+kDse7sMe0MDZCGt6J4YI4RZQX5pIlvF1iKYMNn1fzht+yDEw5NPpQEgqoCO8lxw1Z2HU9HQm+D8vh7+Bva668KWWJuQlumhsqhCCuCl4lQ7hlDYZfNdWONG7iOBlLpRJEBiaFAGhA86SwLHPBeNLQfACc3FcYAJiPSUs3UiQzvx6K4zonuOJrbmOu/p6CaMy34L+eSRg6szNdQrpKMwVHaWVH8WKxyMHEWHUOTprbi8eGGhwYXokJSqgwe/RJoac+hh47NYxTFgq3COzYXlFtFlI/PjBxr9gfPV+FwBmTC9HHYi+AnR9iZnkvQPOggvvbfZslYII4uyUMEwrNo5uPXezL6Dxg7YXRN0B93/6cjaSDQdsFTsdx8eP8uY8bFTsaId/vHONbbZloh+sE0Ib0oMqQ9c2GwMyTTLLO0YCAw==;2tz+Y0S/lhn6eutpz2TbRg=="
 ---

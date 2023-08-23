@@ -7,7 +7,7 @@ originalUrl: "https://www.business-standard.com/companies/start-ups/how-ati-moto
 webUrl: "https://www.business-standard.com/companies/start-ups/how-ati-motors-autonomous-robots-are-disrupting-the-logistics-sector-123082300652_1.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "BS Startup: Robotics company Ati Motors disrupting logistics sector"
+    excerpt: "The company's advanced autonomous mobile robots (AMRs) combine artificial intelligence, computer vision, and state-of-the-art hardware to perform complex tasks in dynamic environments"
+    publishedDateTime: 2023-08-23T18:39:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/bs-startup-robotics-company-ati-motors-disrupting-logistics-sector-123082400003_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 34
 
 secured: "VaZAomX7ZQ3hY1Q6+TpRXvfsXIux9vvKeY+rh9vaps65QgEHMB6ldHnE2KTzeQDxOIYt5Zegim395AL8vqDuNrcqns/dO85tWJDDbTXO75szFnL+UOt78Qr1tHTe0FDGU3neI+9qtB8E88NHG1v6faNSMkcIQXjyNd6M+WCtNNlBQZnbrqP7YASUUACV2LRM0TcC31nJd+VFnhbmqvHhuG9twGC9svDbV/C4OxpTAA/A38KmbHf0Sw4xpjkBvS3xK9QDgIEnmpcY+kKO87I4epHJ0iiXgU13D3UuYuVt0pGypBJ/RfFfbmM+Kzqcki6OQtckVJ3187HAdgZNuheS/IRYMgjpMBChih/lIi2wPM0=;aX95nrZITCiaIsrQL2zJ0Q=="
 ---

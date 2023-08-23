@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Passenger books an Uber, gets a self-driving car instead"
-    excerpt: "In a video taken from the backseat of the car and shared on Reddit, the driver's seat could be seen empty with the steering wheel moving on its own."
-    publishedDateTime: 2023-08-22T14:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
+  - title: "Tesla using Full Self Driving ends up sunk in huge puddle"
+    excerpt: "The YouTube channel video is built on the footage captured by Ryan’s Tesla dashcam, and shows him passing one of those “FLOODED” signs one last time; approximately 180 metres past it, the car suddenly comes across a stretch of about 30 metres of highway submerged under still water."
+    publishedDateTime: 2023-08-23T20:00:00Z
+    webUrl: "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california"
+    ampWebUrl: "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Collage-Maker-22-Aug-2023-07-51-PM-2137.jpg"
-        width: 1280
-        height: 720
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2023/08/tesla-model-3-FSD-sunk-puddle-Mono-City-Ryan-.png"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "MU48rSNgApRjiYlihlo9IhmPMOuHSX9jq+6TjjYhBRvZNUAp//eec0QX9EAmW2EYft3b9V75AF2ggWC2HVtNX4vbUmIhHUpBF5H8EhwB1QsZMc0q0AjzsdvIBxL1JDMnxJHEv8w6n5pqbbMqUdcXduKhIztUEpnJukIqkjEZOVw1A1ltAT+M8J3WIrJIZE2BiDpstduaanya5QSsbh1vFakZRhyr4vZIibJ4bPfXBYQ7V9zNRPLv5pkWToI0X4+LkjTlwxPJdt7ZsJDA2PfhS70cp+6EyhF9RVwvkJz9nhjFv6iaF+fhyZF7f2+r2JAFjl6O7P29d7ycHs+PZrTrPSX15X0bkuGDGa3bPbnA5pHznSUOPq5FuEYfqV+8VPp4TUAIQXo12TkkcAGOSUaxYzUCFVoHD32xSNnQ44/uMUGLTmYfI0Yr9fu0py/w37pN3I2F5SjUeAGFc5WmUoF+cYuTPs7SaNbJv/qWtGmPK1FP1yEA7AP3V+HmwT3t00GqGOuoo7GGTChnN666VxuV2g==;N9KkA4uZMQvpTYZ86BjPcw=="

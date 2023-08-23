@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bingx-announces-st
 webUrl: "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
+  - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
+    excerpt: "SINGAPORE, Aug. 22, 2023 /PRNewswire/ — BingX, a leading global cryptocurrency exchange, is proud to announce a significant stride in its commitment to fostering innovation within the blockchain and Web3 ecosystem. Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup."
+    publishedDateTime: 2023-08-21T23:40:00Z
+    webUrl: "https://www.macaubusiness.com/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 17
 
 secured: "dGq6KxbSxSoNDnS617Fj7UZCZOG4x6KWtrBcURBaA8fZMPLgfv3oqArARsbsFGywWF62MHk55FDctrrp+XULfMrdc0fr0DlW4w6m3UIb1vGVFZXDPCGIA8juAS3pSzHmRjHxZhe+kBN0cygSNxkAtkt5eCQ8FyORXqXY2UTGRzOqHptUPIzBOQRRdrNLz8oTO0TNtUOEP3JK69eb9cDRclsP22Sj4vy4yJSjyYvgOSSW3BrjYTR8i//qOqqbaelgafnoOcEX4lNbqCEcAxWtXDL8kJd8k6WRfJ4zTngdTIKmI6qnMjx/ceWfOesngpEtirA315nFm7rGm4lHadVuaDJCs2ttXeC+wS1+j7ocTf8UGrGFahOnHoDdcwUGrbv+imtbx14cH7YB8fn4D0rjRpXYeN5Z4kPwFB5LjO0NOpN2Sz/CuriaAL6bHivxqy0R1ikHqaYcE6Gzhozuf8+M8TafMUDvZFAIVTeZWAhFQYzjpWcOf6KDLjo3rjnvW1ZfFRElzlv5uz6jYmfH0QWzYw==;Y95U202O670DiFrgwI/bmA=="
 ---

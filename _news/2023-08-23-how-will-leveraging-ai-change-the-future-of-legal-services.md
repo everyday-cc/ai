@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai
 webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,24 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "How generative AI will change SEO as a profession"
+    excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
+    publishedDateTime: 2023-08-23T18:28:00Z
+    webUrl: "https://searchengineland.com/how-generative-ai-change-seo-431036"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 17
+  - title: "5 Stocks That Will Change the Future"
+    excerpt: "NVIDIA Corporation (NASDAQ:NVDA) is a leader in the semiconductor and AI markets today with its development of GPU (AI) chips that are essential to AI processes and systems. A total of 132 hedge ..."
+    publishedDateTime: 2023-08-20T20:54:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-stocks-that-will-change-the-future-1180012/4/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 4
 
 secured: "h9b/WXPEUmM8xmSTdk1gsCwcUS+XO1nDosVjMZbPwrJ5iAMsUnE1sim1GbOj2BOACgxvhhZhevejgJKOXqnswmJmBrGIh5ODY1m78fe2snehcrU6x8c+mTTzSfkArF839+PUA2Ms63h3QyGm4skF23oYuDzQUUIrYD8TYiXxqR0mMquOtSUbZeBvjVP9MafssQ2MrJiBrV5LfkXaJbZos7gMWLS0CVMH1IjRJso2k8/tAO0RDEkrgTxuii1a5xWxGYjO/rEAIvnpGbuiQ97e7elubU9ipItQ3S4GrlTUKT2lRoatt1ZgkKj2fHsHaL0fMIrpRth9W2mpkS3EuKE1tmTosMygilyUAwQIOVk+P2A=;621SiBcFmbE/4KLzEaEXYw=="
 ---

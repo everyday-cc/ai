@@ -39,6 +39,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How generative AI will change SEO as a profession"
+    excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
+    publishedDateTime: 2023-08-23T18:28:00Z
+    webUrl: "https://searchengineland.com/how-generative-ai-change-seo-431036"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 17
+  - title: "5 Stocks That Will Change the Future"
+    excerpt: "NVIDIA Corporation (NASDAQ:NVDA) is a leader in the semiconductor and AI markets today with its development of GPU (AI) chips that are essential to AI processes and systems. A total of 132 hedge ..."
+    publishedDateTime: 2023-08-20T20:54:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-stocks-that-will-change-the-future-1180012/4/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 4
 
 secured: "/FGe6Fmc2fQFtZvd74bdZUMVvJwRly5KtQLm2DQDX7OI1cSfE/FJXwDLCrKBac/uW6Hp70UMEapppHD2P2ju90xzjbKF+v9WofgM7XQK/fP+f9A995fNXd04y6ADbmPNLvgnSOHvZU+wVBhDUxN9wPXHC79PS4foRTCR4EuMD2xjeC6rNpN4h86xa99rG/LoFLrMz29dVEkWEzIzuqFLb1wuegb//VOITs/ayt9i+EMsVHXlZYfcaDDTj8zng9R+WGhboq2yEzGRwGDzS2OoXmBqCGv7ucr810MBW7fvA6vp5ew6uxKV+7bOT5YYWd50wlk/tViiRVfaMouZPi+tkrJEXcTf8OL7ZIiO1ZyRyXBhBF3dmeABXnxy8ChYQl6MgyeWknHMPfKxf72b4/S5Shhl0xeV3b4WVKTzZTFw3n0gZXbv0muU+lfIpOzcW7ntcredHxmUqLJU1FvWrqG53iiNzJ3tshNCiYRs6M4abUkj0bwzpF3S4cyaEB6/4wWnwZzugzGu/TKixEl/V9jfWQ==;y3XsQF+MfbQNJi3Hye/dAw=="
 ---

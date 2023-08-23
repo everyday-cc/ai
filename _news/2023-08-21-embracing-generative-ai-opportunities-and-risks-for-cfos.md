@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-gen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Generation AI: Thanks for the music"
+    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-08-23T19:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 47
 
 secured: "va8xW2QmRkLS1xKOKeoj3Jw8QWeqsJEnwkrynCsR1JRlzLioyQO1G3ziOG2uVBSX4sVt//R8HQDLIAN/0+pqpynkziyi1HpJgdp5Eh0/656bifsSp5PDO44s1BUMeg1Yk7orapPjR1RahSvXsYNR4H9o4OZERKXWIhfvDluWjNhY1tGjVXsw0/kvrvUc8bvaBbbvQwthfc31XRU4mMhOmGCTP2riembx/LbWly2N/Q3699waGTt9ctRkpDuGf9vooVwxuWWqbLnbff8N9Qes9S6cGgsS9zLEsrcret8Sl4y9WBA3FotP5Icfo0xTXWZcCj7vxgrlClE7cWxd2QbUF6aUThMv13YLiqBveRJYJxlqAivaa3+hnsk9ckrywGIeMVdt5taJQaeC2A4x+sGkEzlagAKViYRIFaNnrNnWPs1xXmMW6CRrY26BK9I0TTud3tVDp7Q4Xc85ADu504OGRpujy49Q0m7PCOsbkqVJmgeWtUOeF6cDCCGQZLqU12g1ozKo2hXSwLNr1gpaRWF45A==;AWa3DlPU6rFxM6tgVVhnKQ=="

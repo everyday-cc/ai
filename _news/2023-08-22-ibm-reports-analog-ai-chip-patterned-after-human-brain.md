@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "IBM team builds low-power analog AI processor"
+    excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
+    publishedDateTime: 2023-08-23T19:23:00Z
+    webUrl: "https://arstechnica.com/science/2023/08/ibm-team-builds-low-power-analog-ai-processor/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
 
 secured: "KTe3Hig9llv8hKBisEDhhZeoeN3zi1x9w2bSc50I4ukBqVhC5AD7dzqWuhyP8U0VV1/Go8DVgDJO3qK4eDOQgy1tnvcBkTx9Locl7IXbFhard1dk/PLma3oIsOsWWz/NMZylrgdK58pyupu74dkpCT821c0BbyijqSgT9gU9eyeUtMsZZwUrfoPxPPI1Tz9skSyA8ExgIOP6eCtatb/cIJOO1Y1etSQFJwti1VoQa3fpA0TeOOmPuR4Dk5cAiu6g9RYxEW4aQtLpAhhcn9Io8c8gQkZbGJMYHTI/0hyO9499nlF03QrzO9JjgU10DBqInot5qjyxgcI4ODkfQdnc/B3BWIQQ40NN1Qq1HtRw0TeAmEVWH6Whq5rC0oytfbjDeW47llKUogXxjCKu9ir05xbHjowdKD8MOUvkn2Y+ILTGa01JA9QaAfZHvdmk4Azne/NLA1kEFSrR8PV/w64GHJUcg3412J+6FTPe2UDnZgg3zHcGOrPBzs+P6KG/VnKgePlMGU9rX8iS3boWmEe4Dg==;QsHSuQeksCYLyE56E385Ig=="
 ---

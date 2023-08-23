@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-ef
 webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1782
         height: 1614
         isCached: true
+  - title: "IBM team builds low-power analog AI processor"
+    excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
+    publishedDateTime: 2023-08-23T19:23:00Z
+    webUrl: "https://arstechnica.com/science/2023/08/ibm-team-builds-low-power-analog-ai-processor/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
 
 secured: "OK1X2Q3CMyTbK0xIAHiBdg0trTMJhvvTAZDa6WWBynZEBWiIj6ZaWBmzLSpahWNn6sZh/1wCBW/mvkk0n5PBrE83xbU80sm6RqBG88X6aVSfNK300Y3snWmWVMd56KNw8ktQl2Me9QFuQ/O5S9/Tc+aBhoXSqTYTrhecQ6jDIOqMTP759ZxiIn42TM0yIGfXPILHQlIu2Fco5MCYcpJwaEwAGL/0ZxE4R/i1qT3ySG8BfnSWvkJpOHsBCEcZ4Et+p8hqfXSFfWDNqCwA4jKx4OA5lVJggpxVeDlnOrlHPVAgk/Vbs53TEoyQRR7aH1fOk/mIcNDUEEiC+te5cpTSSrlI197sSbzdMwibl7gNl+GiIDWx5P/3D897ISIAwqlE9Rh6Io20tf+ozE33bJ5y0VAsCvj1cvKAFkWfkSlzkOJIB1Km58G8o/XfIP9R7fSb7YiXoSBMwV3X6fWXOBZ2n49LMgT7EZvTbBWw3hAykOMyK5BEvhz9017up3YBGkGpgW8CaD/MJmM04AtwcVxhYQ==;85gCWlkp9tPokBzSSwL/2Q=="
 ---

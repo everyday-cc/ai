@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
         width: 1000
         height: 550
+        isCached: true
+  - title: "VMware and NVIDIA unlock generative AI for enterprises"
+    excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
+    publishedDateTime: 2023-08-23T20:50:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/cloud-security-solutions/press-release/53070236/vmware-vmware-and-nvidia-unlock-generative-ai-for-enterprises"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/OIF.64e66f2d1c942.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Lenovo and VMware Expand Partnership to Bring New NVIDIA-Powered Turnkey Generative AI and Multi-Cloud Solutions to Every Business"
     excerpt: "New Lenovo ThinkSystem generative AI solution with VMware Cloud features NVIDIA-accelerated computing and software to deliver GPU-dense platform purpose-built for enabling next-generation AI workloads"

@@ -1,0 +1,39 @@
+---
+category: news
+title: "Influential face biometrics group FISWG seeks feedback on 5 papers"
+excerpt: "The Facial Identification Scientific Working Group (FISWG) has published an ethics code and a guide to face biometrics to generate investigative leads."
+publishedDateTime: 2023-08-22T18:39:00Z
+originalUrl: "https://www.biometricupdate.com/202308/influential-face-biometrics-group-fiswg-seeks-feedback-on-5-papers"
+webUrl: "https://www.biometricupdate.com/202308/influential-face-biometrics-group-fiswg-seeks-feedback-on-5-papers"
+type: article
+quality: 4
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "Biometrics Institute announces online public discussion on ethical use of AI"
+    excerpt: "The Biometrics Institute is holding an hour-long virtual discussion on different aspects related to Artificial Intelligence, biometrics, privacy and ethics."
+    publishedDateTime: 2023-08-21T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202308/biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+
+secured: "oyW4pyzpQwgSINGqls451JPw63WbOBBbSF8ow8lJeieaWr7I+rj+rxFvEIpbaLhGhtt4b5n6TobUV+6cMfkW7o4qf/9Ze3/XEwAGazITJSv57pXC+gRksztViJvJmYHEGOTvy7AJOgl2IdwqiCpL8dodZwlhATOmXZVwXY5hGXIInk59m0n+Y7hxtIVsSyBKL2kHLJ7mykBOcEHwTgYMUsdVi0X5cK4BMxxTSC8WP71vWKJ9MbbYCy3fzOXhlPkcI9bxRVcEplpEHplWKZgISh9ZQB9xp4gEGzm2WNVZBI4wIs/H/zrMl+fiCgGvDsrYDTbKoxupJhl5W42OP77A53FbQ9GOrsQRvGa7KB/D1M4=;L3JefUIZ9fFbXmQWJ4NPqQ=="
+---
+

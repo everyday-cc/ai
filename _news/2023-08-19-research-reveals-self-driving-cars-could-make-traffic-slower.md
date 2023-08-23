@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers see bias in self-driving software"
+    excerpt: "Autonomous vehicle software used to detect pedestrians is unable to correctly identify dark-skinned individuals as often as those who are light-skinned, according to researchers at King's College in London and Peking University in China."
+    publishedDateTime: 2023-08-23T18:30:00Z
+    webUrl: "https://techxplore.com/news/2023-08-bias-self-driving-software.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "HA8aihhJ+MuLTJuW1h7gXiLPB/2IKiU/D222lMLy5PB70Fc06lj/lB2ITtDWFkzDxJNS475JxymmnVwCBalLN3D/BXrpJfxckRrL8bKWoA9n5zioMMYhwB0/cskA1go3CE5JCVXuUcgltX4QqgweATk9+gkYratEVQABp82sTD9Sb0V/PtJArAhZ6c3th/EvWBvxCUpuB17F9+ZCXjWlJ0eayu48LPvZn1wPlJn14ZHhkYXkBjc4fMqsSIw/o5ocs/1+AMvdwNzi0cx54h1y8lDfgpVXlMdxXpskU8BaaCy/us1F/gRRIFgObxi0iKS9X6+aAuNyJ2xFKYJXGF9pwO4x7TWZx7NRHL0+RJuaCxt09LMFDCQOYQp2RkoIK1ZP+HivMjLMWW9ophTsEkO6bR5/aFnq7zZuuulVO9sjXpgqvrYaZBRVbyyO24qgR0dnRkmiU0rnUiRu6pNRrOv7xwo91HSRAHcoYts7XM5A7Y1dvCIwpV+oCL0hGA+Ac39wOgxmL2CC/CkC5pvpDtogzQ==;pVaDf9YkDcFdFgEjyhtQiA=="
 ---

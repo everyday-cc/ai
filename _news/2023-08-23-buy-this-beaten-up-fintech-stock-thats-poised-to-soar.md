@@ -80,20 +80,6 @@ related:
         width: 794
         height: 509
         isCached: true
-  - title: "Canadian fintech investment plummets"
-    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
-    publishedDateTime: 2023-08-19T04:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
     publishedDateTime: 2023-08-22T14:23:00Z

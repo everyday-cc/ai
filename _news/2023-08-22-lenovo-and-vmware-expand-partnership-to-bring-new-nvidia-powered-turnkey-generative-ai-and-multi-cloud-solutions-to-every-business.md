@@ -115,6 +115,20 @@ related:
         width: 1000
         height: 550
         isCached: true
+  - title: "VMware and NVIDIA unlock generative AI for enterprises"
+    excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
+    publishedDateTime: 2023-08-23T20:50:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/cloud-security-solutions/press-release/53070236/vmware-vmware-and-nvidia-unlock-generative-ai-for-enterprises"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/OIF.64e66f2d1c942.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rubrik brings power of AI to VMware customers to accelerate cyber recovery"
     excerpt: "Rubrik, the Zero Trust Data Security™ Company announced new generative AI capabilities for VMware customers through Rubrik AI-Powered Cyber Recovery.Minimising data lossLeveraging"
     publishedDateTime: 2023-08-22T13:21:00Z

@@ -241,6 +241,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta AI's new research project is a \"universal translator\" for 100 different languages"
+    excerpt: "Meta's new AI model holds the potential to underpin robust and efficient \"universal translation\" services in the future. Known as SeamlessM4T, this marks the first all-in-one"
+    publishedDateTime: 2023-08-23T18:17:00Z
+    webUrl: "https://www.techspot.com/news/99893-meta-ai-new-research-project-universal-translator-100.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
+  - title: "You can demo Meta's AI-powered multilingual speech and text translator. Here's how"
+    excerpt: "The single-system approach of SeamlessM4T reduces errors and delays, Meta claims, increasing the efficiency and quality of the translation."
+    publishedDateTime: 2023-08-23T18:15:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-demo-metas-ai-powered-multilingual-speech-and-text-translator-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
   - title: "Mark Zuckerberg's Meta Unveils SeamlessM4T AI Model To Enable Multilingual Communication Across 100 Languages"
     excerpt: "The AI tool boasts capabilities spanning speech-to-text, text-to-speech, speech-to-speech translation, and text-to-text translation, encompassing a vast linguistic spectrum of up to 100 languages."
     publishedDateTime: 2023-08-23T04:50:00Z
@@ -313,6 +331,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "z2WdJuJllbILcq6tSOAV0bol8ro+rEWG6Q4rSgEPLZgz/ppDU/NoZtA6eFX6JOfcnLWMc6K/2w6rKvqE80wj6Jth/LDdlsv7FdE4FYXRPPA7kKfX8ma4W+NzoGb7rL+I+kKAR98xWsCpEM2OW88wunOxJTf7S2gRyt4+LvekUvJhhCtkIj+1/nqOjYvxlADwsKvrKxzi/qOoekNC6m+XcDyCG4+MtrvaLUt97k2umx1rAXZtffjbj2z6l/5LPzNLZQLkSjP8J1oAAwoQCzG1oIxo3AiADoPTyGEKBfJ84RWeiSSM9JtRbNsmjKTJJkWTBZKRovGFA1PHcC4gLcFVSSTWqNzqWSLw1+6BxbhELsQ=;cU8JSXjlAq1ybCqWpyKVUA=="
+secured: "ZUeh4uOPXvnrXDYNWPffSSJusaVAEnitV2GzBGDqjGC7dE0+O3lMeH8YjSoT+h+f5OFsnxYbLq36iHjxmYOygpbNoBRS9aXVRL2uCsfKq5jzukPJzr7KEo/PXDYQ/Q+86DXb83mzEF1ZoR7VHRX8+tC+v88DK/cu62skg7kNsCQqqvSGjwLFqTiXWjT9xsnkjZGrYJzNtW/G/Ra92dpp6c4/FrpE1DjyG5z6+k+6mtfyxIRg6S7QGTEBq/c845bU73s+QFajOlXa/EOeelJAtyIEWagKLC3HTc1mP8F1CMn1xhHOn4vLKcYQ+QG3YRJzhk84SleebpcuS6Rumbz5b3vIdSFpZaCBMLZ+ZRgkylYA+tfkoj4rkU9vqqQJfyiem19XyGPlrZWGs8rA+3CT2eG1EcIKXbhHkH+yaaNGEO8wjzAljZD3NMRSw3WOCYOGdIpsJwgB/ya+X6VKNGeMbbkhWAO506O5DW8IfMvfgyDg/QQlBZs3LQsP2qxw9odTeI1MBaE7BTY1MR1vypG/ng==;jMeDhl7vEebtp4LjbVRWRQ=="
 ---
 

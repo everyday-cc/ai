@@ -35,15 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Anthony Albanese tells Labor to campaign ‘like never before’ in Voice fight"
-    excerpt: "Anthony Albanese has called on the Labor Party to campaign “like never before”, telling them winning the Voice referendum will depend on grassroots activism."
-    publishedDateTime: 2023-08-19T01:32:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-tells-labor-to-campaign-like-never-before-in-voice-fight/news-story/146c2a9ed89e92aadeb177d7cbeca2ee"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 17
   - title: "Anthony Albanese set to announce Voice referendum date as October 14"
     excerpt: "Anthony Albanese will officially announce the date of the Voice referendum in the must-win state of South Australia next Wednesday and kick off a six-week campaign."
     publishedDateTime: 2023-08-23T05:48:00Z

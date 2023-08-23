@@ -255,6 +255,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta AI's new research project is a \"universal translator\" for 100 different languages"
+    excerpt: "Meta's new AI model holds the potential to underpin robust and efficient \"universal translation\" services in the future. Known as SeamlessM4T, this marks the first all-in-one"
+    publishedDateTime: 2023-08-23T18:17:00Z
+    webUrl: "https://www.techspot.com/news/99893-meta-ai-new-research-project-universal-translator-100.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
+  - title: "You can demo Meta's AI-powered multilingual speech and text translator. Here's how"
+    excerpt: "The single-system approach of SeamlessM4T reduces errors and delays, Meta claims, increasing the efficiency and quality of the translation."
+    publishedDateTime: 2023-08-23T18:15:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-demo-metas-ai-powered-multilingual-speech-and-text-translator-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
   - title: "Mark Zuckerberg's Meta Unveils SeamlessM4T AI Model To Enable Multilingual Communication Across 100 Languages"
     excerpt: "The AI tool boasts capabilities spanning speech-to-text, text-to-speech, speech-to-speech translation, and text-to-text translation, encompassing a vast linguistic spectrum of up to 100 languages."
     publishedDateTime: 2023-08-23T04:50:00Z

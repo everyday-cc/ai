@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/opinion/contributors/ai-facial-recognition-t
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring the Influence of Artificial Intelligence on Consumer Technology"
+    excerpt: "Artificial intelligence (AI) has ushered in a transformative era across numerous sectors, and the realm of consumer technology is no exception. From virtual assistants capable of arranging appointments to tailored recommendations aligned with individual preferences,"
+    publishedDateTime: 2023-08-23T17:03:00Z
+    webUrl: "https://techbullion.com/exploring-the-influence-of-artificial-intelligence-on-consumer-technology/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
   - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
     excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
     publishedDateTime: 2023-08-21T11:32:00Z

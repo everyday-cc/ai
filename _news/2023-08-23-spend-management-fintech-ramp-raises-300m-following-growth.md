@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
+    excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
+    publishedDateTime: 2023-08-23T19:21:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2023/08/23/sands-capital-investment-ramp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
+
 secured: "yKn+YVIQBgEcWOmyiJZ7TiH1dzvE2xBHUmPGVCA4HW2ioxeZ/2+BCcieolNl4MLQrmI8oJ1DYIMilT82g4G8oXXNPheeQQlhBpqE1fDEwFJgy9V60BKuK+LCp3KoUDXbiTOGvgtbVh1OLOzVNL15SRoUPnmX1J01t+gl+7ia1EPViXGTrk6qj7fyvyJjW+SpQBfBeTzJr1fguHZfUcb6jFH4aL2BZFu+DPtyRTZMaoO6eUXk2P/bUFJrvTqMBULnJhrTwVg3a2J3TKElCv5h6s9u82eQ27UUcyZyxLEyP9fCYFSgWG3JZ2bc/OnWnUBaa+f0Xdcwuu4lyMSWS5F8XR9607n7TDmlNNA1/Qm16i5VQWyHQeovqm7jPKX3AfnMXK2ZZ9/a4jjg21fYcdh1Ctf9d51xdayBNHWqI2+tO5ShQABy789KUX2sKZa54mMap9MtbYZaD2HfUZ83oSZ1xh2UjRZjqlgz9tD+jqcID1KwtX5ZsHPWamVenRlDymhhWB1GbzMjIDHvjGnM8qW2ZA==;F8jxsM2gkDZ8ak3i2/I3Dg=="
 ---
 

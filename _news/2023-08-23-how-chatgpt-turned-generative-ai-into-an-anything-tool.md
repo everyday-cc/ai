@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
 type: article
 quality: 91
-heat: 133
+heat: 134
 published: true
 
 provider:

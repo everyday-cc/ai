@@ -2,9 +2,9 @@
 category: news
 title: "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response"
 excerpt: "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities. Get up-to-the-minute news sent straight to your device."
-publishedDateTime: 2023-08-23T15:52:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
-webUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
+publishedDateTime: 2023-08-23T15:48:00Z
+originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
+webUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
 type: article
 quality: 16
 heat: 16
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "uKxEmhRYlj0DvAZcJ21Pbx1LV+tZxbP/lTNuOmOTXCbfJROHHeQBYlXp5wwpF6rb+uPKJQ9uOKE8loxC4oJxfAYbG9Oqik8lqUZF24ZiVGkoDMNT6IUL26Bz/yV9GQkHGp9wHEPZ7znylcI2vkJkB5VItbpNvv4PiViiCEfJ3neu2ENWHaTfg9t+/aQgrObHlyH+LO82a47vEch8h18jdmx7SADrPfojyXltt7cJiB71DdhKFUiwIllOqU0yjDqhJi64nlw0a1RKxOmVGnuNH9s4LS3wkY76lMHml5mL5vFgRUi4PQuL7WJyFe6Ft31i4HPRuN1pdDzIvbdTwBaFFL7TudFPUgwZ3VGbN0491xc=;7mUVOdHUdPdexvChi6KAuw=="
+secured: "CNh/weHl2gmQHHtuPwoYEp89acCtPTqSsCn/IyP7qKaSlN0IpMcn41KeJmS4sDQ5shyrxQp7drTj8rT6IvZpuzbRcbdp5kWYb/ZtWTAUM4whmeFiHG781UW0iJM2uJ8Ynp5DDlC5jofYcLL/FJX28uQp4BBWvSkKnvbCJqZxEssozabpjvTeBGKGYmjKarNOCX8ckw2u0oko0N2mHw11eRC4Is/yEqtZBpJ8nfRwQ3gNfv3m57p5FALdMvt3B41DRlB2NiYcnd9azAZi6/WkA9ONKoszcv64NiQYstJlDBjvYEJiPbYemzLdCrEm6DoP/WYmYyYHvHLNb0oGr8xV9xiN8H5nF4MWgJpMOuwcaQ0=;4QhGcBO+leRETFRA/5DmBA=="
 ---
 

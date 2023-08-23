@@ -42,6 +42,20 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "Navigating the surge of artificial intelligence in higher education"
+    excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
+    publishedDateTime: 2023-08-23T21:26:00Z
+    webUrl: "https://dailyiowan.com/2023/08/23/navigating-the-surge-of-artificial-intelligence-in-higher-education/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 56
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/USEAI-front-1-e1692819996951.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI-driven transformation: Reshaping the future of work"
     excerpt: "In today’s rapidly changing business landscape, the convergence of cutting-edge technology and human resources is reshaping the way we operate, engage, and envision the future. The infusion of Artificial Intelligence (AI) into HR practices is undoubtedly a game-changer,"
     publishedDateTime: 2023-08-20T12:10:00Z

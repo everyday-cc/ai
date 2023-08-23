@@ -33,6 +33,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
+    excerpt: "SINGAPORE, Aug. 22, 2023 /PRNewswire/ — BingX, a leading global cryptocurrency exchange, is proud to announce a significant stride in its commitment to fostering innovation within the blockchain and Web3 ecosystem. Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup."
+    publishedDateTime: 2023-08-21T23:40:00Z
+    webUrl: "https://www.macaubusiness.com/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 17
 
 secured: "Di3wtcqpny+QaY8etV7SVrV4fx3e525RMJEeqV6GqSjYDAjVP0ZyazmsGoQOahfiCXdC8RljVTa9lTlNk4ZKLVa8F1x97RChvUDLVgOxfsG3U75NJomtSzEJYnvkkpNFoedC8uGtIxnX6KjjHl+hdjaKVmrb2COUMlG97Qu3TZ0nJMnLX5t13kx/CiUJ7YGhk23T5Y4GHfuw90vIYzRmIpH87uSxxk0TPMgn7UhyHIPZcotbWEL4Bw9hftCzr4i3B+gGiZk9UFsum6e4/icolI3LfiN3e81yXPyiWJO5KXRdYftCHFRq/PCRcRlzW4L6U5tOeA6IZj2jqaulmd5j29/QwBb/whzlWlWnqJq+PIw=;6FmtdQ92b3zZRHmgjPpv6w=="
 ---

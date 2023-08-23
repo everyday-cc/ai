@@ -7,7 +7,7 @@ originalUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-a
 webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "How AI Could Save Healthcare"
+    excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
+    publishedDateTime: 2023-08-23T17:27:00Z
+    webUrl: "https://www.aei.org/multimedia/how-ai-could-save-healthcare/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 34
   - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
     excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
     publishedDateTime: 2023-08-20T06:01:00Z

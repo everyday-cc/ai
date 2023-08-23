@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Cruise robotaxi gets in accident with San Francisco fire truck, one injured"
-    excerpt: "The incident comes a week after California approved fare collection for driverless vehicles within San Francisco, after months of testing by Cruise and other self-driving car companies."
-    publishedDateTime: 2023-08-19T03:30:00Z
-    webUrl: "https://www.cnbc.com/2023/08/18/cruise-self-driving-car-in-san-francisco-fire-truck-crash-one-injured.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 32
   - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
     excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
     publishedDateTime: 2023-08-20T12:00:00Z

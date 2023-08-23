@@ -1,18 +1,18 @@
 ---
 category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
-publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
-webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+excerpt: "Using AI to automate these activities frees up resources to focus on strategic initiatives that deliver business impact. Using a dedicated GPT-3.5-turbo language model hosted on Azure, LeanIX AI Assistant boosts team productivity and effectiveness while ..."
+publishedDateTime: 2023-08-22T13:35:00Z
+originalUrl: "https://www.kansascity.com/press-releases/article278479764.html"
+webUrl: "https://www.kansascity.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Microsoft AI
@@ -109,6 +109,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
+    excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
+    publishedDateTime: 2023-08-23T19:14:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-may-soon-give-windows-11-an-ai-revamp-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Epic, Microsoft add new AI capabilities to EHR software"
     excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
     publishedDateTime: 2023-08-22T14:23:00Z
@@ -174,6 +183,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "2h2skIi37L0wqwZVPinwHZwuDS7oYVtZaQsEO5KBfuw0FRiwZiVvEyt8K5Cs/EdWc0VbQ1rrxfORYhHpDcSbpwSxYgmE0wErBI/d+kQ3QZNFrEIiTOwkGb678yaZdNgdkowv76PVNLaVdHfuds4xNJmgkecxysh04XAKS3Dq8cuHQxii4RDgd7Q0Xwr5w8RX1B3eKXD2wx/4baAcDKYMDkEbanN8RMpLHlpY6pI7WzYSTZ2ntTkuZ0M6YGExv9+TtP7vwrPSSSEynTYgavSZPO8F3iHVVyguaLKfoxXteqb9RSkx9zyB3TctegPQXMS0DKuO3v5RlyVbDTfbBL5KqdIjeAYPkpBr484nMdmyBn8=;mfahk7bUrXXZmIns9DZ+xg=="
+secured: "1g4k9E2UCPzhYTa53vBCUuhr4ZxxSFR2ypH2GW5VmRj2WEiI0O16Xdsk3Wjgg76zjiK1NtUYUOPwApIlQp9SdfYEMbXY1PtJqgEgSzSzAPKvODBDXaA8OCkN6S7f0DE/lH9ICZ5E9tR5D1RbhEvBK6EyNd4GS9KSSg8TaRV7iYQFhaT0B+NkqbJpsSDCqg7rmdDTlFwJF8qfSb5BbGi5FtqxEcPDVcql262DSeFOxbMXJng33z79Ec14Qwj+bh6h+tqMP2+363cSRQfmBgKMeMvqbnZEJtUkHPejtDi/PK9LChJYQnp0ulIZcXrvlYQyZJJwM0Favl3w2MNYJGenvnY3a8nIGBAZpo8FZtvw3bo=;dR3pBmKhVhmv1SYUXyoe6w=="
 ---
 

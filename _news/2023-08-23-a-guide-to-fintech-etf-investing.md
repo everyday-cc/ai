@@ -66,20 +66,6 @@ related:
         width: 794
         height: 509
         isCached: true
-  - title: "Canadian fintech investment plummets"
-    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
-    publishedDateTime: 2023-08-19T04:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
     excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
     publishedDateTime: 2023-08-22T20:55:00Z
@@ -104,6 +90,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "tMlw8Rbw/CefG0L1DuKKVbE5G1eJ19ISjIRsPg5oP3q0Yv0qADYq1iSIiHtZfxlbrbrnzJ3Mlee9ML9Y9dDLt3xNVKQ4rB7tgBCQ4HcHGgLm+EZlD77SFXwnLVg7pICG8qStWgFFf+T0hIK90VS13JExmKBZFYksRMksFdOcQrSVh3t8DWMvIZf8LJaaKd24PCSLojtSmnB3gwfe5WgpuNXvEk71SezlcKNl9ZOWAr3yEYhCpAaj7Tkb57ZdHxxRYW4iCEPMXJLOi+EIw9XYZg9QXhGVHeU4ZdoVZOPPWNQUjIKikgyWxTpj5phCs/vlehiuu+JrkL4V+8NjhbKnon8Omr+a6xVmAKsELw1otNI=;OXDvtyQu+tM6NwTx50tGSQ=="
+secured: "TkJDgpUwkjdMMkOmDebvaBL57jMIWj62U0naTuxYPWG1ppao0lcgrCRTfDEjtHUxcyFtdtCfMRjEp1QCWDjx67UuoO4UsqzshC/gisPfa5/in6y5mibspz/UnWIeP1mFoJGL+gKlrH0ufGA/z/lFpfWwjC0uoivbB6geCiY3KUWWQi9UAjvci6aYEPBdyAGDxA9Sm6n6OpBI7UomwinuVaJHcpKdWpsC2wdhQi7SqsGDA7Mw+FdRr9m2jdsJXNXEbPb5uyjJYEYNNT18Nf2DecYsXwPzX3KOLH0xkQspGW4hgwa4jstyNzQEe+fewrdhWD6ioKVS98zdN8L5m8OPfGBpehbQIaai8Q5lSkDJbnLUCE2NG2HYk5RmIgS+Sj3yPeD547QiXcIzw19l4ZSb9RrRU54JsujWz8nitnzV4L0UPtmCHwbknNKL8/rbk6kkC03aPqDdS/Hei6s9P6UhX6xqmArfZW+ohtEgoEwr3K7ZkF6KpI7N2ygakQPQ/z7fgFYqE1/U1A/yyK8E1iROPA==;bpkgSXEo92c3+sNYMJD7VA=="
 ---
 

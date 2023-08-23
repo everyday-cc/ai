@@ -67,6 +67,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "How AI Could Save Healthcare"
+    excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
+    publishedDateTime: 2023-08-23T17:27:00Z
+    webUrl: "https://www.aei.org/multimedia/how-ai-could-save-healthcare/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 34
 
 secured: "ujFHocN/LVcKFbwM710LainnUtHxQBMqIT80kJW+7i1bGWVqwOkCdQvTmhj6rM0fi744JlHCKjOvoYCY4+P5Ix0X5NBu6ndoF7ddKgbO5VI800anw5lX+Sr0BpbW1GGXC0SvF+NnCgFJL4PlaOe4yV/w/l9iYBLLMSVNxWy6r2XZsAgphAdT13k5PExIF86Md1h5KShOrqvU/trQmn3vHiR9Mb0qJufc+5YUFqyI7UdbHOGBykXp3/P0Sz7L4QOPSFLxm/XiSxnwkdnFv+NMfOEonzdnc2ivTHJ9T7qq3AbRZjEHX/DK23NtBFmyZcFWI2ruNTB4Yc2gs/mK7pIBnGfEXAeTOflPk/T9bMM4cUW8xPczzqq0K1+4advrWd68TpBP19ypvHYarcE8iUcrnGE6BOTmHWdaIGxVXqIKO7TMXZbHgk9svklwkAanZhgqqc82P+Vk2EwbxP36IO+lHN2B1OIlSRa2qNJvbwqc0ke8xeK1wtF92nXHSW23gzbK5feHF3kbumcVZ4WtBX5+aw==;Fz/amhUtK1sZQaJrmLamsQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2023-08-artificial-intelligence-rice-yields.html"
 ampWebUrl: "https://phys.org/news/2023-08-artificial-intelligence-rice-yields.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-artificial-intelligence-rice-yields.amp"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 650
     isCached: true
 
-secured: "C2wmc8qbbiuOwOpwkmHFeo4PQ+ioZtEOpTbAeK+V6JeukDHnC6qY68QPvAly1D8hqy4i4VMpSSkqUISUoiOGsM7ThrfsdbB7gp2RgCSG68vaDoEnxVKRQroTtDA5Hnfc5Q2smkHKr346jQmgTXba1BwRnHZs2RrIZmngNd99shP0EwS9ozAdshrUQA8LmS6eNWqzT6nGRcwuMxnZBK54ikbQfRQvJ1kD4WSgRhug32048gYwXHgBYK50Wt2Bqx71hnozg0E38Yrc3bKzJfOs5EjQsuoMBUdZ3s++wodphaqFYmiiA0z4hSm83WgyMYBobbDec4Wo/bS79f3s4Pj6GNNiOTa2LHoYoJJ2btYpgGI=;EWsGsjQJcOOUJS6QWABFKw=="
+secured: "EQoAxY8kz6GWW/N9ZGuDUXKPy6B8RsD6vpTsZraKKpue+6ND+97yT4eECBKTNwgI6TkyBhYXcQIYWPMcndD2puf38+ylE9xFMa6RwDqaqVPXZZ7whmqJZj0Z/1W/ZwcqTBJbcuH4CtMVcL5mLZ8lN+5y/DKVityb24BtvhM9QmU+RPTT6sz/EtczY11iZi48Rc+dVIWH9WcrDDq8yXwABc9DYjxoJ+FCe47yHZeL1IohVuTPGfu1pSuXhMLWTVrWPIyBpnam3bR9QfWNgnH3hyUUa7Vvm7Gymizf2H1jtBR4kuQ3DdWMlJuEMn2I+HAVwp4o2LBZmcPRi38OhuT6lxSll+D0lm6af3nqqP63DSY=;LJjlkWTJ1pDONYXJn/XJrA=="
 ---
 

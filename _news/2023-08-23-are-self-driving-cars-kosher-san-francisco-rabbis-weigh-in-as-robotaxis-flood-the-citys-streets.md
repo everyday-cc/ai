@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Cruise robotaxi gets in accident with San Francisco fire truck, one injured"
-    excerpt: "The incident comes a week after California approved fare collection for driverless vehicles within San Francisco, after months of testing by Cruise and other self-driving car companies."
-    publishedDateTime: 2023-08-19T03:30:00Z
-    webUrl: "https://www.cnbc.com/2023/08/18/cruise-self-driving-car-in-san-francisco-fire-truck-crash-one-injured.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 32
   - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
     excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
     publishedDateTime: 2023-08-22T03:21:00Z
@@ -127,6 +118,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "x7dMSLBbowxHj2XSZSLRqIp2Frv4OI/XweeVMDoUUTRukBeY5bvzK4eGmNisutbtxZbjVG22lMe5ZSEHVhLWI+JJIRx5oE6TNvL4dPL1AfllXPvpBAQYHxfAS+BrzPOcYjisoUhDaXQquOF2Ulx3nnaqqUXsCkXw+x7pdrt/urz4raKnJKhXt8iZEIfdH4H0EP8/K0XYdFLl2nst9Y8Mv8FiDB+UDzNtLOrmxGae/YKjVsfG6WXr/vMHRB4bdiwBJDerqj6ilszu/NZ6/cCIemIhGKtQDOt+kYHVhWl1CMDA2nyCavcSg912xYsEJA19PYm5epvLID8lfns8+JCYynPvKYoOZiA6IsfzEhNWppE=;kKhDZPTnqL5/ljnrK2fL6g=="
+secured: "7lv1vlFz/MLtR+2ssYHV9e9A6Ucz+SO0hALaqlTPrHgvR+CqTKSF+A+ifLByXIKhzsye72j9ts23B/vAbx7X8sklvgRKZVr8BukEzsSaWkiNpIJPm7KdXEwtFFzQLD5ispMQ0hIrkhQkskr1JffxpL/ki8xWf0JRLamOT4rHgLi07ChtDLclrlkraKZPIU3DZWAclSBTbUijjlHwwkPUi55JyYh2FWH8VaQ7+GVjUpiOTAa2KJciQPnnh1mSneGgoe4VQdFX33+Ri0MnUv7o8oz3q5hPYZMcF8QjQQqSflz8i6TVCudCL+zTp8QR5Vu8i/EWU64y/yLVMLp9gDP5g9sQpm3tMintqpRVvr8e9XTbfXnOv8zYqZ8quniuANPhnvI85WkeqMfRtJVD0oIq5YySnWn9dgwLUVJlO130s0Gfzxg/WHh1bEuwZlG7SGTaLqlOw53ocZnuuRyRqB/LDVkM0sJbnPGaART2ZNgWHQp+mR4qJa0wEHGFS83oS4C3OLnfP/H47KDWkck6g+t8Rw==;LwK6enz1YnXfiDaNODtY/g=="
 ---
 

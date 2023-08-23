@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Lex Lands $2.75M For AI Writing Tools"
+    excerpt: "Los Angeles-based Lex, a startup developing AI-powered writing tools, announced this morning that it has raised $2.75M in a seed funding round. The funding was led by True Ventures. According to the company,"
+    publishedDateTime: 2023-08-23T18:06:00Z
+    webUrl: "https://www.socaltech.com/lex_lands___7_m_for_ai_writing_tools/s-0083597.html"
+    type: article
+    provider:
+      name: Incubators
+      domain: socaltech.com
+    quality: 17
 
 secured: "WOUnDnmQSCd6GlzM4aX3d/07XBJeCKCcy9hJ+oMR9E4UI76WEjvy4JL3nHONQQr8SdCkArAOu7SBIye29Usfz4281ct+fxE8yqgMYfVrj0tcQyhreMIQDYIJzDFc3FJ68gjy5qMUJfZMbUmM6AYGEau/7BuzT4fQp/9Kp8qGhLfwwT62MPM1s9vaOKlS35rZ63VPPoloXrkabNZFMY/MWaiJfaKXmX4H2IsHTxyaXZTWWrIOsmH/FXcMVulecKHDP/1pXzmx2pjNTLs1ZetmbFaS3mBHromNH2mrB9yCqPB7umo8wPHxEz2X/GHSsUfmnOmPdsUYh1yYCIEfJPXfJ5vWsUvI0SVl4Lm3A5NVI+4=;GjkT1crWNea/qubDnqXh0A=="
 ---
