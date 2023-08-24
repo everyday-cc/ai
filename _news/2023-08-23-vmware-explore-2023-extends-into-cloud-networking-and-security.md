@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "At VMware Explore, experts debate questions around AI bias and the future of data privacy"
+    excerpt: "At the VMware Explore conference in Las Vegas on Tuesday, the focus was on what artificial intelligence can do. Today, the company turned its attention to what AI should do."
+    publishedDateTime: 2023-08-23T23:41:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/vmware-explore-experts-debate-questions-around-ai-bias-future-data-privacy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/VMware-Explore-AI-Panel-BroussardWolfSilverman.jpg"
+        width: 806
+        height: 524
+        isCached: true
   - title: "VMware works with Nvidia to deliver generative AI cloud"
     excerpt: "Dell and HP and Lenovo have built new hardware to support the VMware platform. Nvidia AI-ready servers include the Dell PowerEdge R760xa, HPE ProLiant Gen11 servers for VMware Private AI Foundation with Nvidia, and Lenovo ThinkSystem SR675 V3."
     publishedDateTime: 2023-08-23T07:45:00Z

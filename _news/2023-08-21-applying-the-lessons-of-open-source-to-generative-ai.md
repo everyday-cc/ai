@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
+    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
+    publishedDateTime: 2023-08-23T22:57:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Epic looks to accelerate generative AI offerings"
     excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
     publishedDateTime: 2023-08-23T20:22:00Z
@@ -266,6 +280,15 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
+  - title: "Data Science Salon Presents Miami Machine Learning Week: Spotlight on Applying Generative AI & Machine Learning in the Enterprise"
+    excerpt: "As the home market for the female-owned Data Science Salon, Miami holds special significance. DSS was launched six years ago and is headquartered in the heart of Miami, near the Design District. For more information on Data Science Salon Miami, visit https://datascience.salon/miami/."
+    publishedDateTime: 2023-08-23T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "rjSnWnEk9jxeJjrWh6HVLLgO4XbRfy3emaSJO8P5HkWZh197mYuVYb2CjMbRlZ7SZ2WHaUASI4kYSyGCEWC390AanX2qX5zu2bx39hIA5Ukt8ufO7ktKfV7ldhZvUleIIjI8yG4Gn4Gd68ONxJ40+D8gRZCbWq94rO1M9Of8anaIV+4m8JNAuxEPekjizOIBqoanMBFtYtbNpUpgokKwZIhw5+08OrUGzNGwBOcmjsbpb1gQhqTJ4botvMt5hbtJG/IhHbe+vRrKctKkcmWGlfd8zxdY6ZdWWReax2U069pylUYQo8NZy6MnekXoM5q7ulnAlBbcVlohMaxBzj1kqdRetQ2tFQVDGsetdw52RkrdYQfD2FUWWJ2qvstrw/MnOfgSdaHCo5a4TnM8iigIOkf/ifSnhtPn9ZdXkxCx/E0fGjcGk+cDFmbrv12MnAV0LGQ036g2ku+EOiBwawAKWBjCF+w5/OSEkz36TGmn0B/+3KmtWwvRJfHJjoyOfL9mbyiydawIagS9ceViBviaZQ==;m93E9G4jdgGKz4vykDtghw=="
 ---

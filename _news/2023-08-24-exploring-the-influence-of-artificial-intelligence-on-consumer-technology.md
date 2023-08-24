@@ -34,6 +34,20 @@ related:
         width: 1024
         height: 1081
         isCached: true
+  - title: "Banyan Technology offers predictive truckload pricing through an AI tech partner"
+    excerpt: "Software startup Greenscreens.ai applies machine learning techniques to aggregated market data mixed with individual client histories"
+    publishedDateTime: 2023-08-23T20:09:00Z
+    webUrl: "https://www.dcvelocity.com/articles/58350-banyan-technology-offers-predictive-truckload-pricing-through-an-ai-tech-partner"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 34
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2023/08/23/greenscreens-62bdd34be45d875681b21b63_tild6538-3963-4966-b334-373761356333__frame_32456.jpeg?height=1200&t=1692821502&width=635"
+        width: 635
+        height: 758
+        isCached: true
   - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
     excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
     publishedDateTime: 2023-08-21T11:32:00Z

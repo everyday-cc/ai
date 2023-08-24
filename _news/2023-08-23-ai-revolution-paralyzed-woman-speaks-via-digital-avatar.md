@@ -41,6 +41,43 @@ related:
         width: 1024
         height: 524
         isCached: true
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
+    publishedDateTime: 2023-08-23T23:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230823122530.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "AI helped a stroke patient speak for the first time in 18 years"
+    excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
+    publishedDateTime: 2023-08-23T22:54:00Z
+    webUrl: "https://bgr.com/science/ai-helped-a-stroke-patient-speak-for-the-first-time-in-18-years/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/11/neuralink-brain-implant.jpg?quality=82&strip=all"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "Artificial Intelligence Gives Paralyzed Woman Her Voice Back"
+    excerpt: "A brain-computer interface translates neural signals of a woman who is unable to speak, not only into text on a screen but into audible speech using a digital avatar."
+    publishedDateTime: 2023-08-23T22:32:00Z
+    webUrl: "https://www.medscape.com/viewarticle/artificial-intelligencegives-paralyzed-womanher-voice-back-2023a1000joi"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscapestatic.com/vim/live/professional_assets/ht_230823_neuroprostheses_chang_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "AiW+rocJ03tN6o8yyz78RoNT/Wi5fmIhD85/0YUZyOO3yliu2ap62m75qXL0uTZUmwZ+/Epy9xQidpvqRqcXOESfnifHNjYRP7mg1XdbtWEGQOydlmuX8LdjjC7bCaLP8H8KlejYUMILs08ITnuXhaqaHy/8gfVNF9j7NgWjiK+pyVnnvJtXMPnfyGSAYpsiLLKLP9/gTHNfUOt85sADpD+3LPX2THU1d9kf9jjjCD8yn60K8xhRSvlIRcw4mcOcSRkDD6cnfDRmyWOfb7/CWVYmXDxRaPXskAYSY/dx420VfCDPw7hooGSxviubOgp1d6pppjNrRXYUEgKKltRWMlbIxZv9xwANKiuBVVsXN94=;MbIW8noEbBc6EsCi+uFzsA=="
 ---

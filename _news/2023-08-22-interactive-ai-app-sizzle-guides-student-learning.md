@@ -40,7 +40,7 @@ related:
       domain: technologynetworks.com
     quality: 54
     images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230823"
+      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230824"
         width: 1200
         height: 627
         isCached: true

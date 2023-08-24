@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 567
         isCached: true
+  - title: "At VMware Explore, experts debate questions around AI bias and the future of data privacy"
+    excerpt: "At the VMware Explore conference in Las Vegas on Tuesday, the focus was on what artificial intelligence can do. Today, the company turned its attention to what AI should do."
+    publishedDateTime: 2023-08-23T23:41:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/vmware-explore-experts-debate-questions-around-ai-bias-future-data-privacy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/VMware-Explore-AI-Panel-BroussardWolfSilverman.jpg"
+        width: 806
+        height: 524
+        isCached: true
 
 secured: "oVa2y754g2427DQV61nulxBwLHbb3mnpD+YStTBUukaOlWfcHmArxhVvFwvqIwBDGs/XhROdnsJLufCl18tYz78tmg7s129LZDaoz9nC/Jz/guU/cgLqIZ5yI6sHroaZnSlAHgR+SQiwNtzbDWaoWVuAUGQEvLc7Qch/6yqpSpUyQEm0fqbpQcjVD+oD3o+ZkI2ETWY48UlVf/XgBraM3KgMXbI0o14/o9usB+mNJLSKZsi5wehHILxeKtDqjr0C5FCKCM4BGfbHdNoyAAAj4gqNoKCXhu4odqapc4EAUZXN2VOvv+za+IkKihEflUIAgXyp+vleNqrBlkW8io3Osc01lTYw/WQOz3+/WoE3wAuDWP0f8JaJjrs5ZjsmllNCOHkomt463vAm1DEA2MVX2ynvZsVZEwLqCWX4sNYYBRpmXxtwk69TRzATBgBV+FLEIEdn5/t1HZdz2WbUvWErszMt1nhgifN3RLNkHuuVqPx9Lc5gM+veJhzNpG5BS/qxgVjovnqQaTQBVtdrb9N8KQ==;f+1GINXg9nMjFTFZfOqYuQ=="
 ---

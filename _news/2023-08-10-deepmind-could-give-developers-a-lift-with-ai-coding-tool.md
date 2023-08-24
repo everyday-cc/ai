@@ -1,30 +1,20 @@
 ---
 category: news
 title: "DeepMind could give developers a lift with AI coding tool"
-excerpt: "Learn More Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent application for a system... For more crisp and insightful business and ..."
-publishedDateTime: 2023-08-10T16:02:00Z
-originalUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
-webUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
+excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
+publishedDateTime: 2023-08-10T16:56:00Z
+originalUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
+webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/743695/featured-daily-upside-image.png"
-    width: 3000
-    height: 2000
-    isCached: true
-
-secured: "1DcZKsLxDdT2hftAr4sap83BdHJdiNMRzQz8dKm3NGoUfILFh0V9fJzDPnB1i9rppMDCz4HsbCI7iVbvlBqkbjotyhjTApJ6bnNHOhTSsdqyz8cqGHrSmCLK2to6pmJeD+T9EAg1pLeB+qw+LrrmZMfQxii4e5bdaNaTADph8pAK29rmrL5hC+fA0Udb7kJil6/OrW0bNPAfR8IdxNB44nRoOGQzY4y0NaS7Z6C/11/tOuMkDpVgCKjel90AjKgr0jjenY1vSpQSuogZQCAFJBtpvtHWXqDMWucAsV10j8gXowRJNRHqCekVYtMUyu0snwAxp3DWXDMai1qSTb3A05ulGWmycQNjwOy6QaNBLAc=;gxjaTs/n5NIA5XPm7hHwoQ=="
+secured: "7oki7/sSf5db7IMV6mB/Y35Gb0CSCxQUK/XzFGvVoKUs0HY7RPayTwrEaCyMeMx6dEbHvLuHd2MlJxXaIWZl8eHoW14M6o0PUWX7v6+EZTZj3is11Gkv0pQoZtZ14quwMDDT/G4lnQiQTZdt7ElkJp6r6D3OMHcRM4gA+4XEu9K6FBZp2+Hi59iah9XdmRbrxYdrUetwgWlPxen8b1RAt3WSftzmA2WdZWh4Nmzd5TZhzvKqWt//jZ0v6bhW0giel2lbJWePzPBTQT5U5E0M1fPFe4DS5LdxNncl48ek2V2m95STQ56/kinpxabiceOw2L0nrGjHt/0GY7e/6Vp87fvQ5uSNu6TPMJrr/RIN3RE=;6owfh5HzyI0Xnz8ub9VsVA=="
 ---
 

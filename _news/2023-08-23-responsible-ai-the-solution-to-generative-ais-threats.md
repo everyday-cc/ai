@@ -153,6 +153,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
+    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
+    publishedDateTime: 2023-08-23T22:57:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Epic looks to accelerate generative AI offerings"
     excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
     publishedDateTime: 2023-08-23T20:22:00Z
@@ -264,6 +278,15 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
+  - title: "Data Science Salon Presents Miami Machine Learning Week: Spotlight on Applying Generative AI & Machine Learning in the Enterprise"
+    excerpt: "As the home market for the female-owned Data Science Salon, Miami holds special significance. DSS was launched six years ago and is headquartered in the heart of Miami, near the Design District. For more information on Data Science Salon Miami, visit https://datascience.salon/miami/."
+    publishedDateTime: 2023-08-23T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "UbgLIDehDJ/wsBAYOR+hNBgsdoYjKbOcjotmmcEJWtOUg7KG+wT6mnF6zMf28JZ88EIzgzEyoBM8JoGwaFery4SI4P3iT6b/moPZ6AS9w7DosoOG5fNvHXOS8Ykg2VVjL7/jaghGAnDMEXCrTnDieUW8guSmy+HPfzyvQjIUMkoFwkvF/H370HEk5HAPZzmo9cvWyk7XtJnE3a0nXx4NWFyKIyHseSnDhcG8apNQejFQzH4X36FUweGY7Ibl66+Pk/7gYSL7/wiVQoaxgLunvKfmXSBy10EwUq3c6y6eJxfzIMhf04oaf3ZBghMpcv5XlAayhqtIKz/0x5fRtZ+3ZqLSJh2hPUls+we84kBUmiPW9ukvU30VMpENYflre8Nq1JHDy+gyoJAooTcUsLU+kfAEqwN3h2/AG1yfSWxhDbihBSlJMYbzIHTiPuZFV5DQwsna5X4L3O0HUDWQKNjjaA0SZWZQ/uRgNUE95SRGsB3SNeSqlYsUARGlgUqtSD6JhnUkQQVDxg0KhV1yzD10Ww==;WE+LaCKkS0ZRLTFe0wVCdQ=="
 ---

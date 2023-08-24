@@ -36,6 +36,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
+    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
+    publishedDateTime: 2023-08-23T22:18:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "bzThKGV9i396ohhYx6V9QntCunmelc5Zwc1pCBlEhIC2PreWSACY/rKaBm3wBKxA7CzEyBUJ5Ph1pBS1blUSsLpUjg6SKUnGLKoU+8vo8zD/QQiWSEq6oGOGOZmjULAUhZOtQh03IZGSn4KSYlvxwZpKmH1LX0GWlLKZ/zM+1FQ/PJCtFC6B1suvTh2jXiOYFLXUtrdqDTqfvwGg+n8rWdvOfqPvhSVsFexkQkS40tmHPnjsplXsdi/KoavmTkOJBJfQzQpFquwy0PzTH2x7MYH8clu7HCSYAnl3JqYoJ09VzxKa804FgE6iIyzs4fq5eHnszCZQU5Cv/zW0FQZV7R5WtESA0PAiM4g64EEZ1DWQWU43wizj5AwqyOZnTnbyPGGzv9GVsIjMeMLu9h++TaY8aucSNRuNrTra2Xdr074AXAC2x5qYeEEhKdBTKuFHZ1Q2aR1csvYC4ZwmfojuCoYQdSicv89S46G3GY3ma5xEt2CGZReIXufPJRBsxdnahEtl9sV5Dyzr1skjYDvEqw==;+C6muuL1V3XSbTg+6/eOXw=="
 ---

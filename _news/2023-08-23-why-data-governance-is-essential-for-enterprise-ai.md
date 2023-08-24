@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-ente
 webUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/"
 type: article
 quality: 99
-heat: 149
+heat: 151
 published: true
 
 provider:

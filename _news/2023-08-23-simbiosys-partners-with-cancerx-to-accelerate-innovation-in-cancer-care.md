@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "SimBioSys Partners with CancerX to Accelerate Innovation in Cancer Care"
+    excerpt: "SimBioSys, the TechBio company that combines the power of Artificial Intelligence (AI), spatial biophysics, and data science to redefine precis"
+    publishedDateTime: 2023-08-23T18:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230823104418/en/SimBioSys-Partners-with-CancerX-to-Accelerate-Innovation-in-Cancer-Care/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+
 secured: "Efehd/nf74OXpl2dLGE0HPuwXoQ47Sq3mGC/P8PnRu8soQKMduIH7zxmXSDKPS06ENVL2HJDSdSISjQLbVXGgb2Tx/9it6grAWKbL7B+6lJANNUsYMb4QiTpof7lF4sbXDhFtT3EkASAwBKQfCM1UJRKbQ87d3NY0s4q5TBUzfVk0VgZGmpkwvrCEWceEM1V0sYZzCiOGYo+iIzVh7Cfp7ZV+3ZF98lxOGmHpJuokzt0GVmZ/A91qEp4Lxbt1F78uA2dfkRMXAHM7YiT35jz1NdAatI0TOs6HafnfAaM82uDSC9/FCRCBMFpK+Jpo4QlSO8iCDlRJakdkTVZZVToSk8qoNkoH+2AUU673AP/moQ=;xuR7BHpTT7k0khYEVFY3HQ=="
 ---
 

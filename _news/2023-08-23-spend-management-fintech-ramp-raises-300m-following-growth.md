@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Fintech Ramp Announces $300M Series D to Support Business Expansion Efforts"
+    excerpt: "Acquired Cohere.io, an AI-powered customer support platform ... online lending, and other forms of Fintech. Join Crowdfund Insider for a freewebinar featuring two Regulation A(Reg A+) experts: Sally Outlaw ofWorthy and Etan Butler of Dalmore"
+    publishedDateTime: 2023-08-23T22:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Money-Grant-Dollars-50-Cash-1024x855.jpeg"
+        width: 1024
+        height: 855
+        isCached: true
   - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
     excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
     publishedDateTime: 2023-08-23T19:21:00Z

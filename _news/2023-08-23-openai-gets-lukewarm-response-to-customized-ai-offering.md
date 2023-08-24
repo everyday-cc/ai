@@ -164,6 +164,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
+    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
+    publishedDateTime: 2023-08-23T22:57:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Epic looks to accelerate generative AI offerings"
     excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
     publishedDateTime: 2023-08-23T20:22:00Z
@@ -261,6 +275,15 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
+  - title: "Data Science Salon Presents Miami Machine Learning Week: Spotlight on Applying Generative AI & Machine Learning in the Enterprise"
+    excerpt: "As the home market for the female-owned Data Science Salon, Miami holds special significance. DSS was launched six years ago and is headquartered in the heart of Miami, near the Design District. For more information on Data Science Salon Miami, visit https://datascience.salon/miami/."
+    publishedDateTime: 2023-08-23T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "IbzYCpZ5Ln9xQLXEhgLXsrbKGEPmesT0WNQsUrHFg4wk6flIHnj8iTCzs7f7ewSTewlVlch+vYjFDqaZYxfXqWTwtwnOJV6be2tuyK0wwQ7wqxEeiJ8KrkH+tdz/sn9ZXZqCcWJzJDNy6EOSznPjnd2xj20vp8DFWsTobV8LPchiNq3CM6pw1lSyfz+mWB5rdGIc3n4O+82f46nZzE7RvSUesTioZyzhwglulik3z/6JK174oxsmooW9LZ/I8Fn5pSqH1nsA74bkVL4gJJBhqXYr9GBm/LXcUpDx1EWiM4Nrx+Bfqa/Rm+iBtmE9LuxovQ+WlGBOfJJ5Fh4yb8KR5ylD2Nk7I5lS+eFYuwWsUkw=;ZcKyXIHppoLKNLtaNdv4BQ=="
 ---

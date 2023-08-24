@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230823"
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230824"
     width: 1200
     height: 627
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: technologynetworks.com
     quality: 34
 
-secured: "n5KLuYidk+LsnQ6dAWPAZtNODn/vytpk+O4shlohoVFFQoKD8/PC0TPBjIjqsRDxzNCHBUgQbIHGEUWxk0PQ+sJSrcP8072sXu9HBDJ5YyLBqEH98oZRd+O1XDPT6mlxuPHlc933+52L0lNJTJUUwR6by79a9b1ZjIghENUWwp4LARHjIP8LHB/l3AC6Nlyu6p7ZnN9Xv6A7UOe1c1Yni/frVTIoFZpCReXKJ7R0BYE/pPLWc2ivU9XD2ny+PTWZkiP5WRGT2T3Jb8OFdGMqW2PPYT3hdW1hlK3Hwe9xts4eoJPv0xUgAABvRAQfSEtiLPygb5eqxBnjweMMVVQfydIeW+gUMw0OU7dU2t3LkcA=;sLnl33jOAtgkk7Df9QCD8A=="
+secured: "wt7/+DhEsHaYx+yQJksHLo5YVGWJgfOzvHfGNmornikdfQAKeyB/X4c7cLD5OvVutBdOy2MIIrsIYsGes4tzX/05gRq3WulnQcfb+fyVle1DvuIUhEiC16eqoT3Gu7ZThVZUWzTZI6ode6OfAhILz+Z2yjD6BGVv15znVkT47lwOAZqpVC4A0sTXKWm3Fou9dpwGCEZLdKBKCcmHOzil2QPD3oC4wkLHEZ35QZwHxrgLlgGZBtehFDEXVfIrdtoiI1ydvjfjFKTVu0hn3RY50YA3zWkJrRgT0irbmwl0FWDiGLyQI/x/RA1yfRgUbblwMbOjfrkiuRIoJs1YhZ8rgDhW2mUXJ1c/rqgCAgOFty4=;Pmqrao5mykAyslsxJLLMhA=="
 ---
 

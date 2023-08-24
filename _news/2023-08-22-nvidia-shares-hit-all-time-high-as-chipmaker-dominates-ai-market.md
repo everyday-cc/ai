@@ -46,6 +46,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
+    excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
+    publishedDateTime: 2023-08-23T21:18:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-sees-blockbuster-quarter-thanks-to-ai-chip-demand"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05CxzV6634h7ZP01wFFIiXZ-1.fit_lim.size_1200x630.v1692822971.png"
+        width: 1082
+        height: 630
+        isCached: true
   - title: "Nvidia’s Earnings Aren’t the Focus. Future AI Chip Supply Is Everything."
     excerpt: "The critical question for investors is whether or not the company can show progress in alleviating its supply constraints over the longer term."
     publishedDateTime: 2023-08-23T15:48:00Z
@@ -61,6 +75,20 @@ related:
       - url: "https://images.barrons.com/im-839819?width=548&height=365"
         width: 548
         height: 365
+        isCached: true
+  - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
+    excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
+    publishedDateTime: 2023-08-23T20:29:00Z
+    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 71
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
   - title: "Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
@@ -90,14 +118,14 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
-    excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
-    publishedDateTime: 2023-08-23T21:18:00Z
-    webUrl: "https://au.pcmag.com/ai/101347/nvidia-sees-blockbuster-quarter-thanks-to-ai-chip-demand"
+  - title: "Your Evening Briefing: AI Chip Star Nvidia Lifts Broader Markets"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-08-23T21:59:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 64
   - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
     excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
@@ -142,6 +170,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_2321347753-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Indexes end sharply higher; AI chip maker Nvidia up ahead of results"
+    excerpt: "U.S. stocks ended sharply higher on Wednesday as shares of Nvidia gained ahead of quarterly results from the company whose chips are widely used for artificial intelligence (AI) computing. Investors expect that another strong outlook from Nvidia could fuel a further rally in tech stocks."
+    publishedDateTime: 2023-08-23T23:01:00Z
+    webUrl: "https://www.aol.com/news/indexes-end-sharply-higher-ai-101351200.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ad380a92a34db3cd046e5426b0cfbb45"
+        width: 800
+        height: 533
         isCached: true
   - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
     excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
@@ -343,6 +385,15 @@ related:
     provider:
       name: GamesRadar+
       domain: gamesradar.com
+    quality: 17
+  - title: "Nvidia’s AI boom exceeds Wall Street’s lofty hopes"
+    excerpt: "The jump in sales lifted Nvidia’s after-tax profits to nearly $6.2bn, up from just over $2bn the year before. Pro forma earnings per share rose to $2.70, compared with Wall Street expectations of $2.02."
+    publishedDateTime: 2023-08-23T21:16:00Z
+    webUrl: "https://www.ft.com/content/4197702a-9749-4eca-912b-07cc4880c336"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "SzdLNSZhkPC2pfbRfeEOFm61Ir4XKu1JBTEDf5xMyeeJo4xWgUcdrjpkMTkI4tUpXUWGkSpdwzkK09yZgjN3dGUU5qp8Rp7EOBsfjcOL1D/6+pfnl5tEX16Wi8W8obKqtYhQuY929SW25Z5EFq1s8dcO0cnWNY61LmG8St2KzHhIzBp8PV1G6eGDdP7vQ1p88QhTynCgJotmAW4pUW/grrWrx7gQPim05aby7BVkTVhPuH/IKbmzqLDJlKTsKdLmXOErcRvSlxZljI/c0wfPxij/ET/Rq4jdQFlZ/fvz4JkQYUCgiPmQkwEv/cCvqIyKQt+RXYUWDy8Fdhv8IlHp+1m1BYxAmUFfSVHJPCfVYZo=;sKoB7f4OGIt5tgEXPiNxjQ=="

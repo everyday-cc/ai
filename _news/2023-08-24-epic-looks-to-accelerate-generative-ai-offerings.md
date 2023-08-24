@@ -165,6 +165,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
+    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
+    publishedDateTime: 2023-08-23T22:57:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z
@@ -262,6 +276,15 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
+  - title: "Data Science Salon Presents Miami Machine Learning Week: Spotlight on Applying Generative AI & Machine Learning in the Enterprise"
+    excerpt: "As the home market for the female-owned Data Science Salon, Miami holds special significance. DSS was launched six years ago and is headquartered in the heart of Miami, near the Design District. For more information on Data Science Salon Miami, visit https://datascience.salon/miami/."
+    publishedDateTime: 2023-08-23T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "29T9mfk2wSOl19JSoVQ6vgaMQU+sbeeJGjNb3AihTLsURS+V0bjh8jqEUbacHf8mlTpkxE79+KvK19ucEuviMxS5gUBW9sxRtAFyRClJ1r6sMIuoPfkpDlUUAfw5nns/1nMXJGB7PusO8HGEpbyzfcuI2PtuskXC6C/g0GDmiQEsF+np5yOsb/zTHqihKuiHw5OF4qI4RGY+/pWYja9jnY6BLIeMbz2xYmgE6Exlmo+Z2/OD4/cdFO8hX2Z80agsjKHrJvuX+SaA4XnV+kK2sOwTXf6INrkq9syHal5uDRc9rgYZw4bHqa+dhVDDfpN4o/R83Ua6q1N0C+ojVoYTn7OLI4SBWEXXev+q4fFIlRM=;zH5ruwY9BkmwnTz/qka+Ew=="
 ---

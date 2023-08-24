@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-c
 ampWebUrl: "https://www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64e4e7438c41637d244af6bd/0x0.jpg?format=jpg&width=1200"
@@ -31,6 +32,6 @@ images:
     height: 800
     isCached: true
 
-secured: "FY4TSZzWvw3W5ORKJ09bJh8oruggfCC0viAH79dIQjcmK3L4EIE7loIF9O2vccE/L67AJIboLjCdhMIZuA58s2AP+TmQqueTeSdRGSiK6DoTJCtx2Onyf00khyXmvm+CC2PdfUrKkI2uQbiZu5mSlGVnl1uC9EJAeUOH590VaO4m+CWgZMiVtDJXiV3dV9KZ2/oWt7Q7rOuTr+xk6Q4asytJuNqErlssMD7F7fu/TvHYJv/IoVSNCakCUy0Lbcj3OeW59k2w02oqIF80EkpqRh4WRy2wsWqrvy2QbuhK77kBrWB9fKv4NedagZdD8H/HBldHVj9iStdMn4soR7/owFapw7HLpFDazjBqhEwSLho=;doHHaPo14uSDNQKLzeTxbA=="
+secured: "kF/SOTvE7I/+A4xYEmobjCmLRf6ro9sBjXsGh7Zi4nW5W08S7ZnTFJ8u/BSzoSnIeuMjr+1dltfWtggdDYdetoK4/ZPJ4uHvjNVOl1FHJQUU33fAr2sc+vw1WFxenvhEmaqedqRl6AdGgx/WJYa9nvpNfGp51rRpKuTZnE5WyTr2mpcsz2HQSLzZiJArFoyZvcTD3qMf632QZ28TGdujmdKteEQurwhKryYzKjg304ek3dKJ9CbUe1XqZsGSbkwAS2hfvpxqhnFL3kan7yrWy88kcLgQAgSdQ0GH8b2zBbbGjWWiQqJTFLq7xby3MsKcxE+0LiYgE7NbnwZM71XQ19SCGEep2zyrewdQvjejGmE855WUk/6O8KeXzGMsLYxsfMoaG+V1Cjr2tbxCExk6RpVjgdmrG/Iwi2DQ4lB+TKo+i86WLD8ijrC8nIKjGq5J/jbSIz4pmYKcd6ZkkrCx86CaDZsAOwDLpVXZZDXdB3jy9AZft9FQ+9Ul63qEq7Fi0fehPF7yfutnJLnUZP4Jog==;DmcteqfwcuIe4PF/CZpBhQ=="
 ---
 

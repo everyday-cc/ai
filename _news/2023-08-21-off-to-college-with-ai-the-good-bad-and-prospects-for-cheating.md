@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/news/local/education/off-to-college-with-a
 webUrl: "https://buffalonews.com/news/local/education/off-to-college-with-ai-the-good-bad-and-prospects-for-cheating/article_4b2f77de-2fa6-11ee-b94b-57a493d0ed6c.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The art of artificial intelligence: Changing the face of filmmaking"
-    excerpt: "Artificial Intelligence is emerging as a valuable collaborator for screenwriters and storytellers. By leveraging it, filmmakers can save time, enhance storylines, and refine characters, making narratives more engaging. Although, it is necessary to keep in mind that some parts of human touch are retained."
-    publishedDateTime: 2023-08-19T05:45:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T182052.360.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "4PIrgw2vlKtLTf4zJ+U0gwkZq/roNEuGlQ8TI9kPJaOR5b61wzv7soypz/O4k7oLTaxDIruhomz0xuW3LJLnMaCJ/h2K0H+cV7RFDK4w14v+nPt4Y32BcdEbOPvKkky0VCy0ZA8rL8kBNk6El7rRu/wKIdxRXaQn2n+McZwfhzj6th483mg3tRXPa9Nh3TNat/bVVK4VMrDoSklSEPoFnFksbY31jEwbqbKRSdwKBgqgLJhYGQQrkV2Mp4otPv6/5qQBg1dATs0ADVL7gHVvWNupMimbmMhFhZUAfABExTgDAL6FmUTn2qxdXhZvpTjKEPrvaXSQg1zjNchmjKC21UjDy1taJL3Z1fOV5aT0/wFvrRjOHCObcHFP8pInyNznFOHGE+82bDKnoKa/nhKZThh6RrYs6ksGSkZJyTsJgi+5sV2qxzrxNim/ImOw36dz1YkiBoCLXpESUoNvnTLoBqDmsY/8wv3uH0t8XiqRbikMrknTXFa7hDjkjY0YKYhxFXBWMApaVD8UEPv/t1dfVg==;J3lgmQcHy6EIL3/X07SkNA=="
 ---

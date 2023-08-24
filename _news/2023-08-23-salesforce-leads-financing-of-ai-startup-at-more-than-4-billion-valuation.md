@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/salesforce-leads-financing
 webUrl: "https://www.theinformation.com/articles/salesforce-leads-financing-of-ai-startup-at-more-than-4-billion-valuation"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales"
+    excerpt: "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season."
+    publishedDateTime: 2023-08-23T21:57:00Z
+    webUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/"
+    ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e417d475ec314ca09be102/0x0.jpg?format=jpg&crop=3855,2170,x0,y191,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Retail and generative AI - Salesforce, Honeywell research suggests lots of experimentation, but unclear on extent of implementation"
     excerpt: "only 17% of shopper respondents say they’ve used generative AI to get inspiration for product purchases. Of that number, over half (52%) used it to research electronics and appliances. Other use cases include getting outfit recommendations (44% ..."
     publishedDateTime: 2023-08-21T10:36:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-21%20at%2011.35.58.png"
         width: 852
         height: 688
+        isCached: true
+  - title: "Report: AI startup Hugging Face hoping to raise millions from Salesforce and other investors"
+    excerpt: "The startup has already raised more than $160 million in funding, closing on its most recent, $100 million round in May 2022. Hugging Face said at the time of that round that it counted more than 100,000 companies using its Hugging Face Hub to host their AI projects."
+    publishedDateTime: 2023-08-23T01:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/report-ai-startup-hugging-face-hoping-raise-millions-salesforce-investors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/F3Ky24UWgAAW_DI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "dEyS1keIeA2tXdoHkzHAS7PLdpRzN1isQ4jdp87DJTI40gBdGDN3g0pKypnPyvgrkeuSPz9NYlEwr+RFc8WdEaYIFmGdY5UaQ2/Rxldi67aqOSwcA0yb0Qt8//DXXVJH/5gyw7LPIeYlV99e7m7/TT7co8PAmP6G3rJNxNFezHO3vTne6x/56B64vBq/VtjOmHLDOJD7I+nrALeRi2N4CvE2HKsMscwTz/SetYfTI3n38eOD9SioCP6/fu1l3+F7uV6OVf6lWgai9rfDcjalkfnL9bXfF8X46o4paWBIDvjmZaD0hvwe8hUg6L0zmEMas0CY/3x6ehaPk2PN9aM75lNTsPxEteUPNlRZooNd7IEf1QBZ2vaiJEf8BTsO7w1r10u2hTM+h4I+iX0wjSl2WVU7Gnc41Gl40XWohVAqfRSyHuarax1IhiGMDH0yZlJJvKAiikSlykgD5UK+Go3fUsZKdfw1Bv66oZL+qSdBdhhrR3Ldbp0mX5nmVDw+CweXCSrOvekSmpiBowCIsjngXA==;u7HtS9xjgFviJ+f2NCn5Ow=="
