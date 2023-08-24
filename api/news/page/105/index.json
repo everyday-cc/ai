@@ -2,6 +2,92 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-06-16-healthy-approach-to-ai.md",
+      "title": "Healthy approach to AI",
+      "excerpt": "The risk AI poses in the health care industry is that people will go ... “It’s not just computational power, AI is bringing us the intelligence to solve problems,” Capps said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
+      "originalUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
+      "publishedDateTime": "2023-06-15T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-automated-machine-learning-automl-market-share-and-forecast-till-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Share and Forecast till 2030",
+      "excerpt": "In between 2023-2030, Automated Machine Learning (AutoML) Market is predicted to grow significantly. The market is likely to increase over the anticipated period of time in 2022 because major companies are adopting new strategies at an increasing rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-share-and-forecast-till-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-share-and-forecast-till-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-the-week-in-ai-apple-makes-machine-learning-moves.md",
       "title": "The week in AI: Apple makes machine learning moves",
       "excerpt": "So until an AI can do it for you, here’s a handy roundup of the last week’s stories in the world of machine learning, along with notable research and experiments we didn’t cover on their own. It could be said that last week,",
@@ -1119,110 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-how-microsofts-azure-ai-studio-will-allow-companies-to-build-custom-copilots.md",
-      "title": "How Microsoft's Azure AI Studio Will Allow Companies To Build Custom Copilots",
-      "excerpt": "The cloud capacities of Azure seem an excellent fit for AI use, especially with the company always focusing on the risks as ever, and this concept is now being taken a step further. Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1314709/how-microsoft-azure-ai-studio-allow-companies-build-custom-copilots/",
-      "originalUrl": "https://www.slashgear.com/1314709/how-microsoft-azure-ai-studio-allow-companies-build-custom-copilots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/how-microsofts-azure-ai-studio-will-allow-companies-to-build-custom-copilots/l-intro-1686837585.jpg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hholove-o-sitter-review-best-companion-ai-robot-for-cats.md",
-      "title": "HHOLOVE O Sitter Review: Best companion AI robot for Cats",
-      "excerpt": "Well now let’s start the setup of the O Sitter ... As an intelligent companion AI robot, O Sitter can also play with your cat for you. There is a laser emitter on O Sitter’s head, so when the cat is bored lying next to the robot, we can activate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/maxresdefault-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

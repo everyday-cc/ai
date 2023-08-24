@@ -2,6 +2,101 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-07-27-five-ways-to-boost-cybersecurity-training-efforts-using-ai.md",
+      "title": "Five Ways To Boost Cybersecurity Training Efforts Using AI",
+      "excerpt": "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "publishedDateTime": "2023-07-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market.md",
+      "title": "How Traders Are Seeking Bullish Opportunities in a Hype-Clouded AI and Robotics Market",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 27, 2023 / Tech stocks are enjoying a strong rally driven partly by advances in artificial intelligence, robotics, and automation. But such a robust rally in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33420021",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33420021",
+      "publishedDateTime": "2023-07-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
       "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
       "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
@@ -1047,101 +1142,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
-      "title": "Waymo putting the brakes on its autonomous truck program",
-      "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "originalUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/07/Truck_1.64c1b72e48238.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CCJ",
-        "domain": "ccjdigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-researchers-use-slam-to-improve-object-recognition.md",
-      "title": "Researchers use SLAM to improve object recognition",
-      "excerpt": "Researchers from MIT’s department of mechanical engineering are working on improving object recognition for robots. The researchers have developed a monocular Simultaneous Localization And ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/object-recognition/researches-use-slam-to-improve-object-recognition/",
-      "originalUrl": "https://sdtimes.com/object-recognition/researches-use-slam-to-improve-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2015/07/0727.sdt-mit-slam.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

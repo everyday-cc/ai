@@ -41,17 +41,15 @@ related:
         width: 763
         height: 428
         isCached: true
-  - title: "HCLTech collaborates with AWS to accelerate GenAI adoption"
-    excerpt: "HCL Technologies (HCLTech) on Wednesday has collaborated with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally. As part of the collaboration, HCLTech intends to ..."
-    publishedDateTime: 2023-08-23T15:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
+  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
+    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
+      name: HCL Technologies
+      domain: hcltech.com
+    quality: 34
 
 secured: "uakbJR448zMUqVMaVr4R2kTLJ33MyfE8voPEjl689hFibk+n8Le0GhfDwruJ8F8bgkpEGWF+rlIzuafz0+9lDwya8dY/st5RP8F+JZVod60+Q3mB42/MAliz/9cPKhAAW43XyQ8asT5L/FCQ+/Ru0RIi4H0AdwT9Oswnv1ekYhNQonfpalrpdTikWtLOM9We/E7lmokDRhQdARs5qPl+0ZLGViq7Mt1EcEsokMeB6PYVAqo8+8FKowxR7GAnN1oGqnk7/6qrTIgT5Q9DUV+oy9cGuY1FsdMu/oWPDrvrHDWnrhCUQa2nLezNUejcEESHuq/zr/WpS2PDYL8CmcUm3hL4csuuuGumdrfc4lTDYjDUVxeCdVtkCAK2qvlnGi18N16ev/JV/rCWZDLCbtqvg/TV0pgpNZkdPPev44hBBQTB69Sv/yi2pmgqeQ/kGqQpVfh6rGZsAta/EdAa5P9RXtuMrSrzsoEkrApUQnazUFPSyWpwBmpw6Yk26tuj7HCiuHE+cw1EmVfYr0FyRTpttQ==;7pvkCfrrgvMA3Q/MK1F9Og=="
 ---

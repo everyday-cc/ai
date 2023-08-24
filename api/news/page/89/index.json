@@ -2,6 +2,102 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-06-27-microsofts-latest-small-language-model-outperforms-chatgpt-with-a-fraction-of-parameters.md",
+      "title": "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters",
+      "excerpt": "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-cell-and-gene-therapy-manufacturing-the-next-generation-of-startups.md",
+      "title": "Cell and gene therapy manufacturing: the next generation of startups",
+      "excerpt": "“Whether it was manufacturing our lentiviral vectors or cell therapy products, it took tremendous amounts ... like virtual reality, robotics and artificial intelligence, to improve training programs, patient engagement, staff burnout and clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/cell-gene-therapy-manufacturing-cdmo-biotech-startups/653506/",
+      "originalUrl": "https://www.healthcaredive.com/news/cell-gene-therapy-manufacturing-cdmo-biotech-startups/653506/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/WLzh655f5LsrOAbdKidKYblUX5x5jkLEbbN-omTA7og/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0xhbmRtYXJrX0Jpb185XzIyXzI0ODYzLmpwZw.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
       "title": "Here’s how robotics in healthcare settings could reduce wait times",
       "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
@@ -1074,109 +1170,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-the-six-strategic-uses-cases-for-aiops.md",
-      "title": "The six strategic uses cases for AIOps",
-      "excerpt": "Six strategic use cases for AIOps and practical next steps to guide your AIOps journey.\nThe post The six strategic uses cases for AIOps appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
-      "originalUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/amv-textilebusinessa141011.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T09:33:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000.md",
-      "title": "SoundHound AI Shares Rise 11% After Inclusion to Russell 3000",
-      "excerpt": "By Chris Wack SoundHound AI shares were up 11%, to $4.06, after the company said it was selected to be included in the Russell 2000 and broad-market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
-      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
-      "publishedDateTime": "2023-06-26T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "India to expand digital payments with AI-powered voice transactions"
-    excerpt: "Dilip Asbe, head of the National Payments Corporation of India, the state-backed entity which manages UPI, said the measures — which will be introduced in the coming months — will facilitate digital payments outside India’s largest cities, where growth has been concentrated."
-    publishedDateTime: 2023-08-20T02:00:00Z
-    webUrl: "https://www.ft.com/content/a9a11275-a0f5-4f40-99e2-4c532afd77d4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
   - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
     excerpt: "Rajeev Rastogi, Vice President, International Machine Learning, Amazon, says, \"Amazon ML Summer School is designed to build a strong foundation in key ML technologies over and above academics and is a step towards assisting students to chart out careers in ML."
     publishedDateTime: 2023-08-24T07:16:00Z

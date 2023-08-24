@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T19:36:00Z
 originalUrl: "https://www.law.com/2023/08/24/we-should-start-to-get-worried-experts-see-voice-cloning-as-pathway-to-fraud/"
 webUrl: "https://www.law.com/2023/08/24/we-should-start-to-get-worried-experts-see-voice-cloning-as-pathway-to-fraud/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Law

@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-23-ai-sensors-in-the-forest-can-smell-a-wildfire-before-it-spreads.md",
+      "title": "AI sensors in the forest can smell a wildfire before it spreads",
+      "excerpt": "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
+      "originalUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-ai-software-roped-in-to-translate-mbbs-textbooks.md",
+      "title": "AI software roped in to translate MBBS textbooks",
+      "excerpt": "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
+      "publishedDateTime": "2023-08-22T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
       "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
       "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
@@ -362,7 +456,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -561,7 +655,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-decentralized-training-data-using-federated-learning-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -922,7 +1016,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -974,7 +1068,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -1162,100 +1256,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-about-21-million-jobs-held-by-women-and-9-million-jobs-held-by-men-could-be-replaced-by-ai-ilo.md",
-      "title": "About 21 million jobs held by women and 9 million jobs held by men could be replaced by AI: ILO",
-      "excerpt": "A new study by the ILO published on Monday finds admin workers and women face a greater risk of their jobs being replaced by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
-      "publishedDateTime": "2023-08-21T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud.md",
-      "title": "Sends Team visited the Fintech and AI event hosted by the Google Cloud",
-      "excerpt": "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33975069",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069",
-      "publishedDateTime": "2023-08-21T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

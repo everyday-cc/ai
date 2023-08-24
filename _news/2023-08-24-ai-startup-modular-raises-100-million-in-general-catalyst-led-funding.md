@@ -80,6 +80,29 @@ related:
         width: 1199
         height: 1262
         isCached: true
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T19:45:00Z
+    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Modular nabs $100M for its AI programming language and inference engine"
+    excerpt: "Developers usually write AI models in the Python programming language. It has a relatively simple, concise syntax that allows a neural network to be implemented with less effort than in other languages. But that simplicity comes at the cost of performance: Programs written in Python can be slow."
+    publishedDateTime: 2023-08-24T21:21:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/modular-nabs-100m-ai-programming-language-inference-engine/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/code.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "UK to invest £100m into chip production for AI tools"
     excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
     publishedDateTime: 2023-08-21T13:02:00Z

@@ -86,6 +86,29 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T19:45:00Z
+    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Modular nabs $100M for its AI programming language and inference engine"
+    excerpt: "Developers usually write AI models in the Python programming language. It has a relatively simple, concise syntax that allows a neural network to be implemented with less effort than in other languages. But that simplicity comes at the cost of performance: Programs written in Python can be slow."
+    publishedDateTime: 2023-08-24T21:21:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/modular-nabs-100m-ai-programming-language-inference-engine/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/code.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "7opc6bSI5SVVvmbko8pv6AK6YuP6bTDOC15YavH7Hs+zTnzq1OEAZMbEg6Ak4QO1OPKyAlnhvuw+Yinp7fvVH0P0Ak5c2bSLihUf0BlrA2DP2dl8U5Y16OXc6cdE6XGxVfLKn5V3mKWGWPrFaWvsRF6BV+mBQwrLoDCw1NP7mM4nRzo8d8dmDDcm3dYvWNITt7/ObiIJoI+cICxDQwCdhWx8vJyxm8TCa909hez6Cxx7DUEKIYzr2VDPvRoQWCEXAa7Ap/W61S6Co/A913uvUqNmEWdZFbmYO7J9HKbke7DXNpzN40sRbXjTqvd1FFhTAK++l8ZrScrG1G8POmpaBBk5mUFPPGrkrIaITZ8z5Sz8zEkgzjwS0Ssek64rCZv5RrMKaQLWS8khD0Pr5YGM6jVhh9+y5ekO3wqTlLYac9RhJZRExsWStlIJts5qv+2n1T2adrdAyBKUD/89EyRpSMLW9pfIZZXQskUYWQ1RDqi9/qy0QwxORa+OoVA/zwJ5z7M67DQVtOH0HT3E0CHpKg==;AVJDl7eFYc3Iy+NgyfFeLA=="
 ---

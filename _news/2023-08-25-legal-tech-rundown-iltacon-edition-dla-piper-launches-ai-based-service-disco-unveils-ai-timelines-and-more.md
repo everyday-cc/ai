@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T18:53:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/08/24/legal-tech-rundown-iltacon-edition-dla-piper-launches-ai-based-service-disco-unveils-ai-timelines-and-more/"
 webUrl: "https://www.law.com/legaltechnews/2023/08/24/legal-tech-rundown-iltacon-edition-dla-piper-launches-ai-based-service-disco-unveils-ai-timelines-and-more/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Law

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "IBM taps AI to translate COBOL code to Java"
+    excerpt: "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java."
+    publishedDateTime: 2023-08-23T20:15:00Z
+    webUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/"
+    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888"
+        width: 1200
+        height: 888
+        isCached: true
   - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
     excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
     publishedDateTime: 2023-08-22T04:01:00Z

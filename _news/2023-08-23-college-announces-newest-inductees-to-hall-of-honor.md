@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-23T00:00:00Z
 originalUrl: "https://cns.utexas.edu/news/announcements/college-announces-newest-inductees-hall-honor"
 webUrl: "https://cns.utexas.edu/news/announcements/college-announces-newest-inductees-hall-honor"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Journalism in the Americas

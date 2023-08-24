@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-07-artificial-intelligence-chatbots-market-regional-forecast-to-2030.md",
+      "title": "Artificial Intelligence Chatbots Market | Regional Forecast to 2030",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Chatbots Market\" is segmented by Regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-ltx-corporate-bond-trading-moves-to-aws-for-better-ai.md",
       "title": "LTX Corporate Bond Trading Moves To AWS For Better AI",
       "excerpt": "LTX has migrated its electronic trading platform for corporate bonds to Amazon Web Services (AWS). The company, a subsidiary of Broadridge Financial Solutions, Inc., said it will use AWS to better optimize its data science processes.",

@@ -37,6 +37,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Samsung invests in AI video generation startup Irreverent Labs"
+    excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
+    publishedDateTime: 2023-08-24T17:48:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/samsung-invests-ai-video-generation-startup-irreverent-labs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "qbZn79ZorBG6Wvq+ONi44F80OGmbqfPOszsBHWh07q76f8JBSDMiFWLieRK+I24UsSMbzfTI+kYsn0cS7k0Uo484JwknZby/+LKO+LmKLFnPkGvbvFdJynF4YZf1PbxoEJsa4d+9agHExuhezJ8kzZ0iLFEUHEv2SSQgkf9dAqZrx2//VjmMD9cU/awjm2rjQMzQmOwhD2TIQh/VPCn8/LafGyJawzAoiXvhXQq91t9k9/QYjkwfaJglylmDliXAZrxuDmLP0TaASs6oeEMXIBR+1INbkuymdAhhQvi9UgvKnPcrYl/yl+9kCJei6tMut02aYsJRFN+7dwtYyQD8seuXuQBXs11gIY5YHZu68CI=;I1RkWzi0G9BTGvMLRUi3dg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-23T20:36:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
 webUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
@@ -13,6 +16,47 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "No AI Can Learn the Art of Medicine"
+    excerpt: "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research."
+    publishedDateTime: 2023-08-23T10:00:00Z
+    webUrl: "https://time.com/6306922/artificial-intelligence-medicine-doctors/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
+        width: 2945
+        height: 1018
+        isCached: true
+  - title: "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector"
+    excerpt: "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning."
+    publishedDateTime: 2023-08-21T10:29:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 60
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg"
+        width: 1654
+        height: 900
+        isCached: true
+  - title: "Artificial Learning: Navigating the surge of artificial intelligence in higher education"
+    excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
+    publishedDateTime: 2023-08-23T04:56:00Z
+    webUrl: "https://dailyiowan.com/2023/08/22/artificial-learning-navigating-the-age-of-ai-in-higher-education/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 27
 
 secured: "wgViYkrzjzg+CQy7bRAn0bCZIhIGiYOYYhQBvEMI73JzbyC6Tv8+ZniGp0gd0nf4e96c7BVJu0hXPsG36ME2+R9BWo9GOz3wX/l6/KKHWSvNc1a/UcC8AncHvFd62E5rxcBAPkZcv8l3pxvJ3gRtosolcIpRRd5z2vallZxTrzTtqL8oY+Qere0/m2OEDmwxhkTpziTbw12tf4fOBSeQvbSkfM1ofgGDjWW5QLdnC2EyfemgnTCZDnHQG/AFixFplwoqmzNurCTBCF3kwmDzhpEx3IhgvXG3RULQiHgVoiL35qBvxdnF4DTnJfScQq7Yryfy4YcCqBFeO0wo5zHC2NSy44vpcG70AKRZm64OVEIqNhTLkAGCu1dDdlGDxXhwVStSw3qkfzQW/vHb2ymqXsOn8K+3Jw8amXFKiL0gkpH6ViYU+7WREDlpM+nDhAi7wAmeMbWI+srSOldeZvh94K6u5J1/sI3igTpgcY5DmW0LpcmFaq0ZSyTtVGjglSNeW39rJu64b7imo8HHnk83Jw==;MoKpdOPUoyCNoWTVO2+OWg=="
 ---

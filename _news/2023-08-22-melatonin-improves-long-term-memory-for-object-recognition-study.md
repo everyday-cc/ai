@@ -35,22 +35,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-    excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
-    publishedDateTime: 2023-08-21T18:43:00Z
-    webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-    ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 52
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Melatonin improves long-term memory for object recognition: Study"
     excerpt: "Multiple studies in animal models have shown that melatonin and its derivatives improve memory. It is also known that the phosphorylation of certain memory-related proteins is required for the formation of both short- and long-term memories."
     publishedDateTime: 2023-08-21T12:53:00Z
@@ -60,6 +44,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 19
+  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
+    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
+    publishedDateTime: 2023-08-22T02:10:00Z
+    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 12
 
 secured: "sLgyXEEQ/wM6T50jPaLJtz5pf39+x2MjJDIkPyW0ZsbCM8RrKym49dXIqtkCEOds0YeRSGbFMIdnKjdQ1JvsHvBA99hcaPVAjrRDHWkpWMGnapmpReF/fRFI5y8IKDy5/day/RYm+OPI9W8QWIwkhkx+7UdGY4TeslSRVSFC/Vm37sG/D/Q0YYSf9oNxTZfjCDCKrV7etrZ0zcmLWker7+VdLRnwU1wsHH+9viWFPs3SKJUXTZy64KsodAMETgyV9ppskEbWkpGGj6CS3S6/MYDWB5LJORontaObHdhb8yo9h7dvqHAw+jZPd0pB8KqZuIZAhaqoXsCLQijSL2tHIkI9+/N3CLKcyRTBHbZizgU=;bhFG0/IdQFZc0RxrcUbFUw=="
 ---

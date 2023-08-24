@@ -57,6 +57,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Global Speech and Voice Recognition Research Report 2023-2030: Beyond Words - AI and ML Shape the Evolution of the Burgeoning Market"
+    excerpt: "DUBLIN, Aug. 24, 2023 /PRNewswire/ -- The \"Speech and Voice Recognition Market by Function, Technology, Deployment Mode, End User, and Geography - Global Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2023-08-24T18:03:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/24/9870050.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "KMp60vuJ4AoA24mGNyfFu8cxat7KOKCXaNOzz+N2TzBJkzzev13I5weG87SucMradcMxfhuttR85YLUX+NTqoQZ+pCskDQwcCPDH3vF29yJ3ZtkJ8ZOxuq7Kb5hCmPh57JHu4LYzKUWG+F7xEEMQYg/RxRhPxROlxLvYhU+xjqI7ncsrR5pcdl8zugzYwwYjwbgZMB/r9vnFkBcLsdLisa8VSgqyqS9LDG7CCFDPAvL2FInXIhDhp6YbnQdObXPddH1uOIvl83tT5d5Pfnob9HKc68jzQvBBSQ3fTjKLJ2/2vTDr0sChSnbJvDZ6hj21iHEe2MUOnPHISLrQ1gFgEmcUVa3SBD3fWXAQ8/1eKxk=;G2NtAdqYdsc0GONfvzwAhQ=="
 ---

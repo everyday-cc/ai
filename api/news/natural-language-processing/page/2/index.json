@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-11-global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030.md",
+      "title": "Global Speech Recognition Software Market Research Report for Upcoming Years [2023-2030]",
+      "excerpt": "Global Speech Recognition Software Market Outlook [2023] -Global Speech Recognition Software Market (2023-2030) research report features an extensive Analysis of the current market landscape and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33722241",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33722241",
+      "publishedDateTime": "2023-08-11T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-why-humans-cant-use-natural-language-processing-to-speak-with-the-animals.md",
       "title": "Why humans can't use natural language processing to speak with the animals",
       "excerpt": "We’ve already got machine-learning systems and natural language processors that can translate human speech into any number of existing languages, and adapting that process to convert animal ...",
@@ -1364,59 +1407,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-intel-ceo-get-ready-for-the-ai-pc.md",
-      "title": "Intel CEO: Get Ready for the 'AI PC'",
-      "excerpt": "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ...",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
-      "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

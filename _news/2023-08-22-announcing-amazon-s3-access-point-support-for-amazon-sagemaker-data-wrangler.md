@@ -61,6 +61,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 81
+  - title: "Announcing the Preview of Amazon SageMaker Profiler: Track and visualize detailed hardware performance data for your model training workloads"
+    excerpt: "Today, we’re pleased to announce the preview of Amazon SageMaker Profiler, a capability of Amazon SageMaker that provides a detailed view into the AWS compute resources provisioned during training deep learning models on SageMaker. With SageMaker Profiler, you can track all activities on CPUs and GPUs,"
+    publishedDateTime: 2023-08-24T21:34:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-preview-of-amazon-sagemaker-profiler-track-and-visualize-detailed-hardware-performance-data-for-your-model-training-workloads/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/24/featured-images-ml-15127-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "vEz1ZiYt50kX5RHYtHODPqXXSDcEeGYKYBx5oLMG14zuTYJm8uku7NIvPR+bweWtMkmTjR5pmNHiYQQYtEDpP2sHk4Atv+2JUb54XHQGqJOtfKPDbawkwgBpXtXjdPjvmv5bxbmUFMCVtUxjQ7K3RsnHkMr9SzPeF+07hc8bbL2RxbDAXKP80UYkyePsIoGIlkfdcRNR+E5ig9U0rnvb+G+RlbTiokXop6u5KHL2BKqPdF1mD+V3GsTRoTKKC52a3nk/1O2LlXrH2TeekNx/MKpn7IDMFtsQNqvwX7acqMJM00MDVZDMCR0yq2ZQ8tWtxuWMpjcTaZ3hD1AByWm+2L860HBp7z/1bQb+1zmBy2Q=;8PWpJp+9gWctGRHncyKm9g=="
 ---

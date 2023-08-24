@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited
 webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       name: Virtualization Review
       domain: virtualizationreview.com
     quality: 33
+  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
+    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
+    publishedDateTime: 2023-08-24T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 26
 
 secured: "NLwyU1OeEQhCfBwc0Z0BOGqrPt8Wwcu1tSvFCxxGgp1L+oTfdy2bK4TafqyY+p+GZQQtBJLpJjgtQ/5VupEuYRyFcKiTJkZeAlBIUpiOE3288oIMpM0zAN5+WYZwfWAis6G940LUGd8maqqXMmaoI4XWME+hxK8lS7dq9B52iP6YzWNA2rphzIcsry4YJ4CBdpIMjv9bqpwnZxLG5BVJxGNMW8v0VJxhtVnezovvXTT6Xy7gY/yPVnaifUoGw9flvC+gcKBAj7jGAZN7hWaYqAEpCgWT7Vhpf855eDGfiwfq3/YbPC9eCm29KPQKfhriRwLmfvGj1q3ZfM/Pd6qVbofeJFHnHDfOKHFefsDbKFM=;vYTpdGUEUlQHku8V2HouSQ=="
 ---

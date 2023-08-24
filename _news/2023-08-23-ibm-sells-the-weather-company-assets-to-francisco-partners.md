@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-asse
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 4
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 0
 
 secured: "CqlGEeEvuiZZYroKXL4FEVVv3xPKhrItlMYXzKGBTl47NpE6Zfnx/f9kGyK2fgHgMJq6Q/J3nknSsfi23AtGT5qnmzxub1TSKJyVI8Jp4Bk8HquLAAHBrykHQZuPuUjbVMnjsf3yKQLoj2MYOm8MDmcqA6uLK+V0UAIKDCok/gDx6XkIeSGxNdtJjpUF9iDQipTmb5OaYV9V7wc2+fimHfqvN2xmk8DRyIVlMDMIq1rgzpNdO61zFW4/onC0zrNY5HyyI5RdP//3cMrvHG9ru6EfIgkRZdUr8mrFLc8Va50e8TYDh8GoG3pnFjIetUZIRfZJvEB7l+xgBx0EJ9YgezzD23cFWOAw3bJs9t+OzBiUfbOT4HvD+dqxWDBouPV2yKzKWIg9LXZf8KCSWWac4ciM6AaV+yKBrLrztTvhFE0Pp2qM/CU0Y/UlA41nRI/x1fkI4Dp44OiTDZqLS0RRtiVWWNH+M7R6Gmq4v6MNDDy6Idwd8z2jE0XpQpvB/ZAIMRHPHycA77jwEiSUJEK3MQ==;5GbBz09E4vWBNvApDe6n0Q=="
 ---

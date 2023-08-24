@@ -2,6 +2,99 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-18-spreading-lies-the-government-should-regulate-ai-powered-political-campaign-ads-uc-berkeley-professor.md",
+      "title": "'Spreading lies': The government should regulate AI-powered political campaign ads: UC Berkeley professor",
+      "excerpt": "Presidential campaign ads using AI-generated content must be regulated to protect the 2024 elections from a \"real threat,\" deepfake analyst warns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/spreading-lies-government-regulate-ai-powered-political-campaign-ads-uc-berkeley-professor",
+      "originalUrl": "https://www.foxnews.com/politics/spreading-lies-government-regulate-ai-powered-political-campaign-ads-uc-berkeley-professor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad16cc96-358e-4e5c-bf2e-818f93e5954b/e7287ea7-aa02-493f-9032-acf73a5641d8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/spreading-lies-government-regulate-ai-powered-political-campaign-ads-uc-berkeley-professor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spreading-lies-government-regulate-ai-powered-political-campaign-ads-uc-berkeley-professor.amp",
+      "publishedDateTime": "2023-08-17T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-top-ex-google-brain-researchers-start-ai-research-company-in-tokyo.md",
+      "title": "Top ex-Google Brain researchers start AI research company in Tokyo",
+      "excerpt": "Two prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday they had started a new AI company based in Tokyo. Sakana AI, founded by David Ha and Llion Jones, declined to disclose funding details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/z3ma6z/article67208376.ece/alternates/FREE_1200/2023-08-15T020120Z_115942364_RC21P1A29WK3_RTRMADP_3_NORWAY-SWF-TECH-AI.JPG",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece/amp/",
+      "publishedDateTime": "2023-08-17T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai.md",
       "title": "Sparse Models, The Math, And A New Theory For Ground-Breaking AI",
       "excerpt": "We have sort of an intuitive understanding of a big need in artificial intelligence and machine learning, which has to do with making sure that systems converge well,",
@@ -1129,111 +1222,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift.md",
-      "title": "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift",
-      "excerpt": "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png",
-          "width": 1216,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T08:31:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-new-1b-fintech-fund-aims-to-plug-uks-2b-funding-gap.md",
-      "title": "New £1B fintech fund aims to plug UK’s £2B funding gap",
-      "excerpt": "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
-      "originalUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

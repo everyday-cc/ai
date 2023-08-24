@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T18:59:00Z
 originalUrl: "https://www.cnbc.com/2023/08/24/nvidia-earnings-scare-away-amd-intel-investors-as-ai-battle-shapes-up.html"
 webUrl: "https://www.cnbc.com/2023/08/24/nvidia-earnings-scare-away-amd-intel-investors-as-ai-battle-shapes-up.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: CNBC

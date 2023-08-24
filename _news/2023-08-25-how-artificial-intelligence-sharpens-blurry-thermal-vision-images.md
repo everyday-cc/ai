@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T18:00:00Z
 originalUrl: "https://www.sciencenews.org/article/ai-thermal-night-vision"
 webUrl: "https://www.sciencenews.org/article/ai-thermal-night-vision"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Science News

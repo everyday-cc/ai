@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 secured: "8jB5wVap/PwuxoN6YgwQx0WCo3cIVRRTbpX59Sx3f8XdRPU5qH/cDWrUdgput8YvTGr3Nwpp7QvEHNYwKFwxasjM8wIqZaFhBPv9BJsP+uc6fkEmc/6Bq1tS+TvMuJastEfc9Yl7t4lbxuI4l+985rpetYi3epRhc4jomQNODEFU5NnAw9iCRpFdC/9AiNL5DPTGgm9jABj2rxDiahoEu+aTfodV3S2QBGcHd8A1eOXXEsRuMYEEl9ofk38p5CM4ecqVDcpVUDtcPngIbZ/a9cR8rFWr6A5fpcgVKaulwE8/q7Ob8Ubz2i3qiyaSZBx+hF/yhAEenNtAe4ExBDy54KS0y/UH+9dorH1illWeJgg=;zfbc+eYhzkOFuCelaXz1Iw=="
 ---

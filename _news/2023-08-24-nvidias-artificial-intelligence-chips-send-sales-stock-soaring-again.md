@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia thinks AI boom is far from over as GPU sales drive big earnings win"
+    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 79
   - title: "Nvidia’s Earnings Aren’t the Focus. Future AI Chip Supply Is Everything."
     excerpt: "The critical question for investors is whether or not the company can show progress in alleviating its supply constraints over the longer term."
     publishedDateTime: 2023-08-23T15:48:00Z
@@ -107,17 +116,17 @@ related:
         isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-24T03:29:00Z
-    webUrl: "https://www.dcourier.com/news/2023/aug/23/nvidia-surges-after-earnings-crush-ai-chip-sales-s/"
+    publishedDateTime: 2023-08-23T20:29:00Z
+    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
     type: article
     provider:
-      name: The Daily Courier
-      domain: dcourier.com
+      name: Longview News-Journal
+      domain: news-journal.com
     quality: 71
     images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/08/23/nvidia1_NA6becB.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
         width: 620
-        height: 349
+        height: 326
         isCached: true
   - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
     excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
@@ -142,6 +151,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 69
+  - title: "Nvidia is flying high thanks to AI"
+    excerpt: "Nvidia is benefiting from being a company in the right place at the right time, where its GPU chips are in high demand to run large language models and other AI-fueled workloads. That in turn is driving Nvidia’s astonishing growth this quarter."
+    publishedDateTime: 2023-08-24T21:07:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
     publishedDateTime: 2023-08-21T20:40:00Z
@@ -655,6 +678,15 @@ related:
       name: GamesRadar+
       domain: gamesradar.com
     quality: 17
+  - title: "Nvidia shares touch all-time high on back of AI boom"
+    excerpt: "Soaring demand for Nvidia’s GPUs, which dominate the market for training AI models, has made it the biggest winner from this year’s boom in the industry. Supply rather than demand has become the main constraint on the company’s growth in the short term."
+    publishedDateTime: 2023-08-24T15:31:00Z
+    webUrl: "https://www.ft.com/content/4197702a-9749-4eca-912b-07cc4880c336?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Nvidia’s AI boom exceeds Wall Street’s lofty hopes"
     excerpt: "The jump in sales lifted Nvidia’s after-tax profits to nearly $6.2bn, up from just over $2bn the year before. Pro forma earnings per share rose to $2.70, compared with Wall Street expectations of $2.02."
     publishedDateTime: 2023-08-23T21:16:00Z
@@ -673,6 +705,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 15
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
     publishedDateTime: 2023-08-22T18:58:00Z

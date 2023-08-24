@@ -102,6 +102,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
+    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
+    publishedDateTime: 2023-08-24T18:54:00Z
+    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
+    type: article
+    provider:
+      name: Axios Charlotte
+      domain: axios.com
+    quality: 0
 
 secured: "b/LLJVr5u0jmBVI+NykKWPXZi0saZxl7dKaJE08NjBs7nF6D9LMnt896YadByF4T1yFnp8UJxDac1OERp/zv2kr31IRQBX1L1QYoKeu0WZRZAYds420PfZDeVeEz6h0Jbw6Ruy+F6Vnpfxms85+AZD3hyvK1vUAQiYXz4DFU6cIEsVx2iSz0IiMmFDjgDJq4CONJoRJ9J1Ztmg2qhOoh/dG1sXDo5Z/Tl6jML93yBFfl967Mi9tT9ioKTY8597rfTr9i60h7cszpIQW26IPHlknF6twgEkdoVZuj2mVR7OWTZ9gN25J5TfTgWv6afqzd8fFiJ5byFuDy91bXeCbr0u2fvO187O9tZYKRr4eVLI3hwynnuFIoouXQp2OfpFHEqktX/BpNEvwp5VIzOy3dx7TwVKT9oiKnTWAIUTYUfTqrpgZrE4daBbzt4kjvA+y38rzjjQim0xZP6acXpc8MObJT+6Xyr4Tv2IvMi7Q34P61z5+wiAT/W/9VSdJfUGCmrE5UNuahSS3NHFsN/swbdg==;rYyHPxXNyraFuaxqz3lAAQ=="
 ---

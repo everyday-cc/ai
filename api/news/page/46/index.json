@@ -2,6 +2,91 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-07-24-master-of-science-in-computer-science.md",
+      "title": "Master of Science in Computer Science",
+      "excerpt": "The department focuses on the wide spectrum of artificial intelligence capabilities, including automated reasoning, computer vision, machine learning, virtual reality, robotics, human-robot interaction and the social implications of AI. Other areas of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clarkson.edu/academics/majors-minors/computer-science-ms",
+      "originalUrl": "https://www.clarkson.edu/academics/majors-minors/computer-science-ms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clarkson University",
+        "domain": "clarkson.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
+      "title": "How AI will impact the developer experience",
+      "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "publishedDateTime": "2023-07-24T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity.md",
       "title": "Utopia Or Dystopia? It’s Up To Us To Teach AI To Reflect The Best Of Humanity",
       "excerpt": "Sairah Ashman explores what can brands do now to help mould a more utopian relationship with technology in the future.",
@@ -1079,109 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead.md",
-      "title": "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead",
-      "excerpt": "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
-      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg",
-          "width": 3414,
-          "height": 2266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
-      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
-      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "publishedDateTime": "2023-07-22T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

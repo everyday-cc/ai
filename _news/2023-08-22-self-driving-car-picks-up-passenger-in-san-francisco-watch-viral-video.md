@@ -105,6 +105,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 4
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 0
 
 secured: "8eV/k+CLdyWfMMES7X0mC8iZ+8Sxf6nmnS6r4EpoLg00BKMoh3hC+Xoq5LR+iazgoENSHeFXB+89NCSquNoXK/amzFovNdPdBbFbOOrON4e2rwNVKDyUYeYxlRYm70aYWbHi1bbq22H1yTaZnjVchWzJPoK1+u48ds2857zOm9bju2ZelRsXCkAnpbOS3glsrJUE3A3SzTOjQ6kCmchgYHQKuHW2Wdt5NRd2eUPZ2tqJCxyVZGiN+f9oEs/1wsgAUZEp/0Lz3w8jqCbW16bRqjn5a7s0PQ9tKAyizkN8G2Tk87DJjXqoSaSQDOv5y6+V/UbaH/34FMTsaM07L3kEGJHDguu/RFYWmdJ7wWogpHc=;yio8gv6xy4PW04dcJuUbiw=="
 ---

@@ -2,6 +2,101 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2023-05-31-hsbc-and-quantinuum-explore-quantum-computing-in-financial-services.md",
+      "title": "HSBC and Quantinuum Explore Quantum Computing in Financial Services",
+      "excerpt": "Quantum computing company Quantinuum and London-headquartered bank and financial services group HSBC have announced exploratory projects looking at potential benefits of quantum computing for banking with specific projects in cybersecurity,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/05/hsbc-and-quantinuum-explore-quantum-computing-in-financial-services/",
+      "originalUrl": "https://insidehpc.com/2023/05/hsbc-and-quantinuum-explore-quantum-computing-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2023/05/HSBC-logo-0523.png",
+          "width": 507,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-the-ai-chip-market-landscape-choose-your-battles-carefully.md",
+      "title": "The AI chip market landscape: Choose your battles carefully",
+      "excerpt": "Right now, the world is fixated on Nvidia's dominant position in the market, but it's important to delve into this a bit further. Nvidia is clearly",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
+      "originalUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-30-image-21.jpg",
+          "width": 4000,
+          "height": 3418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-websphere-application-server-support.md",
       "title": "WebSphere Application Server support",
       "excerpt": "An update on WebSphere Application. Server Support.\nThe post WebSphere Application Server support appeared first on IBM Blog.\n",
@@ -1067,111 +1162,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
-      "title": "Five Next-Level Marketing Uses For AI",
-      "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6470eb7f789ac5b53803a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
-      "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
-      "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

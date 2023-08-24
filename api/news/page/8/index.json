@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-17-build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift.md",
+      "title": "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift",
+      "excerpt": "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png",
+          "width": 1216,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T08:31:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-new-1b-fintech-fund-aims-to-plug-uks-2b-funding-gap.md",
+      "title": "New £1B fintech fund aims to plug UK’s £2B funding gap",
+      "excerpt": "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "originalUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-otterai-partners-with-slack-to-share-meeting-insights-with-your-team.md",
       "title": "Otter.ai partners with Slack to share meeting insights with your team",
       "excerpt": "Now, it's coming to Slack in a partnership that will \"use AI to bridge the work communications gap\", according to Otter.ai. Professionals will be able to use Otter's transcription tools before, during, and after meetings for AI-generated insights that will then be shared with appropriate team members via Slack.",
@@ -1065,102 +1170,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-researchers-use-artificial-intelligence-to-help-diagnose-autism-study-says.md",
-      "title": "Researchers use artificial intelligence to help diagnose autism, study says",
-      "excerpt": "Researchers are proposing using artificial intelligence technology to help diagnose autism spectrum disorder. In a recent article published in Scientific Reports, researchers from Brazil ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study",
-      "originalUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Musto-Headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp",
-      "publishedDateTime": "2023-08-16T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-pick-up-new-coding-skills-with-74-off-this-premium-coding-training.md",
-      "title": "Pick up new coding skills with 74% off this premium coding training",
-      "excerpt": "App development is explored with training on Golang and Android machine learning using TensorFlow Lite. Coding is only going to become more important as both a specialized and general skill. This 14-course bundle gives you top instruction from experienced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/01/26/coder-header.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/amp/",
-      "publishedDateTime": "2023-08-16T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

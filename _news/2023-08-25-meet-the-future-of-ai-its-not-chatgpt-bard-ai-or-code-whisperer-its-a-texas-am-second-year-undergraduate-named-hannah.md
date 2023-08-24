@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T19:10:00Z
 originalUrl: "https://www.forbes.com/sites/michaelgale/2023/08/24/meet-the-future-of-ai-its-not-chatgpt-bard-ai-or-code-whisperer--its-a-texas-am-second-year-undergraduate-named-hannah/"
 webUrl: "https://www.forbes.com/sites/michaelgale/2023/08/24/meet-the-future-of-ai-its-not-chatgpt-bard-ai-or-code-whisperer--its-a-texas-am-second-year-undergraduate-named-hannah/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Forbes

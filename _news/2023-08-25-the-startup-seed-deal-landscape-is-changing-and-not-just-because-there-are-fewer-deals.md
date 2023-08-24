@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T19:14:00Z
 originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/inno-insights/2023/08/24/startup-seed-deals-venture-capital.html"
 webUrl: "https://www.bizjournals.com/atlanta/inno/stories/inno-insights/2023/08/24/startup-seed-deals-venture-capital.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

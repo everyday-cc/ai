@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-24T19:18:00Z
 originalUrl: "https://thedailyrecord.com/2023/08/24/new-app-uses-computer-vision-to-id-golf-balls/"
 webUrl: "https://thedailyrecord.com/2023/08/24/new-app-uses-computer-vision-to-id-golf-balls/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Daily Record (Maryland)

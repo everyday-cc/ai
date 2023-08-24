@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-responsible-ai-transparency-what-to-disclose-about-your-ai-systems.md",
+      "title": "Responsible AI Transparency: What To Disclose About Your AI Systems",
+      "excerpt": "However, in the competitive landscape of the ongoing AI race, companies often hesitate to disclose extensive information to protect trade secrets and avoid legal repercussions. As such, striking a balance between transparency and safeguarding trade secrets poses a significant challenge for AI companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/",
+      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7bacbba84c9a5903b0612/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/",
+      "publishedDateTime": "2023-08-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-evers-creates-state-task-force-on-workforce-and-artificial-intelligence.md",
       "title": "Evers creates state task force on workforce and artificial intelligence",
       "excerpt": "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market.",
@@ -52,7 +104,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -284,7 +336,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -946,6 +998,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-24-aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace.md",
+      "title": "AWS Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace",
+      "excerpt": "Verofax, an award-winning Brand & Retail Martech service provider, achieved Full Technical Review (FTR) approval on Amazon Web Services (AWS) marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34017188",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188",
+      "publishedDateTime": "2023-08-23T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-artificial-intelligence-chip-giant-nvidia-sees-sales-more-than-double.md",
       "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
       "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
@@ -954,7 +1049,7 @@
       "originalUrl": "https://www.bbc.com/news/business-66601716",
       "featuredContent": null,
       "highlight": null,
-      "heat": 651,
+      "heat": 691,
       "tags": null,
       "images": [
         {
@@ -1090,101 +1185,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales.md",
-      "title": "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales",
-      "excerpt": "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/",
-      "originalUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e417d475ec314ca09be102/0x0.jpg?format=jpg&crop=3855,2170,x0,y191,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/",
-      "publishedDateTime": "2023-08-23T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-breakthrough-ai-implants-let-paralyzed-woman-talk-for-first-time-in-years.md",
-      "title": "Breakthrough AI implants let paralyzed woman ‘talk’ for first time in years",
-      "excerpt": "A digital avatar is able to speak what she is thinking, using a copy of her voice recorded during a toast she gave at her own wedding.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026650278.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "publishedDateTime": "2023-08-23T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

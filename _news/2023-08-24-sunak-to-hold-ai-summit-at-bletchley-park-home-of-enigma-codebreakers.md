@@ -31,6 +31,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 41
+  - title: "UK government to hold world’s first summit on artificial intelligence safety in November"
+    excerpt: "The UK government has announced the UK AI Safety Summit will be held at Bletchley Park in November, where international governments, leading AI companies and experts in research will unite for crucial talks,"
+    publishedDateTime: 2023-08-24T18:17:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2570147-uk-government-to-hold-worlds-first-summit-on-artificial-intelligence-safety-in-november"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 10
 
 secured: "Gb4PJo7dnTn72KT0331hJ8bpRSgJQ0UP2ogIYN5Wh1iLOnI8af6j0muduqnUr2uMXxQ4EOscdJRSwZDK7hTAXzgy6lhwg7ILgyoHMBGCIuR0HSFiqnQ4Dp4c0XAVbyuVtwxKZ3jgM66/OMC/z59C1hUenFvSjVzGPwK7u83GmXRYHIi5EGg2N3KyKD9styIyKeR1Rne6jmSNxkrUVIYZ3xrfa8/YHo/Em1q91PtZXYbTSBHZAiqEqaqlDSrfza/cbnQdVG3Tg8zrjmclUQCdye/HX1tEW86yCdnfma8SP5yICCNh5nAldHvPv4ruCVDdRAiHh3SjIDPdPi+VXt8uctTYSnkkPaWyM4GOOfNKLONdvycVGoQ1ZI8et8lf++2SZIlqfRJue/LtCkI5eTwc1L+WHpW6aTF8bVI72ciuzwS0+7xFpPKWYkce8zlXXygVornJj3w9vg8iouRiwjebMejs4NiQGfVvtWMhqYiRqJvAWHZF54hdOVSLWSIxUDZNxZoyQoi03jOfpKsTszG1Jw==;khOggK+ypA+1bzQ4Ac64xQ=="
 ---

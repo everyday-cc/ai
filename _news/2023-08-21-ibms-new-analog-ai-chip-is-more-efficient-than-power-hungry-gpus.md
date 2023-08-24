@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-ef
 webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
+    excerpt: "IBM's innovative analogue computer chip, designed for AI, offers enhanced energy efficiency and may address the tech sector's growing environmental concerns."
+    publishedDateTime: 2023-08-24T21:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 76
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-08-24_apswhx5noy.jpg"
+        width: 718
+        height: 300
+        isCached: true
   - title: "IBM reports analog AI chip patterned after human brain"
     excerpt: "Deep neural networks are generating much of the exciting progress stemming from generative AI. But their architecture relies on a configuration that is a virtual speedbump, ensuring the maximal efficiency can not be obtained."
     publishedDateTime: 2023-08-22T14:41:00Z

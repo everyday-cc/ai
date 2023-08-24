@@ -34,6 +34,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
+  - title: "Samsung invests in AI video generation startup Irreverent Labs"
+    excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
+    publishedDateTime: 2023-08-24T17:48:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/samsung-invests-ai-video-generation-startup-irreverent-labs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "whatbrLne4CWMBHLRwwmZeJxr/laK9OeIQoIgTXh6kOr26NTObgz2PSH4zSietKJyCWlOYqbCwkYpyuujq5mYcBnrJ2KT1aWxtfvMg7Fi514LJlkoIKkWdHSnky2qqRgBwlutZpk+FtPEZ9FOIe+UAJLzQiEVHfdViWu9GB9RCJIOc/lEFfbDuG8oNg7Enf6M+ffZbetomXpKCym9IenL5tBR74gI9/+RuF0SHtm8pGo57S2gGhtbU+fzwbb0gvjdVZxPaDajwvJ3dFu04ixpGN5g963ZyPRo/iCJvkBIS4T0tOlgek2uDViK+DqKo7x8CUdkRL5FyTVea6h4zo+ckhjh1dUtikRycs0k8xEbq6m10J6FBldoBlp2EgxIRpE8/rug/ATAedY7UpN2kFdMBsYno9QEhcxhSMkNEcU0cjW189pPwE/NjcjIdvi7r464haDoXIQ+ZAMIOThnKLBUjQM6azOih7b6h80HMJ5hGaHwRSS4QapBYYGO7lItyE6MDrNPAjwIbpliznoSP3qJg==;pcuhlhrrto/M4mnfGBG4TQ=="
 ---

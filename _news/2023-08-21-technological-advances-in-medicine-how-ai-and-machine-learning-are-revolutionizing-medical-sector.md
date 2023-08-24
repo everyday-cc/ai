@@ -41,22 +41,6 @@ related:
         width: 2945
         height: 1018
         isCached: true
-  - title: "The Psychological Impact of Artificial Intelligence"
-    excerpt: "Currently, experts studying the potential impact of advanced AI have concluded that the biggest risk of AI and robots comes from the potential manipulation of people. Brainwashing is much more effective and cheaper than military action."
-    publishedDateTime: 2023-08-23T20:36:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/Trust%20.png.jpg?itok=5kWRfzwb"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Artificial Learning: Navigating the surge of artificial intelligence in higher education"
     excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
     publishedDateTime: 2023-08-23T04:56:00Z
@@ -66,6 +50,15 @@ related:
       name: Univeristy of Iowa Daily Iowan
       domain: dailyiowan.com
     quality: 27
+  - title: "The Psychological Impact of Artificial Intelligence"
+    excerpt: "Currently, experts studying the potential impact of advanced AI have concluded that the biggest risk of AI and robots comes from the potential manipulation of people. Brainwashing is much more effective and cheaper than military action."
+    publishedDateTime: 2023-08-23T20:36:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "Ocy8mlF6Xz/JP/9visEuMlTHQdMDHXAQDwfEaKLyAvgOcOVgUuiOcd6i83dNe4I/UV4DJUwJ/IK5vGHsjDJv9Sfht7BEigiRyTWLtTFyOJsPRRuybTqnrWKOZIVU9lqBoF08jRcWc/hiX3K1TFBZtJxdyGbf0rC91bhxI8Oh2Vtvdegf7t7+11DvqqBDINOTPxt1/jLDKn92sZVN661MvlNWhVnxGOcCwhaiOjp+dDUPR2IyWf93c+GSU2H2dfTtYxtTFOypWSnFoKd0fV6NLx3Au/YjWkz02Zm9P76LmI9gIQTByhh0mDvb/gFP/d7foUew57G1rvPZXgsDnIOUe0Jd5ozogKeRrTtEBgTgFD2iUpPi0silzNt82nCIySbIOCNDDaiUOZnq/ADiCepguy/ounUYUEmIBA7xf3BSuAabuHEdHfuolp3ZNO3gPopT/MXa0NJQuR0dQD07MzO0saEmALlTLLUMmy2pWmhzcGmng2aLuoR9266hcpowfZWIcHINvcvTOVyhHqWSh7ylrg==;++r7bNglVT/X6Njd7FRTMw=="
 ---

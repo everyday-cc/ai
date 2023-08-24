@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
+    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
+    publishedDateTime: 2023-08-24T18:54:00Z
+    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
+    type: article
+    provider:
+      name: Axios Charlotte
+      domain: axios.com
     quality: 0
 
 secured: "a7axsMfX9GlnrCqnFda5hWZBn57CpcdiwqHmdXcSv95TLG9EmzdFO1AwI9RrycSxJUXNlNLPboFDtab7OOIyMVYAFzqaHjrx8VJ1TkJl7eAHGcafpSFhavdnopnx8vIWNOM3KpWsur7Gj7KcPYIZa7+HL6Zj+lyH5UDptsteRNXq30Q/CYFz2L/ByFnDF05DHSLoTUVeCALTUFbgq2q/Q3ZRlneVPzExDXRjpmEnta2+bdOuwSzPWwVyMy5TT51G03LEuyOyKS6q/5X4nenBUHOOxVfuWlP6fvYgFzgqqrpDvXMRqFOjz6qmGMnJOX8V5VubaOwoeHrMu6x0UmW3AdJEihc8FBRc1A8DTV59Tb8=;6z/95hf3Z2pB3Jrw+YVIXQ=="

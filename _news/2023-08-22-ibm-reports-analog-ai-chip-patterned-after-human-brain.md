@@ -41,6 +41,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
+    excerpt: "IBM's innovative analogue computer chip, designed for AI, offers enhanced energy efficiency and may address the tech sector's growing environmental concerns."
+    publishedDateTime: 2023-08-24T21:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/IBMs-New-Analogue-Chip-Boosts-AI-Energy-Efficiency.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 76
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-08-24_apswhx5noy.jpg"
+        width: 718
+        height: 300
+        isCached: true
   - title: "IBM team builds low-power analog AI processor"
     excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
     publishedDateTime: 2023-08-23T19:23:00Z

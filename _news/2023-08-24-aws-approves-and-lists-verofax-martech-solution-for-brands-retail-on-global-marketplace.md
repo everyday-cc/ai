@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34017188"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Benzinga.com
@@ -25,6 +25,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Aws Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace"
+    excerpt: "leveraging the unparalleled capabilities of AWS. Verofax specializes in brand-customer direct engagement by transforming products into powerful marketing tools. With patented technologies such as computer vision, Artificial Intelligence (AI), and product ..."
+    publishedDateTime: 2023-08-24T19:23:00Z
+    webUrl: "https://menafn.com/1106938604/Aws-Approves-And-Lists-Verofax-Martech-Solution-For-Brands-Retail-On-Global-Marketplace"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/24/M_b50bfimage_story.jpg"
+        width: 650
+        height: 328
+        isCached: true
 
 secured: "nhZvUhGf4LBDnmE30OE0iCCSG2Z8YdPFFfthe+aEeN6g8uLcEy6rR5x0Q4vZlJKJ8yTgA78Ows6SL7IyUdfvzueHBUjZG9/U55tvJip/doy/KNq7G1KgTJ/LiiOB8o1pJI0cBrMuFZ554DUlOb8MR86oTGNm1DcZ/SSgqkD5yxj2tKNzOZjhAvhlIffFrOvhKDAuIx1e4uBzwRmpxdZuMF3HE3Pm4N4zB3wcczL/rkFRYgMMMjD6xs1op2J3N73vx51e90S4bHixUij+8ODhsQOLWIDbCc71ZSDLCxNxGIJwXF1nWdfNMuT45y5/2OZrTAjqXSTpBrjz/eq7LlZwlacxLyIYdBps54nQ8iy5BwM=;ykwvngAMHtDtPOcc1W5ArQ=="
 ---

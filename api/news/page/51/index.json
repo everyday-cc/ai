@@ -2,6 +2,101 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
+      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
+      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
+      "publishedDateTime": "2023-07-19T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-review-airrobo-pc100-pool-cleaning-robot.md",
+      "title": "Review: AiRROBO PC100 Pool Cleaning Robot",
+      "excerpt": "The AiRROBO PC100 is a cordless pool robot with 2-hour battery life and powerful suction that employs AI for a claimed 10X gain in cleaning efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
+      "originalUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b868227cdf254e7dfb68d1/0x0.jpg?format=jpg&crop=1600,899,x0,y154,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
+      "publishedDateTime": "2023-07-19T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-artificial-intelligence-experts-propose-guidelines-for-safe-systems.md",
       "title": "Artificial intelligence: Experts propose guidelines for safe systems",
       "excerpt": "A global group of AI experts and data scientists has released a new voluntary framework for developing artificial intelligence products safely. The World Ethical Data Foundation has 25,000 members including staff working at various tech giants such as Meta, Google and Samsung.",
@@ -1110,109 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-even-the-ceo-of-a-top-ai-startup-thinks-that-ai-will-be-the-biggest-bubble-of-all-time.md",
-      "title": "Even the CEO of a top AI startup thinks that AI will 'be the biggest bubble of all time'",
-      "excerpt": "Emad Mostaque, CEO of the company behind text-to-image generator Stable Diffusion, compared the current AI investing craze to the dot-com bubble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
-      "originalUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b69fce76558a00189d1a40?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
-      "publishedDateTime": "2023-07-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-googles-medpalm-emphasizes-human-clinicians-in-medical-ai.md",
-      "title": "Google's MedPaLM emphasizes human clinicians in medical AI",
-      "excerpt": "Large language models still fall short of human clinicians' abilities. The solution appears to be a lot more human prompting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
-      "originalUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0fd2a7a53d4e80a30b0edd9778cb3ee0b868780a/2023/07/19/4412589f-dbc5-4278-8ed7-1e49015b620a/gettyimages-1396801868.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
-      "publishedDateTime": "2023-07-19T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

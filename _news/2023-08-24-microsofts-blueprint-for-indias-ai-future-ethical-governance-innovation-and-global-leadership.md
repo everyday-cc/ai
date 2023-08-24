@@ -89,6 +89,15 @@ related:
       name: Virtualization Review
       domain: virtualizationreview.com
     quality: 33
+  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
+    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
+    publishedDateTime: 2023-08-24T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 26
 
 secured: "C570R4ksOk/8zO79QB2DSUo/GK2UtOe+yGQHK9db+gHDkc8A4xQCD9wQNyMq+G5u8urQ5fxTAJvDZCmhf3ut2rPk3Jn5xV9kQyqORxdgnPL7GqpYfw2bo51e1kbv1U687yigJ//F8ymekXz18/ufwuPtvFXAE7yBXEKwhex6XmV0PyjkDKcPUOjzNwveC3/BwCXOIkLrWIhx/TcIKEbAlu08S2LKk5Lsr8w3vlLfq4xKih5AHs9lE3KKSbBdFn3KziTsrmU+Cd92hgbE0B2nHIkYkfgDL64XDD4lFsRMXeyj810DTpHQ/svzH/3Bqut26baf1ZHBpz05Aq1o3ekKQl88ieeyl9RDTQ3vmB0YwuY=;65BuKtwrhliMBZls86IIJg=="
 ---
