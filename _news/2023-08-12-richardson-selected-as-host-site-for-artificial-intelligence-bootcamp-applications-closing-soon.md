@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Richardson Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in"
-publishedDateTime: 2023-08-11T17:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33757073/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/g33757073/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon"
-ampWebUrl: "https://www.benzinga.com/amp/content/33757073"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33757073"
+excerpt: "RICHARDSON, Texas, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in Richardson. Applications for the no-cost bootcamp are closing soon!"
+publishedDateTime: 2023-08-11T18:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547646"
+webUrl: "https://markets.businessinsider.com/news/stocks/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547646"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "nLb4++YVfk3LIkPI26h8gfVOqQ6XdgMwH+sPJt0Ofz2h6ydvMLMhbYLXrX6/GffLgZVAm0/ZX+kB+nQ1FAXIAM8DAfGOuluFi9cpw0Uw5BJEHq2GHTH9M1NGWyRHlK1nXECKmyblHEm+RzXoYFZNgU3z71soizlBW3QaMEvVsHmgMF6i1uZPa/OrrO8Uy2BnewyMbQyabNhttaT0WS7v41Gq+TsCa5esjn92KIGIFwpnHpxOqdMp7031Kj1/raSH3uzNjtNTkE8Yhyd2NMQemiXNbfwwdQuDkLu2ZGJ9FuGdageBmsFX3uVGLXPfT5u67yTBoExRXWad8ozHhF8qx7HgQfF3n49fNsi5MZzYqXo=;o5eXLNqfxdbOMS/w7Q6c/Q=="
+secured: "T5TwR70IdH7e+7sn1+Gi/g79pUF4p7iWUOicO4KwxQZ1xdkrE+oeDuKAr+FjZkMgZytKd3W3Bh/Z34uboAObBAcb6bfWQYpKkTtTaSDx7MZsHs3LSkIYbS5/fDgVSTP3IF9BgAgtHaFeoeK/1UMrbbWumatoR2rk29TxGQREVIF50oFK/RBq/1XUkPMbvcgP7gknpb9bwfSLccNDoxLnnS9Qc6hKcAx0y2TS+xOlGBKVP08dLRL0j5CEtiRt5AfUErBbbesCaEwFQQW9JdbHkgEUivMDRgxCMvMcs8GI5JrkWlAB8q7XQn62KvHjtTebDJURWAN8NXZjGP/J+XCVrUpVrjI/9CD+grdB7vtxh5M=;k1GQfobLypIVnRBIjr86pA=="
 ---
 

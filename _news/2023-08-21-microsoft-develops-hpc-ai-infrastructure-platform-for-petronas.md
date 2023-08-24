@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds partnerships with energy companies, Aramco and Petronas, to drive innovation and sustainability"
-    excerpt: "Microsoft has collaborated with Aramco and Petronas, two prominent energy industry companies, in two projects to drive innovation forward."
-    publishedDateTime: 2023-08-21T14:41:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-adds-partnerships-with-energy-companies-aramco-and-petronas-to-drive-innovation-and-sustainability/"
+  - title: "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI"
+    excerpt: "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,"
+    publishedDateTime: 2023-08-23T13:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+  - title: "How AI brings greater accuracy, speed, and scale to microsegmentation"
+    excerpt: "AI streamlines team collaboration and automates workflows, decreasing the time required for planning, analysis and implementation. By enhancing collaboration and automation, AI has optimized the entire microsegmentation lifecycle, allowing for a quicker time-to-value and ongoing agility, thereby enhancing the productivity of security teams."
+    publishedDateTime: 2023-08-22T22:20:00Z
+    webUrl: "https://venturebeat.com/security/how-ai-brings-greater-accuracy-speed-and-scale-to-microsegmentation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "SophiaVerse announces collaboration with Hanson Robotics"
+    excerpt: "SophiaVerse has announced that it is collaborating with Hanson Robotics with the objective of facilitating innovation in AI and Web3 Gaming. The ultimate aim is to bring revolution in these areas."
+    publishedDateTime: 2023-08-21T11:39:00Z
+    webUrl: "https://www.cryptonewsz.com/sophiaverse-announces-collaboration-with-hanson-robotics/"
+    type: article
+    provider:
+      name: cryptonewsz
+      domain: cryptonewsz.com
+    quality: 34
+  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
+    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
+    publishedDateTime: 2023-08-23T16:41:00Z
+    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 34
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Windows-Aramco-Petronas-1.png"
-        width: 1024
-        height: 768
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
+        width: 1920
+        height: 960
         isCached: true
+  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
+    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
+    publishedDateTime: 2023-08-21T18:32:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 33
 
 secured: "jKMnnjAJehGt8ZKbhhV/1CCCDm0g8IQxdXj8YJqjDIXeEsH6mPOFER/D//yyZf9g2NQjZ/Bx5H3n9PDADnvU5JbNYyT7k+0Is6grotqNgP+vBi/Wt7OjpctUFm43bRXUV7Q7uRc9mwFHSkNGh/Stl4+haElvTyEBmwOO1QOdUE/z5o8WDu7wT1db89FNL4p6HvO079iYRmKmUUKLzpcV9hD7pIpFHno6cj1Ln7AfVcUT00DIjp+/01SNmJ0MPxVQP4+3Gr0o48hgCOGl6d4gvGXYVQFFEZwhNQ2PIctrTQZcewT6ObPQc+4bQZRHlFI3eyiRMOodcJCiZOBEi6eCdMHF9DeyH3UoS4hsF/Jx4Agrt/JpcplFccUDDbXWv1X5bXpkdK3Czluj0LgxmUbPRf3FZ+35OR+nD69uF0tjqTz2+1c3XNbYGMY3Wtm0F0l4CY6EPfOFqsXyc1ZNOap/EVSWeB9YaQcp6/MtIjnQ4DzC+5TuVhw0udD3rDV3cgrnt+P/A+v58x0p+uf6faHc6w==;8kXRn3HFp+rUKekTu0LMiw=="
 ---

@@ -2,6 +2,58 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-06-07-cisco-announces-next-gen-solutions-boosting-security-and-productivity-with-generative-ai.md",
+      "title": "Cisco announces next-gen solutions boosting security and productivity with generative AI",
+      "excerpt": "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-this-ai-powered-platform-could-predict-the-next-big-flood.md",
       "title": "This AI-powered platform could predict the next big flood",
       "excerpt": "“Our platform can tell you if a flood will occur in your area of interest and issue alerts 72 hours in advance so you can take all the necessary actions to protect employees and assets,” he says. These insights are also of interest to insurers, who are always looking for more accurate ways to predict future risks to assets.",
@@ -1159,58 +1211,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-alphadev-discovers-faster-sorting-algorithms.md",
-      "title": "AlphaDev discovers faster sorting algorithms",
-      "excerpt": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
-      "originalUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

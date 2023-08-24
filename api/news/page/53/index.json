@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
+      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
+      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
+          "width": 838,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "publishedDateTime": "2023-07-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
       "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
       "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
@@ -1067,58 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-miko-the-ai-robot-teaches-kids-through-conversation-very-personalized-experience.md",
-      "title": "Miko, the AI robot, teaches kids through conversation: 'Very personalized experience'",
-      "excerpt": "Miko is an artificial intelligence-powered robot that was designed specifically ... the parent can give it some context so that Miko would start engaging in more conversations around those topics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
-      "originalUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/stabile.png",
-          "width": 1222,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
-      "publishedDateTime": "2023-07-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

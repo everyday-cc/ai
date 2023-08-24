@@ -92,6 +92,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta unveils AI model to translate, transcribe speech in many languages"
+    excerpt: "Tuesday saw the introduction by Facebook's parent company Meta Platforms of an AI model that can translate and transcribe speech in numerous language"
+    publishedDateTime: 2023-08-24T00:07:00Z
+    webUrl: "https://menafn.com/1106924475/Meta-unveils-AI-model-to-translate-transcribe-speech-in-many-languages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_234.jpg"
+        width: 4000
+        height: 4000
+        isCached: true
   - title: "SeamlessM4T: Meta’s newly designed AI translates, transcribes 100 languages"
     excerpt: "The SeamlessM4T model provides on-demand translations that enable people who speak different languages to communicate more effectively"
     publishedDateTime: 2023-08-22T20:05:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging
 webUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging-as-world-leader-in-teaching-and-framing-of-robotics-in-healthcare"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Study shows potential for generative AI to increase access and efficiency in healthcare"
+    excerpt: "The large-language model (LLM) artificial intelligence chatbot performed equally well in ... are occurring at a fast pace and transforming many industries, including health care. But the capacity of LLMs to assist in the full scope of clinical care has ..."
+    publishedDateTime: 2023-08-22T23:30:00Z
+    webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Exploring Trends in Healthcare Analytics, Artificial Intelligence (AI) in Healthcare, and Health Information Exchange (HIE) Markets"
     excerpt: "In recent years, the healthcare industry has witnessed a transformative wave of technological advancements that are reshaping the way healthcare services are delivered, managed, and accessed. Key segments such as Healthcare Analytics,"
     publishedDateTime: 2023-08-21T09:37:00Z
@@ -33,20 +47,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/AdobeStock_370796528_jpeg-1000x561.jpg"
         width: 1000
         height: 561
-        isCached: true
-  - title: "Data Analytics in Healthcare: Defining the Most Common Terms"
-    excerpt: "As data analytics becomes essential for healthcare organizations, stakeholders need to understand the basic vocabulary related to the process."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-648272290.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "JbYf+VDilvqbTRDnUA3RVGBUGUin5Xa8YUWurIZGrXfVXVyotI7Pa201r7ZjPHQTmDc3URiDp5MINjMTneNO7y1OPNU8qj/b/3TpDFN1GOYkAvQCleJKAGgPPjv590EzRh8KSxF4HOtdTCHz2dZ6CrCLpRKh4JrE/nzrurim8RG8/vLODxILX+J1B9yooq/7cz1kQXqvobnIYDGPTb0V4xdzoSrW7wItJUP9zIc8dJcc0lguicXUAVozl7vPP2zA/1HsNI6jN0O9j5iKQhr6uXJOCj7O4pY1SyU9aDu5ZAQNbQ2ZnfcINTr50fAXUZ5H6o8kT2NUmp0GeRaVazzaZxlxcRblk17nzFN4ltFv8Kg=;2ZoGKLDFh703KDIstvUabQ=="

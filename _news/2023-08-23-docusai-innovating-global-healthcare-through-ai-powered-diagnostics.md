@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08
 webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/22/docus-ai-innovating-global-healthcare-through-ai-powered-diagnostics/70653228007/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thumbay institute discusses AI potential in healthcare"
-    excerpt: "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms."
-    publishedDateTime: 2023-08-19T07:39:00Z
-    webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://gulftoday.ae/-/media/gulf-today/images/articles/news/2023/8/19/thumbay-ai-ajman-750.ashx?h=450&w=750&hash=BFCEEDC23B79CADBD7505AF297AAAE5D"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Study shows potential for generative AI to increase access and efficiency in healthcare"
-    excerpt: "The large-language model (LLM) artificial intelligence chatbot performed equally well in ... are occurring at a fast pace and transforming many industries, including health care. But the capacity of LLMs to assist in the full scope of clinical care has ..."
-    publishedDateTime: 2023-08-22T23:30:00Z
-    webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "How AI Could Save Healthcare"
     excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
     publishedDateTime: 2023-08-23T17:27:00Z
@@ -62,20 +34,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 34
-  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
-    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
-    publishedDateTime: 2023-08-20T06:01:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
-        width: 782
-        height: 440
-        isCached: true
 
 secured: "jjlyuzm1FdzWmM924FWHXFTHC8G0e81ECNmuY4J28eYX3luDzoopYPTKa6oC+EbwF/XqAJeR5ShXFgK6Da/ibqbIsnyZAFsyCDWd1VKVeEdKVjDn30rOc2b898RS2gCxfSSaKbT5OrulycHj8/y12c8/jkUeWKJypZMvq56JImpRxoX7OH3PuYO5gMtK0E0b0PUJf+ZmWJ4yJ7hvdO9rVeFKWFNbCi3nersAVFCYtfM18A6u5VweZvZAmAq3FE5vv+Vq2gKUiZPtjn3ZxMtoXtY8NotmX9bjyextcoN9SEjrBrdn3OT4eALOmey5SMSj2BQ47a7to8bktNeJlzbTYQRRlnDmyue6Of6D5lJTzAU=;huO/dkPyGNJ0vg9KzbOFFA=="
 ---

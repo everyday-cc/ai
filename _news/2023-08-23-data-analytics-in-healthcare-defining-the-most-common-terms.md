@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcar
 webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "'India emerging as world leader in teaching and framing of robotics in healthcare'"
-    excerpt: "Today, technological advancement has enabled a policy of creating a new digital ecosystem that not only enhances accessibility and efficiency of healthcare delivery, but also made it more cost effective and paves the way for universal health coverage in India that is inclusive,"
-    publishedDateTime: 2023-08-22T12:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging-as-world-leader-in-teaching-and-framing-of-robotics-in-healthcare"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 45
-  - title: "Exploring Trends in Healthcare Analytics, Artificial Intelligence (AI) in Healthcare, and Health Information Exchange (HIE) Markets"
-    excerpt: "In recent years, the healthcare industry has witnessed a transformative wave of technological advancements that are reshaping the way healthcare services are delivered, managed, and accessed. Key segments such as Healthcare Analytics,"
-    publishedDateTime: 2023-08-21T09:37:00Z
-    webUrl: "https://techbullion.com/exploring-trends-in-healthcare-analytics-artificial-intelligence-ai-in-healthcare-and-health-information-exchange-hie-markets/"
+  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
+    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
+    publishedDateTime: 2023-08-20T06:01:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 25
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/AdobeStock_370796528_jpeg-1000x561.jpg"
-        width: 1000
-        height: 561
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
+        width: 782
+        height: 440
         isCached: true
+  - title: "Empowering Data Management and Analytics with Self-Service Forms and Dynamic Reports from Pedigree Technologies"
+    excerpt: "Pedigree Technologies' innovative solutions allow companies to harness the power of data management and analytics. The launch of Self-Service Forms and Dynamic Reports represents a pivotal step in streamlining data operations, driving efficiency, and making better-informed decisions across diverse industries."
+    publishedDateTime: 2023-08-22T15:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/empowering-data-management-and-analytics-with-self-service-forms-and-dynamic-reports-from-pedigree-technologies-1032573798"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "WlTmqpT8s37mk9xQUaS5Dar8VJ2gzWaXuyOAwVzBS6eRhOFfgqQq2ABqCkUl+S6VBEEAOHX5H5tRb2sr4toYVZyM1t4fQU18ypeCD4A/rpDPrjCk8CIDFSrUuKeQu9PgxJ/L/jkk0wlramGjvhSum+1z8qtBxDFezBmyUnANXYBH9a6W9n85cAOFiH2SEfkTkpdIJNnmqVex+pbnRFtvYe8pk9NZ6rIZRrDyiQ2P1KyTqGw0eHRdOSJNFrAD5eFuaRh7cCLITEJ9V7BJZq0920ZLXO23MDgExBdyvTiIqqkWw5p6NXl36OKekW6yhKuoXERFHoJ9SfvtyT6tPhU2zECPirDxnAzISByQYEePNB8uBWgIcukOgru+qNN6pSDWimxl01X4w0lGsXVU0U1ArvkCq81WK9Kn/WqHqB3kgxs9Aw7wllJJKEUwi8wy4wTc5VYEjWKzr4PaO21kbu7pB3i7ef09Ydnm5hNeAcs5vBqKdpzxMIKAkGTezl08mYOcWaSmO7KpMt4tylHBLl0rTA==;XMoseer0iJdROyvG1GojcQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2023-05-30-tesla-driver-claims-she-crashed-into-a-tree-on-self-driving-mode.md",
+      "title": "Tesla driver claims she crashed into a tree on ‘self-driving mode’",
+      "excerpt": "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
+      "originalUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-how-are-indian-languages-faring-in-the-age-of-ai-and-language-models.md",
       "title": "How are Indian languages faring in the age of AI and language models?",
       "excerpt": "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this.",
@@ -1103,58 +1155,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis.md",
-      "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
-      "excerpt": "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg",
-          "width": 400,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

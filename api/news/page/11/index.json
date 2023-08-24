@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
+      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
+      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "publishedDateTime": "2023-08-14T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-china-wants-to-regulate-its-artificial-intelligence-sector-without-crushing-it.md",
       "title": "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It",
       "excerpt": "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market.",
@@ -1117,40 +1162,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Daily News",
-        "domain": "ourmidland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

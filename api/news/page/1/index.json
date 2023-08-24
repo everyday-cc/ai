@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-24-could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes.md",
+      "title": "Could you soon be running AI tasks right on your smartphone? MediaTek says yes",
+      "excerpt": "MediaTek is working with Meta's Lllama 2 LLM to run generative AI tasks directly on mobile devices, no cloud-based processing required. There are several benefits to this -- but there's also a catch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "originalUrl": "https://www.zdnet.com/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/be070b82273a9cb433415f5e4b4ab05cd8ce3a8f/2023/08/22/397b3268-0085-47d4-81e0-226f7fbc0b84/gettyimages-1521580109.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "publishedDateTime": "2023-08-23T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
       "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
       "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -616,6 +667,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-23-vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai.md",
+      "title": "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI",
+      "excerpt": "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys.md",
       "title": "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys",
       "excerpt": "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n",
@@ -1019,7 +1113,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1095,101 +1189,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.md",
-      "title": "The most in-demand AI skills — and how companies want to use them",
-      "excerpt": "“Generative AI was born out of machine learning techniques. People added rule-based systems ... but companies that have their own open AI services, like Microsoft and Azure, also offer online training opportunities.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
-      "originalUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/shutterstockthapana_studio-100945002-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
-      "publishedDateTime": "2023-08-23T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-sensors-in-the-forest-can-smell-a-wildfire-before-it-spreads.md",
-      "title": "AI sensors in the forest can smell a wildfire before it spreads",
-      "excerpt": "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "originalUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

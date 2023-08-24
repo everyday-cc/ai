@@ -23,19 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Sagarmatha to Leverage Machine Learning for Expanded Analytics Capabilities"
-    excerpt: "With millions of shoppers on the company's software platform, Sagarmatha helps retailers transform data and insights into multi-channel commercial opportunities. Through its proven ML-based software solutions,"
-    publishedDateTime: 2023-08-21T13:10:00Z
-    webUrl: "https://www.grocerydive.com/press-release/20230820-sagarmatha-to-leverage-machine-learning-for-expanded-analytics-capabilities/"
+  - title: "Data Analytics in Healthcare: Defining the Most Common Terms"
+    excerpt: "As data analytics becomes essential for healthcare organizations, stakeholders need to understand the basic vocabulary related to the process."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
     type: article
     provider:
-      name: grocerydive
-      domain: grocerydive.com
-    quality: 37
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1692605720/press_release/assets/header_images/Food_Group_Banner_1500x700_bwqtkk.jpg"
-        width: 1500
-        height: 700
+      - url: "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-648272290.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
+    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
+    publishedDateTime: 2023-08-20T06:01:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
+        width: 782
+        height: 440
         isCached: true
 
 secured: "ZghQAQEb3jBHVzfpfzylETAHdyI1yUpzsR54PEwOypgd4Oy/OMMyOp5CILyayW3qAckjh20wVqWxITnL6ZBanEABQZZtqRCWYiEHrOqhgHlPxt0KGPWjVNi5IbGC7snezt+5xWHj7xRmEOdmVJAeYDHzitaUNhBrLtlEmn6xbteh/HOJ5913NRULNT7qKN3EpjTP+nWTUh2V9vIZqYpFgNTzN7hcOqbTUTKg7xGXELQSHopTcl8MZD7194DVjWcOs94NrWD2awoaomTsdiWccZdc2a/Xz8noW//K9pJpYs6F6mHm+V6NhHo7RrSAhnzFwzY0xIkIP+JBvokBjoi3bmqN+nUQg8u0DlailtyqXEW1zKhydmzJ2BqUuyclZO3mPGIKAv8N5dm1LQh0gzrVCMKNfN36pbGfS52g9a0wGpQUjkrB9IdK6dnG0xYSqD/2BUt65EDwvyHGRXIUxl6tRgMEn3k9j1QKFv/YBp69bv7MA2wWzHTN6n6akz+GGuaTLk/z3H0hmJRx10Fgmgrwmw==;MhoFRuzHApBZSSUNvcpmKA=="

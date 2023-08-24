@@ -2,6 +2,49 @@
   "page": 185,
   "value": [
     {
+      "path": "_news/2023-04-27-best-graphics-card-under-1000-in-2023-top-gpu-picks.md",
+      "title": "Best graphics card under $1000 in 2023 – top GPU picks",
+      "excerpt": "Then there are also 4th Generation tensor cores, responsible for powering the AI optimisation of DLSS 3 and all this for under $1K. This is also a GPU with impressive specs. It comes with a boost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
+      "originalUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-card-under-1000-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
       "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
       "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
@@ -1156,48 +1199,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
-      "title": "How ERP is breaking down silos and driving sustainable change",
-      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

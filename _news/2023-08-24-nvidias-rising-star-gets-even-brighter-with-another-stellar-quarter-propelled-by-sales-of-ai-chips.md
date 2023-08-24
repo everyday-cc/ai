@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
-publishedDateTime: 2023-08-23T21:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
-webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
+excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
+publishedDateTime: 2023-08-24T01:01:00Z
+originalUrl: "https://www.timesunion.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
+webUrl: "https://www.timesunion.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
   - AI in Sales
-
-images:
-  - url: "https://i.abcnewsfe.com/a/1d0f7fd0-2ac5-4a1e-8b4f-e7bed74513f6/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
@@ -182,6 +176,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Chip giant Nvidia rides AI wave as profits soar"
+    excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
+    publishedDateTime: 2023-08-24T01:15:00Z
+    webUrl: "https://www.macaubusiness.com/chip-giant-nvidia-rides-ai-wave-as-profits-soar/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 54
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia up ahead of results"
     excerpt: "U.S. stocks ended sharply higher on Wednesday as shares of Nvidia gained ahead of quarterly results from the company whose chips are widely used for artificial intelligence (AI) computing. Investors expect that another strong outlook from Nvidia could fuel a further rally in tech stocks."
     publishedDateTime: 2023-08-23T23:01:00Z
@@ -292,6 +300,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
+  - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
+    publishedDateTime: 2023-08-24T01:36:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidia-bets-25-billion-that-ai-boom-is-far-from-over"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Nvidia's Forecast Adds Fuel to Rally in AI Tech Stocks"
     excerpt: "Nvidia's strong forecast on Wednesday added to investor optimism. Big Tech and AI-related stocks saw their stock market values increase by over $70 billion, on top of Nvidia's increased value, as their shares climbed following the report."
     publishedDateTime: 2023-08-23T21:36:00Z
@@ -324,6 +341,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 37
+  - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
+    excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
+    publishedDateTime: 2023-08-24T00:13:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/nvidias-stock-climbs-record-high-ai-boom-ignites-rapid-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
@@ -393,6 +424,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "YU8pWHh3gNXHvF6b8rbiXWPmg/pQIBJzrVVM8OU7kKSiRv6GBME2AJ9VFwO56IQdiIP31hMWPARAEeT+nsWsQD35hHoHKCI7vBKq0awRAQlsEKoN0Zia+MyvC+PRGoaQyoYcpDhMxWYpYxb2IEOdPRoHTjNBiPj+oMRz15zwiL1EKbCFkVXxZKfG1rk0/sSivi5iUV8MbYwHaZGk1BpMdoZ8lZlYqR/Sf6ciMR9u7e+dMj470sN07UgQEAo0Ww6oqyrmb+Hs1RU3PptefGfGo1TyuxqjfcCv6pWa5ZW2+mEzrtt53rWgNgMdZdK+GDzD7itBNHiotCK+7HKHu41+jAaZb1Bi9dX0IlgSX/wwWoQ=;ODBmncr+KFu/E1JHHeQc5A=="
+secured: "xSyfBYN9wQEpdcl180Fbo6q7S7HZrQag55oWNXOhCI5/PtFF/0jDAWmA2pshzCyjrDTLv9ZjZfWuZxziycKig8LjKKlb/xJhDpiEo8v9LT4oeuBeENp60J8WwlZZq1L+W8dB6h0qP88X+Fru68Ml3MvPeKVu29W0sOV/BgcaJoI6m7Jk0MilmPz0HZZEq+APTI00BIbvi0MZhyM6yKDVihZeSYgkw+pAFu5EU7BEWjD2AfLBgNkGUKQczKjZ6m3W5REkFppLew0PryxmlDjrK41gngVuzNCv2TOcCcT1iGlEDA4MS2VqKadYgU2cn7UXinh3VhbQtw7v7uUigz3lawLy1sp6mNLFMsQHTYmiVKH7ezkVXRn4osT8KEdNK1Me2Mx5KMEl4K61VoTEI2ndlQf66EZrlrBkcRQ/x4UlxRMyG5N9xqatNGY3rUcH5o+4Zvgq/y0HSj+Up6fA2SUXoP+Rp7e/21l/QbjME0Va+w59twxvq07dUpV3HMkcv9ArSjQ9CidWOmZtjwy6IBxz/g==;soe8IbmeIdyPryb3/qiYuw=="
 ---
 

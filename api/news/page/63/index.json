@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-07-12-best-extended-amazon-prime-day-2023-deals-you-can-still-shop-right-now.md",
+      "title": "Best extended Amazon Prime Day 2023 deals you can still shop right now",
+      "excerpt": "To help cut down your browsing time, we put in the busy work and hunted through Amazon’s Persian buffet of deals to outline the only edit you’ll need: our top extended Prime Day deals across ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
+      "originalUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/07/best-prime-day-deals-2023x-1.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
+      "publishedDateTime": "2023-07-11T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-artificial-intelligence-and-copyright.md",
       "title": "Artificial Intelligence and Copyright",
       "excerpt": "Music industry and tech company executives as well as a visual artist and a law professor testified on artificial intelligence (AI) and its… read more Music industry and tech company executives ...",
@@ -1083,58 +1126,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-upwork-launches-new-generative-ai-tools-and-services-hub.md",
-      "title": "Upwork Launches New Generative AI Tools and Services Hub",
-      "excerpt": "Upwork is launching a new generative AI tools and services hub. Discover more about Upwork's latest news with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Upwork-Laptop.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could you soon be running AI tasks right on your smartphone? MediaTek says yes"
+    excerpt: "MediaTek is working with Meta's Lllama 2 LLM to run generative AI tasks directly on mobile devices, no cloud-based processing required. There are several benefits to this -- but there's also a catch."
+    publishedDateTime: 2023-08-24T00:33:00Z
+    webUrl: "https://www.zdnet.com/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/be070b82273a9cb433415f5e4b4ab05cd8ce3a8f/2023/08/22/397b3268-0085-47d4-81e0-226f7fbc0b84/gettyimages-1521580109.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MediaTek-powered flagship phones will get on-device AI support in 2024"
     excerpt: "The company is working with Meta to offer the Llama 2 large language model for on-device AI capabilities. It adds that the first phones with this chip will be available by the end of the year. The Taiwanese chipmaker revealed that it’s working with Meta ..."
     publishedDateTime: 2023-08-22T23:05:00Z

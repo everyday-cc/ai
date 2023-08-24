@@ -2,6 +2,48 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-07-05-asset-lifecycle-management-best-practices-building-a-strategy-for-success.md",
+      "title": "Asset lifecycle management best practices: Building a strategy for success",
+      "excerpt": "Asset lifecycle management best practices that successful businesses use to care for their assets and extend their useful lives.\nThe post Asset lifecycle management best practices: Building a strategy for success appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:53:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
       "title": "The Hybrid Cloud Forecast: Part 3",
       "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
@@ -1133,57 +1175,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-generative-ai-in-games-will-create-a-copyright-crisis.md",
-      "title": "Generative AI in Games Will Create a Copyright Crisis",
-      "excerpt": "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/video-games-ai-copyright/",
-      "originalUrl": "https://www.wired.com/story/video-games-ai-copyright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/video-games-ai-copyright/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp",
-      "publishedDateTime": "2023-07-04T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

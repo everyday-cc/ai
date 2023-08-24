@@ -3,11 +3,11 @@ category: news
 title: "Advance of the AI adviser: machine learning’s role in managing fortunes"
 excerpt: "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?"
 publishedDateTime: 2023-08-21T02:59:00Z
-originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
-webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
+originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c?shareType=nongift"
+webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c?shareType=nongift"
 type: article
-quality: 58
-heat: 68
+quality: 54
+heat: -1
 published: false
 
 provider:
@@ -15,10 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
-  - AI in Finance
+  - AI
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
@@ -44,6 +42,6 @@ related:
         height: 580
         isCached: true
 
-secured: "/n47uN5tu28v9g+Al1QutGMbbAzFcMrYNURhsoTseZ3hXBWuOjahHG5uoqjIkz0ViaBwA6GSm7n8blZIB7giwzxuvWewTiFEgRI6qJifOKPqON+F41LSCPza42p+zkT9Ro1z2mYhQ0OGO1oDHt/f8nnMQbndYvaS9/j9Dy3pJi+B5w0o2oUGCVDVu6tCBO8picrdAjmySSlAm33btWgoyoG4Cug3JacFGEMWJRrJ1a7+dicTmWuhgOu7ocgms7ct0og+OblDUbAOM9LR8Xecc00p2awrprQIuXtaxmklIxij9MpGlHEgVqr8Angl5AqStTnqAzNSNT1WyMVVjQ4zU4YA+2JM162xwW2gYnym5CvQM2QK0v0FCIIpVjVrDrtUu8SRdrUJG5OJH/GAmSed8VmVtxZHkX3wtn5SbOdePPFIAo9qkO1WIiZpcrgJHPxGcpNWOZPysv+RMNl5rTQM3SH/mLwgZJgR3vd940E1sPYA5jCa2B0nyTvE9rhrE+t5o8TEdxcg33wEckPcMiIeyg==;86JGLJh3YvvvAEt6z23kLg=="
+secured: "N/bmIvSes/5guxkEwE22czkynIk8G5V9hfXxd1Vfbg8NAMNjnKZV88HylNnK9OmCS9IDPVLroVAGSg00B5HLaNICfFc6SuCfoFpr6MeK3qIvR28CBUrKNn4Z0INUpxhJppbnX63y+N22jAQzK+KkUVS47ssZIHvw7pxpQ1tNp8UIg17MnaTDYCtBHROwNSqvCiwp7/tF+2SbG/kJKA3IGDcwLPz/YJGygxHl0BBvHo08fYLPjbjuJrrcJJLllM8PG6tCPy9p0f/t7Vy0e8TMF8lZy2fvdM+3gHweJUJKW4/MStEcJvndvQa3kSBtGCt6TNEwiSC3gi4LJrbste4nTxKOh6pfX+MfEGW0fYOVXsU=;VgAZkhGADiaCaMqTaOnzTA=="
 ---
 

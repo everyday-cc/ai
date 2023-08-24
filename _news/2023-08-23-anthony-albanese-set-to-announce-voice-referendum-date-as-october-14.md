@@ -7,7 +7,7 @@ originalUrl: "https://www.news.com.au/national/politics/anthony-albanese-to-anno
 webUrl: "https://www.news.com.au/national/politics/anthony-albanese-to-announce-voice-referendum-date-as-october-14/news-story/c2c6ca459082b3aed3116e5e2dc056d5"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese rallies Labor faithful on Voice to Parliament as Jacinta Nampijinpa Price delivers key message to No supporters"
-    excerpt: "The most high profile figures of the Yes and No Voice to Parliament referendum campaigns spent Saturday rallying their respective supporters with stirring speeches."
-    publishedDateTime: 2023-08-19T07:42:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 30
-    images:
-      - url: "https://content.api.news/v3/images/bin/5a4bb2e81f51d61941b619ae62efe1eb"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
     excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
     publishedDateTime: 2023-08-22T10:49:00Z

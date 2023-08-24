@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-19-how-consumers-can-protect-themselves-against-ai-voice-cloning-attacks.md",
+      "title": "How Consumers Can Protect Themselves Against AI Voice Cloning Attacks",
+      "excerpt": "In attempts to offset these crimes, the financial services sector is using voice recognition biometrics, technology that enables companies to authenticate an individual by their unique vocal ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "originalUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-ai-in-healthcare-what-it-is-and-how-it-works.md",
       "title": "AI In Healthcare: What It Is And How It Works",
       "excerpt": "Gradually, Indian healthcare is taking one step ahead to embrace what it is called as “robotic intervention” with the help of artificial intelligence (AI) tools. We all are aware of this fact ...",
@@ -1115,57 +1158,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-un-officials-urge-regulation-of-artificial-intelligence.md",
-      "title": "U.N. Officials Urge Regulation of Artificial Intelligence",
-      "excerpt": "The U.N. Security Council for the first time held a session on Tuesday on the threat that artificial intelligence poses to international peace and stability, and Secretary General António Guterres called for a global watchdog to oversee a new technology that has raised at least as many fears as hopes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/18/multimedia/18un-ai-1-cpwj/18un-ai-1-cpwj-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

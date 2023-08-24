@@ -2,6 +2,40 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-23-aws-100-million-investment-to-train-customers-in-generative-ai.md",
+      "title": "AWS’ $100 Million Investment to Train Customers in Generative AI",
+      "excerpt": "The intention behind Amazon's $100 million investment in Cloud AI education, is to persuade clients to switch to AWS to build new generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
+      "originalUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
       "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
       "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
@@ -1153,57 +1187,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
-      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
-      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "publishedDateTime": "2023-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

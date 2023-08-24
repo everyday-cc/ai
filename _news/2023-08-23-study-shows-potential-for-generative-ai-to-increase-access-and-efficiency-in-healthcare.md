@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-f
 webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,56 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Thumbay institute discusses AI potential in healthcare"
-    excerpt: "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms."
-    publishedDateTime: 2023-08-19T07:39:00Z
-    webUrl: "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare"
+  - title: "'India emerging as world leader in teaching and framing of robotics in healthcare'"
+    excerpt: "Today, technological advancement has enabled a policy of creating a new digital ecosystem that not only enhances accessibility and efficiency of healthcare delivery, but also made it more cost effective and paves the way for universal health coverage in India that is inclusive,"
+    publishedDateTime: 2023-08-22T12:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging-as-world-leader-in-teaching-and-framing-of-robotics-in-healthcare"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://gulftoday.ae/-/media/gulf-today/images/articles/news/2023/8/19/thumbay-ai-ajman-750.ashx?h=450&w=750&hash=BFCEEDC23B79CADBD7505AF297AAAE5D"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Docus.ai: Innovating Global Healthcare through AI-Powered Diagnostics"
-    excerpt: "Docus.ai, an AI-Powered Health Platform, is revolutionizing healthcare by making the highest quality medical resources accessible to everyone, everywhere."
-    publishedDateTime: 2023-08-22T20:26:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/22/docus-ai-innovating-global-healthcare-through-ai-powered-diagnostics/70653228007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 54
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/22/USAT/70653244007-docus-image-1-1.jpg?auto=webp&crop=1199,677,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "How AI Could Save Healthcare"
-    excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
-    publishedDateTime: 2023-08-23T17:27:00Z
-    webUrl: "https://www.aei.org/multimedia/how-ai-could-save-healthcare/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 34
-  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
-    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
-    publishedDateTime: 2023-08-20T06:01:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 45
+  - title: "Exploring Trends in Healthcare Analytics, Artificial Intelligence (AI) in Healthcare, and Health Information Exchange (HIE) Markets"
+    excerpt: "In recent years, the healthcare industry has witnessed a transformative wave of technological advancements that are reshaping the way healthcare services are delivered, managed, and accessed. Key segments such as Healthcare Analytics,"
+    publishedDateTime: 2023-08-21T09:37:00Z
+    webUrl: "https://techbullion.com/exploring-trends-in-healthcare-analytics-artificial-intelligence-ai-in-healthcare-and-health-information-exchange-hie-markets/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 25
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
-        width: 782
-        height: 440
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/AdobeStock_370796528_jpeg-1000x561.jpg"
+        width: 1000
+        height: 561
         isCached: true
 
 secured: "6cidR2czaShODytx7GbjfaEtIITQ7NLpQURFU7NNaOnwl7Q8fP2YQyvDgEkKVBMfFXnuWQrWF08/CC+Af9ZNlcOPo56jqXdwfs3erHr7sRgxi7PdqldsLRZRT0TMR9OZINARyEdi/d7YQvQS2o5/PNEUDIbEYrPRybX3Z/gbvJo3EP0BsulpQMGEzHlXv+kfeXLRhGvQJjm0pUJtZ9pK310bdYqzTMpcO4ILea6BJqFi9tTUBcjfyae0WOaZca/qfy7eZHyKYBpcRZBKHlyQxAf5Zy1/vxGVYn68O/NAq+mxLk6+61hlqDihhC0p4utdxOGE1vIZT2yIS3lEvS5fVH+ko+bz2cstKtwy9UgvtQI=;eg7RoGzUbVawZYJXYNmCFA=="

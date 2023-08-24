@@ -2,6 +2,50 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-07-27-medical-students-recognize-ais-potential-in-medicine-call-for-ethical-education.md",
+      "title": "Medical students recognize AI's potential in medicine, call for ethical education",
+      "excerpt": "A team of researchers assessed medical students' understanding, perceptions, and educational preferences related to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_754798_16904645865162642.jpg",
+          "width": 2000,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-six-eam-trends-pushing-the-oil-and-gas-industries-forward.md",
       "title": "Six EAM trends pushing the oil and gas industries forward",
       "excerpt": "As EAM technology continues to evolve, new trends emerge, promising to transform the way oil and gas companies approach asset performance management.\nThe post Six EAM trends pushing the oil and gas industries forward appeared first on IBM Blog.\n",
@@ -1091,57 +1135,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption.md",
-      "title": "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption",
-      "excerpt": "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

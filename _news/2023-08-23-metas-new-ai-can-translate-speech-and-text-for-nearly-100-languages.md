@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/metas-new-ai-can-t
 webUrl: "https://www.cnet.com/tech/services-and-software/metas-new-ai-can-translate-speech-and-text-for-nearly-100-languages/"
 type: article
 quality: 84
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://www.reuters.com/resizer/KzumeMKQ6J3LE2yegaLyNvl4hDs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PGRJZN6TSVMSLBS5E4ZSLX6SIQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Meta unveils AI model to translate, transcribe speech in many languages"
+    excerpt: "Tuesday saw the introduction by Facebook's parent company Meta Platforms of an AI model that can translate and transcribe speech in numerous language"
+    publishedDateTime: 2023-08-24T00:07:00Z
+    webUrl: "https://menafn.com/1106924475/Meta-unveils-AI-model-to-translate-transcribe-speech-in-many-languages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_234.jpg"
+        width: 4000
+        height: 4000
         isCached: true
   - title: "Translate and transcribe in nearly 100 languages with Meta’s new AI model"
     excerpt: "Meta, the parent company of Facebook, Instagram and WhatsApp, has developed a new AI model and donated it to the open-source community. Called"

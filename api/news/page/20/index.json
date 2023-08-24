@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-08-09-nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it.md",
+      "title": "Nvidia CEO: We bet the farm on AI and no one knew it",
+      "excerpt": "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/",
+      "originalUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/",
+      "publishedDateTime": "2023-08-08T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-35m.md",
       "title": "Seattle startup Dropzone AI, which develops autonomous AI security agents, raises $3.5M",
       "excerpt": "Dropzone AI announced a $3.5 million seed round led by Decibel Partners, with participation from Pioneer Square Ventures Fund. Dropzone’s pre-trained AI security agents are designed to work alongside",
@@ -1146,57 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-focus-disney-creates-task-force-to-explore-ai-and-cut-costs-sources.md",
-      "title": "Focus: Disney creates task force to explore AI and cut costs -sources",
-      "excerpt": "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/",
-      "originalUrl": "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

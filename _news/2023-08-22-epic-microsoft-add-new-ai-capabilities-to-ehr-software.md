@@ -124,6 +124,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "What's Going On With Microsoft Shares"
+    excerpt: "Microsoft Corp (NASDAQ: MSFT) shares are trading higher by 1.5% to $332.03 during Wednesday's after-hours session amid broader tech sector strength. Shares of several tech stocks are trading higher in sympathy with NVIDIA,"
+    publishedDateTime: 2023-08-23T23:49:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34015788/whats-going-on-with-microsoft-shares"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34015788"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34015788"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft could bring AI to the Windows 11 Paint app"
     excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
     publishedDateTime: 2023-08-23T01:03:00Z

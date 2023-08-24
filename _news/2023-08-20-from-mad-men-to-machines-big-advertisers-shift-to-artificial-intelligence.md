@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/international-business/from-mad-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/from-mad-men-to-machines-big-advertisers-shift-to-artificial-intelligence/amp_articleshow/102877958.cms"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -29,12 +29,12 @@ related:
   - title: "Advance of the AI adviser: machine learning’s role in managing fortunes"
     excerpt: "Wealth managers are embracing AI as a research tool and for improving client relations — but does it have the magic touch?"
     publishedDateTime: 2023-08-21T02:59:00Z
-    webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c"
+    webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c?shareType=nongift"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 58
+    quality: 54
     images:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619

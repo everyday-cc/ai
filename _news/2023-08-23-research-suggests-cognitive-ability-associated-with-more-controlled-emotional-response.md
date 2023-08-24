@@ -2,9 +2,9 @@
 category: news
 title: "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response"
 excerpt: "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities. Get up-to-the-minute news sent straight to your device."
-publishedDateTime: 2023-08-23T15:48:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
-webUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
+publishedDateTime: 2023-08-23T15:52:00Z
+originalUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
+webUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
 type: article
 quality: 16
 heat: 16
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "kQwJkDAzuBrqDqwuRv755GF1enudkGFgkCFv8C8pxtYqNyv5g7ZOU6MqtbaszXRyaEvFO2kKCU9LMSly5WvLKQIFHUCl5jOI76a+LhGdfTswQFF0KzpSAf4+iGkaBnzzVhwyQ+AYZ+HXImuQDtPJpZujCPgPeyQzNvdd6IaxaItQq03uUwbIzamCa1NNCmkvDKIShNa3ghNinUl2jdQ2sS6puq4C/Bp5xdY1giYzb/tC/017YFalCea7OvQkf6oCG0N2Wl5DeJtCe2PzvxcmfeOcKZCyXapSdlkipd7P0LXIKAeD+DDRb3YIP+4oTfEWBIp1hpxtNrXiWt9cORGW/md3kEMPeOcIVOUrEVogxTC8Ckp3LSH5LukxIUiqTIRayjka1qJwIs8+rmW1GHK7KNvCttEIHs6ZAgI9GuYUNRatcaDdnl4/5B7OuK9DQFnKyj0yRGvGT/MlA95jTLD1oytJeox5cLxKmPyWikNd0qUNe4aRAbensEfDfFu0Ut2li6d7u1FFayCXrYS7H6OUyA==;uqRhDG3ThFj4oDx5nuEYSQ=="
+secured: "YZLMFV5wOuMcTadg9It2BYnCTbTiupvLd4hZJOh/DKzRqpxlZyyzsetfTFclbogZnC9AQL2BaZWR4aheB6osrIqRP89xHJKNCQit2SZ/pXZpjdac7fHlq61TMK6/xNLsR8LW75WHuSgjNd6eiTIi6WfEUmmMDOM+1SW6QqAdYFjs0d/VdN6Zbnb2NoHYPRf3uCweua9H/znufxVDznWg786jmQ+FHISyZxQy2l/Kxo3jyQJq18Uh/bvnSvONp+dGtAPNBU+RvPPNpHDlQlllfLUQ7mn9dF2aGbXI19TvP0H884XJUbggSAb9wfEGtwZ5JqzDYzub6VX0ypYY+2LdVWGsbueTSedw8wdG+5/1cFs=;dKcAQX2rDqYDZ6REYH4WXg=="
 ---
 

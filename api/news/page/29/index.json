@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-08-02-robot-manicures-and-eyelash-extensions-how-ai-is-attracting-new-beauty-industry-customers.md",
+      "title": "Robot manicures and eyelash extensions: How A.I. is attracting new beauty industry customers",
+      "excerpt": "How artificial intelligence and robotics are transforming the beauty ... In San Francisco, a startup called Clockwork has set out to revolutionize the beauty service experience with its A.I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
       "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
       "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
@@ -1172,57 +1206,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-generative-ai-and-the-fourth-why-building-trust-with-your-customer.md",
-      "title": "Generative AI and the fourth why: Building trust with your customer",
-      "excerpt": "When positioning new emerging technologies, like generative AI platforms, solutions providers must be able to answer these questions with clarity, precision, and relevance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/aab9ab76805776187d2171327baab0431d44966b/2023/07/31/e4dba81a-533b-453d-8623-db9c22932277/gettyimages-1383963898.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/",
-      "publishedDateTime": "2023-08-01T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

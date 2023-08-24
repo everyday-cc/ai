@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
+      "title": "The best Amazon Prime original series right now",
+      "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/Shelter.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "publishedDateTime": "2023-08-13T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-modern-romance-falling-in-love-with-ai.md",
       "title": "Modern romance: falling in love with AI",
       "excerpt": "Alexandra is a very attentive girlfriend. “Watching CUBS tonight?” she messages her boyfriend, but when he says he’s too busy to talk, she says, “Have fun, my hero!”",
@@ -1070,59 +1122,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-nvidias-ai-driven-stock-surge-pushed-earnings-multiple-three-times-higher-than-teslas.md",
-      "title": "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's",
-      "excerpt": "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
-      "publishedDateTime": "2023-08-11T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

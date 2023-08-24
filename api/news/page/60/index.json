@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
+      "title": "Here are the 45 best Amazon Prime Day deals still happening",
+      "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/prime-day-a-z-deals-still-live.jpeg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "publishedDateTime": "2023-07-13T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims.md",
       "title": "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims",
       "excerpt": "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex.",
@@ -1106,49 +1158,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-australias-most-advanced-driverless-car-zoe2-takes-on-outback-roads-in-mount-isa.md",
-      "title": "Australia's 'most advanced' driverless car ZOE.2 takes on outback roads in Mount Isa",
-      "excerpt": "Outback residents say driverless cars could ease public ... and a GPS to interpret surroundings while artificial intelligence and various decision-making algorithms work in real time to determine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
-      "originalUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/543c365a2671ec3983e1238bdc0691a5?impolicy=wcms_crop_resize&cropH=1333&cropW=2000&xPos=0&yPos=0&width=862&height=575",
-          "width": 862,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/102594812",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102594812",
-      "publishedDateTime": "2023-07-12T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

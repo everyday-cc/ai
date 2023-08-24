@@ -171,6 +171,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Chip giant Nvidia rides AI wave as profits soar"
+    excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
+    publishedDateTime: 2023-08-24T01:15:00Z
+    webUrl: "https://www.macaubusiness.com/chip-giant-nvidia-rides-ai-wave-as-profits-soar/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 54
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia up ahead of results"
     excerpt: "U.S. stocks ended sharply higher on Wednesday as shares of Nvidia gained ahead of quarterly results from the company whose chips are widely used for artificial intelligence (AI) computing. Investors expect that another strong outlook from Nvidia could fuel a further rally in tech stocks."
     publishedDateTime: 2023-08-23T23:01:00Z
@@ -281,6 +295,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
+  - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
+    publishedDateTime: 2023-08-24T01:36:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidia-bets-25-billion-that-ai-boom-is-far-from-over"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Nvidia's Forecast Adds Fuel to Rally in AI Tech Stocks"
     excerpt: "Nvidia's strong forecast on Wednesday added to investor optimism. Big Tech and AI-related stocks saw their stock market values increase by over $70 billion, on top of Nvidia's increased value, as their shares climbed following the report."
     publishedDateTime: 2023-08-23T21:36:00Z
@@ -290,20 +313,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
-    publishedDateTime: 2023-08-23T21:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 40
-    images:
-      - url: "https://i.abcnewsfe.com/a/1d0f7fd0-2ac5-4a1e-8b4f-e7bed74513f6/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Nvidia shares up on hopes of strong results powering another AI rally"
     excerpt: "As investors up their bets on the company that virtually makes all chips used in generative AI such as ChatGPT, its stock has surged 13% in the past week and tripled in value so far this year. \"A lot is riding on these numbers,"
     publishedDateTime: 2023-08-23T14:19:00Z
@@ -327,6 +336,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 37
+  - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
+    excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
+    publishedDateTime: 2023-08-24T00:13:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/nvidias-stock-climbs-record-high-ai-boom-ignites-rapid-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
@@ -359,6 +382,15 @@ related:
         width: 800
         height: 525
         isCached: true
+  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
+    excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
+    publishedDateTime: 2023-08-24T01:01:00Z
+    webUrl: "https://www.timesunion.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 20
   - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
     excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
     publishedDateTime: 2023-08-22T12:42:00Z
