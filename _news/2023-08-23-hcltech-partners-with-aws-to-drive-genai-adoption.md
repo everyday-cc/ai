@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "HCLTech partners with AWS to drive GenAI adoption"
+    excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
+    publishedDateTime: 2023-08-24T04:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption/102999325"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102999325,imgsize-71678,width-1200,height=765,overlay-etcio/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "SGJDfvL/ThUYUlppVZKo0L8izhQHd6CRr2H5v6LqAIIi7sjc4oTHZ+R5XRMfJAcwA1A7ya2n6xwzO5iHwzDpqN6GVyDW0DBs12LgqARqr2/3DnGC+fd3dD6VcNd9QC5ggavm/RwHhQZWwsGRWa8aheGobIuRXcgE4S0IlsHPCOW2cC5gXTqJfAdCRVnRQPJP6MLCCITnJWv5FE1L4csYi+AyyUEHAncOh2VhlA6IedGC6tCBQ9HyyiN3umqBMgWHPUu2YZST6o2vnZ9/nmotI7OrGwhL8Q2SPEvowzWTv50pVcGn1UGafEpJcz12BrXEFQZtj5ppbPkvUh5Fn7hgQLrLQgCptvJwVR0jUIUC2ig=;L//A/yh9wEk5do6NFDmA+Q=="
 ---

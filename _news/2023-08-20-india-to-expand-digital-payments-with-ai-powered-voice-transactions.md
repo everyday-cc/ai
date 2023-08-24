@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "How Affordable Tokenisation Will Increase AI Accessibility in Indian Languages"
-    excerpt: "While innovations like ChatGPT are celebrated globally, the cost of implementing it in non-English countries poses a huge challenge"
-    publishedDateTime: 2023-08-19T12:05:00Z
-    webUrl: "https://analyticsindiamag.com/how-affordable-tokenisation-will-increase-ai-accessibility-in-indian-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 15
   - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
     excerpt: "Amazon India launched the third edition of Machine Learning (ML) Summer School, an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon, making them industry-ready for a career in machine ..."
     publishedDateTime: 2023-08-22T11:26:00Z

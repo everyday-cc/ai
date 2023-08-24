@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Closing the loop between artificial intelligence and robotic experiments"
-excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out.TSUKUBA, Japan, Aug 24,"
-publishedDateTime: 2023-08-24T01:51:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/a34016419/closing-the-loop-between-artificial-intelligence-and-robotic-experiments"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/a34016419/closing-the-loop-between-artificial-intelligence-and-robotic-experiments"
-ampWebUrl: "https://www.benzinga.com/amp/content/34016419"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016419"
+excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out."
+publishedDateTime: 2023-08-23T18:26:00Z
+originalUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
+webUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
+ampWebUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
 type: article
 quality: 73
 heat: 73
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
+    width: 1280
+    height: 609
     isCached: true
 
-secured: "C8QRG078HDc6ZAFWzLm2vEDYrto3HDIqm1SwFYekoKEkF5pue8FLDYSrkonOAs72SAAaYlRxCWC/A5nHVoBn8eu9mp1lb0/A2HNM1jgng3bOvnI0YcTPjuZEn09TRbcnKuTINVQvd6+57d5lhnQ92kt/LVw+YDkKW1zGJ+yDL3AvylfN2pW/9YTRdszJncKaIypHrGhydziHyA8B+H8FwrdxiolKN6/ESHgnTXXswD2vba3v3UVgxvckwzJXHNV2ytMBZt3a0PewFRqXt9AxJ1cSlgK778VpXArLNhj5GLqn0SLS/G0ZmZ9M+aUFuKvmX3sh6ar+UOQ/Hh6Y8QK93p6ne/9GTIGTPSEqbQQjGGQ=;3hqHyg+olPIE+f7ZPjsbbw=="
+secured: "y9Rezc5tiol0M9psqf2++35QbOsD6eUMTKUIrqkS0glPjVghotvkWGH8QY7E+DlSOb9+6TbcS8nSD7RHzvGmdxIF/xedWwouR5RMMUsZ76Jbd4nEhsCbGoixQsxwn8WD+RvH7RJSCQbKEr0piIejykEKGH3urW3i57/ezDmtK2LzkqFdyzu550kQXW7rEt4XRNm7RIivIXVc4RIMuNttYdnF0etUCbmaJ9X6PK8o8jx8kC0Zm6gB9IvUXYE7zSnGSoEI1BHPd15dUhs7TSBV1ypodzmN0zQE+nCIbJZP4CXqzML6fMkRyDp9hcZMwQ/kW1J55rD31Z88hEb0qbzYoE/Yh1S4qeTGnXO1KCoBBPY=;ljR8VluompCbeBFV2MC9ng=="
 ---
 

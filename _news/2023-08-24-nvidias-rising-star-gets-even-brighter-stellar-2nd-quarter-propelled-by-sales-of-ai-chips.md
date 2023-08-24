@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
-excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
-publishedDateTime: 2023-08-23T21:45:00Z
-originalUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+title: "Nvidia's rising star gets even brighter, stellar 2nd quarter propelled by sales of AI chips"
+excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech's brightest stars while riding the artificial intelligence craze that's fueling red-hot demand for its technology."
+publishedDateTime: 2023-08-23T18:02:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
 type: article
-quality: 89
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI
   - AI in Sales
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
+    excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
+    publishedDateTime: 2023-08-23T21:45:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
+    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
     excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
@@ -130,22 +146,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/yiorgos-ntrahas-mcauhlgirvs-unsplash_1_2.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Nvidia's rising star gets even brighter, stellar 2nd quarter propelled by sales of AI chips"
-    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech's brightest stars while riding the artificial intelligence craze that's fueling red-hot demand for its technology."
-    publishedDateTime: 2023-08-23T18:02:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 64
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Nvidia rides the AI wave as profits, revenue rise"
     excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
@@ -388,6 +388,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "yx10fKKSqJSolsRi+jTbweOVNxENs0RvOWR6caux7+TJiYbWRgezBmsbd8mcxJGi/wQxv0FHMaOAHEXE0zR8Krk51HadVUBO9nh0d24BYPoCnL4xa9yqwIaziktJrQB2B0UW//80NC9iaLNEFYavm2mvCit0uvR/qPHhx5rypePrNiS5xgrYAQXliAxicKyTsz9oxUPOxPr6wKIWlMCxI5WaTRxyAPG7smivnR3PJ9OV/lXGJ2CnLyHo+tC7K09KRKzeiK02/Vcoff2cmiluFOKr2mbttELlbFhT+Ins4BAQIKjtId5p8qfSgPOCxsgOsBAx3J40pYHg6Dc7Ga6jN7s9a2RI6b9+XnN3ERx+LPxBW/eSVvM5WWjuvzfHTR90zQ8Eych5rkmlh4wgB68G060si3yZ92Bk6RWLr7G7W7/RZUADW5vPTHhuwtwHXySH6MaEoE7PhftObYmEZjptfouszN9NREZOq2EXlNHKQgi3VyzJiQwc1ZyzDjoA4ZhBRvWMWPcljQcuCKwL1r9PeQ==;9z3KzZq96cku0pv+SKAr+g=="
+secured: "DDo2Jl5qzkKmLDahcZraGFmvJjblE6kEyS+JuF+AsWzk31kVaTVbF8icOmk7nPDIaXGpJtz4dDhTtOUN1UFowaycKOBUaHqhyVdHAyH3m6TafIQ/NShIRKvdGb1zMDxuVac6TTG0AWJ98OE1O3wog1dAWLm/KfFzYyhTTqVsw3P96UpcqFml702Ree0Nc0/rpshk+Sn/wddw9+B8l3fxnC4cPOhzBvUTcmvcId2aM+RnNAWieFlmYXDK1J5hMYeaIzdEZ6tfN0Xe8QKBLO0uHLyRVY7IPy7SOY6MrjSZ1Oa2fsuokQN3E0dGWPtrYUkLiV2WobGheGYWWzXyiWcl2U16ArbkjqtdHw53JbYd1O4=;BTlQd2DwCrBIdYKmtTOtbQ=="
 ---
 

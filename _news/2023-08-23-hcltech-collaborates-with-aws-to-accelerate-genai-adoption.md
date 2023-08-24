@@ -37,6 +37,20 @@ related:
         width: 763
         height: 428
         isCached: true
+  - title: "HCLTech partners with AWS to drive GenAI adoption"
+    excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
+    publishedDateTime: 2023-08-24T04:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption/102999325"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102999325,imgsize-71678,width-1200,height=765,overlay-etcio/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "ANAZlA41w1ONZWAlwnQkA7dLhm+OA8hWCn79NLv3gsy5Rjmq4JLo1jpyVeIjDPJKLaJIxAj6E7UFn7finS+SUu0BnMR+KMVCQFdu9B2uyNZwtvcJBsHm2YDXd03sTtWzOf1mVUowslxtQwUl9Beb5qer4/xqgiR702nRx/7M+CYVsqyGjbIuhQwFR3AbgfFXMcVa0coUMQfXJ+M+mZQV1CTzeIR/Y7ZgcvbfshvV0PW+gdc9uKLikhamXOspAEk/mX6RRWw/BFqXpo3JavMu33HL6EaYMHeuUR2VCcymgeryD6qE9Wf1OEGezt50YW3n/6bRtJww3DamzBjXOP6j0lShZDm/i1AuyWNAfkCC+9QOUoXumIxu4I21fNsU2u0TucCx1pFaZEviuFxY2OVdUmOpTENOxOBqAjDAtc3YiGLPwFHZ9kvFrWQerMDOu2hDYUMVX06uUo7j/yVaRWeiUxf20dWKg0wY3M/QYCw9EYT61pAtLu5+j3uguFMLSzpo9qIigWbYolqXcBcPVZTEiA==;u/UWleJY4aUNoDk2xHmKzA=="
 ---

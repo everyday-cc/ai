@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
-excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
-publishedDateTime: 2023-08-23T21:45:00Z
-originalUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+title: "Nvidia rides the AI wave as profits, revenue rise"
+excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
+publishedDateTime: 2023-08-24T05:52:00Z
+originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
+webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
+ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
+  - Machine Learning
   - AI
-  - AI in Sales
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://static.toiimg.com/photo/msid-103009472/103009472.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
+    excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
+    publishedDateTime: 2023-08-23T21:45:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
+    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
     excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
@@ -146,22 +162,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nvidia rides the AI wave as profits, revenue rise"
-    excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
-    publishedDateTime: 2023-08-24T05:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103009472/103009472.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Nvidia shares hit all-time high as chipmaker dominates AI market"
     excerpt: "Rising bets that Nvidia’s revenue target will once again surpass Wall Street estimates lift the stock about 19% from two-month low"
@@ -388,6 +388,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "yx10fKKSqJSolsRi+jTbweOVNxENs0RvOWR6caux7+TJiYbWRgezBmsbd8mcxJGi/wQxv0FHMaOAHEXE0zR8Krk51HadVUBO9nh0d24BYPoCnL4xa9yqwIaziktJrQB2B0UW//80NC9iaLNEFYavm2mvCit0uvR/qPHhx5rypePrNiS5xgrYAQXliAxicKyTsz9oxUPOxPr6wKIWlMCxI5WaTRxyAPG7smivnR3PJ9OV/lXGJ2CnLyHo+tC7K09KRKzeiK02/Vcoff2cmiluFOKr2mbttELlbFhT+Ins4BAQIKjtId5p8qfSgPOCxsgOsBAx3J40pYHg6Dc7Ga6jN7s9a2RI6b9+XnN3ERx+LPxBW/eSVvM5WWjuvzfHTR90zQ8Eych5rkmlh4wgB68G060si3yZ92Bk6RWLr7G7W7/RZUADW5vPTHhuwtwHXySH6MaEoE7PhftObYmEZjptfouszN9NREZOq2EXlNHKQgi3VyzJiQwc1ZyzDjoA4ZhBRvWMWPcljQcuCKwL1r9PeQ==;9z3KzZq96cku0pv+SKAr+g=="
+secured: "YaFrJP9sjkm33MB6tvyx4O12S0KW75sPXfSniq9wCTS9gtDCAgZBi1C6KBvU/aBSdnDtV5Sz1eaFm+no7jgkNzapV4OYVYwYRw6BgkZxZAR5SMw9CTuuEHgjCPNqgkkQ9AJRJRnEGW5jpAV6TtvWWAiM48lNBuONYRV796R4+nFEhFzDos6upPwHwYJGuH6styIteke5CxPH05iHt1Kd34N1xbodoYgThxQcyPvArbwIOY5yx05ptyFDeIFLM0u2Qh3Sny0G/5EZ+qX6oEu58SMHM6f4ncZNQNS/08Xcwh5/p0IZAa8ZNbyK5VCcOJCNLHDyZSYpTq8MuI2Mu9/kX9JI7jgsFFSOfEw1iiaq02Y=;0ozPzZT0MnUgZfH/9vR4Qg=="
 ---
 

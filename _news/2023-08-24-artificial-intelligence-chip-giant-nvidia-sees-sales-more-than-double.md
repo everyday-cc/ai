@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
-excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
-publishedDateTime: 2023-08-23T21:45:00Z
-originalUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+title: "Artificial intelligence chip giant Nvidia sees sales more than double"
+excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
+publishedDateTime: 2023-08-24T04:29:00Z
+originalUrl: "https://www.aol.com/news/nvidia-artificial-intelligence-chip-giant-031933146.html"
+webUrl: "https://www.aol.com/news/nvidia-artificial-intelligence-chip-giant-031933146.html"
 type: article
-quality: 89
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI Hardware
   - AI
   - AI in Sales
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/4892fd0e59caa1d37099924ccf036166"
+    width: 976
+    height: 549
     isCached: true
 
 related:
@@ -42,6 +41,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
+    excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
+    publishedDateTime: 2023-08-23T21:45:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
+    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
     excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
@@ -88,20 +103,6 @@ related:
       - url: "https://images.barrons.com/im-839819?width=548&height=365"
         width: 548
         height: 365
-        isCached: true
-  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
-    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
-    publishedDateTime: 2023-08-24T04:29:00Z
-    webUrl: "https://www.aol.com/news/nvidia-artificial-intelligence-chip-giant-031933146.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 71
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/4892fd0e59caa1d37099924ccf036166"
-        width: 976
-        height: 549
         isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
@@ -388,6 +389,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "yx10fKKSqJSolsRi+jTbweOVNxENs0RvOWR6caux7+TJiYbWRgezBmsbd8mcxJGi/wQxv0FHMaOAHEXE0zR8Krk51HadVUBO9nh0d24BYPoCnL4xa9yqwIaziktJrQB2B0UW//80NC9iaLNEFYavm2mvCit0uvR/qPHhx5rypePrNiS5xgrYAQXliAxicKyTsz9oxUPOxPr6wKIWlMCxI5WaTRxyAPG7smivnR3PJ9OV/lXGJ2CnLyHo+tC7K09KRKzeiK02/Vcoff2cmiluFOKr2mbttELlbFhT+Ins4BAQIKjtId5p8qfSgPOCxsgOsBAx3J40pYHg6Dc7Ga6jN7s9a2RI6b9+XnN3ERx+LPxBW/eSVvM5WWjuvzfHTR90zQ8Eych5rkmlh4wgB68G060si3yZ92Bk6RWLr7G7W7/RZUADW5vPTHhuwtwHXySH6MaEoE7PhftObYmEZjptfouszN9NREZOq2EXlNHKQgi3VyzJiQwc1ZyzDjoA4ZhBRvWMWPcljQcuCKwL1r9PeQ==;9z3KzZq96cku0pv+SKAr+g=="
+secured: "isfnWRoJbawA42DP+u+ZgvJoueTzkImJM82jstaGNfEdJ1u4sN+kTgJ3c9zd8hDXKReHK+PNVMFuXvDPGzFyZ6zJxDIpXF6Guwtb+LQ9XPZQISYEHRQR2sqkRBL1fceiN+nINyXa4UWkemcGOSqF++PjDTKcxH+AB27NA+Ap11A0XxS0Yp17TBdWZE3c1H7h2Xozbrg8+8Ov++YXMTpYEaq0OghcJmoaHrWfVTxLMI4w9+8Mmg5lJ3xV9h2g0WryGnAYqKPG5jnYS0qB7zJbRZIeEPk2SwUrO5Qei1cIh6ymbXILR7Hkj7yCMiEQT3TUdpNltjCfoghAFnaTsI1DZlrs8+10Hwiyh/oVP68NGrE=;2Bj7mFOD7EWGkZ9+/tY/7w=="
 ---
 

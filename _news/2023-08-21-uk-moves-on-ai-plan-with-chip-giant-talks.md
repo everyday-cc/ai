@@ -89,6 +89,20 @@ related:
         width: 548
         height: 365
         isCached: true
+  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
+    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
+    publishedDateTime: 2023-08-24T04:29:00Z
+    webUrl: "https://www.aol.com/news/nvidia-artificial-intelligence-chip-giant-031933146.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 71
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/4892fd0e59caa1d37099924ccf036166"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
     publishedDateTime: 2023-08-23T20:29:00Z
@@ -117,6 +131,38 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Nvidia's rising star gets even brighter, stellar 2nd quarter propelled by sales of AI chips"
+    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech's brightest stars while riding the artificial intelligence craze that's fueling red-hot demand for its technology."
+    publishedDateTime: 2023-08-23T18:02:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 64
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia rides the AI wave as profits, revenue rise"
+    excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
+    publishedDateTime: 2023-08-24T05:52:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103009472/103009472.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Nvidia shares hit all-time high as chipmaker dominates AI market"
     excerpt: "Rising bets that Nvidia’s revenue target will once again surpass Wall Street estimates lift the stock about 19% from two-month low"
     publishedDateTime: 2023-08-22T16:07:00Z
@@ -132,6 +178,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c446e34e469bb311d1bcedff852daa784b411b37/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=6b96b0090ed13f2560176b0767798731"
         width: 620
         height: 372
+        isCached: true
+  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
+    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
+    publishedDateTime: 2023-08-23T22:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
+        width: 992
+        height: 558
         isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
@@ -162,18 +222,18 @@ related:
         height: 1707
         isCached: true
   - title: "Chip giant Nvidia rides AI wave as profits soar"
-    excerpt: "The Silicon Valley-based company said sales doubled year-on-year to $13.5 billion in the latest completed quarter, leaving a net profit of $6.2 billion -- an eye-watering 843 percent higher than a year before. Signaling that the boom in AI is still going strong, Nvidia said revenue in the current quarter would ramp up further to $16 billion."
-    publishedDateTime: 2023-08-24T03:58:00Z
-    webUrl: "https://www.bssnews.net/business/143534"
+    excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
+    publishedDateTime: 2023-08-24T01:15:00Z
+    webUrl: "https://www.macaubusiness.com/chip-giant-nvidia-rides-ai-wave-as-profits-soar/"
     type: article
     provider:
-      name: Bangladesh Sangsbad Sangstha
-      domain: bssnews.net
+      name: Macau Business
+      domain: macaubusiness.com
     quality: 54
     images:
-      - url: "https://www.bssnews.net/assets/news_photos/2023/08/24/image-143534-1692847542.jpg"
-        width: 980
-        height: 551
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
         isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia up ahead of results"
     excerpt: "U.S. stocks ended sharply higher on Wednesday as shares of Nvidia gained ahead of quarterly results from the company whose chips are widely used for artificial intelligence (AI) computing. Investors expect that another strong outlook from Nvidia could fuel a further rally in tech stocks."
@@ -248,20 +308,6 @@ related:
       - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Nvidia’s rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-    excerpt: "Nvidia’s specialized chips powered the firm to second-quarter revenue of $13.51 billion, or $2.48 per share, more than nine times higher than the company made a year ago."
-    publishedDateTime: 2023-08-24T02:09:00Z
-    webUrl: "https://chicago.suntimes.com/2023/8/23/23843837/nvidias-rising-star-gets-even-brighter-with-another-stellar-quarter-propelled-by-sales-of-ai-chips"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 40
-    images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/ffc68a7/2147483647/strip/true/crop/5855x3342+0+281/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fv9BKNn7ChG8CuR7yCVDGd8pYpYA%3D%2F0x0%3A5855x3903%2F5855x3903%2Ffilters%3Afocal%282928x1952%3A2929x1953%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24869808%2FNvidia_Results.jpg"
-        width: 1461
-        height: 834
         isCached: true
   - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
     excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"

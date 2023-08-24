@@ -35,6 +35,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 47
+  - title: "AI Chatbots Help Web Content Farms Copy Work From Top Publishers, Report Says"
+    excerpt: "NewsGuard identified 37 websites that have posted articles containing text, photos and quotes identical to pieces from major news outlets"
+    publishedDateTime: 2023-08-24T04:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-says"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 44
   - title: "Tricks for making AI chatbots break rules are freely available online"
     excerpt: "Certain prompts can encourage chatbots such as ChatGPT to ignore the rules that prevent illicit use, and they have been widely shared on social platforms"
     publishedDateTime: 2023-08-21T10:29:00Z
