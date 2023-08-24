@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 105
+  - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
+    excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
+    publishedDateTime: 2023-08-24T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpOMg2bgk7DLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/08/Mint-Inner-Circle-24Aug2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft announced its first customer product features powered by … – Microsoft"
     excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
     publishedDateTime: 2023-08-21T08:23:00Z

@@ -69,6 +69,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "e3Atgg/TkeWrtxwPMTGI91d5mUSYD0/aKprtAkcyJcQAKsps9CStDaFmRkdny8U7qjOkIr9YOImv3RzpRa/N1NKs3ZFjWT0CnPSZrtvcHlj/8UFQD0aD/UB7okLDgRxPXJOCtm1SJPedaqYjoCb+zu9ddiQYow6jJzhymsV9vLWIGHT7XpgUaC3Bwbfr5r0WEFuY4zuVIQH2//p0RFukpOgUKExKMzCzDNG4aq39QVl/AFC8vXJ8MQJwYPT/l1KHNcMfJyxA6g4vZjxf3t+N1W+TPbH7GXOfX2zz7a5scAsKQ3qp/14c16fJC6dtSxc80adDrPFrlAaGsMSzsewfoHOavF4kqU+oeU0jlINnseY=;OuKxRIZSd/ABKiGf+HHPkA=="
 ---

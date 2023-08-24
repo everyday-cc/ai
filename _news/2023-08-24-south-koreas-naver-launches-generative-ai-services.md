@@ -23,22 +23,6 @@ images:
     height: 534
     isCached: true
 
-related:
-  - title: "Generative AI startup Contextual AI names Google Cloud its preferred cloud provider"
-    excerpt: "Contextual AI Inc., a startup developing large language models for the enterprise, today named Google Cloud as its preferred cloud provider. The company will use Google Cloud services to power several parts of its business. Most notably, it plans to lever ..."
-    publishedDateTime: 2023-08-21T19:32:00Z
-    webUrl: "https://siliconangle.com/2023/08/21/generative-ai-startup-contextual-ai-names-google-cloud-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-1-1.png"
-        width: 1032
-        height: 581
-        isCached: true
-
 secured: "6WogPUIyqX0p1gQ5wVfehZieddc9zs+HSh4JAgrYO8UBLR82il0Fu5kp7XLXXcxDgKSuKX+jXy1aifeSNeDNRRaWwHzg8mTUPwRzPY1wuNST9ifu42JjpOmwJJU0VQ5XPJG2+hrRYBkWBpxrxl8bSJPZjf2fBUbO1Xz+U1sNxz2bWxCfEgntMeUVw2rRoe5QGo1G+wj/xXap62EKsd0ReqO712f9txMzuQZtMok4R1HsDDQgZIXzJB3UPyZOt4vNykIPRTBSdss1zQG6rDQyT5pWb1/nxWGMzTKrDB+8JVfd0xhf2ZCz+51lgglWrsAQOtt0MjcvVpoePsMVK4+E3iZFjbHnEBnzWuoIS80vs90=;GFcwkclsarXVD4DbP7JBBQ=="
 ---
 

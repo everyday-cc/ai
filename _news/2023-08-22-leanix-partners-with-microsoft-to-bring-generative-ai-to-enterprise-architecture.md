@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
-webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Microsoft AI
@@ -109,6 +109,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
+    excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
+    publishedDateTime: 2023-08-24T09:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/google-microsoft-tools-behind-surge-in-deepfake-ai-porn"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
     excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
     publishedDateTime: 2023-08-23T19:14:00Z
@@ -199,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "4hIIOAqcy3LfX/DMR9eetMIJtmsHrTwLcHwBJ7i3d1InKTwXFaQsDyh0JuR5PImlcz1tg+WbstDQeG9ixOUJRBhTsepzEvlDHQ34fCTzR2OSj8oLejkm74MYEaFO2UGTwDep3PYsNT4QgvVZguSvL7Q9x2gFr26uV5D0ZP13RIY602nlAAXPAn/6y3UfQN7nl9cEo4PApdn+VOKYCnk+9F/z0w0t889YRFa1ZZo0Wu/N4/46c9TNGkDvTM0OtTvdsOYghdaX7XKYojysQ9xkzA8Cr/dLw+TPy3sASmILqaDKglZ3zJ7ie/TPh3O2wnMTiX9TA1pt2JTTKhybi5X3mX38wRjKrVCOT3LXM8TYGOo=;sJPh+t1Xa3xBtxOYwjhbvA=="
+secured: "zWU86MVuV96M/cnMSOtUlaEggxI0xuBH4yS5tOYpZTSl+IbCjq19jwLSZFHoN2exMTg5V8Nni9UYHPlDy++DPBJYuYxQMhERFIHzWS5jnND1rEycZeUB23V7xdOX7zECktUtyfFyNh0XQ8yiru1md+iwodReLW4v3pBMuVcbJcvE6/MCwL5wlV9dw82tuY4PpRHsMQWM4ev6j6J4USnQnYn0jgVWAFGrCtSLZnH9cBAefQNac4F8/XcvBZUi3VxbRcljSaIbmS87ojRwVSdq+1KyRNSJLBsrRSFoNnodlVx0kfOGVgqInPIR6j9+gCxcJ2sW3hP7BaKGcSLsjeqYOXATNA/l87KZJgOULwwHecA=;Jit7/cMijSXEnTfIotCAbw=="
 ---
 

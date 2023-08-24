@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "South Korea's Naver launches generative AI services"
-    excerpt: "Naver said its AI product, named HyperCLOVA X, will provide generative AI-driven searches for users as well as new customised services for enterprise clients. HyperCLOVA X has a suite of tools including chatbot application CLOVA X aimed at improving web search,"
-    publishedDateTime: 2023-08-24T01:04:00Z
-    webUrl: "https://www.aol.com/news/south-koreas-naver-launches-generative-010342053.html"
+  - title: "Generative AI startup Contextual AI selects Google Cloud its preferred cloud provider"
+    excerpt: "Contextual AI Inc., a startup that creates extensive language models for businesses, chose Google Cloud as its top cloud provider."
+    publishedDateTime: 2023-08-22T10:55:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 50
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ada7bdeafee0743f71587baaf91210cf"
-        width: 800
-        height: 534
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Generative-AI-startup-Contextual-AI-selects-Google-Cloud-its-preferred-cloud-provider.jpg"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "0EHxZ+Y03Z8GTEInqGqpT87YePF5BnQcskkX179cRHatazxSZbl84MiA0WWVrc3WSoftqF/Ynk5poNyYH9llWkV3m/sz8JS002BhrVlUiAEN7Sip2ygd5sESLFBQabITWgyyIehnYud0Ycq5nZfU8xMXDolfEQZrlHGKLQvFIGOrCtUUw12RlJMRkYaUSSH8GF22UhhOm9FuRhxBrk7kA72HWvR3c6LjS38NWeHqT3UzDdwI1UIMXPkJe8/f998BXfmcj42atdtPO7xxi9GIyk930afZIq/T+dJtw400uSNrLsQsw2Bi417QLcFSuJQXKOUr+qes7OQUEeR4znFWbUalMVFdKwz+CTqXYIKGcynxMZ1wL4oJg40JCSLkX9QTWH3e5Y3lxLXIkaKnrDBfwkwypRoWvs2xJJPRuEPKO0iT9W1G41mH1OibBFGZCXX1XkRQJZb9dOy88E6JT6NxNhoK/pCtdPRTtcqNWhR3BTiYciXTiWvIzbBDnLTPFYwWwrc3Ft5hyEfXDSZ2LC0yuQ==;CdEwx/b+a94jUcYn2xU9kA=="

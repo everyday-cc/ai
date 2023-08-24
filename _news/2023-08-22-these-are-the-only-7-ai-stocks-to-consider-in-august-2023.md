@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023."
+    publishedDateTime: 2023-08-22T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "The 3 Most Undervalued Machine Learning Stocks to Buy Now: August 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the pullback in the technology indices and that of the broader market,"
     publishedDateTime: 2023-08-23T22:00:00Z

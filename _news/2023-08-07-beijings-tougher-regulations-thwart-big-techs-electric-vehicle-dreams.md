@@ -3,8 +3,8 @@ category: news
 title: "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams"
 excerpt: "Red tape is frustrating the efforts of Big Tech in China to launch electric vehicles, with car rollouts from search giant Baidu, smartphone maker Xiaomi and ride-hailing group Didi all being stalled."
 publishedDateTime: 2023-08-07T04:01:00Z
-originalUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?trk=public_post_comment-text"
-webUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?trk=public_post_comment-text"
+originalUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift"
+webUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "hs8djCJ3QCdxYIdIaxDamcgQ/5pqylLV/OtA0AifdMCK61oBsghot6driVJLrxXgS8rHzBxE6dRaZYoRd+rdmoR1MaD0EpZYBAEvKm2NzbCU6jpqc+u3p7hlFbDZOYjwvhV8IE31ZTajua56sdW51u9PnZ+vTmK7ghP3kKSZuiHvinIJy2wB2stYkOMVhSXpdXm0ypIj5G/8H7kkbBxQ4F3p5N8WbXyjbPHwiufxn6MRjLDOYV9RqrJStCh1w4Sn6OmtLy6q8I3GJYthhoMbFAEUOag7oAuNHizixTjO3NR0dfwKcKvtyvM1dgzLaGrWfQyZuFQv8Pvo3BOtleUf7407T6Bkmh8umXlvICZoTts=;SAIAMMg8SO79L1a7VBNUVA=="
+secured: "OQuWsF9j2Ts75IHIgtMaKErk+oXMJdIKlOoQCMV1bWdgUqopuMZ0UUyx4Np64VcEDGQ7lcOLeIErMMga8QV3qYy4TQBNhXDoo9F4b+ptwmkHs6Uis6Zx9bQjWtrdTS2785zeUoTagUoEwkNvRvbRs2/bX17Q9jgpWu3jHzzLYZjulMd9Niu3FQ8qi7Hv8sNkBGWW+16qm+fUHqWFedj1fRxKA8rLSSvITfDKSONmbfPxucNkPAy2kT49ezyO59qV0/azmMgjnvgmSFDoziKkjKga7gUX34BCw/ObnZSuHhW14gqhIXJ69eNWAI7FrinPa45coMEHy6K2iPWAUCNQ8NfJNoOK9ik1bti9TNKSu8k=;3ZzGvRXGahJAT05DbsVQ3w=="
 ---
 

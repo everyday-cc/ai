@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 105
+  - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
+    excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
+    publishedDateTime: 2023-08-24T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpOMg2bgk7DLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/08/Mint-Inner-Circle-24Aug2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-08-22T04:22:00Z

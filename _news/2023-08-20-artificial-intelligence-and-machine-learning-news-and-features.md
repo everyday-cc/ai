@@ -35,20 +35,6 @@ related:
         width: 1110
         height: 624
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-    publishedDateTime: 2023-08-19T16:08:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230824"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "/hWjuulzCeMBX1ZtvweiChy+1ZpMXeq/itHg6ReG50/npj2mDnPMFuFybEkld+E6O0Zl5wk9fW0Gy3lON969Vviinve/86KUeXUwYmr9vNP/aR1XYmPYL6iIP7zQe69lPkBFWEhSGDO1SOsIt6osCjFzO7ulmMEkaQQyxeuDIFrj5lDOg8OdKaQSz7DkCzx2SQkgueSAUKR3VqnHPhMsHng9N9JbeHK7i+5Gw2T35m9ez4yui1+uZmXH/IqZd7Cj2h6BVAKH9k4BUcpr/fj559AlMsXZm8Mcre9uXjUgLF38A6h3mgw+ZMZ/hb240I3uHHelBgsiDZCoFuOwfQnPpUUYoXMrNEmjF9SYRm61zfs=;SHcq57oZBjHz5sAAiJkE+g=="
 ---

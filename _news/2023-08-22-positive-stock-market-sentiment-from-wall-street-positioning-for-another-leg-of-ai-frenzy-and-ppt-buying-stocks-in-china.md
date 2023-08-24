@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33987156"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33987156"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,45 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "2 Artificial Intelligence (AI) Growth Stocks That Wall Street Billionaires Are Buying"
-    excerpt: "Those products led Morgan Stanley analyst Keith Weiss to conclude that Microsoft is the software company \"best positioned\" to monetize generative AI, a bold prediction that bodes well for shareholders. The generative AI market is expected to expand at 42% annually to hit $1.3 trillion by 2033, according to Bloomberg Intelligence."
-    publishedDateTime: 2023-08-19T15:35:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 77
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744605/wall-street-2.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Bargain Hunting for Artificial Intelligence (AI) Stocks: Down 56%, Upstart Might Be a Buy"
-    excerpt: "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/20/2023. Discounted offers are only available to new members. Stock Advisor list price is $199 per year."
-    publishedDateTime: 2023-08-20T09:28:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/20/bargain-hunting-for-artificial-intelligence-ai-sto/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 73
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/744658/graph-businessman-considering-to-buy-or-sell-stocks.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023."
-    publishedDateTime: 2023-08-22T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "gpaiLvyp3DwshYY9VqvDIlctaMdFW9vVUXMmoTwpBt22jvYSdaGBkAuCi5lb6hf2hvo2yJ8GbNdNxso0j04XWXYsgDBZyf0+1yh+YSNoVsHEZwjWrF7AZD9YGMk/BxbD5BJiO3COuaNGOfq7fn0stRnD0ViEuLpClFfl/vyJbPwx/lW3UCcHuPnTB0N6bdReZN6d0ty5VSovMLbnzW2xqd2BGyJT0hrGog4cFrZ8xlO19DEHauooKKjDfpLZoRdP00aZXLIbw1W4zpdV9dcT3HWsqpYZaKyeF5Wr6Js9dsFOKzU/r3cNWXn/uY7OwWA57MpY1QjxSVPyLAiX6AUN9kMHFTIpw16InnTjv7uDas8=;DyAkKmIzmx81S0H98rHM/g=="
 ---

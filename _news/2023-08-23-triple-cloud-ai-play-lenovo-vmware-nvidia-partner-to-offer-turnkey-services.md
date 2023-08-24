@@ -35,6 +35,64 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "VMware, Nvidia team on enterprise-grade AI platform"
+    excerpt: "VMware Private AI Foundation with Nvidia will enable enterprises to customize models and run generative AI applications on their own infrastructure in their data centers, at the edge, and in their clouds."
+    publishedDateTime: 2023-08-22T16:56:00Z
+    webUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.html"
+    ampWebUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How VMware Private AI Foundation with Nvidia will help enterprises embrace generative AI"
+    excerpt: "VMware and Nvidia today announced VMware Private AI Foundation with Nvidia to help enterprises deploy generative AI quickly and easily."
+    publishedDateTime: 2023-08-22T16:34:00Z
+    webUrl: "https://venturebeat.com/ai/how-vmware-private-ai-foundation-with-nvidia-will-help-enterprises-embrace-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/VMware-NVIDIA-Logo-Image-e1692721208151.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Nvidia Just Announced a Strategic Partnership With a Private AI Foundation -- Is There a Better AI Stock to Own Right Now?"
+    excerpt: "But Nvidia isn't alone in this pioneering work. In fact, it just jointly announced a strategic partnership with VMware ( VMW 1.23%) launching the VMware Private AI Foundation \"to ready the hundreds of thousands of enterprises that run on VMware's cloud infrastructure for the era of generative AI.\""
+    publishedDateTime: 2023-08-24T09:55:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/24/nvidia-just-announced-a-strategic-partnership-with/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 43
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/745131/nvidia-vmware.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
+    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
+    publishedDateTime: 2023-08-22T21:38:00Z
+    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
+        width: 1000
+        height: 550
+        isCached: true
   - title: "Lenovo and VMware Expand Partnership to Bring New NVIDIA-Powered Turnkey Generative AI and Multi-Cloud Solutions to Every Business"
     excerpt: "New Lenovo ThinkSystem generative AI solution with VMware Cloud features NVIDIA-accelerated computing and software to deliver GPU-dense platform purpose-built for enabling next-generation AI workloads"
     publishedDateTime: 2023-08-22T16:30:00Z
@@ -60,6 +118,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 17
+  - title: "VMware, Nvidia Reveal Private AI Foundation To Help Enterprises Run Gen AI Apps"
+    excerpt: "VMware and Nvidia executives explain how Private AI Foundation will help enterprises build custom generative AI applications on top of VMware's cloud infrastructure."
+    publishedDateTime: 2023-08-22T18:00:00Z
+    webUrl: "https://www.crn.com/news/data-center/vmware-nvidia-reveal-private-ai-foundation-to-help-enterprises-run-gen-ai-apps"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
 
 secured: "/fMd2klRITTucTWDx9rpT2r0g5KRPwwk+9SDr0w6vfunUrGph3x3p1u46FBFGof1rHBTs176xRPDWHHMkYhvz+b/uemL9ag6AzvEHOP9wcqMB1q0EFJ+lOJuby4uUBOvYznoXSAmkXHKkerN2jMl4yuqVnqANrIT4Ge4Dvu+WLzBW9CbosSJnyMd/6rHH+plxGxoz+KFAdBVuex5EZeatpyRjadiLuMOxVSLUXww0MtAEsaH4/iUayDmDe9RDYm1nHSYsFe588ivEQIVliGJGPvZ4EbAnIRgUJ/+AOwubbRfLzIrQ+dUczF7rnp4DB4Pga33B/9BCuAQ04D5CQuufTCQQeE0LKsfy9L8IVImcgQ7PPL2F5HSu3COnAV6/ealES0SvDzhFDG1Qu/2fVeK2+I5RLHE2t10+uhu9vpbRjz7hdNh9Qhc+Z3mwwh94kBGf9DtVh+855qCyEMNKqUQXI70koea/MZ3CFXrF0/x3qDjTU89qHbEzZZuo8VGRv3E1mnJZTo4AQwr/8XwREfEJQ==;2TPyfyM/pv49wZXD20x+WA=="
 ---

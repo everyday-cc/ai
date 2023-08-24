@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Unlock the Full Potential of AI With 7 ChatGPT Courses for $29.99"
+    excerpt: "ChatGPT is capable of automating a wide variety of tasks within your business. Through step-by-step videos, this collection of courses shows you how."
+    publishedDateTime: 2023-08-24T09:23:00Z
+    webUrl: "https://www.techrepublic.com/article/2023-chatgpt-for-business-mastery-bundle/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08232023-2023-chatgpt-for-business-mastery-bundle.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
     excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
     publishedDateTime: 2023-08-21T07:19:00Z
