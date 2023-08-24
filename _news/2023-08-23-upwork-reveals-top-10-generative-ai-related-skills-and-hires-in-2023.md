@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-
 webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
 type: article
 quality: 67
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "AI skills most sought by employers revealed in new Upwork report"
+    excerpt: "Businesses are searching for workers skilled in the use of generative AI tools like ChatGPT, Microsoft's Azure OpenAI, Stable Diffusion and more, according to a new report by Upwork."
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ickVVIdX3.6zjSdu_qLbjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/e3ce8239c928a31795760eadf7a2fe18"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
     excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
     publishedDateTime: 2023-08-23T06:05:00Z

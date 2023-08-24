@@ -45,6 +45,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
+    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Lenovo and VMware Expand Partnership to Bring New NVIDIA-Powered Turnkey Generative AI and Multi-Cloud Solutions to Every Business"
     excerpt: "New Lenovo ThinkSystem generative AI solution with VMware Cloud features NVIDIA-accelerated computing and software to deliver GPU-dense platform purpose-built for enabling next-generation AI workloads"
     publishedDateTime: 2023-08-22T16:30:00Z

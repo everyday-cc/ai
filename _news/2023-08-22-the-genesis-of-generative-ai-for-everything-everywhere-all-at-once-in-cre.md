@@ -198,16 +198,16 @@ related:
   - title: "How AI Is Accelerating the Future of Cars"
     excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"
     publishedDateTime: 2023-08-24T08:24:00Z
-    webUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
+    webUrl: "https://www.criticalhit.net/technology/how-ai-is-accelerating-the-future-of-cars/"
     type: article
     provider:
       name: criticalhit.net
       domain: criticalhit.net
     quality: 39
     images:
-      - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
-        width: 1024
-        height: 525
+      - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars.jpg"
+        width: 1430
+        height: 733
         isCached: true
   - title: "OpenAI gets lukewarm response to customized AI offering"
     excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"

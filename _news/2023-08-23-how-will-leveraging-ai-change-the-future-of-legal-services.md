@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai
 webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

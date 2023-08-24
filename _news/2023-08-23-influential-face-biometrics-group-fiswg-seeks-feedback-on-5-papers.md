@@ -33,6 +33,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "ROC.ai hires senior researcher to meet growing biometrics demand"
+    excerpt: "Rank One Computing (ROC.ai) has announced the addition of senior scientist Garrick Brazil to its Research and Development team."
+    publishedDateTime: 2023-08-24T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202308/roc-ai-hires-senior-researcher-to-meet-growing-biometrics-demand"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "oyW4pyzpQwgSINGqls451JPw63WbOBBbSF8ow8lJeieaWr7I+rj+rxFvEIpbaLhGhtt4b5n6TobUV+6cMfkW7o4qf/9Ze3/XEwAGazITJSv57pXC+gRksztViJvJmYHEGOTvy7AJOgl2IdwqiCpL8dodZwlhATOmXZVwXY5hGXIInk59m0n+Y7hxtIVsSyBKL2kHLJ7mykBOcEHwTgYMUsdVi0X5cK4BMxxTSC8WP71vWKJ9MbbYCy3fzOXhlPkcI9bxRVcEplpEHplWKZgISh9ZQB9xp4gEGzm2WNVZBI4wIs/H/zrMl+fiCgGvDsrYDTbKoxupJhl5W42OP77A53FbQ9GOrsQRvGa7KB/D1M4=;L3JefUIZ9fFbXmQWJ4NPqQ=="
 ---

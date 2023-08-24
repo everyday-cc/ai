@@ -3,39 +3,27 @@ category: news
 title: "Nvidia: artificial intelligence chip giant sees sales more than double"
 excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
 publishedDateTime: 2023-08-24T03:19:00Z
-originalUrl: "https://www.bbc.com/news/business-66601716"
-webUrl: "https://www.bbc.com/news/business-66601716"
-ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&amp%3Bat_campaign=KARANGA"
 type: article
-quality: 121
+quality: 51
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
   - AI Hardware
   - AI in Sales
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
 related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T03:19:00Z
-    webUrl: "https://www.bbc.com/news/business-66601716.amp"
+    webUrl: "https://www.bbc.com/news/business-66601716"
     ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
     type: article
@@ -154,6 +142,15 @@ related:
         width: 4167
         height: 2688
         isCached: true
+  - title: "Nvidia tops estimates and says sales will jump 170% this quarter, driven by demand for AI chips"
+    excerpt: "Revenue in the second quarter doubled from $6.7 billion a year earlier and increased 88% from the prior period."
+    publishedDateTime: 2023-08-24T03:54:00Z
+    webUrl: "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
   - title: "Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
     publishedDateTime: 2023-08-21T20:40:00Z
@@ -353,6 +350,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia sales hit record high as AI chip demand soars"
+    excerpt: "Artificial intelligence chip giant Nvidia has seen its revenue double in the last quarter due to surging demands for AI technology. The company’s stock surged by nearly 10 per cent in after-hours trading on Wednesday after it posted a sales growth of 101 per cent year-over-year to $13."
+    publishedDateTime: 2023-08-24T12:34:00Z
+    webUrl: "https://www.aol.com/news/nvidia-sales-hit-record-high-093548911.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 51
   - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
     excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
     publishedDateTime: 2023-08-21T13:00:00Z
@@ -530,6 +536,20 @@ related:
         width: 842
         height: 438
         isCached: true
+  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
+    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
     publishedDateTime: 2023-08-23T20:50:00Z
@@ -663,6 +683,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "BG1rgEgAHOJQLeSlv8NvuXaMXpCtiwjTVPvZW1aOnvVKKfFRmtLGSoItVXfd6gjMLKGppFTEOmXQBOIbG0UzxCzAcIO9J0Ps+LdhANSWmVFyCl03qlHStMEZqBU1Si93GRdFit8QSIsVZR6VV6XmuFhHuTQI5gzEdvpL+1FCBSh/LsOYi6HqM8i5dQMXSzivIIcJgBStsokwTHqv6FMkvTFSH7Z8OSJd2YO/b5Z0MhA0WTE2E8RUwGr56vZeOFyaZkMn62hmL0Z3wrXbkP8qMgubb7K5ttqL2Lh9O3a7oWc5hQ7aWBZOG3HMGImBX2XH43aSHbIa4MgjVPOji2FmhRjV1n7VCIJSQzokY7wjVQJYGDArbmLMcwsiJZ5tnZTVlx3WpNpWuU9Jw21HKYziXDyhO6zShzw3+EQDReyjo2Tc6egVahQFbWayVzVmzv4NI/kivbh9JqbH3He6edenJEeGDegxTghO4rDaOQTrnV7kKhS5nyLqg1NkrYJ5a+DUH4p6NEN62meUuwY8nUVkqg==;Nq2tCDdyQBAbnpdRgEBslw=="
+secured: "5Yb4gmJxCliEJWjw+O8o/nL1ywy2QNTHMzkqTyS/BahciguS/Jh4Ie34QYgGKnhleODANrCHx19amR4TpYgE72abm7BshdU3Vaanbc5SCBN4j42cExZfm6w4beTo1VTHCSABPAagESoGHIXOnc7SAUV8DUxFd4n01FXNHGLfQOEJiI1OjrwSOrZ2fwEZnUD39KWLHx96/VT5usVUyeATtsC8HG+hWM7nvohAGM4zpr4S6G6sbgLo9M+WDkZfWTtUajeAw1uKvk1c6WC251TIkHYkeR8Qx8k02pz6y94hy0pEtmIVO3rPGTTUC1cVimH6dLRoxyH4hMqItDGgkh4krwIIUyzeuUsEttH0Y2MBgJO4bksgpq2rKBlYjZPiA9imubgtRm9vAW/LLSymW6tpR+BEU9zG3PWz9Uy9W72sodaQKzJt7vK1LrGGR8M1yMTiHCsjnTN+JqzsxJA5zyiprWGN89XwjRpCa1And8nZyvP7P6KukDdSQ8iBpb5gWSffwx+pslxGhcKWg+moJGyjTg==;ql6xWdSR/xh7xtgmgBeOGA=="
 ---
 

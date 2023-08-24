@@ -3,8 +3,8 @@ category: news
 title: "How AI Is Accelerating the Future of Cars"
 excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"
 publishedDateTime: 2023-08-24T08:24:00Z
-originalUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
-webUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
+originalUrl: "https://www.criticalhit.net/technology/how-ai-is-accelerating-the-future-of-cars/"
+webUrl: "https://www.criticalhit.net/technology/how-ai-is-accelerating-the-future-of-cars/"
 type: article
 quality: 39
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
-    width: 1024
-    height: 525
+  - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars.jpg"
+    width: 1430
+    height: 733
     isCached: true
 
 related:
@@ -302,6 +302,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "iL64kBR6M7PGe1CHGk0uzLvYsnEZf1xuisLykQ+QF4nZujkFZny4ry/xH2RgVxfxQv7eISNXeEWNLBAzVIAqq4vKhPhb7yUAvFDf4oZzx0ruM82Q/op8fvbqj0YRTPxr5DmCck+4Ml/cpuFiqMX33+KqEwXxdMPR/Kd034wPWRSJ3k/wQnmF1ZVXkh9nJPNhykkfYZJySf4LG7G/Glg3fvV4/7pUdi3MipHpjYkclQGnZXUWXmprvVKTWaUr7FY27fy4iNO/7Sq29jFYsD51Y5nRtB3/XzU4uG8wxroUt+UT10tLhLFS5oTXXXkYsxulo1XqP84Yd8CohLM1wvN+3UXGSA6WHowKuiHzBhxVwUsDwepYDKFNiq4rdAz098GrJZB27y+r1yhBIxIa4MoovlN5gY1ufEop4eIPOPmRmU7WDJwA7H3AxErDK7PAbcugi/q/tgZKp9lh7ZPguKa5GwFbztGXdJ/acF8aSeZgPoUf/g2BreYs2UQP70pFeOPx4h1rRUR8CW4itgne+AR14g==;CcxZpjCliNRcFCg1tI+fLA=="
+secured: "TiTwNsJlQm5T/ER9ZjLgmPV1vwAoV5s7joVECwJJdWolzaIb3SB3X8nZqKIroxUDUwFVjiOqZPzdSyP1EBtk25C0Yb6OzYo3T5LcSe0uEwpTA1cjdco66Oc79cV+IE8D2k7tZrdWM8VjKmKYHb2A+TkVllNP/CSTopvefoYqfYivLSr5Q1bbvr/o9CZlGg/FhftlWzunhAkWl3gY9foXarw0QE+ikPLpRYFcgZWcU6R/JNYgVTxyPWwkV/SeUdEgk7A5Ch4c8acLOeizM5qDv6aLI3OEIP0yw2DjJq8aev9Pz2SRPAMLNtuWZcEStJW7UXKiZ/OCNI/7UrpYK5oqCEQ+3AAUTJJ1fSjAgnimbnQ=;oI+ONk5geho6RHACnjyuRw=="
 ---
 

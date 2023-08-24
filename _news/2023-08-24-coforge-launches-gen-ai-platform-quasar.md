@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Coforge launches AI platform Coforge Quasar"
+    excerpt: "Coforge Limited, a digital services and solutions provider has launched Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities. Coforge Quasar comes pre-loaded with a set of 100+ APIs,"
+    publishedDateTime: 2023-08-24T13:32:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/articleshow/103029679.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/amp_articleshow/103029679.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/amp_articleshow/103029679.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103029679,imgsize-110988,width-800/103029679.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Coforge Launches Quasar: A Next-Gen AI Platform for Enterprise Transformation"
     excerpt: "Global digital services provider Coforge has introduced Coforge Quasar, a comprehensive Gen AI platform for enterprises. Designed to foster AI-powered applications at scale, Quasar is packed with an array of features and pre-built solutions that promise to transform various facets of an organization."
     publishedDateTime: 2023-08-24T08:52:00Z

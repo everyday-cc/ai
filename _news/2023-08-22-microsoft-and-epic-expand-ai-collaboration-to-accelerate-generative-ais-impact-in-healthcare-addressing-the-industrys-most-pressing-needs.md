@@ -178,8 +178,8 @@ related:
         isCached: true
   - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
     excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-    publishedDateTime: 2023-08-23T13:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
     type: article
     provider:
       name: TMCnet
@@ -206,11 +206,11 @@ related:
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
     publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+    webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 29
 
 secured: "eLK7wCahTqv1AxigEstBe75wwMZxCS3A6pP96E1d5HcjdoOmw1LkRWyv17nEfzyHCU60oKbD5H2kZNambHYFJp9aduiJQOewxZRy8QdGDX5V38Y6kSHLO0iBUF+6fzrFF7ot6K+U1Y2ZxQe1i3U69dUmD6bBPV2Di78FTG1ucC+6G4qN+SKHc6EogLw8GiQMC31EKdtaSOE4suHtEH/VFB42BKxcRvss5ydMAqN1DSBLFcuXcX0vAQbZULNl1zleFDaMDN17sxp5bM/e+DHcdCthDeWjGWJgAVtMBL+8G+q6R9uXnxieTtAjD3CP4W/I2vW/KnQ880nIZITyiQsR+KbwmQSGdTt6EhjBJ1Umsss=;OxoqRmVS5sylNDT3e6q1+Q=="

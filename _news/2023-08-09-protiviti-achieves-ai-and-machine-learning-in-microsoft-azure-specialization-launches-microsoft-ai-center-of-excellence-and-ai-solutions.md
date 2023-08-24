@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
-publishedDateTime: 2023-08-09T15:54:00Z
-originalUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
-webUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
+publishedDateTime: 2023-08-09T16:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize"
-    width: 924
-    height: 485
-    isCached: true
-
-secured: "7uPvK8WzaGocb8GTx/Qtm6+UzgMbC4vL+8QKw11cx++K3xrmzqkJpCNx1hev2oFDpqd+kxGSrAo9SIRYQQUlbcmXE0qnbRza5qE1ENRY5a7KABFw46dAHrULVtk9VtczH9zVrfU3mYaQ7y5JdVy6qjwHXjwLr1y2MuofpY0vtA6UmGOg+yIjgpy6ZozOEMay48IqCxOZrzL0wuaJLgJliEM7ypDBq4vNdeUiFgh0arweRjbbuxJEfkmnCGP2rTJDcbuw4wSNC4B/teJOHKVienxvUCg5i+0t9qntKtPTzmKiV5ajYIiyfaWblCeWl3HjOkUJswnxDJEUnmpmhPP+0Nz5dzpB1j3O3Uc2jPYFNXU=;/2ogZveq9LZRMPjVveIlZg=="
+secured: "RgrbPgWX5WBbPt58yoz+bw8E0Rv49J0jb6RCwQ7iEa5roJc3qwoFg/SGShY8/k4375a+nUtbmKd0ThTP9isOzkRk80/Im3OGzNtz3oYaO4mZbyIofAqLxKdFhgavMAdxrgOvxjJZOzXocBTpbnZBwePme/rnJhLXtcc7Xxjnz0D8sp95Fhw58LHXViz0KT0jYRp3H+9msUoJxd5W+sneFJ5xXdgci6pVV+yg2yygcET7KB12dNy1zxLCddPKE7TpryHoip9RoeuYIZexrYx8Oe6MWVAC66Pdbr1rdbAu4x6Cc97nS8UKxyO2LqaI/mriRujtPHM/4IS/QAqfSBya05F083lWgUkhQA5SZvpkBqPlDnV+ju6kYT1lz0nKqjpkz/Up6QzPYgLXYB4DiioovEw1eorlj8G3TZTaulFdIv4RXYHRufL1Y88rU3st7P0hK59P+djnOHsce0jIfqYeV5K9J4Tk86QS0gw6YuqohBZuMr9COEAdla9SWvk9TQfVhRzvVt+OOdy57laxylXhqg==;Ai889REGioipSdXqgnpVbQ=="
 ---
 

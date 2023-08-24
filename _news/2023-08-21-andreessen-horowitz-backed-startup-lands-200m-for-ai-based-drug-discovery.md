@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "A16z-Backed AI Biotech Startup Genesis Therapeutics Raises $200M"
-    excerpt: "A large round to a startup working at the intersection of AI and biotech is perhaps not surprising, given that the two sectors have led our list of very large funding deals this year."
-    publishedDateTime: 2023-08-21T16:47:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/a16z-backed-ai-biotech-startup-genesis-therapeutics-raises-200m/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Biotech_Privacy.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Genesis raises $200m for AI drug discovery engine"
     excerpt: "The latest round takes the total raised by Burlingame, California-based Genesis to $280 million and will be used to transition to a clinical-stage drug developer, according to the company. Its first round brought in $52 million in 2020."
     publishedDateTime: 2023-08-21T21:19:00Z
@@ -60,20 +46,15 @@ related:
         width: 683
         height: 512
         isCached: true
-  - title: "Andreessen co-leads $200M investment in biotech startup Genesis Therapeutics"
-    excerpt: "Genesis Therapeutics closed a $200 million Series B financing round co-led by venture firm Andreessen Horowitz, the AI-driven drug discovery startup said Monday."
-    publishedDateTime: 2023-08-21T20:37:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/andreessen-co-leads-200m-investment-in-biotech-startup-genesis-therapeutics/"
+  - title: "Lex Lands $2.75M For AI Writing Tools"
+    excerpt: "Los Angeles-based Lex, a startup developing AI-powered writing tools, announced this morning that it has raised $2.75M in a seed funding round. The funding was led by True Ventures. According to the company,"
+    publishedDateTime: 2023-08-23T18:06:00Z
+    webUrl: "https://www.socaltech.com/lex_lands___7_m_for_ai_writing_tools/s-0083597.html"
     type: article
     provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 19
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-1243702915.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Incubators
+      domain: socaltech.com
+    quality: 17
   - title: "AI drug discovery company Genesis Therapeutics scores $200 million in new funding"
     excerpt: "A Stanford University spinout, promising a new era of AI-guided drug discovery ... Genesis has no clinical data – in fact, it’s not officially saying yet when it will even start clinical trials, let alone which conditions it is targeting – but ..."
     publishedDateTime: 2023-08-22T15:21:00Z

@@ -79,6 +79,24 @@ related:
       name: unite
       domain: unite.ai
     quality: 17
+  - title: "7 things you can do with Bing Chat AI but not ChatGPT"
+    excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
+    publishedDateTime: 2023-08-24T12:52:00Z
+    webUrl: "https://bgr.com/tech/7-things-you-can-do-with-bing-chat-ai-but-not-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
+    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
+    publishedDateTime: 2023-08-24T13:31:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 6
 
 secured: "UfK10cHffc0OQ4PEEB6mUu8zJrqqg6azYqJuCIMK20LrwDkjdgbLVFTL4dHiqijg8nf21+0N7OlEnlILihhHJc4yPe61WrMYKTFrMbDbTJ4QFJVoE/dXAx7sacNjOoUUAL5MRscZNv8nsxywBGVQNAeSs2uehBOwFSCOftnvzIvmceuXYlTR3oWNJ6pDwWY3xuJTYTO+iwZaajuju65x+Ouyu8QZJtykkENEFG6C14GvRUdVmCRQyhRUgMcQ+TRbyZ9ICYPBL2CCG/UfwMUMPT+LKipa0MDXO2sVQicrlc1KhJDeqyX2rlVVrxNjXwxU+tjeLPMfyMSIR1F7lViFbNi8BpKWTxSitTUwsZjBWws=;gfkSEj/5/8OKpwm1NWabEQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 782
         height: 440
         isCached: true
+  - title: "Achieving Success with Modern Analytics (Part 1 of 2)"
+    excerpt: "Fern Halper, TDWI’s vice president and senior director of research for advanced analytics, discusses her recent TDWI Best Practices Report on achieving success with modern analytics -- including exciting use cases and common challenges organizations need to overcome."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-with-modern-analytics-1.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/analytics19.jpg"
+        width: 976
+        height: 400
+        isCached: true
   - title: "Empowering Data Management and Analytics with Self-Service Forms and Dynamic Reports from Pedigree Technologies"
     excerpt: "Pedigree Technologies' innovative solutions allow companies to harness the power of data management and analytics. The launch of Self-Service Forms and Dynamic Reports represents a pivotal step in streamlining data operations, driving efficiency, and making better-informed decisions across diverse industries."
     publishedDateTime: 2023-08-22T15:26:00Z

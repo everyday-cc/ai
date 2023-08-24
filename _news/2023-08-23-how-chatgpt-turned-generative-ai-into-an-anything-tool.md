@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
 type: article
 quality: 91
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -85,6 +85,24 @@ related:
       name: unite
       domain: unite.ai
     quality: 17
+  - title: "7 things you can do with Bing Chat AI but not ChatGPT"
+    excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
+    publishedDateTime: 2023-08-24T12:52:00Z
+    webUrl: "https://bgr.com/tech/7-things-you-can-do-with-bing-chat-ai-but-not-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
+    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
+    publishedDateTime: 2023-08-24T13:31:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 6
 
 secured: "WiXMSV1d5riEkbrhvKiQsKPkja1tdKlcq8k2bIgjTbu6JTSv+UJ4L8xmpas5xsXrh/V+18CoV5qzL8Y0/cHmUHghfGdZF0JaxPZqYFJI3uyEVDQjiLV65rO3zjUqtzS/IyPtwKBeNGPhyiuPrn8YfxoyyUUqAv9RceZlQJG3KzkAXU/wy8XBLIfXXgDrQwKLHqKm2+nPEhPwsgd+yBtrfXBUOmA1PzYkq7fOYMuuQ0e8/2Sdm3mQKG8fnVsIuqAaI3/aDa6Q69wMdN+nklb+RC7H8RTxGKmoi7e4EalgfJLlzl0Q+2hZSXfn+ZdzmZ93uEfJGbfWMJENVFepzevndgegttwRP5PW1P6DYwN9V9JN9avkLFc+sqiIN3zG5d4lPYmd/TIgl0RWj9P7ZQljcN3aa/Ho39xzq/auJ8Duvuapt3PWr6cWzI7wQfFb4tKd7hb53cIAzaY/P30ARW2MZ507whqlsc31ThuKRUXplWSxyOyGSkbEnz8j/G1/Xv5TMg2NxM0emBMiSgTeDVWpcg==;p+6LeTOWsGRLWZemq9AkJg=="
 ---

@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "UK commits £100M to secure AI chip components"
-    excerpt: "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part"
-    publishedDateTime: 2023-08-21T09:54:00Z
-    webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Global AI Race: UK to spend £100m to produce AI chips"
     excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
     publishedDateTime: 2023-08-21T13:37:00Z
@@ -67,20 +53,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
-    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
-    publishedDateTime: 2023-08-21T21:30:00Z
-    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
     excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
     publishedDateTime: 2023-08-23T13:59:00Z
@@ -109,24 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
-  - title: "UK in talks with AI chip giants"
-    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
-    publishedDateTime: 2023-08-21T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 34
 
 secured: "ymLSvJ47mknKulx65CZ5Wc8sffEvrLXt1uzmPj1AD4W3Pl+D4gWOblyx/ylgYgmlca8i4VSaT4Af2dDdA4oyV31RbgKG1lQuiOiL4AJ8N1WH4I997TDo8VjYcrW6xK1ruGYZZN1iAjO1JKFB8t6HRixOaAxQCHV5i+3aoFVl0ji0BWQhiCcaLOMzxB0PQ+uqaYfn8WZNUTbebBD1lzvdwGejCqMfCkaJTk3udVxjpBGV+SqdxCwXl3HMQ70CnaOx31Rv5oZpYRlT+0wFlGIn4KE77uRfYlkLjySgxyLsVS612alfVjJPCHZTOKtjG7UVbXMqgfd/0KhCxeqMvT+R8bUuC1J+3IZc0TSukwzZZHWNkYXSrpLDjt7q+SmdYjxyslVpYtErwBQOFmuUWV8LuUG6QYylRM7PwyTuTEqxEes6UGuUmqBR1GG4TqOagU71B/ixdNQ08nIA/67DP4a8f7oKm8EtfDWV+SP5TpxVAFgYpkvoi77aH/Od2GRp0zdeL3TBMCsqk9UWzgNEkO0p6w==;yaUSgVfjw5hmnZCrs0BAKw=="
 ---

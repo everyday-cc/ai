@@ -57,6 +57,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "UK in talks with AI chip giants"
+    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
+    publishedDateTime: 2023-08-21T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 34
 
 secured: "Zgq9CX62wKMilGJy5fHXWrV7QF68fv1eiOv6pdpGvyaYvxBCOBekFlaOTekxGTf4deSLTkQFb9lmPyaPRTq+tT7/ACjByTTpGnv7RaATD/g3Ke7Wn1kyXwyVFWDbl6lsatOwWXHHDER2IXVcDevBZOHh/fr3UDpgc7WpyrdRIQPNCeYW9xwOSsGRJRRY72Z4PKPbSU91N/N0wUHNrDLQqn419O+AXKCVC9XJJR+O9G59fFu8RqHOhK7eKcrQu7M+Kf5Nhlqmm4tWbJClueEaQU2xZ3D/v414G1yzi8Je2e1daY5EA0r1VpzwugATCP/F+BhlMWPu1nsdlGDbw0I1hWvYDgkCmoMw4mjhv55LKdO1FOCGlvUfBX8ag9A+4KYhx635PJmzjpHEx5dMBfZAnuz6rjHJ6gv/koB0dCAd3p4USjVOPvVov5wflbvTJI2qoRwqypx9Dq+8m6QkLQS3l32zOSi0swHvCgeNzqwRjjmf0TBIcc+3FA4PYO+IS1ZuYmJp5nm5Juh7bGgGWswIdQ==;881j5WiM8/eC1qmrG8rA7g=="
 ---

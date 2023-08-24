@@ -18,48 +18,52 @@ topics:
   - AI
 
 related:
-  - title: "Portkey.ai Secures $3M funding for Faster Deployment of GenAI Apps"
-    excerpt: "Bengaluru-based startup Portkey.ai is today announcing a $3m seed funding round empowering engineering teams to build and launch generative AI apps faster."
-    publishedDateTime: 2023-08-23T10:40:00Z
-    webUrl: "https://analyticsindiamag.com/portkey-ai-secures-3m-funding-for-faster-deployment-of-genai-apps/"
+  - title: "Genesis raises $200m for AI drug discovery engine"
+    excerpt: "The latest round takes the total raised by Burlingame, California-based Genesis to $280 million and will be used to transition to a clinical-stage drug developer, according to the company. Its first round brought in $52 million in 2020."
+    publishedDateTime: 2023-08-21T21:19:00Z
+    webUrl: "https://pharmaphorum.com/news/genesis-raises-200m-ai-drug-discovery-engine"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: pharmaphorum
+      domain: pharmaphorum.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/chatgpt-fail-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Portkey.ai makes it easier to build generative AI apps. Check out the 14-slide deck it used to raise $3 million from Lightspeed."
-    excerpt: "A startup that enables businesses to build their own generative AI apps has just raised $3 million from Lightspeed. San Francisco-based Portkey.ai — launched in January this year — aims to help companies deploy \"very complex applications\" on top of ..."
-    publishedDateTime: 2023-08-23T09:17:00Z
-    webUrl: "https://www.businessinsider.com/portkeyai-startup-businesses-build-ai-apps-with-3-million-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/64e5c2014c17ff0019bac2a3?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://pharmaphorum.com/sites/default/files/2023-08/DNA_molecules_internal_organs.jpg"
+        width: 900
         height: 600
         isCached: true
-  - title: "How Ex-Mindtickle Exec’s Gen AI Startup Kombai Aims To Simplify UI Coding"
-    excerpt: "“We are building a generative AI model that understands design as humans do,” Dey told Inc42. Today, the Pune-based startup has announced the launch of its public research preview, along with its $4.5 Mn seed funding round led by Stellaris Venture ..."
-    publishedDateTime: 2023-08-23T09:31:00Z
-    webUrl: "https://inc42.com/startups/how-ex-mindtickle-execs-gen-ai-startup-kombai-simplify-ui-coding/"
+  - title: "Genesis Therapeutics Rakes In $200M For AI-Powered Drug Discovery"
+    excerpt: "The startup’s physics-centric AI platform is what sets it apart from its competitors, Sklaroff argued. Genesis has “deep expertise” in physics-based methods for computational chemistry, which the company combines with its proprietary machine learning ..."
+    publishedDateTime: 2023-08-22T00:11:00Z
+    webUrl: "https://medcitynews.com/2023/08/biotech-ai-physics-drug-discovery-venture-capital/"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 36
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/Kombai-social.png"
-        width: 1200
-        height: 628
+      - url: "https://medcitynews.com/uploads/2017/01/GettyImages-488634096.jpg"
+        width: 683
+        height: 512
         isCached: true
+  - title: "An­dreessen Horowitz-backed start­up lands $200M for AI-based drug dis­cov­ery"
+    excerpt: "Genesis Therapeutics, a startup using artificial intelligence to design small molecule drugs, has raised $200 million in Series B financing — one of the largest rounds for an AI-focused biotech this year."
+    publishedDateTime: 2023-08-21T12:00:00Z
+    webUrl: "https://endpts.com/genesis-therapeutics-raises-200m-for-ai-drug-discovery-based-on-stanford-research/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 13
+  - title: "AI drug discovery company Genesis Therapeutics scores $200 million in new funding"
+    excerpt: "A Stanford University spinout, promising a new era of AI-guided drug discovery ... Genesis has no clinical data – in fact, it’s not officially saying yet when it will even start clinical trials, let alone which conditions it is targeting – but ..."
+    publishedDateTime: 2023-08-22T15:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/22/genesis-therapeutics-200-million-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "eUVBz/NPsSrLr+VgB6ttbLf6iiwDa6ODAkbxdJt/VoXhCWECUBM36zRfZoJu7J2J+d6iQp9r/Vlt4oYaq4g7z4E/I/HlqNo7ur6Z6d0zikcMEIjFj7RUs6zmdRxjtN+MK14fjvdh8vfM7/smhbQRf5CTounNyI0SvwNLJXnm8m7BmHECEcGxAuVE4QFwRMB9eJoZhI8NxXNP3gGzE5ti3a9sqfnWQgKczAuYKwk1Gb4PMuo/65qsJYkTmQGq72koDLFJW091GYRFVy7p53R7Nkv4HaPZv67Q28AJyyg6YIYe7WEpt0eb/Q3VMFFGLyzcjQ1/LhEObwNuwl29zF4rj1fveK5rXo4LxYlhtJ5b028sAxGKmYgJNmSrbq2IRShrQUPeyO38pO4o2tPNB13uktmi//BrNSQ4YEmxYau0qQaHC0cHs6+Qm3wUx5dz+H5dE7h94SKyD4wFU8rKED6QPgL7qtseqFPmaHT4OMyQP2lZjLZ492opn1717xVjgXhLaG75CSsjTyoi/vvhsfO1oQ==;7W2SXPvG8zbFr91V9buqbQ=="
 ---

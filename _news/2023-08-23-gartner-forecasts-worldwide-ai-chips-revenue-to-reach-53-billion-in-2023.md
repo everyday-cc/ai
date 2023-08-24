@@ -42,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "AI skills most sought by employers revealed in new Upwork report"
+    excerpt: "Businesses are searching for workers skilled in the use of generative AI tools like ChatGPT, Microsoft's Azure OpenAI, Stable Diffusion and more, according to a new report by Upwork."
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ickVVIdX3.6zjSdu_qLbjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/e3ce8239c928a31795760eadf7a2fe18"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "CFXbzJ3+H6eDmktp0+wakFk5bh3sBMylTsMk+QrbnxC5GWgJrCd07H/CPZn1bjPSFJNJylP4hz5PB7cyVg6VZJF7WTmUOSzrPwDKXDJ9fbGShRJfu77fBimcAdsP/9lpeQSrxrP++W0V6pJ0qJejStbATbTkBsKBubgDC63kXwbaprTLsbZJupeqKt9M+fXQ9bNnEhPsV4cxhnmC8TQ/djZBb3N8vNZlatLIvfETW0OfsIKwPFCfHJ4tS2xiLgwacR9SVSjD65S5jxk+jIwuZj9tCJqcX0khrfWH1r6zWcY0aogvo/GWKlpnci6+uwffirtJZ/M/5dbgdBuxOi0LI0l3yL5feQKyphgF8jhSkmI=;TdjLibHPQGyJ8DOMbtfYXg=="
 ---

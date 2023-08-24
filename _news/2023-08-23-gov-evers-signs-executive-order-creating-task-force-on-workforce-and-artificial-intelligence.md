@@ -34,6 +34,15 @@ related:
       name: The Hour
       domain: thehour.com
     quality: 16
+  - title: "Gov. Evers creates task force to study AI's effect on Wisconsin workforce"
+    excerpt: "Wisconsin has become the latest state to launch a task force to study the effects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
+    publishedDateTime: 2023-08-24T11:59:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/news/gov-evers-creates-task-force-to-study-ais-affect-on-wisconsin-workforce/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 16
 
 secured: "q9/c+UYxg0JsgeAcLIxSPqpewt5PS0MXb7oWr5w1gLkGoNXGzBLH958YzSyxCKRz7YMGLhEsR9d5hdAdunFR5Es/Ew8tsVAVOBcngybwL0TEkuQ4rKdircuF9LJbE7MT4vmxf0hYWmwVSKOLneSSWVGfUPsuK7fDxD/Ia8wfTrdylTjirlob4w3w9q+nKSXTSTFyvUuKZWr7fWfWR7GMiODQEAyAzkjtfqy4YuZJJlxqEFUARjB6IulBTK25AwcqDvAFX3XQ/kKWQo1BFEBihGm/XiefgGIBfqSxC/D+5o8ulEgflblxoLuHXS7C72sNY6uG2FbdNWY5jm9rCUI660oJh6dQBGM02wGuM0WNmmob9JoaRtkAB7jaLw7hmTKhlGpZFsiMweVFubBWcBKQecR5ITUNY/hl6qred6q1feN7rBKl7UVkY5IwOyXx0GtnCBtMog0Wq/FUL1JbcR9aEJcegpQwwz+wNlqZVO1nXWdrnCCIq8FcdiiRTsAWBQjpF9xwZ9yqCku15EtV4NoLnA==;VhS/ee8lXdZmvzBIHLlZHQ=="
 ---

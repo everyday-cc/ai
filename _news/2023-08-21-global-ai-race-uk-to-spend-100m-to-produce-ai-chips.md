@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-p
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: enterprisetalk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK commits £100M to secure AI chip components"
-    excerpt: "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part"
-    publishedDateTime: 2023-08-21T09:54:00Z
-    webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
     excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
     publishedDateTime: 2023-08-21T02:51:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjI2OGJiM2YtMmRmYS00MDE5LTlkYWQtYjgzYzFiNTJlYmVlLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
-    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
-    publishedDateTime: 2023-08-21T21:30:00Z
-    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
-        width: 800
-        height: 800
         isCached: true
   - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
     excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
@@ -105,24 +77,6 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 34
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
-  - title: "UK in talks with AI chip giants"
-    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
-    publishedDateTime: 2023-08-21T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
     quality: 34
 
 secured: "Xx9xWj3a/91E/5DGCkrl9CjUMI8AQoeOypCiKlxbYo0u5EVV/GSxBOvcV4xAfZBLSwp6yhx0l3trmHUKefKGifuNLlWe9bur62mzd/d2HDccmgfqyUyV9hOk07dmla1srofVcRNQeqnMb9JiWpfbFuD8nvtS14hrbYQkmbq45g7VuPNga7o/0CHJ77Fc7CI0X7b0JAg6sWCl2xLbY1ENs8GdXCFop1+IJTixyXGo4xFMfQRCClZ89PCIZ3SCCrSjoDXMEV9+cJup8LVfVLzr4x1TU3Pbqd3o8MPqcPMtw58y4dFq1y1cI7dYHM6M8Ay4943it5+16q8d9aJ150PTM6/CM25RLlo7c4KCP6AeFyHRToHfmiKOU+5IRsi6auvQayspo8D4sOqFf8qG4A4gmQ8o/AuX0tYW+wWcMedjjV17TYquyoD/ALzBxNSNGdWA4CHF3nn8fXc0BkMLVBnXkcCgQ0hVC45bsEH+IfcLT04fOfb8QReVacbxikovHjgln+2YrJMlSVq+ZKIDnyurbg==;Eapr5qFySaRLsJeYyMSAZg=="

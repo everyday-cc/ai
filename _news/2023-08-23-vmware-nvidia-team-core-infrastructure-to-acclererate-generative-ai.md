@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
+    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Nvidia Just Announced a Strategic Partnership With a Private AI Foundation -- Is There a Better AI Stock to Own Right Now?"
     excerpt: "But Nvidia isn't alone in this pioneering work. In fact, it just jointly announced a strategic partnership with VMware ( VMW 1.23%) launching the VMware Private AI Foundation \"to ready the hundreds of thousands of enterprises that run on VMware's cloud infrastructure for the era of generative AI.\""
     publishedDateTime: 2023-08-24T09:55:00Z

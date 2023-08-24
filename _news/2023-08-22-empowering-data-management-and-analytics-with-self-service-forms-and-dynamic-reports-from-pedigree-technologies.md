@@ -51,6 +51,20 @@ related:
         width: 782
         height: 440
         isCached: true
+  - title: "Achieving Success with Modern Analytics (Part 1 of 2)"
+    excerpt: "Fern Halper, TDWI’s vice president and senior director of research for advanced analytics, discusses her recent TDWI Best Practices Report on achieving success with modern analytics -- including exciting use cases and common challenges organizations need to overcome."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-with-modern-analytics-1.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/analytics19.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "ZghQAQEb3jBHVzfpfzylETAHdyI1yUpzsR54PEwOypgd4Oy/OMMyOp5CILyayW3qAckjh20wVqWxITnL6ZBanEABQZZtqRCWYiEHrOqhgHlPxt0KGPWjVNi5IbGC7snezt+5xWHj7xRmEOdmVJAeYDHzitaUNhBrLtlEmn6xbteh/HOJ5913NRULNT7qKN3EpjTP+nWTUh2V9vIZqYpFgNTzN7hcOqbTUTKg7xGXELQSHopTcl8MZD7194DVjWcOs94NrWD2awoaomTsdiWccZdc2a/Xz8noW//K9pJpYs6F6mHm+V6NhHo7RrSAhnzFwzY0xIkIP+JBvokBjoi3bmqN+nUQg8u0DlailtyqXEW1zKhydmzJ2BqUuyclZO3mPGIKAv8N5dm1LQh0gzrVCMKNfN36pbGfS52g9a0wGpQUjkrB9IdK6dnG0xYSqD/2BUt65EDwvyHGRXIUxl6tRgMEn3k9j1QKFv/YBp69bv7MA2wWzHTN6n6akz+GGuaTLk/z3H0hmJRx10Fgmgrwmw==;MhoFRuzHApBZSSUNvcpmKA=="
 ---

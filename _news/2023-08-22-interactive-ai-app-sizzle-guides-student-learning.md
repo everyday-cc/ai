@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1110
     height: 624
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
-    publishedDateTime: 2023-08-19T22:24:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
 
 secured: "JbeoeT3Th/rXqI5mqn6gBObIo4R00xdKEVPKV5AALHQhdymXC3hnLKr6citqALrrlccbd03QZTmRPkepr0ZKvuTgx0N16kfygBFHpf6tjYxVzh0GO6wKHhqQcPQIvpbGwoqeK1szD/94VXqE7LJyByA4uJ+uhvZFXtBw4q9GvuoNE/q4zNjVWN0LhuOh0R/DSLpGiAgSbsx3F7j9aS7ascVOBj2I0dGitZdGRuzJDMlVXOlKy7ytXnVuxkvQJoutocPhuKUljj5JRAyATFlEICXgBGDebrHNfKovl+Hmlm9iOiVhft9FmUuPYx8Bbywwj9Jm7kyGdZE3mbldfzYsz4EyauNRAQoda7ue9wSRIVw=;pe1VJC5MCF8jXi6e45wjaQ=="
 ---

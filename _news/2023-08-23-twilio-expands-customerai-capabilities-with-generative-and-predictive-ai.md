@@ -42,22 +42,6 @@ related:
         width: 1164
         height: 610
         isCached: true
-  - title: "Cutting Through The Hype Cycle Of Generative AI"
-    excerpt: "But how exactly will generative AI affect work? Answering this question requires an understanding of the differences between generative AI and the previous generations of AI. The following analysis 1 illustrates the most significant differences While earlier iterations of AI were helpful in predicting specific outcomes,"
-    publishedDateTime: 2023-08-19T19:59:00Z
-    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2023/08/19/cutting-through-the-hype-cycle-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 687
-        isCached: true
   - title: "How will AI impact the data center industry?"
     excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
     publishedDateTime: 2023-08-23T06:02:00Z

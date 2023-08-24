@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-component
 webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
 type: article
 quality: 84
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -29,87 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Race: UK to spend £100m to produce AI chips"
-    excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
-    publishedDateTime: 2023-08-21T13:37:00Z
-    webUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/"
-    ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
+  - title: "Modular secures $100M to build tools to optimize and create AI models"
+    excerpt: "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ..."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/"
+    ampWebUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
-    excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
-    publishedDateTime: 2023-08-21T02:51:00Z
-    webUrl: "https://cointelegraph.com/news/rishi-sunak-buy-ai-chips-in-race-for-computing-power"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjI2OGJiM2YtMmRmYS00MDE5LTlkYWQtYjgzYzFiNTJlYmVlLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
-    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
-    publishedDateTime: 2023-08-21T21:30:00Z
-    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
-    excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
-    publishedDateTime: 2023-08-23T13:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/rishi-sunak-to-spend-up-to-100m-of-taxpayer-money-on-ai-chips/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/s465_Rishi_profile.2e16d0ba.fill-1200x630.jpg"
-        width: 465
-        height: 246
-        isCached: true
-  - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
-    excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
-    publishedDateTime: 2023-08-21T11:04:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/blogs/are-the-uk-s-plans-to-spend-100m-to-produce-ai-chips-too-little-too-late"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 51
-    images:
-      - url: "https://www.newelectronics.co.uk/media/vfipvhi3/investment.png?width=1200&height=630&mode=crop"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "UK to spend £100m in global race to produce AI chips"
-    excerpt: "Funds to be used to order key components from major chipmakers Nvidia, AMD and Intel"
-    publishedDateTime: 2023-08-20T10:40:00Z
-    webUrl: "https://www.theguardian.com/business/2023/aug/20/uk-global-race-produce-ai-chips?ref=biztoc.com"
+  - title: "Modular looks to boost AI mojo with $100M funding raise"
+    excerpt: "AI deployment across different types of hardware is complex. Modular aims to help solve that problem in a big way."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://venturebeat.com/ai/modular-looks-to-boost-ai-mojo-with-100m-funding-raise/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/image1-11.png?w=1200&strip=all"
+        width: 1199
+        height: 1262
+        isCached: true
   - title: "UK to invest £100m into chip production for AI tools"
     excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
     publishedDateTime: 2023-08-21T13:02:00Z
@@ -118,15 +67,6 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 34
-  - title: "UK in talks with AI chip giants"
-    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
-    publishedDateTime: 2023-08-21T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
     quality: 34
 
 secured: "0maSJUsjoNji6+i5Xa4Dlbork+/gY62FUEyKXSDhTSCWyV66eqBTUUd9JmDPN/80IpaekAMJOFKTyvS0aphqz5W3CF9/zgyUhYAbRphfQ3U3y+CkFe1AyRRo5b70KYx6k/kgqnY4lbfmN1RVlPnGGfsdo96tEzdof6JRXOhWnpXMPodPt7SAyLsBOiuwUNlv4i8HTO+UzrWCAJjuqxa6yHASL1WuciO+fjR+VkcQH76NFasKfHwAHbj6lbxDkuYwfqm5NDB4fiewAMLSUHokrr1OX2oGI4JDt5cittkmlLykh09ZxzXA7JkusKtK0dPJhDhHkasFWpKTIRJZ5dzVAHR58xC2Af2pf40CTMzNgXl9Mk5THXSywIKi6/NMMfTW+L6Y7g/kU1e/6NJrITFAR9Dwu6/7t03425Y1ZHeVWqWW4p17cWVNaorlT7GUPzySwRVXiBZLojxmXjeh6CWGLCDan29ryTrUWgo219fYN1QqvfY2Vnq+rNFeJKf+zN8m6zJqXTu1R9slErG2ui45vA==;ybEKj6IYxMG9Wz+1rUbECQ=="

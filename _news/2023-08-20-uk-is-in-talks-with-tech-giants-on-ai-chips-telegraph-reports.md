@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-te
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "UK in talks with AI chip giants"
+    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
+    publishedDateTime: 2023-08-21T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 34
 
 secured: "D2sYXblZl0gpoE3qzDoplSNwkPZYFx8HblIgooi5tw1XoJtHnOIB5bBLfKPPBW33w7LuOdtvQ2Nhnf27YButsEczNd8a51gTIq0ROUIqqd6bnKHjnLAVUpvhcJY4qrGaDGbW0/GiN7cmOV7fvkUHGIx7/KPJntXn7Citi6o3BZC5mXz8C1tLGclTivGoDbasR2d87ah8k2/HHTlxmqVNS3ReEy7LJAcJdWEK7IU8+vCuOe6AQB/pccFQxTpcKO+wDscxOCecak/yFDc6QUOCJPjnwDuvkg2g8ov1aj9vlyZEpip8lh+JaAplsk4ELBMc+k8O1VYbA3f0ri2Wro14SJ4xVVohPif3MCqWQ7taTokYHH58cQPck8v0VVSw3uRZsBvfX7toqYJBaSk3bQ238uAJputQv0mDH9dGXlMTEO02dJ+2lLfmyeIg6p2JltBmh6vyNQsRBGENUNXz2nAvSXPFln33DgQ6gDONssnFtfNEC1onfJYLRqxjePYTXXOl4+EsvgqoEb0tyeKXc3lkhg==;4IOVqwfUNArXja9BjdWoZw=="
 ---

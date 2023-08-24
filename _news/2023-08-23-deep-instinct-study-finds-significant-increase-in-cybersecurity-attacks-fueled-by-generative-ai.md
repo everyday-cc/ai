@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-excerpt: "The study highlights the impact of generative AI in the cybersecurity industry, analyzing the technology's positive and negative effect on organizations' security postures and preparedness. Unsurprisingly,"
-publishedDateTime: 2023-08-23T12:14:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
+excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
+publishedDateTime: 2023-08-23T13:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230821068264/en/"
+webUrl: "https://www.businesswire.com/news/home/20230821068264/en/"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
@@ -34,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "yXpLmuM6x644vBBZ1XtasSUM4VE1/3DdkdiWCLy8QNucW0ownaxdbm8jAyWkbqJJciZ+6uu0oDyxzuzeAJEjIv3SCdf33Uo80VkZ8vqBAs1lAeycvBdchhjK/n7/kIBd/DU0uQvkPSq084u4fspsFpRiaiYfSD/1hCzG0M6amYWoQ5ADOp28FrLwPshib9jwhZIVgnjrp8fOltSUhwBQSNE7/mNzvqrR/afROuBVAd9CWFFnV6aLn0IDDfHBnjFqXx2Vm1n85Qlt5CtwKxArs0FVlA0TBYXgT/USumz09GgIKoV9WZkpXD/2WTz2xEYBJqn5JYxfJWxKJ6bnzVd5vKD9oGPBxF27EvECfNuhyME=;TwZvX3hVw+J05aSvNW82fQ=="
+secured: "B7h7xBjTYxmVllYlrHl5gnGcZnK5zD+FKbTR+xjo0z1p3fhI2Sviy1eab40rMLMp9h0ZYBYuveuqIn1iJGAprjGjheks3GdSLvt4NdEubLluRi6CbWQeKCupS1n8W0oFzfnLFiKBM7AL5eOqYM1lexi4iDX1ZyQ8WHIvpDmFDYkwVzuau6YMPPzBr39uglciCn6IuafmGdMNqG0pZuf0PBeH4n8QZPYrMR4GRriY6z6LCn0N1C8W1ZPWDC+Vi0mUc54sggqU4frepsd0NxF0RTt9011B4H7rVPz4BnmiPZht2Wjrwznqz4FFs7LXNRXCCrzd3JZqH8cwGBejQGfHRZMWbimhZ8z2QIvIu4RME3GRj7Vyy+JZfQQLltRa3KAat6ir1X6pWQKFJ8VKMRecV1vODi9VazTRYF3lJfbKE5GVzMnBjE22k7IkHbBWjizB5Oj2KIjXXEzE7HoXMDf0kDQst282Rk+vTChcZS4+R36LtVVzgu2H1cMRHlGpepHW/Fb0Pi1xNloSg64wjQMvBQ==;xI01YuDEhgb2ie6XXGEVTA=="
 ---
 

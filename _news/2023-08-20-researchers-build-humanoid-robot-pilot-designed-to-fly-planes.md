@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid Robot Can Fly a Plane Just By Reading the Manual"
+    excerpt: "Using natural language processing and AI, PIBOT can perform takeoff, landing, cruise, and taxi tasks without any modifications to the plane itself."
+    publishedDateTime: 2023-08-24T14:00:00Z
+    webUrl: "https://www.extremetech.com/aerospace/humanoid-robot-can-fly-a-plane-just-by-reading-the-manual"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 21
   - title: "This robot can autonomously fly a plane as well as a pilot can"
     excerpt: "Researchers are in the process of developing a humanoid robot called Pibot that can fly a plane as well or even better than a human can."
     publishedDateTime: 2023-08-20T13:28:00Z

@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
-webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Microsoft AI
@@ -173,8 +173,8 @@ related:
         isCached: true
   - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
     excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-    publishedDateTime: 2023-08-23T13:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
     type: article
     provider:
       name: TMCnet
@@ -208,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "zWU86MVuV96M/cnMSOtUlaEggxI0xuBH4yS5tOYpZTSl+IbCjq19jwLSZFHoN2exMTg5V8Nni9UYHPlDy++DPBJYuYxQMhERFIHzWS5jnND1rEycZeUB23V7xdOX7zECktUtyfFyNh0XQ8yiru1md+iwodReLW4v3pBMuVcbJcvE6/MCwL5wlV9dw82tuY4PpRHsMQWM4ev6j6J4USnQnYn0jgVWAFGrCtSLZnH9cBAefQNac4F8/XcvBZUi3VxbRcljSaIbmS87ojRwVSdq+1KyRNSJLBsrRSFoNnodlVx0kfOGVgqInPIR6j9+gCxcJ2sW3hP7BaKGcSLsjeqYOXATNA/l87KZJgOULwwHecA=;Jit7/cMijSXEnTfIotCAbw=="
+secured: "sQkS/RzND3yA/ZLaEpPtHmzwcVY75swe7rU2Nhj8TQiYBPqBgQ6HdA8W6Roi+VuTv+z2NyxuEZmLhvcND5rp0I/g1wjin5Ps/ZN/DxZBcltYny/N2R6ZWQta8cUIid/SiFwy9dpJgCTX4Ei3hsWdu8QXJ8IS0yRDkbRU+BUR7wbspUKmA6Zds8odf+dVwyklu/FkA666NrCCBLCAjRZ2LEU7Udy+9h0E74zSPo6ujAanRpfw9fR5Xknld1001hh9jklLLvVkAibowi21YXlNZOBYKtJOpz7ulgQnxXmtSs3mAx1QhfyS3vXNPR9XjTuMfeNRPcoiGbczMDBm3QNxeoxZQjicOHctcMaTRQoXYhI=;xYpYosmlvZWwDBiCh+3KVQ=="
 ---
 

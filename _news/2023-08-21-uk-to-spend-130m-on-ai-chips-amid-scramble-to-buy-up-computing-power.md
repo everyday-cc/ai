@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK commits £100M to secure AI chip components"
-    excerpt: "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part"
-    publishedDateTime: 2023-08-21T09:54:00Z
-    webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Global AI Race: UK to spend £100m to produce AI chips"
     excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
     publishedDateTime: 2023-08-21T13:37:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
-    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
-    publishedDateTime: 2023-08-21T21:30:00Z
-    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
-        width: 800
-        height: 800
         isCached: true
   - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
     excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
@@ -105,24 +77,6 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 34
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
-  - title: "UK in talks with AI chip giants"
-    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
-    publishedDateTime: 2023-08-21T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
     quality: 34
 
 secured: "LhHzbY+KjTwszgxgRL64w7lUraw3oy19r4AWRGNB1ybv/E9mgwEg6x5k/RtaZ0CaT/Jf219tItMP84Toen8MB/xd6C8Tcr1WEjRqjzZRScbWXOIhO/9xD4wZr6pwUFXtXYTvgu9q8F1Tpyka7FrLbpZS3Bn6nH+gzVPLgOIPfBumpzSTrdPxl5D0WMho2Ojq5Xz+rZujq/smNrT/2NtBeinKR4qR7Lzt0bjg3vtayPSJHCNz0Cd0TuRtIOFXr5Se5ZwsLsbkOM9FZQ8FOB2ZEWikGnKpoo/7caNxupEzKI7IARzn0X5o1Kr8bQ+QEQbQhk14a89+CIOFjwnEixRcR4q+WakVp8kzoBmTyDwvZQEVEicJyc83mSnfvxbBKIq5z9Ik826RKMN/5/qezeNNDj9cxmaqtC3WDMIIDl6sQKM0gTuW2Ofv4iQhTzA0/aJBkzGvecxJxH+hzoe9mH6a7rg08t8/9H/4Xk24ryfRyJCOuS+f5A8t95LimvIiopKR6zvS1v/LhbZhnLl94y4QhA==;gkyxIuo+AQF3c8vIQbQYWw=="

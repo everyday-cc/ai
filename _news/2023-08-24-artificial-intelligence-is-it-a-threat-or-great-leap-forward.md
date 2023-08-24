@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-24T10:20:00Z
 originalUrl: "https://www.geeky-gadgets.com/artificial-intelligence-is-it-a-threat-or-great-leap-forward/"
 webUrl: "https://www.geeky-gadgets.com/artificial-intelligence-is-it-a-threat-or-great-leap-forward/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Artificial-Intelligence-is-it-a-threat-or-great-leap-forward.jpg"
@@ -25,6 +26,6 @@ images:
     height: 466
     isCached: true
 
-secured: "8kWdaXMgC0o7dh7Mr8P+y12WvjboKMERoaOUZAyadYeJ4X+0r/EM/fgDPHRQZh7FIOhr47rrl0Q3sR9TfEhRr8fiw4asiuhmsDtfarpPS8+uKOKTpq8gv1pZsD8HFteD9Gm3iX6vzDh5eLVVt/RlmK5jY0Cht2BA+oLVfEqXgRa/gxsBPXLotiLM83M4wCQ+aIq8cy+S9CAV/UqDhY/gqoDcMXl/5i8Ig3sDihKfSmqV+cZwVWsf9wYsoKbcnTOhDJNRt3ckwxZI1bcANcHA/PcJ4EPNtgRtxbkZem+ATjyrNoDuXomruQFnsh9LTS9fEHESsQK5ULmWc1EAQbIURVFbrT98Drzybs6AGHWRXiw=;ed1lvjGDulCorkLIah9mcQ=="
+secured: "Fo+Ie8MdgOdyeyVWrnrwJ0aLPk/fuJS/qUU9NkGQGy/GpK8z6tr9a3/0hKW1qHSB+Cj2ejBEfyxmfeKwGI+q7q1cj2FxaIXGJlrUHrQMfJutCZsNpv6dH+fooNUQbFYwX2AliE+bf2PoT1Tu4k99tqYGVvvhklQoDTk93AnpBInK/IwW5AfLd0XTuOsbqjuTk9Mu5ugvY1rPXsLxIMoALj352ZExP24LaCA25U5RYS0Tg9Pb0751XH/uWj+T052f/EsyBGo1cmKX8Wa8kr54Yi0xSH/nb47z3Uz/VCyAgXrtFMbFlh4i5f+ArQVnlTFGu+xISOPLofgOT2mJGgIyo+fNt+AYJ3b1ahfmTWUe0tLDOETTCktW2LnEVeHlDIiyQWvtXvFrrf+LcemLrtAScpm1lnP2hK1uYQ1QL2ZQePv5n3on937aFgWvjKaY0fAUODJKsBQyo2ELnlf+g1KMFpF9LvUJvxN+pmVjnmOGpICQ3Yq1oto9JjkAlUCz1d3qJ0/Wr4HDegJGnRNZyv5v2w==;qlftMoJDmqw72Bn1fAnZRA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovati
 webUrl: "https://www.cuinsight.com/the-importance-of-continuous-ai-innovation-in-banking/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "Regulating AI in schools could be a top class innovation"
-    excerpt: "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience."
-    publishedDateTime: 2023-08-19T22:50:00Z
-    webUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478"
-    ampWebUrl: "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
-    images:
-      - url: "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg"
-        width: 590
-        height: 400
-        isCached: true
 
 secured: "GNJhycjwSW6AZhMSgQWGamMyb5PQd76KD9MNKeMdiWec913LYDZszmY89HKFLdpy83bkIIeejc4sUV6KAj/FL7aqjTFDBFBOy0l1PLiMQQGlodw9EvMoa8qCMlAx7l8ymmkXRBFh5TCgiVXqxLTezvEeWJuDsyGmN7yEw03J7LRuh7vhR4BykG6bwpD+uZULte2ATKqk8UWvro/4CJe46QT/4DSivHa3vMJbP+e+IqUFBHUyUi2VQ4qJJpzWv6sx6K/EC/qZJ8S9cFDRlSM893gGHAEqqkmMJb+AhBk0NjLMarvw+0LrEzsVadoBfIOkRqMObouoykxjjZFaSwTrQmyPeDMGT/fL+3902Rk8Cje1nuMXRmlL+IJfHicN9aVRDBe+ybtrft+cePyWE4A+pwnRfCTw/+wRCyUP+xbFboIr6iPTK6IpibLDqGjaa9xNZZxXvU1pC10KJPRRAdtT+/AXhc3t6C+5aUVvQY0Oc6AFVBq/wFoFY3PgMjB4TBswM2RaZGCg47foEcu6nzn0yA==;eNzuqnjNs9bv89NDRaocrg=="
 ---
