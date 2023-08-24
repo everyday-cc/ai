@@ -2,57 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2023-06-30-meituans-insider-ai-deal-does-not-compute.md",
-      "title": "Meituan's insider AI deal does not compute",
-      "excerpt": "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "originalUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-natural-language-processing-spain.md",
       "title": "Natural Language Processing - Spain",
       "excerpt": "Value in the Natural Language Processing market is projected to reach US$385.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.30%, resulting in a market volume ...",
@@ -1106,6 +1055,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-computer-vision-d-a-ch.md",
+      "title": "Computer Vision - D-A-CH",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$1.49bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.25%, resulting in a market volume of US$3.35bn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/d-a-ch",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/d-a-ch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

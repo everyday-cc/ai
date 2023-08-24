@@ -41,20 +41,6 @@ related:
         width: 1110
         height: 624
         isCached: true
-  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
-    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
-    publishedDateTime: 2023-08-19T14:09:00Z
-    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 36
-    images:
-      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning – News and Features"
     excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
     publishedDateTime: 2023-08-19T22:24:00Z

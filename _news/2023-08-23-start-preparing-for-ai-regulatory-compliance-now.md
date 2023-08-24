@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-prep
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI, Rising Chip Complexity Complicates Prototyping"
+    excerpt: "Constant updates, more variables, and new demands for performance per watt are driving changes at the front end of design."
+    publishedDateTime: 2023-08-24T07:02:00Z
+    webUrl: "https://semiengineering.com/ai-rising-chip-complexity-complicates-prototyping/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Gray-yellow-chip-iStock-1197471629-07-26-20.jpg?fit=724%2C483&ssl=1"
+        width: 724
+        height: 483
+        isCached: true
   - title: "US judge rules in favor of human ingenuity, denies copyright for AI art"
     excerpt: "AI-created art lacks copyright protection. Verdict impacts AI's use of copyrighted content, shifts focus to human innovation."
     publishedDateTime: 2023-08-20T10:06:00Z

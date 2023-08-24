@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
+    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
+    publishedDateTime: 2023-08-22T23:54:00Z
+    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 27
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
     excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
     publishedDateTime: 2023-08-20T23:25:00Z

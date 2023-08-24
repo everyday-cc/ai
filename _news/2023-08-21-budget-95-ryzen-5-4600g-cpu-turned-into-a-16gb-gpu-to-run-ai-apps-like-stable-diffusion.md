@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/92943/budget-95-ryzen-5-4600g-cpu-t
 webUrl: "https://www.tweaktown.com/news/92943/budget-95-ryzen-5-4600g-cpu-turned-into-16gb-gpu-to-run-ai-apps-like-stable-diffusion/index.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1500
     height: 843
     isCached: true
-
-related:
-  - title: "Modder converts $95 AMD APU into a 16GB Linux AI workhorse"
-    excerpt: "A modder recently published instructions for coaxing AMD APUs that cost around $100 into running AI tasks usually associated with far more expensive graphics cards. If"
-    publishedDateTime: 2023-08-19T15:09:00Z
-    webUrl: "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "nMHy5r0wbSfZr1so9GvXOhgFcBKh0ddL3MbC2XlSrskAT631qUjN7LXKWwPRgmxySBqq9KkK7Z9BKKn09lMqLy1h8j5KJ+0VItrR8nDRkZjUd9+pXbzxazmP7VO95ga0z6hNv9+8w6Eg7LLca8ibWSx+Dn9PQa5xAhHflyEVD2YQwXWuZ6ppvdA5b37Rl0k/oUGojmWpX9pcsrHIr2EfLqdmtRng1k2zuBcxxwFbJVZKHlFyjjDM2f3AzoMilb3i17oPE36Uk9vqE0B/KAy+yxFZKrbEtPEVQZoI4URGgwRDfNauCLluge8MvpG1FOH4z+IWisSgtTaviyt1Zn1a3VY2Iz/UY9nJ8LDbWCIwJgsjk0BscZexmsBnCYwirvVLPN9bW4dUn+20GIjBChmXPgo+Tu3r1b76HkLeT5I6qPyfZeNPGg3px76l0GQtCSItLuBrU3l8/UMq/wPDKujLY+5jtXpsirbxmY7orEwj1FFPQSZLvdd/F7/ARmfhyoqFX81xdMgXsBlzNpRjZYfM9A==;u0r8vhvwpRZnUm7uiejZfQ=="
 ---

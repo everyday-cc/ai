@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence can now estimate rice yields, according to new study"
-excerpt: "The global demand for rice is projected to rise significantly by 2050, necessitating sustainable intensification of existing croplands. Now, Japanese researchers have made significant progress by developing deep-learning algorithms that can rapidly estimate rice yield through the analysis of thousands of photographs."
-publishedDateTime: 2023-08-23T13:19:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/999317"
-webUrl: "https://www.eurekalert.org/news-releases/999317"
+excerpt: "With the rise in global demand for staple crop products projected to substantially increase by 2050 due to population growth, rising per capita income, and the growing use of biofuels, it is necessary to adopt sustainable agricultural intensification practices in existing croplands to meet this demand."
+publishedDateTime: 2023-08-23T16:14:00Z
+originalUrl: "https://phys.org/news/2023-08-artificial-intelligence-rice-yields.html"
+webUrl: "https://phys.org/news/2023-08-artificial-intelligence-rice-yields.html"
+ampWebUrl: "https://phys.org/news/2023-08-artificial-intelligence-rice-yields.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-artificial-intelligence-rice-yields.amp"
 type: article
-quality: 36
-heat: 36
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dfe8a33c-bc9a-48bc-b2b8-61a355696a4a/Rendition/low-res/Content/Public"
-    width: 700
-    height: 356
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-68.jpg"
+    width: 1280
+    height: 650
     isCached: true
 
-secured: "Cqr7PcEvJoQzuG4rHSFQ8rH8EED4Z0IwzftpNPniC7OPGYOoQR8p1WSN0Z7i6FQ7DztaSFw8eOA5iyRb9EJ4Ckb/rMcbSOpw0cz94CueJQ198JRLq9n6Ex2Bf4xUnxzWD6ZX/4ftVkWAZba+q+vvGk9Mn5Ie9lR22R+/gGiwJ4ZEAf8iJS3rt/MY+hY1wx1qtpZn/1qwbPjwbytITDk5VyHb9nRjijgV63UfxM9t+qEyY3uAQS8FB+zae2tVBY6Yfj2MZjmhYTnOFjDwOfizmEv7MyvaxcdGKJ5ToCLRhHNuyRYbO7VulT4sQtFPIivZPVxbOxtu7QnQGyn9CLc+Bo8FAxEig2vX+F6PjBS84AGsaPZHhPKIPpHDFLZc7qL1N3AwofQgsf3K/hpdGO+TryulFBA5LU2azaeDw7pHR/GCearaAIu5uMvjhl8DZWOugSwuFABzQg9VLHCfuNaDNGhWWDhR9LA2UaQcQDFr6Qs2R3/hDzczSZHvHkNs3xRay7iJ5xPpnM3RBeXBfJLgyQ==;O/U2IOO3LSun1d1IPEfmAQ=="
+secured: "jHMgAl6wXfDO4UYOmhiO2F6YqogRsQNSIz0jFH6LEp1IX26Y9TF6ikKrlGuGZfoae20Lw9WvI55xtiD76V9ynzp0Lo1Q6Y9ZBkqWt0MZ3H2d2P6oXRwvq04A9Ic62bKWzKMZJ8qjqfgNn+n2/KVYs2qn5vjaFqF1bhtwnMI8xpG3kxmtLIoMc5/xZFFBSrOv0Y3RaEGYy+1+1WWksq99ISG0W6p2oQYRbqNpRQhmuJVkYd3B/VqZ9vXymKIWdg/9RrjoTBg0oYgTfAJpqPtx5QgUNeZqnckHhaHrXY5p4sDHKOZys8NeeOYoMx1k28yTjDyeorJCDNkrXkiEjuCkF+9f7yq7afgM9uYZ2cJ4bqU=;pF3xDJl5O8gHKvxsGOWznA=="
 ---
 

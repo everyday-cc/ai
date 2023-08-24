@@ -2,49 +2,6 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2023-06-02-robots-could-go-full-terminator-after-scientists-create-realistic-self-healing-skin.md",
-      "title": "Robots could go full 'Terminator' after scientists create realistic, self-healing skin",
-      "excerpt": "Armoring an artificial intelligence-powered robot with life ... that will be used to assist with household duties, while a robotics startup backed by OpenAI is working to commercialize humanoid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
-      "originalUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "Nvidia announced a large-memory AI supercomputer that uses NVLink interconnect technology with the NVLink Switch System to combine 256 of the company’s GH200 Grace Hopper superchips, allowing them to perform as a single GPU that it says provides 1 ...",
@@ -1153,6 +1110,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-watch-artificial-intelligence-dominates-london-robot-show.md",
+      "title": "Watch: Artificial intelligence dominates London Robot Show",
+      "excerpt": "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/width-600,height-450,msid-100685103,imgsize-32844/watch-artificial-intelligence-dominates-london-robot-show.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
+      "publishedDateTime": "2023-06-01T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

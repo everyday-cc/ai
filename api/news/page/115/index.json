@@ -2,58 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2023-06-08-introducing-popularity-tuning-for-similar-items-in-amazon-personalize.md",
-      "title": "Introducing popularity tuning for Similar-Items in Amazon Personalize",
-      "excerpt": "Amazon Personalize now enables popularity tuning for its Similar-Items recipe (aws-similar-items). Similar-Items generates recommendations that are similar to the item that a user selects, helping users discover new items in your catalog based on the previous behavior of all users and item metadata.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-popularity-tuning-for-similar-items-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-popularity-tuning-for-similar-items-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/08/popularity-tuning-similar-items-personalize-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T09:11:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done.md",
       "title": "Microsoft, Cisco, Adobe And More Bring Generative AI At Work To Where Work Is Done",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how GAI tools impact the everyday worker with copilots and AI assistants.",
@@ -1218,6 +1166,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care.md",
+      "title": "Google Cloud Partners With Mayo Clinic To Use AI In Health Care",
+      "excerpt": "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the",
+      "sourceUrl": null,
+      "webUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "originalUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "cdnAmpWebUrl": "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "publishedDateTime": "2023-06-08T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek News Central",
+        "domain": "geeknewscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

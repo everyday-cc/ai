@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
+    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
+    publishedDateTime: 2023-08-24T03:19:00Z
+    webUrl: "https://www.bbc.com/news/business-66601716.amp"
+    ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 121
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia: artificial intelligence chip giant sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T03:19:00Z
@@ -71,22 +87,6 @@ related:
         width: 1082
         height: 630
         isCached: true
-  - title: "UK moves on AI plan with chip giant talks"
-    excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
-    publishedDateTime: 2023-08-21T10:34:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Nvidia’s Earnings Aren’t the Focus. Future AI Chip Supply Is Everything."
     excerpt: "The critical question for investors is whether or not the company can show progress in alleviating its supply constraints over the longer term."
     publishedDateTime: 2023-08-23T15:48:00Z
@@ -103,20 +103,6 @@ related:
         width: 548
         height: 365
         isCached: true
-  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
-    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
-    publishedDateTime: 2023-08-24T04:29:00Z
-    webUrl: "https://www.aol.com/news/nvidia-artificial-intelligence-chip-giant-031933146.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 71
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/4892fd0e59caa1d37099924ccf036166"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
     publishedDateTime: 2023-08-23T20:29:00Z
@@ -130,6 +116,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
         width: 620
         height: 326
+        isCached: true
+  - title: "Nvidia earnings will be major test for AI demand, market rally"
+    excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
+    publishedDateTime: 2023-08-21T20:40:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia – King Of AI Becomes King Of Stock Market"
     excerpt: "Today is one of those very rare days when earnings of a single stock become a macro event for the entire stock market. Nvidia, king of AI, has now become the de facto king of the entire stock market."
@@ -160,6 +160,45 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Your Evening Briefing: AI Chip Star Nvidia Lifts Broader Markets"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-08-23T21:59:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "VMware, Nvidia team on enterprise-grade AI platform"
+    excerpt: "VMware Private AI Foundation with Nvidia will enable enterprises to customize models and run generative AI applications on their own infrastructure in their data centers, at the edge, and in their clouds."
+    publishedDateTime: 2023-08-22T16:56:00Z
+    webUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.html"
+    ampWebUrl: "https://www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705039/vmware-nvidia-team-on-enterprise-grade-ai-platform.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How VMware Private AI Foundation with Nvidia will help enterprises embrace generative AI"
+    excerpt: "VMware and Nvidia today announced VMware Private AI Foundation with Nvidia to help enterprises deploy generative AI quickly and easily."
+    publishedDateTime: 2023-08-22T16:34:00Z
+    webUrl: "https://venturebeat.com/ai/how-vmware-private-ai-foundation-with-nvidia-will-help-enterprises-embrace-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/VMware-NVIDIA-Logo-Image-e1692721208151.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nvidia rides the AI wave as profits, revenue rise"
     excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
@@ -206,6 +245,22 @@ related:
       - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
         width: 992
         height: 558
+        isCached: true
+  - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
+    excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
+    publishedDateTime: 2023-08-23T07:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33998198/nvidia-said-to-be-tripling-production-of-worlds-hottest-ai-chip-for-2024-but-will-supply-chain-snags"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33998198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33998198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Taipei,,Taiwan,On,June,1,,2023,:,Jen-hsun,Huang,(jensen.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
     excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
@@ -277,6 +332,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
+    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
+    publishedDateTime: 2023-08-21T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
+  - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
+    excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
+    publishedDateTime: 2023-08-21T10:16:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-21/nvidia-earnings-will-be-major-test-for-ai-demand-market-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "China keeps buying hobbled Nvidia cards to train its AI models"
     excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
     publishedDateTime: 2023-08-21T17:58:00Z
@@ -286,6 +359,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
+    excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
+    publishedDateTime: 2023-08-22T15:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-hits-record-high-as-ai-boom-lifts-bets-on-another-strong-forecast"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
   - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
     excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
     publishedDateTime: 2023-08-23T10:00:00Z
@@ -300,6 +382,24 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
+    excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
+    publishedDateTime: 2023-08-21T13:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/preview-nvidia-earnings-will-be-major-test-for-ai-demand-market-rally-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
+    publishedDateTime: 2023-08-24T01:36:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidia-bets-25-billion-that-ai-boom-is-far-from-over"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Nvidia's Forecast Adds Fuel to Rally in AI Tech Stocks"
     excerpt: "Nvidia's strong forecast on Wednesday added to investor optimism. Big Tech and AI-related stocks saw their stock market values increase by over $70 billion, on top of Nvidia's increased value, as their shares climbed following the report."
     publishedDateTime: 2023-08-23T21:36:00Z
@@ -323,6 +423,22 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
     excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"
     publishedDateTime: 2023-08-22T16:30:00Z
@@ -336,6 +452,34 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2022/12/Data_Pipeline_shutterstock_9623992_small.png"
         width: 300
         height: 225
+        isCached: true
+  - title: "Nvidia shares up on hopes of strong results powering another AI rally"
+    excerpt: "As investors up their bets on the company that virtually makes all chips used in generative AI such as ChatGPT, its stock has surged 13% in the past week and tripled in value so far this year. \"A lot is riding on these numbers,"
+    publishedDateTime: 2023-08-23T14:19:00Z
+    webUrl: "https://www.aol.com/news/nvidia-shares-hopes-strong-results-111959275.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/dfa4268597051a0e7d6a179d41bf2266"
+        width: 800
+        height: 525
+        isCached: true
+  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
+    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
+    publishedDateTime: 2023-08-22T21:38:00Z
+    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
+        width: 1000
+        height: 550
         isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
@@ -351,6 +495,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
+    excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
+    publishedDateTime: 2023-08-24T00:13:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/nvidias-stock-climbs-record-high-ai-boom-ignites-rapid-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
     publishedDateTime: 2023-08-21T19:00:00Z
@@ -360,6 +518,29 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
+    excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
+    publishedDateTime: 2023-08-22T13:57:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-arm-s-ipo-ai-chips-nvidia-brsk-48293/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 34
+  - title: "Analysis-Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles"
+    excerpt: "In one sign of AI's overall market boost, a Societe Generale analysis zeroing ... Nvidia shares have jumped nearly 12% since the start of last week, setting an all-time high on Tuesday before retreating. Such buildup in the shares, however, could make ..."
+    publishedDateTime: 2023-08-23T06:18:00Z
+    webUrl: "https://www.aol.com/news/analysis-investors-look-ai-darling-050434263.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9825dad5459689b518499cbb9c70339e"
+        width: 800
+        height: 525
+        isCached: true
   - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
     excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
     publishedDateTime: 2023-08-22T12:42:00Z
@@ -368,6 +549,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 19
+  - title: "NVIDIA DLSS 3.5 introduces AI-boosted Ray Reconstruction"
+    excerpt: "Alan Wake 2 and Cyberpunk 2077 will be among the first games to support NVIDIA's DLSS 3.5 update."
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.shacknews.com/article/136733/nvidia-dlss-35-announced-gamescom-2023"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
     quality: 19
   - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
     excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
@@ -378,6 +568,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "VMware works with Nvidia to deliver generative AI cloud"
+    excerpt: "Dell and HP and Lenovo have built new hardware to support the VMware platform. Nvidia AI-ready servers include the Dell PowerEdge R760xa, HPE ProLiant Gen11 servers for VMware Private AI Foundation with Nvidia, and Lenovo ThinkSystem SR675 V3."
+    publishedDateTime: 2023-08-23T07:45:00Z
+    webUrl: "https://www.computerweekly.com/news/366549266/VMware-works-with-Nvidia-to-deliver-generative-AI-cloud"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
+  - title: "Nvidia AI tools could add toxic NPCs to your PC games of the future"
+    excerpt: "Nvidia is all about AI at the moment, but its next project could help make NPCs in your favorite adventures more toxic. That’s thanks to a new custom toolkit that “aims to bring intelligence “to non-playable characters through AI-powered natural language interactions,"
+    publishedDateTime: 2023-08-22T13:00:00Z
+    webUrl: "https://www.gamesradar.com/nvidia-ai-tools-could-add-toxic-npcs-to-your-pc-games-of-the-future/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 17
   - title: "Nvidia’s AI boom exceeds Wall Street’s lofty hopes"
     excerpt: "The jump in sales lifted Nvidia’s after-tax profits to nearly $6.2bn, up from just over $2bn the year before. Pro forma earnings per share rose to $2.70, compared with Wall Street expectations of $2.02."
     publishedDateTime: 2023-08-23T21:16:00Z
@@ -387,6 +595,24 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "VMware, Nvidia Reveal Private AI Foundation To Help Enterprises Run Gen AI Apps"
+    excerpt: "VMware and Nvidia executives explain how Private AI Foundation will help enterprises build custom generative AI applications on top of VMware's cloud infrastructure."
+    publishedDateTime: 2023-08-22T18:00:00Z
+    webUrl: "https://www.crn.com/news/data-center/vmware-nvidia-reveal-private-ai-foundation-to-help-enterprises-run-gen-ai-apps"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "JIgkrq9bn09Sq2rTWV0bnsxqZhG+Yv2yr0kAwFTQbjo2IDgvcBbMLwlYki5hQZwxGdEY0W/NSfNBgXoxMMV7zFLWplPrBs4XzmP5VaUE6cEPxC33hT5wu/AqaxXoNJZdpU2aTJUujItzbO5Pyfk+A6w59wQxqjmzocSXntecPQpyf5ogYkP/fSE7UMrA89CEbkzJMAnk+B1si2WwjlQektqZ9TjNpdxx4su0HkWTXTKo2fJ1RMjr3DVE/YSeyKUIZPGi17URdDkCEnQXflPjzQRRUgVRcXbQLLC7Qa2zEnk2wBEnawDO5WUc1D4/5gvrONN3SJGcYe5mlCW268ul2ZJACh1rvUQ5K1sFaW+mmdTlfvYfqSCVBLTPboOoA5Xst3VGs381ZWCPSaHdEbNxHfQihDt0WlLXk6JlHsuAH/aXqqRvRbfVOBO4h/DkmH18M/LZgZAcGUOjJvLY5P2eVz7Po2pK/Q0IgIPm09rBUNP7f26daZ3XkHuHbRVrr1mdS/rFtC0wCV3tEAHwtZXY6A==;o32yvtUZOFFuwsfQfp28QA=="
 ---

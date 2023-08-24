@@ -1,13 +1,13 @@
 ---
 category: news
 title: "How Artificial Intelligence Might Prevent You From Getting Hired"
-excerpt: "If you applied for a new job in the last few years, chances are an artificial intelligence (AI ... law enforcement, and health care. Recent reports indicate that 70 percent of companies and 99 percent of Fortune 500 companies are already using AI-based ..."
-publishedDateTime: 2023-08-23T21:34:00Z
-originalUrl: "https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-might-prevent-you-from-getting-hired"
-webUrl: "https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-might-prevent-you-from-getting-hired"
+excerpt: "If you applied for a new job in the last few years, chances are an artificial intelligence (AI) tool was used to make decisions impacting whether or not you got the job. Long before ChatGPT and generative AI ushered in a flood of public discussion about ..."
+publishedDateTime: 2023-08-23T21:38:00Z
+originalUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligence-might-prevent-you-from-getting-hired"
+webUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligence-might-prevent-you-from-getting-hired"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: aclu.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 1400
     isCached: true
 
-secured: "U4DsnrkEwmwy3X+pg9BM5dGvvcxInrtPz+sVTTww4uWMn2OFcYq5cJwxsAPR2JgMS2ONQo/Q3bfePYcIPJGkcfK3xINpEtPM2VzxXnilqXtUYFE8JgNNihvbCPJN2JJIUArthVdNMyZDsJ9CDLuWpuJpaLJVLQD0i8sa8eo54b26wZQC+7DpZHKb4ZhYJaMuxSvjrL708Gml9/UZcrcgl4OXV9VOvuehNofdbQnUzWo5GiuKcIFyZoqJvq+hZa6PuTnGxOFjIQQica4WtYIet8RMb4RfxxtdszeIF8veSCAIOO/ewS6Jdxflx5JK709fgl5nq2J4O6g41AeuhvFBjvDUj/uCEbbDGjjknjN2qChUhUphZUxFP+XtlDylRLkq6mzJ06IFczdDuDDA05B5CaF7BExHr6wX2BzXd9PwkbfiOagPkj4yvPNca4wszP5Gmcju3cV1j5pigGd1YnGGN3yqEJD5JU4A8ln+mUvNd/1ngAjO80RfAjWYXyFWkOj8Nc6bQndByTClelaNp608Bw==;tCC3sfcEn+wbOYCh4igH0w=="
+secured: "pbzII7YC5KHmRT1ct09YvwCmltcl9E8GKqO9OS7+4JzfCoO30ClGx9A1k6qet73R2XuA/7xpTWYMiRVv75Bwmk7Ldr4c3/cOF6uXYrmoX5FJXb50ys5rAMPDcZ2Z12ieE6+uYCii9BXo++iT+gJGwu/+fnKX6J+Ygn6UldkJiuPbwtEGTAvGYBPQjd3oW4bVHLJapX+JAzwElda/opojRJb9kER5e6hD4N2WnU5bmvxVHLCD0JI/4lt8+vlyPa+0IewPOwe3axXnJN9nmvAqbAWSwacB2+1QEe42rMS2JPxNb/BPPSqJrqxjq8ussF6NzV4IQAiBMHFwQ81xOFxN95SuzBHAz6FTDaT5V1a4nJ4=;dkuw0txRv5VU7t9c+2nLvw=="
 ---
 

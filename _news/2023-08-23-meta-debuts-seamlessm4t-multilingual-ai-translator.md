@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Meta Releases SeamlessM4T AI Model to Translate Languages in Real-Time"
-    excerpt: "For the SeamlessM4T model, Meta researchers said in a research paper that they gathered audio training data from 4 million hours of \"raw audio originating from a publicly available repository of crawled web data,\" without specifying which repository."
-    publishedDateTime: 2023-08-22T16:23:00Z
-    webUrl: "https://www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357"
-    ampWebUrl: "https://www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357/amp"
+  - title: "Meta unveils 'Seamless' speech-to-speech translator"
+    excerpt: "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ..."
+    publishedDateTime: 2023-08-23T17:27:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 74
     images:
-      - url: "https://i.gadgets360cdn.com/large/meta_ai_reuters_1689771499541.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

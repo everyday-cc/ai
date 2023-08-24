@@ -2,57 +2,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_news/2023-07-21-want-to-know-how-to-get-ready-for-the-rise-of-ai-dig-into-the-past.md",
-      "title": "Want to know how to get ready for the rise of AI? Dig into the past.",
-      "excerpt": "Experts are looking to past technological disruptions to help predict how the rise of generative AI could impact workers of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "originalUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b84697a46ce30019a1f97e?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "publishedDateTime": "2023-07-20T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
       "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
       "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
@@ -1169,6 +1118,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
+      "title": "Future AI algorithms have potential to learn like humans, say researchers",
+      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/996196",
+      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

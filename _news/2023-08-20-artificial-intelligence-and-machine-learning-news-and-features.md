@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
-    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
-    publishedDateTime: 2023-08-19T14:09:00Z
-    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 36
-    images:
-      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/hWjuulzCeMBX1ZtvweiChy+1ZpMXeq/itHg6ReG50/npj2mDnPMFuFybEkld+E6O0Zl5wk9fW0Gy3lON969Vviinve/86KUeXUwYmr9vNP/aR1XYmPYL6iIP7zQe69lPkBFWEhSGDO1SOsIt6osCjFzO7ulmMEkaQQyxeuDIFrj5lDOg8OdKaQSz7DkCzx2SQkgueSAUKR3VqnHPhMsHng9N9JbeHK7i+5Gw2T35m9ez4yui1+uZmXH/IqZd7Cj2h6BVAKH9k4BUcpr/fj559AlMsXZm8Mcre9uXjUgLF38A6h3mgw+ZMZ/hb240I3uHHelBgsiDZCoFuOwfQnPpUUYoXMrNEmjF9SYRm61zfs=;SHcq57oZBjHz5sAAiJkE+g=="
 ---

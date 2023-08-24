@@ -1,0 +1,25 @@
+---
+category: news
+title: "Coforge launches Gen AI platform Quasar"
+excerpt: "Coforge Limited introduces Coforge Quasar, a Gen AI platform for enterprise AI dev. It features 100+ APIs, modular & scalable architecture, 100+ pre-built use cases, and cloud/on-premise setup."
+publishedDateTime: 2023-08-24T07:04:00Z
+originalUrl: "https://www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece"
+webUrl: "https://www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece/amp/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Business Line
+  domain: thehindubusinessline.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+secured: "0AAaQdF0hUddy3WjI+qtSyCjqd5CsDcDXrnTMCAoSh16ZCIQGGM54YIp8fgkIvsTyKRCVNJWTIxDsxOt4QflcDa5xWETW5uuq52BQ9r6OVxdN1aJJd2a2rLLroJhb9jbyKYtNKtwaNOeZsxdKiuOdSZoQkXkLVb7QDhGddvezq+QlF5MuUZQZJpA5xjSfuhAZ/RbgYm7DXPwulPxqZwG0z7tQjR66CAWZl4FwdwgiRv+ScEgy1ZGPJgv7pSGYft+cwAxVYa/A+anOmSCvlAEh+cNqi9czpkPHJNH5x8jFVFicBguLkhp2rkzS4BreRwSremhq8Pb7nMRSbwI6hJUtaOGdXHvkxDjW+IXA93Fz6n2VOoZP+MrGPVDR2atyCyK/FZWYYUHeSLNVv2/6Y3b0S0kIingctTRSINPeTGQOKSWgaVfQaShm2hIxN7M+BfBruLjCcLCm7eoML/MbwlSpBcCaak82VcZnPyWG4x1FbptAN9LBiGiyfvuJ1uW8VQPRTppR4HYr+aAyjZ7ixbsAw==;PQvujwQVcnPTi1dmwbpFAw=="
+---
+

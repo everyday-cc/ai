@@ -26,6 +26,17 @@ images:
     height: 799
     isCached: true
 
+related:
+  - title: "Insights into the Evolving Landscape of Computer Vision in the Healthcare Market - Comprehensive Report - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Healthcare - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The report offers a comprehensive analysis of the global computer vision in healthcare market,"
+    publishedDateTime: 2023-08-22T16:08:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230822516945/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+
 secured: "lz2yQpGR7A5RX5m97fGfem6lGWk5OYrZNIwti6FkgJ5aRURxX1DZnQgxrVvBns8XfELjm6A7nuETmLIQHeEjTyGg/ffPJJYWza7RS5ro//KlPMk+nS2C1R76s/+dlCtrYFM1UJfDhxZI6dY4K8hrb3o4tGan4Q7d8Qwu4rUtFD6LfPp5X0ntJk7XfTtIQr898q18Wf045v++J8cAH6Te33CygoZ9OMJ9NyNX+x9CtahKg4pnc/D5ZKxU1SomLQGBFDv/ufNEpQoa6AkxpLfKuDe/YKEbs/b0VaIQI7zZGoJbYcv7B+ABUgv+iSnulFSdB2i961h2qdtDRTPdX6hxQuwPdW/O2FnkP3WSbbMqWSE=;OHmtxJ0K7oCPr6tjsouwKg=="
 ---
 

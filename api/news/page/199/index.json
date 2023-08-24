@@ -2,49 +2,6 @@
   "page": 199,
   "value": [
     {
-      "path": "_news/2023-04-19-houston-community-college-to-offer-1st-4-year-bachelors-programs-starting-this-fall.md",
-      "title": "Houston Community College to offer 1st 4-year bachelor's programs starting this fall",
-      "excerpt": "The new four-year programs are Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management. \"We are continually exploring ways to provide relevant ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "originalUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13149941_041823-ktrk-hcc-generic-tn-img.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "publishedDateTime": "2023-04-18T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-19-inside-the-secret-list-of-websites-that-make-ai-like-chatgpt-sound-smart.md",
       "title": "Inside the secret list of websites that make AI like ChatGPT sound smart",
       "excerpt": "An analysis of a chatbot data set by The Washington Post reveals the proprietary, personal, and often offensive websites that go into an AI’s training data.",
@@ -1138,6 +1095,57 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-so-you-want-to-launch-an-ai-startup.md",
+      "title": "So you want to launch an AI startup",
+      "excerpt": "It seems like it’s the best of times for founders thinking about launching an AI startup, especially with OpenAI releasing ChatGPT to the masses, as it has the potential to really put AI front ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-948886934.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

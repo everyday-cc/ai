@@ -2,9 +2,9 @@
 category: news
 title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
 excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-publishedDateTime: 2023-08-23T13:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
+publishedDateTime: 2023-08-23T12:14:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
 type: article
 quality: 49
 heat: -1
@@ -183,11 +183,11 @@ related:
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
     publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+    webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 29
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
     excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."
@@ -199,6 +199,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "AkbkIIK947mYxTglewm/1vlpH8a0DrlVtaJGMoWvb1Eyio4eHr9Ui4WfTmrwXQVV8vVRgmP5KneaIxsv3jrIhrWu3BCjA9qMBOz5Q16VhyDk29GcnHDxOQQBOoQF9kRQWx7GfjGvY7h7mHqhWSR5FioCledBFkznw0cXPfqhIlTZEpGowBMHZkTmmZlgK5dU2/Tvu3Jdwspug+vq5DrbCRKi7DQVKvdHqvmsqejWo34tfAgKbDSVh5H99gLrTt9vaoFR0Y46vweSxVavLjGXHXVgoZ46oYflKROa8DtwukBqEbgOMgvK9tfMBj+G8ajATenAKrAftReRh3GqGPj3Wze0ruxBlcTNbyHPzXyfick=;Q8WtBRK2Eav7fjmAA8HEBQ=="
+secured: "nXx9yOERcqteIGJTp75IRV9BiaEWTQDNgphDMUjt4xhtGOhS9dprsOwrhYf6LC3QRG8tKEmN7xBzMIPCGz2lhrx30/ZC7v0x5Pq+mXExUqUGHiPrI7f0Zlv5VM0RwSamAsbYHrTAkKvuAglUR1mxlH5r2ibboEgf7ndXqlS5bi7/uYoqtzJLOMRni4yRImFt5iXc6h4XoJlBZ7657dB+gTrREKqvHig57yZpVxHZCwWsYDXGx2LR1ZrmvpcvZhhwK8eNd0nPCEEkUrggAWHZ0JK45NfH9ONTVDIQvLUS1svLyiKmmO+n3+l+tgX6+fOQjMTZdAzK5uwAIMXi4VKZfELCtQNsyV/XM8snrUkE/rY=;eTU6LYezdBYhhtR9d84c2Q=="
 ---
 
