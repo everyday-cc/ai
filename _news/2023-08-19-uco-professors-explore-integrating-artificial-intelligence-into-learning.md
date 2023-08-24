@@ -41,9 +41,9 @@ related:
         height: 624
         isCached: true
   - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "and a potential method of treating it which uses artificial intelligence techniques. Spanish researchers have discovered that bilinguals use different neural networks to read languages that are pronounced as they are written. The results are valuable for ..."
-    publishedDateTime: 2023-08-19T10:23:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/248"
+    excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
+    publishedDateTime: 2023-08-19T16:08:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
     type: article
     provider:
       name: technologynetworks

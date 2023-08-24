@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM sells The Weather Company assets to Francisco Partners"
+    excerpt: "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount."
+    publishedDateTime: 2023-08-22T20:58:00Z
+    webUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/"
+    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "A Bumpy Ride for San Francisco’s Driverless Taxis"
     excerpt: "Autonomous vehicles scored a victory this month when state regulators approved their expansion in the city, but then the mishaps kept coming."
     publishedDateTime: 2023-08-22T13:00:00Z
@@ -49,20 +65,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "The rise of driverless cars: Are they safe?"
-    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
-    publishedDateTime: 2023-08-21T23:01:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
     excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
@@ -94,29 +96,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
-    excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
-    publishedDateTime: 2023-08-20T12:00:00Z
-    webUrl: "https://www.latimes.com/opinion/story/2023-08-20/editorial-the-robotaxi-california-lack-of-regulation"
+  - title: "IBM agrees to sell The Weather Company assets"
+    excerpt: "International Business Machines Corp. announced today it agreed to the sale of its weather business, The Weather Company, including The Weather Channel mobile, Weather.com, Weather Underground and Storm Radar, to Francisco Partners for an undisclosed sum."
+    publishedDateTime: 2023-08-22T17:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/ibm-agrees-sell-weather-company-assets/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 21
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
-    excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."
-    publishedDateTime: 2023-08-23T16:34:00Z
-    webUrl: "https://cacm.acm.org/news/275717-driverless-cars-may-struggle-to-spot-children-dark-skinned-people/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
 
 secured: "7lv1vlFz/MLtR+2ssYHV9e9A6Ucz+SO0hALaqlTPrHgvR+CqTKSF+A+ifLByXIKhzsye72j9ts23B/vAbx7X8sklvgRKZVr8BukEzsSaWkiNpIJPm7KdXEwtFFzQLD5ispMQ0hIrkhQkskr1JffxpL/ki8xWf0JRLamOT4rHgLi07ChtDLclrlkraKZPIU3DZWAclSBTbUijjlHwwkPUi55JyYh2FWH8VaQ7+GVjUpiOTAa2KJciQPnnh1mSneGgoe4VQdFX33+Ri0MnUv7o8oz3q5hPYZMcF8QjQQqSflz8i6TVCudCL+zTp8QR5Vu8i/EWU64y/yLVMLp9gDP5g9sQpm3tMintqpRVvr8e9XTbfXnOv8zYqZ8quniuANPhnvI85WkeqMfRtJVD0oIq5YySnWn9dgwLUVJlO130s0Gfzxg/WHh1bEuwZlG7SGTaLqlOw53ocZnuuRyRqB/LDVkM0sJbnPGaART2ZNgWHQp+mR4qJa0wEHGFS83oS4C3OLnfP/H47KDWkck6g+t8Rw==;LwK6enz1YnXfiDaNODtY/g=="
 ---

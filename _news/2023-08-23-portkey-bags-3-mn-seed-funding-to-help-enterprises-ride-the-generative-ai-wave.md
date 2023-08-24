@@ -164,20 +164,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
-    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
-    publishedDateTime: 2023-08-23T22:57:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Epic looks to accelerate generative AI offerings"
     excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
     publishedDateTime: 2023-08-23T20:22:00Z

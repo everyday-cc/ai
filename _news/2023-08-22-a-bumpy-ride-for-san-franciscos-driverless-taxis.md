@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicl
 webUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicles.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM sells The Weather Company assets to Francisco Partners"
+    excerpt: "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount."
+    publishedDateTime: 2023-08-22T20:58:00Z
+    webUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/"
+    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
     excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
     publishedDateTime: 2023-08-21T15:37:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "The rise of driverless cars: Are they safe?"
-    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
-    publishedDateTime: 2023-08-21T23:01:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
     excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
@@ -83,29 +85,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
-    excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
-    publishedDateTime: 2023-08-20T12:00:00Z
-    webUrl: "https://www.latimes.com/opinion/story/2023-08-20/editorial-the-robotaxi-california-lack-of-regulation"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 21
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
-    excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."
-    publishedDateTime: 2023-08-23T16:34:00Z
-    webUrl: "https://cacm.acm.org/news/275717-driverless-cars-may-struggle-to-spot-children-dark-skinned-people/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
     publishedDateTime: 2023-08-23T16:11:00Z
@@ -120,6 +99,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IBM agrees to sell The Weather Company assets"
+    excerpt: "International Business Machines Corp. announced today it agreed to the sale of its weather business, The Weather Company, including The Weather Channel mobile, Weather.com, Weather Underground and Storm Radar, to Francisco Partners for an undisclosed sum."
+    publishedDateTime: 2023-08-22T17:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/ibm-agrees-sell-weather-company-assets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
 
 secured: "tjsddVr+kHw/24C4+Jet08A9Fvuqy4RiwepUKhcS/64WYVAjrbVDs9+/EuHvSwmNGF+tIjPqD8Xg4fTTgg1Nd2Fez5sDhs/9XXF5cYeQy2FKmqi6aPYBo+XXZRyVj/hUteMyVEXJNTlojNJxSXXIc1y728NQrPyb9+hUj1knp/2GNHVuGrOP3l7L6aMcpKbi4YKOL8EMLGEF/8LkVe2fFvznSCliCx11kTLDfb8GUH9vJZHE+cG0CKAHK8Mq0GstfWh0hmZPwXGPTK+kwWEjxm9zfwg8Vir1YvrTdiXcuTo13uCWinMAOCXc40qJiqEEZW6mmmiHBuw6sveaBYjJYfKHvc7hL+gl0hnAF0NHO6Fs9TKn56NqrQU5hnFLA9/+UIO8M2FSOFNuaHrNpMoE6cLPuMwftr++euBm48uInK2rSFqpgAAji4AySkxZnJ4VakDYA7rGo+EsnSPmLdWzG8C32AM9YScI0l/XViEcZACZfRFm8wx3iD9ZssJFe2KCG+2YWI6XmbxrolYatUeQcQ==;takwNl7JYx3+n7MDeGxi0g=="
 ---

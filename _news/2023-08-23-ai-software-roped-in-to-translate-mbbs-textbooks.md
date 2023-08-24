@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-trans
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms"
 type: article
 quality: 74
-heat: 86
+heat: 87
 published: true
 
 provider:

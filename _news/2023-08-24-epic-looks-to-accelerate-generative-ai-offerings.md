@@ -165,20 +165,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
-    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
-    publishedDateTime: 2023-08-23T22:57:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
     excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
     publishedDateTime: 2023-08-22T10:30:00Z

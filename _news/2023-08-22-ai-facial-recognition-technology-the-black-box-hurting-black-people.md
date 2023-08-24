@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/opinion/contributors/ai-facial-recognition-t
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advanced Project Announces Upgrade to TIER Service with Facial Recognition AI Technology"
+    excerpt: "Today Advanced Project, owned by Advanced United Continent (AUC), announces the upgrade to tier service with facial recognition AI technology."
+    publishedDateTime: 2023-08-24T02:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34016647/advanced-project-announces-upgrade-to-tier-service-with-facial-recognition-ai-technology"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34016647"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016647"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Banyan Technology offers predictive truckload pricing through an AI tech partner"
     excerpt: "Software startup Greenscreens.ai applies machine learning techniques to aggregated market data mixed with individual client histories"
     publishedDateTime: 2023-08-23T20:09:00Z

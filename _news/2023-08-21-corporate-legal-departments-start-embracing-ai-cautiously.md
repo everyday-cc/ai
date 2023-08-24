@@ -3,8 +3,8 @@ category: news
 title: "Corporate Legal Departments Start Embracing AI, Cautiously"
 excerpt: "Generative artificial intelligence is on the verge of transforming how corporate legal departments deal with routine functions—even as it creates new obstacles that must be navigated."
 publishedDateTime: 2023-08-21T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/corporate-legal-departments-start-embracing-ai-cautiously"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/corporate-legal-departments-start-embracing-ai-cautiously"
+originalUrl: "https://news.bloomberglaw.com/artificial-intelligence/corporate-legal-departments-start-embracing-ai-cautiously"
+webUrl: "https://news.bloomberglaw.com/artificial-intelligence/corporate-legal-departments-start-embracing-ai-cautiously"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 740
     isCached: true
 
-secured: "rSFRzaDMVZfotWnWXJYoK9CxnD3SBpOR0tUEhND46KJwzNzGnyO9hRtowf/F+8mJ0IAq745Voj7MbIg02NHWFp7ZMHcddg+WSuakOehUUexAtj+zH6rMbUwJk6DmBJSLBZTPFH3LMri1ZXyo5QO/yvkKGdGscgHsxsO8w5NR9+yp4f7JKA1apm9n1GEDGcVqzD+qzGtSDnqAv/LJ7prz8shoTvPvXxkhOJTFzIk0dqfS7zXoljksvOMLVrAHcu10nn+LSTtKrVDEKlc20rONeeYNH1XAiy99kQwnlDh9qJ8I4f8wt+bOw2V2jiVy70O6/1Iap0zEbcgYfsg7gsrfhHciPVghUXQNsS/UWv9BJi0=;zG5Wscbb9jDg9qFrhX3u9Q=="
+secured: "gH3eZ3/HzFYDWN0vVUbayusFr+wIJPupob+eEt2BtAIkMqvkUIT8iiMERTvYiw0rqGlTcwMzwoQrE18ImRAU9ihwSxr5KEsXr44L9gD9zplTkeXmhysuVp/EthVPjmAcuzY7Rp9Q1W6otM+NVnGJrdEecjBEKImXaCJcfl3sunHTdjHbxcp7FNklM1qcobDa7NK8isllCl6qcJSr4HL4br4bwgaEQFSMHQYFYqOf076BJS0R2DLh7KMS+biTI3xdtDtQwRvXnjbpdX9IfS4KDinHBA6DilntKBufPKdpt7+N1rnT+SJmYbYkhnxpV4ZE7+fgR0SgEmibQeU8P0WjYvk0jUUGGK1tom614OKxHws=;DlrZwT+FPjXahhx8cM5nwQ=="
 ---
 

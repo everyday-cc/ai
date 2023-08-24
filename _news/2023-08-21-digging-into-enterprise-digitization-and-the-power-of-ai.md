@@ -39,6 +39,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Coforge launches generative AI platform for enterprises"
+    excerpt: "Quasar will helps companies scale their AI capabilities with a comprehensive set of 100+ APIs, readily available for integration, the company has said in a filing"
+    publishedDateTime: 2023-08-24T03:36:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/coforge-launches-generative-ai-platform-for-enterprises-11248141.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/coforge-launches-generative-ai-platform-for-enterprises-11248141.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/coforge-launches-generative-ai-platform-for-enterprises-11248141.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/03/information-technology-cyber-internet-technology.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Specialised AI Models Offer Complete Solution for Enterprises"
     excerpt: "According to recent trends, Enterprise AI is shifting towards specialised models rather than a single generalised model. Recent reports have highlighted that an overwhelming majority (96%) of global executives are actively engaging in discussions about generative AI within their organisations."
     publishedDateTime: 2023-08-22T09:51:00Z
@@ -69,15 +85,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
-    publishedDateTime: 2023-08-22T19:08:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
     publishedDateTime: 2023-08-22T18:58:00Z

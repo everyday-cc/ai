@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 607
         isCached: true
-  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
-    publishedDateTime: 2023-08-19T09:49:00Z
-    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
   - title: "How will AI impact the data center industry?"
     excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
     publishedDateTime: 2023-08-23T06:02:00Z

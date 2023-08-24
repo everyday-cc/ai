@@ -57,6 +57,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Facial recognition tech helps nab 86-year-old man who stole dead brother's identity in 1965"
+    excerpt: "An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities,"
+    publishedDateTime: 2023-08-23T18:39:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/3630710/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/3630710/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/3630710/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 49
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/04/GettyImages-615850898.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gGdSwXTlV2riXKGmOtxbwFCFxqoKCmDxeiO5xm5K0IY3FnSO7g3G4AXySJi01C6VGvcGT020IbzY5yT6pxga0j+DLhhjTBcB2IykhbPPjrTQ/rZy0RoLwVpsGYntdrDUE+QP0ANZXt48ANnxQ7Y56bh7N4NsNoO0yTzUBa5LvKbhKhpPqULyAZrEIK0ehlC1Z7HaZXpV4xGGD6XJGYMEtgfKoOO08/8jJTyI1muxhwnA/S04IBw5BxWSKiE4qf6vaF423muEe+vh827L8qY0PEYjkTR5j/4o0lWehtHrm0aZOpe7jdqVW0pu7PFKjudsJCa2Ql9LERZo2Fn9ed2rDTVJbH+bZCHa2VUfh5Y4r91qNvryDvopVLxpyJ3RLQ5p+7jOag6f99bwj6TzUaFzzowJhuaSrb3oBDQbsn6REwxqZM/tKT9SmonIoaBMaZjsnhjzzqmXDLs5MsUk/2F5rRIaX1dbHXtFN/38CIsQks02KezrhaNQIOmkedjSnJv7EdlTVggIXL6E3TocQ2je3Q==;qOaTNrm07LzoptOAOiPZBQ=="
 ---

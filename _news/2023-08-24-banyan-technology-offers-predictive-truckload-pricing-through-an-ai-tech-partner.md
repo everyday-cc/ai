@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 1081
         isCached: true
+  - title: "Advanced Project Announces Upgrade to TIER Service with Facial Recognition AI Technology"
+    excerpt: "Today Advanced Project, owned by Advanced United Continent (AUC), announces the upgrade to tier service with facial recognition AI technology."
+    publishedDateTime: 2023-08-24T02:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34016647/advanced-project-announces-upgrade-to-tier-service-with-facial-recognition-ai-technology"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34016647"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016647"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Exploring the Influence of Artificial Intelligence on Consumer Technology"
     excerpt: "Artificial intelligence (AI) has ushered in a transformative era across numerous sectors, and the realm of consumer technology is no exception. From virtual assistants capable of arranging appointments to tailored recommendations aligned with individual preferences,"
     publishedDateTime: 2023-08-23T17:03:00Z

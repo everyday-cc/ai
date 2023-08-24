@@ -7,7 +7,7 @@ originalUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903
 webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,61 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Bumpy Ride for San Francisco’s Driverless Taxis"
-    excerpt: "Autonomous vehicles scored a victory this month when state regulators approved their expansion in the city, but then the mishaps kept coming."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicles.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
-  - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
-    excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
-    publishedDateTime: 2023-08-21T15:37:00Z
-    webUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633.html"
-    ampWebUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
-    excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
-    publishedDateTime: 2023-08-22T06:51:00Z
-    webUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240"
-    ampWebUrl: "https://www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/watch-passenger-books-uber-ride-in-san-francisco-self-driving-car-picks-him-up-4318240/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 38
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/5rvjq3fo_self-driving-car_625x300_22_August_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
-    excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
-    publishedDateTime: 2023-08-22T03:21:00Z
-    webUrl: "https://www.timesnownews.com/viral/self-driving-car-picks-up-passenger-in-san-francisco-viral-video-article-102922826"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 23
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102922826,updatedat-1692674433895,width-1280,height-720,resizemode-75/102922826.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Editorial: The robotaxi revolution is here. L.A., other cities need to be able to regulate driverless cars"
     excerpt: "One day after California officials allowed a massive expansion of autonomous vehicle taxi service in San Francisco earlier this month, nearly a dozen self-driving Cruise vehicles came to a stop in ..."
     publishedDateTime: 2023-08-20T12:00:00Z
@@ -103,20 +48,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
-    publishedDateTime: 2023-08-23T16:11:00Z
-    webUrl: "https://jweekly.com/2023/08/23/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
-    type: article
-    provider:
-      name: Jweekly.com
-      domain: jweekly.com
-    quality: 11
-    images:
-      - url: "https://jweekly.com/wp-content/uploads/2023/08/20210408_BaxTowner_Cruise_CamA_NEIGHBORHOOD_700848.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "nfn7gPOG3U04/LAmVr4dW2H62BlKlEraIYUxcsYwOxZK08aNeELj5vnJqu+03egJUBJpYy+JRibOSrz5mbD8Z5Eb1JFPxFYf/nZ74gc5q4LNc6yvHE2ryAO902rTK/qtPGJbmrXtI+INbYDHYqv4M5Gwg4hoPU3WNdbFqb1v4qwn6Pe94cqrY70+SwYY6pjkmR2x93vYeHsYjidM0FnhIUvpK2dkm1kwLfeWm38vu5N28W1lYSw7eCe2qJ0aerOT3IM6oadx2XjuB2AFgla4F8821i0SHhu7rKAS3n/y3Li8RnBUSC5wP/0hazAaBtRyC9/7koY0yE9BzuXSWW7UWGfJgGKjeE2ob/hviDkuiBCz6xGkUneiUxZ3WbNSnpaluPmHiJB161otnm8AQ15f8zC58qqd24kt8NuBL7Gv17m6t8UjVkgvzZRkL5vmUr1RrTaykgFgNnINpgN+0ypZ0KUns04Z7KBGf3fi4cHDMPXP/IJBqR2D5LXNMMhxC4xABMFzMyo7HJh/P9a5C+ZrzA==;wwi+zUX8yXNIm+rwbdHeug=="
 ---

@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 607
         isCached: true
-  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
-    publishedDateTime: 2023-08-19T09:49:00Z
-    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
   - title: "How AI in Games Will Revolutionize the Gaming Industry"
     excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."
     publishedDateTime: 2023-08-22T05:25:00Z
