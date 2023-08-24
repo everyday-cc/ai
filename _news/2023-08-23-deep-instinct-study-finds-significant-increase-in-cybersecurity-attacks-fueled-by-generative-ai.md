@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-excerpt: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-publishedDateTime: 2023-08-23T10:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/deep-instinct-study-finds-significant-increase-in-cybersecurity-attacks-fueled-by-generative-ai/article_aee0e1dd-40f1-542a-a8ca-b635959418f3.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/deep-instinct-study-finds-significant-increase-in-cybersecurity-attacks-fueled-by-generative-ai/article_aee0e1dd-40f1-542a-a8ca-b635959418f3.html"
+excerpt: "The study highlights the impact of generative AI in the cybersecurity industry, analyzing the technology's positive and negative effect on organizations' security postures and preparedness. Unsurprisingly,"
+publishedDateTime: 2023-08-23T12:14:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-    width: 437
-    height: 563
-    isCached: true
 
 related:
   - title: "Less noise, better signals: Why XDR and AI are the future of cybersecurity"
@@ -40,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rNri10/NimAy0Dgsu5dY+cEMGKUcvxLI6tOV5qq0ccZTdKaLQ7S9xoYueNI0bDsvqEiwX1N3g0/xmQrmsuB3InfG+BbprjFgt4Mqk62S6dF2W837bCGnnY+qCJ3O4fT0kHWSCBoZRikllGGCXzHXagrtkUF1nMuAFbJ29b0jNZsytBSH/eqIx6n5NuKKisKU8jePwgkFApWfWida2pNSpEAdLUX/97zYpBDqv73OUv10fQjemOA1fPbAdoS53cLY7qDNXP+moSbroU/76dXyxKhIZjsTmXUD13C0Fz45icTvFLMPQbdEXVN+02e2a/BQiWmyNqUQBeqpVF3spiofcrCxP19yuVZ+lNo3HVxU4Hg=;X3/QAiT+wZypViUjJRPWzw=="
+secured: "yXpLmuM6x644vBBZ1XtasSUM4VE1/3DdkdiWCLy8QNucW0ownaxdbm8jAyWkbqJJciZ+6uu0oDyxzuzeAJEjIv3SCdf33Uo80VkZ8vqBAs1lAeycvBdchhjK/n7/kIBd/DU0uQvkPSq084u4fspsFpRiaiYfSD/1hCzG0M6amYWoQ5ADOp28FrLwPshib9jwhZIVgnjrp8fOltSUhwBQSNE7/mNzvqrR/afROuBVAd9CWFFnV6aLn0IDDfHBnjFqXx2Vm1n85Qlt5CtwKxArs0FVlA0TBYXgT/USumz09GgIKoV9WZkpXD/2WTz2xEYBJqn5JYxfJWxKJ6bnzVd5vKD9oGPBxF27EvECfNuhyME=;TwZvX3hVw+J05aSvNW82fQ=="
 ---
 

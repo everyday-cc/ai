@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 19
+  - title: "Meta Debuts SeamlessM4T, the Swiss Army Knife of Translation Models"
+    excerpt: "Meta doubles down on multimodal translation as it launches SeamlessM4T capable of translating speech and text."
+    publishedDateTime: 2023-08-24T09:25:00Z
+    webUrl: "https://slator.com/meta-debuts-seamlessm4t-swiss-army-knife-of-translation-models/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "7Ve47shoxM9PDymo8U9kdU4cczqUAN7Dfc9bPxgh1FQPIZszQYQrEJmZf66kjkfO04mViIU6FQrT1bnHandu2KdN4EABbi/iUJ2zRF1Rrp4rODW98gTkidzMDIH3TypWunbPZ2KAoRsm0WCEjI+Lb2JGjoH2u7W51oNhi3UH9oWKTpty1dGBYq9l03GzTO3I1KgwLmCSoncjQhLYBrpdQ/7v++sFpfKmx6wCFU2MKToJZDDFTYByKL5nfGGZ0NuIyrBo8rBRaNUclaQjaZ0Y2Za+sPb+H7mEiezLvOozzqXyXBCmEeC/iQJgNS/vcSzaaJ+iaqnQipzyhtdWEwzGIhgDecXqtOO84ikG2Ylvncs=;8tzbziNsKguOJrFsXkwKeg=="
 ---

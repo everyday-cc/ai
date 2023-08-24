@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "The desperate hunt for AI boom's most indispensable asset"
-    excerpt: "For the past year, Jean Paoli, CEO of the artificial intelligence startup Docugami, has been scrounging for what has become the hottest."
-    publishedDateTime: 2023-08-20T01:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/articleshow/102866764.cms"
-    ampWebUrl: "https://m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/the-desperate-hunt-for-ai-booms-most-indispensable-asset/amp_articleshow/102866764.cms"
+  - title: "Creating Ethical Guardrails For AI In E-Commerce"
+    excerpt: "In order for AI to make sense and successfully scale, we must go into it with our eyes wide open to its risks to consumers."
+    publishedDateTime: 2023-08-24T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://static.toiimg.com/thumb/msid-102866775,width-1070,height-580,imgsize-109990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e6082831949b445a23ba77/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "00SHAXoxeXGiQ1SqR6x2mNI0jTqFlKXBthRLbaGh8w/u4jpsUb4Ve6fsJJVCWCrF4LKvbJ5DJ3eudvqwFgaR0Yrl3ayH9N8/NxaoEFDHp6Bw7uN9zdzW8SkiXV2Mf3q9K4eHO2JyukuceWE0EmdjL4rB/iEu81aeIr7+FsyBbjoXPqI/sYshFn06mWx/mcI2rWKxNNfklvqwZ28umvbR8bHZuxc8k0PkAkgyaGlK1xj65vrSs6KoXa8OtGqnSthc+u9UkRfepM5Ow1n6P/TmWcPDmjdMRhowJr2VUIXlxt5Fb9ltT1Vw/i0ntxIHOqvBtr4CR4OPF/HLSuts+Sb6kRt6GbqFDq7tDYPj/579lcZKwDkwKg8JaY8lrFx5RtZ09z8y7Mx6FSoPT5Et7iOimV1z6MBz5hJJaECm3uHYvaz+KlNPRElDnjKaq5zdZLl7Pq9udk7hZ8pezaZTEv05C8vPnhCrqAGOexzdPZHN77APviYwYimDi+zxhmG1v1n8xz/tCMbD1gPJ34z4CxOGTQ==;wU4xUAPUo+mlgoa1iqj4aA=="

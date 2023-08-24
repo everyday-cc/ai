@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/government-news/the-uae-gover
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl?amp=1"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 826
     height: 551
     isCached: true
+
+related:
+  - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
+    excerpt: "The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and readiness in the region."
+    publishedDateTime: 2023-08-24T11:22:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 46
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NWM1ODA3ZjItZmE1ZC00/0/1-jpg.jpeg?f=3%3A2"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "mxkYfnDYKWRa5+x/hYDT+Hw9+qrcWLwB9Ay0xSagOIQd+F/zf966F0U+gZbweU9pPJI+MUl2aoDIuzLvHbDE1yzfvIqiKeJ68+8pzfOGi6K54EuhGC1lUzEQJ0T03IguWZ4XBHZeobbJd09j8Vkk5R0vHpjZZXgYOf6peiZWc4lCx0EaMGcnQBr/yy6uarGryBpWPI1TzpYCwIkI5c4EAR22Lag0XDkxi5tz1SM6FUx5eeiU15b1COP3T3B2wqr/Xtl0vqHhLcKTh1nnGf0zfnnh8ejKblptmSPzgYf5sE4rNxyj6EOWtwLONBKWxyrKWamulza/M4vMPvRekz8i1010K0XtXP4kbC2CeIYobq8=;byrY2D6qRj/H3km/pZ1hqw=="
 ---

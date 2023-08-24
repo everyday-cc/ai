@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-    excerpt: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/deep-instinct-study-finds-significant-increase-in-cybersecurity-attacks-fueled-by-generative-ai/article_aee0e1dd-40f1-542a-a8ca-b635959418f3.html"
+    excerpt: "The study highlights the impact of generative AI in the cybersecurity industry, analyzing the technology's positive and negative effect on organizations' security postures and preparedness. Unsurprisingly,"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/23/9868784.htm"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 27
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-        width: 437
-        height: 563
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "EQ/vZ0OvG1/zNdsC+SKxHgR2XKAu0Ur7Zzdx/hDpNie/jsJQlLyestk3eD2VOP+PfA1Ih2o8rkArrhzLwhCZtsRjHSZgAX6rdBc61q0H2L2V8yKlSRsaTQAZyZG3An1JTEC2EGZ6GGVhzDcLmuQ7BVeKwuQcz7qqBcVfiaEI1BSYr46z3yOxMMRc9zH6M0Fro+b2+IRq0yBJMVJYRzk98ikUjFJwB9EKuLPUTnPlM/Ux81XYHaE/ImszmTkVEr/PRnTucY38r1xA9KtFe6Et4ZtbRSXY0PNhY71PwZfHbQVnTNmSnpd3IBNEjCpk97ywVopMV2GBtTE0S5eJWRHwwDtzYWKbCm+ulcE2DlISsOa+ALlwO0KXuBCS1GmJSBMsT8rDCcZVUPWvjMfJX5MxykOsuYl643mdG6gaVvC5Y06yvG5e6Ii+iDhACyPsluWt3MQZUeiZR3hEfv0/LT0QbNDNCW52i2KLMpIZqQ5Xt4O+tWQZjQ40D7+i50o5UHJnHEWbkTUuseSmGQerK/WlUA==;gbLv4nTrxR5olkxvUHEPaw=="
 ---

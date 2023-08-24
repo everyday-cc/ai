@@ -168,8 +168,8 @@ related:
         isCached: true
   - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
     excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-    publishedDateTime: 2023-08-23T12:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
+    publishedDateTime: 2023-08-23T13:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-now-available-the-microsoft-azure-marketplace-/2023/08/23/9868932.htm"
     type: article
     provider:
       name: TMCnet
