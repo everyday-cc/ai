@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "Natural language processing to extract social risk factors influencing health"
-    excerpt: "A new study has found that a natural language processing (NLP) system showed excellent performance when ported to a new health system and tested on more than six million clinical notes of patients seen in Florida."
-    publishedDateTime: 2023-08-21T18:13:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230821114409.htm"
+    excerpt: "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ..."
+    publishedDateTime: 2023-08-21T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/998987"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 16
 
 secured: "tSefJw7sNL/pUdFJhMQA0Bb2ckKz6iTtSq5mvBL4dAh32T17J6IBDmHtAJNXKyBgYJRZguJmY+5uXcg6fjGZgRiYV0gevXTfg1c8xMP6fSZoGIuV+chluwibuZyHjbVpLgWyWQm60k0FuA4HmD1JKaRR99g0QDGHGhlAnsoCbAzG+Au3F+ahF+GrX8/zojQ6yAOgxhYfys8PYaOyAIOucIRs5FfGkbRnfIR+OPilsy9jtXptINBfrjEZ2T/bkg0DOWjmJ2Mld4usjkTEeEpIcz4zNy9dkX3ibO3Pf51GxJ9mbOZTOsH5IJrwlSEMlggm9VnnvQhClK5XHGYSt7rGzYPrDVbJ1It1FzBkSCNc1ok=;/1+RD1N9gN8aafzgnJE/zg=="
 ---

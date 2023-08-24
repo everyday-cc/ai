@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -309,6 +309,20 @@ related:
       - url: "https://www.rappler.com/tachyon/2023/05/meta-reuters-may-2023-scaled.jpg?resize=257%2C257&crop=513px%2C0px%2C1785px%2C1785px"
         width: 257
         height: 257
+        isCached: true
+  - title: "Meta unveils AI system enabling translation in 100 diverse languages"
+    excerpt: "Los Angeles: Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects, TechCrunch reported."
+    publishedDateTime: 2023-08-23T06:00:00Z
+    webUrl: "https://telanganatoday.com/meta-unveils-ai-system-enabling-translation-in-100-diverse-languages"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Meta.png"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Meta's new AI translation model performs speech and text translations for up to 100 languages"
     excerpt: "Read more about Meta's new AI translation model performs speech and text translations for up to 100 languages on"

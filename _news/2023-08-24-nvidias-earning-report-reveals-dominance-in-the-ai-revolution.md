@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-24T15:45:00Z
 originalUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
 webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
@@ -121,17 +122,17 @@ related:
         isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-23T20:29:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
+    publishedDateTime: 2023-08-24T03:29:00Z
+    webUrl: "https://www.dcourier.com/news/2023/aug/23/nvidia-surges-after-earnings-crush-ai-chip-sales-s/"
     type: article
     provider:
-      name: Longview News-Journal
-      domain: news-journal.com
+      name: The Daily Courier
+      domain: dcourier.com
     quality: 71
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/08/23/nvidia1_NA6becB.jpg"
         width: 620
-        height: 326
+        height: 349
         isCached: true
   - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
     excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
@@ -683,6 +684,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Xg7S2QP5mSd+inGMgiyB9+peHQF/RS2lx8z8SG9GmWQ/QTucgM4Wfhu84vtlToBNx82W/tL4Zbn4G1wv5a4YPAHs2W7KemlmT9I7+2GH1SuKygyqc7L0UzCeLtExyK92e3BXz0WGmqOtKONSm3LGcqOtzLJwbn6PVNWf9jInTVIW6tQyi3xJaOuZrxPTSSK/+gn3d1MCVFJr5b65vu8YnrEesmSj6UdAW2Vu9mWHBBCDAs61aX+XWjAvikdJ6BoUtc1uj8iGrJS01V6xeQX8wTeX+axePvD9zpe7H8QqdxsoMMeTelqlFr7VgexD9NZJbwZGB6Go18VdONQkilnUqHrruCsegs1CJDA4+5Lknjo=;KciErF1ZrsnQEzNmSpNeZw=="
+secured: "rzr5lKpts9O1hnDkRq+QtKiyEuZcVplCt8K/scyN+Bu8IOoiynEtdBoSDzqqA0XsXhi8m4m4MAKUBBkw0Az17x/0K3npKcKC4UzK7939txZ3d3SuEJIl7hy2oK1ni4wmJVu0oXZ9eh//5EqnWMflGWay+7P1d00VeCdyxLQNOTJPc0sE/Qa/f7vZe/WPpQ5g1F4Wi1ZUkezjJrZHfv1nA93cbAL6D1Ye40tKwgWeDC+oDNh0a2ojKaY2NPtxRero1YUjsx6Gy2FNcJ7o+di76ZlKn6x7WGP0qCPZyr7Q+wVT3e0kBn51zEyOEZ16EYtoEa8HfgiAv7b0B5izuKJbCUzjU7OvSGe13BiPOnOpxTaWmX7nazuklvGzgrL8jmmFHeByoYezyvL0OdYVyVG/5xhgfTHPPYZp2g6MLPezIWoBwtpJAcgf71yinDKvSxE2D9vRqyv/L0y2ylGhXlHHV9lsflEDYYtLy9qr14CARLl9sC2XSvYNTiK3xN0bgXLeYJ3HIciY6vt8wFfDNHnDQw==;APBjmzdtdpmXjTT8qs6eFQ=="
 ---
 

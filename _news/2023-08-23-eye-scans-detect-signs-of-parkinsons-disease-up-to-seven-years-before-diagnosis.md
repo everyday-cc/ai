@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered eye scans could revolutionize early detection of Parkinson's"
-    excerpt: "The study, published today in Neurology ®, the medical journal of the American Academy of Neurology, identified markers of Parkinson's in eye scans with the help of artificial intelligence ... patterns and current therapy), which could have related ..."
-    publishedDateTime: 2023-08-21T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/AI-powered-eye-scans-could-revolutionize-early-detection-of-Parkinsons.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Close_up_of_the_beautiful_eye_of_a_young_child_-_Nik_Bruining_f959060df7e6466ba2733a4c18153083-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "An AI Scans Eyes to Spot Parkinson’s Years Before Diagnosis"
     excerpt: "Using the datasets, the AI was able to identify very subtle signs of GCIPL atrophy in eye scans and, therefore, their increased likelihood of developing Parkinson’s. These markers were detected up to seven years before diagnosis of the disease."
     publishedDateTime: 2023-08-21T20:00:00Z

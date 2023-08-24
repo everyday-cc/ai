@@ -325,6 +325,20 @@ related:
         width: 257
         height: 257
         isCached: true
+  - title: "Meta unveils AI system enabling translation in 100 diverse languages"
+    excerpt: "Los Angeles: Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects, TechCrunch reported."
+    publishedDateTime: 2023-08-23T06:00:00Z
+    webUrl: "https://telanganatoday.com/meta-unveils-ai-system-enabling-translation-in-100-diverse-languages"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Meta.png"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Meta unveils AI model for speech translation between languages"
     excerpt: "The company said in a blog post that its SeamlessM4T model could support translations between text and speech in nearly 100 languages, as well as full speech-to-speech translation for 35 ... a flurry of mostly free AI models this year, including a large ..."
     publishedDateTime: 2023-08-22T14:27:00Z

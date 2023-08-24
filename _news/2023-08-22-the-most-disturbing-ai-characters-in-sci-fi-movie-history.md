@@ -29,7 +29,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/drugax.jpg"
         width: 1200

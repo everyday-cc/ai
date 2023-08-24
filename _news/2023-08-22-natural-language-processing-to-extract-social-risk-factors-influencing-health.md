@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Natural language processing to extract social risk factors influencing health"
-excerpt: "A new study has found that a natural language processing (NLP) system showed excellent performance when ported to a new health system and tested on more than six million clinical notes of patients seen in Florida."
-publishedDateTime: 2023-08-21T18:13:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/08/230821114409.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/08/230821114409.htm"
+excerpt: "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ..."
+publishedDateTime: 2023-08-21T19:53:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/998987"
+webUrl: "https://www.eurekalert.org/news-releases/998987"
 type: article
-quality: 46
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Natural Language Processing
@@ -40,6 +36,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "M8+HzxOlC1ef77ANjj5ZEX5wuHc61jlCh6Fp7BkGlzlsElzW8kQdsZ5LoSW8d25xlopIhSVhHWMm1PurOTgATY7Yq/8bCyVsWVBD0WS6jaskiGXfk7LntmvTTw5MQ0iL1KG57N+H9CQlYG7mjgzT4eBva/SixrtLggbVVxdYyPk7yligrTvP5udhPyjAYUZJVWBsw4S/xV6H04KkF1lrxigDHLA/ugio57jC8AOdsosnTfnhPFb+62XW3eqvBiCVOcnQnCvnfb2OvdNa2YoJ8Z38nDbYjlpXo1Aqjar0lXknDbmc0pzaxtiBXVddQCDOQHBqUrM3yhbDCiG4ZhcBvaQIy9TMs0VvUrlf8ZjVDzY=;f5HRyN1wuhf8F6AZxw0uiw=="
+secured: "FbFARtg9bokBdTw03jPQKmLR/uRuOyJdr1TmtE9JjJ8ndAgs7DrB5gQ6QpG8CQvFd6vtvhdTXHySUaGjcTcX95oHu3pBXCZemtW6MHWuZ9w8QzOEmECwganYPe4udSt9WEPzUKSEq9oN6kp+d2vDf8k/IBVIPSIZAi08Zld2tJ6LZ6H7xlhndr0q+v/JoxTaKlYjaM590tMGqzX6peika6Agyx5GrP0vUcWqT6M94E78O4Hf/7KYtC2/R8DZkXOk17ftj9LUoeDwR59SLjOuFdbr3TyNI7VS2zE23NaDDpKVfs5E//GhJWUUKjc1n4Dx+KL4LVvkwj6hsHQZ+OGw9Yit8VMe7EpIYFopkOghWFU=;ZarQMyov6YjSLemgFZLyMQ=="
 ---
 

@@ -53,7 +53,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top Android Phones Set to Pack Serious AI Power in 2024"
+    excerpt: "New chipset announcements from MediaTek and Qualcomm point to AI featuring heavily on next year's Android flagships."
+    publishedDateTime: 2023-08-24T17:34:00Z
+    webUrl: "https://tech.co/news/android-phones-ai-power"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/11/03142147/AdobeStock_341053069_50_1_43.jpeg"
+        width: 1293
+        height: 863
+        isCached: true
 
-secured: "iQjQ6aV+zNwW3XNSg4bb7RLo4+F7R/zpbGsqRrGsWSXJ+Sf8+JvEIifeLqGvwrnajS4IUgy0DHrPPYg+hH6NulKeAT6QzO5hkOa+YWAkTQWF6wPrtq1gE6pDevPHMkU/fm48ov1/9/3GXBnNcUBmysjhxyGBt0Hh+fAmUnacPC+36jbsZ79dCSE7WCwwWw7KH7aYx5U5JmCMg15lbBU2Wcts2u6fMLUMiu7e7pY1wf1xrbI0vZWKgCPXR6cNYI21JwHStYWR57NsIKqZhNLm8AtxeVWGrILrR2kyLc06CS3qcIZ4320G/BFkC5KWJrjGYwVJdQ5/a9feDhdvxLMGiAwvfoCuKXTbto3mbo5y5k8=;hsU7nT2PQ4qtT6x39x4NNw=="
+secured: "1RTxXQlfDTU2wnmW9p+92/UFc8jWKc9+7XbVBUdWuMYFqDYJv8R+bkf1OOv+Yrnc+yVWUjiF2QLMOzCzbVVgulHaLMd85A45HsAfL3NC/k/KUsX4PVH1Mk7SE8MB/4uvB4Bf8rCZlMFMpe0wUbQN7FC7Rw8Segm7MgTh/EbRHe/PoQGq19gkUqrIDQWFlbkoLgE19fb4OyFhQ29VyYDr0tQQTecaweqNjUBmLo3qSP6L92wlqYQopMqykmn99mldU9EbZK/NJaLlKNAsrU2+YmuhT32AX/YKz36fecK+P7Zd32FwE1XuZki9pqaZpajEj6+HHmD9XFt8ssvdeBngoWwLBwitZYKXSOx3f2D/P4s36NrtWWnsnrhVfw8XC/xAg4jHB9b/uCy9gTltkNuhrd+GrHBocKhtDq0kQ4i9PBnERu8DpULUGhJPCJgnI/CAsc8gk8x3GNLOm5PoXXs3UZl7V4f13vulopLkj1Hjw0cK4IsLt2Wo78fBfvoC8yYufGovcsy8jy/CoaU8r3rsEQ==;Alc5gep1BGn2PQ4sYbjWiA=="
 ---
 

@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-modular-raises-100-mln-general-catalyst-led-funding-2023-08-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
+        width: 5500
+        height: 3668
+        isCached: true
   - title: "Modular looks to boost AI mojo with $100M funding raise"
     excerpt: "AI deployment across different types of hardware is complex. Modular aims to help solve that problem in a big way."
     publishedDateTime: 2023-08-24T15:45:00Z
@@ -63,6 +77,15 @@ related:
         width: 1199
         height: 1262
         isCached: true
+  - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
+    excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
+    publishedDateTime: 2023-08-24T16:19:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-24/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "7opc6bSI5SVVvmbko8pv6AK6YuP6bTDOC15YavH7Hs+zTnzq1OEAZMbEg6Ak4QO1OPKyAlnhvuw+Yinp7fvVH0P0Ak5c2bSLihUf0BlrA2DP2dl8U5Y16OXc6cdE6XGxVfLKn5V3mKWGWPrFaWvsRF6BV+mBQwrLoDCw1NP7mM4nRzo8d8dmDDcm3dYvWNITt7/ObiIJoI+cICxDQwCdhWx8vJyxm8TCa909hez6Cxx7DUEKIYzr2VDPvRoQWCEXAa7Ap/W61S6Co/A913uvUqNmEWdZFbmYO7J9HKbke7DXNpzN40sRbXjTqvd1FFhTAK++l8ZrScrG1G8POmpaBBk5mUFPPGrkrIaITZ8z5Sz8zEkgzjwS0Ssek64rCZv5RrMKaQLWS8khD0Pr5YGM6jVhh9+y5ekO3wqTlLYac9RhJZRExsWStlIJts5qv+2n1T2adrdAyBKUD/89EyRpSMLW9pfIZZXQskUYWQ1RDqi9/qy0QwxORa+OoVA/zwJ5z7M67DQVtOH0HT3E0CHpKg==;AVJDl7eFYc3Iy+NgyfFeLA=="
 ---

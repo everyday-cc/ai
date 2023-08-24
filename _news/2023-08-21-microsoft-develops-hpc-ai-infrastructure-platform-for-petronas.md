@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Meta Launches AI Coding Software to Compete With OpenAI"
-    excerpt: "Meta Platforms Inc. launched a new artificial intelligence coding tool in the social media company’s latest bid to compete with Microsoft Corp.-backed OpenAI and Alphabet Inc.’s Google."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/meta-launches-ai-coding-software-to-compete-with-openai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
     excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"
     publishedDateTime: 2023-08-24T12:52:00Z

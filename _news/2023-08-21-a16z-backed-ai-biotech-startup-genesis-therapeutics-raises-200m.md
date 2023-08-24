@@ -34,15 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "Irreverent Labs, backed by Samsung Next, set to revolutionize video content creation with AI"
-    excerpt: "Irreverent Labs announced today that it had received a strategic investment from Samsung Next, the venture capital arm of the South Korean tech giant."
-    publishedDateTime: 2023-08-24T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/irreverent-labs-backed-by-samsung-next-set-to-revolutionize-video-content-creation-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
 
 secured: "whatbrLne4CWMBHLRwwmZeJxr/laK9OeIQoIgTXh6kOr26NTObgz2PSH4zSietKJyCWlOYqbCwkYpyuujq5mYcBnrJ2KT1aWxtfvMg7Fi514LJlkoIKkWdHSnky2qqRgBwlutZpk+FtPEZ9FOIe+UAJLzQiEVHfdViWu9GB9RCJIOc/lEFfbDuG8oNg7Enf6M+ffZbetomXpKCym9IenL5tBR74gI9/+RuF0SHtm8pGo57S2gGhtbU+fzwbb0gvjdVZxPaDajwvJ3dFu04ixpGN5g963ZyPRo/iCJvkBIS4T0tOlgek2uDViK+DqKo7x8CUdkRL5FyTVea6h4zo+ckhjh1dUtikRycs0k8xEbq6m10J6FBldoBlp2EgxIRpE8/rug/ATAedY7UpN2kFdMBsYno9QEhcxhSMkNEcU0cjW189pPwE/NjcjIdvi7r464haDoXIQ+ZAMIOThnKLBUjQM6azOih7b6h80HMJ5hGaHwRSS4QapBYYGO7lItyE6MDrNPAjwIbpliznoSP3qJg==;pcuhlhrrto/M4mnfGBG4TQ=="
 ---

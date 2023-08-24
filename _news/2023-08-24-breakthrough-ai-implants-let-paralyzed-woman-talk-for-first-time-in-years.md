@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-ye
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
-    excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
-    publishedDateTime: 2023-08-23T15:52:00Z
-    webUrl: "https://neurosciencenews.com/ai-bci-voice-recreation-23810/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/08/bci-speech-vid.jpg"
-        width: 1344
-        height: 896
-        isCached: true
   - title: "AI helped a stroke patient speak for the first time in 18 years"
     excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
     publishedDateTime: 2023-08-23T22:54:00Z

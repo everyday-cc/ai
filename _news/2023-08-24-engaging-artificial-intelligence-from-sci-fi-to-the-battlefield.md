@@ -8,9 +8,9 @@ webUrl: "https://www.financialexpress.com/business/defence-engaging-artificial-i
 ampWebUrl: "https://www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/lite/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Financial Express
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/drugax.jpg"
@@ -37,6 +38,6 @@ related:
       domain: denofgeek.com
     quality: 19
 
-secured: "LyitwZmyDdn1IfmvbAa3r7nDDQT3UtEKLoOskBSfFc0gKZWSB96xWR6AwU+6zbH2xJXX8Wsy3VP8mS/AW1xDO618hjYvwSpHkZftuwdqO5vO/NKQjZ/B/y7L2vPUfH4BoysRRz6k/YMaFAyzJTblFnGzoK7KQkjyJkwpsS9w4mnZle2AV1OzXeg1XkX3ZRzRoOLQStHls+hHPnQLfZ3tPs4Bgeo18ef652tQIWT+Nl0vj6M+9UzspJGzoXNsz9Gg7cxumCWOy2LHiuMD/3GQSN8iY5DJKNhhfUtxZzjTTn9yxT9rxmbf0/asmWci0EpWvIsbl5oKNXIfxcvM7udQhjLjTe1OAE/Hns/xDZneZtA=;8gLhUESltFBFQ3GQCAvtqQ=="
+secured: "vtt7JK+87sW+07asaUMwVnqwfwM2BKm9k1Zkc9nfBelbrE68ZlVgCoZTr13vUlp8ca3iRgw+J1XjFrwk4ssdIxv3PSUpdIaY8lZIO2jZ4EINRhCYPr+JtMInAzYO2aA8UKPgUwZEBl6/+3IBGuKs7CYaN0GqU9UI9DdSpQ8Y+Bq8q3dJXnsqUquCI+QQTp8l9M3APv2849cJzIdkMVHKYJZQ6ti1zRBiEBvlrY4p9RUp0REgHny4dULvzxngq1ry2v10xTPCDHSW4OXLLqDWtPRHsco1FLVYT+P5PD2cC0bdfNK5aB5jzffPjB/svGck41ODL1xCSLhdy11fyolOXJ2NvzppLRW9YonOm7bRp5ZOhiqpsAdR0QcRH1XwMjhVSloXi5RUQH9z5q2iHV7sA9yGNmLAAY+2mHxnT5TnkiWLMkMdyylvOG4CtaJ0/r6Z2AjFfmy96GPvYMoqogNeQW+A/JsjMXtgOIOTOXtflS5/8QM5ZjsH1PoHaTTvWA/rZB9Y3ejJD5ldW76z5SZwEw==;IS9T2mt2NR2MS3c53qFsZQ=="
 ---
 

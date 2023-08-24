@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/benelux"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: Statista
       domain: statista.com
     quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing - Benelux"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$1bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.04%, resulting in a market volume of US ..."
+    publishedDateTime: 2023-08-21T03:35:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/benelux"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
     images:
       - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
         width: 1200

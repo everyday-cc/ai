@@ -42,20 +42,20 @@ related:
         height: 1080
         isCached: true
   - title: "Closing the loop between artificial intelligence and robotic experiments"
-    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out.TSUKUBA, Japan, Aug 24,"
-    publishedDateTime: 2023-08-24T01:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/a34016419/closing-the-loop-between-artificial-intelligence-and-robotic-experiments"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34016419"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016419"
+    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out."
+    publishedDateTime: 2023-08-23T18:26:00Z
+    webUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: techxplore
+      domain: techxplore.com
     quality: 73
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
+        width: 1280
+        height: 609
         isCached: true
   - title: "Here are 6 stocks dominating the AI trade and 3 more that stand to benefit down the road"
     excerpt: "We surveyed the current artificial intelligence landscape — and with the help of a Goldman Sachs note, explored the AI trade after the trade."

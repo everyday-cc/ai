@@ -58,6 +58,29 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-modular-raises-100-mln-general-catalyst-led-funding-2023-08-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
+        width: 5500
+        height: 3668
+        isCached: true
+  - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
+    excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
+    publishedDateTime: 2023-08-24T16:19:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-24/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "UK to invest £100m into chip production for AI tools"
     excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
     publishedDateTime: 2023-08-21T13:02:00Z
@@ -68,6 +91,6 @@ related:
       domain: theiet.org
     quality: 34
 
-secured: "OuGkYr3EQMnsOQLkb7mCv5I/EZjkms0nTO7yAiqUFjfLjxNcs3ZAgQYYQTO6I7OC0EOn0By6Jf50K8Y2ZqwccIyHK1EY/JPYzmw7S37GFAgOn1Ot/tr11vuYTN39oGufPBamYUqTc/3VOqSTqeYIHI9X369EJUh1TgZ3FP/EdVyP7QzkFNgv4TsntflpriXxVdWBlaeij0awcvRLwwkrIiplWSx9ENlDA1aOAyVk+rbn4ln/HmM67iVzWgbBVlXgTGOkH6nIA3r14Ebmwxp7OIExnvEkEEv3S+OQpU40YU24hhMync/sHNbmuvOKMYNIkvjQqmfrWeTyTw/WPBXVnkyOOlcYDLptgiW516iE8IM=;MloeTL+7cUqtPheXId4qDA=="
+secured: "gOQCQYDX/Hg6bxyFAW0AYqnnc+hiDAH5Llt5+EYHXq9q3W7bKlXVniHfvY6Cu/r4bp5DunHqCcYhPfeHkfpkReLiocP3BS2Gi8/gcj5qaGhEmrcykV8XYY+jICNnD964tkWX2bwuae6sjc9Pr9YznSmX3HJqUy6pI3n4wKiWiIGFKsm1wzHaQLroxcISBRxHRVjpqZhEtHRtgOnqNIGa8sLNAqtGhNztF8UTcMHv1cvyaiDsB3oURk2r4EaBaM94X+c+6ZSf8AqjAzFTttseIHkspRdzDfzGsWnmzTw/DV42iUHF14gpvAecNyMlRnm13FgSKZoWVfbN4lk0/MTbP8sYY5Kg9qyV1/0cUafXpo80AIFWSyNapXdSqNs/hYZ2uwCqDbY8ZFrngHMCRyvOiwZGhOg1+2gch6AcpNNrbmeqYFAk8dX9++ADE14lMEVWc+wOBnPY1JD2/JZvxleREllS91u+/pC7VfnMIuEvMSbsSYz+kePdAg+ti9HcZZhxZQ7L9X/bjGupiWnjEALW5A==;z1fsfE0HAvPV6b0tPHUysw=="
 ---
 

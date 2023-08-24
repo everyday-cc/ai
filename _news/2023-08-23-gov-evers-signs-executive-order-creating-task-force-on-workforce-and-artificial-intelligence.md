@@ -7,7 +7,7 @@ originalUrl: "https://urbanmilwaukee.com/pressrelease/gov-evers-signs-executive-
 webUrl: "https://urbanmilwaukee.com/pressrelease/gov-evers-signs-executive-order-creating-task-force-on-workforce-and-artificial-intelligence/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Evers creates state task force on workforce and artificial intelligence"
+    excerpt: "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market."
+    publishedDateTime: 2023-08-24T17:07:00Z
+    webUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/"
+    ampWebUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: BizTimes
+      domain: biztimes.com
+    quality: 57
+    images:
+      - url: "https://assets.biztimes.com/uploads/2019/07/SR-Health-Care-Wisconsin-State-Capitol.jpg"
+        width: 1280
+        height: 820
+        isCached: true
   - title: "Gov. Evers creates task force to study AI's affect on Wisconsin workforce"
     excerpt: "MADISON, Wis. (AP) — Wisconsin became the latest state Wednesday to launch a task force to study the affects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
     publishedDateTime: 2023-08-23T17:59:00Z

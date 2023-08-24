@@ -107,17 +107,17 @@ related:
         isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-23T20:29:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
+    publishedDateTime: 2023-08-24T03:29:00Z
+    webUrl: "https://www.dcourier.com/news/2023/aug/23/nvidia-surges-after-earnings-crush-ai-chip-sales-s/"
     type: article
     provider:
-      name: Longview News-Journal
-      domain: news-journal.com
+      name: The Daily Courier
+      domain: dcourier.com
     quality: 71
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/08/23/nvidia1_NA6becB.jpg"
         width: 620
-        height: 326
+        height: 349
         isCached: true
   - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
     excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
@@ -450,6 +450,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
+    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 41
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
     publishedDateTime: 2023-08-22T16:30:00Z
@@ -535,20 +549,6 @@ related:
       - url: "https://biz-file.com/c/2308/710028-842x438.jpg?7"
         width: 842
         height: 438
-        isCached: true
-  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
-    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
-    publishedDateTime: 2023-08-24T15:45:00Z
-    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."

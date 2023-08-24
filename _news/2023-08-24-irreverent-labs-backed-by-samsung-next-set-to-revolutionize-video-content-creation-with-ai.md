@@ -22,29 +22,107 @@ topics:
   - AI
 
 related:
-  - title: "a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next"
-    excerpt: "Among them is a Bellevue, Washington–based startup called Irreverent Labs, whose AI technology enables anyone to create a ... one that had developed a robot cockfighting game called MechaFightClub that used non-fungible tokens (NFTs)."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/"
+  - title: "The AI Revolution Will Be Powered By Energy"
+    excerpt: "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,"
+    publishedDateTime: 2023-08-24T16:25:00Z
+    webUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/"
+    ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
-  - title: "A16z-Backed AI Biotech Startup Genesis Therapeutics Raises $200M"
-    excerpt: "A large round to a startup working at the intersection of AI and biotech is perhaps not surprising, given that the two sectors have led our list of very large funding deals this year."
-    publishedDateTime: 2023-08-21T16:47:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/a16z-backed-ai-biotech-startup-genesis-therapeutics-raises-200m/"
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dear Superintendents, Get Ready For the AI Guidance Revolution"
+    excerpt: "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance."
+    publishedDateTime: 2023-08-23T16:13:00Z
+    webUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dce896503cde930688000c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
+    excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
+    publishedDateTime: 2023-08-24T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/embracing-the-ai-robotic-revolution-balancing-innovation-workforce-and-ethics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+  - title: "AI And The Evolution Of Customer Experiences"
+    excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
+    publishedDateTime: 2023-08-24T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/ai-and-the-evolution-of-customer-experiences/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI-powered eye scans could revolutionize early detection of Parkinson's"
+    excerpt: "The study, published today in Neurology ®, the medical journal of the American Academy of Neurology, identified markers of Parkinson's in eye scans with the help of artificial intelligence ... patterns and current therapy), which could have related ..."
+    publishedDateTime: 2023-08-21T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20230821/AI-powered-eye-scans-could-revolutionize-early-detection-of-Parkinsons.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
     quality: 39
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Biotech_Privacy.jpg"
-        width: 900
-        height: 506
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Close_up_of_the_beautiful_eye_of_a_young_child_-_Nik_Bruining_f959060df7e6466ba2733a4c18153083-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
+  - title: "Novel AI-powered solar panels offer 88% energy efficiency"
+    excerpt: "Solar cells have a theoretical maximum power that they can generate with sunlight received. But what happens when you lower the resistance?"
+    publishedDateTime: 2023-08-22T06:46:00Z
+    webUrl: "https://interestingengineering.com/energy/ai-model-ev-motors-no-plugging-in"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/21/image/jpeg/HVAolUndxslBBcGdNa5TvwUgjlkreRKmy7ejTt4y.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
+    excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
+    publishedDateTime: 2023-08-23T15:52:00Z
+    webUrl: "https://neurosciencenews.com/ai-bci-voice-recreation-23810/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/08/bci-speech-vid.jpg"
+        width: 1344
+        height: 896
+        isCached: true
+  - title: "An AI-Powered Brain Implant Can Restore the Ability to Talk"
+    excerpt: "Patients with paralysis caused by stroke or ALS are robbed of their speech. A groundbreaking set of new brain implants seeks to change all that."
+    publishedDateTime: 2023-08-23T18:12:00Z
+    webUrl: "https://www.thedailybeast.com/an-ai-powered-brain-implant-can-restore-the-ability-to-talk"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "T4T3E5IgcBY5BwM1U5fvielnIl/f4bPhPSLvAAu0hcHruzfQckTbbxSnVYmpXpXjmV856S+wy/1jBj4Xcy3YcMRxWQegyg/dsnq/AfF6vjl/+CUulQWS33saUO+nYJHjOn+BBH3PbgXrDvKSOCnswZHn+XrW+q/RBCL/tNB8UjTqgQ6lQxdyNFvZpT37TUk2m+rxbuw4bxv6LtevK/tLOZGfTNyPk4YLMockdn3/OQLQYsxIsEDU9w2kcZRdvY9wjm7cdFtShzI99WSjCZeYgsm4CQTUiYdWqfFTKpGzHrhtsQ9zZ9oG9EQ0AwETiDd+NBdBY4MdaZGTvoNuUYMnuMkKjU3TerTMxxBDmANuXBPSRRXXEKzcokxSXPYppbXz12Ta020k1BFy8Eprkxyon+OO50E4XZAN3r11jInNtU0R6nyThlzLqcT93KeYnfP9hKAUGmF8wgs5WEhqUu5okbgkPISfcmfx+boM/+2yIZMnI84mJ9fu5vxfTaicdkAf2fjEm5Jt5BVf5UkYJTIRyg==;GuG5Wb2St1sjL6aeeExYkg=="
 ---

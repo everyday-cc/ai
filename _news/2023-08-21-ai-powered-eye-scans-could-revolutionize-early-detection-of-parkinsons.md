@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230821/AI-powered-eye-scans-co
 webUrl: "https://www.news-medical.net/news/20230821/AI-powered-eye-scans-could-revolutionize-early-detection-of-Parkinsons.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,57 +25,102 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Scans Eyes to Spot Parkinson’s Years Before Diagnosis"
-    excerpt: "Using the datasets, the AI was able to identify very subtle signs of GCIPL atrophy in eye scans and, therefore, their increased likelihood of developing Parkinson’s. These markers were detected up to seven years before diagnosis of the disease."
-    publishedDateTime: 2023-08-21T20:00:00Z
-    webUrl: "https://www.thedailybeast.com/an-ai-scans-eyes-to-spot-parkinsons-years-before-diagnosis"
+  - title: "The AI Revolution Will Be Powered By Energy"
+    excerpt: "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,"
+    publishedDateTime: 2023-08-24T16:25:00Z
+    webUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/"
+    ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3375,w_6000,x_0,y_610/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1692644315/GettyImages-1370863518_pnmsok"
-        width: 1480
-        height: 833
-        isCached: true
-  - title: "Eye scans detect signs of Parkinson's disease up to seven years before diagnosis"
-    excerpt: "Markers that indicate the presence of Parkinson's disease in patients on average seven years before clinical presentation have been identified by a UCL and Moorfields Eye Hospital research team."
-    publishedDateTime: 2023-08-23T01:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230821174246.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
-  - title: "AI eye scans can detect Parkinson’s up to seven years before symptoms appear, scientists say"
-    excerpt: "Scientists have developed eye scans that use artificial intelligence to detect markers of Parkinson ... breakthrough as drug treatment comes one step closer Parkinson’s therapy could be used to tackle alcohol abuse Previous studies have shown eye ..."
-    publishedDateTime: 2023-08-23T07:48:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-eye-scan-parkinsons-diagnosis-b2397774.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 28
-    images:
-      - url: "https://static.independent.co.uk/2023/08/23/07/GettyImages-1237096893.jpg?quality=75&width=1200&auto=webp"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 799
+        height: 800
         isCached: true
-  - title: "Eye Scans Detect Parkinson’s Years Before Symptoms Surface"
-    excerpt: "A new study identified markers in eye scans which can detect the presence of Parkinson’s disease an average of seven years before clinical presentation."
-    publishedDateTime: 2023-08-21T20:34:00Z
-    webUrl: "https://neurosciencenews.com/parkinsons-eye-scans-23796/"
+  - title: "Dear Superintendents, Get Ready For the AI Guidance Revolution"
+    excerpt: "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance."
+    publishedDateTime: 2023-08-23T16:13:00Z
+    webUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dce896503cde930688000c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
+    excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
+    publishedDateTime: 2023-08-24T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/embracing-the-ai-robotic-revolution-balancing-innovation-workforce-and-ethics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+  - title: "AI And The Evolution Of Customer Experiences"
+    excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
+    publishedDateTime: 2023-08-24T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/ai-and-the-evolution-of-customer-experiences/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Novel AI-powered solar panels offer 88% energy efficiency"
+    excerpt: "Solar cells have a theoretical maximum power that they can generate with sunlight received. But what happens when you lower the resistance?"
+    publishedDateTime: 2023-08-22T06:46:00Z
+    webUrl: "https://interestingengineering.com/energy/ai-model-ev-motors-no-plugging-in"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/21/image/jpeg/HVAolUndxslBBcGdNa5TvwUgjlkreRKmy7ejTt4y.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
+    excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
+    publishedDateTime: 2023-08-23T15:52:00Z
+    webUrl: "https://neurosciencenews.com/ai-bci-voice-recreation-23810/"
     type: article
     provider:
       name: Neuroscience News
       domain: neurosciencenews.com
-    quality: 24
+    quality: 39
     images:
-      - url: "https://neurosciencenews.com/files/2023/08/parkinsons-eye-scans-neurosicnnes.jpg"
+      - url: "https://neurosciencenews.com/files/2023/08/bci-speech-vid.jpg"
         width: 1344
         height: 896
         isCached: true
+  - title: "Irreverent Labs, backed by Samsung Next, set to revolutionize video content creation with AI"
+    excerpt: "Irreverent Labs announced today that it had received a strategic investment from Samsung Next, the venture capital arm of the South Korean tech giant."
+    publishedDateTime: 2023-08-24T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/irreverent-labs-backed-by-samsung-next-set-to-revolutionize-video-content-creation-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
+  - title: "An AI-Powered Brain Implant Can Restore the Ability to Talk"
+    excerpt: "Patients with paralysis caused by stroke or ALS are robbed of their speech. A groundbreaking set of new brain implants seeks to change all that."
+    publishedDateTime: 2023-08-23T18:12:00Z
+    webUrl: "https://www.thedailybeast.com/an-ai-powered-brain-implant-can-restore-the-ability-to-talk"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "aZ/JUYEzkV+/AVb4pNz60KPUu/zMv2rgRnzaL4I72TUwsti7JtWwcdbY74C0U09k2+hmZPXlmW12rlSB5KplTlDWDYXEIC9OK7vK19hyrMVYmVVpMcOw9jJ+tVI6G55pW9aPhh2vRj+F+DoDlUI07NcoAM2NS8JzP+yHeW9OPSkimh2BCh2EXK72DJ0c47zgQ27xPCkMUKXyLQZNV/QEguTGFPNqdME71OWnaB1IUEIOZ23iXKukKmCq/tdx6OonskWLUFABAV6C+AK4SRB3HcecB4RZjnfsqVqfbF9z0Q187H7t3d+3AuWaM751NgFrRmAJ4ZXi+4GFGCTQtR5SI4GX9c3TXOcRPp0Ew2cWrfs=;KS0rAh8M9F9hey2wANkHBQ=="
 ---

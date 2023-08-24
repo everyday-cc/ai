@@ -2,17 +2,17 @@
 category: news
 title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
 excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-publishedDateTime: 2023-08-23T20:29:00Z
-originalUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
-webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
+publishedDateTime: 2023-08-24T03:29:00Z
+originalUrl: "https://www.dcourier.com/news/2023/aug/23/nvidia-surges-after-earnings-crush-ai-chip-sales-s/"
+webUrl: "https://www.dcourier.com/news/2023/aug/23/nvidia-surges-after-earnings-crush-ai-chip-sales-s/"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: The Daily Courier
+  domain: dcourier.com
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+  - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/08/23/nvidia1_NA6becB.jpg"
     width: 620
-    height: 326
+    height: 349
     isCached: true
 
 related:
@@ -451,6 +451,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
+    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 41
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
     publishedDateTime: 2023-08-22T16:30:00Z
@@ -536,20 +550,6 @@ related:
       - url: "https://biz-file.com/c/2308/710028-842x438.jpg?7"
         width: 842
         height: 438
-        isCached: true
-  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
-    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
-    publishedDateTime: 2023-08-24T15:45:00Z
-    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
@@ -684,6 +684,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ELBvJeu0NkvF8YkiHQoOtqgAUFSY229I90dsV8KuUWXErfmIX5n/SLjei1cR68topWDWm2MDU2fjT633wHPLez9PyzIIU0xIJYKuC1eowB8JVYV6MCvfdlRAcyI2y0zyQpnIWKYQvpxZUnGMR0SRUv25NHBGg2t+BXEs17tr5+k0hUDbEItQprCWmn5tlAotDCD4mxTmw0h6NgyC9Hz7F3KMdV0O4qBW4tjAQXiByCZFQFJXKb9cEW1LRFTgOOtgbXSqai6cb9PmMqLng9xPctfe4zDwkTgRIGR0RobiUTuyHFUsTF26m1H8yZFo3RPqHXai8LR30Re3TBWKjXVufBgrOJPnSoggv0gNBKNDKxRm9tZYvnCF/SFqXUtf6UbKBQrXStIWpf5v2UPqEz1tWjzlTu7AUjZVKI2kP+FpzA+QXBk41VUtEczb/bZUkreFfCZHAdnWBD1NDJQHPLOA8o1P40FxAIKagg/DlnXJF9iCvK4zpwInolsCoZcl41wDr2BXfA2K3cIKhNKB37P9hA==;Txkhkw8jde0zz0iBYJwMPA=="
+secured: "X8IW9rHMy2kaGUkYo9x7wpqaFPuHYvPvlRwgTcUJIYiwapLlEEMMN46TzD3u/gzGr3aw1GtDvvcI+JuSXGdPMKZgbTf157UiZ3PVVTijWjA2wyXU4oVqUfH9SGXmxV0ELacX2RqVs/Ruz9sB07dB6CI8rBsr/ZdTyGra5sLijonCfrpJgVTt5miDjQ+A6YLIx6Wd2IhkQuH25vmSg571bJu0ITIkt5pbbl1JSzwDQ+bIO/6Z8L5VHkasxn+pjn7tbvtd4Lbe8Av+YraZuUoa6n2InSYczlOiOrwDaYXyuuBMUBsrG6p55ZWJeosDaPXFl+sA7ibEVRerL+WGeFA9LBs3JXTgXoTkBwSlyS5QRQs=;uwEwMpRRc/t2VClxYE0X8g=="
 ---
 

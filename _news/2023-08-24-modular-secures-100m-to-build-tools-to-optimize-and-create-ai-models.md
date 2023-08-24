@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-too
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-modular-raises-100-mln-general-catalyst-led-funding-2023-08-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
+        width: 5500
+        height: 3668
+        isCached: true
   - title: "Modular looks to boost AI mojo with $100M funding raise"
     excerpt: "AI deployment across different types of hardware is complex. Modular aims to help solve that problem in a big way."
     publishedDateTime: 2023-08-24T15:45:00Z
@@ -58,6 +72,15 @@ related:
         width: 1199
         height: 1262
         isCached: true
+  - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
+    excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
+    publishedDateTime: 2023-08-24T16:19:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-24/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "UK to invest £100m into chip production for AI tools"
     excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
     publishedDateTime: 2023-08-21T13:02:00Z

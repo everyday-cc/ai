@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Launches AI Coding Software to Compete With OpenAI"
-    excerpt: "Meta Platforms Inc. launched a new artificial intelligence coding tool in the social media company’s latest bid to compete with Microsoft Corp.-backed OpenAI and Alphabet Inc.’s Google."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/meta-launches-ai-coding-software-to-compete-with-openai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "SophiaVerse announces collaboration with Hanson Robotics"
     excerpt: "SophiaVerse has announced that it is collaborating with Hanson Robotics with the objective of facilitating innovation in AI and Web3 Gaming. The ultimate aim is to bring revolution in these areas."
     publishedDateTime: 2023-08-21T11:39:00Z

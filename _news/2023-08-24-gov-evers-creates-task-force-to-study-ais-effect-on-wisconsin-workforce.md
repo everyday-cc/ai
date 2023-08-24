@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Evers creates state task force on workforce and artificial intelligence"
+    excerpt: "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market."
+    publishedDateTime: 2023-08-24T17:07:00Z
+    webUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/"
+    ampWebUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: BizTimes
+      domain: biztimes.com
+    quality: 57
+    images:
+      - url: "https://assets.biztimes.com/uploads/2019/07/SR-Health-Care-Wisconsin-State-Capitol.jpg"
+        width: 1280
+        height: 820
+        isCached: true
   - title: "Gov. Evers Signs Executive Order Creating Task Force on Workforce and Artificial Intelligence"
     excerpt: "You'll get access to an ad-free website with a faster photo browser, free tickets to a host of events (including everything from Summerfest to the Florentine Opera), access to members-only tours, and a host of other benefits."
     publishedDateTime: 2023-08-23T16:19:00Z

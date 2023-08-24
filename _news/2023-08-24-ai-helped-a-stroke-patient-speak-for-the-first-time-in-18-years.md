@@ -49,20 +49,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
-    excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
-    publishedDateTime: 2023-08-23T15:52:00Z
-    webUrl: "https://neurosciencenews.com/ai-bci-voice-recreation-23810/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/08/bci-speech-vid.jpg"
-        width: 1344
-        height: 896
-        isCached: true
   - title: "Artificial Intelligence Gives Paralyzed Woman Her Voice Back"
     excerpt: "A brain-computer interface translates neural signals of a woman who is unable to speak, not only into text on a screen but into audible speech using a digital avatar."
     publishedDateTime: 2023-08-23T22:32:00Z

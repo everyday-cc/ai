@@ -2,6 +2,237 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-evers-creates-state-task-force-on-workforce-and-artificial-intelligence.md",
+      "title": "Evers creates state task force on workforce and artificial intelligence",
+      "excerpt": "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market.",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/",
+      "originalUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/uploads/2019/07/SR-Health-Care-Wisconsin-State-Capitol.jpg",
+          "width": 1280,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp",
+      "publishedDateTime": "2023-08-24T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
+      "title": "AI helps robots manipulate objects with their whole bodies",
+      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-helps-robots-manipu.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-robots-bodies.amp",
+      "publishedDateTime": "2023-08-24T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities.md",
+      "title": "Geospatial AI, machine learning models to be used for monitoring air quality in Indian cities",
+      "excerpt": "Geospatial artificial intelligence and machine learning based models will soon be used to monitor air quality in key Indian cities including Delhi, Mumbai, Bengaluru, Chennai, and Kolkata, a senior scientist said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/india/geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities/1729580/",
+      "originalUrl": "https://theprint.in/india/geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities/1729580/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/india/geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities/1729580/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities/1729580/?amp",
+      "publishedDateTime": "2023-08-24T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-the-ai-revolution-will-be-powered-by-energy.md",
+      "title": "The AI Revolution Will Be Powered By Energy",
+      "excerpt": "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "publishedDateTime": "2023-08-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model.md",
+      "title": "Korea’s Naver joins generative AI race with HyperCLOVA X large language model",
+      "excerpt": "Korean internet giant Naver today launched its next-generation LLM called HyperCLOVA X and a chatbot experience called CLOVA X.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model/",
+      "originalUrl": "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_5_ways_enterprise_leaders_can_use_large_language_models_849dd1c3-4b1c-4004-a18f-7c601f83e5fc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
       "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
       "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
@@ -53,7 +284,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -70,6 +301,101 @@
       "ampWebUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
       "publishedDateTime": "2023-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield.md",
+      "title": "Engaging artificial intelligence: From Sci-Fi to the battlefield",
+      "excerpt": "Artificial intelligence is the buzzword of the twenty-first century. Its applications in defence or militarization thereof have multidimensional ramifications for the fields of ethics, law, and international relations. AI does not have a single definition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/",
+      "originalUrl": "https://www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/drugax.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/lite/",
+      "publishedDateTime": "2023-08-24T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-35.md",
+      "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5",
+      "excerpt": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "publishedDateTime": "2023-08-24T07:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -440,7 +766,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -534,7 +860,7 @@
       "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 329,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -827,7 +1153,7 @@
       "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -848,344 +1174,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems.md",
-      "title": "The AI Financial Crisis Theory Demystified: How To Create Resilient Global Ecosystems",
-      "excerpt": "Once upon a time, the fictional idea of robots and humanoids propelling global crises would have been a far reaching fascination among science fiction aficionados.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/",
-      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4e7438c41637d244af6bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/08/23/the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems/amp/",
-      "publishedDateTime": "2023-08-23T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-can-ai-be-ethical-and-moral.md",
-      "title": "Can AI be ethical and moral?",
-      "excerpt": "Can machines or AI be moral agents, or artificial moral agents (AMAs)? A wide body of literature suggests that machines can, “in some sense, be ethical agents responsible for their actions,” or “autonomous moral agents”. File | Photo Credit: Reuters",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
-      "originalUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/ag9b81/article67228761.ece/alternates/FREE_1200/2023-08-21T154416Z_2120929698_RC21P1AIHZZ0_RTRMADP_3_TECH-AI-JOBS.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
-      "publishedDateTime": "2023-08-23T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-tesla-using-full-self-driving-ends-up-sunk-in-huge-puddle.md",
-      "title": "Tesla using Full Self Driving ends up sunk in huge puddle",
-      "excerpt": "The YouTube channel video is built on the footage captured by Ryan’s Tesla dashcam, and shows him passing one of those “FLOODED” signs one last time; approximately 180 metres past it, the car suddenly comes across a stretch of about 30 metres of highway submerged under still water.",
-      "sourceUrl": null,
-      "webUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california",
-      "originalUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2023/08/tesla-model-3-FSD-sunk-puddle-Mono-City-Ryan-.png",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/",
-      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/",
-      "publishedDateTime": "2023-08-23T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blogs.driving.ca",
-        "domain": "driving.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-meta-unveils-seamless-speech-to-speech-translator.md",
-      "title": "Meta unveils 'Seamless' speech-to-speech translator",
-      "excerpt": "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "originalUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "publishedDateTime": "2023-08-23T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-dear-superintendents-get-ready-for-the-ai-guidance-revolution.md",
-      "title": "Dear Superintendents, Get Ready For the AI Guidance Revolution",
-      "excerpt": "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dce896503cde930688000c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/",
-      "publishedDateTime": "2023-08-23T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-google-introduces-11-new-security-features-for-workspace-some-ai-powered.md",
-      "title": "Google introduces 11 new security features for Workspace (some AI-powered)",
-      "excerpt": "Google announces a large set of cybersecurity improvements to its Workspace offerings. Some may even be for you and your company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "originalUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2cb48e3be8c9ebcf264ef952d5ed8b37b2f7bcfb/2023/08/23/5a28a83b-4ced-4cea-a909-2e1d6575be7f/umb-gettyimages-171590291.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "publishedDateTime": "2023-08-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-artificial-intelligence-in-medical-imaging-market-to-surpass-usd-1442315-million-by-2032.md",
-      "title": "AI (Artificial Intelligence) in Medical Imaging Market to Surpass USD 14,423.15 Million by 2032",
-      "excerpt": "The global AI (Artificial Intelligence) in medical imaging market size is projected to reach around USD 5,448.17 million by 2029, a study published by Towards Healthcare a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g34007533/ai-artificial-intelligence-in-medical-imaging-market-to-surpass-usd-14-423-15-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g34007533/ai-artificial-intelligence-in-medical-imaging-market-to-surpass-usd-14-423-15-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34007533",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34007533",
-      "publishedDateTime": "2023-08-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

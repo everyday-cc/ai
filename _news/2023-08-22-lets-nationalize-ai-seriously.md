@@ -39,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top Android Phones Set to Pack Serious AI Power in 2024"
+    excerpt: "New chipset announcements from MediaTek and Qualcomm point to AI featuring heavily on next year's Android flagships."
+    publishedDateTime: 2023-08-24T17:34:00Z
+    webUrl: "https://tech.co/news/android-phones-ai-power"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/11/03142147/AdobeStock_341053069_50_1_43.jpeg"
+        width: 1293
+        height: 863
+        isCached: true
   - title: "Hoping to Get More of Their Teachers to Try AI, Students Organize a National Conference"
     excerpt: "Summer is a time for educators to do some learning, and there are plenty of conferences and workshops throughout the season. But one national event for"
     publishedDateTime: 2023-08-24T10:07:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "and a potential method of treating it which uses artificial intelligence techniques. Spanish researchers have discovered that bilinguals use different neural networks to read languages that are pronounced as they are written. The results are valuable for ..."
-publishedDateTime: 2023-08-19T10:23:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/248"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/248"
+excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
+publishedDateTime: 2023-08-19T10:19:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "qqnp079jykREJGbkEaTyJvKJj9Pr+a5xMx1uDmfnnLHGOMWCVOJyc5HuNXRHb3rlkK3vifxX2Ea4+XqaIm0RJ3s14j9L4pV35RWrYBy3RicrzjedWrPdIddgW9GDyRhVGGPdWQBTAeVV9zF6H4LSnPZtAGb+We2HxMWxd8wx+97bOhfALIFtr1rJ0bIRejOT+AiK+LKq81ctC7SgoPO/qOqmEWd7IBtMYZFF+otftEWkPnLWTm8obcmGOielpLTDFxomlxzgsHV/A56x0TfceTtuqglsX7zQ21ZisZ89tRyosfrwtW6DGD9XF9qLWjUY43F5rMmnHHQ1A6ZLA8eSJtmepbFX+2DYIGu0775JFEg=;/W2Srb9J3VBeu1IIdLKhzA=="
+secured: "6nnz6IzRcpHOupXEw61ON/zqVUyO6aizGq362AfIaWXaLsDDNYIoS7JzvZT2qa2yjHTDkO1tCFGR9b8HYDjKdiHZ4iGBiAPrxtmpYcUlnmtK+El1p1w3w5IsA1W4UxtP9mo156iWUAjfd7o2DCQMHm/jRyk41kw/AHBhN9T+VfXagVDQVstPJy14OPlpbvlGiXq9y0zO7dpdppV2RPPL0+yWRShUkrSj+hfezp0bjWIYOJRi4mPuzZFaeolqnSCKtRZ4WfbmRKcbHs7w/5iqQpTx+nryzm50xXWEpV4SlHaEk4lwbthyODSlEIiuSS8Jvyd/ncr6Iy3v27ZLwVX2GChJxlSm1PsUZUi6Z0Sg/gk=;RabK7p0V80xUYEtMp2mRDw=="
 ---
 

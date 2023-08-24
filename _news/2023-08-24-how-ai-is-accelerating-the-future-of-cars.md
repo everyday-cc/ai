@@ -3,8 +3,8 @@ category: news
 title: "How AI Is Accelerating the Future of Cars"
 excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"
 publishedDateTime: 2023-08-24T08:24:00Z
-originalUrl: "https://www.criticalhit.net/technology/how-ai-is-accelerating-the-future-of-cars/"
-webUrl: "https://www.criticalhit.net/technology/how-ai-is-accelerating-the-future-of-cars/"
+originalUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
+webUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
 type: article
 quality: 39
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars.jpg"
-    width: 1430
-    height: 733
+  - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
+    width: 1024
+    height: 525
     isCached: true
 
 related:
@@ -302,6 +302,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "TiTwNsJlQm5T/ER9ZjLgmPV1vwAoV5s7joVECwJJdWolzaIb3SB3X8nZqKIroxUDUwFVjiOqZPzdSyP1EBtk25C0Yb6OzYo3T5LcSe0uEwpTA1cjdco66Oc79cV+IE8D2k7tZrdWM8VjKmKYHb2A+TkVllNP/CSTopvefoYqfYivLSr5Q1bbvr/o9CZlGg/FhftlWzunhAkWl3gY9foXarw0QE+ikPLpRYFcgZWcU6R/JNYgVTxyPWwkV/SeUdEgk7A5Ch4c8acLOeizM5qDv6aLI3OEIP0yw2DjJq8aev9Pz2SRPAMLNtuWZcEStJW7UXKiZ/OCNI/7UrpYK5oqCEQ+3AAUTJJ1fSjAgnimbnQ=;oI+ONk5geho6RHACnjyuRw=="
+secured: "rG7NsV4gLtAyzwkobRXSLs80FzFZnltStsdJ7VTipf6eEt23Q2HadWCczD9wdqJMCDRTHmu8OUtnXtThFpdX3hgQBXqOG9Tkxt4n1DqJyTL25QFPW7ig4PjDaQIQwVvbuJCOzN/J55y2yVYXTaecZPEDR+wrA554wGy0nhVtgUzGhMPZ5bObfBngQma6GR/4wVHbMB1j4HhiZPWYmg6pKSHnyAQJnelznELGzIRFIhUVOe5hjCFhIQg0v+/3Hz2FfPrbW+0QhzQk6PHXeIKfMNewWnxPJFAj4Q//ntxQdfpxTlrxgeNYzRM2aMcishj4oPCbLI9llGfFBrcQq6yaNsCk3AciAxE4b0QTs8n4Tfc=;b7fv2tdhpY0IKnPwXSoAwQ=="
 ---
 

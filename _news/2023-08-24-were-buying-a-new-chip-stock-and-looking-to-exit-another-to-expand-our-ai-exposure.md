@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "Closing the loop between artificial intelligence and robotic experiments"
-    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out.TSUKUBA, Japan, Aug 24,"
-    publishedDateTime: 2023-08-24T01:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/a34016419/closing-the-loop-between-artificial-intelligence-and-robotic-experiments"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34016419"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016419"
+    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out."
+    publishedDateTime: 2023-08-23T18:26:00Z
+    webUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: techxplore
+      domain: techxplore.com
     quality: 73
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
+        width: 1280
+        height: 609
         isCached: true
   - title: "Here are 6 stocks dominating the AI trade and 3 more that stand to benefit down the road"
     excerpt: "We surveyed the current artificial intelligence landscape — and with the help of a Goldman Sachs note, explored the AI trade after the trade."
@@ -76,6 +76,6 @@ related:
         height: 800
         isCached: true
 
-secured: "QEpWaNviCbLG6I4tx7BA4Xlws3U1sSHc6uAAR8VV2ppMSrSf4OJ2kU1XxrUdiz0N5NrIaYbRUJEsERCqkvmnN8wp9MYaTNUfpbKQZXVD8k8ZkbOrt1aOgIZFaElxArM9g96TxVdMTUl2VigiD3wNMe76uIY9KQPAoXfJFFfx951Y9w39ntt8iwmK9cP8VGKZVMUQ6Yk2AYD9w72jeEA6q80Uud2P/N7NFbWCaObOrb/6Pu6wosjeyHhAELcyHruMkeWnF0xNkplcWu/FsORgdbIxt1bpGdSYj9vvgB1dvPmhK5lLO9YQ9UWWT70EW/Q2el3BpZZWRfnNQjHGqQlhdZ8Vz8wx+yFVHirTQlA1cu0=;kjcqP4/ypD2P6dicESSfOg=="
+secured: "+5Y0HrQBi2foL21Af5T737jpdKpocFLzpgvJX07jvO3gvi1mRtSLSFvJdap8bsfd8mGPUGyE3Ev3ebkzGyipth+AsFsUR7DOlwpyNU9qOgTwWSQB4NFf+c1m4heZbQ2AHnw5r8IG9O9FQIwAtBd+l3peFHVlxHGoA+KdnIrfWruQW1PgWDCsVOncERpgeF/cdUzeEiLrqpvF1IWYcHXg7mtDT+dG+NvNEbY9huzCJ4dVh/jYLClJGrmRG1keo4WSfumtW5EPYmMgP6GU0hKsZjpw0aWT+Xft4ybakH2ccUdtAdIDsi94lXsJ8RMy0W6GTPM/bW855OSyHBS8r9gMJhf/e5QP22usxT3PM18ykj1eEFBi1OZiK2OJXkEtZvSZtTobsp8Oo2GQ68vvXWTGg0G5DCrzC8GgOoxQyp0ZoQXtcMd07SJDZ+is1S/BUiYH6r27wxcd5AilMAodieL5xU8fMixJ+nOKVzWxqNv1UchoJt2m2juGnKC/srWCk2ZkUjWU/IjuecJmbzi67UT+nQ==;a3UNA6oFwkLcA2sZh+TZsg=="
 ---
 
