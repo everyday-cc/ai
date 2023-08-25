@@ -39,20 +39,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
-    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
-    publishedDateTime: 2023-08-20T06:01:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
-        width: 782
-        height: 440
-        isCached: true
   - title: "Empowering Data Management and Analytics with Self-Service Forms and Dynamic Reports from Pedigree Technologies"
     excerpt: "Pedigree Technologies' innovative solutions allow companies to harness the power of data management and analytics. The launch of Self-Service Forms and Dynamic Reports represents a pivotal step in streamlining data operations, driving efficiency, and making better-informed decisions across diverse industries."
     publishedDateTime: 2023-08-22T15:26:00Z

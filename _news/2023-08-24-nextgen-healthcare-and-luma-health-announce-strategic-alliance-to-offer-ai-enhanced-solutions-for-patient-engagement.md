@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34025451"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34025451"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "AI, advanced analytics, Medicaid fraud take center stage at National Conference for Healthcare Payers"
+    excerpt: "Utilizing advanced data analytics and Artificial Intelligence (AI), Sandata Fraud Alert ... the District of Columbia Department of Health Care Finance Division of Program Integrity showcased its strategic collaboration with Sandata Technologies, the ..."
+    publishedDateTime: 2023-08-24T22:15:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53070395/ai-advanced-analytics-medicaid-fraud-take-center-stage-at-national-conference-for-healthcare-payers"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/medicaid_fraud_1.64e7d1e26b2dd.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0o4iwBLbblR4Er1a9sJTWUkfNtQ64dgifn2nR6d9UYX67CNRBPSMY2FuMBVYV2EvVHuc/6QlCEMmy+tyjaTK7iURSq+95fiUbBe89Wauu8ePXTeI4zv2UDVawx9VnjOEj9Psg40wvNf30dKmolLzqzi6d5t5ZtKCFhb6HI+N2vxHLKZiJZPDo7+KhDWts59KesP6eQQqjewGPRzIUadoiL7fkkPut8WzFUkrLnBDvdkF8cjFE2MdO8S8xYEa+cKzGETfbsfYKQNC3kdjjRrKMJqWLPyMBBBkMw9Gw+4ZDhLmslpNZlqDUKM1m9T3iwiErJ9p3HUTc69zLylbN6Bs5xthxeDrwy44GkhigUeRmsg=;V/w5vsiTQQ0i7+Se4ttRzg=="
 ---

@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How will leveraging AI change the future of legal services?"
-    excerpt: "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model."
-    publishedDateTime: 2023-08-23T13:06:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
+  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
+    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
+    publishedDateTime: 2023-08-21T21:30:00Z
+    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
     images:
-      - url: "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
+        width: 800
+        height: 800
         isCached: true
-  - title: "How generative AI will change SEO as a profession"
-    excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
-    publishedDateTime: 2023-08-23T18:28:00Z
-    webUrl: "https://searchengineland.com/how-generative-ai-change-seo-431036"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 17
-  - title: "5 Stocks That Will Change the Future"
-    excerpt: "NVIDIA Corporation (NASDAQ:NVDA) is a leader in the semiconductor and AI markets today with its development of GPU (AI) chips that are essential to AI processes and systems. A total of 132 hedge ..."
-    publishedDateTime: 2023-08-20T20:54:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-stocks-that-will-change-the-future-1180012/4/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 4
 
 secured: "/FGe6Fmc2fQFtZvd74bdZUMVvJwRly5KtQLm2DQDX7OI1cSfE/FJXwDLCrKBac/uW6Hp70UMEapppHD2P2ju90xzjbKF+v9WofgM7XQK/fP+f9A995fNXd04y6ADbmPNLvgnSOHvZU+wVBhDUxN9wPXHC79PS4foRTCR4EuMD2xjeC6rNpN4h86xa99rG/LoFLrMz29dVEkWEzIzuqFLb1wuegb//VOITs/ayt9i+EMsVHXlZYfcaDDTj8zng9R+WGhboq2yEzGRwGDzS2OoXmBqCGv7ucr810MBW7fvA6vp5ew6uxKV+7bOT5YYWd50wlk/tViiRVfaMouZPi+tkrJEXcTf8OL7ZIiO1ZyRyXBhBF3dmeABXnxy8ChYQl6MgyeWknHMPfKxf72b4/S5Shhl0xeV3b4WVKTzZTFw3n0gZXbv0muU+lfIpOzcW7ntcredHxmUqLJU1FvWrqG53iiNzJ3tshNCiYRs6M4abUkj0bwzpF3S4cyaEB6/4wWnwZzugzGu/TKixEl/V9jfWQ==;y3XsQF+MfbQNJi3Hye/dAw=="
 ---

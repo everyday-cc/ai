@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai
 webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,38 +28,40 @@ images:
     isCached: true
 
 related:
-  - title: "ZTE to develop AI servers and AI Chips for servicing computing power"
-    excerpt: "Since the first half of 2023, ZTE has been signaling an aggressive transformation as a company offering computing services. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ..."
-    publishedDateTime: 2023-08-23T09:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20230823PD211/china-zte-chips.html"
+  - title: "14 AI Jobs Of The Future – NOW"
+    excerpt: "Don’t look now, but the future is here, and with it come the jobs of the future. In fact, more of the future is already behind us – in terms of jobs – than we realize."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.digitimes.com/newsshow/20230823pd211_files/3_b.jpg"
-        width: 640
-        height: 426
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643aedc551ee8eed2ea00895/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 708
         isCached: true
-  - title: "How generative AI will change SEO as a profession"
-    excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
-    publishedDateTime: 2023-08-23T18:28:00Z
-    webUrl: "https://searchengineland.com/how-generative-ai-change-seo-431036"
+  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
+    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
+    publishedDateTime: 2023-08-22T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
     type: article
     provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 17
-  - title: "5 Stocks That Will Change the Future"
-    excerpt: "NVIDIA Corporation (NASDAQ:NVDA) is a leader in the semiconductor and AI markets today with its development of GPU (AI) chips that are essential to AI processes and systems. A total of 132 hedge ..."
-    publishedDateTime: 2023-08-20T20:54:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-stocks-that-will-change-the-future-1180012/4/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "People Fear Losing Their Jobs to AI – but Still Use It Often"
+    excerpt: "This trend raises the question: Should your company create a workplace ethics policy surrounding AI use? According to Conner, the answer is yes. “As AI evolves, companies should establish ethics policies that guide employees’ use of AI,” Conner advised."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://www.businessnewsdaily.com/ai-job-loss"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 4
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 19
 
 secured: "h9b/WXPEUmM8xmSTdk1gsCwcUS+XO1nDosVjMZbPwrJ5iAMsUnE1sim1GbOj2BOACgxvhhZhevejgJKOXqnswmJmBrGIh5ODY1m78fe2snehcrU6x8c+mTTzSfkArF839+PUA2Ms63h3QyGm4skF23oYuDzQUUIrYD8TYiXxqR0mMquOtSUbZeBvjVP9MafssQ2MrJiBrV5LfkXaJbZos7gMWLS0CVMH1IjRJso2k8/tAO0RDEkrgTxuii1a5xWxGYjO/rEAIvnpGbuiQ97e7elubU9ipItQ3S4GrlTUKT2lRoatt1ZgkKj2fHsHaL0fMIrpRth9W2mpkS3EuKE1tmTosMygilyUAwQIOVk+P2A=;621SiBcFmbE/4KLzEaEXYw=="
 ---

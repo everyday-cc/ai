@@ -3,8 +3,8 @@ category: news
 title: "Estimated 30% of administrative nurse tasks can be done by AI-enabled robots"
 excerpt: "According to a recent report by information technology services and consulting company Accenture, artificial intelligence may aid the global nursing shortage by automating a significant portion of the modern nurse’s day-to-day administrative tasks."
 publishedDateTime: 2023-08-24T13:48:00Z
-originalUrl: "https://www.ajc.com/pulse/estimated-30-of-administrative-nurse-tasks-can-be-done-by-ai-enabled-robots/NSSLOQJA5JB55E2BFJAIUF457I/?n=@"
-webUrl: "https://www.ajc.com/pulse/estimated-30-of-administrative-nurse-tasks-can-be-done-by-ai-enabled-robots/NSSLOQJA5JB55E2BFJAIUF457I/?n=@"
+originalUrl: "https://www.ajc.com/pulse/estimated-30-of-administrative-nurse-tasks-can-be-done-by-ai-enabled-robots/NSSLOQJA5JB55E2BFJAIUF457I/"
+webUrl: "https://www.ajc.com/pulse/estimated-30-of-administrative-nurse-tasks-can-be-done-by-ai-enabled-robots/NSSLOQJA5JB55E2BFJAIUF457I/"
 type: article
 quality: 51
 heat: 51
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "A+EqAUH6AFtqezfcjwes8fyWbSE60I/bxHCa7Wn3N7yeiaU7dghy9A1kakv6y5DHGsqxO99pPZw9ENer7noqYRuOgS6mmyV9CN/Cze3G9Mk8E7lhy/XkvTq9Fy1BhLb32bVB/w4w+1r2aJ8u7WShC1O2m9msjem107ugIfoR5TRisxwKltkmCY5PT89fLx8y1Rd7LzGRfN1TP805dcYi2tp8e9wcOTh1u1Gp/2tiFoNsQYVKZBzOrmURPLuSY2jsKuU+ZH6DhY+WoJrjeR5X5obuD1ERTSVPP9dpfxfGKcFcMSDjUV54FhJYYeHhzgCaz90mlfE+wg+WfLdcYO9iO2QSyB7chosZhh5vO3el+eg=;OLMW2Yp3yDCTMdKYy70rIQ=="
+secured: "tSBZEhUd/aTAhv7w+LzmCm6sFimvM1W1kUgjCoj9matE/nnRc/pOPpCKjD1pJixoaq7pV04N0Y/tz+wNeDqd+G0SrBwXrO4TcdXiCo3avfr+LrrrZW4w1SfXSqqAlcYIvnFeVnOCui6WDY/QPg0d0zKX4aLia2FiXUBZxT3ZD+TWYCJV4xCwX/ViKymlaLapBjFBceQghxaNwa4yyLFn/RWHjYLb2R/DPGDSXDWcUp7HCceadS1Xy0HBxKT5OdOCqUmbuI0Xwq/OXbsGhQ8viF50QKLMGrzFRwN5XCrvDtfvNY3uYedm1vAFnC6954XumTLfKMxQg/Taq4QO587LgTEurAZusssXxGy0E48gUEk=;ogBHcqxwPIjQ/krL0hOhEA=="
 ---
 

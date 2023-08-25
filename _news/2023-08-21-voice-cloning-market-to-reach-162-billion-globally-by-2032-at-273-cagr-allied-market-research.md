@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33964283"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33964283"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Education Market to reach $88.2 billion, Globally, by 2032 at 43.3% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \" Artificial Intelligence in Education Market by Component (Solution and Services), Deployment Mode (On-Premise and Cloud), Technology (Machine Learning and Deep Learning and Natural Language Processing (NLP)),"
-    publishedDateTime: 2023-08-22T06:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/22/9867785.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/3950895/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Global Anti-Snoring Treatment Market Size Envisioned to Exceed $4100 Million by 2030, At a 9.2% CAGR | Reshaping Sleep"
     excerpt: "Zion Market Research has published a new research report titled \"Anti-Snoring Treatment Market By Device Type (Mandibular Advancement Devices (MAD), Tongue Stabilizing"
     publishedDateTime: 2023-08-20T16:17:00Z
@@ -57,15 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Speech and Voice Recognition Research Report 2023-2030: Beyond Words - AI and ML Shape the Evolution of the Burgeoning Market"
-    excerpt: "DUBLIN, Aug. 24, 2023 /PRNewswire/ -- The \"Speech and Voice Recognition Market by Function, Technology, Deployment Mode, End User, and Geography - Global Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2023-08-24T18:03:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/24/9870050.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "KMp60vuJ4AoA24mGNyfFu8cxat7KOKCXaNOzz+N2TzBJkzzev13I5weG87SucMradcMxfhuttR85YLUX+NTqoQZ+pCskDQwcCPDH3vF29yJ3ZtkJ8ZOxuq7Kb5hCmPh57JHu4LYzKUWG+F7xEEMQYg/RxRhPxROlxLvYhU+xjqI7ncsrR5pcdl8zugzYwwYjwbgZMB/r9vnFkBcLsdLisa8VSgqyqS9LDG7CCFDPAvL2FInXIhDhp6YbnQdObXPddH1uOIvl83tT5d5Pfnob9HKc68jzQvBBSQ3fTjKLJ2/2vTDr0sChSnbJvDZ6hj21iHEe2MUOnPHISLrQ1gFgEmcUVa3SBD3fWXAQ8/1eKxk=;G2NtAdqYdsc0GONfvzwAhQ=="
 ---

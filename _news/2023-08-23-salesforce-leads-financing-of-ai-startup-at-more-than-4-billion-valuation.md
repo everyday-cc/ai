@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Salesforce Releases AI Acceptable Use Policy"
+    excerpt: "Salesforce's EVP and GM of Industry Clouds Jujhar Singh talks about the future of generative AI and the new policy."
+    publishedDateTime: 2023-08-24T22:26:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-ai-einstein-studio-interview/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
+        width: 1400
+        height: 906
+        isCached: true
   - title: "Retail and generative AI - Salesforce, Honeywell research suggests lots of experimentation, but unclear on extent of implementation"
     excerpt: "only 17% of shopper respondents say they’ve used generative AI to get inspiration for product purchases. Of that number, over half (52%) used it to research electronics and appliances. Other use cases include getting outfit recommendations (44% ..."
     publishedDateTime: 2023-08-21T10:36:00Z

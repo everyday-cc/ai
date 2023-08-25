@@ -29,7 +29,7 @@ related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T03:19:00Z
-    webUrl: "https://www.bbc.com/news/business-66601716"
+    webUrl: "https://www.bbc.com/news/business-66601716.amp"
     ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
     type: article
@@ -679,6 +679,15 @@ related:
       name: GamesRadar+
       domain: gamesradar.com
     quality: 17
+  - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
+    excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."
+    publishedDateTime: 2023-08-24T13:26:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-set-for-record-high-as-chipmaker-coverts-ai-hype-to-revenue-surge"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
   - title: "Nvidia shares touch all-time high on back of AI boom"
     excerpt: "Soaring demand for Nvidia’s GPUs, which dominate the market for training AI models, has made it the biggest winner from this year’s boom in the industry. Supply rather than demand has become the main constraint on the company’s growth in the short term."
     publishedDateTime: 2023-08-24T15:31:00Z
@@ -715,6 +724,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 11
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
+    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
     publishedDateTime: 2023-08-22T18:58:00Z
@@ -725,6 +743,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "wwTxfYJUp/ObctwvqJMRaf8EGabEWlCrMzIMVijByYKKkmHAAslQNp6GpJ8KeZyRURJcBMDXtztXXwwnCGHZ3e92kdvsdsAqnZrBBXzAPaPokte2DgnbOvITE8NL7LNTXX804RF9L0oN4o2yZQCkWao93/JmPk8JNIcPeNIQI+FacLEnFDdQz9nc1BRIcuCAY7Gjtk3s3lp2LtQ4WeypdTeXISfbZ9BGU6xwhYJrJOx+qBN+QYrZY9ZpGbSVE6Hb3BKf+qSaXPJxQyRBHmk5brFk5XzXfzsQnYBiFfkNmN345AyfHJeiHzlGpgGBozHkKGvFIgGZEkPawjunTP9MFJkj2ncZfNZehVkh6vrOVsc=;nz6ERQTUZY/qcXnG26G61w=="
+secured: "Bb2xDsqOhu7o+oGsP5r2HmiW9HWwfjWzxnmf3X+my6gETvTMaV/LbLxr5pDeNvBaLOVlVgnR47wsGkw5EnvV8SEUF3YggeX35yNTiYfma8BNYig34GpN3Y1DArSxJu2ybqcymrixEFme5rQD8w9KV6kLvFw7O+f6D3xYz1lMGP8jUwXJCmY+JCxOjAd4xLY6pjtHGXsk9I1mVC8vX17LbDxAXdBE6orLLRx5vbpx2M9BlPusLcsmo0ekGwR6Y7rYZbyOIsObOU98pqBZirr6hSQzGLBwDfRa/X1LoIUkhLlSO0xYzi7JJ2qWrMLTKtPPWne8CnN4kV1oX6riv90EVwi5rW5g8fYZ2Bhih93hWeqvz3Yorwrfs60GfxWtShTGd4NpfnzL71QZ1H1abZKYxKlQjavk/9xxJOKzyLerCbqsdldSldLSxlXJqq7lh55GvWgduWyDJI/o97f1NN4QXDkzvyFqPTgHSvTDUHjjgVCZF4t8GfXKjtJY6iJvgOMOBHaOHzah3E5GiZyK/TBS9w==;wbb5fJHnfCgDyXZu9ehIEA=="
 ---
 

@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
+    excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
+    publishedDateTime: 2023-08-24T21:25:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/tech-giants-back-235m-round-open-source-ai-startup-hugging-face/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-2.png"
+        width: 850
+        height: 476
+        isCached: true
 
 secured: "syDHDPMbzw+fztTgGR+xMJFFTr4wIx1+c/AxM3kgd4YPptCRzf7Zxxq80XLDeUhVLLHvVF4HCcXhbrYQQztXsZ55TuyPudZI6naxbyANT5soy9XGRhzvKzDA4SQrlbHEx+0Uxa4Jk2jOLJ0Mp8IxYGaw7e+L9poveyZNCr1AANsjgkmU0/W40vjm4fAX/vgIeady5WAd3IylLFZlZsrf9KeSm1zIet+B1xhKQfPTVix76kb639R6vl/RpMn9nHqy37NhI/eYj09/0+daiX0B/MZhzH/NTi/1SyYO6FpVQGdhXogbB0gE1iFtmN4FMns4lFTXtZXIUuTZtEUltUJmIoqy/aC1jrI9YpBIXVLcW6LI8jO4rHKS7gxG399UJEP0mnmMkrNvskEfBp5MYQiQk77hbwC1HtJam3o9shKSH5YZcIq9FZKkqR/ZewtOMzIgjbh2Q6dtJGXY0t+tSO7eqCVZo0D2NNdAdYj5di/dXEvSeeMQtK3Cx+shVgR5WPgJWdsDcoXDo8cB6SxN4GN2tQ==;UhtbOGehbbQhM3cj4B++2g=="
 ---

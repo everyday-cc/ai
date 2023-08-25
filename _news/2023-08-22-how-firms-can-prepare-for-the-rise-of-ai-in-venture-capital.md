@@ -22,36 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "AI sensors in the forest can smell a wildfire before it spreads"
-    excerpt: "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ..."
-    publishedDateTime: 2023-08-23T07:56:00Z
-    webUrl: "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting"
+  - title: "14 AI Jobs Of The Future – NOW"
+    excerpt: "Don’t look now, but the future is here, and with it come the jobs of the future. In fact, more of the future is already behind us – in terms of jobs – than we realize."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643aedc551ee8eed2ea00895/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 708
+        isCached: true
+  - title: "How will leveraging AI change the future of legal services?"
+    excerpt: "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model."
+    publishedDateTime: 2023-08-23T13:06:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 67
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df"
-        width: 1280
-        height: 640
+      - url: "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Artificial intelligence transforms the world of wine into a realm of artistic expression"
-    excerpt: "The tasting notes, environmental factors, the science and the process of creating some of South Africa’s finest wines are being brought to life through unique art generated using artificial intelligence (AI) at this years’ Nedbank Cape Winemakers Guild ..."
-    publishedDateTime: 2023-08-23T07:32:00Z
-    webUrl: "https://mg.co.za/partner-content/2023-08-23-artificial-intelligence-transforms-the-world-of-wine-into-a-realm-of-artistic-expression/"
-    ampWebUrl: "https://mg.co.za/partner-content/2023-08-23-artificial-intelligence-transforms-the-world-of-wine-into-a-realm-of-artistic-expression/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/partner-content/2023-08-23-artificial-intelligence-transforms-the-world-of-wine-into-a-realm-of-artistic-expression/?amp"
+  - title: "People Fear Losing Their Jobs to AI – but Still Use It Often"
+    excerpt: "This trend raises the question: Should your company create a workplace ethics policy surrounding AI use? According to Conner, the answer is yes. “As AI evolves, companies should establish ethics policies that guide employees’ use of AI,” Conner advised."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://www.businessnewsdaily.com/ai-job-loss"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 48
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2023/08/ARTOFWINE.png"
-        width: 1000
-        height: 625
-        isCached: true
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 19
 
 secured: "0fjRAlGJNzuGG3NwDxPmelJwtnoFxrAqIrsiN5dTUwgHe6znGvZLEsDlr1BbpR2GHIZg1Ibw4LaVsPU9Vy01XM/rWnbq0arF9MFrRF2qCkP7MdQcUOEqgRFhXhLjzoAQjFbr18/YcV2jA36CH7wyItC0PmrHWIbup0Q1LpjRMvnGENX/DKFuqPpX/HSLFysrONc9Hn/zyWN9Rafw1Cd8T18lkDytAg/MT5qAqHrO/x1Wc0CsJ1JwkNgWqtzNIA4MXLjVJAwD3QEocY967jdlG1EBMe9ksSV4+4B4K9K2dmP8jN/XhyOeoDyWMVwuqs+olTILmf/6CmGLTaPodcayUOkODGQgm2P3cDEN9i7UffqVJSBN3jsitCQx+R2FdaG4Z1BvxJaDKrByC7jghAR3wsR2KXfUg2wV3Cs+ElMXTdAxjHCDPcoXjl5dG7Ia+PpYqqWdtjcpto93Mquqf4AyacLULm1Ulenpy1b+Elx1d5mu3vomJVyeo4gzXooLsltE8AMP9aTbsvbkyTW9AfcJgQ==;dd6tsQzhpEuJQBy76hijoQ=="
 ---

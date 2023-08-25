@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-07-15-europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-forecast-period-2030.md",
+      "title": "Europe Self-driving Car Market 2023 Size, Share, Projected to Deliver Greater Revenues during the Forecast Period 2030",
+      "excerpt": "Europe Self-driving Car Market Research Report 2023 offers a comprehensive analysis of the market, including business opportunities, growth, and trend analysis for various applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227102/europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-for",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227102/europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33227102",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227102",
+      "publishedDateTime": "2023-07-14T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-forecasts-growth-2030.md",
       "title": "Self-driving Car Market 2023 Detailed Analysis of Current Industry Figures with Size, Share and Forecasts Growth 2030",
       "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation ...",
@@ -1164,40 +1207,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-abcs-of-ai-here-is-how-artificial-intelligence-works.md",
-      "title": "ABCs of AI: Here is how artificial intelligence works",
-      "excerpt": "WHERE IT CAME FROM AND HOW IT WORKS. INSIDE CSAIL THE COMPUTER SCIENCE AND ARTIFICIAL INTELLIGENCE LAB AT MIT. IT’S TIME TO TAKE CHIP FOR A WALK. UNLIKE MOST ROBOTS WHOSE MOVEMENTS ARE PRETTY ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/how-artificial-intelligence-works-ai-technology-massachusetts/44538093",
-      "originalUrl": "https://www.wcvb.com/article/how-artificial-intelligence-works-ai-technology-massachusetts/44538093",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

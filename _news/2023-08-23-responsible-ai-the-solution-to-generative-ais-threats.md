@@ -285,6 +285,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 28
+  - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
+    excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
+    publishedDateTime: 2023-08-24T23:37:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regulations-2366808/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How human advisors can bring out the best in generative AI"
     excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
     publishedDateTime: 2023-08-22T18:51:00Z

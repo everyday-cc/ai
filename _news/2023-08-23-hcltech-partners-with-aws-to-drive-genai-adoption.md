@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "HCLTech collaborates with AWS to accelerate GenAI adoption"
+    excerpt: "As part of the collaboration, HCLTech intends to use Amazon CodeWhisperer with over 50,000 HCLTech engineers, cloud practitioners and developers to build secure applications and leverage AI responsibly,"
+    publishedDateTime: 2023-08-23T15:55:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "HCLTech partners with AWS to drive GenAI adoption"
     excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
     publishedDateTime: 2023-08-24T04:16:00Z
@@ -41,15 +52,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-    type: article
-    provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 34
 
 secured: "SGJDfvL/ThUYUlppVZKo0L8izhQHd6CRr2H5v6LqAIIi7sjc4oTHZ+R5XRMfJAcwA1A7ya2n6xwzO5iHwzDpqN6GVyDW0DBs12LgqARqr2/3DnGC+fd3dD6VcNd9QC5ggavm/RwHhQZWwsGRWa8aheGobIuRXcgE4S0IlsHPCOW2cC5gXTqJfAdCRVnRQPJP6MLCCITnJWv5FE1L4csYi+AyyUEHAncOh2VhlA6IedGC6tCBQ9HyyiN3umqBMgWHPUu2YZST6o2vnZ9/nmotI7OrGwhL8Q2SPEvowzWTv50pVcGn1UGafEpJcz12BrXEFQZtj5ppbPkvUh5Fn7hgQLrLQgCptvJwVR0jUIUC2ig=;L//A/yh9wEk5do6NFDmA+Q=="
 ---

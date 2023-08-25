@@ -2,17 +2,17 @@
 category: news
 title: "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition"
 excerpt: "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs, and exceptional benefits. The company’s commitment to open communication,"
-publishedDateTime: 2023-08-24T12:22:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article278561999.html"
-webUrl: "https://www.sacbee.com/press-releases/article278561999.html"
+publishedDateTime: 2023-08-24T13:22:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article278561999.html"
+webUrl: "https://www.miamiherald.com/press-releases/article278561999.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +38,6 @@ related:
       domain: charlotteobserver.com
     quality: 0
 
-secured: "Q121StM1N95MQGD4ghTPVrJhefvE8ySf066JxjBvZqhYt/WXqd7kUQVCMKqhIEsoHgLA8j/sI0ddq8bUaFkxB8W2GqkjSmwFYxTMoWCcjjW7fMquO+UIy+VINfSKE1p6jtfAJW4YF2kmXc3P1HgymHH78Wh904N6GQNa+jDjjIvJcLlVQLmjah4jgRqT8RwogIYa8YiHaN15oT841diUps84sc9PV9+zEXBRLANHyTOYN4Re6LZtgx7noxRnv79rvREB7YgBf1FJ0/K2oA7HYlgUpXkjWkjgzo8sSikT0FEvYIMuBpoJL2lnnPCJS/TOMmVIogr7JG08h8qgiyTkmjXTFH1AAUb79jPD4ajvnd5Gpeb6Lfnc8KCD5CYVZuC/Af8pq5Bj1xi/k+sXXjHjTp1AuHUGz6Ogq+z1eI27j+oZqWNxJfkeT1spBvFHvRI/pDGNX0TIvDgQdBxTbBL6kM5QyRfa+ybDkKYBJCsdzcsY44ooIglEbCM58HAV0OXuuQEC/+Q+eXMDWKypRR/93Q==;QT/jkfCt2nVWz0nnNrBiSA=="
+secured: "dq8cvJqzlzF/NPKPZeTHrovrowz8JSBUwmY37H6szj4bfwzQ9UBqt94kVvAOkEMR/v5kzujV2YUy5eH8Dz6tcqsXGm+PSpwA3L8hijfdBlRKSmpv+tiWe5YUi/Mc7UbWwky47QE6CsqDQmEBE2cd6xxdqr/opLFUYGPX0woy7ThzyRaCq53icD1fLwlgD50ucLQBvOE3CqJOPUBHb4YGIpI+2Wmqen3xJq1L2eiSCLStBRPU3H9xD9aWkcEF3OERoKsWAUECbunBx/FzNrQWpw1YJIiMNq8KDLGEcUtV0L+BMwueiAxnF92tx2/mNo79Yy1l3nn/Ok3DScUckmFlF6L2hyssSeGoGt1uZxoVYeCgNTUg0Ap0keqvOfbZ2JFeNHtiq+swyLjHs3A0mHSlqQNd1SMfsQlrrpAPaPUyON2zB4EgUHiUf5JgICLG7VHZIxsDkDIVfbInc2QL7u/hM+PtTOO0FOsnTuX5saCL6AJnQMOowZcWSEsPEX7EKa6Z7dyiu1dHH8QAgNogaK/Now==;ccnMrqm0HU6Vi9QG8DWVJA=="
 ---
 

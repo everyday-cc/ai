@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "YC2BGC4pg31tgNSusS0ZWB8Hu6HD8f3vAAmWp0lSTf3XvutMcMhhQ0kP+Jyj0WI8af+9p5h7YFyGw54HDE1fCfvPpcUz+Eg5PoUt+hEKk9FcN1zvf7sg0AKFfNMxoZ87ullFPbk9b7KHoSfe/X697yRqhE2Ngt35K4jDr/GCZZghIa3yRls3evdzttsubtqWjIErcDkxAsZwjyuCy4Md8jC5PsvUkr+m4V7t9UVnXmnQpiizNo46Ohm8mwwSq6eV6KB8Eez+NLV9DBVkIE1d83N3kk+cxYYw5ybRalku6FdMelhFIGx/Doyh6sanp1t0i0GjkvKOjvn28eN+AExaJWx2bhvPjoNP/NKJ4heMuSc=;A24XrsHaq33Jw9y52Zwbmw=="
 ---

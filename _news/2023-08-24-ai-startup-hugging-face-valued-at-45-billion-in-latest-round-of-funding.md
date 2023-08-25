@@ -40,6 +40,20 @@ related:
         width: 5500
         height: 3668
         isCached: true
+  - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
+    excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
+    publishedDateTime: 2023-08-24T21:25:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/tech-giants-back-235m-round-open-source-ai-startup-hugging-face/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-2.png"
+        width: 850
+        height: 476
+        isCached: true
   - title: "AI startup Hugging Face valued at US$4.5 billion after latest funding round"
     excerpt: "ARTIFICIAL intelligence (AI) startup Hugging Face said on Thursday (Aug 23) that it was valued at US$4.5 billion in a US$235-million funding round backed by technology heavyweights, including Salesforce,"
     publishedDateTime: 2023-08-24T15:45:00Z

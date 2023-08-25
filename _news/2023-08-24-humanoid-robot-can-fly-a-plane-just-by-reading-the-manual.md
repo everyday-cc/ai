@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/aerospace/humanoid-robot-can-fly-a-pla
 webUrl: "https://www.extremetech.com/aerospace/humanoid-robot-can-fly-a-plane-just-by-reading-the-manual"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Researchers build humanoid robot pilot designed to fly planes"
-    excerpt: "Researchers from Korea have designed and created a humanoid robot capable of flying planes 'just like a human pilot' but without human problems."
-    publishedDateTime: 2023-08-20T06:41:00Z
-    webUrl: "https://www.tweaktown.com/news/92933/researchers-build-humanoid-robot-pilot-designed-to-fly-planes/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92933_1598_researchers-build-humanoid-robot-pilot-capable-of-flying-plane_full.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "This robot can autonomously fly a plane as well as a pilot can"
     excerpt: "Researchers are in the process of developing a humanoid robot called Pibot that can fly a plane as well or even better than a human can."
     publishedDateTime: 2023-08-20T13:28:00Z

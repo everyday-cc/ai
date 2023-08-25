@@ -291,6 +291,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 28
+  - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
+    excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
+    publishedDateTime: 2023-08-24T23:37:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regulations-2366808/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Data Science Salon Presents Miami Machine Learning Week: Spotlight on Applying Generative AI & Machine Learning in the Enterprise"
     excerpt: "As the home market for the female-owned Data Science Salon, Miami holds special significance. DSS was launched six years ago and is headquartered in the heart of Miami, near the Design District. For more information on Data Science Salon Miami, visit https://datascience.salon/miami/."
     publishedDateTime: 2023-08-23T12:13:00Z

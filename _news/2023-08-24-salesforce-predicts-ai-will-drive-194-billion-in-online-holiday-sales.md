@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce Releases AI Acceptable Use Policy"
+    excerpt: "Salesforce's EVP and GM of Industry Clouds Jujhar Singh talks about the future of generative AI and the new policy."
+    publishedDateTime: 2023-08-24T22:26:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-ai-einstein-studio-interview/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
+        width: 1400
+        height: 906
+        isCached: true
   - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
     excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."
     publishedDateTime: 2023-08-22T21:04:00Z

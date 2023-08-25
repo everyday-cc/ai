@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-07-21-lets-use-ai-to-clean-up-government.md",
+      "title": "Let’s use AI to clean up government",
+      "excerpt": "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government",
+      "originalUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp",
+      "publishedDateTime": "2023-07-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031.md",
       "title": "Voice and Speech Recognition Market Size, 2023 Global Growth, Key Players and Forecast 2031",
       "excerpt": "The global speech and voice recognition market size is expected to grow toUSD 31.49 billionby 2026 according to a new report published by Report Ocean. The report \"Voice and Speech Recognition ...",
@@ -1116,57 +1167,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-want-to-know-how-to-get-ready-for-the-rise-of-ai-dig-into-the-past.md",
-      "title": "Want to know how to get ready for the rise of AI? Dig into the past.",
-      "excerpt": "Experts are looking to past technological disruptions to help predict how the rise of generative AI could impact workers of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "originalUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b84697a46ce30019a1f97e?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "publishedDateTime": "2023-07-20T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

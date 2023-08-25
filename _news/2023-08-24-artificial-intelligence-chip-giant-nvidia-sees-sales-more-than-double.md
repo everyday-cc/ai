@@ -3,13 +3,13 @@ category: news
 title: "Artificial intelligence chip giant Nvidia sees sales more than double"
 excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
 publishedDateTime: 2023-08-24T03:19:00Z
-originalUrl: "https://www.bbc.com/news/business-66601716"
-webUrl: "https://www.bbc.com/news/business-66601716"
+originalUrl: "https://www.bbc.com/news/business-66601716.amp"
+webUrl: "https://www.bbc.com/news/business-66601716.amp"
 ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
 type: article
 quality: 121
-heat: 691
+heat: 711
 published: true
 
 provider:
@@ -683,6 +683,15 @@ related:
       name: GamesRadar+
       domain: gamesradar.com
     quality: 17
+  - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
+    excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."
+    publishedDateTime: 2023-08-24T13:26:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-set-for-record-high-as-chipmaker-coverts-ai-hype-to-revenue-surge"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
   - title: "Nvidia shares touch all-time high on back of AI boom"
     excerpt: "Soaring demand for Nvidia’s GPUs, which dominate the market for training AI models, has made it the biggest winner from this year’s boom in the industry. Supply rather than demand has become the main constraint on the company’s growth in the short term."
     publishedDateTime: 2023-08-24T15:31:00Z
@@ -719,6 +728,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 11
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
+    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
   - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
     excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
     publishedDateTime: 2023-08-22T18:58:00Z
@@ -729,6 +747,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "DV/Ouh8YqqTJGpwPN8L+B+B7WevlxWR8A18YcCH/uDGsIXec4z0Pn74OLpulMDKprVXCw9c6svL4GdrO1lyjLrlblmyoAedc2ct4rM+Mpaoz8n3dchaXC7gq7qgo7GTOOoBWw3Y+3iy+wpbdpiEdPdDncnNf/TDxsZ906bqlvFRjB3+gutFw8GzO59FoiaMf5m2C1cG+Uvi7oEPr6AQAfG+sLTuXvhcXCZ4RCpt5PuOTZV2XzLDy52MkwkNzo9/5bFP3lHCcW92S3KCz07I6lVkLju3w8FZTJDCNBEv1/ggGOxwplD5mNkUQZ7ne/BHHjk8ZPM3kNmv0c6RSjPo2AcAY9IOc+L3kxIWud/iK6lbtpIjuE5TNQKiyswq4E8sHEzsU4J2Kv2s5gBNFsDyiIvvaf2DtWuRvLsSSwsOD7r6YOI8nmW77fDfVpYp22qIaT5P1srxKM3IctzRBcLP7gpISMawhrpqxE6oORNfcdmI7p6A5ItsPHRgOj/r47anN3GfBZdwES51tN3vn+W73lA==;QrC/lZ07noAv+YljEB8x+A=="
+secured: "v/Ei35V2qBRvYLp1DEaf8/jTtoc43eMKXcZE7UQ4QGbpakLOYgWCBxPICrNVrFcvz3AYtG64UYiYfeBIIdM+JJGCC4/y/Q6S4G0VdIA6eXieXP/himpT+f+7ogFqVEpvfWsvm/novrT4hKF9ZLrQD+nDHcrYDKx26ICC5/J2EFAgwJArBPToufJRseb7BtctFIMPI4GahR2aYcMIQspGciOoCSMvlGme0tstm4+iucDV8nAuQMhJx2smOyQD17uNajNEFUnxysZ8OuA9irqga5irM+zrvJ5+3r3RxZfVCKShm3JzoFGdM+vMtoIWW4+c8QdBWhzxLR8zJ4MHWWtG+0N+mIMFWAVVerxZq8Cuh+Q=;76a7Yr9U7/gBk4XSwofo/A=="
 ---
 

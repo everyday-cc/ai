@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
-webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+originalUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
+webUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Fort Worth Star-Telegram
+  domain: star-telegram.com
 
 topics:
   - Microsoft AI
@@ -208,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "WJZpt0nuG0vBnpAejzdjJBZZXfQ2/vLlL87xJ1aKY0VVGRgWuSxrCndpqq3misMaStqHJALHyk6VG25Adnfw93dyzgWrWP3aleRA8cxOTR7Fwb8h4GRKWGYpQtN0cOW+SH7CfxQRc3xsWIqn3Q8ljVt3lc8Zp4Z1lD9MDoGh8rWD1uB0GSZYPkM3k3RFGgxm3cEo6msLFpkFojPpd5vIin4CFgdHdoNcHYaIY/gT/2kImjQ7bP9+gGggPxGMXmaIJslDJIiOKXhWC8u23Mcygla1vzaDqxhWMlv/+pUj8CZdq47hiCnSQKBifEVL2iqaNC0bWTym99RQgKRfTB01a8zdQUFHkJZd/OPBjyDhoNc=;XkqhAmqGrsvp+mlxRPPeuw=="
+secured: "oQMQLnt9MMiyJhaKtrNFSlIhdvI3f7n1xII7Pf8mr+pxSGvDZYeoucxmpPF2l8hldR0jLuIu9pY+CA2Pd6iKEVxR9yX5y6MCyMxdHTLNv2Djg65PjZDGf+t8iWl0wS0+gfd9zZYkSJXsrFNHQ+ltxsDpOBWyGZu694kfcLW7xzK+LJvrvXGt8B/hgiB3x9sJLCbO+8UrscVauxC0IrN6W11RScTaKLMwPvBn3gE1KzPMFuwAk9E6RXZL3JZEZmjwqB3VE+iOZDjg0QHGoCLjo6hMCTlZmi5yaFlYYbkQxab7EXw65vSPvBV22V49YpXkk1fVt6x5KX+Y5EhtHtfQXurN/4QmKat0kLEWLdop36M=;Amurjla8yg82tsjnj4LN1A=="
 ---
 

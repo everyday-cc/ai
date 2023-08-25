@@ -2,9 +2,9 @@
 category: news
 title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
 excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-publishedDateTime: 2023-08-22T14:23:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
+publishedDateTime: 2023-08-22T14:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
 type: article
 quality: 0
 heat: -1
@@ -112,6 +112,6 @@ related:
       domain: axios.com
     quality: 0
 
-secured: "wopOWz8vWQBNpBsICior7hhJzNQy1f9nzGcJAmcXf52c66kkdAXeoQqoGzUZ5l548Uf2+GbGZPUD0ej+kP0uvQooV0p1BkG2xxPRZ6F6dLt0BJu9h314mhIJ5igagAbWn3NgQf1qpoAKUl6pFaa68Sq5TPMWMVf2V1LWqavX74HEBgTVbR/Iwb3f+xB8HESK/FlghFlfYyZY5zih8o8o90WRF6KaMQjLiYaJ4k02VKLPAD+bwPw+He33WcrCIbUg0JM2ZItKlvfp2bBH+auz510g6owrHDIuhP1XZGodo8n3RwBoEeYEIrBSgIO4ygTA/3Vr2yG4neivzmTLUVsQq8+gZjoJGjkyEpBrrcJgcs8=;hGOAxuCj4n908EymxqIEpg=="
+secured: "iQbViig9WMXI7k/2biRKNzuSCzfnV+uf9zUp4iX68qe1Q4vLNaJicmrH9mzfsY7PgNfwn+5/qVLn93MY3+rqAS4fhe4Z+Yb0R7KVsBNaqt991ETLThg+X/Raj3Rvopqhbr2w4mwOI3D8oU6pwHLaqyapnkgvf0OGBTuDPcxc7IkrL71pNHPb1z5L/VVPOVwjD1RCQNMHkaKiy2tEgzkr1C6hcceZWlYNgYmvNMi58/wPqdkqz23H/fgNxD8UvyR+NDI4IoE2mLNKSk7qqwQwdndlLZx9gY3DIbQ269csK713r48b+YOBvAzWX++K39Ek4hX6aDwoEwdfid7B97HbIc6n7P6WUA1GhJ7aSJ1BHYw=;7u3xFcXrRe3PSnhy5j3zEA=="
 ---
 

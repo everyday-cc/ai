@@ -41,15 +41,17 @@ related:
         width: 763
         height: 428
         isCached: true
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
+  - title: "HCLTech collaborates with AWS to accelerate GenAI adoption"
+    excerpt: "As part of the collaboration, HCLTech intends to use Amazon CodeWhisperer with over 50,000 HCLTech engineers, cloud practitioners and developers to build secure applications and leverage AI responsibly,"
+    publishedDateTime: 2023-08-23T15:55:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
     type: article
     provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 34
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
 
 secured: "uakbJR448zMUqVMaVr4R2kTLJ33MyfE8voPEjl689hFibk+n8Le0GhfDwruJ8F8bgkpEGWF+rlIzuafz0+9lDwya8dY/st5RP8F+JZVod60+Q3mB42/MAliz/9cPKhAAW43XyQ8asT5L/FCQ+/Ru0RIi4H0AdwT9Oswnv1ekYhNQonfpalrpdTikWtLOM9We/E7lmokDRhQdARs5qPl+0ZLGViq7Mt1EcEsokMeB6PYVAqo8+8FKowxR7GAnN1oGqnk7/6qrTIgT5Q9DUV+oy9cGuY1FsdMu/oWPDrvrHDWnrhCUQa2nLezNUejcEESHuq/zr/WpS2PDYL8CmcUm3hL4csuuuGumdrfc4lTDYjDUVxeCdVtkCAK2qvlnGi18N16ev/JV/rCWZDLCbtqvg/TV0pgpNZkdPPev44hBBQTB69Sv/yi2pmgqeQ/kGqQpVfh6rGZsAta/EdAa5P9RXtuMrSrzsoEkrApUQnazUFPSyWpwBmpw6Yk26tuj7HCiuHE+cw1EmVfYr0FyRTpttQ==;7pvkCfrrgvMA3Q/MK1F9Og=="
 ---

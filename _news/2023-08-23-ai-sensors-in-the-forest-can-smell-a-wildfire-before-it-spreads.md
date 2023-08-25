@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-wildfires-europe-climate-change-fir
 webUrl: "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1000
         height: 625
         isCached: true
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "FIkPSplFTEBYfXtPIe8k0xPYjMErBVFUzWrCpLPa5x5Xq92x20cXAhTUTYLmAG+JL+L+QzXpj665enTO00GEKGaC4B8098uFz8q/PLSF0uAIXGzZ7EcHH+9MOTjGSwVaint2HED1TAFxWl/tnWlRdkkyx6Jtj/Dg3zCmPxW1/RTzOrjI49LVLAFdtGLqU+nERweS5sSDECnjJprbGp7meKPaU7+iJZVV2SMxLLgFSWjCbsJHitNJUvSerNLyMKVsQpEfHOYkVyryJHpy/4OWcaVfStnmNJooJLmKCNrMCKsj99GhdPMwqOBvNR2j2F15XqaJhhGmfjPtKA65xOy9z/1Q/wBorOiUyldO/8sx/MU=;WlvC1McJV3ASBgn12jUWcQ=="
 ---
