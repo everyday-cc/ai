@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-p
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK to spend £100m in global race to produce AI chips"
-    excerpt: "Funds to be used to order key components from major chipmakers Nvidia, AMD and Intel"
-    publishedDateTime: 2023-08-20T10:40:00Z
-    webUrl: "https://www.theguardian.com/business/2023/aug/20/uk-global-race-produce-ai-chips?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "Xx9xWj3a/91E/5DGCkrl9CjUMI8AQoeOypCiKlxbYo0u5EVV/GSxBOvcV4xAfZBLSwp6yhx0l3trmHUKefKGifuNLlWe9bur62mzd/d2HDccmgfqyUyV9hOk07dmla1srofVcRNQeqnMb9JiWpfbFuD8nvtS14hrbYQkmbq45g7VuPNga7o/0CHJ77Fc7CI0X7b0JAg6sWCl2xLbY1ENs8GdXCFop1+IJTixyXGo4xFMfQRCClZ89PCIZ3SCCrSjoDXMEV9+cJup8LVfVLzr4x1TU3Pbqd3o8MPqcPMtw58y4dFq1y1cI7dYHM6M8Ay4943it5+16q8d9aJ150PTM6/CM25RLlo7c4KCP6AeFyHRToHfmiKOU+5IRsi6auvQayspo8D4sOqFf8qG4A4gmQ8o/AuX0tYW+wWcMedjjV17TYquyoD/ALzBxNSNGdWA4CHF3nn8fXc0BkMLVBnXkcCgQ0hVC45bsEH+IfcLT04fOfb8QReVacbxikovHjgln+2YrJMlSVq+ZKIDnyurbg==;Eapr5qFySaRLsJeYyMSAZg=="
 ---

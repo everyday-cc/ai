@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-ente
 webUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/"
 type: article
 quality: 99
-heat: 129
+heat: 159
 published: true
 
 provider:
@@ -69,6 +69,40 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WTsMlf4TlstGRKQw5JbIslaBDMJ9kVWe04z+l+Gz4rSJFtyIYxtD3dAUJB2y9J8Qz7wZOUt9vo2ogRGYrzCx9Nl/AFV9NJ++HWhd5KlLHBGx541nLP6r0zyrhDIaVeCD3Zkjo0FVGBD8IEj2I1QUuDqFYpzv7qDYA7HTorKUEnuSZla5A0UWwrhXNJlqHM60WW//IFStLdSbyrI6lfpCs95qURlDzTb4zzHpC/1I/ep2eB34m1vumMF8CSV3noVLz4c1hiPHQxb4lUk5lQ6W+wadgAhyYrSgg5+nUlFGrwIYzFgQ3El6dCrzaVKTUsN3nWIdLjKEaqBytoRZXuGNA4orO5s6vJMPCfRCakBKzA0=;C/gmNvfSlYNtmNOD8AKPuA=="
 ---

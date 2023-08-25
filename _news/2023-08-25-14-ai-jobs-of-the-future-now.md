@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

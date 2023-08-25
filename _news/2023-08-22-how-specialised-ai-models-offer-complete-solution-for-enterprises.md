@@ -66,6 +66,40 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA today announced the world's leading system manufacturers will deliver AI-ready servers that support VMware Private AI Foundation with NVIDIA,"
+    publishedDateTime: 2023-08-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33989364/nvidia-ai-ready-servers-from-worlds-leading-system-manufacturers-to-supercharge-generative-ai-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33989364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33989364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
+    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
+    publishedDateTime: 2023-08-22T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "O3EvLcLxNLEd7uNujaWPTfTJ4ALawjnD1XdItiK8KsL3uXerBVkkEH2LtSKuw73V+1UHYLK7mCN9Xzf8GRACLVQ5z7NQ5O1u6CXgOb+UdMa3WwfFEmz+nDAMGJuKCD/W4kuvW2Gur0EwMKW77pSiWKYwqvtNr7QO48Nvc4vv9ElJ8zV+Zm0Z5wvB3gYQ67cLvLlToTHSSEI2m/z5wslzaeqyPpTMZQ6T0UiqUuwdNprMNHigIhOyfXLzVZ2EDlCLtRK2Ol0ZVtr6RvJ6pzg0qJSVSfOygi7ftIbVROnaoaTiqc2PKi80HHHpKCMIdnue56DvSGSufSgIwlpIiqEb58L+PeWsgcFeowIcQBbIHAvnFybcttd/SmvKuu1xHtaSeM6gkklJRae/dRkAE12LUCXX1itYlE0E9SxaH1dDzRDqFxsh8hq238LBC4K0W3Ytr29a0nC129tLdVpytEPS1cmA1flJhtunWAHBvY2WgpnL78BmKi/RY3SEdceG7tvPmMKe0WbJ9+Agz/oO6aZXhg==;USYust9Qf3RRZ/FTMYtbKg=="
 ---

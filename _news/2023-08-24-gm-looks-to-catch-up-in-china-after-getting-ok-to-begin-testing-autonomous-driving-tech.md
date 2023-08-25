@@ -32,7 +32,7 @@ related:
   - title: "Top 10 autonomous driving brands in China"
     excerpt: "Recently, China Internet Week released its list of 2023 China's top 10 autonomous driving brands. The list shows that Baidu Apollo, Huawei, CUSC, Mogo, Pony.ai, WeRide, Momenta, Auto X, PlusAI and DiDi are featured. Let's take a look at these top 10 brands."
     publishedDateTime: 2023-08-24T22:42:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202308/25/WS64e7d4b8a31035260b81e176.html"
+    webUrl: "https://global.chinadaily.com.cn/a/202308/25/WS64e7d4b8a31035260b81e176_1.html"
     type: article
     provider:
       name: 中国日报网

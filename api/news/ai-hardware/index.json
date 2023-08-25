@@ -110,11 +110,11 @@
       "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
       "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66601716.amp",
-      "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "webUrl": "https://www.bbc.co.uk/news/business-66601716",
+      "originalUrl": "https://www.bbc.co.uk/news/business-66601716",
       "featuredContent": null,
       "highlight": null,
-      "heat": 731,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -128,23 +128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66601716.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp",
-      "publishedDateTime": "2023-08-23T20:19:00-07:00",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-66601716.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp",
+      "publishedDateTime": "2023-08-23T23:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -167,7 +158,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 361,
       "tags": null,
       "images": [
         {
@@ -420,7 +411,7 @@
       "originalUrl": "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

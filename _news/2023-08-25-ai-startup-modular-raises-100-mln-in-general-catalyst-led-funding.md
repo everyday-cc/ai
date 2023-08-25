@@ -80,6 +80,22 @@ related:
         width: 1199
         height: 1262
         isCached: true
+  - title: "AI startup Modular raises $100 million in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-25T02:10:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103038882,imgsize-22970,width-1200,height=765,overlay-ettelecom/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
     excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
     publishedDateTime: 2023-08-24T16:19:00Z

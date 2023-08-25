@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/"
 webUrl: "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

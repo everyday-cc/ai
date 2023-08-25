@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK to spend £100m in global race to produce AI chips"
-    excerpt: "Funds to be used to order key components from major chipmakers Nvidia, AMD and Intel"
-    publishedDateTime: 2023-08-20T10:40:00Z
-    webUrl: "https://www.theguardian.com/business/2023/aug/20/uk-global-race-produce-ai-chips?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "HrDePkHkOolFe46Bq5wh8TBlmRLGqRq+shef7rT05oHAMgzNfRczZYg5NWrpCb9CUFtFfhSRFYW3RhiXZ+5tQ+vmKmMjKmTQRosYpEifGer06m0pvDbYU37xDz76n+99IxzFmRRzG+a1PJogYjgxGCV67XA3xY96tyR9xXdLf2Mmy3+IvmlZFVfE3sDcK92oAZCXT4w+NrOy2CVhamL+S85VH76sN11+Zcdh7ISM4QwQFo6Ng6wARyCQgs2pVqG3rSoZv/ZcaOA0x60E7X2IyWZFm34NXEn8+geEdEgYW9Qo5m9iLZjle0hqCQTUwseAAGUwkzr4XtD1sYRKXh/bpIZlpOA9AYpPo2eNxULOv8zSyk6qIbXdQwRLgmER4qhaidj7r0Zg6NjrFAXlrGCYp/pfOIPfeb1XhEH7w1YforGtXfO8ajiEKXPiezGo2FmCYclRU8BTxZsmS2dLwn8R1SBYtptc5voR6foxjRBKoVCN6K7gu+Oinpk14dftRcoN++c+Lfm+VcJSKX6MJ45Ccw==;stv9nOhB+GPDYOndgNG4+g=="
 ---
