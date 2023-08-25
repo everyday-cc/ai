@@ -53,6 +53,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "ChatGPT 3.5 provides inappropriate cancer treatment recommendations in one-third of cases, study shows"
+    excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers from Brigham and Women's Hospital, a founding member of the Mass General Brigham healthcare system,"
+    publishedDateTime: 2023-08-25T13:47:00Z
+    webUrl: "https://www.news-medical.net/news/20230825/ChatGPT-35-provides-inappropriate-cancer-treatment-recommendations-in-one-third-of-cases-study-shows.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 0
 
 secured: "yH8ZKsErGklkXolAzuO0R9dAuRBXLf3IsYpbVpvLw8FIwicfAWgjo/iXQ5GE7V2w72Sp4NCM4quH6zKPdu1v5nFGizelvupLINKIvlphAbsb+Vsj2RFdCgqlBhGfmyt3fljmQoG9s3PO/lXefrwIm3C2rSAGbuaAd3xp2vz6sRv3qmk+d7eS4cUw1MBXTaRlW1q4aORC7D3TxerkeaMJoohGAgbbOOR2Jq96OdzXGUU/njzdVEUhNDjav4om6SZWYH2dt86P60OIwypEnm+Zn40ke2NqgzLbnuxxbDfyGTw7ku14VchHeV0iq3n/3MI87fWG7NJPu4CxCq/qAMKGHo9vPu1mL8fsEVa+ylu1xVY=;ziq8/yjhXJNLsD0j0+rckg=="
 ---

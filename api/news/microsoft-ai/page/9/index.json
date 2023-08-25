@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
+      "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
+      "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "originalUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png",
+          "width": 720,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-sap-wants-to-future-proof-businesses-with-ai.md",
       "title": "SAP Wants To Future-Proof Businesses With AI",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead examines how SAP says it wants to help customers transform business models in the cloud.",
@@ -1333,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers.md",
-      "title": "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers",
-      "excerpt": "Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS), a leading global provider of software solutions for the insurance",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-301832037.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-301832037.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://mma.prnewswire.com/media/585787/Sapiens_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

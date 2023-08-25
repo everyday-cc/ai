@@ -143,22 +143,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "Generative AI can help developers to more quickly assess, update, validate and test the right code, allowing them to more efficiently modernize large applications and focus on higher impact tasks. IBM is designing these capabilities to provide tooling for ..."
-    publishedDateTime: 2023-08-22T04:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
     excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
     publishedDateTime: 2023-08-22T04:01:00Z
@@ -238,6 +222,15 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
+    excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
+    publishedDateTime: 2023-08-22T04:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
   - title: "IBM trains its LLM to read, rewrite COBOL apps"
     excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
     publishedDateTime: 2023-08-22T12:23:00Z

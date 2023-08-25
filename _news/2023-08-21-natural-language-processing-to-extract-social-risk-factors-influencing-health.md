@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-natural-language-social-facto
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Validate NLP Tool to Extract SDOH from Clinical Notes"
+    excerpt: "An NLP-based SDOH tool has displayed significant generalizability, portability, and accuracy across two organizationally and geographically distinct health systems."
+    publishedDateTime: 2023-08-25T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-validate-nlp-tool-to-extract-sdoh-from-clinical-notes"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
   - title: "Natural language processing to extract social risk factors influencing health"
     excerpt: "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ..."
     publishedDateTime: 2023-08-21T19:53:00Z

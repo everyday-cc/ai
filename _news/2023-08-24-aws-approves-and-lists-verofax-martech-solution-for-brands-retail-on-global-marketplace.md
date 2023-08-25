@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34017188"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     quality: 45
     images:
       - url: "https://menafn.com/updates/pr/2023-08/24/M_b50bfimage_story.jpg"
+        width: 650
+        height: 328
+        isCached: true
+  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
+    excerpt: "Verofax, an award-winning Brand & Retail Martech solution provider, has been awarded AWS' Full Technical Review (FTR) and approved for Amazon's AWS Marketplace. As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace,"
+    publishedDateTime: 2023-08-25T11:59:00Z
+    webUrl: "https://www.jcnnewswire.com/pressrelease/86006/3/Verofax&apos-Transformative-Brand-&amp-Retail-Martech-Solution-achieves-FTR-approval-on-Amazon-AWS-M"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 38
+    images:
+      - url: "https://photos.acnnewswire.com/tr:n-650/Verofax08232023.jpg"
         width: 650
         height: 328
         isCached: true

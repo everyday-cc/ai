@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Rehan-Jali-CLEAN.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
+    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
+    publishedDateTime: 2023-08-25T14:15:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 18
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "1K3DlbmKsE/8svUCp/TTW6CGbob9NPpuQNDaG38wy3hRswWqnaxkvRhQsnrLkW9YxJ2hbvgzS+hxGC3m23hd5jz3J3XoBp3Kdiw+Bxin1vchgUxyXvLF3iVs04V2kqP5VhKABmeiD0eWkqep9pWtxkpL8Hk0ZzifdcTB/+OF8nRYWP8Pjk6aR7ArHSfm7+ZKjrZbWfAl28BTLamp2HVXaTpx7kNI16C+ThFNL7PHEtJWz7+B69aBwkkFiiVOgLcgDR8xhfFYQyj7qZxUeykzpuKxCxR7ETjWJO2AmhtdeP8DGQtizEe1DIooxjOilbhrHYW3xkc1devEtQCzJ30C4WcsbhIZ3uvS5d9mCv+tep4=;9kQwlMuymSzz4ciJmw7jpw=="

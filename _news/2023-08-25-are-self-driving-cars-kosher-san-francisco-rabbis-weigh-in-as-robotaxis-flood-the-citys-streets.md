@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
-publishedDateTime: 2023-08-24T18:46:00Z
-originalUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
-webUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
+title: "Are Self-driving Cars Kosher? San Francisco Rabbis Weigh in as Robotaxis Flood the City’s Streets"
+excerpt: "Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring sensors and their odd, almost tentative movements, have become a familiar sight on the streets of San Francisco."
+publishedDateTime: 2023-08-25T15:45:00Z
+originalUrl: "https://www.jewishexponent.com/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+webUrl: "https://www.jewishexponent.com/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Jewish Telegraphic Agency
-  domain: jta.org
+  name: The Jewish Exponent
+  domain: jewishexponent.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.jta.org/wp-content/uploads/2023/08/GettyImages-1556779082-1024x569.jpg"
-    width: 1024
-    height: 569
+  - url: "http://www.jewishexponent.com/wp-content/uploads/2023/08/cropped-Exponent-insignia_SM-300x300-2.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "y3KNKsNVK6qRgIxcy8BzFf2uHXocec9f5grrSVgSPxaAeOsFLRAT77+N6AsUQYe7v4Tw8OA7FrQZFvaHyn3UpUGHt+QR6jJsr2S069EYyXV/G9ykPmSMw577JfYd5PmaOHx40adGsV42CBjLRBbjHwieqUaBOmlqaraNLixLVZ3JKLf9QRxpJS946A4q7terNmdM9O365/22pHGIYX5kODNC1RvNV8u7P0EPZo8+FsMJkWfFY2PLrmgmU9Um1PP1hsjpUBSsSDSa5sQnnRe8dlww0JV0c1Lzjy2JuSznvjtE5yQ7TjM+Mnw93TB4A93ebJFfr+kFLaUxseS8X1MsGEZKDysyrhJPmpcyrrCGDGdut1CU/wMy4uJDmraVHQKkqTNDmtdGn9kkHzK2Q/cp3n2G+SZcmfe/ObluJlef9Ci6NNYrYDf5Zc9OvVfj53/Jjb1vqxH5rp2xMh4MC/vEIAM/i59aSdFOrofGxTNQza2gK9HZsHF13yE41Kf3TTlUW6aeCBQB4WxUaiUiPLodAg==;OyDT34U0Biaya0s6Kgdt/g=="
+secured: "pcIpv2mQ0CkwEQm6Sa0WdZyi7K2P3Y4A3K08veJ93442qmzwVmTmwCkKvXwOQVbwaEqT/jiQ68hh3uPLswM4fCnCl4AQHgMPtMmA1uXWemdLMUH3r3LMLAQ0Qj+FHs+WlFbuPYvm1gG2M+N9EPb+ULVnnkqCD4XCprQ6VMnWPDjWNm9JU9i4OADoGjzazZmEmoOWnYHDZIC4W/USt+BeRdCPocQ88vIbVFLr6Sj1N6R2ismkqvXohDXNYxXkXFAn9jXej+uekb+OYkrrBedwD3eoC/zAOZt16orAeGPwI/0RAAjIgtBcNPSpG861bS3xmbogxtXT9//W09C3z7wSgbpgkW8OB4VCR652Hjj3b7o=;jQ/sBaOcjywVite+aoBfKQ=="
 ---
 

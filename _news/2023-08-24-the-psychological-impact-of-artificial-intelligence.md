@@ -27,46 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "No AI Can Learn the Art of Medicine"
-    excerpt: "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research."
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://time.com/6306922/artificial-intelligence-medicine-doctors/"
+  - title: "Making AI systems biologically plausible"
+    excerpt: "MIT News quotes Dmitry Krotov, a research staff member at the MIT-IBM Watson AI Lab and senior author of the research paper: “The brain is far superior to even the best artificial neural networks that we have developed, but we don’t really know exactly ..."
+    publishedDateTime: 2023-08-23T02:57:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2023/aug/23/making-aisystems-biologically-plausible-2608016.html"
+    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/aug/23/making-aisystems-biologically-plausible-2608016.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/aug/23/making-aisystems-biologically-plausible-2608016.amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
-        width: 2945
-        height: 1018
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/8/23/w600X390/AI.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector"
-    excerpt: "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning."
-    publishedDateTime: 2023-08-21T10:29:00Z
-    webUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/"
-    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 60
-    images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg"
-        width: 1654
-        height: 900
-        isCached: true
-  - title: "Artificial Learning: Navigating the surge of artificial intelligence in higher education"
-    excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
-    publishedDateTime: 2023-08-23T04:56:00Z
-    webUrl: "https://dailyiowan.com/2023/08/22/artificial-learning-navigating-the-age-of-ai-in-higher-education/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 27
 
-secured: "djxknkg73MTFEYJEG4rOrpi66QcClsJdT+PmADpmSFKK94OLzzuD+BNUEiMGDm5SI0+Y+GcS79/jtt5K1hsP2Qr9IseZzli5qA/KnkZ24q90M45AKih4SDowxfuWYDHk6mvrTzef/8hkFpj7dlJ/yM1B1+6HHeygNvAeW4JvSwJXibx074rREvEjrAG5Cz0QmwlO3KtR68l+wDKlrlUqHsAnRR6SKxHOKTyGasLgqaQZBrWALCDBiaL2hShrarcUdsRi4G9qCQ9BAGABDH8M2YHqIYmmLI9ddxD3CLOPNnooOcRQSC854WDUioK4lQ0ORsyiPzT7nNRA48/tYk4rauR5cutvpX2S0HaTTHklvVw=;XP+Iea1Hgyiokg52r+FyJA=="
+secured: "DqU/5i0PLCRLzR5ba+YEyMrztF00DVVejjT7f195Lj3gn8bipXt3qCTb9az5uwbTAl5Spc8wF3xvePnTAkJXEiQywYNidTjOdVHbV9xcPu4cL4HR5pZguvGs1QK8c76b9wuEu/7wjuS1KGJ3Cb7Bjw3GYGc1cGpM7y0gc8syIug4pM5UChpCPLPqPUpukMX0UHS0dD6ObWjmQDVqPPNgoaDbzEYlu03I/DxP6KS1TYaSLoUxSb/pA3SeK4jaLGOhYrDrhG7acOmiTygAkyolJv2cwjRHBQfyyg6xyGqNoi/piZ86dpixJEOynvRHzpZbHQ2PN1HhMXHRtyvkUtM+kVP8Agtc6Bl349Z/V7LlmpU=;mPddkp/46nQXSX3mPhOiwg=="
 ---
 

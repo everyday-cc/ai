@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
+    excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
+    publishedDateTime: 2023-08-25T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/artificial-intelligence-in-cybersecurity-unlocking-benefits-and-confronting-challenges/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
     excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
     publishedDateTime: 2023-08-25T05:51:00Z

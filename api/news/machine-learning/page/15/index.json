@@ -2,6 +2,74 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-08-new-deep-learning-based-model-estimates-breast-density-with-high-precision.md",
+      "title": "New deep learning-based model estimates breast density with high precision",
+      "excerpt": "Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-scientists-achieve-optimal-interdomain-data-transfer-using-neural-networks.md",
+      "title": "Scientists achieve optimal interdomain data transfer using neural networks",
+      "excerpt": "Researchers from Skoltech and the Artificial Intelligence Research Institute (AIRI) have developed a new algorithm for optimal data transfer between domains using neural networks. Unlike most similar techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-machine-learning-may-play-a-role-in-building-energy-models.md",
       "title": "Machine learning may play a role in building energy models",
       "excerpt": "More than 40% of all U.S. energy use and greenhouse gas emissions are associated with the building sector. A study from Florida Tech researchers is exploring whether machine learning can help reduce this environmental impact.",
@@ -1060,84 +1128,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030.md",
-      "title": "Understanding Machine Learning as a Service (MLaaS) Market 2023 [Latest Report] | Dynamics in Significant Geographic Segments by 2030",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2023 | Latest Report (104 Pages Report) | Information Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-the-moratorium-on-neural-networks-is-a-continuation-of-us-sanctions-against-russia-and-an-adventure-similar-to-the-world-quarantine.md",
-      "title": "The moratorium on neural networks is a continuation of US sanctions against Russia and an adventure similar to the world quarantine.",
-      "excerpt": "I continue to deeply study the opinions of published experts about the moratorium on expanding the introduction of artificial intelligence in the world. I come to the conclusion that these opinions are not convincing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
-      "originalUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securitylab",
-        "domain": "securitylab.ru",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,6 +42,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable"
+    excerpt: "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks."
+    publishedDateTime: 2023-08-25T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/"
+    ampWebUrl: "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 76
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "IBM reports analog AI chip patterned after human brain"
     excerpt: "Deep neural networks are generating much of the exciting progress stemming from generative AI. But their architecture relies on a configuration that is a virtual speedbump, ensuring the maximal efficiency can not be obtained."
     publishedDateTime: 2023-08-22T14:41:00Z

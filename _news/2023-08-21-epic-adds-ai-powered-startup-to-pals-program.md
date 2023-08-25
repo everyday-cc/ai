@@ -40,6 +40,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Does AI Solve The Database Migration Problem?"
+    excerpt: "AI can translate SQL code from the dialect of one system to that of another. At the time of writing, most chatbots tend to struggle with edge cases. However, it stands to reason the quality will improve constantly and quickly. Best of all, AI will simply “learn” the latest features and dialects and keep up with any developments."
+    publishedDateTime: 2023-08-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/does-ai-solve-the-database-migration-problem/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "DIid42LkOhL+8vJ1Cj4McjSNOCZ+Xm+HZhQd8gYHRxLQYWZieiSkAXcBFnzyE8Y/pjVXxbjlaP5lhLrSjUGj1noM4pS+juvsh96Yun+BmTs+lZQKj40MkrtSDFflgL9yc7qaP3Pcss4KKdCQuZDe8dTpehq89JHw5aSuH5+hILaVaa/z7VcNK4/7KPRcHEmALTA05l3O46kqj7D4yckEcUppJyF8jEmq9Pyg2TQpVCe/vuBz/AAJhemzZ3pjx6QzQMcZL3eC63YspIZgi7HZf7HKZ6h/fasGBeSE7pRGU/+y5QJVWFmwqK6kWfvVGGJodkkyX+fVaNo7VQofLPAQZ+gFZriFS14MSDH1grzHqJM=;AGNQFIKgkJMGNMNyZUv8fA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
 type: article
 quality: 87
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,54 +30,50 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact"
-    excerpt: "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons."
-    publishedDateTime: 2023-08-25T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+  - title: "In The Game Of AI, Think Ladders, Not Snakes"
+    excerpt: "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining."
+    publishedDateTime: 2023-08-25T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/626161fe4b1eadb6e1e58f6e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "How will leveraging AI change the future of legal services?"
-    excerpt: "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model."
-    publishedDateTime: 2023-08-23T13:06:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
+  - title: "No AI Can Learn the Art of Medicine"
+    excerpt: "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research."
+    publishedDateTime: 2023-08-23T10:00:00Z
+    webUrl: "https://time.com/6306922/artificial-intelligence-medicine-doctors/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Time
+      domain: time.com
     quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
+        width: 2945
+        height: 1018
         isCached: true
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
+  - title: "Rise of artificial intelligence has actors fearing for their careers"
+    excerpt: "As Hollywood actors continue to strike, a major issue in negotiations is the role artificial intelligence could have in reshaping the entertainment industry. CBS News' Bradley Blackburn reports on the promise and the peril actors now face."
+    publishedDateTime: 2023-08-22T17:05:00Z
+    webUrl: "https://www.cbsnews.com/video/artificial-intelligence-actors-fearing-for-their-careers/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "People Fear Losing Their Jobs to AI – but Still Use It Often"
-    excerpt: "This trend raises the question: Should your company create a workplace ethics policy surrounding AI use? According to Conner, the answer is yes. “As AI evolves, companies should establish ethics policies that guide employees’ use of AI,” Conner advised."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://www.businessnewsdaily.com/ai-job-loss"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 19
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/22/fe2777cf-297a-46ff-b385-79d077b2751d/thumbnail/1200x630/1f1f230d87486340a8ed747c4a7c3d8c/cbsn-fusion-artificial-intelligence-actors-fearing-for-their-careers-thumbnail.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7ucjw4WSD95ypp2HFXS1j/4+dU077h4fiBdYBgofoQyU9HqsVsmEgH82WrGUxe0u+F9tT3tyhFb2i5Ez1ScBV/2Qa29tom71nJBjqoTRN75XQUUu951wJIKHM4RSY7yYesnCtokuWns+1bnGnEaflD7k2LE6YtZoZq25AQWspA7Q8XvQ6ySZWbYtrchDFHt5bwFR6P1dfbC7oA7qFWdCoshrhXBKyREQemeq5PTrMeIMfyBZvmJCanvHBu9yVxrPUZCYPHxW8na7ZSRRw31oUYu//CCv61H2/KOpwgxmC5cXxNJLuSXQ+cBUZ5Bnv/tm2MqNWBktVn4Nad9Hyg/NXng6cUeoz+FOGExUvcWIfMeaMb6EekNCkn42JKnuyheETNb0dV8k0iowPgHxo1v2m1/SBAZFATnGAi4Y8XylRJNnQ285rQ0nKlfN60+CDnrq4ZrSUJFn7NMKCtV7s7OD92nSi2f2QYt2B/lnPEU3l3vuhx0gJzgzP+0VQQP73YEcoKUmwuM8FQaBRQK/jKHRLQ==;aQ9sHaMdUjVgw4cUUcXcQg=="
 ---

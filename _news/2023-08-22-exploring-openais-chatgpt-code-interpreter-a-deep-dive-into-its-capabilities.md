@@ -80,6 +80,15 @@ related:
         width: 1500
         height: 841
         isCached: true
+  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
+    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
+    publishedDateTime: 2023-08-25T11:31:00Z
+    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 18
   - title: "7 things you can do with Bing Chat AI but not ChatGPT"
     excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
     publishedDateTime: 2023-08-24T12:52:00Z

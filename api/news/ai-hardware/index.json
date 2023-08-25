@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup.md",
+      "title": "AMD’s Radeon RX 7700 XT and RX 7800 XT fill the gaps in its next-gen GPU lineup",
+      "excerpt": "AMD has been slower than Nvidia to fill out its next-generation GPU lineup, and for months there has been a huge gap between the Radeon RX 7900 XT (currently retailing between $750 and $850) and the Radeon RX 7600 (holding steady at $270ish).",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/7700-7800-1-800x450.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
+      "publishedDateTime": "2023-08-25T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.md",
       "title": "Analysts see AI boosting Marvell, but warn of other headwinds for the chip stock",
       "excerpt": "But analysts are wondering if it can be enough to counteract challenges elsewhere. The semi stock retreated more than 4% in premarket trading despite slightly exceeding Wall Street expectations in its quarterly report delivered Thursday.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 761,
+      "heat": 771,
       "tags": null,
       "images": [
         {
@@ -272,7 +324,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -420,7 +472,7 @@
       "originalUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1415,51 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
-      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
-      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "publishedDateTime": "2023-08-14T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

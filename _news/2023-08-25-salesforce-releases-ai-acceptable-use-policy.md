@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hugging Face raises $235M from investors, including Salesforce and Nvidia"
+    excerpt: "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round."
+    publishedDateTime: 2023-08-24T19:36:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
+    ampWebUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
     excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
     publishedDateTime: 2023-08-25T11:23:00Z

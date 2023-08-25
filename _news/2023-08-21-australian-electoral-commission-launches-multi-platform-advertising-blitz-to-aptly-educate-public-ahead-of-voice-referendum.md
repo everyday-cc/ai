@@ -26,17 +26,6 @@ images:
     height: 366
     isCached: true
 
-related:
-  - title: "Australians urged to vote on voice separate to political parties by Liberal MP"
-    excerpt: "A Liberal MP who broke ranks over opposition to the Voice has urged Australians not to vote for “parties” at this year’s referendum and rubbished claims the advisory body would have any extraordinary powers."
-    publishedDateTime: 2023-08-24T03:28:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/australians-urged-to-vote-on-voice-separate-to-political-parties-by-liberal-mp/news-story/8df334ad97e12e5d1bb747f7425ecc2c"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 0
-
 secured: "Lb0yuSKaPqL77H3mTkBBZABAeNpZFsAcxc+N92yJ/RiMh7wyUdDW6okAfGrf0A+cVddpjDvzNoDFPLINiCwwkAIRLbJMNmHWd9IhdKXiwlF7yer1JFmhnDANLndNyVotLsonpxtKEtRrb11Nd8NEBXvpG5BMQ4crLWZpJiPu16TUonksIf8ZfQdQ5OxMVq6Qnp34Qpd90juHbP02XKpd/cBJ3dp4mH0RqGYODTu7TgS0KvH1JcT6qxEQlAwaFkXZM91IFE+cgVKe1jEr79fN0JL2ynxRO40/hgAEABrF39XDuZjd0WunB1gxZ0tYMuVxvU8EF8VdRIsuLY+hSTcarw29IVqbCf0kEWQbUKDxmaU=;T7UjDFnLQGAhAL3UTsT+Ig=="
 ---
 

@@ -802,34 +802,25 @@
     },
     {
       "path": "_news/2023-08-15-twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin",
+      "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
+      "excerpt": "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications",
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T11:53:00-07:00",
+      "publishedDateTime": "2023-08-14T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1199,6 +1190,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-11-massive-expansion-of-driverless-robotaxis-approved-for-san-francisco-despite-public-safety-concerns.md",
+      "title": "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns",
+      "excerpt": "And get ready, Los Angeles: The industry is planning to push for driverless rides here as ... of multi-ton vehicles operated via artificial intelligence attempt to safely negotiate the hills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi",
+      "originalUrl": "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
       "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
@@ -1325,40 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city.md",
-      "title": "GM self-driving firm Cruise, rival to Tesla, is bringing robotaxis to a new city",
-      "excerpt": "One of the biggest potential off-shoots of self-driving technology is the robotaxi, a driverless, artificial-intelligence-powered car that maneuvers itself without any input or supervision from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
-      "originalUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

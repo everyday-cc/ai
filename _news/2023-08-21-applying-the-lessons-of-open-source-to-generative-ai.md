@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
+    excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
+    publishedDateTime: 2023-08-25T13:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Epic looks to accelerate generative AI offerings"
     excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
     publishedDateTime: 2023-08-23T20:22:00Z

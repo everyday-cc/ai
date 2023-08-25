@@ -444,7 +444,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -769,19 +769,19 @@
     {
       "path": "_news/2023-08-15-diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives.md",
       "title": "Diligent Launches AI Ethics & Board Oversight Certification for Corporate Directors and Executives",
-      "excerpt": "The program features top experts across AI, ethics, compliance, and regulatory and legal industries, including renowned speakers: Meghan S Anzelc, Chief Data & Analytics Officer at Three Arc Advisory",
+      "excerpt": "Diligent, a leading GRC SaaS company, today announced its AI Ethics & Board Oversight Certification for corporate directors and executives. The program will help leaders navigate the context and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/b33857762/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/b33857762/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
+          "width": 437,
+          "height": 563,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -789,13 +789,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33857762",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33857762",
-      "publishedDateTime": "2023-08-15T06:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T06:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

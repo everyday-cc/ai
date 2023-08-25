@@ -787,6 +787,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Nvidia Effect Wanes, Hiking Hike Odds, Indexes Hit Resistance, AI Washout"
+    excerpt: "Plus, Boeing stubs its quality-control toe again and a lament about why the Treasury borrows so much money short term."
+    publishedDateTime: 2023-08-25T11:59:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/nvidia-effect-wanes-hiking-rate-hike-odds-hitting-resistance-ai-washout-16131812"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 16
   - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
     excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
     publishedDateTime: 2023-08-24T21:49:00Z

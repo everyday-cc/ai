@@ -1,0 +1,88 @@
+---
+category: news
+title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
+excerpt: "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words."
+publishedDateTime: 2023-08-25T13:52:00Z
+originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
+webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
+ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+type: article
+quality: 85
+heat: 125
+published: true
+
+provider:
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg"
+    width: 800
+    height: 533
+    isCached: true
+
+related:
+  - title: "Brain Implants That Help Paralyzed People Speak Just Broke New Records"
+    excerpt: "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately."
+    publishedDateTime: 2023-08-24T11:00:00Z
+    webUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
+    publishedDateTime: 2023-08-23T23:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230823122530.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Brain implants and AI help voiceless patients to speak up"
+    excerpt: "An AI-based brain-computer interface system that enabled a woman with severe paralysis to speak through a digital avatar."
+    publishedDateTime: 2023-08-23T14:59:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-implants-and-ai-help-voiceless-patients-to-speak-up"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/23/image/jpeg/yd1LkB2JVKvi2XUOZBPNfyPqw0sLHcUXtpHBdz24.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI helped a stroke patient speak for the first time in 18 years"
+    excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
+    publishedDateTime: 2023-08-23T22:54:00Z
+    webUrl: "https://bgr.com/science/ai-helped-a-stroke-patient-speak-for-the-first-time-in-18-years/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/11/neuralink-brain-implant.jpg?quality=82&strip=all"
+        width: 1600
+        height: 1067
+        isCached: true
+
+secured: "/rtk21lkU5BC8T/JOL4nMbZUuqff9FuD0Zg6Z+o5IgRBN6b3pEXeWeL5CbG8UYdhhYJB26XIkBf7R4MUn/lQoxhGoHg/fS3hMvUefNmsbBFQFJuvj3kST4a3UdjkvkPJDPoL0UVBunOoK0e1YaaVVo41WTUKJnGAsKOXIa7w7N3gi1Ub1SuUEgiRkbf0+byzuA6k0olIeMyRiL8rurGIRxWeahZbM0jgoCgqht3srNAPh9EeLAaz0qhYFIDKmsCWZ9lC9v0nqSwVptOMy4pxSaJ2OF2S5WvRZNnQdEorycIj5n4ODl5WjDSQYY2v8Hdu9MEHifNCn5phB5ia/ecyiIZrapdA456zhpITvwqqXfs=;aNHaTEA6fmGbbq7R/c51GQ=="
+---
+

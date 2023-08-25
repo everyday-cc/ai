@@ -48,6 +48,15 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "BioSig AI Sciences Achieves Infrastructure and Technology progress in Development of Generative AI Platform for Hospitals"
+    excerpt: "About BAIS BAIS, a majority-owned subsidiary of BioSig, is developing AI solutions for the hospital marketplace utilizing structured, semi-structured, and unstructured data."
+    publishedDateTime: 2023-08-24T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/biosig-ai-sciences-achieves-infrastructure-and-technology-progress-in-development-of-generative-ai-platform-for-hospitals-1032580440"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "6cidR2czaShODytx7GbjfaEtIITQ7NLpQURFU7NNaOnwl7Q8fP2YQyvDgEkKVBMfFXnuWQrWF08/CC+Af9ZNlcOPo56jqXdwfs3erHr7sRgxi7PdqldsLRZRT0TMR9OZINARyEdi/d7YQvQS2o5/PNEUDIbEYrPRybX3Z/gbvJo3EP0BsulpQMGEzHlXv+kfeXLRhGvQJjm0pUJtZ9pK310bdYqzTMpcO4ILea6BJqFi9tTUBcjfyae0WOaZca/qfy7eZHyKYBpcRZBKHlyQxAf5Zy1/vxGVYn68O/NAq+mxLk6+61hlqDihhC0p4utdxOGE1vIZT2yIS3lEvS5fVH+ko+bz2cstKtwy9UgvtQI=;eg7RoGzUbVawZYJXYNmCFA=="
 ---

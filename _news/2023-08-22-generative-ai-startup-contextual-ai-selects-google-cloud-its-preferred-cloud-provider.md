@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/generative-ai-startup-context
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: enterprisetalk
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Plainsight, Google Cloud to Combine Generative AI, Computer Vision"
+    excerpt: "Plainsight models support Google Cloud’s LLM and generative AI services with fully processed visual data that’s clean, organized, and accurate. With factory-like speed and quality, Plainsight’s platform produces precise insights for customers that inform quick, reliable decision-making."
+    publishedDateTime: 2023-08-25T12:58:00Z
+    webUrl: "https://channelvisionmag.com/plainsight-google-cloud-to-combine-generative-ai-computer-vision/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 34
   - title: "Generative AI startup Contextual AI names Google Cloud its preferred cloud provider"
     excerpt: "Contextual AI Inc., a startup developing large language models for the enterprise, today named Google Cloud as its preferred cloud provider. The company will use Google Cloud services to power several parts of its business. Most notably, it plans to lever ..."
     publishedDateTime: 2023-08-21T19:32:00Z

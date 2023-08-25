@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-24-brain-implants-that-help-paralyzed-people-speak-just-broke-new-records.md",
-      "title": "Brain Implants That Help Paralyzed People Speak Just Broke New Records",
-      "excerpt": "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately.",
+      "path": "_news/2023-08-24-ai-startup-hugging-face-valued-at-45-bln-in-latest-round-of-funding.md",
+      "title": "AI startup Hugging Face valued at $4.5 bln in latest round of funding",
+      "excerpt": "AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce , Alphabet's Google and Nvidia .",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/",
-      "originalUrl": "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/",
+      "webUrl": "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg",
+          "width": 5500,
+          "height": 3668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,151 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T04:00:00-07:00",
+      "publishedDateTime": "2023-08-24T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning.md",
+      "title": "Autism Therapy: Cannformatics Targets Metabolic Imbalances Using Machine Learning",
+      "excerpt": "Cannformatics, an early-stage biotechnology company, has unveiled a groundbreaking advancement in the field of medical cannabis treatment for Autism Spectrum Disorder (ASD).",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
+      "originalUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/23/artificial-intelligence-7328583_1920.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34014714",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34014714",
+      "publishedDateTime": "2023-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-2018-call-for-code-winner-project-owl-advances-its-natural-disaster-communication-network.md",
+      "title": "2018 Call for Code Winner Project OWL advances its natural disaster communication network",
+      "excerpt": "Learn how the global team at Project OWL is working to improve connectivity and communication networks during natural disasters.\nThe post 2018 Call for Code Winner Project OWL advances its natural disaster communication network appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/2018-call-for-code-winner-project-owl-advances-its-natural-disaster-communication-network/",
+      "originalUrl": "https://www.ibm.com/blog/2018-call-for-code-winner-project-owl-advances-its-natural-disaster-communication-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting.md",
+      "title": "Contextual Is Here: Does That Mean Goodbye To Interest-Based Targeting?",
+      "excerpt": "Contextual and interest-based solutions take entirely different approaches to increasing advertising’s relevance to target audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
+      "publishedDateTime": "2023-08-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +188,110 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-creating-ethical-guardrails-for-ai-in-e-commerce.md",
+      "title": "Creating Ethical Guardrails For AI In E-Commerce",
+      "excerpt": "In order for AI to make sense and successfully scale, we must go into it with our eyes wide open to its risks to consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e6082831949b445a23ba77/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/",
+      "publishedDateTime": "2023-08-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts.md",
+      "title": "How To Overcome Bad AI In Your Programmatic Marketing Efforts",
+      "excerpt": "As marketers navigate an AI-informed marketplace, we may actually be contending with a familiar foe: ad fraud. For the uninitiated, ad fraud in programmatic typically means fraudsters falsify impressions and clicks on programmatic campaigns by deploying bad practices like malware, bots or human fraud farms. As a result, advertisers lose money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/amp/",
+      "publishedDateTime": "2023-08-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -198,7 +439,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -241,7 +482,7 @@
       "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 761,
+      "heat": 771,
       "tags": null,
       "images": [
         {
@@ -388,7 +629,7 @@
       "originalUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -440,7 +681,7 @@
       "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -866,7 +1107,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -936,239 +1177,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/amp/",
       "publishedDateTime": "2023-08-23T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai.md",
-      "title": "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI",
-      "excerpt": "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys.md",
-      "title": "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys",
-      "excerpt": "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "originalUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:27:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-why-data-governance-is-essential-for-enterprise-ai.md",
-      "title": "Why data governance is essential for enterprise AI",
-      "excerpt": "Learn why we need to focus first on managing, understanding and protecting the data that is input into the AI models with data governance.\nThe post Why data governance is essential for enterprise AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/",
-      "originalUrl": "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-chatgpt-turned-generative-ai-into-an-anything-tool.md",
-      "title": "How ChatGPT turned generative AI into an “anything tool”",
-      "excerpt": "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
-      "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
-      "publishedDateTime": "2023-08-23T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-is-it-time-we-stop-saying-ai.md",
-      "title": "Is It Time We Stop Saying AI?",
-      "excerpt": "AI has become a buzzword across almost every industry. But the widespread and often indiscriminate use of the term is raising a question: Is it time we stop saying \"AI\"?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b7b7cfd888ad16d8ae21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/amp/",
-      "publishedDateTime": "2023-08-23T04:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

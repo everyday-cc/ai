@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Does AI Solve The Database Migration Problem?"
+    excerpt: "AI can translate SQL code from the dialect of one system to that of another. At the time of writing, most chatbots tend to struggle with edge cases. However, it stands to reason the quality will improve constantly and quickly. Best of all, AI will simply “learn” the latest features and dialects and keep up with any developments."
+    publishedDateTime: 2023-08-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/does-ai-solve-the-database-migration-problem/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Epic adds AI-powered startup to Pals program"
     excerpt: "Epic Systems has added Talkdesk's AI-powered cloud contact center to its new Pals program, which helps customers select vendors with validated integrations."
     publishedDateTime: 2023-08-21T14:23:00Z

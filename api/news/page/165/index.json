@@ -2,6 +2,504 @@
   "page": 165,
   "value": [
     {
+      "path": "_news/2023-05-10-voice-recognition-comes-to-the-instrument-world.md",
+      "title": "Voice recognition comes to the instrument world",
+      "excerpt": "This COM communications scheme for speech recognition applications is one way of separating recognition functions from the main application program. Piggybacking on the PC. What makes this situation so wonderful is that the computer industry is spending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/voice-recognition-comes-instrument-world",
+      "originalUrl": "https://www.designnews.com/voice-recognition-comes-instrument-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/dn_thumb_2.jpg?itok=GXfWv2dM",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-why-dont-we-have-robot-surgeons-yet.md",
+      "title": "Why Don't We Have Robot Surgeons Yet?",
+      "excerpt": "Most surgical robots operate in one of two ways, or a combination of the two. Either they are remote-controlled by the surgeon, or they follow a predetermined plan set by a surgeon – not unlike how collaborative robots (cobots) in factories can be guided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Robotic%20Surgery.jpg",
+          "width": 1806,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-will-robots-and-ai-take-our-jobs.md",
+      "title": "Will robots and AI take our jobs?",
+      "excerpt": "05:12 BOSTON - These days you can find robots at warehouses, in restaurants, and grocery stores. Artificial intelligence has computers completing jobs humans usually do. Together, they have a lot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "originalUrl": "https://www.cbsnews.com/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/09/ea6ac30b-1c8b-4b2a-a571-666cd3d8b1fb/thumbnail/1200x630/14ed417437e5f764ccc2463103998cff/ai.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "publishedDateTime": "2023-05-09T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
+      "title": "Google Chrome Brings Better AI Brains to the Web",
+      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
+      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
+          "width": 4048,
+          "height": 2391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
+      "publishedDateTime": "2023-05-09T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
+      "title": "Valley Health System hospital innovations include robots at nursing stations",
+      "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
+      "originalUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2023/02/GettyImages-1386596147.jpg?w=1280",
+          "width": 1280,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
+      "cdnAmpWebUrl": "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
+      "publishedDateTime": "2023-05-09T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dcnewsnow",
+        "domain": "dcnewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
+      "title": "Why AI Will Open Up New Career Opportunities For Young People",
+      "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
+      "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8f7506c6135340824e83/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
+      "publishedDateTime": "2023-05-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
+      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
+      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-gains-values-with-anthropics-new-constitutional-ai-chatbot-approach.md",
+      "title": "AI gains “values” with Anthropic’s new Constitutional AI chatbot approach",
+      "excerpt": "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
+      "publishedDateTime": "2023-05-09T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-warns-deepmind-co-founder.md",
+      "title": "AI will create ‘a serious number of losers’, warns DeepMind co-founder",
+      "excerpt": "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ibm-announces-ai-platform-watsonx-to-help-businesses.md",
+      "title": "IBM announces AI platform watsonx to help businesses",
+      "excerpt": "clients can quickly train and deploy custom AI capabilities across their entire business, all while retaining full control of their data.\" More than a decade ago, IBM introduced Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "originalUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/IBM.jpg?ve=1&tl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "publishedDateTime": "2023-05-09T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
+      "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
+      "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "originalUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+          "width": 438,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politifact",
+        "domain": "politifact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-salesforce-unveils-tableau-data-analysis-tools-driven-by-generative-ai.md",
       "title": "Salesforce unveils Tableau data analysis tools driven by generative AI",
       "excerpt": "With Tableau GPT and Tableau Pulse users can benefit from an automated approach to data analytics employing generative AI.",
@@ -652,541 +1150,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office.md",
-      "title": "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office",
-      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
-      "publishedDateTime": "2023-05-09T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-how-to-use-craiyon-ai-formerly-known-as-dall-e-mini.md",
-      "title": "How to use Craiyon AI (formerly known as DALL-E mini)",
-      "excerpt": "The free web version of Craiyon will generate art, drawings, and photos from your text descriptions. There's also a Craiyon Android app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/34852bdb59340a3dd04bbaebf348bd73e92b6f83/2023/05/08/f6b999d1-6e29-426a-b7cf-c5aaecbd0f50/figure-top-2-how-to-use-craiyon-ai-to-create-amazing-images-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
-      "publishedDateTime": "2023-05-09T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-baidus-smart-speaker-unit-to-launch-a-phone-next-week.md",
-      "title": "Baidu’s smart speaker unit to launch a phone next week",
-      "excerpt": "The company has said it plans to embed its AI tools into all major business lines, including in search, autonomous driving and smart gadgets. The introduction of a handset under the Baidu umbrella ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/08/b561cca7-b7a1-4868-9336-ece8b15bca44_79f1061e.jpg?itok=3T2253UF&v=1683534684",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-white-house-addresses-ais-risks-and-rewards-as-security-experts-voice-concerns-about-malicious-use.md",
-      "title": "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use",
-      "excerpt": "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/white-house-harness-ai/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/",
-      "publishedDateTime": "2023-05-09T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-cedars-sinai-establishes-center-for-ai-machine-learning.md",
-      "title": "Cedars-Sinai establishes center for AI, machine learning",
-      "excerpt": "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-chinese-firms-to-seek-ai-chips-alternatives.md",
-      "title": "Chinese firms to seek AI chips alternatives",
-      "excerpt": "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644",
-      "originalUrl": "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-critical-need-to-identify-ai-generated-content.md",
-      "title": "The Critical Need To Identify AI Generated Content",
-      "excerpt": "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64594cd3534232d7f02796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 836,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/",
-      "publishedDateTime": "2023-05-09T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade.md",
-      "title": "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade",
-      "excerpt": "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai",
-      "originalUrl": "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04mhwYeYHQqvpDeM7PqS7i0-1.fit_lim.size_1200x630.v1683633314.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
-      "title": "AI Wrote 95 Percent of This Murder Mystery",
-      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
-      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
-      "publishedDateTime": "2023-05-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-businesses-in-south-jersey-and-around-the-country-utilize-robots-ai-to-help-customers.md",
-      "title": "Businesses in South Jersey and around the country utilize robots, AI to help customers",
-      "excerpt": "Robots and AI technology assist us in our every day lives. How about Siri, Apple’s virtual assistant, and Alexa, Amazon’s cloud-based voice service? Or AI assistants at stores that help you shop?",
-      "sourceUrl": null,
-      "webUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "originalUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/04/28/PCHH/8457e6e3-ba72-4462-98e7-341ba35b7220-Robotsmashburger.jpg?auto=webp&crop=1511,850,x0,y403&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courier-Post",
-        "domain": "courierpostonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-lost-in-translation-europes-quest-to-speak-ai.md",
-      "title": "Lost in translation: Europe’s quest to speak AI",
-      "excerpt": "So-called AI language models like the American GTP-3 are systems that understand and generate text. The models have triggered a flurry of innovative tools, including multilingual search apps, robot-written news articles, automatic translation and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
-      "publishedDateTime": "2023-05-09T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

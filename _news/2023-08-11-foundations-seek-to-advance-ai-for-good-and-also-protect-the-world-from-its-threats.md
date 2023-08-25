@@ -5,8 +5,6 @@ excerpt: "Gebru launched the Distributed Artificial Intelligence Research Instit
 publishedDateTime: 2023-08-11T16:46:00Z
 originalUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
 webUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
-ampWebUrl: "https://www.wral.com/amp/20995889/"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "20qiImAfKgTIDfIxEYdqPxgumJaw0sgUOr9P/r+Y67fLIRMjB2koWojFzBHBodcu9o4fkRm7kBNhpZKvZHZNvmwgCd60nhqZFl6sfqj9n2XTvIBLQUAE+rOnXRqvaEVMOlc1SEltQflZAFRGQPnoy9Javl3PD/jjL4yzzvTcXldFIznaygjFza+iYgDrH2FdrpeqDXfmcUNJmoA4d1lPM0wG5zafHMjxTUkl8n9WwuBhRDv9YHk2FlAmqfeMLw9t3DRuhpEXNcKzUms+Oy2tvZ8IOyPh5jHPYW8zC/xVc6MrNfmk83aCiPDNc14rIV8TAvFhj3qv1hdoDIiGvEPbbKcWaGCzaGephKJNHy4eGBI=;qy9XX+MJy/pgcq3mnZKbOg=="
+secured: "guLDNcnJnfi7EUF4j4+JmQaii+aN8yXjv2sL+VK9NmBwDndCBzy9XyqAo19qkEUGp86C9+X6l9LhMIiWlaXBuPYMIDfXUMOUidohpxUPx2tpkX2JPvcs16Vr8sreyiAqv10B1AOBUyTwueHhmlv3KtkIi0qq1JQf+E1ZhWAqqgRmloio/LkE/3X4KkYxCU84Be/lxi3e0BfilmrQf7lTawIHw+XoktWsMwviq5Uy/fVMIoVK0yjDdTXNyW5mem/OALMkfgFyYtyEz/rnTDRbtpi+B+KyjF58aXDOV9h9OEmkVt2j/lqZ9E65eYdv4/K4N5m0UudBdAbhbKlLxT6nw7Ori3/JYfmPgyja8s8Bmmc=;5tufRqUZSR2f/iEJzaWiCw=="
 ---
 

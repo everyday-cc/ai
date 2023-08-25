@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-02-akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses.md",
+      "title": "Akkio raises $15M to advance no-code AI platform for businesses",
+      "excerpt": "Massachusetts-headquartered Akkio, a company offering a no-code platform to help businesses deploy artificial intelligence (AI) in minutes, today announced $15 million in a series A funding round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/661922/akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses/",
+      "originalUrl": "https://www.inferse.com/661922/akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1330.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
+      "title": "Machine learning, blockchain technology could help counter spread of fake news",
+      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-stegai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking.md",
       "title": "Steg.AI puts deep learning on the job in a clever evolution of watermarking",
       "excerpt": "Steg.AI lets creators embed a nearly invisible watermark using deep learning, defying the usual \"resize and resave\" countermeasures.",
@@ -1250,92 +1336,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
-      "title": "Future AI algorithms have potential to learn like humans, say researchers",
-      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/996196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential.md",
-      "title": "Liquid Networks: Unleashing AI Efficiency, Causality, And Adaptive Potential",
-      "excerpt": "To engage the community in the AI conversation, on June 27 2023, CSAIL co-hosted a symposium in collaboration with John Werner’s Imagination in Action on AI frontiers and Implic",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "originalUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "publishedDateTime": "2023-07-19T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

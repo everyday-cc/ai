@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
+      "title": "In The Game Of AI, Think Ladders, Not Snakes",
+      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "publishedDateTime": "2023-08-25T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-responsible-ai-transparency-what-to-disclose-about-your-ai-systems.md",
       "title": "Responsible AI Transparency: What To Disclose About Your AI Systems",
       "excerpt": "However, in the competitive landscape of the ongoing AI race, companies often hesitate to disclose extensive information to protect trade secrets and avoid legal repercussions. As such, striking a balance between transparency and safeguarding trade secrets poses a significant challenge for AI companies.",
@@ -86,58 +138,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-brain-implants-that-help-paralyzed-people-speak-just-broke-new-records.md",
-      "title": "Brain Implants That Help Paralyzed People Speak Just Broke New Records",
-      "excerpt": "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/",
-      "originalUrl": "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -359,7 +359,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -522,6 +522,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
+      "title": "Natural language processing to extract social risk factors influencing health",
+      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed excellent performance when ported to a new health system and ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/health.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
+      "publishedDateTime": "2023-08-21T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1380,49 +1423,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-a-roadmap-to-help-ai-technologies-speak-african-languages.md",
-      "title": "A roadmap to help AI technologies speak African languages",
-      "excerpt": "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "originalUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/african-language.jpg",
-          "width": 1920,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "publishedDateTime": "2023-08-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

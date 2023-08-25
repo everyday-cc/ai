@@ -7,7 +7,7 @@ originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/08/how
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/08/how-contractors-can-make-sure-they-say-what-they-mean-when-using-artificial-intelligence-to-write-proposals/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1841
     height: 1241
     isCached: true
+
+related:
+  - title: "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact"
+    excerpt: "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons."
+    publishedDateTime: 2023-08-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626161fe4b1eadb6e1e58f6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
+    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
+    publishedDateTime: 2023-08-22T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Yz4coPXfErD3aHIGfkRiVvgSAkZsvThb+HcNILJepZT4Eiibo+5kw8MHizqVxwtitCmWwrO6O0ed9NfG7keZTDcZg/2ThI/HnaTirheggmxb2bP86BPyEH9vD/zo/YoDZoP1Ohxe8OAEgCs8OmxHIHr5RJA6qkpNMyuyTDZWWy+lS+y1eeUFcRdlYYO1Rv8pAmn0j/M61gwnfhIW9H4bwAYXKaWD39tt1OVd86/CKHAgEcjo6nkokKEn8qfRWjYaBpFfhvvnUDPZtJ1nF7wtMBMPtxASA3hL7sKEV6CC1N7cABhT/ABe5IfhOeWSNrz7bN9NhgRjbLKrUSgXI8UX6J1iMsxYAO5n4vDnUFx4v+0=;oq79He6PLMV9UE4YPCr9qQ=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
-publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
-webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+publishedDateTime: 2023-08-22T13:16:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article278479764.html"
+webUrl: "https://www.miamiherald.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Microsoft AI
@@ -208,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "r6oWTG7ov/iAv+cB6U+Yi8SwSQ0hYgBEk9JQmpjb3zMfk0GM47DuqAAZ+keARZ5n7Ts8tWAprKdEms18etxyz4t+AWbeFv8Ny4S5ugkzeKcOt0qhjIXmo4WBqjPOSZ47qsjQAv4BWvnVrP3XsnRPwC35YZzmyEVq+BfFbzYoQeXBg6fvawp96XSIq/bFsiZ1QElDRxeJtAdBrQvgAPMZ9NTgg0Ncv4mFzDyS9ihD0BK9v38Zj2tgzOHTQaoaxRZPd7mljOMWRdxz7oafo1LltBUORNq7RTPpQcLZAYFud1w5aAwReaac5Xhu1hJ4MCy4XoutmN9dFwSSBHDCI+zsa/qJD6/UXaA4goj0aI1TnYQ=;pSSzWbx8KCZCjF2cFld/VQ=="
+secured: "N83IXbf5Eg0COpbS5NJzbTiXlSOntkfB9rD6g2Ht16/+Hi8sjre8wuc5q4QULQoplesG2wnkX/QhX4uK2sGROADZ6lDz97bMeH4E5zFymxzmWj9fa3/Rjjj0fGVTon65YcdjkD3xZfHqx5upbqZDlLpwsJBZSR+6LGOPSIp7Ma8AmGGsJKZZKJvthe49M1HTO/Tnv8TQSt9okd1gsICTVe5EM8Ej1PLJKRX+NTPSIgIRu0WMFyuA1vcKLxTX8ofvYBFMwVsXTkUluVzgBLHl8QPXjf/wisnQL0yTvstf1dzyFWWrvzcV8s25Z7zA8inPt8gvhYh170iy1lGvD2dbCLLWoOlE7nHaVO9iEf922o4=;gfSAbL4HH9qTSAjKmeHt1Q=="
 ---
 

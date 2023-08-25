@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "14 AI Jobs Of The Future – NOW"
-    excerpt: "Don’t look now, but the future is here, and with it come the jobs of the future. In fact, more of the future is already behind us – in terms of jobs – than we realize."
-    publishedDateTime: 2023-08-24T22:06:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643aedc551ee8eed2ea00895/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 708
-        isCached: true
   - title: "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact"
     excerpt: "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons."
     publishedDateTime: 2023-08-25T11:16:00Z
@@ -54,29 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How will leveraging AI change the future of legal services?"
-    excerpt: "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model."
-    publishedDateTime: 2023-08-23T13:06:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
+  - title: "How contractors can make sure they say what they mean when using artificial intelligence to write proposals"
+    excerpt: "It takes a lot of thought to buy artificial intelligence. Contractors trying to sell the stuff, need to put some careful thinking into their proposals and not rush through them."
+    publishedDateTime: 2023-08-24T15:31:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/08/how-contractors-can-make-sure-they-say-what-they-mean-when-using-artificial-intelligence-to-write-proposals/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 21
     images:
-      - url: "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982-e1683568374410.jpg"
+        width: 1841
+        height: 1241
         isCached: true
-  - title: "People Fear Losing Their Jobs to AI – but Still Use It Often"
-    excerpt: "This trend raises the question: Should your company create a workplace ethics policy surrounding AI use? According to Conner, the answer is yes. “As AI evolves, companies should establish ethics policies that guide employees’ use of AI,” Conner advised."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://www.businessnewsdaily.com/ai-job-loss"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 19
 
 secured: "0fjRAlGJNzuGG3NwDxPmelJwtnoFxrAqIrsiN5dTUwgHe6znGvZLEsDlr1BbpR2GHIZg1Ibw4LaVsPU9Vy01XM/rWnbq0arF9MFrRF2qCkP7MdQcUOEqgRFhXhLjzoAQjFbr18/YcV2jA36CH7wyItC0PmrHWIbup0Q1LpjRMvnGENX/DKFuqPpX/HSLFysrONc9Hn/zyWN9Rafw1Cd8T18lkDytAg/MT5qAqHrO/x1Wc0CsJ1JwkNgWqtzNIA4MXLjVJAwD3QEocY967jdlG1EBMe9ksSV4+4B4K9K2dmP8jN/XhyOeoDyWMVwuqs+olTILmf/6CmGLTaPodcayUOkODGQgm2P3cDEN9i7UffqVJSBN3jsitCQx+R2FdaG4Z1BvxJaDKrByC7jghAR3wsR2KXfUg2wV3Cs+ElMXTdAxjHCDPcoXjl5dG7Ia+PpYqqWdtjcpto93Mquqf4AyacLULm1Ulenpy1b+Elx1d5mu3vomJVyeo4gzXooLsltE8AMP9aTbsvbkyTW9AfcJgQ==;dd6tsQzhpEuJQBy76hijoQ=="
 ---

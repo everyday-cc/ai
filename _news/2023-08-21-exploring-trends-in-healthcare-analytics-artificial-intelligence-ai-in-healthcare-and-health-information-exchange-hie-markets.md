@@ -48,6 +48,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 45
+  - title: "BioSig AI Sciences Achieves Infrastructure and Technology progress in Development of Generative AI Platform for Hospitals"
+    excerpt: "About BAIS BAIS, a majority-owned subsidiary of BioSig, is developing AI solutions for the hospital marketplace utilizing structured, semi-structured, and unstructured data."
+    publishedDateTime: 2023-08-24T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/biosig-ai-sciences-achieves-infrastructure-and-technology-progress-in-development-of-generative-ai-platform-for-hospitals-1032580440"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "gyRPqep5txeIlslJSU2wO6z6voWCr70YB4tf0Q3ajfXQng2DYUFXvyJObd6o9Ey0i5WhD5cXkGpCOsoDtEMqGELUW5L8cFMk7se42tQwo8zYfgb86kU1zRHVwXl9v4C+Nlo75vIIqtCY2/wPjSrQrP0mdPsWmWDWCZmFA9PmZY6R6YKmGgkDd8mfM+m+XLLIFsoIeI/SkEuIl51YdVSt+MMtBOTwbaryLxkC+uBug8kmbIxmGagWdGHOZrLS4SqlN4RGTHFyEPY3BaAaHGafidfTzj/CVU1XWNXL3H7a2rL6zwOjH3D0/4eEA1QZQPk9xjccgJvD/BOGaRU7zAF3AU73Hkjl3QVuMwGddn1LMegc6CbJA7dsUoxHrslvNWuWwg77txKQnSy9Q/cuOt6MjmTj09/FYOX4fWm0ouD8F3xAOiOmI8m7uubtSpiT9lO1AQi60Q7DrqsrVNpvp8m/EG82sE/ykyFwrfjHcB4IDjaByn5sOtxq0d/2mntkWVHdazQ4GHUA5f4hYXSIs1f9JA==;hFQmsxmYbvQjFZunmyBNeA=="
 ---

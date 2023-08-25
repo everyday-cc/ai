@@ -35,7 +35,16 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Researchers Validate NLP Tool to Extract SDOH from Clinical Notes"
+    excerpt: "An NLP-based SDOH tool has displayed significant generalizability, portability, and accuracy across two organizationally and geographically distinct health systems."
+    publishedDateTime: 2023-08-25T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-validate-nlp-tool-to-extract-sdoh-from-clinical-notes"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
-secured: "MWker0r9jEZO991Xa6N9pd0sl6NvBvFbtEifCV1+znZmKExe30xYKEgZTkzXZFlGcvASN/moLpSOwOG5FmtO+VKkMJlW5RxdLlDoHtKOsJa7VM6MAtZSfwdLRWqPkUTbPVzvZgC6TQ9giNXvMBcw2pC0yUIABKRnXOF0k4uzQWgSDMMLjzRLX5iX+EB78YOp4L+u4cVbqO6PTZtrfnYyMGIByRacQLXJZ1OZaEmIKQn++LgqhmQbEgT1cEFxEfEc0IPUV56etiOhaYJ+rz6gryAfUY1wQMS1xMsmqJxEoHbTRfoupc14cjDVxngKmYBoeUPLe8iUq5HgRO0/YD9aiAbCJ7m/3aCTtONvKWi2qGw=;c1hw9FNh0bgIR9Yuf//Urg=="
+secured: "pSNXE7rjzN/gvzCDy+oItphpGDpUG1IOdqwR4L+sR7C6wu0l7EikeBkw62cPxitNdU4+vlt2UgmyynRoOcjVWJNjDufJXJUFsKMI71g3cHMs/IoRgzZF8eEzFZcXkviW75FgwpDeeS/MFhppu8fm5vzp47GzZdCQN52WGjYnIL2Xx8mudhs/RKSE5i2xioDjzaNfIn8wEK/T0meHEhGzBkdZmBPL8ksDdbC/AKw5Gd8hzpmOHewp9M3VwRcqlzpoQdJmTrDoInswu5tJBq+qtR/0TkXUmh6JToyAsGawSP6pbxrNj6UJIyyH0zwCtvQ57CitEHvKhr422ooX4HO6Xo0SI92DPJD5FbMefMn9Xiw=;Q+9iJ/dY66ewAhLOEBW1iw=="
 ---
 

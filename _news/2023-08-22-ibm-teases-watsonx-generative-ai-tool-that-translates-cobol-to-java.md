@@ -149,22 +149,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "Generative AI can help developers to more quickly assess, update, validate and test the right code, allowing them to more efficiently modernize large applications and focus on higher impact tasks. IBM is designing these capabilities to provide tooling for ..."
-    publishedDateTime: 2023-08-22T04:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
     excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
     publishedDateTime: 2023-08-22T04:01:00Z
@@ -230,6 +214,15 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
+    excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
+    publishedDateTime: 2023-08-22T04:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-22T18:42:00Z
@@ -249,6 +242,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "fsJLh1qDVgpEZWgax5m/x2+SlqM0cm38lGpNTlcdI+D9QIs1yC3oPSpSwsYc9b088i2kpTEeNJjITW9VBVLOnYBxUZhnQs9su2pAqa4q+AmzP8OUjdyOcyhhNjGovoI3JjlR/uSfR4adsiIuG2ONFVbQHViqsQAvvd/051jfFSFzwQDpUjBBrGUkydewV97Rxx7VhDmgtTjrNnGx7ZnW1mFC9DGVa9XDlwJauSgfrrpFDrYGMtDL85+eMITRrZgltTqwXC2V0Y4cXO4xOzDmO7xtUM1IyPKeRYcedL/JR65LAnzr5LQFxaqBqFfBn5+nhfD9aDdF9YIcC90vHe3BqtuWDpdT37jcuNrWFuohq9TB04Nsn1gQrOP4Ginjw1L/Jy1Fd34dYxqPmBfcx3gxAVrv+r0ff0KSNmpcrc3Cu74u1ScgjpqmRRDSX6Bufxo8bYWVw4InCQHnQ6ieP2PCyILMODZSP16v0aaDFMH5+fDcRfa/EKZgV8TDrxYQo86e8W13er7566VMexiFV3SZIQ==;Kh9osekC0mtdAX6cSy0mbQ=="
+secured: "Jkvs3673O87S326xZDJVUc6ZlfSUrtoxg9R7/O56d4zPe7eTxc+0XXx8P5be8UU8Q10SOzvVtBhvFkTqC19hVrdNwlXBYBgEDX1Pr0saxhM5yDWXSxg7Wwgq4BfbpMfTfE+hSkhvJ/4u/+aRJltHPVz+gtTUW+70Ydqt8nQsOG3zg1/fkR06jSllZ22XSiNrsdQRN3qRxn9D4MT2i+8nuc+MEyda983QJvqvjr62fv35oEOX3dvlnYVukWz5SxzLTzNaAGWl1UEcqr3+3liAqsTjwQd/iTczI/mumspF9nQqsEF6kqfc8ptL2z5Gi6a77KVE3IKIUbM2r1Nizbu/Q7F4FaBhPOD5GcUSVaRIbGk=;QwjkZ2TtsTlZ/55kb4EarQ=="
 ---
 

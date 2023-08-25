@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-ye
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence gave a paralyzed woman her voice back"
-    excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
-    publishedDateTime: 2023-08-23T23:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230823122530.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "AI helped a stroke patient speak for the first time in 18 years"
-    excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
-    publishedDateTime: 2023-08-23T22:54:00Z
-    webUrl: "https://bgr.com/science/ai-helped-a-stroke-patient-speak-for-the-first-time-in-18-years/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/11/neuralink-brain-implant.jpg?quality=82&strip=all"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Artificial Intelligence Gives Paralyzed Woman Her Voice Back"
     excerpt: "A brain-computer interface translates neural signals of a woman who is unable to speak, not only into text on a screen but into audible speech using a digital avatar."
     publishedDateTime: 2023-08-23T22:32:00Z
@@ -64,6 +41,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Paralyzed Woman ‘Speaks’ with Brain Signals Turned into Talking Avatar in World First"
+    excerpt: "The tech can decode the signals at a rate of 80 words a minute, while an audio recording of her voice from her wedding day gives them life."
+    publishedDateTime: 2023-08-25T11:00:00Z
+    webUrl: "https://www.goodnewsnetwork.org/paralyzed-woman-speaks-with-brain-signals-turned-into-talking-avatar-in-world-first/"
+    type: article
+    provider:
+      name: GoodNewsNetwork
+      domain: goodnewsnetwork.org
+    quality: 12
 
 secured: "B8NwEKJlUNf6I9kS+tJX8IpWBPcdjlY5g5UdtIicJkXfNrWQ0XyHL27LPbj/CZB/L2Y0KATWogP7CSIbc2EqTPteUc75xmA2xXnhjDktgfkZcEPqelJNWgYI+jYpARBbcfaGazQF4J4TQiHgkrp6Owo7f9wVUI41oRa8RqZ4BiSapMbgU3tlXmg80pOJW8yqLEL/g4Uz80Tj7I9ZmW+mRdZgZ69kPVPzXCMT7JP/AP1TKYhrfHp6p2V7lEgqyM9v/27hN3389aWvcMieddHV4Xqm1GJ1CxH+BPVN+01ZoEzPWyLcFtLRAPc7w6kZq3BZmXQfttzUdNTEj0kkJ4Mpi1UKZjGcpFY32jTMuet7M3A=;Cs6ddLGCP1nGHErAKYMmag=="
 ---

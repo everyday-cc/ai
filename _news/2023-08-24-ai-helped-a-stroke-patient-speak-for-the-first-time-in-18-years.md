@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough AI implants let paralyzed woman ‘talk’ for first time in years"
-    excerpt: "A digital avatar is able to speak what she is thinking, using a copy of her voice recorded during a toast she gave at her own wedding."
-    publishedDateTime: 2023-08-23T21:34:00Z
-    webUrl: "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/"
-    ampWebUrl: "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/"
+  - title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
+    excerpt: "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words."
+    publishedDateTime: 2023-08-25T13:52:00Z
+    webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
+    ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026650278.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 524
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Brain Implants That Help Paralyzed People Speak Just Broke New Records"
+    excerpt: "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately."
+    publishedDateTime: 2023-08-24T11:00:00Z
+    webUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "How artificial intelligence gave a paralyzed woman her voice back"
     excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
@@ -49,19 +63,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Artificial Intelligence Gives Paralyzed Woman Her Voice Back"
-    excerpt: "A brain-computer interface translates neural signals of a woman who is unable to speak, not only into text on a screen but into audible speech using a digital avatar."
-    publishedDateTime: 2023-08-23T22:32:00Z
-    webUrl: "https://www.medscape.com/viewarticle/artificial-intelligencegives-paralyzed-womanher-voice-back-2023a1000joi"
+  - title: "Brain implants and AI help voiceless patients to speak up"
+    excerpt: "An AI-based brain-computer interface system that enabled a woman with severe paralysis to speak through a digital avatar."
+    publishedDateTime: 2023-08-23T14:59:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-implants-and-ai-help-voiceless-patients-to-speak-up"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/ht_230823_neuroprostheses_chang_800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/23/image/jpeg/yd1LkB2JVKvi2XUOZBPNfyPqw0sLHcUXtpHBdz24.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "/ovubLG4+51Jdg96Zh9e1AsUcjxiq8Co2d2CK28Y/IBYpQVV+8c1qOIo7rFQdhoGET4pqAk7Mf0fJ/v4papty3KFEEo1ovRxQizuqv2uBPQeTV0JWLVKkyiMedVFDFi+hgZ341go6z5/TxzBe1P+wXo2nd8j66xvSoKL6mq9Pq/CE1YOQuzaEoGyj9YYU+bbXbKoELYeywM37jArwDwucvJ+hdRwsmf5lwqOY54mV9XLhkiSc5WNAeXtN4Q0LBEdzS6rpCxzWME8Afgxrj0jHnRQurumDAoqAS3FNV4nRZ6HfG+AS4/8bQT/27rVMLDi62VWzBZvqdmVIxYJZJiSAZaH09kdD73ALopnifhSZQ03Wd/Ae7KeqgSDw/j85lGSgv3paNQb/RM1moIFAOm3aKeqPlH2jEY9o/N1egcK6aFw1rPkQ+HzcaWm6iwu/zyqQ9Bp8y5747+9YQXrNPQCkP9ZdL8ps5a/q+5oaYtKHOtRe5CFGDVnNe0tMGFqtAOfJ93ZgRw7V/uS1gVO0/MP5Q==;ItkwlzMmfYWrGQoMPrI/Pw=="

@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "The Download: internet scams, and the ethics of brain implants"
+    excerpt: "Both of the women can communicate without an implant. The first, Pat Bennett, who has ALS, also known as Lou Gehrig’s disease, uses a computer to type. The second, Ann Johnson, who lost her voice as the result of a brain-stem stroke that left her paralyzed, uses an eye-tracking device to select letters on a computer screen."
+    publishedDateTime: 2023-08-25T12:30:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/25/1078417/the-download-internet-scams-and-the-ethics-of-brain-implants/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 34
   - title: "The Download: introducing the Ethics issue"
     excerpt: "Introducing: the Ethics issue . As technology is embedded deeper and further into our lives, it’s becoming increasingly important for us to properly grapple with ethical concern"
     publishedDateTime: 2023-08-23T12:10:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-peo
 webUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -29,6 +29,31 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
+    excerpt: "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words."
+    publishedDateTime: 2023-08-25T13:52:00Z
+    webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
+    ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
+    publishedDateTime: 2023-08-23T23:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230823122530.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Brain implants and AI help voiceless patients to speak up"
     excerpt: "An AI-based brain-computer interface system that enabled a woman with severe paralysis to speak through a digital avatar."
     publishedDateTime: 2023-08-23T14:59:00Z
@@ -42,6 +67,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/23/image/jpeg/yd1LkB2JVKvi2XUOZBPNfyPqw0sLHcUXtpHBdz24.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI helped a stroke patient speak for the first time in 18 years"
+    excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
+    publishedDateTime: 2023-08-23T22:54:00Z
+    webUrl: "https://bgr.com/science/ai-helped-a-stroke-patient-speak-for-the-first-time-in-18-years/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/11/neuralink-brain-implant.jpg?quality=82&strip=all"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "CCVWbswGaLvNO06j7pCEvG8NpXTS9BR3/LSuEWQ1VS2pXor2BceZxVzhHqzVNnWp2rZ3L6cSTFr3GrmW/pcIRRZycNlfvn7tbTmvyAUovBOPqcpXYWFqSg8hk4v/SWg1gCqXVPYULzlBzxQbt13WAVgF9iai5CfoIYwna9n6JuNo60G62p5n7UDoUyxlPPy0Fmfq1jwzKYxSt7/no9QlDyG3gI1jIFDExk0qPw+SGM1GIlg3Tn+QkDht6nEpuxZuqXTGgz9qL+krwv8wfDomo7aPy2KTDE7yD3PPdGkyS6skAcSXSQENDq0yae2C0P3GoRsOSTVnqFkOnW1vgtGM30dvrrYznWt/VtwqgA9dsoIwW6851J91fIVoYXStGh+O0gXsb11JmU8qdofXDkNZzRLD7fpWP6vZn07r9ZDyEDdUKf/jy8VqEzFaqihhs3e4FItWZJJhkyrW01LFHqcKcg+sTZsLg8bMZ/epOB/BmmU+HQp3KCnpN0xjOKNUfrDrbFm/SzFojWjcOgkl35wmiQ==;FAwqyqHghOyvUj4ouWOIzw=="

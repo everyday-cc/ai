@@ -100,19 +100,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
-    publishedDateTime: 2023-08-24T18:46:00Z
-    webUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
+  - title: "Are Self-driving Cars Kosher? San Francisco Rabbis Weigh in as Robotaxis Flood the City’s Streets"
+    excerpt: "Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring sensors and their odd, almost tentative movements, have become a familiar sight on the streets of San Francisco."
+    publishedDateTime: 2023-08-25T15:45:00Z
+    webUrl: "https://www.jewishexponent.com/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
     type: article
     provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
+      name: The Jewish Exponent
+      domain: jewishexponent.com
     quality: 11
     images:
-      - url: "https://www.jta.org/wp-content/uploads/2023/08/GettyImages-1556779082-1024x569.jpg"
-        width: 1024
-        height: 569
+      - url: "http://www.jewishexponent.com/wp-content/uploads/2023/08/cropped-Exponent-insignia_SM-300x300-2.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "IBM agrees to sell The Weather Company assets"
     excerpt: "International Business Machines Corp. announced today it agreed to the sale of its weather business, The Weather Company, including The Weather Channel mobile, Weather.com, Weather Underground and Storm Radar, to Francisco Partners for an undisclosed sum."

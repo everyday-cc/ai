@@ -697,20 +697,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/20995889/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-11T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {

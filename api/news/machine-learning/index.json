@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
+      "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
+      "excerpt": "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/",
+      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "publishedDateTime": "2023-08-25T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-geospatial-ai-machine-learning-models-to-be-used-for-monitoring-air-quality-in-indian-cities.md",
       "title": "Geospatial AI, machine learning models to be used for monitoring air quality in Indian cities",
       "excerpt": "Geospatial artificial intelligence and machine learning based models will soon be used to monitor air quality in key Indian cities including Delhi, Mumbai, Bengaluru, Chennai, and Kolkata, a senior scientist said on Thursday.",
@@ -382,6 +434,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector.md",
+      "title": "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector",
+      "excerpt": "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg",
+          "width": 1654,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
+      "publishedDateTime": "2023-08-21T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1287,92 +1382,6 @@
         "name": "Hindustan Times Tech",
         "domain": "hindustantimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-alibaba-cloud-named-a-challenger-in-gartner-magic-quadranttm-for-cloud-ai-developer-services-for-second-consecutive-year.md",
-      "title": "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year",
-      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
-      "originalUrl": "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-meet-rebecca-gorman-whose-company-aligned-ai-is-trying-to-match-up-human-values-with-machine-learning.md",
-      "title": "Meet Rebecca Gorman, whose company, Aligned AI, is trying to match up human values with machine learning",
-      "excerpt": "Even the best artificial intelligence systems don’t always reflect what humans actually want—or need. Rebecca Gorman has made it her mission to better align these two things or rather, to better align A.I. with what humans are actually asking it to do ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "originalUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/07/Fortune-Founders-2023-Rebecca-Gorman.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "publishedDateTime": "2023-08-10T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,479 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-service-robotics-europe.md",
+      "title": "AI Service Robotics - Europe",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$1.68bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.59%, resulting in a market volume of US$4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-natural-language-processing-europe.md",
+      "title": "Natural Language Processing - Europe",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$6.47bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.20%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-talk-therapy-ai-may-detect-earliest-symptoms-of-dementia-by-analyzing-speech-patterns.md",
+      "title": "Talk therapy? AI may detect 'earliest symptoms' of dementia by analyzing speech patterns",
+      "excerpt": "A new artificial intelligence-powered tool aims to detect signs of dementia, Alzheimer’s and other memory disorders by analyzing a person’s speech and language patterns. The system is called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
+      "originalUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f7d19d2-84e2-4ce5-8b14-e3ff4384bcdb/f80f178f-5747-4866-a98f-6f95981ca5f8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
+      "publishedDateTime": "2023-06-29T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-artificial-intelligence-wont-replace-financial-advisors.md",
+      "title": "Artificial Intelligence Won’t Replace Financial Advisors",
+      "excerpt": "The new technology nobody can stop talking about is artificial intelligence ... Despite the rise of self-driving cars, many surveys indicate most people are hesitant to ride in them for safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
+      "originalUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/wqG9jcEvHPpGO8KvKtciCK3o6V8=/1200x675/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/M4RSOB6BXFEM3OV7WN3G4NJ4TQ.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-contoro-robotics-brings-in-47m.md",
+      "title": "Contoro Robotics brings in $4.7M",
+      "excerpt": "This round follows a round from 2022 that totaled $1.3 million, and brings the Contoro Robotics' total funding to date to $6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "originalUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/contoro-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-aigen-unveils-the-worlds-first-ai-driven-solar-powered-agricultural-robotics-service.md",
+      "title": "Aigen Unveils the World's First AI-Driven, Solar-Powered, Agricultural Robotics Service",
+      "excerpt": "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health SEATTLE, June 30, 2023 /PRNewswire/ -- Aigen, a Seattle -based agricultural technology startup,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/30/9842539.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/30/9842539.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2145637/Aigen_Founders_PhotoCredit_Bohler.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
+      "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
+      "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "originalUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/394e3d1a-2c3c-4952-bd34-87dddb705f01/0e3d4baf-6b00-410b-9f36-9e2d4d32a45e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "publishedDateTime": "2023-06-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result.md",
+      "title": "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result",
+      "excerpt": "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
+      "originalUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
+      "cdnAmpWebUrl": "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
+      "publishedDateTime": "2023-06-29T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adelaide Now",
+        "domain": "adelaidenow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-googles-deepmind-unveils-its-powerful-new-ai-gemini.md",
+      "title": "Google’s DeepMind Unveils Its Powerful New AI, Gemini",
+      "excerpt": "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
+      "originalUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 2263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
+      "publishedDateTime": "2023-06-29T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
+      "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
+      "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-809755?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
       "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
       "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
@@ -634,523 +1107,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview.md",
-      "title": "Windows 11’s Copilot brings AI chat to desktops in first public preview",
-      "excerpt": "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
-      "publishedDateTime": "2023-06-29T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-africa.md",
-      "title": "AI Service Robotics - Africa",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$153.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.41%, resulting in a market volume of US$417 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize.md",
-      "title": "Recommend and dynamically filter items based on user context in Amazon Personalize",
-      "excerpt": "Organizations are continuously investing time and effort in developing intelligent recommendation solutions to serve customized and relevant content to their users. The goals can be many: transform the user experience, generate meaningful interaction, and drive content consumption. Some of these solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/recommend-dynamic-filter-personalize.jpg",
-          "width": 1020,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:41:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-a-game-changer-for-cloud-security.md",
-      "title": "How Generative AI is a Game Changer for Cloud Security",
-      "excerpt": "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
-      "originalUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-moodys-and-microsoft-develop-enhanced-risk-data-analytics-research-and-collaboration-solutions-powered-by-generative-ai.md",
-      "title": "Moody’s and Microsoft Develop Enhanced Risk, Data, Analytics, Research and Collaboration Solutions Powered by Generative AI",
-      "excerpt": "Moody’s Corporation (NYSE:MCO) and Microsoft (NASDAQ: MSFT) today announced a new strategic partnership to deliver next-generation data, analytics, re",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-baidu-and-ai-history-investments-and-regulation.md",
-      "title": "Baidu And AI: History, Investments, And Regulation",
-      "excerpt": "Reflect the core values of socialism, and must not contain subversion of state power, overthrow of the socialist system, incitement to split the country. Beat Billions offers a wide range of tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4614467-baidu-and-ai-history-investments-and-regulation",
-      "originalUrl": "https://seekingalpha.com/article/4614467-baidu-and-ai-history-investments-and-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1209678135/image_1209678135.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
-      "title": "Amazon's rapid-fire AI testing ground",
-      "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738057/featured-daily-upside-image.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-helmai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023.md",
-      "title": "Helm.ai Named in CB Insights AI 100 Most Promising Artificial Intelligence Startup of 2023",
-      "excerpt": "Helm.ai, a provider of next-generation AI software for autonomous driving and automation of robotics, today announced it has been named among CB Insights' AI 100 for 2023, an annual list of the year's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33062445",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33062445",
-      "publishedDateTime": "2023-06-29T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-industrial-robotics-morocco.md",
-      "title": "AI Industrial Robotics - Morocco",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$19.74m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.65%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules.md",
-      "title": "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules",
-      "excerpt": "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/",
-      "publishedDateTime": "2023-06-29T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
-      "title": "Human oversight key to keeping AI honest",
-      "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
-      "originalUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/886690d287851265d12fcec69f9b91c30dd772e3/2023/06/29/9b1b0738-2410-4ffd-9bc6-972a839ff522/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
-      "publishedDateTime": "2023-06-29T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

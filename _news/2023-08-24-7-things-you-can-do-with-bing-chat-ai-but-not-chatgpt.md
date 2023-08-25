@@ -78,6 +78,15 @@ related:
         width: 1500
         height: 841
         isCached: true
+  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
+    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
+    publishedDateTime: 2023-08-25T11:31:00Z
+    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 18
   - title: "Exploring OpenAI’s ChatGPT Code Interpreter: A Deep Dive into its Capabilities"
     excerpt: "OpenAI advancements in Natural Language Processing (NLP) are marked by the rise of Large Language Models (LLMs), which underpin products utilized by millions, including the coding assistant GitHub Copilot and the Bing search engine."
     publishedDateTime: 2023-08-21T17:54:00Z

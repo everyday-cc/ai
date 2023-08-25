@@ -778,6 +778,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Nvidia Effect Wanes, Hiking Hike Odds, Indexes Hit Resistance, AI Washout"
+    excerpt: "Plus, Boeing stubs its quality-control toe again and a lament about why the Treasury borrows so much money short term."
+    publishedDateTime: 2023-08-25T11:59:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/nvidia-effect-wanes-hiking-rate-hike-odds-hitting-resistance-ai-washout-16131812"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 16
   - title: "VMware, Nvidia Reveal Private AI Foundation To Help Enterprises Run Gen AI Apps"
     excerpt: "VMware and Nvidia executives explain how Private AI Foundation will help enterprises build custom generative AI applications on top of VMware's cloud infrastructure."
     publishedDateTime: 2023-08-22T18:00:00Z

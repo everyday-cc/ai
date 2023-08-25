@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
-publishedDateTime: 2023-08-09T16:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
-webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI"
+publishedDateTime: 2023-08-09T15:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "d35/exFWT2X0kEUv5AegGSqymveWS00ygvFJxUz5BHIxrbHxcE5ayuRzCpzB1UUvOgFGaDS4oySMnc9WghY1RdR+MiEbwr2n+hpuCMadXI4aH+hzpfTc44Nzao84Ejeci1ZJS3gdbmdBw8EJpBl5CeN9KMzxdUkGNNqC6A8SXf5IuLONviHPSSuc/AW4STXjD5mJmbBRMfFuHsOyBU453Fy83OMz4G9MNhye8vsENhaFGSzE2eWol9Ov77olYYTrx++BHtCmAZC7Ea3RFbPYb4F9Ke4YjO7jTb2KOADbN+R/SQS74oZjZVkjEG2A7QUFYATFIMo2EsWFgxWGYscA41xetDf/cLkKlRrd411Bu1eVqoQAQ5y97ugmHs5xo/uPiUtaBv3V5tK8Ar5gqx7azzCBrix6Q8B9BrOBi9Tw8DHX/Uzq1YlrLtdiGMpGm82/BNsh2yE1OjtvPQguvi26XSX1PfWS1Mjwlq4nHluCIV42MElLVZ9ovo8p5TI8XEugxYnKDBkUWLSjnKnrui0hFg==;BFu6kkfwJ+poJtUn4cq6Zg=="
+secured: "x3FCOnowRsx/9vg7OvF4koupiEMCdfjQc7MyDMw1kHlfJnfXOCBtOvI6TB2fAAMYkcBewlyXnsJxGo25M0wINCv0ohHKrKHyOj2Rzl83X/8e0Z1+zkdMHZjE2PyMbQWAFYYe8vQCPtxQPivip27EZdhcmUOG+Jd2NeCHvi/ypS50ZCo0lK6lpYQu4yLns2T5KKRY9GFtNfkOio0yljpSxa+t/7WY0WUZ1MRjR9iXrG7gSsPeLGZNI8WiLThhA7Lp8xTcSDc6/fK9Wk/LQ2Yx4CIjjfYRAmEw4FOM60QRsU60spHqjpq8rIveitGMPYC7aweTlzI9uX1vSkVIsRVkMSGEKT6JX4PSEEqpcSvTL7RHr8TaIENGkBm1+9Tn3Nmy6Fia9g41HnE74XZkLVQpTde+UOwruHhGaS6LdIdhha5U/b0zFkGNuPlyK8WALlJjcBJtQqLIg+N9N8stfinYccSuJy47WNJqXPjiP6QrQhDBpghXZWS1efDHperYeMG2w1gCRuAek5VzQ/waqSlPVw==;zv3vfg0aawxiuXfF6HkV+g=="
 ---
 

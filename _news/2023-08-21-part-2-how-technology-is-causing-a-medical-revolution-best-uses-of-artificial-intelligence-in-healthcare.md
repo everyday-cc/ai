@@ -21,6 +21,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector"
+    excerpt: "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning."
+    publishedDateTime: 2023-08-21T10:29:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 60
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg"
+        width: 1654
+        height: 900
+        isCached: true
   - title: "Part 1: How Technology Is Causing A Medical Revolution – Best Uses Of Artificial Intelligence In Healthcare"
     excerpt: "Here is how companies are harnessing the power of AI to make innovative improvements in the healthcare sector."
     publishedDateTime: 2023-08-21T09:12:00Z

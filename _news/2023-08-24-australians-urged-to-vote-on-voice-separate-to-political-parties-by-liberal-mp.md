@@ -19,22 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Australian Electoral Commission launches multi-platform advertising blitz to aptly educate public ahead of Voice referendum"
-    excerpt: "The Australian Electoral Commission has launched a multi-platform advertising campaign for better voter education in the lead up to the Voice to Parliament referendum this year."
-    publishedDateTime: 2023-08-21T00:07:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/australian-electoral-commission-launches-multiplatform-advertising-blitz-to-aptly-educate-public-ahead-of-voice-referendum/news-story/a79c27b46018c7232e10d7d59eee8b18?amp"
+  - title: "How an Aboriginal ‘Voice to Parliament’ Could Be Australia’s Brexit Moment"
+    excerpt: "Longtime racial tensions are hindering a push to add an advisory body for Indigenous people’s issues to the Constitution, an Aboriginal activist says."
+    publishedDateTime: 2023-08-25T12:31:00Z
+    webUrl: "https://www.nytimes.com/2023/08/25/world/australia/how-an-aboriginal-voice-to-parliament-could-be-australias-brexit-moment.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 32
+  - title: "Indigenous Voice to Parliament: Vote date to be set within a fortnight"
+    excerpt: "Prime Minister Anthony Albanese is expected to reveal the date of the Voice referendum within a fortnight, before the next parliamentary sitting."
+    publishedDateTime: 2023-08-21T12:00:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-vote-date-to-be-set-within-a-fortnight-c-11657204"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 4
+  - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
+    excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
+    publishedDateTime: 2023-08-22T10:49:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-tipped-to-announce-voice-to-parliament-referendum-date-in-south-australia-next-week/news-story/46f99c4152790b4878a10105b4d6cb97"
     type: article
     provider:
       name: Sky News Australia
       domain: skynews.com.au
-    quality: 18
-    images:
-      - url: "https://content.api.news/v3/images/bin/ba5364f350c5bc25d6e5d0ed4c5e1778"
-        width: 650
-        height: 366
-        isCached: true
+    quality: 0
 
 secured: "iss/1neboaXMnzTav6rm4DQOdOLJglFgLeoBicHhJ+dXBNalFcqJQk5vnk1OITY6vvJRN979cw9jp0rCCpp7ycbls5pZGnknp8WlcQd/xBNb0+3JTI/qmkEJZAflCnIxBS9SNSgQXROZH49W0tAuVNiNLm8wVkx2XPMRtry1D35qh/XD0nbrxPOzOW7GL845QtpXu32pxCQg5ykn820p1oF+5V165EBcImxdWmaCe6TeAFTpdKTKMwGok3iZ56c+JRql2O0fjgb72A/0ilNbUBGQPROWXM1bKRw3bSZGA3xbP68qTKwvBUGaYQpxUeSZ2YjPIRvDWZtcGq2zdkAbu09QqGFHSzaFYWFNv9m23MRG9xQuFFeny87Vv/WRQn2n9XDtVvLdVWaH3FQ+F9wGredUFdxFyLV67RmVf0RRXcROaEmJrfBET8OYbc5dHdbAgVM2SR/p3Gda9mtwlBjkzMMmTcGdekaWBUaov7No70sJgPnhqfBPKEAqB2UOsNapcM2c0SgCRuzl9eRWOIUp6g==;eHSo56amU9T5L/D6rHjHoQ=="
 ---

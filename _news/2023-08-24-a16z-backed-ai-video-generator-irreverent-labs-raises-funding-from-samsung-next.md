@@ -37,6 +37,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Samsung invests in AI startup Irreverent Labs"
+    excerpt: "Samsung is investing an undisclosed amount in Seattle-based American AI startup Irreverent Labs. The South Korean tech giant is said to be particularly"
+    publishedDateTime: 2023-08-25T14:10:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/110559/samsung-invests-in-ai-startup-irreverent-labs/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/12/samsung.jpg"
+        width: 2500
+        height: 1403
+        isCached: true
   - title: "Samsung invests in AI video generation startup Irreverent Labs"
     excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
     publishedDateTime: 2023-08-24T17:48:00Z

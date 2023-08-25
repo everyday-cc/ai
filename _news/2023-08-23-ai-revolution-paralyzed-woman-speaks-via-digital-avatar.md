@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI's multi-view wave is coming, and it will be powerful"
+    excerpt: "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\"."
+    publishedDateTime: 2023-08-25T14:39:00Z
+    webUrl: "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dear Superintendents, Get Ready For the AI Guidance Revolution"
     excerpt: "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance."
     publishedDateTime: 2023-08-23T16:13:00Z

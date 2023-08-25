@@ -1,14 +1,12 @@
 ---
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-excerpt: "Generative AI can help developers to more quickly assess, update, validate and test the right code, allowing them to more efficiently modernize large applications and focus on higher impact tasks. IBM is designing these capabilities to provide tooling for ..."
+excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
 publishedDateTime: 2023-08-22T04:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
 type: article
-quality: 61
+quality: 21
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "IBM Watsonx to use generative AI to translate COBOL code into Java"
@@ -249,6 +241,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "mEei3SMKd3ANCtIeOfp3+dOtVjBor90ltgkKmcxOAdvbhmleg/6xcIR3Fbf2FFISbQ95m8f92d8OkcSQy6ONS5uyMkj2+9TLsOIsdqKUK9/EsWXYefvfPjXtBSZHqB2wNop5ccpSxNjChsNWdcU59ZEl/3/emPDQm6iJ4he6ffDz/XM2fkn+Jn5SKojCrBptDY730s5jyNC0vvfkbYbx27e28hHxvvyjHH/1YXMqwsUpM5k5paeK/ogmrITedsSELvczyFFod6kQnPMZNhsa/Oz0Wmp6QdJLps0p8n9fwPbyjxiZ6V/kU491okAXSsiw1EaPc+MVVl+nvAC8cV5iRBQAByPrOMIs/oGTE4EablI=;TYmotPMlqyvhjXYmkRwzTQ=="
+secured: "8rbNc6LgN4ZzUu6bqeenmcQS5XCya2ETawWnu/Luq+5Xd58jg9ePJn9m29aJPuS7ESdc9BjOe6BPdTJEAulsz8bTkAwtRzhoiwyo3IsyezFXszk6tvwgNtPoKhGq2XaCV4gi3GWigG6V9nWTFq/JAbr8APsHYyjJcxR08eH7fnjZV/zT8Wm8PzjDes3QljShvZqqN07ilBHLSMQaujSjxcptqEYXHK/SqONAx71SuN/aO766AAFK92zGKp+ojpgcD4xLFaf+182TyqsVLdvWTqiQwuHZlh1pND6RgVc2nQgLBs9eW11a7GKm371RFAPwLNgKW1nTkkFW7UcOAxfxKyMz6IDxRMjSHKd1BJJKiOs=;VVswAKW8fYQqeJfnSoq5jQ=="
 ---
 

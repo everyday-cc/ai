@@ -80,6 +80,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
+    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
+    publishedDateTime: 2023-08-25T14:15:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 18
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "GInbQwa88M8OJtLGPLqKgSjIx6h0nVYFuqbCiYmBpRjZb1KrJ/EIMo3KPiiygJiXxWBcZ+d/HIgjHmXUcSG11aNB1eiFoy+8yxdNFyCjAmMpGGCp4xe5qMkTuuruQtGy53RXQjjpK88X6HVMRUo72IWV+OkgkOEpt5M7f9Mg0W8Wdfj/sttY9O71oKIMudQs1bQX/DiOVMW6QZh+4BslSchk1P1nNz+FUhW2yqMnM65zXUBPZsyHWfnTNg0hks3avLWEOjW+GpgZHmyFtkK5+IL8LHFp5JqwomYegReMHe+scyN6DUIq33wXI5OZVJSt3PYwu2QEz2U1IQ2wPDsHmzPXL19lX5MYXBEMgNT2aR0=;swbCfaBrImcPBYFpyolZXQ=="
 ---
