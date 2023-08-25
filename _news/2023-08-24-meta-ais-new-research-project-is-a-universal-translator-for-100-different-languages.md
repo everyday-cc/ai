@@ -308,7 +308,7 @@ related:
     provider:
       name: Mothership.sg
       domain: mothership.sg
-    quality: 42
+    quality: 44
     images:
       - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
         width: 1000

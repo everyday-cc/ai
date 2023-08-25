@@ -9,8 +9,8 @@ ampWebUrl: "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-ent
 cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: phillyvoice.com
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Concerns about the Phillies’ new facial recognition gate? Experts say it’s too soon to tell"
+    excerpt: "The tech rolled out this week at Citizens Bank Park. It reportedly doesn’t store face images, but instead uses numeric tokens."
+    publishedDateTime: 2023-08-25T10:43:00Z
+    webUrl: "https://billypenn.com/2023/08/25/concerns-about-the-phillies-new-facial-recognition-gate-experts-say-its-too-soon-to-tell/"
+    type: article
+    provider:
+      name: Billy Penn
+      domain: billypenn.com
+    quality: 29
+    images:
+      - url: "https://billypenn.com/wp-content/uploads/2020/07/citizensbankpark-markhenninger-01.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "2pCGRLLd1Gz77VCEbd/GZcgAJt+Obm0WOEQy8+vpIUvqLNJCAXohbiLmYkig5sGQaU59niWVmBukf9FK2nZ5YSXJg0kDVeDPvEbAgKBa+884CgHogFpZetCeAbUwvndmozPTUPeHLQ0hGmde5OgzgpcEQfZn0npZBvzaqIZ9lCpkbmJgnX6eGVxB868FmjTgXGm7N3GM+dABgSWynnCVE4KlKJF3GBbKIFl3JP4F4JvHrpUI9x6BrlZRn7tIKZHZgSmEsqrUqfnv3G4YSOD84wsMRkj7OCja3bmWxQePUMHpbohEt2JapHP4ZHbaQH/e7vImkPDKA/+ALrlvk7aTFaZBJdSyNU3e7ZCcSNjN4d9n9tGEML0y/pvSEXbFPtJJDoR8xKnHqV5hQvsJ1ThBmssP2Dov+0wMtwnPtGv8GERFYxh275ocgDktQH7l3WnLNrbSZa3IkWTmWB9NulyaEa5BQT57JW+eI2Be0hHrkeMHJxTcIKnZCH+a6m6EAUonBC6dizu/9330bgtqLQxI8Q==;e5BOFRe3o+sjpmfdFjdvrA=="

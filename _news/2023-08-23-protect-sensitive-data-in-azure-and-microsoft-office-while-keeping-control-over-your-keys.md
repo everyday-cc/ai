@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-micro
 webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft unveils blueprint for India on AI governance"
+    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
+    publishedDateTime: 2023-08-25T11:22:00Z
+    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 74
+    images:
+      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
+        width: 670
+        height: 476
+        isCached: true
   - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
     excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
     publishedDateTime: 2023-08-24T09:06:00Z

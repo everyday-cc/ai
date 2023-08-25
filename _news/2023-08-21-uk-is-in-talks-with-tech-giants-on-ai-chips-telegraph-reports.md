@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230821VL205/uk-ai-chips-server-i
 webUrl: "https://www.digitimes.com/news/a20230821VL205/uk-ai-chips-server-ipc-cloud-computing-iot.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "UK moves on AI plan with chip giant talks"
-    excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
-    publishedDateTime: 2023-08-21T10:34:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "UK in talks with AI chip giants"
-    excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
-    publishedDateTime: 2023-08-21T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20230821/ai-ml/uk-in-talks-with-ai-chip-giants"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 34
 
 secured: "Zgq9CX62wKMilGJy5fHXWrV7QF68fv1eiOv6pdpGvyaYvxBCOBekFlaOTekxGTf4deSLTkQFb9lmPyaPRTq+tT7/ACjByTTpGnv7RaATD/g3Ke7Wn1kyXwyVFWDbl6lsatOwWXHHDER2IXVcDevBZOHh/fr3UDpgc7WpyrdRIQPNCeYW9xwOSsGRJRRY72Z4PKPbSU91N/N0wUHNrDLQqn419O+AXKCVC9XJJR+O9G59fFu8RqHOhK7eKcrQu7M+Kf5Nhlqmm4tWbJClueEaQU2xZ3D/v414G1yzi8Je2e1daY5EA0r1VpzwugATCP/F+BhlMWPu1nsdlGDbw0I1hWvYDgkCmoMw4mjhv55LKdO1FOCGlvUfBX8ag9A+4KYhx635PJmzjpHEx5dMBfZAnuz6rjHJ6gv/koB0dCAd3p4USjVOPvVov5wflbvTJI2qoRwqypx9Dq+8m6QkLQS3l32zOSi0swHvCgeNzqwRjjmf0TBIcc+3FA4PYO+IS1ZuYmJp5nm5Juh7bGgGWswIdQ==;881j5WiM8/eC1qmrG8rA7g=="
 ---

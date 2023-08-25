@@ -55,22 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Positive Stock Market Sentiment From Wall Street Positioning For Another Leg Of AI Frenzy And PPT Buying Stocks In China"
-    excerpt: "In The Arora Report analysis, the demand for AI chips from Nvidia is far exceeding supply. As good as this sounds, the whisper numbers have moved up. Nvidia guided current quarter sales to $11B but whisper numbers are around $12B. A lot will also ..."
-    publishedDateTime: 2023-08-22T15:28:00Z
-    webUrl: "https://www.benzinga.com/23/08/33987156/positive-stock-market-sentiment-from-wall-street-positioning-for-another-leg-of-ai-frenzy-and-ppt-bu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33987156"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33987156"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://cdn.benzinga.com/files/yiorgos-ntrahas-mcauhlgirvs-unsplash_3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "LFUAV3qGUGLFTJRa5iu35/+9sJN3eGW2joyZfj37HZ2PbMn0GmoGFi2iOeENY1UaxW2JTKPobbhtKzOlK56g7nhXeCzX4BlUcH1Ur/IAIvIhzSKAquSDWky6rU9bdz1l+oXgG1zKkjzsxX1B4R6F9XKI7vk1QEQ2wQmCA7kLkVYEnw6/HKbd4ZP5ndmPHcp3n/ivLt9kqeZxAaLI7iaVXj5Yb//TCAcCjMSZdrPbKzDbMDM5gDCEJqzcVtZEwPXJDNuYk1s39AYSUwc1Fq5Ie/fBtQKe8vqj+IEQLNF6KnjArQlKcgrzeL9TUV2D9etGkoyR8EbD9KivgM0vtFg5TOoGiFTi07sUTZ7UXqEpxeI=;ebCkUdj0Hfn399Hi/0rSoA=="
 ---

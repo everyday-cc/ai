@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
         width: 1400
         height: 906
+        isCached: true
+  - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
+    excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
+    publishedDateTime: 2023-08-25T11:23:00Z
+    webUrl: "https://www.forbesindia.com/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 48
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Aug/img_216853_opening_shutterstock_650850907_bg.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
     excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."

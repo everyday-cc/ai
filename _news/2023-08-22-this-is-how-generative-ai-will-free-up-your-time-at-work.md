@@ -147,6 +147,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Flipping The Script On AI By Using Prompt Engineering Techniques To Have Generative AI Ask You Questions And Get Even Better Answers Out Of The AI"
+    excerpt: "An important and quite underused prompt engineering technique involves invoking a flipped interaction with generative AI. I explain what this is and how to gain from it."
+    publishedDateTime: 2023-08-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/25/flipping-the-script-on-ai-by-using-prompt-engineering-techniques-to-have-generative-ai-ask-you-questions-and-get-even-better-answers-out-of-the-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/25/flipping-the-script-on-ai-by-using-prompt-engineering-techniques-to-have-generative-ai-ask-you-questions-and-get-even-better-answers-out-of-the-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/25/flipping-the-script-on-ai-by-using-prompt-engineering-techniques-to-have-generative-ai-ask-you-questions-and-get-even-better-answers-out-of-the-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7c9d3dec13bc949d8ae23/0x0.jpg?format=jpg&crop=3299,2472,x379,y0,safe&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Responsible AI: The Solution To Generative AI's Threats"
     excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
     publishedDateTime: 2023-08-23T12:00:00Z

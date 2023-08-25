@@ -36,6 +36,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 105
+  - title: "Microsoft unveils blueprint for India on AI governance"
+    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
+    publishedDateTime: 2023-08-25T11:22:00Z
+    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 74
+    images:
+      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
+        width: 670
+        height: 476
+        isCached: true
   - title: "Microsoft announced its first customer product features powered by … – Microsoft"
     excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
     publishedDateTime: 2023-08-21T08:23:00Z

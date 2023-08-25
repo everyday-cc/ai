@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-l
 webUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107286646-1692102538403-gettyimages-1589438908-caustic_01_v07_0004.jpeg?v=1692784801&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Positive Stock Market Sentiment From Wall Street Positioning For Another Leg Of AI Frenzy And PPT Buying Stocks In China"
-    excerpt: "In The Arora Report analysis, the demand for AI chips from Nvidia is far exceeding supply. As good as this sounds, the whisper numbers have moved up. Nvidia guided current quarter sales to $11B but whisper numbers are around $12B. A lot will also ..."
-    publishedDateTime: 2023-08-22T15:28:00Z
-    webUrl: "https://www.benzinga.com/23/08/33987156/positive-stock-market-sentiment-from-wall-street-positioning-for-another-leg-of-ai-frenzy-and-ppt-bu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33987156"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33987156"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://cdn.benzinga.com/files/yiorgos-ntrahas-mcauhlgirvs-unsplash_3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "+5Y0HrQBi2foL21Af5T737jpdKpocFLzpgvJX07jvO3gvi1mRtSLSFvJdap8bsfd8mGPUGyE3Ev3ebkzGyipth+AsFsUR7DOlwpyNU9qOgTwWSQB4NFf+c1m4heZbQ2AHnw5r8IG9O9FQIwAtBd+l3peFHVlxHGoA+KdnIrfWruQW1PgWDCsVOncERpgeF/cdUzeEiLrqpvF1IWYcHXg7mtDT+dG+NvNEbY9huzCJ4dVh/jYLClJGrmRG1keo4WSfumtW5EPYmMgP6GU0hKsZjpw0aWT+Xft4ybakH2ccUdtAdIDsi94lXsJ8RMy0W6GTPM/bW855OSyHBS8r9gMJhf/e5QP22usxT3PM18ykj1eEFBi1OZiK2OJXkEtZvSZtTobsp8Oo2GQ68vvXWTGg0G5DCrzC8GgOoxQyp0ZoQXtcMd07SJDZ+is1S/BUiYH6r27wxcd5AilMAodieL5xU8fMixJ+nOKVzWxqNv1UchoJt2m2juGnKC/srWCk2ZkUjWU/IjuecJmbzi67UT+nQ==;a3UNA6oFwkLcA2sZh+TZsg=="

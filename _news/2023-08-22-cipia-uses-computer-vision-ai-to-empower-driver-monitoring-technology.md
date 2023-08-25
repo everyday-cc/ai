@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cipia uses computer vision AI to empower driver-monitoring technology"
-excerpt: "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ..."
-publishedDateTime: 2023-08-22T06:22:00Z
-originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
-webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
+excerpt: "Driver monitoring has become a critical focus of automotive safety systems as distracted driving remains the primary cause of car accidents. Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI."
+publishedDateTime: 2023-08-22T05:48:00Z
+originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "NesnUTUi+KeSLHzC+eQj2gXr1naMzEnUFCmiAfP4dZK6vTxJ3nvSYAxLtYaBFqTrGdV4tSAYQbUcBPfO6eph2ek6duc7dbOOl2etGIdWCn2UZREBVJL418qKVVLS6rc/evFB3LIKtJ4myEbw0obUrUVcLzTktrCKI7nHjKfl59422CsE1vZ8QbfKBV0SBGj0TbQMnf8o0TrD75MlYu2/ZJXEwWlc9YZSeYFCLBoZGgZhKdsAjebCEaHXT7Ue0kxPYA/DZ4eYlRm4ytIPNJrl5IqZQReWHBmWCGoW/ZzJLxWtE/4LR2GHml7dahy2Gg7a7qisNwT13WIVmsOgv/1Jlwzq/vk65ZUnwd7CYKXa4PDnYZg7LJHXRqpVaZWBNW7GOpsOCXcnaa4I2pEeYjkBBp7FSATucdDUvtuGFM8byJ7p8+k6P4UVGjvZ8TQ7Va5pnCjK4Y6w6N8b+ea/x4JQaZ9PxP8DnFWUnLUPEuIfNRJr1hpZ8cHRGSyk2tZrq5rX2adQiTCr10s/eKhJDmUK0g==;C1WbMqJdmnCjl8xNZb0SyA=="
+secured: "BZoP3C4lPrukZIALEV0UFrwQh2mgGYhw/Jb7Qe2ccy59aw3DENCRuDi15yicRChkNf8cxLM+dFdNVsLwYsJBZ+lOyXhU6sMTVwfU4j+U5VdZhYCr+dfY+YBcsHgrcIilp1NtFLbdqsfV5zbjp7U51iIhkglGk5MA4lLsJTYDIReffBiCWCUiUvmAo/WMc8xsimp8vVAUq0clgVlROQqIorc8djrmqkiCpSG6meg/7m5KPI3iMGnKe0936XNUXhqPwg7wL9sE3Y57FmVZjsk3UFgSiAW0FWKm7OdV6ygfC3MdWsc9jhKetpQklCVpA48nEw4cvZ0fHcaZ644U4yJLHqDszmdOKvBUOwa57twpnwU=;Cw3cSLrh4uTLqXnpKaHSiw=="
 ---
 

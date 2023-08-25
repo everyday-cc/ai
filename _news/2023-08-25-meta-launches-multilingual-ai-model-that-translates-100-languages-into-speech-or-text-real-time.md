@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-25T09:07:00Z
 originalUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
 webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
@@ -380,6 +381,6 @@ related:
       domain: siliconangle.com
     quality: 7
 
-secured: "JepoDzsewuugiY30dHNVWUSWQRxBsbAA59ZctSpdk0WBQdtc+QFyRpWz9dH9D2spvs1+3NafySJj8Fp0ZTdnFvxHaixXg6yrvh90pE8vP0aFV4QkXpQky/JV8Qhs6Slro1Q/mG5qIp4P/lVkoHq9ptQPxFuN800G0G1aQp9FqH8R5jzty0KyklszRr+Tqe/AL70yhSTdxr4MC0cM6wCRpdsfCM3UKxLeuQw0awrItCy2+TG6bAkXfHZquhnM4oVYtyN1xrJB6aIypetb7dJY8MrVlo6N06/V+C3CDZtW6cPJzl5iTysFL/3j6gXbbXULbZeSHNDAcC6y4Rv+AAL9VWCGXGhnGBGNgpWV5XFvngk=;xkaFGFVXxnkXP2uiVy44hA=="
+secured: "qDG5lLJ5FCjgn7k4OPWnOGt6peHxQey/3hphGiG2FsSjfNsBxS1E4p/KApjImzMJwW92AnGAelzHKE/7/7sMqv5ZSNn8UKfwSzGmxV1G5pwW0cYxTviBYbBd2gHKoxMAaT8q9hrJPSmc9xwbWcaH+l4bvq8t2XXF5N111fjXxnJNM8yL4up9IjpVkXk2VY9dTc4FJJ9PCzWWOsiutsRXI3T3LH5jPeEqTaMtxIrcdLPUwI2tuPPpYLtTldM1hNxW02DGoBrRthnSWJKWk3K87vE2dcMUU6jSHlBtKisrJLE5wQ/a4kTy/bsPUkP0JzIOTexpu/lA3HFIi2vIIcytk0cevgNB+vJ3r2g6hCS69X/PDl7mph/taGbD8W9SrqdGnTiG3YNACO6ZFnD3IGdZ0t4g2Nilt767cpq5na/VEDjF7sV9RPQjV8fyCvhYdXuanfQa9I1N+sBDOg03bfwBcWYH9/9XNG77KmZOBgCE9zd4jRYV9sZ/hr5g+qehyxehpi/E7t5aWDhicllfS4AlYA==;srnw3KRL4S3NQ/mh4ZacNA=="
 ---
 

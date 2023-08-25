@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
+    excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
+    publishedDateTime: 2023-08-25T10:34:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Hugging-Face-an-open-source-AI-startup-receives-USD-235M-in-funding-from-tech-giants.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
     excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
     publishedDateTime: 2023-08-24T21:25:00Z

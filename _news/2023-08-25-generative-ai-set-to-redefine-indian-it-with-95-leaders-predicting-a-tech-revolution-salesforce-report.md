@@ -57,6 +57,22 @@ related:
         width: 1400
         height: 906
         isCached: true
+  - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
+    excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
+    publishedDateTime: 2023-08-25T11:23:00Z
+    webUrl: "https://www.forbesindia.com/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 48
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Aug/img_216853_opening_shutterstock_650850907_bg.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
     excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."
     publishedDateTime: 2023-08-22T21:04:00Z

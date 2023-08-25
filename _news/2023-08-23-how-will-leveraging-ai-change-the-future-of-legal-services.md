@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact"
+    excerpt: "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons."
+    publishedDateTime: 2023-08-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626161fe4b1eadb6e1e58f6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
     excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
     publishedDateTime: 2023-08-22T13:46:00Z

@@ -2,6 +2,109 @@
   "page": 169,
   "value": [
     {
+      "path": "_news/2023-05-08-amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows.md",
+      "title": "Amazon Turns To AI To Drive Advertising Revenues As Overall AI Use Grows",
+      "excerpt": "Amazon is building a new team that will work on artificial intelligence (AI) tools that generate photos and videos for merchants to use on the Amazon platform. It is a new initiative that CEO Andy Jassy approved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
+      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5d798465c0e1890008d12c06/0x0.jpg?format=jpg&crop=4900,2211,x0,y391,safe&width=1200",
+          "width": 1200,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
+      "publishedDateTime": "2023-05-08T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-state-of-attention-where-is-attention-led-advertising-going.md",
+      "title": "The State Of Attention: Where Is Attention-Led Advertising Going?",
+      "excerpt": "While there is a general acceptance that attention is the future of digital ad measurement, what is still under debate is how it should be calculated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6455020d99dbf6b8c49c02fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
+      "publishedDateTime": "2023-05-08T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence.md",
       "title": "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence",
       "excerpt": "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now.",
@@ -1103,83 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
-      "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
-      "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-will-we-know-when-artificial-intelligence-has-become-sentient",
-      "originalUrl": "https://www.nasdaq.com/articles/how-will-we-know-when-artificial-intelligence-has-become-sentient",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
-      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
-      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "publishedDateTime": "2023-05-07T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

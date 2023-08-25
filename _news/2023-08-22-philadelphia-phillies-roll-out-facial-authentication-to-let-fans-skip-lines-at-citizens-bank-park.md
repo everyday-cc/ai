@@ -39,6 +39,20 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 57
+  - title: "Concerns about the Phillies’ new facial recognition gate? Experts say it’s too soon to tell"
+    excerpt: "The tech rolled out this week at Citizens Bank Park. It reportedly doesn’t store face images, but instead uses numeric tokens."
+    publishedDateTime: 2023-08-25T10:43:00Z
+    webUrl: "https://billypenn.com/2023/08/25/concerns-about-the-phillies-new-facial-recognition-gate-experts-say-its-too-soon-to-tell/"
+    type: article
+    provider:
+      name: Billy Penn
+      domain: billypenn.com
+    quality: 29
+    images:
+      - url: "https://billypenn.com/wp-content/uploads/2020/07/citizensbankpark-markhenninger-01.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "4FC3dGE5SoMak/lbPjbJmBXwU1Yyft9+SPSzLXUhZ3oJaO7bg/0AybRHDa5ih2mDms9Hm+6bWQn8HksP1XP0xfOkDA2i8dVJTD7Bvo1zvY3Euoq7s1FGV/xSxbLytusCSMkAgSKaJ0dp05ZwM3B4Z/BubaJNctX3qrEHeW1n37/4ygZUcRKrWX+5dZSQBOqy5ROSe1KASvgAzB2f1UMec0Dct26bINo4uvw9ZP7u64RqR9W7wNV2VsNrvSpNMOyAKt8ALyqtKiDVh+8+yF3wPZxAz5d9J0MRmeVuUmVytoO0dXr+yy0+KcTKibYdv1uAtP/W2D9337YNwrHKlPtrtddq1WKK7+7dSeVwrQnmwIg=;0kX88Ro2PFWJNFSx11tv7w=="
 ---

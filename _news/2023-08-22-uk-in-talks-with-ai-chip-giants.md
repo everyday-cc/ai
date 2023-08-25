@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Five UK Companies Set To Make A Huge Splash In Artificial Intelligence"
+    excerpt: "With the UK Government investing heavily in support for AI development, innovative new companies in the fields are mushrooming in number"
+    publishedDateTime: 2023-08-25T10:17:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e87f5597824c7ea53b0612/0x0.jpg?format=jpg&crop=4000,1875,x0,y248,safe&width=1200"
+        width: 1200
+        height: 563
+        isCached: true
   - title: "UK moves on AI plan with chip giant talks"
     excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
     publishedDateTime: 2023-08-21T10:34:00Z
@@ -35,20 +51,15 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "UK is in talks with tech giants on AI chips, Telegraph reports"
-    excerpt: "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph."
-    publishedDateTime: 2023-08-21T08:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20230821VL205/uk-ai-chips-server-ipc-cloud-computing-iot.html"
+  - title: "Five AI Failures That Left Companies Red-Faced"
+    excerpt: "Let’s explore a few of the most embarrassing, disastrous, and sometimes even hilarious AI fails of the last few years."
+    publishedDateTime: 2023-08-22T11:46:00Z
+    webUrl: "https://www.techopedia.com/five-ai-failures-that-left-companies-red-faced"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230821vl205_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
 
 secured: "IDBJrOI70Fc662/tQGfvKSeHEGGvDPkeWSOvcYRXOcDaMtUkBhfgubhuX7re9xvcosj+Bre8Rw0PzW+pFfZO2/+LmhcxgM1qxdFmkOpngLjLPC8PRwmEh9XUg/00uQbBQ2YyOVZa0YAl9rAkVa/n2reFA8+cLk0B7uT8KZOMuaNanTnJef/OBArifPn8eZ4a2GyjtGnd1++uwhulO/1uQnJppJUbE9BZXeV3itKa54ZHEtODIGKBw0S+mLY4x3+dcxGuEhHOmCyWl32K/UajyeGsHlzK5bZqTO80Xbu09ZNZVnwVBu0XvJHQC+zAKxob+mURQUlEdVdElW5Q8Zf23brbCcx7LntbIhhe9aRk3YE=;jRnOfauZ7Pny7IXjvlYvnA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-move
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mobile World Live
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK is in talks with tech giants on AI chips, Telegraph reports"
-    excerpt: "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph."
-    publishedDateTime: 2023-08-21T08:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20230821VL205/uk-ai-chips-server-ipc-cloud-computing-iot.html"
+  - title: "Five UK Companies Set To Make A Huge Splash In Artificial Intelligence"
+    excerpt: "With the UK Government investing heavily in support for AI development, innovative new companies in the fields are mushrooming in number"
+    publishedDateTime: 2023-08-25T10:17:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.digitimes.com/newsshow/20230821vl205_files/2_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e87f5597824c7ea53b0612/0x0.jpg?format=jpg&crop=4000,1875,x0,y248,safe&width=1200"
+        width: 1200
+        height: 563
         isCached: true
   - title: "UK in talks with AI chip giants"
     excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
@@ -50,6 +52,15 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 34
+  - title: "Five AI Failures That Left Companies Red-Faced"
+    excerpt: "Let’s explore a few of the most embarrassing, disastrous, and sometimes even hilarious AI fails of the last few years."
+    publishedDateTime: 2023-08-22T11:46:00Z
+    webUrl: "https://www.techopedia.com/five-ai-failures-that-left-companies-red-faced"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
 
 secured: "hI7XJU+oAPCDlYiKRBWKjG0qQzf6+ePIaIOoFeVPvbNQd6So/bUHK7vn9Rzh4AcHAPSYUBYcytZAXLpvQbH6+5oLOSgNKj2frhXP57vhQkQi2kWBl8kTWCSFFvNaPKCsyp/MnkFP6oDkyx5TAP1iY5GJKcCCFXa//H5ghQY57y4QXKnOhVxH3DJaXOqOY7RJ4+rgF1BEX4CfpBxPi4XD7xnqKiMVlAJMUxta4/X9NR/3Uan2uCoxHaS1AejUJfFK5DGxLY54Dor/pGnXKJhGOLD49GqiP4jsuOoFV8te14BRif1y19V1ztC2u23gVhPLn9Cpoyhigsg4AeTk2U0WEWiGi2lmqcKvb7jlgy2P2Jg=;Bu+04Vkg6lkKNEn76sJvQQ=="
 ---

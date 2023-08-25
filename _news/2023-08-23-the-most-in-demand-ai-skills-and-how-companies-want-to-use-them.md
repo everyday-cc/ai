@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html"
 type: article
 quality: 61
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2018/09/44089411951_1f7689c057_o-e1692625958925.jpg"
         width: 1200
         height: 640
+        isCached: true
+  - title: "5 AI-themed movies to watch"
+    excerpt: "As the programmer engages in conversations with Ava, the film raises unsettling questions about consciousness, manipulation and the boundaries of AI ethics. Ex Machina is a tense exploration of the thin line between creator and creation. Spike Jonze’s ..."
+    publishedDateTime: 2023-08-25T10:41:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-themed-movies"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvY2VhYWU1M2ItYTlhMi00YWQyLWIyNTktZDYwN2JlMzM3ODhhLmpwZw==.jpg"
+        width: 1160
+        height: 774
         isCached: true
 
 secured: "Ez52x5cNeTzUHvJcThA/xQFwOVKUYBfTYO8KxfwhsxloKQ6DBsTEoXQv101YE0YJO532dZEkBly309RSw1zGdr/tdEs0YbT+zj5ZzVi089r16BfUy756N0ZW38B+0gXh71/F+jCD68kEj3kKZ/1JOIDolz0W08s6XTneC6nc3etFY74nGACb8Fdo19osFQ9dSCWuYOBjSyTU+LsFSjV5iemwI9yf6wzLWa/IteVu04jcVPJZqmQ9Y5klb1p/adfoh2dZXavoe7q0+lP/3oxkJMOoXyO1YOHgSGfholjmZLRWzmTWvltbIfx0+lrxW0/2j5zfDql+CNQonkZ5IlsKgUXcbUAqIfOhg6vO3FcoygwsbYgBUEc0gOxElDL3h+yJ+4Me7OrIS+VBRb/f18IpFQMlPBlJA35/tjPhrYxJNkhQ9KCEjgicmlJHsN/gGvbFC0G8zoSgq0Eq2DcobkdsfDduEwYHE15CXJm0PUbmwSJArzm+5Xu6e/cyiKtL9BDqN1KgWwlrPHDkt0+xRVoIRQ==;B7BxOzKdoN73TLiz+NQcxQ=="
