@@ -621,6 +621,20 @@ related:
         width: 842
         height: 438
         isCached: true
+  - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
+    excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
+    publishedDateTime: 2023-08-24T01:01:00Z
+    webUrl: "https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
     publishedDateTime: 2023-08-23T20:50:00Z

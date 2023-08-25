@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
         width: 1400
         height: 906
+        isCached: true
+  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
+    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
+    publishedDateTime: 2023-08-25T09:11:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 43
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
     excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."

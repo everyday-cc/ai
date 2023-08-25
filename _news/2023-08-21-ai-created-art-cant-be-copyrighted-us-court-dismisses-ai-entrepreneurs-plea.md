@@ -100,20 +100,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI-generated art can't be copyrighted, US court rules"
-    excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
-    publishedDateTime: 2023-08-20T15:57:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-755483"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/528540"
-        width: 690
-        height: 407
-        isCached: true
 
 secured: "3DHOBfhBKMor+9Bpmv0tajAvz35ejV+dX3XMVD0YaPB7RVQ4A1Q8erGDcbBSNSMPhB7ZR1h9mBUZmYQqsWhOK1BTeGCB1i68R9EstN7sQara/CpHzHSd7+clfH5AhM50p3l5FkxaZ3+fIeYNaX28G4RAuUDH450vJumomLN1ohUWlGnIGl1F2HtBF/NpGsZz3353NLk8DCq3KT6RYx11bAe/dqu0zHe1aHfNPoquELRA7aGRtAbdUE3kKvJ6YpyybhiEr6scUmeDWmEarNS1+gCoNMCqStSS+RJ8268sCDZXOnIVm6dS8EgedrlFE+IDFAWxxtQUENAg8S9K6ETYxQObXhuMzL6lp9SfqSbGJhM=;WrwxuLEJi5wasxXt9ASh2w=="
 ---

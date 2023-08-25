@@ -102,20 +102,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "AI-generated art can't be copyrighted, US court rules"
-    excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
-    publishedDateTime: 2023-08-20T15:57:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-755483"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/528540"
-        width: 690
-        height: 407
-        isCached: true
 
 secured: "fUxtUeD2CENpf6fVfAgjYsxqVARyl8FQVNgtnzHRTOIwtrLleYhK8Bgc4ZQ+LzqQaP9MzQmXxQvt9kRKuwUMvnEs4COaGoc/HWFJleebf8WeWWGP5ss4az6xCSnaFCGCCnmNLIZtRL9Ctipwz0rB8XySY8/S6JM05o8QRyrEbHXwOSdtoMddNZk5dyJM4NUhCOCOF1ClL6sqCv1MR5kly4mh2w9bhbbO9dnjwmZ44b5Oqtx3ha9nQDY0+NRBj5WEeOC3u+d56GLY27FbtraxZOcNERc6UxxbuaQCYAID/t/Ig/ayDvtQPT2Yp7iprRBDoofJc4hkOHcq33qZTAdAsplphYirS1nlReEhoXGhBxMmuSkT6OuULiQAhxaVNKXkbAOBJlPLU4Cku45SMrGw9D1uzlxVpY7ttBjeUp88qjHJe6kDT3eAjopK9zsrxak05tQdyy0SmMYCw4tcgHD2YYrg2ehSlwH0hS0Gj7RtQwq3J6OQFSy6JkW9nh85ILje3MM1TSTyssRYl4n7fSO+Ww==;/Y4M+CTcjsc8L7Ic8Vilcg=="
 ---

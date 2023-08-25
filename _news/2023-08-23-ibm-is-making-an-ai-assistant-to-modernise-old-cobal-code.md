@@ -193,6 +193,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Meta's free generative AI tool will help you write code"
+    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
+    publishedDateTime: 2023-08-25T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
   - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
     excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
     publishedDateTime: 2023-08-22T17:11:00Z

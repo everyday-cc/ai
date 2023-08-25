@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
+    publishedDateTime: 2023-08-24T18:46:00Z
+    webUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
+    type: article
+    provider:
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 11
+    images:
+      - url: "https://www.jta.org/wp-content/uploads/2023/08/GettyImages-1556779082-1024x569.jpg"
+        width: 1024
+        height: 569
+        isCached: true
   - title: "IBM agrees to sell The Weather Company assets"
     excerpt: "International Business Machines Corp. announced today it agreed to the sale of its weather business, The Weather Company, including The Weather Channel mobile, Weather.com, Weather Underground and Storm Radar, to Francisco Partners for an undisclosed sum."
     publishedDateTime: 2023-08-22T17:35:00Z
@@ -105,15 +119,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 4
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
-    publishedDateTime: 2023-08-24T19:03:00Z
-    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 0
 
 secured: "0kaLnNPqsbs2iGvvuL7XJr4n76csWVRALJMlYSYEoH3ZVdFdcjRRMF6gsVlOnPd6OfAofqubEQUALvi98b4HeCaqxJB0GUHlq4NnbdeSXOXMztfcOGMGiQrKHq82RJ5Yh7fNJSbdzSikghlEQacgEKh4bbPfJ77VweU4QoyfWdFUCleblDwwm+1xcKnBoNFf90LV2TFZ5EB7M8O6+cWZWEKiSvBdJE8xakc+Kpr5eQBEMVnNzYbMpOWStxU/bFug/ULj5rHfDDdnC270Z9fksPncIbJKvc10PqlVkJQNTevWlgDBIdG8c6AR3RYxpdt4wXL/789vpK5jldUM2eteg85SSjLCv1OGSRJAEGPuvDS9GXcPfyA7IsdstUhak94/giNNgs96kLIfib5hHm15fFL/NWZpYYpSSATtX6yGqlH4Thlj0tq2uClCP4GUmfyUA8OJSBfGu9KwZkoZUhzRY49ZNNSPby342iQsGxMA8Y8lYTlJ0HPa0wcR1eywO/3rnYPfRWgWhhsw+MwXlyC0rQ==;bT6Id2IEthE8ouGkEbgH4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
 type: article
 quality: 121
-heat: 751
+heat: 761
 published: true
 
 provider:
@@ -624,6 +624,20 @@ related:
         width: 842
         height: 438
         isCached: true
+  - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
+    excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
+    publishedDateTime: 2023-08-24T01:01:00Z
+    webUrl: "https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
     publishedDateTime: 2023-08-23T20:50:00Z
@@ -807,6 +821,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OrOTIQvFtwMY6pwxpWCCpQPKNyUTZ3bSHexybtaQtbsxLKrSd9VztkjcJKqsioL8oeTqmEyS++nYFGIlpX+1Ro6emUd/a89RLU9RKAAt82r/SzCIp6NFJ4FptASi8wl0uqKC20xEJs39v4DYRmvVoZIjFq5VwDKinjB/Pp6LZ5zEIudeUfVAbHjrD6uUB6lodHSs8OA+sDq9HWzhcTblRrSIVXEdlL/8NdYlovOLWE023RpSt4Yf+jgSxahrkXcz/czQCEs9FHf5HbSE0HiNS647tMTensgt0SZCcfcDxmYy2Qj56Sr3JJuKlfTFDw6/iDcbVUfG0Ip0FGqkzlsZgrCAs5vwpIX62c8ShYb9sJM=;9fLa47uYfUfKboT2zrB5eA=="
+secured: "hPgvCuo1fvVxltnQ96y63rPUip+izEw96y5hNlKTAHU1gfIMyKND0rW1MseluzI7d4ymQV89BmHBs1Y6BMq+gaDrLZdQn0f3fDyyxqr4hJThQ5Y4+uzHthApWCTZNQAPqnRlanvZQ1WsY7zL81PDzVaqvSXXv66GLi7ReQyzp0tMZh7SCSPovd/hOqfhyxxIxMa0nyqqL7pQ80wTlHaTnyu8yYdwS5VbG7FpTT6hzOEJq9PJQzo+aDALj+6aUpbjN7td6NAhYEs314BeagVYsnNwVw83f4bc0GTxA6lHPCNGfefotesZz20oku1UDKCCamHRnBmI9pKW+oPBozPi34yYFz0qwAXxmxro3dehQxpePmru1o/ssl/Za2f3525Oe5vRnNa0CBRN1Kx1pYI9WSWvdFr/EQf77+e4+QDjOJOW4iyB88hjngJCa+CSJJ7AlDfZ2AGZ+iw1K9DymlZnUAn9B+fC76+QUWrsqeBGjGXOigmwbmH6l03aPuAXbm53OY/E6Pj0hwVtISZGW+C4cg==;rop9+/6NDp0CrOLunxsD0g=="
 ---
 

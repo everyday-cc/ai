@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How businesses can measure the success of AI applications"
-    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
-    publishedDateTime: 2023-08-20T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How customer engagement will evolve along with generative AI"
     excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
     publishedDateTime: 2023-08-22T05:08:00Z

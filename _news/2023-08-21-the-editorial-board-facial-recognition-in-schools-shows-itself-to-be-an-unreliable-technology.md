@@ -52,6 +52,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Report: Risks of facial recognition technology in schools likely outweigh the benefits"
+    excerpt: "Risks associated with using facial recognition technology in schools likely outweigh the benefits of the biometrics tool, and educators should be cautious about its use, a report from the state’s Office of Information Technology Services found."
+    publishedDateTime: 2023-08-25T09:11:00Z
+    webUrl: "https://www.newsday.com/long-island/education/facial-recognition-state-education-department-office-of-information-technology-services-schools-x8dcl8dm"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-state-education-department-office-of-information-technology-services-schools-x8dcl8dm"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-state-education-department-office-of-information-technology-services-schools-x8dcl8dm"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 51
+    images:
+      - url: "https://cdn.newsday.com/ace/c:YTNhOGJiMDgtOTg3MS00:NGUwNjRh/landscape/1280"
+        width: 1280
+        height: 718
+        isCached: true
   - title: "Banyan Technology offers predictive truckload pricing through an AI tech partner"
     excerpt: "Software startup Greenscreens.ai applies machine learning techniques to aggregated market data mixed with individual client histories"
     publishedDateTime: 2023-08-23T20:09:00Z

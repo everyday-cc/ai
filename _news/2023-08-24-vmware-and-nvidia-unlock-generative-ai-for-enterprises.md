@@ -633,6 +633,20 @@ related:
         width: 842
         height: 438
         isCached: true
+  - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
+    excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
+    publishedDateTime: 2023-08-24T01:01:00Z
+    webUrl: "https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
     excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
     publishedDateTime: 2023-08-25T01:50:00Z

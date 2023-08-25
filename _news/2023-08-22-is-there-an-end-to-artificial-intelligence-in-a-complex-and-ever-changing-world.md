@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How these Orlando entities are lightening their workloads with AI"
-    excerpt: "Early adopters of AI in the Orlando area are already making changes now, evolving as the technology leads them to new places."
-    publishedDateTime: 2023-08-20T17:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2023/08/20/orlando-companies-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "e/rx+qmyiOkAA0V+WU3+MRHUUnunfHERGWhsd+zGtUC9AS/heS39gIa3YL2uZgEGbtUmtBbKF1/dkOfB71Dx/QtzVVaaKinGQjkOdRHi7PWbqt64+FyoLPLajjCs810xJ/nXShy5QdilmR1qD4dKO10sSgrYcbDP+kNMYqLK2jpKaz2YGi2hsXMVhcIHH4bKJ+3fUwdPbkKInwod9Rh8ALtdENCdRe9zFolxFj2r1YwjW6GU0EWS19Y9fa2H+TbgZjIL5yoV4TciKbhpv1TZcPaTGKPkHqQRh/hIVulRFBG+uGtu4WtCeYQ/urr6QOhNf25f6mx0PXUCVzjABdm7PgqGMmiioFSKvse7AOhUaLI=;c5yP3wmWsZo2vjUDYeIqow=="
 ---

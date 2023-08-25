@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "World's first AI safety summit to be held at Bletchley Park, home of WWII codebreakers"
+    excerpt: "With world governments and AI leaders in attendance, this November's summit could be a catalyst for the creation of momentous AI policy."
+    publishedDateTime: 2023-08-25T08:23:00Z
+    webUrl: "https://www.zdnet.com/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/af3e39256e49e0193c98fd9256134c8ad1d42e02/2023/08/24/7419079b-a9f0-4d03-8dd3-0305a8859048/gettyimages-980957980.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sunak to hold AI summit at Bletchley Park, home of Enigma codebreakers"
     excerpt: "Global summit on AI safety planned for autumn, as UK tries to cement image as being home of ‘transformative technologies’"
     publishedDateTime: 2023-08-24T16:26:00Z
@@ -47,6 +63,15 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
+  - title: "UK government to hold world’s first summit on artificial intelligence safety in November"
+    excerpt: "The UK government has announced the UK AI Safety Summit will be held at Bletchley Park in November, where international governments, leading AI companies and experts in research will unite for crucial talks,"
+    publishedDateTime: 2023-08-24T18:17:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2570147-uk-government-to-hold-worlds-first-summit-on-artificial-intelligence-safety-in-november"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 10
 
 secured: "beILPknZtAZLHM4FdsRCHQhHpoIHMApw8Gpg3cWM1X/X/v07BZjbSSq6ie9Kz+R/QyvES4JEMOmDFI9F8PebWneFgTDez/m0xb0oHHo7IQLMxkuQQ1EOlEqEe55YN0MhAnYBBW1UyfMbj+fiII4U696UrG48XU5E7YsGoc3K93BzOyn8Vzl494RUxGMQXt9ZMrtAtN3C4aaEmM6uvmvmSKpsr85hbB+jZlfFI/4aHnCSCtJ99JYclvsNTwtWT6WrMQUPW5HBkYqcM8O19Gl+PpK3BXB5N9APiVOENWJhPwP87BbV73CI7MgDkrhx/gP0GSb2tZfd/rM7Sr+DL4C49qyclKhDYz2+7jagCKjDuBHNeqY3FxnldouBhYtPvi2y1HF23UwXTI3p8Ew3zO3UD5dcQ4layutfDPMX+yJIuwJnY+HaPP0Vc6z8a2Dz1kZvAFd6ePVMBv/3rDaShzFWXR1fVUkD1i+dP8y18wxPWAmnId/unfvdWj2E3JPTbo+C2MSVK7Tb+rPL5CLR+uIPEg==;Oe3OhWTH1L43XaT2bRM+9w=="
 ---

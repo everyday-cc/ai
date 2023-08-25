@@ -63,6 +63,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Arm hopes to rely on AI for its IPO"
+    excerpt: "The issue is that Arm's focus is on CPU architecture foundations and not the GPU and AI chip architectures required to build AI LLMs. Thus, despite the ongoing AI global trend, Arm seems to still be on the outside looking in. With the push from the AI ..."
+    publishedDateTime: 2023-08-25T07:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20230824PD210/arm-architecture-ai-cpu.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230824pd210_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "A Filing for the Biggest IPO of the Year Is Producing More AI Excitement"
     excerpt: "Japan's Softbank plans to spin off chip designer Arm, and the buzz over that deal is combining with Nvidia's coming earnings to energize the AI crowd."
     publishedDateTime: 2023-08-22T11:45:00Z

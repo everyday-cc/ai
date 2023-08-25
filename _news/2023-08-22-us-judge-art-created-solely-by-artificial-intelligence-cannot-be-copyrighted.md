@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-sol
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI-generated art can't be copyrighted, US court rules"
-    excerpt: "Artificial intelligence-generated art cannot be protected ... The background to the ruling goes back to before the Hollywood strikes. Thaler, who heads the neural network firm Imagination Engines, has been trying to get AI recognized as being able to ..."
-    publishedDateTime: 2023-08-20T15:57:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-755483"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/528540"
-        width: 690
-        height: 407
-        isCached: true
 
 secured: "sBeJeY/cFpVKaFWYV9KZi2LchoUAx0r/ZEk3cEyw5Fd49dDFePLqnMMqtikh9IH9vIS+A3AxI8qhiRUD5pNdQJKddcMIV6WDXr2QQYaTVgYZDRyVMc/CFOrW0lS+ZD3S3SjbiUVjEw+hB619bJaJFNgv6P5DXMcwhsArCI+Lhrs6LuGMujj7LWWUAhz7Q+wIqTZSe2ClXoZ+fpb0iqleENb0FDZGb0T8jKd3tlhNrJ7UTVCfkqLuyptizAM8doIKL4uG2G6TCKHxTPgvRV7hl8I5YJMkX8iZHG4uDNk+jTmtF8rhXRel2xICjlpeucO9rsgJYzB6SL2J/9booebjl35ezjYs2qjn/HZdYWUOoVFZoNRumu/7LGNmJaD2myAJyaodGiSSPGxEZ2QsYk212KEB6LyPsK3XkZohlncLgla6wXg8S7+fDHPZgu4o2djuycwpUaEoCbaQD4lA6aU9/Gk2IDUQLse052Rhel01bj3Gc4QGZkPHHE6U4757CGthCb5vzjeBMCwPXtSNs0m4yw==;PSRrX3gv5woa6TQiDuCaYQ=="
 ---

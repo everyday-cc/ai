@@ -7,7 +7,7 @@ originalUrl: "https://www.infosecurity-magazine.com/news/ai-usbs-drive-rise-cybe
 webUrl: "https://www.infosecurity-magazine.com/news/ai-usbs-drive-rise-cyber-attacks/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI is changing the cyber arms race"
+    excerpt: "Similarly, while many in the industry try to build regulations, attackers are neither concerned with, nor bound by, regulations, and are going to take every"
+    publishedDateTime: 2023-08-25T08:03:00Z
+    webUrl: "https://techcentral.co.za/ai-is-changing-the-cyber-arms-race-arcpro/230509/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/08/artificial-intelligence-ai-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "Z2+9yJPP4nqXMLub2V6KMgnlD6oyE8G4nqeCUQrY/S0RDpc9gmpK8MkbC4VUCTjo3HVf+DQXdKYXE6gjeue7NAouAiEYlhbLI8eoqJRxHLEsHrn02kU+3TVmOSJoPCR3nz2X/ipoGvKs3hgF8OFegP6JFTdSC10pqCus17Ukg1pwVqzLjaCahaP4ioN36zlgvRldaWXmdsV8tr7iitd/p1aVsUOjHxcX2M4/Vr3j/p147eDSbSErIwcKSDiIqSM4wkoRY4jVZ1F8strVN5mWeGXqr1Iw1Nplo5SDkd5UpYA9PaswkP6hZatI7ch4yo8IRLmWmoOtB2DlWAFfeKiipMehNG7pMiqVnjYZy8RBXdLxomL8v9v0bRQELgtcGfGxla5dPp91cn+jCactBG6oayyWu0aCY6n+2Y4UhC/fdX851U0XO/lZJEFNa/yG3HMueTMUbikeWb25SeXRofZV4wkFt3nyBjYJFhGHzmsNZN7wk+p3lvVl7CcvgKPYQX5xI4lpgoaowvxRhV/xqafVYA==;xIFMooUs4xOnRx7Agh51rw=="
 ---

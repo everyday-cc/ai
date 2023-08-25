@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How businesses can measure the success of AI applications"
-    excerpt: "Probabilistic metrics, rigorous validation and user-centric evaluations are needed to effectively measure the success of AI applications."
-    publishedDateTime: 2023-08-20T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-measure-the-success-of-ai-applications/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_chart_or_graph_showing_growth_and_positive_outcomes.__f257e047-d044-4074-a719-c2a3595f56d5.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "How customer engagement will evolve along with generative AI"
     excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."

@@ -2,6 +2,109 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2023-05-19-new-meta-ai-chip-to-power-the-metaverse-and-create-a-new-virtual-world.md",
+      "title": "New Meta AI Chip to Power the Metaverse and Create a New Virtual World",
+      "excerpt": "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/",
+      "originalUrl": "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/meta-ai-chip-metaverse.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools.md",
+      "title": "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools",
+      "excerpt": "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/",
+      "publishedDateTime": "2023-05-19T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo.md",
       "title": "Artists deserve “fairness and control” over AI use, says SoundExchange CEO",
       "excerpt": "Michael Huppe, CEO of SoundExchange, speaks out about OpenAI CEO Sam Altman's Senate testimony about AI regulation earlier this week.",
@@ -1102,108 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows.md",
-      "title": "Yellow AI launches YellowG, a generative AI platform for automation workflows",
-      "excerpt": "Conversational AI platform Yellow AI announced the release of YellowG, a next-gen conversational artificial intelligence (AI) platform designed specifically for automation technology. Leveraging the capabilities of generative AI and enterprise GPT,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
-      "originalUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/6-Applying-AI-at-scale-–-Insurance-company-story.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
-      "publishedDateTime": "2023-05-18T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-up-on-ai-optimism-tech-roundup.md",
-      "title": "Tech Up on AI Optimism -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose amid optimism about artificial-intelligence products. Storage software maker Snowflake rallied after reports it was",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "publishedDateTime": "2023-05-18T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

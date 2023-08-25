@@ -310,6 +310,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 43
+  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
+    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
+    publishedDateTime: 2023-08-25T09:07:00Z
+    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 42
+    images:
+      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
+        width: 1000
+        height: 525
+        isCached: true
   - title: "Meta unveils AI system enabling translation in 100 diverse languages"
     excerpt: "Los Angeles: Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects, TechCrunch reported."
     publishedDateTime: 2023-08-23T06:00:00Z
