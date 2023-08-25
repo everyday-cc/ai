@@ -1,13 +1,13 @@
 ---
 category: news
 title: "How Artificial Intelligence Might Prevent You From Getting Hired"
-excerpt: "If you applied for a new job in the last few years, chances are an artificial intelligence (AI) tool was used to make decisions impacting whether or not you got the job. Long before ChatGPT and generative AI ushered in a flood of public discussion about ..."
-publishedDateTime: 2023-08-23T21:38:00Z
-originalUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligence-might-prevent-you-from-getting-hired"
-webUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligence-might-prevent-you-from-getting-hired"
+excerpt: "If you applied for a new job in the last few years, chances are an artificial intelligence (AI ... law enforcement, and health care. Recent reports indicate that 70 percent of companies and 99 percent of Fortune 500 companies are already using AI-based ..."
+publishedDateTime: 2023-08-23T21:34:00Z
+originalUrl: "https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-might-prevent-you-from-getting-hired"
+webUrl: "https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-might-prevent-you-from-getting-hired"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: aclu.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 1400
     isCached: true
 
-secured: "PjeloX2PDmsGFgiIFC/zQFmV15KjlWZ4i6P8e1Lzg3QpZyQvOzXIoeE3mJ/AkxwODk8WUH5L+9A7r/sOQ3UQYfiMvfzggs3Wx8QPlgKtD17MOHU8a41ux8TjJpXi949aRF0NRFGFDAZD8rreYrZOsUNr/f6XjbmhkrxtekBjcgU5N9hFoxJhnquEjguqP1W2+pMul4GyTQIUPRwD5zjwbfKf7pNjzESWEhsYy2zMLgAgImURqAVxtKYcWhAhbfjunEY8tP6OrUuzs3UEDAANTGRmlpQI8YcFpbFB5AVyye0bfXdQIY9SJWemxBHyR1hNC+hRXoXZvV8c208ntUs8ok5bISh8B3qGThY9AUJzSGs=;j5NhzBPdPheH11DM+y0rdQ=="
+secured: "mt76/qWFifpI24Wr6aovRS3LC9v3focSFoimpYklaNpoqpdbOzr03BfUGQFFknm6K+x5Un7fLSCxbxp25lxlwzYFZdXORhUYKyDIcqlwy7oafQB7LuMsHG/2QoE811Xqg8QDiFfwgo5TLBadRR0lJ7Yb81qVWSPFtaYLI2WTftV2hR3syo7+l2sXFsILBNH8cr5ekqL0Zu1vfbXpDlUHROD0lmV6IqIcE0WJNVQSJgZCOA70R883urKOohUIAULEgepFmbEowF88MNla0a8izeCAgVv0vWIRpyK/DIKzBWbIvpc/m53vGZbHxLxQ53MCozFiUrZjO1RbXpsLfuG9YJWMJGPbcxCTQbkSMwWPofQ=;JrHLDnTbFGCzldF/jpTGvg=="
 ---
 

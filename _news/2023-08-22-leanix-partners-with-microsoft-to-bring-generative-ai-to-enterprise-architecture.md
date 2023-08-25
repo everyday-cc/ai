@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
-webUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
+originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Fort Worth Star-Telegram
-  domain: star-telegram.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Microsoft AI
@@ -208,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "oQMQLnt9MMiyJhaKtrNFSlIhdvI3f7n1xII7Pf8mr+pxSGvDZYeoucxmpPF2l8hldR0jLuIu9pY+CA2Pd6iKEVxR9yX5y6MCyMxdHTLNv2Djg65PjZDGf+t8iWl0wS0+gfd9zZYkSJXsrFNHQ+ltxsDpOBWyGZu694kfcLW7xzK+LJvrvXGt8B/hgiB3x9sJLCbO+8UrscVauxC0IrN6W11RScTaKLMwPvBn3gE1KzPMFuwAk9E6RXZL3JZEZmjwqB3VE+iOZDjg0QHGoCLjo6hMCTlZmi5yaFlYYbkQxab7EXw65vSPvBV22V49YpXkk1fVt6x5KX+Y5EhtHtfQXurN/4QmKat0kLEWLdop36M=;Amurjla8yg82tsjnj4LN1A=="
+secured: "r6oWTG7ov/iAv+cB6U+Yi8SwSQ0hYgBEk9JQmpjb3zMfk0GM47DuqAAZ+keARZ5n7Ts8tWAprKdEms18etxyz4t+AWbeFv8Ny4S5ugkzeKcOt0qhjIXmo4WBqjPOSZ47qsjQAv4BWvnVrP3XsnRPwC35YZzmyEVq+BfFbzYoQeXBg6fvawp96XSIq/bFsiZ1QElDRxeJtAdBrQvgAPMZ9NTgg0Ncv4mFzDyS9ihD0BK9v38Zj2tgzOHTQaoaxRZPd7mljOMWRdxz7oafo1LltBUORNq7RTPpQcLZAYFud1w5aAwReaac5Xhu1hJ4MCy4XoutmN9dFwSSBHDCI+zsa/qJD6/UXaA4goj0aI1TnYQ=;pSSzWbx8KCZCjF2cFld/VQ=="
 ---
 

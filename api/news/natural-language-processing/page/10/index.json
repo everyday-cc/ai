@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-16-an-ai-glossary-the-words-and-terms-to-know-about-the-booming-industry.md",
+      "title": "An AI glossary: the words and terms to know about the booming industry",
+      "excerpt": "The quickly growing field of AI has created a long list of technical terms that you should know before endeavouring on your learning journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
+      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-AI-Glossary-jg-4a0d9e.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81793",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81793",
+      "publishedDateTime": "2023-05-16T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image.md",
       "title": "Indigenous man condemns voice no campaign leaders for wrongly using his image",
       "excerpt": "No voice leader Warren Mundine has stood by his campaign’s ... “It appears that some people have been misled into saying things on camera about constitutional recognition by the no campaign,” she told Guardian Australia.",
@@ -1444,49 +1487,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-best-speech-to-text-apps-of-2023.md",
-      "title": "Best speech-to-text apps of 2023",
-      "excerpt": "However, speech-to-text is moving more and more into the mainstream as office work can now routinely be completed more simply and easily by using voce-recognition software, rather than having to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

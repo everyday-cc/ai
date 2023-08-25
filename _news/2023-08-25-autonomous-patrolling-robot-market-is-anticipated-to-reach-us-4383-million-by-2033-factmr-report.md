@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Autonomous Patrolling Robot Market is Anticipated to reach US$ 438.3 Million by 2033 : Fact.MR Report"
-excerpt: "As per Fact.MR, a provider of market research and competitive intelligence, the autonomous patrolling market is anticipated to rise at a CAGR of 10.8% to reach US $438.3"
-publishedDateTime: 2023-08-24T22:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/g34035498/autonomous-patrolling-robot-market-is-anticipated-to-reach-us-438-3-million-by-2033-fact-mr-report"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/g34035498/autonomous-patrolling-robot-market-is-anticipated-to-reach-us-438-3-million-by-2033-fact-mr-report"
-ampWebUrl: "https://www.benzinga.com/amp/content/34035498"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34035498"
+title: "Autonomous Patrolling Robot Market Is Anticipated To Reach Us$ 438.3 Million By 2033 : Fact.Mr Report"
+excerpt: "Demand for autonompatrolling robots from the commercial sector is expected to witness a CAGR of 10.9% and reach a market valuation of$ 153.8 Mn in 2033. As per the segment type, the UGV sub-segment dominates the market and is expected to share a 45.3% market share in 2023"
+publishedDateTime: 2023-08-25T01:27:00Z
+originalUrl: "https://menafn.com/1106938874/Autonomous-Patrolling-Robot-Market-Is-Anticipated-To-Reach-Us-4383-Million-By-2033-FactMr-Report"
+webUrl: "https://menafn.com/1106938874/Autonomous-Patrolling-Robot-Market-Is-Anticipated-To-Reach-Us-4383-Million-By-2033-FactMr-Report"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?29240"
+    width: 386
+    height: 250
     isCached: true
 
-secured: "1V2DRIYKEaFJDW21gPquqZQPhfM//9Ra4NoMY6cTNtan7blZNrCup99ejVmhpadg7yi+5W/WKCgn+WeD980wGUM8vrbP1hzOAD7nQ99cYQDEBDRQ2AgwWukCs2nisCelE2wVd3OPLWD0Nat1wvJykqzjvnBC86jVOZ5HV78vB8wWPNZUetgXEDNYBZezSku19d9nd4OQf18fFy1EqNCtuwHjDPgTJRsTacDAn4mcH5s4BT8E5sFbromuHgLKRb4M5Gye61EPkA2N0I2G3rXCNqshldgDeCypHPQh5UJNGEWkc7KOKpJ9cN8WtffIoWZSA+YB0RVjMyKSOEHAhLzrwLUuGmBpK2ffE7gFvdtL9BI=;ddloUlSkYdolW+h54lx11g=="
+secured: "ZS0Q7IzgIgsNXkyme08aOKtq89/hBRbfG4OesWPSnzhRMm26Umvm4sgyh4w9wZ/cO/jaExOToKX8W+YXOOtcyyANHTD4uZMDh5m0RuMT7SAdBf7ac1RoTZ6hyCCP3nY2tIgCa0APjg9chwBXI+Cp3ju3JQqy9W/ypxuAHkvf/sFT1Yphg35qnD+AF7FOgnt/SdbpCBBcFM3bLj09svAk9BOZLpuVohRGtnq0YNVdjYscj9fiiLCcWvi/A2GK2z3vLDZ/eUP0WE6sudmetxIUC+0HOSN4KBX5Eg/Xfp5xesYdCZ5vCUkRjhU+9zNKFT0gbaNztPcbKMHG7MyKBRyALr12W1HeeCNGJHjISJAEx3Y=;6XLvw1QE6Pgm6tUIj0ZjjQ=="
 ---
 

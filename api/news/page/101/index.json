@@ -2,6 +2,101 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-06-19-artificial-intelligence-may-eliminate-some-jobs-openai-executive-says.md",
+      "title": "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says",
+      "excerpt": "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-802734/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-far-field-speech-and-voice-recognition-market-worth-69-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Speech and voice recognition systems must include an audio-playback path. However, an acoustic echo occurs when the audio being played back is picked up by microphone elements and sent back into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32913346",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32913346",
+      "publishedDateTime": "2023-06-19T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-73-of-consumers-trust-what-generative-ai-wants-us-to-see.md",
       "title": "73% of consumers trust what generative AI wants us to see",
       "excerpt": "Eager to use generative artificial intelligence to save effort and time, most consumers trust content created by such tools, including ChatGPT.",
@@ -1084,109 +1179,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030.md",
-      "title": "2023 Artificial Intelligence (AI) Robots Market Size, Share and Growth Forecast to 2030",
-      "excerpt": "The \"Artificial Intelligence (AI) Robots Market\" research report for the period 2023-2030 offers a comprehensive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future.md",
-      "title": "AI Delegation: The One Skill You Will Need To Succeed In The Future",
-      "excerpt": "Learn why understanding and using AI tools is a critical skill for both individuals and businesses in the evolving digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648febad4bdd8c39f2b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "publishedDateTime": "2023-06-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-19-microsoft-says-that-ai-is-the-new-tidal-wave.md",
+      "title": "Microsoft says that AI is the new “tidal wave”",
+      "excerpt": "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave",
+      "originalUrl": "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
+      "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
+      "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
+      "originalUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64dfe024bd98a6001979d253?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
+      "publishedDateTime": "2023-08-18T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-have-you-used-generative-ai-to-shop-17-of-shoppers-have.md",
       "title": "Have you used generative AI to shop? 17% of shoppers have",
       "excerpt": "The Salesforce report highlights that 17% of shoppers have used AI for purchasing inspiration, highlighting how the technology is rapidly growing in retail.",
@@ -1100,92 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-googles-deepmind-reportedly-developing-ai-tools-for-life-advice.md",
-      "title": "Google's DeepMind reportedly developing AI Tools for life advice",
-      "excerpt": "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-chinas-new-rules-on-ai-generated-content.md",
-      "title": "China's new rules on AI-generated content",
-      "excerpt": "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
-      "originalUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
-      "publishedDateTime": "2023-08-18T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

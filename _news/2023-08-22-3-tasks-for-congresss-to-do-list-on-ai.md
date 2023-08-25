@@ -20,6 +20,22 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "Meta’s latest AI tool is built for coders"
+    excerpt: "Following its other releases, Meta has taken a step further into the world of AI tools with a new one built just for coding."
+    publishedDateTime: 2023-08-25T01:10:00Z
+    webUrl: "https://bgr.com/tech/metas-latest-ai-tool-is-built-for-coders/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
+
 secured: "2TrUQHDF9ShYu3nK5G16O5J8vk37WmNcBvGVqtZkqlhNutoifLdljeGtxQs8gk8GqByrugebjB30AbuMq8xshwMEmUJTK6CMb9WtzDGNwW6WwdEtHdjIBjvf2RvUxWNduuy7CtRiq9lCsiYvR3lSM2tbkovzSC5uP6P1cIq0Sbl2UuqltqczWusl4Tyx+eS/qnsbEWxs7Q/ElqS90VPACDw23GHromXmzlVlSmGck7UzW9BzPNy1MkWrTHvpTyFOLQul9Nd34kudIhiaAS00q7RLN6FAeShIfE+oDufZR58wmO6NAItyiSz3tat1LJiLP8vhem59vxqnpu8Rn3AM+1XM7p6Iu5smuWpQnucUh6A=;IJlk4t8fjjOUl+OycvTjzA=="
 ---
 

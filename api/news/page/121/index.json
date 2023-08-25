@@ -2,6 +2,102 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-06-06-ai-for-value-investors-megacap-tech-etn-dlr.md",
+      "title": "AI For Value Investors: MegaCap Tech, ETN & DLR",
+      "excerpt": "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
+      "originalUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e71f5e8e43bc88257b388/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
+      "publishedDateTime": "2023-06-05T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-aws-announces-general-availability-of-amazon-security-lake.md",
+      "title": "AWS Announces General Availability of Amazon Security Lake",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization’",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "originalUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "publishedDateTime": "2023-06-05T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-eu-asks-big-tech-to-label-ai-generated-content.md",
       "title": "EU asks Big Tech to label AI-generated content",
       "excerpt": "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?",
@@ -1103,101 +1199,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-improving-ai-chips-with-the-help-of-human-brain-cells.md",
-      "title": "Improving AI chips with the help of human brain cells",
-      "excerpt": "AI is modeled on the human brain. To copy the brain's functions, an Australian startup has grown human brain cells on electrodes in a petri dish. This means the new",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html",
-      "originalUrl": "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/86/686ad286-bc62-5d3f-a872-9d00e912b2fe/647a38cdd5f2b.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize",
-          "width": 940,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-stability-ai-ceo-says-hes-sad-about-report-he-exaggerated-his-resume.md",
-      "title": "Stability AI CEO says he’s ‘sad’ about report he exaggerated his resume",
-      "excerpt": "Emad Mostaque, the CEO of Stability AI, spoke with VentureBeat for a Q&A about the recent Forbes report and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/VB22_StabilityA1_03-e1685971474825.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

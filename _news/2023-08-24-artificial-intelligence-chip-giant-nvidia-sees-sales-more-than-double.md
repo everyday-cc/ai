@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
 type: article
 quality: 121
-heat: 711
+heat: 731
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "For Nvidia, it’s AI or bust as it reports a record-breaking quarter"
+    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI boom drives chip sales for Nvidia, which has substantial Triangle presence"
     excerpt: "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company."
@@ -592,6 +608,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
+    excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
+    publishedDateTime: 2023-08-25T01:50:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/nvidia-ceo-says-ai-boom-is-not-a-one-quarter-thing-599627"
+    type: article
+    provider:
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
     excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
     publishedDateTime: 2023-08-24T00:13:00Z
@@ -747,6 +777,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "v/Ei35V2qBRvYLp1DEaf8/jTtoc43eMKXcZE7UQ4QGbpakLOYgWCBxPICrNVrFcvz3AYtG64UYiYfeBIIdM+JJGCC4/y/Q6S4G0VdIA6eXieXP/himpT+f+7ogFqVEpvfWsvm/novrT4hKF9ZLrQD+nDHcrYDKx26ICC5/J2EFAgwJArBPToufJRseb7BtctFIMPI4GahR2aYcMIQspGciOoCSMvlGme0tstm4+iucDV8nAuQMhJx2smOyQD17uNajNEFUnxysZ8OuA9irqga5irM+zrvJ5+3r3RxZfVCKShm3JzoFGdM+vMtoIWW4+c8QdBWhzxLR8zJ4MHWWtG+0N+mIMFWAVVerxZq8Cuh+Q=;76a7Yr9U7/gBk4XSwofo/A=="
+secured: "9t7PSFmDzNUfXpLJ5KznysIp/CpGAMERzTi4pBRb8U1jN1LDlxxJ0HtKq2RfKC07CdnX32FI0dhv8Le4H2Ms73HXN1EQNWVBGv7fXt5zWO1HqvEBu5z7QSjM7g0zWlmNOhtnd5eMpOPq0+NTmIeXhh3Wu5SFHzb5kSYC1ci4z6PLl+2IEDvo4Yjk+cfS8TYO/v63ipkEvi5OCFXfBi+sayBjUVh69AlPVQeETGT4jWhEd+MP4Maxm+9Un/ZVD/j5HhDglE3eN1R1oT5+0hZY+e0y+lOHnYi/gIMO1AKUg/FDtFO1YzebVSvCxe/BTGYWEYAom9JNsaqTOH3FofLOgDuu1UtJThfXBfN5P9qCZNFTTQ96UHREPT4FP3S4L94fZAxvjRDRb0sU9buXnTCON+m2KmE6goZIdHFNVE87FmQkiaMdphQNUNmIMnkThybMO6TtzjPBw578cIMEief9EcYVN5kfgsEX359HUndsfEBDiO/wz4K5+5Zfdp+JW6RuboHCrSfJ3POMhnCpl7nPMw==;Y3H54u2+ZUc/6GvWRuI7Nw=="
 ---
 

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-24-aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace.md",
+      "title": "AWS Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace",
+      "excerpt": "Verofax, an award-winning Brand & Retail Martech service provider, achieved Full Technical Review (FTR) approval on Amazon Web Services (AWS) marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34017188",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188",
+      "publishedDateTime": "2023-08-23T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-artificial-intelligence-chip-giant-nvidia-sees-sales-more-than-double.md",
+      "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
+      "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 731,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp",
+      "publishedDateTime": "2023-08-23T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes.md",
       "title": "Could you soon be running AI tasks right on your smartphone? MediaTek says yes",
       "excerpt": "MediaTek is working with Meta's Lllama 2 LLM to run generative AI tasks directly on mobile devices, no cloud-based processing required. There are several benefits to this -- but there's also a catch.",
@@ -1089,109 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
-      "title": "Start Preparing For AI Regulatory Compliance Now",
-      "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63063108bc674cf3651b5fd1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
-      "publishedDateTime": "2023-08-23T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-no-ai-can-learn-the-art-of-medicine.md",
-      "title": "No AI Can Learn the Art of Medicine",
-      "excerpt": "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6306922/artificial-intelligence-medicine-doctors/",
-      "originalUrl": "https://time.com/6306922/artificial-intelligence-medicine-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85",
-          "width": 2945,
-          "height": 1018,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

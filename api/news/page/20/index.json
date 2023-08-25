@@ -2,6 +2,101 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-08-09-nvidia-unveils-rtx-5000-4500-and-4000-ada-workstation-gpus-to-crush-ai-workloads.md",
+      "title": "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads",
+      "excerpt": "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
+      "originalUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
+      "publishedDateTime": "2023-08-09T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive.md",
+      "title": "The Future Of Recruitment: How To Use AI To Make The Hiring Process More Inclusive",
+      "excerpt": "cutting out time-consuming research and simplifying administrative processes. In this way, employees can concentrate on more creative initiatives and focus on becoming experts in their areas. Still, generative AI requires the human touch. While it can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649459616a526619b13cb26b/0x0.jpg?format=jpg&width=1200",
+          "width": 1007,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/amp/",
+      "publishedDateTime": "2023-08-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity.md",
       "title": "Unmasking the Social Impact of Robotics: Implications for Society and Humanity",
       "excerpt": "Robots have always fascinated us, sparking visions of futuristic worlds where they effortlessly interact with humans and revolutionize industries. As robotics advances, it’s time to uncover their social impact.",
@@ -1066,83 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-the-3-best-ai-chip-stocks-to-buy-in-august.md",
-      "title": "The 3 Best AI Chip Stocks to Buy in August",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-skyline-robotics-to-expand-with-335m-funding-round.md",
-      "title": "Skyline Robotics to expand with $3.35M funding round",
-      "excerpt": "Skyline Robotics continues to build momentum adding key patents to bring Ozmo window-cleaning robots to key cities globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/",
-      "originalUrl": "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

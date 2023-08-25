@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
+      "title": "Start Preparing For AI Regulatory Compliance Now",
+      "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63063108bc674cf3651b5fd1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "publishedDateTime": "2023-08-23T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-no-ai-can-learn-the-art-of-medicine.md",
+      "title": "No AI Can Learn the Art of Medicine",
+      "excerpt": "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6306922/artificial-intelligence-medicine-doctors/",
+      "originalUrl": "https://time.com/6306922/artificial-intelligence-medicine-doctors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85",
+          "width": 2945,
+          "height": 1018,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.md",
       "title": "The most in-demand AI skills — and how companies want to use them",
       "excerpt": "“Generative AI was born out of machine learning techniques. People added rule-based systems ... but companies that have their own open AI services, like Microsoft and Azure, also offer online training opportunities.”",
@@ -552,7 +655,7 @@
       "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1154,101 +1257,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-content-in-context-the-foundation-for-modern-knowledge-management.md",
-      "title": "Content In Context: The Foundation For Modern Knowledge Management",
-      "excerpt": "Not every organization will need cognitive search as it is a more technical solution, but for those who are dealing with a deluge of content, it is an important tool for information management. If you are a Microsoft 365 or Google Workspace customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dbb162d739688054b1ea45/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/amp/",
-      "publishedDateTime": "2023-08-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ai-facial-recognition-technology-the-black-box-hurting-black-people.md",
-      "title": "AI facial recognition technology: the black box hurting Black people",
-      "excerpt": "Unknown to her, the ministry used artificial intelligence (AI) facial recognition technology (FRT) to match her photo to some other woman in its database. MTO passed this information to Immigration, Refugee and Citizenship Canada (IRCC). Subsequently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "originalUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/b0/eb0ee82b-c1af-5a3d-a901-229b6864a65a/64e3dadf0db19.image.jpg?resize=1024%2C1081",
-          "width": 1024,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "publishedDateTime": "2023-08-22T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

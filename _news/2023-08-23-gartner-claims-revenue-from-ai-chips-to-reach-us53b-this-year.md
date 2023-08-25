@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-c
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
+  - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
+    excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
+    publishedDateTime: 2023-08-23T00:00:00Z
+    webUrl: "https://businessmirror.com.ph/2023/08/23/alibaba-cloud-named-a-challenger-for-second-year-in-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 21
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/unnamed-13.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
     excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
     publishedDateTime: 2023-08-22T07:30:00Z

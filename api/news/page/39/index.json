@@ -2,6 +2,101 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
+      "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
+      "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
+      "originalUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2023/05/Social-Media-Hacking-Generic_NBC-5-Responds.png?resize=1200%2C675&quality=85&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
+      "publishedDateTime": "2023-07-26T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud.md",
+      "title": "Signifyd's Developed An AI-Powered Response Solution To Combat Retail Fraud",
+      "excerpt": "Fact: “If it were measured as a country, then cybercrime ...would be the world’s third-largest economy after the U.S. and China... and represents the greatest transfer of economic wealth in history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1c0f8e717bf59b303e3c3/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1162,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
+      "publishedDateTime": "2023-07-26T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-ai-tools-pose-threat-to-research-ethics.md",
       "title": "AI tools pose threat to research ethics",
       "excerpt": "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT.",
@@ -1093,103 +1188,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence.md",
-      "title": "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence",
-      "excerpt": "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-07-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
-      "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
-      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2016/08/81e5444011ea410282b5bcd2bee64934_38691788_ver1.0.jpg?w=2000&#038;ssl=1",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN-TV",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

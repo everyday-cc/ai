@@ -1,24 +1,28 @@
 ---
 category: news
-title: "HCLTech collaborates with AWS to accelerate GenAI adoption"
-excerpt: "As part of the collaboration, HCLTech intends to use Amazon CodeWhisperer with over 50,000 HCLTech engineers, cloud practitioners and developers to build secure applications and leverage AI responsibly,"
-publishedDateTime: 2023-08-23T15:55:00Z
-originalUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece"
-webUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hcltech-collaborates-with-aws-to-accelerate-genai-adoption/article67227756.ece/amp/"
+title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
+excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
+publishedDateTime: 2023-08-23T12:00:00Z
+originalUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
+webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: HCL Technologies
+  domain: hcltech.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
+    width: 1201
+    height: 631
+    isCached: true
 
 related:
   - title: "HCLTech partners with AWS to drive GenAI adoption"
@@ -52,6 +56,6 @@ related:
         height: 765
         isCached: true
 
-secured: "/xqq1UgegMZfRUCZCmXJI2QYGhlEvCJ6pwVDxKFcS/NKmEpDWvZoLethcN6fBKtcqAcr1Eop5EqyVCYn7YVBYhr0hTlHlXoLsDT2It3Gf4hUCSTr41MSEldG1aFOdvn9ZaXqC4o8e57D2CrUMi0ywy3EDYtm5K17SjWfcg6yjo1HdhzNYYVOzOBok9pYGoKiUK8Z7M+m3UEjVgany2lV23EfD9NLeBP9Zp9zOR6verWyMDi5cbG9LDlDgzc+GatdqqVJT0LSTo91NYamo17vqvj24Taaykc3FqCyVS2AuJkTAPycjGbMDHJLcmoSn4lgCV+3Qx6FffLZz+sCra9VC7ZTGZEuI8i1ee9nliTX31ou5zkQ2P8FIXNVx+YMZvA58Yzji6XtSWt+hK5tPGTwfKX34MWExbBAFZHxxhveENfT0v1czCH4XnWMUO1sculJfQYT/yiBZNDTSCK6U+lXXXUqwPOVw5bTKRO5+HPrDkJ723ThZaCcrfigRt2dc32zRCtardEK/E6KL0BmndZnlA==;wca8uEHhgYDVW0unBvyX2g=="
+secured: "wG4HlcIUbMPk34wTbe70ltT7z1WS0tqj+Y9ubuxuQCGsGdPgcYkCkJlEDuMbYU9YeW1QN3Nc7gAKRnQtHgIL51MgkH62+lTfoIRIyix3/lVXf226WGrttiopVk7v+0iBvgx0zG9umNZ2B8RogYG3HT5kf8PDKzPclsbTFsxYIz+Og+ri9rYv8/1RrkhIrD0XYCQHzPJGR3KAOR4SfokTBnB2qCfrc1U66hwmnK9oTHpPL5ogC22tdWMeM08B9obhBJ0lZXYbPIoHVHSj6oRe4Wv2ZgsthxNmj7x+qcKc2PbAgxtDsPHjiB5KRT1/ak/nfXKNZQd7v8GE566bT4c9IoGv6qkfGmlLQ1w9bANVlYM=;Q/wTTjjqSVnH20SyGb6T8g=="
 ---
 

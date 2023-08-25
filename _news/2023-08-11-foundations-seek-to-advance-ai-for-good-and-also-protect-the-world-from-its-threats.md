@@ -2,27 +2,25 @@
 category: news
 title: "Foundations seek to advance AI for good — and also protect the world from its threats"
 excerpt: "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ..."
-publishedDateTime: 2023-08-11T16:46:00Z
-originalUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
-webUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
-ampWebUrl: "https://www.wral.com/amp/20995889/"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/"
+publishedDateTime: 2023-08-11T15:38:00Z
+originalUrl: "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/"
+webUrl: "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/"
 type: article
 
 provider:
-  name: WRAL
-  domain: wral.com
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg"
-    width: 640
-    height: 480
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QDPEEVBVX5DQNNG3Z7FJFMEWQQ.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
-secured: "u7+H4TbI8R4pfNMTvxHPz4M9HxzvVBq2ThZSjG991qVzMfUY7uxnWAGqrpsj73JDlLpRGVQsBIkyeK47YDhWmZ5GjTAGzDCGkPSjoP05fpwqIRHTqPZUM7QsWXwJjnWRz8N4o3uY6IivcGknYNhN5Br2Xrspcwr1ykqHLT6Yj7N2ktqVHiEWth5JAkmLmYHKJPVzucTbbdfAu4v8ppW0rCRUn4FDG4AsoQznvsu8+GkNYu+S+ERCEOVKzSNNYpiJiwlG55JS1pp+hL/e8V6+xL1g7OFj8+WVmHGM5WlaHZw63F7xzy6JspUzGC6DM4VESQLA7X3/iIdqzNAyQI4NE6HWs6L+/vyj25+jVx/fqhg=;loLn5H6F6gI8AusWUy2sjA=="
+secured: "8az4kfGVOpSRWbb1i94Ak/sXZVpOan7c4GrsM8P36uPfZRWs8Do038w64uh0w6E+eR3tj/UHJl+RAciphgHTNegkhinGw8Idwe5nFedeCW20brOSTrCSHSiq38Qk1CQkeN/qf+U//8x4TH4Ro3grwQ9Y2orAyFHoXPJKehhTdcnocwr8aNqzqN/iZNjhu6eWDJDxmie/FPNufwVRuByDwALEUqyCN6sN8HEqB18jf8sdBTYFhGbdN8+Uj3sh46pzCdyXZ3T0yxGlxRW/UWTIyusQ6+718c/b9RGM5iKPyqh/HxZ22IdiR2maWh9EyL4lXF9b9Q6l0IKrc6mDJodSQgv0fmYzTWxmBZlHi6WStUw=;SyFQ2pmZuzalQhmsNEwefw=="
 ---
 

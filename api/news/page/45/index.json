@@ -2,6 +2,101 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-07-24-singapore-looks-for-generative-ai-use-cases-with-sandbox-options.md",
+      "title": "Singapore looks for generative AI use cases with sandbox options",
+      "excerpt": "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "publishedDateTime": "2023-07-24T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-healthcare-artificial-intelligence-ai-market-2023-is-set-to-fly-high-in-upcoming-year.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market 2023 Is Set To Fly High In Upcoming Year",
+      "excerpt": "healthcare artificial intelligence (ai) market [ 118 Report Pages] Insights 2023 by Types (, Hardware, Software, Services, , ) , Applications (, Academic and Research Laboratories, Hospital and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106660485/Healthcare-Artificial-Intelligence-AI-Market-2023-Is-Set-To-Fly-High-In-Upcoming-Year",
+      "originalUrl": "https://menafn.com/1106660485/Healthcare-Artificial-Intelligence-AI-Market-2023-Is-Set-To-Fly-High-In-Upcoming-Year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132137",
+          "width": 360,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ignoring-ai-could-spell-disaster-for-top-executives.md",
       "title": "Ignoring AI Could Spell Disaster For Top Executives",
       "excerpt": "How long will your company survive if all of your competitors instantly become 30% more productive? That's exactly what's happening right now with AI.",
@@ -1103,108 +1198,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-5g-ai-and-iot-the-dream-team-for-modern-manufacturing.md",
-      "title": "5G, AI And IoT: The Dream Team For Modern Manufacturing",
-      "excerpt": "The Internet of Things has dramatically improved output for manufacturers over the last decade. IoT enables systems to support connected assets, critical for smart manufacturing and connected logistics; it's no surprise then that Statista predicts there will be 22 billion connected IoT devices by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2d0991429c251da8aa488/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
-      "publishedDateTime": "2023-07-24T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-generative-ai-is-coming-for-the-visual-effects-industry-what-the-technology-means-for-the-future-of-animation.md",
-      "title": "Generative AI is coming for the visual effects industry: What the technology means for the future of animation",
-      "excerpt": "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
-      "originalUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
-      "publishedDateTime": "2023-07-24T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

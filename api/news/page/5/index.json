@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-21-elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million.md",
+      "title": "Elemental Cognition, led by IBM Watson’s former CEO, raises USD 60 million",
+      "excerpt": "Elemental Cognition Inc., an AI startup founded by David Ferrucci, the former head of the team that created IBM Watson, has raised USD 60M in new funding.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/",
+      "publishedDateTime": "2023-08-21T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all.md",
+      "title": "How AI Is Opening Doors And Making Entrepreneurship Accessible For All",
+      "excerpt": "The AI revolution is ushering in a new era of entrepreneurship, where the barriers that once confined dreams to the realm of impossibility are crumbling. Time, money, access to information and networks are no longer insurmountable obstacles, and entrepreneurship is now a more accessible stepping stone toward a better future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/",
+      "publishedDateTime": "2023-08-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances.md",
       "title": "Big Tech’s voluntary commitment to responsible AI offers us false assurances",
       "excerpt": "In response to widespread concerns over artificial intelligence, representatives from Amazon ... Google and Amazon’s union-busting efforts, Facebook’s Cambridge Analytica scandal, and Microsoft and OpenAI’s copyrights violations are only the tip ...",
@@ -812,49 +906,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-19-artificial-intelligence-and-machine-learning-news-and-features.md",
-      "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230825",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-2-artificial-intelligence-ai-growth-stocks-that-wall-street-billionaires-are-buying.md",
       "title": "2 Artificial Intelligence (AI) Growth Stocks That Wall Street Billionaires Are Buying",
       "excerpt": "Those products led Morgan Stanley analyst Keith Weiss to conclude that Microsoft is the software company \"best positioned\" to monetize generative AI, a bold prediction that bodes well for shareholders. The generative AI market is expected to expand at 42% annually to hit $1.3 trillion by 2033, according to Bloomberg Intelligence.",
@@ -1055,6 +1106,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-19-artificial-intelligence-and-machine-learning-news-and-features.md",
+      "title": "Artificial Intelligence and Machine Learning – News and Features",
+      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
+      "originalUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230825",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-thumbay-institute-discusses-ai-potential-in-healthcare.md",
       "title": "Thumbay institute discusses AI potential in healthcare",
       "excerpt": "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms.",
@@ -1094,101 +1188,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-microsoft-says-that-ai-is-the-new-tidal-wave.md",
-      "title": "Microsoft says that AI is the new “tidal wave”",
-      "excerpt": "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave",
-      "originalUrl": "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
-      "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
-      "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "originalUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64dfe024bd98a6001979d253?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "publishedDateTime": "2023-08-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -60,6 +60,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "For Nvidia, it’s AI or bust as it reports a record-breaking quarter"
+    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
     excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
     publishedDateTime: 2023-08-23T21:18:00Z
@@ -587,6 +603,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/OIF.64e66f2d1c942.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
+    excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
+    publishedDateTime: 2023-08-25T01:50:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/nvidia-ceo-says-ai-boom-is-not-a-one-quarter-thing-599627"
+    type: article
+    provider:
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg"
+        width: 609
+        height: 457
         isCached: true
   - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
     excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."

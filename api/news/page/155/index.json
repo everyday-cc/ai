@@ -2,6 +2,108 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2023-05-15-goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform.md",
+      "title": "Goldman Sachs Is A Surprising New Entrant In The AI Race With New AI Social Media Platform",
+      "excerpt": "The move isn’t completely out of nowhere, given Goldman Sachs recently released a report on the future of work alongside AI. The study predicted AI could increase the global GDP by $7 trillion and increase productivity by 1.5 percentage points in just ten years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646212fda0c32776abcef342/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
+      "publishedDateTime": "2023-05-15T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-artificial-intelligence-voice-market-till-2030.md",
+      "title": "Artificial Intelligence Voice Market Till 2030",
+      "excerpt": "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response.md",
       "title": "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response",
       "excerpt": "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about.",
@@ -1130,109 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
-      "title": "My week navigating the awkward teenage years of self-driving cars",
-      "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f377989d941377b449012a3d9922f965",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "cdnAmpWebUrl": "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "publishedDateTime": "2023-05-14T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
-      "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
-      "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ffb6c361f51900ae45c0e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
-      "publishedDateTime": "2023-05-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

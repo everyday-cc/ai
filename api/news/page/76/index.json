@@ -2,6 +2,92 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
+      "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
+      "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/renatus-warehouse-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-ai-is-transforming-waste-management-recycling.md",
+      "title": "How AI Is Transforming Waste Management, Recycling",
+      "excerpt": "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "publishedDateTime": "2023-07-03T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
       "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
       "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
@@ -1074,100 +1160,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-future-of-ai-powered-personalization-the-potential-of-choices.md",
-      "title": "The Future Of AI-Powered Personalization: The Potential Of Choices",
-      "excerpt": "In the ever-expanding digital landscape, where choices seem limitless, AI-powered personalization has emerged as a game-changer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "publishedDateTime": "2023-07-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports.md",
-      "title": "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports",
-      "excerpt": "Fintech is one of the fastest-growing technology areas because it leverages AI to implement automation. The use of digital payment solutions is accelerating. The need for the development of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33093658/global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33093658/global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33093658",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33093658",
-      "publishedDateTime": "2023-07-03T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
