@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "California governor signals support for self-driving trucks"
+    excerpt: "Gov. Gavin Newsom's office has signaled his opposition to legislation that from operating on the state's public roads."
+    publishedDateTime: 2023-08-24T21:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/californias-newsom-opposes-bill-banning-self-driving-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/newsome_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
     excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
     publishedDateTime: 2023-08-21T19:32:00Z

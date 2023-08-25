@@ -45,13 +45,13 @@ related:
       domain: webindia123.com
     quality: 19
   - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-    publishedDateTime: 2023-08-22T02:10:00Z
-    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+    excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways."
+    publishedDateTime: 2023-08-22T06:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 12
 
 secured: "fvXrTB7jDExpwixHlu5EtMxZ8PpiJrIBuFOeDmK8E15EaPx/wTDfWAo9AX5zvV5HgufYTx/0rSCyu//7CGI0aoMS7Bq1JOPl8ipGdIHu70PuCnwh1CtIREmPgvYl348nukVZJ3nt/qcULKTVm/01GS1J8w3uSJFIPI7+itif/WTgiawEcSzVhWl7gPErDggwPAQh2tgWzd9LZlFIyAoUWv40bJpf2ejdcUwqxxq7vkP33hjUKeL+nu1Dir3VFH+iHneSfeTZaug1Uheb5OosrTTiHH637jEniNQEjgS8kIr5KxXaap3xohLvYPY9FpR/pQ005ZlbLkOA/leNhoO+sbdBtcW06f54/snvIlyeSuIChmPzvb1mqiYduQusHBQcGRkqqTi96Hu3gx3oiWRYYAHr5RfURppYi89BJofU7hyOcFieW4abW6yIl2Wt0+C8QefQX+PgAm1asmfaLGgz8dlSwU7HwERc9tCZXVxFr11SviFh/XgTBniY51FMBTj5EYTo3XOogQChtfyRj6n+ZA==;Rq8ODdWXgttoUoqoz5P/zg=="

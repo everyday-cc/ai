@@ -33,7 +33,7 @@ related:
     provider:
       name: Aclu.org
       domain: aclu.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.aclu.org/wp-content/uploads/2023/08/robot-choosing-employees-f.jpg"
         width: 2800

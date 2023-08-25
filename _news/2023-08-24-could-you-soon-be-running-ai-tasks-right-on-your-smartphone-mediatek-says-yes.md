@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
 type: article
 quality: 83
-heat: 104
+heat: 105
 published: true
 
 provider:

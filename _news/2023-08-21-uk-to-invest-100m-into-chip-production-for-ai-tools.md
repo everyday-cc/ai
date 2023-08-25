@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AI Startup Modular Secures $100 mn in VC Funding to Revolutionize AI Development"
+    excerpt: "Modular, a forward-thinking AI startup, has successfully raised $100 million in a recent funding round, spearheaded by prominent venture capital firm General Catalyst. Existing investors, including Google Ventures, SV Angel, Greylock, and Factory ..."
+    publishedDateTime: 2023-08-25T04:02:00Z
+    webUrl: "https://infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203"
+    ampWebUrl: "https://infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 52
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2022/04/VC-funding-for-tech.jpg"
+        width: 640
+        height: 409
+        isCached: true
   - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
     excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
     publishedDateTime: 2023-08-24T16:19:00Z

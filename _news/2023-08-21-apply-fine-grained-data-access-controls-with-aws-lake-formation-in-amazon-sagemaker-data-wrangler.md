@@ -74,6 +74,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "How to install Llama 2 on AWS SageMaker using DLC"
+    excerpt: "AWS SageMaker is a fully managed service provided by Amazon Web Services (AWS) that allows developers and data scientists to build, train, and deploy machine learning models at scale. It’s designed to make the process of machine learning more accessible ..."
+    publishedDateTime: 2023-08-24T12:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/llama-2-aws-sagemaker-dlc/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Llama-2-on-AWS-SageMaker-using-DLC.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "hXWKJlQQDR7Un7Eh+lf9Q3F0E9PYXXKl98NL5EcYf3JHuVLa5/APKumgtpqpZm/mOIa4rW7/zA1+xFNZGmsFYcjpE6QBInLDn2VqUIvqWg/7BT3xu0Vdxk1UPdL5Woa7nCml820de1cEi8QLuLC2gBRWgzour1udknUEDTMAYqqrnOOA5c5fV67JKLcWHM3tnWBLtfb80PMAuPMzqZBw7p+nJs7nBe4Dl7IFuw9Ty+Ag2hY6MSsWCI6LQ5UR4ZrYH5N//mx8AgBTHHi6cfZGLZLyf5Npnol+8YWk09Zj43dZKi75BKVBXJR2mG+4MmZzuCuqq4zFS1CL9CdwIiq729m4P8fNQiprKeLxC4BsouM=;YRrphrpFHhMyVH/pvQojfQ=="
 ---

@@ -36,6 +36,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
+  - title: "California governor signals support for self-driving trucks"
+    excerpt: "Gov. Gavin Newsom's office has signaled his opposition to legislation that from operating on the state's public roads."
+    publishedDateTime: 2023-08-24T21:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/californias-newsom-opposes-bill-banning-self-driving-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/newsome_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Z+7p7jXgDyjU+XseGozT/CRSHrh0+acIptUdvp+PBLj4pJgUOUqDBX4dMk4NiVBPTK/jYoNxwC8DKLD0AIkT6IqhZd3fFvJIm7lAT+xpjb4MZDumxjxRr6cHrtEdoPAsOXn5/q0meKrunSLzUgPsMoZJ8W/Cx0dXe7AjGsOYMNoBIdYD+ioYSYR5Mcw/H0lDbPEHYMyu52/5fpdmfssWszSXAglDH777jjMrudDPlyFgP6HNZQb3OknHGS1kHlkyGUqVxXsZ4JbfDcilmS0rnlSUVXu86QG+MojEgbAq25JgjLO24Vl29aNU1RmgFpuAKyk/LWw0EqjJJVL+gEqWD4GfyYAMJ0jiXvc6XW5n+MmldPCMLqEoelgHHm6bDXiIEOofcvfU4/STBq/kGw0XqTeDmKClpWXmCV5oO8y/+zaLP1rqim62Dr1XMieDJFhYvhEh/CyGneIsPtYnKouta0tuPFZ5EttxyY25UGcjoU591vbiISUISGem96/qwgCvpvZ+Us2JEeswx0g+pnYAzg==;eLCcTBzH17UJLro2RHf2Aw=="
 ---

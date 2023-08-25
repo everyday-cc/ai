@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-wit
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-decentralized-training-data-using-federated-learning-on-amazon-sagemaker/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/24/featured-images-ml-15127-1120x630.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "How to install Llama 2 on AWS SageMaker using DLC"
+    excerpt: "AWS SageMaker is a fully managed service provided by Amazon Web Services (AWS) that allows developers and data scientists to build, train, and deploy machine learning models at scale. It’s designed to make the process of machine learning more accessible ..."
+    publishedDateTime: 2023-08-24T12:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/llama-2-aws-sagemaker-dlc/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Llama-2-on-AWS-SageMaker-using-DLC.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "m1DlO4ZrmjNvi5Vk3Rq4+56IgBpR/riNIpMl87b9HvpLmNbfWiycY5jYol5sEqidxpCo7DK956uCP1e5Pt4+gvdeOJXS41FEhkkbyb+VxklSyK2cQGTAX+VWraq3r2ACQ76UcAl9P13H1L1HSH+ffhjz3U58F7GLIW/VREuEWxhIuvSOmi0cqgrnCQ4KXtdnHdZDb/xeGMvUsRoAZsWHZd1YrElTPva60VJpdT0MdoiGHzrTx6if/TLVvrRFbgtYE5jDlCq81PbrIZa1Vp5AN07d9OzCp/3qcHqkh+fsouEs2kFozHtMQNCOKDIjrsK5lY3Y3/fGC1YFnIiLcb5vPpTsaRYyWKdSpla44AJEOhI=;XHMxS96LTww0ZHt7QdqQTg=="

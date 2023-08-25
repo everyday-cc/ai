@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dreame Technology Robots Steal Spotlight at the 2023 World Robot Conference"
-excerpt: "As a general robotics company, Dreame Technology took center stage for the first time at the World Robot Conference. It unveiled a wide range of robots, including general-purpose humanoid robots, consumer-grade bionic quadruped robots,"
-publishedDateTime: 2023-08-25T01:08:00Z
-originalUrl: "https://www.digitimes.com/biz/news.asp?feed=2169"
-webUrl: "https://www.digitimes.com/biz/news.asp?feed=2169"
+excerpt: "On August 22, the 2023 World Robot Conference (WRC), which was held in Beijing with the theme of “Spurring Innovation for the Future,” came to a big success. The 2023 World Robotics Expo and the 2023 World Robot Contest took place at the same time,"
+publishedDateTime: 2023-08-24T18:46:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3374234"
+webUrl: "https://www.thaipr.net/en/it_en/3374234"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/2193616/Dreame_Technology_Robots.jpg?p=medium600"
-    width: 600
-    height: 400
+  - url: "https://www.thaipr.net/wp-content/uploads/2023/08/3952690-768x432.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "9ueJEGhF5k57zLGfqLfxFi3Xig2eYO7j9l8h9OkvOubj4WY1qn2G0JYizhd1hnZdUaVcfCEaL9FR//Jgd7H/XvG4pkDvXuJ5j9ab/XvDGp298Iti5BcTN9YJLwH9zADqNJY+sfv365lzzQewPl7Xcq2qv6AHOSko2m7og7MixCLMLuOwFW5kO94iMvIrJZdss4MM40ELojqZcxoE/6/t38LYXMXovZeIUskPMoqSEClt22OxvgRSz8+ti/zLic6NjKxw6Ejhtul+4ZKP74xlIfO+zpmTeO0rg/GCKcCjT9xXX/jIvcs5pIE6UVd307frCuM/Wf76pbN3t7/qn8ov7XL9U+2HT9GaUsU7oJNU1e4=;/kYuWb6CfF08vHHLHK9Mxg=="
+secured: "kHSIo2uBMOPZl4rhSvoixQcVG7HRNpaCoA6dgoseOhxuaj4lzNKqq/btRxGCN7wioevNYSu1mYy+PfHDTUEmkUhz+IAB72i2ajXreIVxG+cDYu6ZbhR2mduX39NLL8o988Mvz8L+33Vk4ySeF9pyuEc1fF6foEvnbt2gGovFUZTzTHcSGIwhoUGkLc5m0ptfMwDUKbIotpUl+X1TLVNCClcXY4/MEwzA6owsOYmFfi8SXevh5BqwwMWm48W9T0g7oVrHSFVoh7oIhsBylu9FXMiuoTnWM2cIjrZzjxaJ1EoFzxJcbSf6Kwl08Q7UsZMWJBSEQpGo70Y6FS+ZDESxNjMcXWS0p9QaHL5+T3LI9yA=;Hgr2D0QYL7/6uuj8ELFeaQ=="
 ---
 

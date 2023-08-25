@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr
 webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
+    excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
+    publishedDateTime: 2023-08-25T05:51:00Z
+    webUrl: "https://news.uark.edu/articles/65992/university-startup-collaborates-on-2-2-million-ai-driven-cybersecurity-project"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 32
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2023-08-23_03-38-33-PMBastazo.jpg"
+        width: 900
+        height: 675
+        isCached: true
   - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
     excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
     publishedDateTime: 2023-08-23T13:59:00Z

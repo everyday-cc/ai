@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
+    excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
+    publishedDateTime: 2023-08-25T05:51:00Z
+    webUrl: "https://news.uark.edu/articles/65992/university-startup-collaborates-on-2-2-million-ai-driven-cybersecurity-project"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 32
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2023-08-23_03-38-33-PMBastazo.jpg"
+        width: 900
+        height: 675
+        isCached: true
 
 secured: "B7h7xBjTYxmVllYlrHl5gnGcZnK5zD+FKbTR+xjo0z1p3fhI2Sviy1eab40rMLMp9h0ZYBYuveuqIn1iJGAprjGjheks3GdSLvt4NdEubLluRi6CbWQeKCupS1n8W0oFzfnLFiKBM7AL5eOqYM1lexi4iDX1ZyQ8WHIvpDmFDYkwVzuau6YMPPzBr39uglciCn6IuafmGdMNqG0pZuf0PBeH4n8QZPYrMR4GRriY6z6LCn0N1C8W1ZPWDC+Vi0mUc54sggqU4frepsd0NxF0RTt9011B4H7rVPz4BnmiPZht2Wjrwznqz4FFs7LXNRXCCrzd3JZqH8cwGBejQGfHRZMWbimhZ8z2QIvIu4RME3GRj7Vyy+JZfQQLltRa3KAat6ir1X6pWQKFJ8VKMRecV1vODi9VazTRYF3lJfbKE5GVzMnBjE22k7IkHbBWjizB5Oj2KIjXXEzE7HoXMDf0kDQst282Rk+vTChcZS4+R36LtVVzgu2H1cMRHlGpepHW/Fb0Pi1xNloSg64wjQMvBQ==;xI01YuDEhgb2ie6XXGEVTA=="
 ---
