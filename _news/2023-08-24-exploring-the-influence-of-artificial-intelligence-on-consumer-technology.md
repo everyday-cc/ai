@@ -66,6 +66,20 @@ related:
         width: 1280
         height: 718
         isCached: true
+  - title: "Facial Recognition Technology (FRT) Statistics for 2023"
+    excerpt: "Facial recognition technology is a recent AI innovation that uses advanced algorithms to provide simplified solutions. It is a security solution that involves identifying individuals using their ..."
+    publishedDateTime: 2023-08-22T17:24:00Z
+    webUrl: "https://techreport.com/statistics/facial-recognition-statistics/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/FRT-Statistics-At-a-Glance-scaled.jpg"
+        width: 2048
+        height: 1324
+        isCached: true
   - title: "Banyan Technology offers predictive truckload pricing through an AI tech partner"
     excerpt: "Software startup Greenscreens.ai applies machine learning techniques to aggregated market data mixed with individual client histories"
     publishedDateTime: 2023-08-23T20:09:00Z

@@ -64,6 +64,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
+    publishedDateTime: 2023-08-25T17:18:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/bravo3-ann-square.jpeg"
+        width: 700
+        height: 700
+        isCached: true
   - title: "AI helped a stroke patient speak for the first time in 18 years"
     excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
     publishedDateTime: 2023-08-23T22:54:00Z

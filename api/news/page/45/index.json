@@ -2,6 +2,162 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-07-25-ai-appears-more-human-on-social-media-than-actual-humans-study.md",
+      "title": "AI appears more human on social media than actual humans: study",
+      "excerpt": "An artificial intelligence study published in Science Advances found that AI-generated text on social media can appear more human than human-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "originalUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bff1022-cc69-4a58-ab0c-7d0afacf8a0c/c38f9884-dfb7-4d64-9f42-d747aef5d144/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-on-the-front-lines-senate-pushes-army-to-develop-neural-sensors-to-track-soldiers-fatigue-stress.md",
+      "title": "AI on the front lines: Senate pushes Army to develop neural sensors to track soldiers’ fatigue, stress",
+      "excerpt": "Senators on the Armed Services Committee want the Pentagon to move quickly toward adopting AI-driven neural sensors for American warfighters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress",
+      "originalUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-our-schools-war-on-ai-is-a-national-security-threat.md",
+      "title": "Our schools’ war on AI is a national security threat",
+      "excerpt": "America’s artificial intelligence superiority is at risk, and the key contributing factors are the broken U.S. education system and fear of job loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
+      "originalUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/373f793d-841a-4c28-8ed0-cc33d7e54de6/25e4f207-a021-4f29-ade6-ef88e54f89c4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
       "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
       "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
@@ -1042,162 +1198,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ignoring-ai-could-spell-disaster-for-top-executives.md",
-      "title": "Ignoring AI Could Spell Disaster For Top Executives",
-      "excerpt": "How long will your company survive if all of your competitors instantly become 30% more productive? That's exactly what's happening right now with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
-      "originalUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64be91afb47d40b871d98954/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
-      "publishedDateTime": "2023-07-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
-      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
-      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
-      "publishedDateTime": "2023-07-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-07-24T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

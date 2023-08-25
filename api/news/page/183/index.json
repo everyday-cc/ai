@@ -2,6 +2,135 @@
   "page": 183,
   "value": [
     {
+      "path": "_news/2023-04-29-3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market.md",
+      "title": "3 Stocks to Buy for Exposure to the Growing AI Chip Market",
+      "excerpt": "Illustrating the extent to which chip makers’ financial results can be lifted by the tremendous growth of AI, Nvidia’s (NASDAQ: NVDA) top AI chips are selling for a huge $40,000 apiece on eBay, CNBC recently reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "originalUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
+      "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
+      "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-771262/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
+      "title": "8 emerging entrepreneurs you need to know about in 2023",
+      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
       "title": "Why Google DeepMind may be 'bad news' for the company",
       "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
@@ -968,126 +1097,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Fetch, Madison's unicorn tech startup and the nation's leading rewards app, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092422",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092422",
-      "publishedDateTime": "2023-04-28T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-washington-dc-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Washington D.C. Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Booz Allen will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost in the Fall of 2023. The AI Bootcamp in Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092320/washington-d-c-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092320/washington-d-c-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092320",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092320",
-      "publishedDateTime": "2023-04-28T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-indianapolis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Corteva will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Indianapolis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

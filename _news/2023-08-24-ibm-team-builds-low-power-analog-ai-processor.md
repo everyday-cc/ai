@@ -85,6 +85,15 @@ related:
         width: 1782
         height: 1614
         isCached: true
+  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
+    excerpt: "A new breakthrough in tech may have just solved artificial intelligence’s energy problems. AI requires a massive and growing amount of"
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibms-new-analogue-chip-boosts-ai-energy-efficiency-1032581350"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "6vxcOgzqmLOHYpCgV1/AFwT8wST44oxreDtJrzFejgQEyZI8ZJfuLqVQ6NIHYAP6YuwnmQ1zsmCFH2kVpXaDT5KXMiwTYml84w5ouELfFSqI7rJmcSpndwcnZPBKOuMd0zOrAzVBb7EvbKYP32fagcpzQSMetgDhKkGeBjBWePXmvpmMsVlf2G9W4nXtwVawrazfhp9uNu1xZ6Oa+/cZhdMtYHWBv5bUT9sEPFejSLKCA+laUwnK2nTkvGciCpz46Q/rELg+cLAw1/UUUNvbNmBMYDzg0jfOeCxMzd1gbAaS4LjR2bfIEI+/kktVCtpsTJrJBRIrX9rb/W7Xpgu/ggVBgnzSIErF4hV1Q3NG717cx7VzBnIMzbGdqIJoPdK35JPl42MJXYbYWyzt7qMM5v0/9IIXGXFOtVsFQGpSQ/GEIvb2ahShlqRuUTQtmFHBrUQpK8pmR32TCavyCiN0ZCZkEAUvt33P1RiiO9gIpF1AVvVbD1eBg1nHW1nRqHS217X11YMAUcXh2XWWqx9PgA==;6W0U3oy5iSqOPOlemeeAZA=="
 ---

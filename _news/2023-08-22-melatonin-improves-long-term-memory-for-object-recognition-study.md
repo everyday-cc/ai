@@ -36,20 +36,18 @@ related:
         height: 1620
         isCached: true
   - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-    excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
-    publishedDateTime: 2023-08-21T18:43:00Z
-    webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-    ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
+    publishedDateTime: 2023-08-22T02:10:00Z
+    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 52
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 32
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Melatonin improves long-term memory for object recognition: Study"
     excerpt: "Multiple studies in animal models have shown that melatonin and its derivatives improve memory. It is also known that the phosphorylation of certain memory-related proteins is required for the formation of both short- and long-term memories."

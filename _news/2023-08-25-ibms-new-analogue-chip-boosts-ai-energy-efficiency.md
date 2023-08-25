@@ -74,6 +74,15 @@ related:
         width: 1782
         height: 1614
         isCached: true
+  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
+    excerpt: "A new breakthrough in tech may have just solved artificial intelligence’s energy problems. AI requires a massive and growing amount of"
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibms-new-analogue-chip-boosts-ai-energy-efficiency-1032581350"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "IBM team builds low-power analog AI processor"
     excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
     publishedDateTime: 2023-08-23T19:23:00Z

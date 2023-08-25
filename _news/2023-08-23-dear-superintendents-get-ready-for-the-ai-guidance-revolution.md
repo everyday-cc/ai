@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
+    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
+    publishedDateTime: 2023-08-25T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
+    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
     excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
     publishedDateTime: 2023-08-24T13:00:00Z
@@ -80,20 +96,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI-powered eye scans could revolutionize early detection of Parkinson's"
-    excerpt: "The study, published today in Neurology ®, the medical journal of the American Academy of Neurology, identified markers of Parkinson's in eye scans with the help of artificial intelligence ... patterns and current therapy), which could have related ..."
-    publishedDateTime: 2023-08-21T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/AI-powered-eye-scans-could-revolutionize-early-detection-of-Parkinsons.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Close_up_of_the_beautiful_eye_of_a_young_child_-_Nik_Bruining_f959060df7e6466ba2733a4c18153083-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Novel AI-powered solar panels offer 88% energy efficiency"
     excerpt: "Solar cells have a theoretical maximum power that they can generate with sunlight received. But what happens when you lower the resistance?"
     publishedDateTime: 2023-08-22T06:46:00Z

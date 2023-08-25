@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intellig
 webUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intelligence-impact-the-workplace/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "The Real Risks of Artificial Intelligence in the Workplace: EEOC Obtains First Settlement in AI Class Action"
-    excerpt: "In May 2022, the EEOC filed an age discrimination lawsuit against a group of affiliated companies employing English-language tutors. According to the EEOC, for a brief period in the spring of 2020, those companies programmed application software to ..."
-    publishedDateTime: 2023-08-24T20:52:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-real-risks-of-artificial-6622483/"
+  - title: "Nearly 40% of workers think generative AI can help with workplace communication"
+    excerpt: "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier."
+    publishedDateTime: 2023-08-25T17:44:00Z
+    webUrl: "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13597_3422.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 901
+        height: 675
+        isCached: true
+  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
+    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
+    publishedDateTime: 2023-08-22T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
+        width: 1400
+        height: 785
+        isCached: true
+  - title: "95% Of Indian IT Leaders Expect Generative AI Have a Big Role In Tech World: Research"
+    excerpt: "whereas 82% are concerned about generative AI's ethics. Diving deeper to the sectoral operations, the report states that 74% of Indian IT organizations have trouble keeping up with demands from the business, as 91% project increased demand over the next 18 ..."
+    publishedDateTime: 2023-08-25T11:34:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it-leaders-expect-generative-ai-have-a-big/458054"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692961782-Untitleddesign-2023-08-25T163633069.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "seDWR9Gk+Xh3QVAf5wrXMr5ENGWPaedWydDSW+1bx9Q3oMLts1uZopKTFi0itfp0rrc+ri7cC15Es3+pZxwmSBb5X5mrNhUTfahpYEfJL8/UbvO8kTCzaLzd0jAf0qrRYa6DnoBZuKbnmXMmUhR5A77rBF7TBOx03gfMg6X0HhATPXevo3CXMuGEXfHOs9q2Ysrd2/2tazCPOHr3FlN74PTsN7d1A8VY167bvoqA9zLeyps9DHM8mgxtEUEK3frRi9njwGygrVOeFPAa1WyxjRBpbp8GwauYcM1lq/L40YAV6gemvqeylD373Tazd8iSMwsdsiGAXqlddmgKSTLD5k+M1bDGjLf+Et8JXIGFfuZVyweOyx4dZBGrItUsKiVFRGPSJXSur4XGFcjA9qwyxHETKUfMfEH1pAhqxZ8vPCrfgWLIeHcMJID8n+P1pwE3/lJPh7p/D4xU8dXvqTr+AonAvcaTGKSrUlJ78tY+Qe5uHP/Q7azFGw9fv7GBVhqBt8WPdIawM2WXBkhENZD3aw==;UKcW7fwOreH8hmIYkWVFzg=="

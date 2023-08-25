@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue
 webUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue-above-estimates-2023-08-22/"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,47 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Baidu Becomes First in China to Offer Driverless Airport Rides"
+    excerpt: "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ..."
+    publishedDateTime: 2023-08-25T16:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34045931"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "The rise of driverless cars: Are they safe?"
+    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
+    publishedDateTime: 2023-08-21T23:01:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
+    excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."
+    publishedDateTime: 2023-08-23T16:34:00Z
+    webUrl: "https://cacm.acm.org/news/275717-driverless-cars-may-struggle-to-spot-children-dark-skinned-people/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "TgHM7PBGGW2S4EjzbOkyWIdvQlfhU5YHur4AmE/DuUrw0C+gwQvBsa0lXufOyoR/HWCZ6gakkdGP2x3k2x+MCmWrGjA1zRPDpd6YvYrCb4QTsLAq8PULnr3mwjo7rHhhkGQ1mheXmQYBRQkwu/Mg/0ta/+WBdp/ZY60blxWnL5smWK6qK87gomzArm8grM+8gIRNYvirgFntNxPi/CsadoWhFhcnwvvPbk0LVfkQLcHRtLiHeuknQB4qssf7sLfan3ejSa6Iflk918CoirLJKlIx467SrtcPZaVwiYlv0HEEkVv9nZF1i97lm0HGbjQbzh0H+ZONYu8vErl8gbcpYeUYRLhK8Y0F2cEHv1ZQoJ0=;96z6ZvOupvbiLGb6VX49kQ=="
 ---

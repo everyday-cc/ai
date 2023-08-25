@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr
 webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
 type: article
 quality: 65
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal"
+    excerpt: "The fusion of AI and diversity in cybersecurity represents a significant shift in the narrative of this field."
+    publishedDateTime: 2023-08-25T16:01:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 105
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/43763dae5d3951cc7789a18bf6ab44f5ce2244b6/2023/08/25/e00132ca-59e5-4e83-9419-2ad192c4a927/maxresdefault.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
     excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
     publishedDateTime: 2023-08-25T13:01:00Z
@@ -51,6 +67,15 @@ related:
         width: 900
         height: 675
         isCached: true
+  - title: "What to expect during the AWS Startup Showcase ‘Cybersecurity’ event: Join theCUBE Sept. 14"
+    excerpt: "During the “Cybersecurity” AWS Startup Showcase event, theCUBE analysts will talk with leading founders and visionaries from companies including Securiti, Halcyon, Elastio, JupiterOne, Thoropass, Secureframe, Vanta and Cloud Storage Security."
+    publishedDateTime: 2023-08-22T18:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/22/expect-aws-startup-showcase-cybersecurity-event-join-thecube-sept-14-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 9
   - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
     excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
     publishedDateTime: 2023-08-23T13:59:00Z

@@ -77,6 +77,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
+    publishedDateTime: 2023-08-25T17:18:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/bravo3-ann-square.jpeg"
+        width: 700
+        height: 700
+        isCached: true
 
 secured: "/ovubLG4+51Jdg96Zh9e1AsUcjxiq8Co2d2CK28Y/IBYpQVV+8c1qOIo7rFQdhoGET4pqAk7Mf0fJ/v4papty3KFEEo1ovRxQizuqv2uBPQeTV0JWLVKkyiMedVFDFi+hgZ341go6z5/TxzBe1P+wXo2nd8j66xvSoKL6mq9Pq/CE1YOQuzaEoGyj9YYU+bbXbKoELYeywM37jArwDwucvJ+hdRwsmf5lwqOY54mV9XLhkiSc5WNAeXtN4Q0LBEdzS6rpCxzWME8Afgxrj0jHnRQurumDAoqAS3FNV4nRZ6HfG+AS4/8bQT/27rVMLDi62VWzBZvqdmVIxYJZJiSAZaH09kdD73ALopnifhSZQ03Wd/Ae7KeqgSDw/j85lGSgv3paNQb/RM1moIFAOm3aKeqPlH2jEY9o/N1egcK6aFw1rPkQ+HzcaWm6iwu/zyqQ9Bp8y5747+9YQXrNPQCkP9ZdL8ps5a/q+5oaYtKHOtRe5CFGDVnNe0tMGFqtAOfJ93ZgRw7V/uS1gVO0/MP5Q==;ItkwlzMmfYWrGQoMPrI/Pw=="
 ---

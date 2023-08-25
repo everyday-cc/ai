@@ -19,42 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
-    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
-    publishedDateTime: 2023-08-22T21:22:00Z
-    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
+  - title: "Gartner claims revenue from AI chips to reach US$53b this year"
+    excerpt: "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20."
+    publishedDateTime: 2023-08-22T19:41:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: ITWire
+      domain: itwire.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
-        width: 1400
-        height: 785
+      - url: "https://itwire.com/media/k2/items/cache/ad3a2519674a154c0bf6e392f81f20e7_M.jpg"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
-    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
-    publishedDateTime: 2023-08-22T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
+  - title: "Gartner forecasts AI chip revenue to top $53B"
+    excerpt: "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI."
+    publishedDateTime: 2023-08-23T11:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "AI skills most sought by employers revealed in new Upwork report"
-    excerpt: "Businesses are searching for workers skilled in the use of generative AI tools like ChatGPT, Microsoft's Azure OpenAI, Stable Diffusion and more, according to a new report by Upwork."
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ickVVIdX3.6zjSdu_qLbjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/e3ce8239c928a31795760eadf7a2fe18"
-        width: 1200
-        height: 675
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Global AI chip revenue to reach $53B in 2023"
+    excerpt: "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023."
+    publishedDateTime: 2023-08-23T23:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg"
+        width: 496
+        height: 315
+        isCached: true
+  - title: "Global AI chip revenue to reach $53bn this year"
+    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53,4-billion revenue opportunity for the semiconductor industry in 2023, an increase of 20,9% from 2022, according to the latest forecast from Gartner."
+    publishedDateTime: 2023-08-22T09:26:00Z
+    webUrl: "https://it-online.co.za/2023/08/22/global-ai-chip-revenue-to-reach-53bn-this-year/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
+  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
+    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
+    publishedDateTime: 2023-08-23T12:50:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
+  - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
+    excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
+    publishedDateTime: 2023-08-23T00:00:00Z
+    webUrl: "https://businessmirror.com.ph/2023/08/23/alibaba-cloud-named-a-challenger-for-second-year-in-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 21
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/unnamed-13.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
+    excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
+    publishedDateTime: 2023-08-22T07:30:00Z
+    webUrl: "https://manilastandard.net/tech/314363124/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-2nd-straight-year.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 18
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2023/08/KV-1-.jpg"
+        width: 468
+        height: 462
         isCached: true
 
 secured: "CFXbzJ3+H6eDmktp0+wakFk5bh3sBMylTsMk+QrbnxC5GWgJrCd07H/CPZn1bjPSFJNJylP4hz5PB7cyVg6VZJF7WTmUOSzrPwDKXDJ9fbGShRJfu77fBimcAdsP/9lpeQSrxrP++W0V6pJ0qJejStbATbTkBsKBubgDC63kXwbaprTLsbZJupeqKt9M+fXQ9bNnEhPsV4cxhnmC8TQ/djZBb3N8vNZlatLIvfETW0OfsIKwPFCfHJ4tS2xiLgwacR9SVSjD65S5jxk+jIwuZj9tCJqcX0khrfWH1r6zWcY0aogvo/GWKlpnci6+uwffirtJZ/M/5dbgdBuxOi0LI0l3yL5feQKyphgF8jhSkmI=;TdjLibHPQGyJ8DOMbtfYXg=="

@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-18-oops-self-driving-car-gets-stuck-in-fresh-concrete.md",
+      "title": "Oops! Self-Driving Car Gets Stuck in Fresh Concrete",
+      "excerpt": "Work on autonomous driving technology is moving fast. Many companies, including Tesla, BYD, and Xpeng, are working hard day and night on self-driving cars. Luckily, these efforts are paying off, and now some cars even have test versions of this technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "originalUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/general-motors-cruis-self-driving-vehicle-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-media-alert-brainchip-chair-antonio-j-viana-addresses-investors-in-two-part-investor-podcast.md",
+      "title": "Media Alert: BrainChip Chair Antonio J. Viana Addresses Investors in Two-Part Investor Podcast",
+      "excerpt": "In the podcast, BrainChip director of global investor relations Tony Dawe interviews board chair Antonio J. Viana to address the company’s progress since the most recent Annual General Meeting (AGM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-servicenow-sees-generative-ai-monetization-opportunity.md",
+      "title": "ServiceNow Sees Generative AI Monetization Opportunity",
+      "excerpt": "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
+      "publishedDateTime": "2023-08-17T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-machine-learning-can-make-x-rays-more-valuable-to-doctors.md",
       "title": "Machine Learning Can Make X-Rays More Valuable To Doctors",
       "excerpt": "Polina Golland is a prominent professor at MIT in Electrical Engineering and CSAIL. Her research centers on pioneering algorithms for medical image analysis, uncovering anatomical patterns in diseases from expansive image collections.",
@@ -1097,136 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-an-open-source-and-python-based-platform-for-the-2d-simulation-of-robocup-soccer.md",
-      "title": "An open-source and Python-based platform for the 2D simulation of Robocup soccer",
-      "excerpt": "RoboCup is an international annual event designed to showcase advances in the fields of robotics and artificial intelligence (AI). At this event, different teams of humanoid robots play soccer against each other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-open-source-and-pyt.jpg",
-          "width": 1508,
-          "height": 924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "publishedDateTime": "2023-08-17T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
-      "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
-      "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-search-dominance.md",
-      "title": "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance",
-      "excerpt": "The new Bing with an AI chatbot is called “cute, but not a game changer.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

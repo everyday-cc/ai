@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Does Artificial Intelligence Threaten Programmers?"
-    excerpt: "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?"
-    publishedDateTime: 2023-08-23T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/"
+  - title: "These AI-powered robot arms are delicate enough to pick up Pringles chips"
+    excerpt: "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects."
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://www.popsci.com/technology/robot-arms-pringles/"
+    ampWebUrl: "https://www.popsci.com/technology/robot-arms-pringles/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Popular Science
+      domain: popsci.com
+    quality: 90
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200"
-        width: 720
-        height: 405
+      - url: "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Does AI Solve The Database Migration Problem?"
-    excerpt: "AI can translate SQL code from the dialect of one system to that of another. At the time of writing, most chatbots tend to struggle with edge cases. However, it stands to reason the quality will improve constantly and quickly. Best of all, AI will simply “learn” the latest features and dialects and keep up with any developments."
-    publishedDateTime: 2023-08-25T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/does-ai-solve-the-database-migration-problem/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "DIid42LkOhL+8vJ1Cj4McjSNOCZ+Xm+HZhQd8gYHRxLQYWZieiSkAXcBFnzyE8Y/pjVXxbjlaP5lhLrSjUGj1noM4pS+juvsh96Yun+BmTs+lZQKj40MkrtSDFflgL9yc7qaP3Pcss4KKdCQuZDe8dTpehq89JHw5aSuH5+hILaVaa/z7VcNK4/7KPRcHEmALTA05l3O46kqj7D4yckEcUppJyF8jEmq9Pyg2TQpVCe/vuBz/AAJhemzZ3pjx6QzQMcZL3eC63YspIZgi7HZf7HKZ6h/fasGBeSE7pRGU/+y5QJVWFmwqK6kWfvVGGJodkkyX+fVaNo7VQofLPAQZ+gFZriFS14MSDH1grzHqJM=;AGNQFIKgkJMGNMNyZUv8fA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/can-googles-inter
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How will AI impact outdoor adventure education?"
+    excerpt: "Educators working in the dynamic Adventure Education and Outdoor Learning (AEOL) field are trained to assess risks and respond. But are they ready for the fast-emerging impacts of AI?"
+    publishedDateTime: 2023-08-25T16:57:00Z
+    webUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.html"
+    ampWebUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-out.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Navigating the surge of artificial intelligence in higher education"
     excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
     publishedDateTime: 2023-08-23T05:18:00Z

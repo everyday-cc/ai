@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-
 webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -28,38 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
-    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
-    publishedDateTime: 2023-08-22T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
+  - title: "Nearly 40% of workers think generative AI can help with workplace communication"
+    excerpt: "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier."
+    publishedDateTime: 2023-08-25T17:44:00Z
+    webUrl: "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "AI skills most sought by employers revealed in new Upwork report"
-    excerpt: "Businesses are searching for workers skilled in the use of generative AI tools like ChatGPT, Microsoft's Azure OpenAI, Stable Diffusion and more, according to a new report by Upwork."
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ickVVIdX3.6zjSdu_qLbjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/e3ce8239c928a31795760eadf7a2fe18"
+      - url: "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
-    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
-    publishedDateTime: 2023-08-23T06:05:00Z
-    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
+  - title: "95% Of Indian IT Leaders Expect Generative AI Have a Big Role In Tech World: Research"
+    excerpt: "whereas 82% are concerned about generative AI's ethics. Diving deeper to the sectoral operations, the report states that 74% of Indian IT organizations have trouble keeping up with demands from the business, as 91% project increased demand over the next 18 ..."
+    publishedDateTime: 2023-08-25T11:34:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it-leaders-expect-generative-ai-have-a-big/458054"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 33
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692961782-Untitleddesign-2023-08-25T163633069.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "How will artificial intelligence impact the workplace?"
+    excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
+    publishedDateTime: 2023-08-24T02:42:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intelligence-impact-the-workplace/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/2809a9e1-f494-4ed2-bcda-79245812c00e/thumbnail/1200x630/bfb863ac7e77c7cd519a22c543dbc463/2e63e746d76ae07350acd34526ace493.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1td70fyy0woiRPSdHi0R4YYKtWB3GxqWzrSGFpL8FktK+QZPj1bSqXW+ZzkZAe0S9xvubvwneOlkqxHbMCOSFnKqrAhAFjvKLpdd/BZJsNcYnxUluRqMADnOF4a/4Mu4IKig74Hccn5qpVC8IZMog2E3zh4ZFQq4nejozux2eapnrMAQ0D1/WkqG34MEMnC7qvYgFocpA3sd0eMuA0S2dlEeMonj6On1b10Ohob9CF5oxN4l1YRDMpjX8iyWkwUC1IGvBT5lTbsH6yWtcbJ2QIfGNQmZ1me7UpQcL9MQ8jRa4oFL+pbHrbUCopqoPOsBDAkDboAPkF63ScTSzTwqYVRA7vatYRj1Quh5ZNznWcGKjQW9p2GqxjZfdQnZtZmcETdATlbkFzsgQKbuVOHEwMmrR0bhbwPc5jvoAOjmEXiYtqVtws5sCG2JrF2vIpO9T5cpraZ7Zhjf35cwk3ns+6hgwPtPGEdkQQsY7As+BUnCEnWDP1t9mwDQvyfsoOOANw9eRYkbdE03sM/B5zggJQ==;KGC31dJntC+ITPgKFUGYAQ=="
 ---

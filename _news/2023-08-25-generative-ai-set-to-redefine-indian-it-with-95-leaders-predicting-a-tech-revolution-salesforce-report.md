@@ -89,6 +89,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
+    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
+    publishedDateTime: 2023-08-25T16:52:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
     excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."
     publishedDateTime: 2023-08-22T21:04:00Z

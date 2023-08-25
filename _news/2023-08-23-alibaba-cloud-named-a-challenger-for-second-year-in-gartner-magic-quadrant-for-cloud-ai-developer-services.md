@@ -85,6 +85,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
+  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
+    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
+    publishedDateTime: 2023-08-23T06:05:00Z
+    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 33
   - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
     excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
     publishedDateTime: 2023-08-22T07:30:00Z

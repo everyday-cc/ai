@@ -2,6 +2,152 @@
   "page": 182,
   "value": [
     {
+      "path": "_news/2023-05-01-new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour.md",
+      "title": "New Machine Learning tool by IIT Madras to detect brain, spinal cord tumour",
+      "excerpt": "Madras have developed a Machine Learning (ML)-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "publishedDateTime": "2023-05-01T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
+      "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
+      "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg",
+          "width": 251,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T01:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-scientist-noted-dangers-of-ai-in-book-published-shortly-after-his-death.md",
+      "title": "Scientist noted dangers of AI in book published shortly after his death",
+      "excerpt": "British theoretical physicist Stephen Hawking warned of the dangers associated with artificial intelligence before his death in 2018, arguing it could end the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "originalUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85de4b00-0416-472d-91f9-ffcfce5d8d54/0105d7a6-9949-4445-8855-e8e997bbb454/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "publishedDateTime": "2023-04-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-students-use-ai-technology-to-find-new-brain-tumor-therapy-targets-with-a-goal-of-fighting-disease-faster.md",
       "title": "Students use AI technology to find new brain tumor therapy targets — with a goal of fighting disease faster",
       "excerpt": "Two high-school students partnered with Insilico Medicine, a Hong Kong-based medical tech company, to identify new target genes linked to glioblastoma and aging. Fox News Digital spoke to them.",
@@ -1063,135 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market.md",
-      "title": "3 Stocks to Buy for Exposure to the Growing AI Chip Market",
-      "excerpt": "Illustrating the extent to which chip makers’ financial results can be lifted by the tremendous growth of AI, Nvidia’s (NASDAQ: NVDA) top AI chips are selling for a huge $40,000 apiece on eBay, CNBC recently reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
-      "originalUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
-      "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
-      "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
-      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-771262/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
-      "title": "8 emerging entrepreneurs you need to know about in 2023",
-      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

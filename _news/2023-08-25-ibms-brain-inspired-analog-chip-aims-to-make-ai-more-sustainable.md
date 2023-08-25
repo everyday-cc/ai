@@ -74,6 +74,15 @@ related:
         width: 1782
         height: 1614
         isCached: true
+  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
+    excerpt: "A new breakthrough in tech may have just solved artificial intelligence’s energy problems. AI requires a massive and growing amount of"
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibms-new-analogue-chip-boosts-ai-energy-efficiency-1032581350"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "IBM team builds low-power analog AI processor"
     excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
     publishedDateTime: 2023-08-23T19:23:00Z
@@ -84,6 +93,6 @@ related:
       domain: arstechnica.com
     quality: 49
 
-secured: "4pQAf+53183gaoGcNt6ectqFA0zKgQO1j8KZ9wYbexH89DUipLZJXAG0AKgsXP4NOMHWTiaCHXggqxl1IriZrvWbF2X3hiyXZrn1kMvyMIwfxhRYMblX3SF5C7Jo7WHa+PDraN4y4qqAqBFw65EG0vVqxZVHZeKW8l+K5abauiSjJizahpNPJ530dsgM+ymiK/mtFPhOMvIfrEDIfb11mn21VBe2MXm0Ze9cL5FIf6DutjIFVoR5mMb0L2JuffSIHhrkO4T/uKq4xRz3PUKU78QUxUs2o8RumibXb8AaaqmDdgCYfwhvSBYQDWjT9A1LxJn9OTahERqUwh1KBY9C6CX9/2ACo8Rct4EpK0B4n+M=;uVK99W5lcgsfrUN6pZ3NQw=="
+secured: "VH498B6NX42vizacYvk4M8kEIfFEt+elYY6UJgj+NRYSxLrD65/9bvjiFcygp6a8wEcfwUZk0Yb4PGsjaCyvkR0VFmfHhRq6TCloSFVdOYNKsmlotCtFSjDLcLa4facp9yISKjsIzGQeGgJGG4WALmhlUohXU6YFBQeQhtqCDMvcxxpJwKD+zAGy8gyN6wV3VrrKlCwqaohrqjL3gwKKQHvG+Tu1BNiMShazSVl88LDj7fuo5ZjmOnG9cutbrtKxahJReiIWn5brV3diIIIFKbJpyJ8olJfn5OmBpRJUVFX8iRuCp6JXDeDYYQizqXbfVXVayMwpgvpnt69fWcFvsHNjWsJCjvyfr/OxS71cZdzhFv/1+dDw79mMMmlABOiSrJT8/7Xln11gn9IxUAP0TWLmqMgile5MmMte/A+ulnVT+OWhOCXyActagY79HnFLh64Ks5tP+QaXd/rIc4Zvu9pnCBlNS41paRe8qiLuXLYKE8QnLbQp7OkPjbTYl/f41pVer+TNTzD+W+kO4CQGFQ==;uZJ8Vx7LVqJy8hq/WFC8fQ=="
 ---
 

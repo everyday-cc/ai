@@ -42,6 +42,22 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "How will AI impact outdoor adventure education?"
+    excerpt: "Educators working in the dynamic Adventure Education and Outdoor Learning (AEOL) field are trained to assess risks and respond. But are they ready for the fast-emerging impacts of AI?"
+    publishedDateTime: 2023-08-25T16:57:00Z
+    webUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.html"
+    ampWebUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-out.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Navigating the surge of artificial intelligence in higher education"
     excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
     publishedDateTime: 2023-08-23T21:26:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
-publishedDateTime: 2023-08-21T18:43:00Z
-originalUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
+publishedDateTime: 2023-08-22T02:10:00Z
+originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
-    width: 600
-    height: 450
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
+    width: 1280
+    height: 750
     isCached: true
 
 related:
@@ -62,6 +60,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "DgtIBEfIwALwZo9H2OYKLfFXxVn1L63nCC50b2aoNPTHAgnEqik4z95ROcunBtEWIIaFagcGWt+pwZP1AgQXQXsqcoN38KM08ghtTCHCW9bjh0v4FYZT27jrdBIAkbA9u8SgiSqjVHEUD8J86XD1MO0epcB1HbctLBSJKuZsnW0OFUIwdoOHIXxgfJL91XmaYIyAjH5YrvEkcSNr6d2zqsv47VjO4ziFwEwgZA2JUJFuNR02lHNu09+N+1EB4nWLi3jUkm5lN4iGONi1eZY19nDaAsiS5FlJeg0l5/2ijw1Qldoptqx7wbY5TzxOlFQDlV118dYBjhg4nGP9vVNHMrvcWTP28Z1Orlo0sFgdQ7w=;5GJ36gidbeLT1sm97zPtlA=="
+secured: "VBC2TCknB3ZknkzMK8oeqRji6Maxj+hNHMfDXmQ+1bYjT8NIDXHFoXze4U8AxkQeCoNDKk9+apE0QBuwT1+38PY355WiAXv4+7t4SmCgl6/O3NB7M0mpJQWOFA42CU06iLyBklpQwyK7gB2PvVfaK+W4KBSALdJ2mY+82SnfnrI/HTlYzoikgn2g9Z47Rt3jHCmAmrLWA61EFU4hCq0gAeVHXuqtzPTn/ME6lSGjMGwfZvl4JMUAu57SrFv8aV9Yi6o+Jqmhj4WKhq8sy919yCWEvLL/Y4x1zAgJel+A2uv563p2fGnYMRpDdBqAVWA9WjHa6w5Avm2WoMk76V+390x3S+urOV0k6AkeFyImHhU=;dJ5g4DvdDabJNqzdDBXbXg=="
 ---
 

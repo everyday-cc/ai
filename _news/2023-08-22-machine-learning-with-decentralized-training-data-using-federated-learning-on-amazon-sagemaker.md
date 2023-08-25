@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-wit
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-decentralized-training-data-using-federated-learning-on-amazon-sagemaker/"
 type: article
 quality: 109
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Llama-2-on-AWS-SageMaker-using-DLC.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
+    excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
+    publishedDateTime: 2023-08-24T17:25:00Z
+    webUrl: "https://analyticsindiamag.com/twilio-segment-unveils-customerai-predictions-tool-in-partnership-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/TwilioRincon©Blitz_03EDIT.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "m1DlO4ZrmjNvi5Vk3Rq4+56IgBpR/riNIpMl87b9HvpLmNbfWiycY5jYol5sEqidxpCo7DK956uCP1e5Pt4+gvdeOJXS41FEhkkbyb+VxklSyK2cQGTAX+VWraq3r2ACQ76UcAl9P13H1L1HSH+ffhjz3U58F7GLIW/VREuEWxhIuvSOmi0cqgrnCQ4KXtdnHdZDb/xeGMvUsRoAZsWHZd1YrElTPva60VJpdT0MdoiGHzrTx6if/TLVvrRFbgtYE5jDlCq81PbrIZa1Vp5AN07d9OzCp/3qcHqkh+fsouEs2kFozHtMQNCOKDIjrsK5lY3Y3/fGC1YFnIiLcb5vPpTsaRYyWKdSpla44AJEOhI=;XHMxS96LTww0ZHt7QdqQTg=="

@@ -89,6 +89,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
+    excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
+    publishedDateTime: 2023-08-24T17:25:00Z
+    webUrl: "https://analyticsindiamag.com/twilio-segment-unveils-customerai-predictions-tool-in-partnership-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/TwilioRincon©Blitz_03EDIT.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "vEz1ZiYt50kX5RHYtHODPqXXSDcEeGYKYBx5oLMG14zuTYJm8uku7NIvPR+bweWtMkmTjR5pmNHiYQQYtEDpP2sHk4Atv+2JUb54XHQGqJOtfKPDbawkwgBpXtXjdPjvmv5bxbmUFMCVtUxjQ7K3RsnHkMr9SzPeF+07hc8bbL2RxbDAXKP80UYkyePsIoGIlkfdcRNR+E5ig9U0rnvb+G+RlbTiokXop6u5KHL2BKqPdF1mD+V3GsTRoTKKC52a3nk/1O2LlXrH2TeekNx/MKpn7IDMFtsQNqvwX7acqMJM00MDVZDMCR0yq2ZQ8tWtxuWMpjcTaZ3hD1AByWm+2L860HBp7z/1bQb+1zmBy2Q=;8PWpJp+9gWctGRHncyKm9g=="
 ---

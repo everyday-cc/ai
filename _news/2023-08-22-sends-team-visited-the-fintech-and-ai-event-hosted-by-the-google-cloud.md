@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "4 experts on artificial intelligence and how it will transform fintech, manufacturing and planning"
-    excerpt: "To try and flesh out some of the ways AI will transform key industries, we asked for four tech leaders and founders to share their insights."
-    publishedDateTime: 2023-08-20T23:25:00Z
-    webUrl: "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/4-experts-on-artificial-intelligence-and-how-it-will-transform-fintech-manufacturing-and-planning/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 25
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2020/05/AdobeStock_336613452-scaled-e1682562777963.jpeg"
-        width: 794
-        height: 509
         isCached: true
   - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
     excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."

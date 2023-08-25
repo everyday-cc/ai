@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-18-unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market.md",
+      "title": "Unveiling The Dark Side Of Artificial Intelligence In The Job Market",
+      "excerpt": "The rapid advancement of Artificial Intelligence (AI) in the job market has brought forth a myriad of concerns and challenges that cannot be overlooked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/",
+      "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/",
+      "publishedDateTime": "2023-08-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-snapchats-ai-bot-sparks-privacy-panic-after-it-posts-photo-on-its-own.md",
+      "title": "Snapchat’s AI bot sparks privacy panic after it posts photo on its own",
+      "excerpt": "Snapchat’s new AI tool, My AI, freaked users out when it automatically posted a photo to users’ stories who thought the chatbot snapped a photo of their ceilings. They later found out",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
+      "originalUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023510159.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
+      "publishedDateTime": "2023-08-18T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities.md",
+      "title": "Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities",
+      "excerpt": "For instance, a device made by Facebook-owned CTRL-labs had an EMG wristband in 2019 ... several Portuguese startups and research centers to invest €78 million in AI research, creating 210 jobs under the Portuguese Recovery and Resilience Plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
+      "originalUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Unbabel-Halo-2.jpg?resize=1200,682",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
+      "publishedDateTime": "2023-08-18T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate.md",
       "title": "Red flags waving for tech stocks as AI bounce fades, China fears escalate",
       "excerpt": "As tech companies look forward to big opportunities in AI, this latest earnings season seemed to reveal some cracks in their present-day armor.",
@@ -1004,143 +1152,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/amp/",
       "publishedDateTime": "2023-08-17T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-oops-self-driving-car-gets-stuck-in-fresh-concrete.md",
-      "title": "Oops! Self-Driving Car Gets Stuck in Fresh Concrete",
-      "excerpt": "Work on autonomous driving technology is moving fast. Many companies, including Tesla, BYD, and Xpeng, are working hard day and night on self-driving cars. Luckily, these efforts are paying off, and now some cars even have test versions of this technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
-      "originalUrl": "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/general-motors-cruis-self-driving-vehicle-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-media-alert-brainchip-chair-antonio-j-viana-addresses-investors-in-two-part-investor-podcast.md",
-      "title": "Media Alert: BrainChip Chair Antonio J. Viana Addresses Investors in Two-Part Investor Podcast",
-      "excerpt": "In the podcast, BrainChip director of global investor relations Tony Dawe interviews board chair Antonio J. Viana to address the company’s progress since the most recent Annual General Meeting (AGM).",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-servicenow-sees-generative-ai-monetization-opportunity.md",
-      "title": "ServiceNow Sees Generative AI Monetization Opportunity",
-      "excerpt": "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
-      "publishedDateTime": "2023-08-17T14:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

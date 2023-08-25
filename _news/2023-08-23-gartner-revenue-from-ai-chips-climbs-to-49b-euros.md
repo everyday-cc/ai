@@ -70,6 +70,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
+    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
+    publishedDateTime: 2023-08-23T06:05:00Z
+    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 33
   - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
     excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
     publishedDateTime: 2023-08-23T00:00:00Z

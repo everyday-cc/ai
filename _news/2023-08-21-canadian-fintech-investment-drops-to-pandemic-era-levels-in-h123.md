@@ -24,6 +24,22 @@ images:
     height: 562
     isCached: true
 
+related:
+  - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
+    excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
+    publishedDateTime: 2023-08-25T15:58:00Z
+    webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/374bd6f34116a0319a2191326fffe442:fed74783d727da317e096f95c8a8699f/citi-rextie.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "ZdThe48PvHVfpfIwg69LTPwQVUA0EtcKg9F2npMrAFwqOVfhJJPtvJJi4crVz83N+PKpicKYmOPep00JcxorR5NbNsLiLFJ6ikQxvAH9MgTR+jqVSEFzMWTX5yxjLKqRjTiyxPDeMm/Q46zCvhG+NWbJKhFPWw8U2PXtyl7mHQl80UfLhZH2gxh4Ye1tKUUcwr/OyarkG1Qp7yrdlmhbgXOCfOCdS0jwTt99RY0oA4PEtxI8y/zwIM5RzfzvW8umpIRxAfsus5jZjz4FJ+Gn2tYsmHlCqm3IHIXl04KmcOYGQk3KVFUFe65K+dXFzUQxPsyJpiNzLYK+C2dw31nJMzg1UHx3SQ2eDumS4+nRafOjxLiDFn7BRnMHumGWMTRfMn33Uwz0Wr/pPOSbLpPYFifD7psnPuOZ5VARa5l/qCHeaxdcpfzc93yaJIFiFGGa6TjZ7m1BlO7oBtwhu4VyMfE8DPO7C0+kgoDKT420L0iK3k+vhd3b41QVMo96Jy2QzR+2Ca51TRI6Unhyf/Z2MA==;0r1yyzvw3GVU4lmoTN8S2w=="
 ---
 

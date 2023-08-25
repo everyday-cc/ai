@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-hel
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
+    publishedDateTime: 2023-08-25T17:18:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/bravo3-ann-square.jpeg"
+        width: 700
+        height: 700
+        isCached: true
   - title: "AI helped a stroke patient speak for the first time in 18 years"
     excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
     publishedDateTime: 2023-08-23T22:54:00Z
@@ -83,6 +97,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "/rtk21lkU5BC8T/JOL4nMbZUuqff9FuD0Zg6Z+o5IgRBN6b3pEXeWeL5CbG8UYdhhYJB26XIkBf7R4MUn/lQoxhGoHg/fS3hMvUefNmsbBFQFJuvj3kST4a3UdjkvkPJDPoL0UVBunOoK0e1YaaVVo41WTUKJnGAsKOXIa7w7N3gi1Ub1SuUEgiRkbf0+byzuA6k0olIeMyRiL8rurGIRxWeahZbM0jgoCgqht3srNAPh9EeLAaz0qhYFIDKmsCWZ9lC9v0nqSwVptOMy4pxSaJ2OF2S5WvRZNnQdEorycIj5n4ODl5WjDSQYY2v8Hdu9MEHifNCn5phB5ia/ecyiIZrapdA456zhpITvwqqXfs=;aNHaTEA6fmGbbq7R/c51GQ=="
+secured: "/YNnEtjdbq3P2aHp4/xwUzApwpN6giXTx1aX0ZUYWFsGz3DQaBc2FRQt271ig73fec5TvOz0FUbnTmFpZYF2w5nDImCZozIHjGgnY03kCLwMJo+JcFuWY6O31E0OnTp5gilwTgKkIb3mIXAtnNBVofDQlwti06EaZP61rxv36WFBu28RWERtnxn0OJ9U3jxLy5S7+4Qdm/YZEJyl9KvzvWoz10k3TLzuZWHCKxWxKY/5UoXjT/rB7slDaOhGZwohhS+FriGrmkYI58KEbiHh5MLUgDlFts6M9kyetCXsAXo0ZgsZopKCzNmGrTDx1aKgDT3XquX6XbF/VX3+AtaNBioDgwT9b9ry2HfA+ICCwWDgwu7zaTFS69zKD4aYmmKpo6Du7l9Uuuk5htgskG+O7LfSu0t/mmclE6p+VAp2vqawjAS3WlPc+pY5JIa1L195BkYVoyZoJ1pzMk/je48y79R0HDyXFNXCxH9L1lKg4IRpqc+1aj0ugXW2z85aeED6jBdde7UyJ/FyGVTYsXDMfw==;mcnwocsB7JSo4dgzQ8HQNA=="
 ---
 

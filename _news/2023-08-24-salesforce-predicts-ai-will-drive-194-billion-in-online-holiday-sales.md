@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.forbesindia.com/media/images/2023/Aug/img_216853_opening_shutterstock_650850907_bg.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
+    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
+    publishedDateTime: 2023-08-25T16:52:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+        width: 1280
+        height: 723
         isCached: true
   - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
     excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."

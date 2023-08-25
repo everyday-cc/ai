@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/opinion/contributors/ai-facial-recognition-t
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.newsday.com/ace/c:YTNhOGJiMDgtOTg3MS00:NGUwNjRh/landscape/1280"
         width: 1280
         height: 718
+        isCached: true
+  - title: "Facial Recognition Technology (FRT) Statistics for 2023"
+    excerpt: "Facial recognition technology is a recent AI innovation that uses advanced algorithms to provide simplified solutions. It is a security solution that involves identifying individuals using their ..."
+    publishedDateTime: 2023-08-22T17:24:00Z
+    webUrl: "https://techreport.com/statistics/facial-recognition-statistics/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/FRT-Statistics-At-a-Glance-scaled.jpg"
+        width: 2048
+        height: 1324
         isCached: true
   - title: "Banyan Technology offers predictive truckload pricing through an AI tech partner"
     excerpt: "Software startup Greenscreens.ai applies machine learning techniques to aggregated market data mixed with individual client histories"

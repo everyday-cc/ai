@@ -2,6 +2,152 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-07-05-meet-34-rising-stars-making-waves-in-europes-venture-capital-industry-in-2023.md",
+      "title": "Meet 34 rising stars making waves in Europe's venture capital industry in 2023",
+      "excerpt": "There remain some bright spots in Europe in areas such as fintech, AI, and climate tech. But the current generation of investors must show more discernment in picking companies than in previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
+      "originalUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6478ede9085acb0018ff3763?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-musk-predicts-tesla-self-driving-cars-later-this-year.md",
+      "title": "Musk Predicts Tesla Self-driving Cars 'Later This Year'",
+      "excerpt": "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "originalUrl": "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "publishedDateTime": "2023-07-04T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-check-points-tony-sabaj-on-ai-in-cybersecurity.md",
+      "title": "Check Point’s Tony Sabaj on AI in Cybersecurity",
+      "excerpt": "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/07/eSPEAKS-thumbnail.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-aws-exec-downplays-existential-threat-of-ai-calls-it-a-mathematical-parlor-trick.md",
       "title": "AWS exec downplays existential threat of AI, calls it a ‘mathematical parlor trick’",
       "excerpt": "AI is not a threat, says Matt Wood of AWS — rather, it has powerful, transformative potential for enterprises of all sizes.",
@@ -1003,152 +1149,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
-      "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
-      "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
-      "sourceUrl": null,
-      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Flip-4.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Droid Guy",
-        "domain": "thedroidguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact.md",
-      "title": "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact",
-      "excerpt": "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
-      "publishedDateTime": "2023-07-03T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-amd-ai-chips-are-nearly-as-fast-as-nvidias-mosaicml-says.md",
-      "title": "AMD AI chips are nearly as fast as Nvidia's, MosaicML says",
-      "excerpt": "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html",
-      "originalUrl": "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg",
-          "width": 2000,
-          "height": 1231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
