@@ -110,11 +110,11 @@
       "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
       "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-66601716",
-      "originalUrl": "https://www.bbc.co.uk/news/business-66601716",
+      "webUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 391,
+      "heat": 751,
       "tags": null,
       "images": [
         {
@@ -128,14 +128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-66601716.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp",
-      "publishedDateTime": "2023-08-23T23:07:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp",
+      "publishedDateTime": "2023-08-23T20:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -158,7 +167,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -476,6 +485,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-uk-moves-on-ai-plan-with-chip-giant-talks.md",
+      "title": "UK moves on AI plan with chip giant talks",
+      "excerpt": "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/",
+      "publishedDateTime": "2023-08-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1399,50 +1451,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
-      "title": "IBM unveils an analog AI chip that works like a human brain",
-      "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
-      "originalUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

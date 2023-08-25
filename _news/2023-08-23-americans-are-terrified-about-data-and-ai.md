@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Chips as currency: America, China, and the AI race"
+    excerpt: "Running in the background to the more visible, very real wars occurring around the world at present, there is another,"
+    publishedDateTime: 2023-08-25T07:35:00Z
+    webUrl: "https://www.dqindia.com/chips-as-currency-america-china-and-the-ai-race/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 34
 
 secured: "HL4y08GlVIlVDwMa2xwzDhuJpqtxBxWfbnRw0jDdactwSMQP4mkxD1WNrVos+XVAX30KcJYJb3qUFXwdo6+DQrkoXdKxBsn757FpmR2v0eJZxAfRgT3XHdDScHNwPinTV2B4XZYGiTjynCrIn7iAdEdWAGo0ayfY2X/JDoaJ9mUhbDlBNMkwVjWiv8j58QadNaAsvSrJCQHzD76j5Xy3YDKXocCEYPErSWAY4Nk3YNQEtc2out3sWLAgPOAgVr0/zkF3oXfaAle9jD/vOzeEVy0KHr/CgGQrpf1byiv22nelH9k6kf5NsIppd5wksvTo5eXDzEYu1Zq2jw1eRlnMMLEfF5hoSpyy3Mv/axr8EAIX8Qg1Ph2a2nvE83/akb6lo7SJpUlqe0Wca7giLN1LjCJtV/MsCbWL/nREAKMKKQLi17gFem/vo8NjndvxmdSPa9Klpf6uPwI84B3Z9qt0zMplLEi/d/HgyrYwyVb58oE2gBm79SXRUfNsC87a798Ha+vKB6+CZ28cR3cnqaOMZg==;OyvdoJSjTegnzCl7n1B7hQ=="
 ---

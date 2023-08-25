@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-23-the-evolving-role-of-cios-and-ctos-in-the-ai-economy.md",
+      "title": "The Evolving Role Of CIOs And CTOs In The AI Economy",
+      "excerpt": "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
+      "publishedDateTime": "2023-08-23T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-does-artificial-intelligence-threaten-programmers.md",
+      "title": "Does Artificial Intelligence Threaten Programmers?",
+      "excerpt": "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "publishedDateTime": "2023-08-23T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
       "title": "Start Preparing For AI Regulatory Compliance Now",
       "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
@@ -398,7 +501,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1152,111 +1255,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-does-your-business-need-protection-from-ai.md",
-      "title": "Does Your Business Need Protection From AI?",
-      "excerpt": "While AI can offer many benefits to companies, there are also potential dangers you need to address to protect your business and its stakeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
-      "publishedDateTime": "2023-08-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
-      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
-      "excerpt": "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
-      "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
-      "publishedDateTime": "2023-08-22T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

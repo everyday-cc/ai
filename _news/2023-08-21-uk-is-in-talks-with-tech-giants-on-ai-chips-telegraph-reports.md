@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK is in talks with Tech Giants on AI chips, Telegraph reports"
-    excerpt: "UK government officials have held discussions with tech giants Nvidia Corp., Advanced Micro Devices Inc. and Intel Corp. about procuring equipment for national artificial intelligence research, according to the Telegraph."
-    publishedDateTime: 2023-08-20T13:48:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/uk-is-in-talks-with-tech-giants-on-ai-chips-telegraph-reports-71692531760226.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/20/1600x900/Rishi_Sunak_1692539300482_1692539300882.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "UK moves on AI plan with chip giant talks"
     excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
     publishedDateTime: 2023-08-21T10:34:00Z

@@ -60,6 +60,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Chips as currency: America, China, and the AI race"
+    excerpt: "Running in the background to the more visible, very real wars occurring around the world at present, there is another,"
+    publishedDateTime: 2023-08-25T07:35:00Z
+    webUrl: "https://www.dqindia.com/chips-as-currency-america-china-and-the-ai-race/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 34
 
 secured: "WBLwp2ssTKcD3Tg+IjrQD3vaOR9E5Khp/t8x1SeKvv4c7+fnuwy4gNbba5wT70Pbx36wzk3ONhgvlmV0J6xs5mN0sGAfVQt5eXXQuIzKn/oWygYpAZV5srCM0vrfdUlctZinP16ug3v5BhhmW/uvqKL0u2M5UWXWd0TCncoPfNeApWvSedBPrqCO7SPJRYc7ZoIiWAPdM+Dm/DXJDGbO7TWgSmQkne8Re+Ii/ZDPd3uHOCaidp+I4BbG6NK9N2ouaSvxUVLmonAn0Vqs+/MnQdwMd3qlvDPWBoewAb0fiql70U/dcuo+kdXTtCugUm/BgBiP213WOU6e5fUy2xGhbv57l60uTD2p5KY8z5iIwIzkvthF9xdJuW5qEtfsAOX/uR1HoN9rLQvPUB2i/jOicbNryP3/nP241F/qsFtO3CGtknf6tW1T6mOadkYnm/pTz0nUpxp7QRTlelrteMJBU1f3lDNSUSXcrOQT9SL+x9H50sCOpCdqpVnCFBVN3YtvX3aee5YPEYBhzS5yJXrKaw==;xh77ePofg+tmyWWWWDQA+g=="
 ---

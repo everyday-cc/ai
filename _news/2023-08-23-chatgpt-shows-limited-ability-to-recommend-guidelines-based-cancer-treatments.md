@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1358
         isCached: true
+  - title: "ChatGPT Incorrect in 1/3 of Cases When Recommending Guidelines-Based Cancer Treatments"
+    excerpt: "With ChatGPT now at patients’ fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network guidelines."
+    publishedDateTime: 2023-08-24T15:29:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 16
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378135/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135-640x360.jpg?cb=20230824"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "yH8ZKsErGklkXolAzuO0R9dAuRBXLf3IsYpbVpvLw8FIwicfAWgjo/iXQ5GE7V2w72Sp4NCM4quH6zKPdu1v5nFGizelvupLINKIvlphAbsb+Vsj2RFdCgqlBhGfmyt3fljmQoG9s3PO/lXefrwIm3C2rSAGbuaAd3xp2vz6sRv3qmk+d7eS4cUw1MBXTaRlW1q4aORC7D3TxerkeaMJoohGAgbbOOR2Jq96OdzXGUU/njzdVEUhNDjav4om6SZWYH2dt86P60OIwypEnm+Zn40ke2NqgzLbnuxxbDfyGTw7ku14VchHeV0iq3n/3MI87fWG7NJPu4CxCq/qAMKGHo9vPu1mL8fsEVa+ylu1xVY=;ziq8/yjhXJNLsD0j0+rckg=="
 ---

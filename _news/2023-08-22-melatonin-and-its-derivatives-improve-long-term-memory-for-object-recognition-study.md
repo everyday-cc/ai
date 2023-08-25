@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways."
-publishedDateTime: 2023-08-22T06:44:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
+excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
+publishedDateTime: 2023-08-21T18:43:00Z
+originalUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Melatonin and its derivatives found to enhance long-term object recognition memory"
@@ -54,6 +62,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "nLlQgmuvjVsbIL91b1Zzper0IMHAIbpW1hZ/is4tT7jRqqj1h+z/vQKjafnRCF+7lwm8JWVbyqntZ6kM8GxSDbYBXFjXrgyFu/DAKAtN+1tSqGD+n1Pd/rAdp9CT4xAOD5Ttg4+5YFz/ZAS72e3OJlzKZd55nm2p4LdYkXj0TuLDyHqr0ZJyQg4D09ad6OsnQxRQL4tJ1u4kId0Y5uNR0jcYcVsGb4UOcD3V1E39h+RdkY2WW/nUdPQ865mw+l78nmMS4kOHPYZBboWFuMEHrcKtWeeTn+6/OOZXYCRuogLUmgHCe3NcIOj7Ej/SWWFpMhdeu8I262VrOhFv+hym/Bj70TzL8BePkTLTmaDKZI4=;NKEvT3b+ZFAzDhn8WOoWeg=="
+secured: "DgtIBEfIwALwZo9H2OYKLfFXxVn1L63nCC50b2aoNPTHAgnEqik4z95ROcunBtEWIIaFagcGWt+pwZP1AgQXQXsqcoN38KM08ghtTCHCW9bjh0v4FYZT27jrdBIAkbA9u8SgiSqjVHEUD8J86XD1MO0epcB1HbctLBSJKuZsnW0OFUIwdoOHIXxgfJL91XmaYIyAjH5YrvEkcSNr6d2zqsv47VjO4ziFwEwgZA2JUJFuNR02lHNu09+N+1EB4nWLi3jUkm5lN4iGONi1eZY19nDaAsiS5FlJeg0l5/2ijw1Qldoptqx7wbY5TzxOlFQDlV118dYBjhg4nGP9vVNHMrvcWTP28Z1Orlo0sFgdQ7w=;5GJ36gidbeLT1sm97zPtlA=="
 ---
 

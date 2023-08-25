@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-startup-hugging-face-valued-
 webUrl: "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-2.png"
         width: 850
         height: 476
+        isCached: true
+  - title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
+    excerpt: "The latest round of funding outlines the rapidly growing adoption of artificial intelligence (AI), which has been hailed by many as the next frontier of technology and has attracted some of the biggest investors in Silicon Valley."
+    publishedDateTime: 2023-08-25T06:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding-11256281.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 36
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/dollar-finance-BBO-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "AI startup Hugging Face valued at US$4.5 billion after latest funding round"
     excerpt: "ARTIFICIAL intelligence (AI) startup Hugging Face said on Thursday (Aug 23) that it was valued at US$4.5 billion in a US$235-million funding round backed by technology heavyweights, including Salesforce,"

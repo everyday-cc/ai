@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California deploys AI-powered wildfire detection systems"
+    excerpt: "The AI system processes \"billions of megapixels\" of images every minute from cameras that cover approximately 90 percent of California's fire-prone areas. The AI program started in June and was initially deployed in six of Cal Fire's command centers but will expand to all of Cal Fire's 21 command centers in September."
+    publishedDateTime: 2023-08-24T21:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wildfiles_getty-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Can AI detect wildfires faster than humans? California is trying to find out"
     excerpt: "Firefighters are training a robot to scan the horizon for fires. It turns out a lot of things look like smoke."
     publishedDateTime: 2023-08-24T22:25:00Z
@@ -51,6 +67,6 @@ related:
         height: 900
         isCached: true
 
-secured: "b4a7AURhcI6R9D7ukEBeARKGQO+uikwTTk+lobMZTlVKVnUA+k5qP4t99qwcLaKJs6x1OGkjw+ppi+HMMja0OXZZnWToiIZrtuJwRmFnWs+lUP8th9/oR6oovvOjJkgEWqVA4hax8bAbcvVT4fsYUoVuRMLNasW7OLNBDrcI9Iihat4POa1sEaR7OCx+zr8ooYJwItqZ+LLdWmSseFZexSsLBLVbDH+RyK09qEuAjUw5uyP7eQo52nkPeYhhOdt/L9KjNYLBORbcSi6BObdHtwrE8IhdctA7IZ2cdZXXGfzcFygmi/y080dmECJMgsJ9TIw0Bk1m2pgcoWR0mYBOJNQHbht0HuubsJaEY1HfKOw=;ozDMOz0TzZ4KMV4zBbAlyQ=="
+secured: "woMHZ0f7zMBEt32dGBFPsJOSRx5KJw8B7yBcAcvx7BmaVWjX9z1hI6wWO4doW76dyLW4cXEteJdlEeMDmX+/LgcUs1fcgZ74V7moXur3UxjertYLVoo0+kFnYxpSlVho6ppN3kmSuPwibzJAyEz0wo2i9AsoYFl/P7aXGT28VUpCwHCBwhYzXtWgSjYMydCT1Tg6an0ZJWdWvx4eMoC0WIXDqTmqbTXEHQWdq7u5APx3+eEPgqo5jlnEmSQlrDrOlAONRNas2CJ4+MbEqwrPhMzujI2OB4GDa45/e+Uc8hykovs1DjLeE99gns+q8RbVF5yTFYoL+4ip2IeMSp5KlPOYyYLVpYd41CrM9qY3ZTeYNtgOjoK7nhCCtseavLFNpBKVQi986xfVA9jQdzS+JZzrVPCoe6f6Hj4mXKcYOxvta7NL4ZV84gYaLkppYR4ca0Hby4j1pRk2E0b7brj+pL/EnSVjh7w7WphyTlrPDGdl9BCZMwYV1lnaPGlxxxE9OHAKaQtGa4eY90sqO2K7qg==;iEyynI0xdz1iEOvTZ6GSYQ=="
 ---
 

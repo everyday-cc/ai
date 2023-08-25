@@ -35,6 +35,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Meta introduces artificial intelligence tool for coding"
+    excerpt: "US-based global tech giant Meta on Thursday introduced Code Llama, an artificial intelligence (AI) tool for coding. The new AI tool is a large language model (LLM) that can use text prompts to generate and discuss code, the firm said in a statement."
+    publishedDateTime: 2023-08-25T06:25:00Z
+    webUrl: "https://www.yenisafak.com/en/news/meta-introduces-artificial-intelligence-tool-for-coding-3669566"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 39
+    images:
+      - url: "https://img.piri.net/piri/upload/3/2023/8/25/3d0d084c-i73evoqfyofycnh2h2n7i.jpeg"
+        width: 640
+        height: 359
+        isCached: true
 
 secured: "SRLeBXTvLfyFZSL2yaUlsJcPrll/Bm5b6KZX0qWkpmUm69j+n4Q1W8eceGW43oTtHiV3Zv1jsFwIduua7GjLNohXrWDIqn/2bWIwza50wpDdyDhBUssLjGMXnorYdlRDPe+R2uHFZJSGcviCt/FKM9n5c4Mam9fUJfKtpPPsp1CHEIeiEJgK7Rv0UNXzH8KKL8n7hgGgDFoC4nNSeF0d5DxJyF9pTVp8RvsNG61X92paDQsUQ6vx9opLDcGt+iCxaw8C7FO+TW5hYzyFtdPO6OgRACwUm63gYk+TP4zPtPGu4GCDvt9KUmKQ8C6NaacqF0RntLSGKTQDLtgEeBZPC9/LvBfaCegA3utjictLl79mtSTAPlXEjdQYy1ABjzciE5VEeNtD5F0GAbxohVQypu5wx0415UyXZjTfPlrO+1ZG0v/JpxFRQLaj3WsHLm9C3Yb5P5cX5NCUewd1RwpelyiuPHOc34+ewZxfiTOCmy3oz1NuxkRLhscJGZlgSkTarNHRJBW3IcDuRM1Ce+oFyw==;zmtIfpkNagfes/VniiAMQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/nation-world/can-ai-detect-wildfires-fa
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/can-ai-detect-wildfires-faster-than-humans-california-is-trying-to-find-out/?amp=1"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "California deploys AI-powered wildfire detection systems"
+    excerpt: "The AI system processes \"billions of megapixels\" of images every minute from cameras that cover approximately 90 percent of California's fire-prone areas. The AI program started in June and was initially deployed in six of Cal Fire's command centers but will expand to all of Cal Fire's 21 command centers in September."
+    publishedDateTime: 2023-08-24T21:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wildfiles_getty-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "California governor signals support for self-driving trucks"
     excerpt: "Gov. Gavin Newsom's office has signaled his opposition to legislation that from operating on the state's public roads."
     publishedDateTime: 2023-08-24T21:47:00Z

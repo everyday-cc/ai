@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Cloudinary brings power of generative AI to MediaFlows, its next-gen low-code platform for visual media"
-excerpt: "Cloudinary, the image and video platform that powers many of the world's top brands, today announced enhancements to its MediaFlows product, including"
-publishedDateTime: 2023-08-22T10:01:00Z
-originalUrl: "https://retailtimes.co.uk/cloudinary-brings-power-of-generative-ai-to-mediaflows-its-next-gen-low-code-platform-for-visual-media/"
-webUrl: "https://retailtimes.co.uk/cloudinary-brings-power-of-generative-ai-to-mediaflows-its-next-gen-low-code-platform-for-visual-media/"
+title: "Cloudinary Brings Power of Generative AI to MediaFlows, its Next-Gen Low-Code Platform for Visual Media"
+excerpt: "Cloudinary, the image and video platform that powers many of the world's top brands, today announced enhancements to its MediaFlows product, including"
+publishedDateTime: 2023-08-22T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230822128620/en/Cloudinary-Brings-Power-of-Generative-AI-to-MediaFlows-its-Next-Gen-Low-Code-Platform-for-Visual-Media/"
+webUrl: "https://www.businesswire.com/news/home/20230822128620/en/Cloudinary-Brings-Power-of-Generative-AI-to-MediaFlows-its-Next-Gen-Low-Code-Platform-for-Visual-Media/"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Retail Times
-  domain: retailtimes.co.uk
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -34,6 +34,6 @@ related:
         height: 576
         isCached: true
 
-secured: "RgyKOS1xfsYMrwNCAhffLEDGuM3Abkl3sNDxqZLkjhqdLqGEcNFUYPh41pUiW17z/DxHM5zKM7g1C5B8o08XGRFCZhq0Tegzdt37UA6wkL4i8gmWh7RKLqwyfyQaxMPjcvdLbOrSUnRL2VPfrjNnybfWEE4HjQtdCj8DcM7Lir+AZZzAIHDHd9/Bg9aIUb9auvUZKPaH8eDa9u5sP/ns4jYk27dIHHWojD07yCUlhB+DvthdQpV8r92gotUZU4Qg8LjPY5ahnvI/a55SV3oVvcu0g2Qrkr9Cgz0nP5HEaiN+IOgmHnQs/q2qH/ws0SuMvMN3gO7FTG1HDxfSOWRE+pYvvy/Fs60XQV+xgEoF7Ek=;YG4+Hl1nNTi9rxLtWX4FZQ=="
+secured: "eBEaxRHL8vno0HegwmISQi0g8Y3YUlJ3l3NLT9qlaS8ALHJtjOdwTHAA8rPOGKA1eG9g0aSFwLve2F9zslQv33VBSzGqBtdyjodeBd8JePT5dde8vhz23FRU+gV/KF4c+zeyNrfZlkzeorqm3GnDJ0JexnlOeelxN6sxJ5YxaUgvfwJPtmR+AmWcPDlakRpSCKcOKiBHsLQfZwCm8pHI030c2JAw+tuzcGMxxjwFTLP4Q5ipPMV1jaVH+2YpwamNwdrV/+GWTMbBlyMSXltalw7HvrB45fHkASikdNKJukPViMZabjSz7N7/EgBJ6yRFuhybYVIhuE3TFQuGEszGXyDSXOhlsyVg27Oatu4g8Go=;ncxs5O7yEyM2p/SDQkqOXA=="
 ---
 
