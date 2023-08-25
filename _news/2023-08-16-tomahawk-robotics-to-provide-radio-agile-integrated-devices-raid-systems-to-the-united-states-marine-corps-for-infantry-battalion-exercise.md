@@ -2,9 +2,9 @@
 category: news
 title: "Tomahawk Robotics to Provide Radio Agile Integrated Devices (RAID) Systems to the United States Marine Corps for Infantry Battalion Exercise (IBX)"
 excerpt: "Tomahawk Robotics is pleased to announce that ADS Inc. has been awarded a $3.5 million delivery order of RAID systems by DLA Troop Support, on behalf of Marine Corps Warfighting Lab (MCWL). The RAID systems produced by Tomahawk Robotics in Melbourne,"
-publishedDateTime: 2023-08-15T17:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-provide-radio-agile-integrated-devices-raid-/2023/08/15/9865061.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-provide-radio-agile-integrated-devices-raid-/2023/08/15/9865061.htm"
+publishedDateTime: 2023-08-15T17:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/15/9865061.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/15/9865061.htm"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2060253/Tomahawk_Robotics_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "zmyyPKj8tbJHYEKoyzfWHsfTujBE4+O/eoKgY4wB8H8b2RJ9f18fBhudhHrFc57cjCY5RmZ3fMROkwEosVQlAS1rUttEfpwxv9cVTboPvfXKWqvEV5I7o8YjjcEV4N++jpT3rbrGCMxBHTaC7lV544ADp9e3ZspoNJUI2xJYZlAy22JqwoN7NiqsFdJe0ahF1EyNqdxSssFv6MEn1ELGR037DAHZCnRqAIFNxhUpPy3fSDhv7VWsAqqe2HUVoRvOSxHlXZFGkqpKXvil8nGQMaxDeayYfekfhpQ3a4lmB9io4D3KsElE41IBA0o9h9CkdajZyg2P+lNlUU642RYw9JOOmHkNtsitC/xxQPBhaQE=;lc+fehJNppfua7yCSfsgrA=="
+secured: "BcKxcwTaCY5p0BRmFta+GemfeG+w/lzH65V4OwHiaDuNb2p0sA+vhp7/ZKLYZWd443SyO8p2ZEu23SC7sbJK+0oemAEK7hiq/sY50BlV6ErQ5cKOHD+AbWzcncMl0SiJ0ZCz9CWW+OPMIgQzQ1yuqdDRNwpwSeE3wHa9Lps/8J+elJ2rIUruTJS3J3REVX6UkzcuXhD0SnyIrLxxVI1p3pv4dCH0M17Ms7iiablT2WJbrGaMCuEbJUBIzu0IdPQKbZy4vMWH30DynpOJ3eD+diozxBSGX32gaEhr7VZR4dliW4xPCOrtDIxhgVoNFfioKZwyQhLRjr52o3EmCchTaJubvQLBADwrf/XEjzAKh7zNqTWWHMguRDLe34KciyiXU9OdSZ3fuL/2umooc64M/0ncd8PtNhqNz/24rlJsPia86mysD9N9eLXD0qGG98U4n6jU4j0TmH++dEeOmhoqJR3uuipMd1ZHfRdRN56U5gCcyvNChPPtA5iDOrav+Tk3wvjYR0sE72cC49942ykkEA==;hlkX5AMu/eXWfprJSszboA=="
 ---
 

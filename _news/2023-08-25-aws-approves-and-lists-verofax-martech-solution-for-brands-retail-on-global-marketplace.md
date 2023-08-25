@@ -69,6 +69,20 @@ related:
         width: 650
         height: 328
         isCached: true
+  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
+    excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
+    publishedDateTime: 2023-08-25T20:04:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19709757/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 38
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
+        width: 650
+        height: 328
+        isCached: true
 
 secured: "M2UFAvCIMNItQ1b4lPeyxzweG4C+CsvMR7A7ExoSNxS88p4Me4b5U7FrOYxrWV6cNnMQc6gf/itRIm2OUl/PlqZ8qwkv7aICBWgvUoifbYxrLJh1Ysv7+4u+EJRlJD//0ESDpWBG7+SgqJe/jtBxU+2cxkQKeRzu0Dv0LYPMy6tryWfZdzvM/o0DVU4DiQx/y+A+MrnxJxcP1nkpCXcEuMK8IljSIdk2LVCJNLwmPuF58f+ucCm4TRELBDsynFObDk/qIH4vBscnqSnRDb8lfa+GnavsDX/9c9S+my8VYfMuGpLOsX24D0t/AEFQt5O9tGpugY0SYlOWhgT+emwhtWVp0GFNYT29SxhfI86v0I9EpNLKMn7TQRrZhm1rJqq2qkJfne5Z280C6LgaLupS0BR1Z1zfY6UXTV7XaNFPkKjkVY2Fohhyns/Ah1bIwwF4qlWDXvpwjG1l5Ei4mxnS5VyeQlsDupitO10t3NJj5XhiBBoYTH8QaO5g0uRSE2TK4iEC2YoWFmgz3Xj8qNOKlA==;vSifl/QGHhYyKqMWC6NL5w=="
 ---

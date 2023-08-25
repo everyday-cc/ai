@@ -233,6 +233,20 @@ related:
         width: 768
         height: 508
         isCached: true
+  - title: "5 Questions To Protect You From Generative AI Disinformation"
+    excerpt: "Generative AI can confidently present as fact information it invents. ChatGPT can fabricate names and dates, medical explanations, plots of books, Internet addresses, and historical events that never happened."
+    publishedDateTime: 2023-08-22T11:11:00Z
+    webUrl: "https://www.inc.com/peter-cohan/5-questions-to-protect-you-from-generative-ai-disinformation.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1480056785_533308_do4skz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
     excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
     publishedDateTime: 2023-08-21T16:53:00Z

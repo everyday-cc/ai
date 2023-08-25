@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-26-the-heated-debate-over-who-should-control-access-to-ai.md",
+      "title": "The Heated Debate Over Who Should Control Access to AI",
+      "excerpt": "Jeremy Howard, cofounder of fast.ai, a non-profit AI research group, has argued for classical liberal values on questions of AI governance, contending that restricting access to AI systems would centralize power to such an extent that it would risk “rolling back the gains made from the Age of Enlightenment.”",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6308604/meta-ai-access-open-source/",
+      "originalUrl": "https://time.com/6308604/meta-ai-access-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/AIFinal1.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-brainchip-sees-gold-in-sequential-data-analysis-at-the-edge.md",
       "title": "BrainChip Sees Gold In Sequential Data Analysis At The Edge",
       "excerpt": "BrainChip has singled out such data processing needs as a key opportunity to apply its Akida technology, which specializes in Event-Based Processing and Spiking",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1363,58 +1415,6 @@
       "ampWebUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
       "publishedDateTime": "2023-07-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-3-emerging-practices-for-responsible-generative-ai.md",
-      "title": "3 emerging practices for responsible generative AI",
-      "excerpt": "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
-      "originalUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
-      "publishedDateTime": "2023-07-27T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

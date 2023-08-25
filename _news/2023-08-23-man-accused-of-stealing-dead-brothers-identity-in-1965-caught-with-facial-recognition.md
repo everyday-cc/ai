@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e5
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scottish Police could be issued with facial recognition glasses that even read lips"
+    excerpt: "Technology that explores the possibility of using digital glasses fitted with facial recognition abilities is to be examined by Police Scotland. The Scottish Police Authority (SPA), which holds the force to account,"
+    publishedDateTime: 2023-08-25T17:30:00Z
+    webUrl: "https://www.thetimes.co.uk/article/scottish-police-could-be-issued-with-facial-recognition-glasses-that-even-read-lips-b6flc9bvh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 13
 
 secured: "DKPqTjDJzi8k8oHzIbKyKMWxSl+CNU91lEslCbdMunDzpJZ4NrNz55MbalcSRhKSLgx8+N+cnEz2+TugZ1k2qdU+hWtb5cEZnhPnfylh1D7NsOP5AlByGHZBXvlCeKp+DbMmX8RVvFD9CYFY8ghDhEWtbeBP614KjM97wRcL7ChiI3D+GH5+xENs2m/9swQPTvynHLu266dr+g3uWGuVRdvrjTX+im6/dBG9ML45e44fkK42PuDDkYXNg8zrI/TWZlPuBV6xgaILUn2apRgPn3sefqyoiH1/tv/q8bV1SXyXZ2Hj669KnMp0npwdk7JWjmAO3UInRNR4tdacW9blatwGhnRd5S6B6GTB2eEVRsEqMWdzq2RebVb/CvGbP5wwU/Y8GDDhfsIjhC9/DR56gcvRI0+IlIgy7duNi4PwK8jtbEVJwNvdrBa5HyQXFcUMmPD0efe1EbEEkvbuW8fKEuPz51GOIYbm5erDaKXjmtgZory9zBdhi5vJ1xY1dyDya5QrzanYTO+Cg6Lb6kZIIQ==;GtGqh1gax8PeOJ+E3jUOqA=="
 ---

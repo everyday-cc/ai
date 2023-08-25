@@ -2,6 +2,248 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-08-11-real-estate-computer-vision-leader-restbai-named-2023-innovation-award-winner-for-technology.md",
+      "title": "Real estate computer vision leader Restb.ai named 2023 Innovation Award Winner for Technology",
+      "excerpt": "LAS VEGAS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Restb.ai, a global leader in computer vision and artificial intelligence (AI) solutions for the real estate industry, was named the 2023 Inman Innovator Award Winner for Top Technology, besting hundreds of nominations of leading technology firms.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/680d4129-1a79-4cf7-a00c-970eceb3e11b",
+          "width": 2701,
+          "height": 1618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-3-robotics-stocks-you-better-be-buying-on-each-and-every-dip.md",
+      "title": "3 Robotics Stocks You Better Be Buying on Each and Every Dip",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The global robotics industry is taking off, and investors are keeping a close",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-rasgo-launches-rasgo-ai-a-generative-ai-agent-for-enterprise-data-warehouse-analytics.md",
+      "title": "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics",
+      "excerpt": "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all",
+          "width": 1032,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-new-study-shows-how-ai-can-help-detect-breast-cancer.md",
+      "title": "New Study Shows How AI Can Help Detect Breast Cancer",
+      "excerpt": "The study found that AI-supported screening found 20% more cancers as compared to the standard review by physicians who did not use AI. AI-supported screening did not increase the number of false positives, meaning it did incorrectly diagnose mammograms as abnormal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d17ec3930cd4cc47034c6b/0x0.jpg?format=jpg&crop=1730,974,x0,y149,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "publishedDateTime": "2023-08-10T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space.md",
+      "title": "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE",
+      "excerpt": "On The Heels of Raising 54M Futureverse to Advance AI and Web3 Technology StackJEN 1: TEXT-GUIDED UNIVERSAL MUSIC GENERATION WITH OMNIDIRECTIONAL",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2183201/Futureverse_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-how-ai-helped-get-my-music-on-all-the-major-streaming-services.md",
       "title": "How AI helped get my music on all the major streaming services",
       "excerpt": "If I can launch an album onto Spotify, Apple Music, Amazon Music, iTunes, and the rest, so can you. Here are all the ways that AI tools did and did not help.",
@@ -964,256 +1206,6 @@
         "AI",
         "AI in Marketing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai.md",
-      "title": "5 things to know for August 10: Maui fires, Trump, Ecuador, Boat dock brawl, AI",
-      "excerpt": "An American nurse and her daughter have been released in Haiti after being kidnapped around two weeks ago. This comes after the abduction garnered international attention and reignited conversation about Port-au-Prince’s kidnapping-for-profit epidemic. Here’s what else you need to know to Get Up to Speed and On with Your Day .",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230809152842-11-hawaii-wildfires-hurricane-dora.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "publishedDateTime": "2023-08-10T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ai-could-soon-tell-you-the-future-value-of-your-home.md",
-      "title": "AI could soon tell you the future value of your home",
-      "excerpt": "MIT used an AI bot to make what researchers called \"very accurate\" predictions for how home prices would change over time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64d3e32dec14ba0019f3859e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp",
-      "publishedDateTime": "2023-08-10T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-meet-rebecca-gorman-whose-company-aligned-ai-is-trying-to-match-up-human-values-with-machine-learning.md",
-      "title": "Meet Rebecca Gorman, whose company, Aligned AI, is trying to match up human values with machine learning",
-      "excerpt": "Even the best artificial intelligence systems don’t always reflect what humans actually want—or need. Rebecca Gorman has made it her mission to better align these two things or rather, to better align A.I. with what humans are actually asking it to do ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "originalUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/07/Fortune-Founders-2023-Rebecca-Gorman.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "publishedDateTime": "2023-08-10T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-to-navigate-the-age-of-ai-the-world-needs-a-new-turing-test.md",
-      "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
-      "excerpt": "There was a time in the not too distant past—say, nine months ago—when the Turing test seemed like a pretty stringent detector of machine intelligence. Chances are you’re familiar with how it works: Human judges hold text conversations with two hidden interlocutors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "originalUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d3d7869ec11a2433532db5/191:100/w_1280,c_limit/Humanizing-AI-Mente_cuerpo-feature.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "AI in Computer Vision Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12 Percentage during the forecast period, reaching USD 14367.51 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33707994",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33707994",
-      "publishedDateTime": "2023-08-10T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

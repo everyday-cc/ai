@@ -41,19 +41,19 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "UK to spend $130M on AI chips amid scramble to buy up computing power"
-    excerpt: "The chips will be used to set up an AI resource as a recent report said 20% of firms can’t get enough computing power for AI. British Prime Minister Rishi Sunak is set to spend $130 million (100 million pounds) to buy thousands of computer chips to power ..."
-    publishedDateTime: 2023-08-21T02:51:00Z
-    webUrl: "https://cointelegraph.com/news/rishi-sunak-buy-ai-chips-in-race-for-computing-power"
+  - title: "UK Putting £100m Toward AI Chips"
+    excerpt: "NVIDIA, AMD and Intel are in the spotlight in the proposed deal. The global competition for semiconductor chips makes investment in innovation a priority for the UK."
+    publishedDateTime: 2023-08-25T21:10:00Z
+    webUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjI2OGJiM2YtMmRmYS00MDE5LTlkYWQtYjgzYzFiNTJlYmVlLmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08252023-uk-ai-chips.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
     excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."

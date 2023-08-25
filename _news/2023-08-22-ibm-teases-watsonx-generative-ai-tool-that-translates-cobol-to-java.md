@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-publishedDateTime: 2023-08-22T13:18:00Z
-originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
+publishedDateTime: 2023-08-22T13:10:00Z
+originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
 quality: 54
 heat: -1
@@ -242,6 +242,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "fKD53m5Avxgx6FUHgbWMJFOI2aPAsMUyuAzn3Tr4kNRtUnQ8knjMhmII/enV1oxEcNgbEZagmuISZPMK78nzPfuuC+/jzh8TNxHOEdCwfvLFq623g1/B9mPSw4f4efTrCouRTUu2MIKF81c+EzVVqzW/TsboSP1N6yNg1HZd8NQreDgSR7lVwzkJCrooJIU+U62e7KhC94HgjzEca/NmLD2FqNqLSiJglBt2tWe6Hpite5yzSD2wEQza26QsSANMTENQPJCZnR9J6q+R7SoSa1rgCqiagY8VeS1avf0UydNS3T2KLNopaTZr2G5tjyVB7EtZIk2n1EPENwM+e05c5fr/nj2EOpxNiJp1g0lDhiKFhr7cDxAsHo84ntPE/s5QUbN/OHXm/DLJ4nbCy3a0l/RaWTQazL/gtJsQ0F053/Vz3UsfOMqX1+eKhtsKbIqNW+WLk1o38bHVqa6ai9kgJhfi7H+YTApGtbWRaDZPCjf3U6HQ7iwKe/LxX+ylzJX8DTN1cWD8HpgrpcvDEpE5wA==;GWFzynzEeqWc63dQEFtzZg=="
+secured: "z7sOQU08lqKH14r5Bj6zUqBi7cqHKRSCl9Wzin2GUqeuMts3UiH2T2FdfcdBSiCHTziiUPZjHuejuNK0GXBmwL4aALzI6Hb5vikMweD7YKarN1MQJ8yy/5S9WKBSRH41QR2q3Qngdnt47PAypcY8dH1IBVoc9JxY4fR+aWPR+2YB67/UwqtMaoE5Y0Ta+V/Pq8P3yp6VsVVC0IozlwMdx+X/JBxhPSnr1/XdqgLPVhaan6UitkowW5zV5GUm8m8ZOcnD4aO4Hpjyt9+fOoqzTnCQDxDLjRQdsFP/xhxsNDcfflBbgplyMBtaAQ/gK+N7l0K6hvf6qjv62fnhEYrvCpyq8M4H/0QjuBjvL7Tty/0=;h+3kEdR4LZs6HA3vABS1ww=="
 ---
 

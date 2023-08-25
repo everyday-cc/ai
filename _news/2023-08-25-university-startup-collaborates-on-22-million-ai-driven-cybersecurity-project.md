@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
+    excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion Windows users, 330 million Teams users). Security is also a $200 ..."
+    publishedDateTime: 2023-08-25T19:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Less noise, better signals: Why XDR and AI are the future of cybersecurity"
     excerpt: "The era of weaponized AI is here, and XDR platforms need to gain value from AI and ML technologies to strengthen the cybersecurity industry."
     publishedDateTime: 2023-08-21T23:31:00Z

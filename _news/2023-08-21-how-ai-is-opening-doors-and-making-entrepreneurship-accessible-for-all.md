@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
-    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
-    publishedDateTime: 2023-08-21T04:47:00Z
-    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Exploring AI and machine learning in modern bookkeeping"
     excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."

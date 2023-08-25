@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-23-americans-are-terrified-about-data-and-ai.md",
+      "title": "Americans Are Terrified About Data And AI",
+      "excerpt": "Americans are extremely worried about data, privacy, and the rapid development of AI according to a new report",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e52dbc25547dd2ca4af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
+      "publishedDateTime": "2023-08-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed.md",
+      "title": "From C-Suite To Loading Dock, The Impact Of Artificial Intelligence Will Be Evenly Distributed",
+      "excerpt": "Automating bad processes won’t make them better. Break the business down to its essential elements to drive efficiency and deliver real productivity gains.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
+      "publishedDateTime": "2023-08-22T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-man-accused-of-stealing-dead-brothers-identity-in-1965-caught-with-facial-recognition.md",
+      "title": "Man Accused Of Stealing Dead Brother's Identity In 1965 Caught With Facial Recognition",
+      "excerpt": "BANGOR, Maine (AP) — An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities, authorities say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
+      "originalUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64e529b52600005a0035fe8c.jpeg?ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
+      "publishedDateTime": "2023-08-22T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ibm-sells-the-weather-company-assets-to-francisco-partners.md",
       "title": "IBM sells The Weather Company assets to Francisco Partners",
       "excerpt": "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount.",
@@ -150,6 +304,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-22-amazon-india-launches-new-edition-of-machine-learning-summer-school.md",
+      "title": "Amazon India launches new edition of Machine Learning Summer School",
+      "excerpt": "Amazon India has announced the launch of the third edition of its Machine Learning (ML) Summer School. The program aims to teach students key ML techn",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-india-launches-new-edition-of-machine-learning-summer-school/articleshow/102954959.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-india-launches-new-edition-of-machine-learning-summer-school/articleshow/102954959.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-102954955/102954955.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-india-launches-new-edition-of-machine-learning-summer-school/amp_articleshow/102954959.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-india-launches-new-edition-of-machine-learning-summer-school/amp_articleshow/102954959.cms",
+      "publishedDateTime": "2023-08-22T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-two-thirds-of-professionals-think-ai-will-increase-their-skills-value.md",
       "title": "Two-thirds of professionals think AI will increase their skills' value",
       "excerpt": "Of the professionals surveyed, 64% said they expect their professional skills to be \"more highly prized\" over the next five years. Twenty-four percent of those respondents see that positive change occurring in the next 18 months while 40% see it happening between 18 months and five years from now.",
@@ -262,7 +459,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -812,7 +1009,7 @@
       "originalUrl": "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -915,7 +1112,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1042,188 +1239,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation.md",
-      "title": "New study reveals why mainframe application modernization is key to accelerating digital transformation",
-      "excerpt": "Rapid advancement of emerging technologies are driving organizations to prioritize digital transformation more than ever.\nThe post New study reveals why mainframe application modernization is key to accelerating digital transformation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
-      "originalUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T13:50:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-siggraph-2023-highlights-new-graphics-technologies-and-missed-opportunities.md",
-      "title": "Siggraph 2023 Highlights New Graphics Technologies — And Missed Opportunities",
-      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag shares his insights from this year's Siggraph graphics conference—including his disappointment with how it was organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e3c5ca0b850136180f2ee6/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "publishedDateTime": "2023-08-21T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro.md",
-      "title": "This AI-generated crypto invoice scam almost got me, and I'm a security pro",
-      "excerpt": "Even a tech pro can fall for a well-laid phishing trap. Here's what happened to me - and how you can avoid a similar fate, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3be910b06a4d8796f38d7419f839efc630fba979/2023/08/21/f7f8fc3a-a1e7-4b45-badc-2dc6c05955f7/gettyimages-1468008490.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "publishedDateTime": "2023-08-21T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-phillies-fans-can-now-use-facial-recognition-to-enter-citizens-bank-park.md",
-      "title": "Phillies fans can now use facial recognition to enter Citizens Bank Park",
-      "excerpt": "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/",
-      "originalUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/",
-      "cdnAmpWebUrl": "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/",
-      "publishedDateTime": "2023-08-21T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phillyvoice.com",
-        "domain": "phillyvoice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Finance"
       ]
     }
   ],

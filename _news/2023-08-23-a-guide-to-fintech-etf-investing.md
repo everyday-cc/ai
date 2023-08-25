@@ -43,6 +43,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "5 Best Fintech Banks to Invest in Now"
     excerpt: "Discover Financial Services (NYSE: DFS) owns the Discover credit card and has diversified into many banking services. Discovery Financial Services owns Discover Bank, which offers online savings, checking, money market, certificates of deposit (CDs) and IRAs. The savings account advertises that it pays five times the national savings average."
     publishedDateTime: 2023-08-22T15:55:00Z

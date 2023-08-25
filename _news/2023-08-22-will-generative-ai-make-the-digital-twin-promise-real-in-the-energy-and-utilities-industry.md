@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-
 webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
 type: article
 quality: 109
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.maketecheasier.com/assets/uploads/2023/07/AI-in-games-immersive-technology.jpg"
         width: 1350
         height: 675
+        isCached: true
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-08-25T16:23:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 34
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
+        width: 500
+        height: 281
         isCached: true
   - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
     excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."

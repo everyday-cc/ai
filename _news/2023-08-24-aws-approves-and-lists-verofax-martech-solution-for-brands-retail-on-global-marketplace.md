@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34017188"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
     excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
     publishedDateTime: 2023-08-25T16:41:00Z
     webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19709757/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 38
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
+        width: 650
+        height: 328
+        isCached: true
+  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
+    excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
+    publishedDateTime: 2023-08-25T20:04:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19709757/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace/"
     type: article
     provider:
       name: The Globe and Mail

@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scottish Police could be issued with facial recognition glasses that even read lips"
+    excerpt: "Technology that explores the possibility of using digital glasses fitted with facial recognition abilities is to be examined by Police Scotland. The Scottish Police Authority (SPA), which holds the force to account,"
+    publishedDateTime: 2023-08-25T17:30:00Z
+    webUrl: "https://www.thetimes.co.uk/article/scottish-police-could-be-issued-with-facial-recognition-glasses-that-even-read-lips-b6flc9bvh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 13
 
 secured: "OQxWPxmDWklCFLEJBhqlpMQHJqY5Vx8Tf0yxoJYF5rb2JnsoGXoFyInWg7zAYWCqx19KrcS6ajtPn4bo3+W6A/BnOt0EWMN1vV3CwLFR/NgLsLlydqdnFXZB5tLZujU4qi4MXfyonz/AlxBY/DQp2uvFAMGfFRk4REPdX9L3/rzuNiG6JJjKLm1nHCoU1y6zZUJ83WeMRuBu5BxPDFxiOGzjxMeJCYf8tTOkN0MgPYAiSndwrUotp2BA31VMmNfZRhgpeg8MjHigtTFX5NUv6MCsbQNSegygoP4vQC385y0w/m8OM2+N0tJL9yk5cCc1UrxHsReHp/3wI0fhISBea+A7SAPAmOY/nFVp0XniWrTT4mHGZfKwjlQ83pP0SeEQqVf1g/Q1o0w7qpBmtuCP07Un+szxu/bYegfxgpokJmkIscYKU0AdxkGbtsHb+JDG5oIAW4OlGqSkN2Z6NMcz9fpBmCawwQ16xBS4guRC1mp3LwWAJDEEgzCJjiZxTk0cGQs/cQtWkkaZd8TtjadbIw==;c74T3FQra0mrX36wd6nrFA=="
 ---

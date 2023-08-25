@@ -2,6 +2,229 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2023-05-28-will-the-artificial-intelligence-mania-sink-stocks.md",
+      "title": "Will The Artificial Intelligence Mania Sink Stocks?",
+      "excerpt": "Stock returns have been dominated by mega-cap technology and artificial intelligence-related stocks. AI has the opportunity to increase productivity across the economy, but even a revolutionary innovation that changes the world can be overdone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64735a8290ba01ceb8569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/",
+      "publishedDateTime": "2023-05-28T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-the-music-industry-is-freaking-out-about-ai-but-this-artist-is-embracing-the-new-tools.md",
+      "title": "The music industry is freaking out about AI — but this artist is embracing the 'new tools'",
+      "excerpt": "\"Patten\" made his album \"Mirage FM\" entirely from text-to-audio AI samples and says AI tools can help more people \"express themselves.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "originalUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646e42256f9a4800187369fb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-05-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-can-chatgpt-really-think-like-a-human-qa-with-ai-scientist-dave-ferrucci.md",
+      "title": "Can ChatGPT Really Think Like a Human? Q&A With A.I. Scientist Dave Ferrucci",
+      "excerpt": "Artificial intelligence is getting smart quickly ... Ferrucci is best known as the creator of IBM Watson. Developed in the late 2000s to answer questions on the television quiz show Jeopardy!,",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "originalUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2023/05/Dave-Ferrucci-Headshot-1.png?quality=80&#038;strip",
+          "width": 750,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "originalUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "cdnAmpWebUrl": "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "publishedDateTime": "2023-05-27T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXEmpire.com",
+        "domain": "fxempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
+      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
+      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html",
+      "originalUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 413,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html",
+      "publishedDateTime": "2023-05-27T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-ai-ml-data-news-roundup-generative-fill-copilot-aria-and-brain-chips.md",
       "title": "AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips",
       "excerpt": "The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week,",
@@ -874,229 +1097,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-ai-is-becoming-the-stock-markets-answer-to-everything.md",
-      "title": "AI Is Becoming the Stock Market’s Answer to Everything",
-      "excerpt": "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
-      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
-      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
-          "width": 1000,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "publishedDateTime": "2023-05-26T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
-      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered organization, our grassroots movement to democratize AI has led us to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "originalUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
-      "title": "What You Need to Know About AI ETFs",
-      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
-      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
-      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-789668/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "publishedDateTime": "2023-05-26T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-21-nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance.md",
+      "title": "Nauticus Robotics Inc. (KITT) Stock: Tracking the Weekly Performance",
+      "excerpt": "The stock of Nauticus Robotics Inc. (KITT) has gone down by -4.83% for the week, with a -6.19% drop in the past month and a -18.60% drop in the past quarter. The volatility ratio for the week is 6.14%,",
+      "sourceUrl": null,
+      "webUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "originalUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png",
+          "width": 640,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsheater",
+        "domain": "newsheater.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-industrial-robotics-startup-ati-motors-raises-1085-million-funding-from-true-ventures-others.md",
       "title": "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others",
       "excerpt": "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated.",
@@ -1352,49 +1395,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-siggraph-fosters-growth-and-innovation.md",
-      "title": "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation",
-      "excerpt": "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/07/12/9847425.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/07/12/9847425.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

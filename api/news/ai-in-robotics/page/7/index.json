@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
+      "title": "AI Industrial Robotics - Denmark",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Humanoid robots take questions at a Geneva news conference",
       "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
@@ -1258,49 +1301,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-robot-takes-podium-as-orchestra-conductor-in-korea.md",
-      "title": "Robot takes podium as orchestra conductor in Korea",
-      "excerpt": "The two-armed robot, designed by the Korea Institute of Industrial Technology, made its debut at the National Theater of Korea, leading musicians in the country's national orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "originalUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/01/k3dwrlbpezmhfj54pggtboxzya.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "publishedDateTime": "2023-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
-webUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
+originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Fort Worth Star-Telegram
-  domain: star-telegram.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Microsoft AI
@@ -186,13 +186,13 @@ related:
         height: 450
         isCached: true
   - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-    publishedDateTime: 2023-08-23T12:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
+    excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
+    publishedDateTime: 2023-08-23T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 49
   - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
     excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
@@ -222,6 +222,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "GqtdVS4ycnvL3aWOuZCrzW7I6U66r9qaS6HkQI4Dta2wPE1rhPeCVx0t5/2utMF2kLYNh5/y1iBoGjV4SERZ2WwD/6lTMcvC7fiy+zprYkyq1otFmk4pSaBu7p0ujNvGnlVJcbavelBZRyo4+yvA4ZM4pLe3wTqbzsTgB9RBe+105ubot0Ye9d7KFpDryV+joEWS1Ay5OspsL6HqkW4Nvolt2zmDHKnulaMyhr7gT9Ta4qmgggK8l1ffb+SpwUNIzSyODPpQ4sg3Jz9IAiLtCyGAL/UYlPKltnSCdEqUV+MgxmVAYCkwakmRZ1rT2/Y3cUmJWgXgyiIyOZksEN6lCAuzp1hiJ54VCZ82ifzy2Y8=;MMkdtHkqzMxKvsX9HKXqeQ=="
+secured: "JbERQk21lzoCqOHcZtpfes3+jJra/FUlBJe+jW04guJDMz7JCzVwLUmuEips79P6VbQxgcvQdNXcQ+ge2ikG1dPxZTB9aLpPxUw20ckDJ/oVSRJUc3ZXRpbblBtEXFRRp6CiudGkci2TzsTeC40WlmbZ7ruY9CaYmzQN/FyjdnshOHmNvDpA6aWgrC5eR8+c+vBmtzWOKCL77I4Y+BGe4picE28e9xj1Wa5q6xM9/MMja3kUJmdqYPzT/hdVlGL/BuQdghcqKS2+vhAQam1TIPYpj58SMvz53Q7rUS/syEMJPA6/azsB9b6KR9mxNYU1Zh1C7dVrvt3CXFq3leCK9xI8MdeQBac5P3vo0UskMp8=;yRYXdiSh/Ll8XT9O434MxQ=="
 ---
 

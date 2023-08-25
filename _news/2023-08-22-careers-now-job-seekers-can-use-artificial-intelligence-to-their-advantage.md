@@ -63,6 +63,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Strong Buy Alert: 3 Fintech Stocks Practically Screaming ‘Buy Me Now’"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech industry has been rapidly reshaped by technology. The landscape"
+    publishedDateTime: 2023-08-25T21:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-alert-3-fintech-stocks-practically-screaming-buy-me-now-1032583795"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "ctcNPv9NTRoiGhmdKjViA6VyzP7aX25e0ajPrYLcmfB0eIofYBs/f38GVQwU8KAEykLuN4MdEalQVfKTEs820lDwXA8q6TMQQGAAPpO8sX4jWzwgUmeMW5ey80r17gYnQzre5v5nVp+twkeFElgxSgGBifuRSYPozdUkZCFUvdU0b8HGeLxfQzUxtXYMAVp9BD48wIK7dLvmu51mBhN++v5NuP6hxxBS4pdSXRH9urQ+32RV45FgCPX8/Zg9D247N3Mod6MjQcTT0s+UNi9+RVvGRXfpBGs7KNMMHUQ6f7Ms6FybxQlf6U69GSTqgu60O6sdSR5Hz3zlyeSpRRyPE2y0vpBVk7/ZREu62yeslBOpsNblK8ie511n1UQ8Jl/I8uvjVJuvutEBj4sCZuSWl0+aBopT0xhb5eM9NHktB1MoRELC9EkIwTB6f2mn76WC68VysGYUjFp8bwZ3crreYFk6OYUeze8Rwlhs+ucGyJjmaUgwRjCLYvUWPQCUC9DfezKdA+bCK8w1mtxWCWCkZA==;CCd1Uak80qinFcHdRwElZQ=="
 ---

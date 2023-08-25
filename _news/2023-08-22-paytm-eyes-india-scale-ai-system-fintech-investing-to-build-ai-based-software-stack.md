@@ -27,52 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "How India needs to prepare for the AI disruption"
-    excerpt: "We must develop a comprehensive national AI strategy that connects stakeholders to provide a roadmap for responsible AI deployment and increase funding for AI research"
-    publishedDateTime: 2023-08-21T01:44:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/"
+  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
+    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
+    publishedDateTime: 2023-08-21T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 59
     images:
-      - url: "https://images.indianexpress.com/2023/08/AI-2.jpg"
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "5 Best Fintech Banks to Invest in Now"
+    excerpt: "Discover Financial Services (NYSE: DFS) owns the Discover credit card and has diversified into many banking services. Discovery Financial Services owns Discover Bank, which offers online savings, checking, money market, certificates of deposit (CDs) and IRAs. The savings account advertises that it pays five times the national savings average."
+    publishedDateTime: 2023-08-22T15:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-best-fintech-banks-to-invest-in-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "A Guide to Fintech ETF Investing"
+    excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
+    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
+    publishedDateTime: 2023-08-22T23:54:00Z
+    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 27
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
         width: 1200
-        height: 667
+        height: 630
         isCached: true
-  - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
-    excerpt: "Rajeev Rastogi, Vice President, International Machine Learning, Amazon, says, \"Amazon ML Summer School is designed to build a strong foundation in key ML technologies over and above academics and is a step towards assisting students to chart out careers in ML."
-    publishedDateTime: 2023-08-24T07:16:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/news/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school/cid/1961219"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school/cid/1961219"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school/cid/1961219"
+  - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
+    excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
+    publishedDateTime: 2023-08-22T20:55:00Z
+    webUrl: "https://moneymorning.com/investing/buy-this-beaten-up-fintech-stock-thats-poised-to-soar/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 35
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 24
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Aug/1692859810_edugraph-6.jpg"
-        width: 550
-        height: 378
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
+        width: 800
+        height: 712
         isCached: true
-  - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
-    excerpt: "Amazon India launched the third edition of Machine Learning (ML) Summer School, an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon, making them industry-ready for a career in machine ..."
-    publishedDateTime: 2023-08-22T11:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school-nid-224893-cid-1.html"
+  - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
+    publishedDateTime: 2023-08-22T14:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 15
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/rwodxzTU.jpg"
-        width: 570
-        height: 367
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
+    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
+    publishedDateTime: 2023-08-24T18:54:00Z
+    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
+    type: article
+    provider:
+      name: Axios Charlotte
+      domain: axios.com
+    quality: 0
 
 secured: "YPZ9c29V8gRjhP1pcUJVyGw6s/L9dx2wDFoChPrrU8McMQOutyCxhlHtK2Sjyt7Xo9mUmGseBKu0DqZZh4DRVrTkKnq5DfSIxZ7b/UhyYa+etZqm13T/JpbjxIVT23KpKrS0bXDZAxlljq6zxE0MsrFpJyU/4PZGHxuW1+hASh5YO1NS4RiStUm8yt6KDbjlBolN/orPn2Ch/+wYGS5JhgAYt9WCMQBy/UwEzu96PPn0cupIORLo6v98msV84IibN4HWdJ2SvpqerJLgUIMm33vF2wPShdd8C4A4/X+BKJwXiUPjQbA4vQ3dDHfJ4m7QBkl1kAzPnfJMXoA3ofN3z6AQ4qwIoYbypOkvTdcKEI3NjG7X6Xw5+k3DcnBpWSiwjxuyj08V86f2gY+vUOnUvSOPN1uN4dj9sF73xjiawERbR0e3KkY7EknWWpRwkap7eO+mWcv+nFzrLeaa0nYBjD0H9AuT85/WLlVlYDF5AVbed96+wzq5Wa8ds+t3YWsXFg+QJHphfHGShwcJPfprzg==;nNvBmFVbH6stF/8xj2IqXQ=="
 ---

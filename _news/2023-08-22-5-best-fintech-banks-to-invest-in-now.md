@@ -35,6 +35,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
+    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
+    publishedDateTime: 2023-08-22T02:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "A Guide to Fintech ETF Investing"
     excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
     publishedDateTime: 2023-08-23T15:38:00Z

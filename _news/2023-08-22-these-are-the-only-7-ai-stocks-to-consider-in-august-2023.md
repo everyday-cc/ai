@@ -59,6 +59,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Strong Buy Alert: 3 Fintech Stocks Practically Screaming ‘Buy Me Now’"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech industry has been rapidly reshaped by technology. The landscape"
+    publishedDateTime: 2023-08-25T21:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-alert-3-fintech-stocks-practically-screaming-buy-me-now-1032583795"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Careers Now: Job seekers can use artificial intelligence to their advantage"
     excerpt: "There’s a lot of concern out there about what artificial intelligence is going to do on the employment front, but I’ve heard that job seekers really can use"
     publishedDateTime: 2023-08-22T04:45:00Z

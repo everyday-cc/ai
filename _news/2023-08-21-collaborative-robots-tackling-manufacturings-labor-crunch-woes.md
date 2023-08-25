@@ -24,6 +24,17 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "Cannabis Robots: Meet The Company Boosting Efficiency And Margins Through Packaging Automation"
+    excerpt: "Automation challenges have risen for the cannabis industry, compelling operators to seek innovative solutions for improved efficiency and revenue."
+    publishedDateTime: 2023-08-25T17:36:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/23/08/33579692/cannabis-robots-meet-the-company-boosting-efficiency-and-margins-through-packaging-automation"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+
 secured: "OrMPKRPttRSVTt2mrNVaBsXD+y8Ftlfm0ZFM65ue+yT55Oy0I1NpvDT1DAWCa9VzC98nkLKy8hQxs7+lUR3oG+boozm33wgxHaHutElvvfb0TEAFIWySYBO8JHtgOI6vs8RiaqCuoGqULEZLSTpuG0bKqQ53MobTEx+W+yfSwhx8BFMMo9/tEX9SCkPD/wlIfe9/T3e/P+RoXZRSX7HuaCe/xfPEeKbjrBgA7sPtJVESx2e4AxzXVQFN9stnXxbauf9BzwPz8Kw6FpeiNhqv6psI/GnpE060NrEA+k6/E/hcFNV4ztL4vKTT8KQFrF+xUeRXZcvHd8gHL+LU6llnjYJv99lGAGbKKO80myd27KkyMrOWNlIS8sNKtLi2q3sN3FUppAa3jiiLKQ7kfA5j1cS5W63JyJpWRPdupzIrAiBGlLekNcosj3TS1CWH401maGJJkI3kpl0fb4WoQuZ/LoHlFtwFIgiylt9hfOcm4ZLSivGw7/uZ1ACW39ee2RW/armj/Q8R6POWHZ8Hx8vWmw==;y8IqnIy75HLJ0sa3apXJ6A=="
 ---
 

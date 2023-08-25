@@ -222,6 +222,20 @@ related:
         width: 768
         height: 508
         isCached: true
+  - title: "5 Questions To Protect You From Generative AI Disinformation"
+    excerpt: "Generative AI can confidently present as fact information it invents. ChatGPT can fabricate names and dates, medical explanations, plots of books, Internet addresses, and historical events that never happened."
+    publishedDateTime: 2023-08-22T11:11:00Z
+    webUrl: "https://www.inc.com/peter-cohan/5-questions-to-protect-you-from-generative-ai-disinformation.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1480056785_533308_do4skz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "OpenAI gets lukewarm response to customized AI offering"
     excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
     publishedDateTime: 2023-08-23T10:58:00Z

@@ -57,20 +57,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Propelling the Financial Services Industry Forward with AI and Machine Learning"
-    excerpt: "Financial services initiatives using artificial intelligence As the legacy 100-year ... Patnaik elaborated on the utilization of long short-term memory (LSTM), a recurrent neural network capable of processing individual data points and complete sequences."
-    publishedDateTime: 2023-08-21T04:47:00Z
-    webUrl: "https://www.siliconindia.com/news/general/propelling-the-financial-services-industry-forward-with-ai-and-machine-learning-nid-224841-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/1F6yNmai.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "How AI used to detect depression and anxiety just by listening to a person's voice"
     excerpt: "AI-enabled tools are being developed to address mental health issues, such as vocal biomarker technology for detecting depression and anxiety. Know all about them. Mental health is increasingly becoming an issue societies around the world are paying more attention to."
     publishedDateTime: 2023-08-23T11:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-fore
 webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Canadian Fintech Investment Drops to Pandemic-Era Levels in H1’23"
-    excerpt: "That’s down from the US$1.09 billion invested across 87 deals in the second half of 2022, and US$834.1 million invested across 109 deals in the first half of 2022, according to data compiled by PitchBook for KPMG in Canada."
-    publishedDateTime: 2023-08-21T04:55:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/canadian-fintech-investment-drops-to-pandemic-era-levels-in-h123/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/08/fintech-2.jpeg"
-        width: 1000
-        height: 562
-        isCached: true
-
-secured: "oYUf85q/WA2sHzpfSwui+8zwXykS/M8eBkVJRuWoYno0VY+30jrSl2A6oR7w6QjzmnqpsAwy0rJALUsEjf8gkXmt4Vs5wseIPBt7nofDO/evuBOUC12T3YFsyLIPf/DmXuejtEc8ouz9qof2hhm7fAG6HG9Gw7sgBPR47QVGmWJs7WebiMVZmtuEW5KtR0Yi8v+g5GjpfcdU5AKYEzBNila0PZiHaVFe+hPGPOjmmYMM2RmlmA8ub3qd1ucwt5QKsvGiEKUxMJegX5+ahGm5WixDGaPQarkkT8zCMTCd+Q6B+WPwIxG1dupFrWRCE9cyRCydeDEMvWQiRXvQMCR/tueZcj0Sfac8aZj5YPoWaPE=;qjvSN86q4pLMjFvDiLaVqg=="
+secured: "NPNGS6FbT3f1Lo26Sn6R5Lzbmi4PbGAtMHsqVP34XbxqsB6RJQf1L37nTYUc+pZg0y222Cp2JD7wDDcVw9oJRYc6t4Mq8nW8DEUWoXgcxIACVAP/7wsASFEuZR8nrj9uvOvpcU6yeBDORmrzZ0WvsydlFX11Xwy01L3hgJ9lilXSURtjdz90+7P3MrEdsEcZC4UUmOEbXb+5mNEmv5zkZ3KNZoFO4hAo56XLbSt3V6uhL/RU9o1muETsIB7jQ/1udTbDb1yCKAZoz24eRtTl+RBNVGOKqgfMC5iMT2fOWGizVJp3tn2AhkWDPVcVGltj5d9/li+ujar3vR6A01lDB8mwDD8VBHyfurg0PAjswi/hpPVFbzckK9g2vS/9HqpYnScM15wUvSx6HPpLiFk+uxyEQKq5lv176GoCbogsSJbe9Y9NTxZ1amTujkQBPKm2NcoylUM/VLUvkvGW4CQjQnoP2M7dRB5y7UzIj7uLKagis3//hR6MCsIMvErzdCCp0/ZWuyDCGgyJ9r168ZGT7Q==;HkDfWmiub0iwSN8kBJJ7AQ=="
 ---
 

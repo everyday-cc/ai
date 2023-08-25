@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-07T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-scientists-build-a-system-that-can-generate-ai-models-for-biology-research.md",
       "title": "Scientists build a system that can generate AI models for biology research",
       "excerpt": "Automated machine-learning (AutoML) systems are still in a relatively nascent stage of development, with current usage primarily focused on image and text recognition, but largely unused in subfields of biology, points out first co-author and Jameel Clinic ...",
@@ -1281,59 +1335,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
-      "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
-      "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/serverless-ml-inference-endpoint.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:27:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

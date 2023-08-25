@@ -27,22 +27,6 @@ images:
     height: 962
     isCached: true
 
-related:
-  - title: "China Could Dominate the World in AI"
-    excerpt: "Previously known for its copycat culture, China has shed its reputation and today, is a formidable force in the AI space. In fact, China has been taking the US head-on in the AI race for quite some time despite geopolitical challenges."
-    publishedDateTime: 2023-08-23T11:02:00Z
-    webUrl: "https://analyticsindiamag.com/china-could-dominate-the-world-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/china-chould-take-over-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "e/rx+qmyiOkAA0V+WU3+MRHUUnunfHERGWhsd+zGtUC9AS/heS39gIa3YL2uZgEGbtUmtBbKF1/dkOfB71Dx/QtzVVaaKinGQjkOdRHi7PWbqt64+FyoLPLajjCs810xJ/nXShy5QdilmR1qD4dKO10sSgrYcbDP+kNMYqLK2jpKaz2YGi2hsXMVhcIHH4bKJ+3fUwdPbkKInwod9Rh8ALtdENCdRe9zFolxFj2r1YwjW6GU0EWS19Y9fa2H+TbgZjIL5yoV4TciKbhpv1TZcPaTGKPkHqQRh/hIVulRFBG+uGtu4WtCeYQ/urr6QOhNf25f6mx0PXUCVzjABdm7PgqGMmiioFSKvse7AOhUaLI=;c5yP3wmWsZo2vjUDYeIqow=="
 ---
 

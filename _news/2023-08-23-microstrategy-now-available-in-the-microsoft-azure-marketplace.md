@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
-excerpt: "The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence. Designed to enhance productivity, this unified platform offers a wide array of analytics tools integrated with AI-driven workflows for various applications."
-publishedDateTime: 2023-08-23T12:14:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/23/9868932.htm"
+excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
+publishedDateTime: 2023-08-23T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
+webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -206,11 +206,11 @@ related:
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
     publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.star-telegram.com/press-releases/article278479764.html"
+    webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 29
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
     excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."
@@ -222,6 +222,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "mAY3YtB/prdnd9QBRmbjtDAYS1wdbWCz/4yGJUTGD2pM/6Wal5s7pNu137fqcthUMJsP/h13/7bkYjj7nlH8IQNIKQobdVVbMj5wWzANEqOO8PkZ1D103MfE75b6RhFh3bbQIil70ZMRumkKbkHCbqVseWNegz8P0VwDxWeZuW2bGI+jJu8qae1OUWY/SFspPYflAHyoppQKkBK1otzP/AiYWC/6JDorjgaPim7xQC4CF2+28z3xhc2g2ENpc1tUZgI9hHvRVIp/07Jj7bl7kyz/xmHftSqRVBCHeqgAFh4HCWexyCleBp42Un+95VNKI8FpaoTDA3qSzCAwYpWMjZ8RK3Yk0ckvSbNogDG3+eM=;4iExhAv4r/seA6qYELUEsQ=="
+secured: "+GICFeeaOBSOwFZVievv7JvtQBAf/duLRJPXFi6fLAgDn/yEjMpbn6KabiHUie07/u3h4QUXtw3aZ+kzi3zBB84IbFj0ghkEsE4+KlPu7yyG/dMcUAbRk1dH1ESuHlLORVjr0fRexxJ65/NE4oPxvToIzuwToBImHDXEXAgpLJHI0GWFZJ7+ldFXpd0yufkRPGMmuC35vPP7Nehr5OatRIViF/BC29eSCwkM0rp7A74RTEeIcMkDBRNLKrjrDu87h3LVCBbI60DXjVSQVfUu6ZplSIwaS6cIGeuKWPVvIydHiXYVFIam3bOztNsNyqwwDyYMtk1IJA8TA6eL9E3M3rQnK5FrhFoR2rZGXXdxhQ4=;7eTlwXs2ByQU6rw0Y95V0Q=="
 ---
 

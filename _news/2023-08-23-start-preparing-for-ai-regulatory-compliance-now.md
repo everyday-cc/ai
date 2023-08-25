@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-prep
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Use of Artificial Intelligence in Calling Activity Presents TCPA Compliance Considerations"
+    excerpt: "Artificial Intelligence (AI) is in the spotlight, and there are many eager to adopt such technology. For businesses that have incorporated or are seeking to incorporate AI into their processes, applicable legal restrictions and regulations are a consideration."
+    publishedDateTime: 2023-08-25T18:42:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/use-of-artificial-intelligence-in-4398815/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 7
 
 secured: "Ktu0RbaHKFJzDOZpAdtpPXUwIOZL+H0XJcJNlgn5tGAa6NNXyC11Gm97KmOj8mRRM/FMtnCzri/0rbqxi3/JHULLekjlvgYXsDa4rWJG7Zd8m4uzSwIj/iUTG6OFgoNcFjDbjwlpcDJzh7RB3BuzKxnuD3CMkRMb7aeIoweFG41dQTsmZhFhEVgUfgvgQIfrhjkUV3h/2t+SyVNMb/Yl9k7zyoTCy123EAgJtiOZkY7ZrKYmhXb0yrILCz15rgkQ/UBy7KLNmlpA5GLyb4W/XuBmb79rSh/xqoTsIa2E4da0nir/15VCZKL9PanZvazc2zRTK/I1PGYMWV0kA8SwNkMLjcaDVnuk7urDa1fqnhliRODJ0bZIgnCZMsqVQNuYNZ8Hs+7GtW7+GyN3K9dy3AZPPtZWR+K04dKEqjIMHKv+EbpH/dtssdQBjrzKhn2j9JpIPzxuIhPqQFCD/+2tVvaCfnwKIkUE5N048NuvGCZfY+WaR6yGf/80yVNuB3kcmTSwNxqaDZgKOm+HLHBgbQ==;zJgRLfEs3E/4gCIlAYqSMA=="
 ---

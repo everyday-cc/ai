@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-24-meta-unveils-seamless-speech-to-speech-translator.md",
+      "title": "Meta unveils 'Seamless' speech-to-speech translator",
+      "excerpt": "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "originalUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "publishedDateTime": "2023-08-23T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-google-introduces-11-new-security-features-for-workspace-some-ai-powered.md",
+      "title": "Google introduces 11 new security features for Workspace (some AI-powered)",
+      "excerpt": "Google announces a large set of cybersecurity improvements to its Workspace offerings. Some may even be for you and your company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "originalUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2cb48e3be8c9ebcf264ef952d5ed8b37b2f7bcfb/2023/08/23/5a28a83b-4ced-4cea-a909-2e1d6575be7f/umb-gettyimages-171590291.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "publishedDateTime": "2023-08-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ai-artificial-intelligence-in-medical-imaging-market-to-surpass-usd-1442315-million-by-2032.md",
       "title": "AI (Artificial Intelligence) in Medical Imaging Market to Surpass USD 14,423.15 Million by 2032",
       "excerpt": "The global AI (Artificial Intelligence) in medical imaging market size is projected to reach around USD 5,448.17 million by 2029, a study published by Towards Healthcare a",
@@ -339,7 +443,7 @@
       "originalUrl": "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -734,7 +838,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -916,6 +1020,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
+      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
+      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "publishedDateTime": "2023-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
       "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
       "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
@@ -1060,160 +1216,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-americans-are-terrified-about-data-and-ai.md",
-      "title": "Americans Are Terrified About Data And AI",
-      "excerpt": "Americans are extremely worried about data, privacy, and the rapid development of AI according to a new report",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e52dbc25547dd2ca4af6bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
-      "publishedDateTime": "2023-08-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed.md",
-      "title": "From C-Suite To Loading Dock, The Impact Of Artificial Intelligence Will Be Evenly Distributed",
-      "excerpt": "Automating bad processes won’t make them better. Break the business down to its essential elements to drive efficiency and deliver real productivity gains.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
-      "publishedDateTime": "2023-08-22T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-man-accused-of-stealing-dead-brothers-identity-in-1965-caught-with-facial-recognition.md",
-      "title": "Man Accused Of Stealing Dead Brother's Identity In 1965 Caught With Facial Recognition",
-      "excerpt": "BANGOR, Maine (AP) — An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities, authorities say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
-      "originalUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64e529b52600005a0035fe8c.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
-      "publishedDateTime": "2023-08-22T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

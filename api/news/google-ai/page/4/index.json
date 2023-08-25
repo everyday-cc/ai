@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-07-alphadev-discovers-faster-sorting-algorithms.md",
+      "title": "AlphaDev discovers faster sorting algorithms",
+      "excerpt": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "originalUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-optimising-computer-systems-with-more-generalised-ai-tools.md",
       "title": "Optimising computer systems with more generalised AI tools",
       "excerpt": "Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called",
@@ -1343,58 +1395,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy.md",
-      "title": "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy",
-      "excerpt": "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \").",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

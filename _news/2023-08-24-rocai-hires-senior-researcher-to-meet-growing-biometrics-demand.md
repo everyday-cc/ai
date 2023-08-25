@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Future of Global Voice Biometrics Market: Opportunities and Challenges"
+    excerpt: "The Global Voice Biometrics Market is all set to achieve a Compounded Annual Growth Rate (CAGR) of approximately 23.48 during the period 2023-2028, a"
+    publishedDateTime: 2023-08-25T21:47:00Z
+    webUrl: "https://menafn.com/1106950941/Future-of-Global-Voice-Biometrics-Market-Opportunities-and-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?362734"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Influential face biometrics group FISWG seeks feedback on 5 papers"
     excerpt: "The Facial Identification Scientific Working Group (FISWG) has published an ethics code and a guide to face biometrics to generate investigative leads."
     publishedDateTime: 2023-08-22T18:39:00Z

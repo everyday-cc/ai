@@ -158,9 +158,9 @@ related:
         height: 720
         isCached: true
   - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-    publishedDateTime: 2023-08-22T13:18:00Z
-    webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+    excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
+    publishedDateTime: 2023-08-22T13:10:00Z
+    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
     type: article
     provider:
       name: CRN
