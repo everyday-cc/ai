@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/robot-arms-pringles/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 2000
     height: 1125
     isCached: true
-
-related:
-  - title: "Epic adds AI-powered startup to Pals program"
-    excerpt: "Epic Systems has added Talkdesk's AI-powered cloud contact center to its new Pals program, which helps customers select vendors with validated integrations."
-    publishedDateTime: 2023-08-21T14:23:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-adds-ai-powered-startup-to-pals-program.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "IrDYqolrOB3xi21dAJUTOUeWEKyCznSNbKH9ciduEZ8rptuWnC+j9yhnwZSXqS2jCcTD3AhmV+XNOGHTvKSN4GMvJ3ATHmtdEepIkBzc88+8DwsL5B1dSi1/FM5KkRHFZ2K+yAWL7e9alinKu4mz0aLa8MJEo1SiNQB5QpPd11EhSj9MiGaCvoGWRtuiro27GFYwwR6UEd37jfrmQcZOylcFIB44lwwCXwplFENVnEOHT1ztBsW/36C2U5kncfL+uwtNsrytBYyFvF/47eCLRd6CGtbYOdzmu66xZDRypA0z2kfO4kblkdxswnlsG6IPtJ/Hktt/sqLXttDLnShg1znmGyilEfY9W7zl4wEU0T2BuSMbNRyIzwN1V3/T+3dkyOxM8H/pGe2Q9ZS2kvUe8BIk7c9cZQpGZ4JONuE1i1SgCVqNuC9XOV8fVeFlatflgh/ICTdOfp1KhKxjhy0sKwiQ3qxIoGWPq8E3ca6CJxJT0fz6pamotvsXaPv6Z8agmxUsOdUZe8wPDz7mwHCxlA==;wyLBmxtcqlKDIRPeXwf1Ng=="
 ---

@@ -26,24 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best prompts to get the most out of an AI chatbot"
-    excerpt: "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid."
-    publishedDateTime: 2023-08-21T19:00:00Z
-    webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 47
-  - title: "AI Chatbots Help Web Content Farms Copy Work From Top Publishers, Report Says"
-    excerpt: "NewsGuard identified 37 websites that have posted articles containing text, photos and quotes identical to pieces from major news outlets"
-    publishedDateTime: 2023-08-24T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-says"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 44
   - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena' With Painstaking Care"
     excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
     publishedDateTime: 2023-08-23T22:18:00Z

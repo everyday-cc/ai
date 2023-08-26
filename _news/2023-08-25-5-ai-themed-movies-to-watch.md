@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Homeland Security reveals new AI use cases — and removes references to others"
-    excerpt: "Previously undisclosed use cases include an ICE facial recognition system and technology for identifying “proof of life\"."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://fedscoop.com/dhs-adjusts-ai-use-case-inventory/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2018/09/44089411951_1f7689c057_o-e1692625958925.jpg"
-        width: 1200
-        height: 640
-        isCached: true
 
 secured: "Tlnj1FDH4g+STe7vKSRe+C+RK3TI5oHIyEt3k6ox/MZCdbkko7kjk1jgFL8yvZvnTwmtzSEOlQYAgqhYv82P33qJreUYXK6ILsfgDlQDdDKQBEzE+ThlInqirRptf1ijas2FSw16MTGNBjvUygbZVUCgQH0aUAGUxV1rrOydnxWw36PAbFaFpOJkRqgwlOFlSnOn9N1KHCzVitJjqmaXBGq4l1HusFXdc/vFO5vixC10xV6yZK+D8mtjA+irf47cWat9R6z9ilVhLGzREEfaMz+b1ike04c8uhkEylBcbioPZNgMm8jZiXm92P2M0J8tUBlh2QqsC87bAWNZgTFKvpI1yOfZ3wo7EyXq6BGimrjafzXatOF0r7cDj1CVMr6wQ2C3RecLdgHsafkCmoTj8epDc99VP/ml/3n+9qWc26p5hJcbWVCKZH15W4bIcYH8J0luxQajrfR5lemEW46O9yd2PflqY5Fx677RDknWGTUgVahdgkhHqRCP3ofCGKOp3hlv/pGnLZgVuJPEg9uKqQ==;TfvC33Fst7WCTGlGaRf/eQ=="
 ---

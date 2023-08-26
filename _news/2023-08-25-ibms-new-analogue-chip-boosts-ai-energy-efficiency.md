@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's new analog AI chip is more efficient than power-hungry GPUs"
-    excerpt: "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates"
-    publishedDateTime: 2023-08-21T14:21:00Z
-    webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 99
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable"
     excerpt: "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks."
     publishedDateTime: 2023-08-25T14:00:00Z

@@ -1,35 +1,24 @@
 ---
 category: news
 title: "WiMi Developed Execution Platform for AutoAIM Analytics to Facilitate Machine Learning in Marketing"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed the AutoAIM (Automatic Artificial Intelligence"
-publishedDateTime: 2023-08-25T13:29:00Z
-originalUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
-webUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
+excerpt: "WiMi's AutoAIM implements ML in marketing by creating a real-time repository of projects and making implementation recommendations for ML in marketing. In this repository, users can learn, share and reuse workflows (visualization code)."
+publishedDateTime: 2023-08-25T12:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/25/9870317.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/25/9870317.htm"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
   - AI in Marketing
 
-related:
-  - title: "WiMi Developed an AIGC-based Image Recognition System"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that an image recognition system based on AIGC is developed."
-    publishedDateTime: 2023-08-22T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-aigc-based-image-recognition-system-1032572697"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-
-secured: "5edTGC5kV59/1/5gwZSu4h5ChByj2U1lB9QBuaJcxMuW49CnWf7j+KD/31CSj9gdDhjcgz273cwvdqsg4JEe6VSEz/wok/KkGEjDTjEQg629G74Atv9X9h31cBkmGlmLxfwzwACnNz3EDC1P9xLgKDVDPOsGyQ+nNH83Qq9M0kP1/1Hz02N8FMS5hY8nSJozo/D6lt/WS+IBLWUeBPAiSbFuKpl4iPHHnQKeewravlw9Y+DyPOlOEHfiuADRfUUdq+sLEsHFa4PseiyMenoLKQmjH5I2anT38Ig3oriy1BfcGK4Joo+pj+lEFD7KuOqAo4yZlPSpfz40cqK19cvzc66UJmbbKIlzzy6NJIRTGGM=;8jogRPfyj4J3y8Z5wBi70Q=="
+secured: "K/UdJSUUmP4khE7sFKNWOTMJjqIizVR7MYphYWSrxSfKDk7D1cLc346a9t64sLrYQXqHp2cQ147xj0bmQsYs6gPUaopEKFy3ptaFLF/+ciqDrCKvKKA7hPgzmRM79nTZWSE0POnuyff7VILqaY3rqGbS9i7zsMHNbFgLde0AUuGa42Xox7pGQiFZg+ALiqU4FFOzKxg36cYL7ujb3RKXEsDC3W9h8ubcGH5422lXQ8ThAzSJ67F+O1zqA1msCF2TFUKnPtucX/VsxTZhwK11X72hxA6aIvcSihqnRjbns6rf7pSVQ72lnvQg+OPNeagarmn5dBqkJMLhyEzG8BMREnexafl8Lomw1qb6Fxjzx8U=;SjXXY44aRC4mD5pHZJDyGQ=="
 ---
 

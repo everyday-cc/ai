@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abba Star Helps YouTube Come To Grips With AI Music"
-    excerpt: "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors."
-    publishedDateTime: 2023-08-21T15:01:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
     excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
     publishedDateTime: 2023-08-21T17:40:00Z
@@ -70,43 +54,6 @@ related:
         width: 750
         height: 600
         isCached: true
-  - title: "YouTube Launches AI Music Incubator With Help From UMG Artists"
-    excerpt: "A cohort that includes Juanes, Anitta, Ryan Tedder and the estate of Frank Sinatra will “explore, experiment and offer feedback on AI-related musical tools.”"
-    publishedDateTime: 2023-08-21T14:58:00Z
-    webUrl: "https://www.billboard.com/pro/ai-music-incubator-youtube-universal-music/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 37
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2022/09/youtube-logo-2022-billboard-pro-1260.jpg?w=1024"
-        width: 1024
-        height: 573
-        isCached: true
-  - title: "YouTube Music embraces AI songs, but there will be rules you need to know"
-    excerpt: "With AI music flooding social media, YouTube Music has announced how it will approach these generative AI songs more responsibly."
-    publishedDateTime: 2023-08-21T15:01:00Z
-    webUrl: "https://bgr.com/tech/youtube-music-embraces-ai-songs-but-there-will-be-rules-you-need-to-know/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/youtube-music-logo.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "YouTube launches ‘Music AI Incubator’ with UMG on board"
-    excerpt: "YouTube is launching a ‘Music AI Incubator’ with Universal Music Group as its first partner. It was announced this afternoon."
-    publishedDateTime: 2023-08-21T13:10:00Z
-    webUrl: "https://musically.com/2023/08/21/youtube-launches-music-ai-incubator-with-umg-on-board/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
 
 secured: "ar1zYeaNnCV/Al+aCtst/SD5JO7nfVFXtUrRnK5CXntTIJkA3iONnpiubGS1qliOpHVnWdCbrJLBJI+nml+rdVmDx8ikmk9LC2dGirL3R5rQvJOWk4+Ard2poeuye2ZbirJUNP3a/4SfHaehMY61TTbIX68a9k2bDSXd6HES9DQxpYHdtkT0WPDsN/bSeatUg06Iea/dxWJoOS/kKszzI9TlSlGreG5WtoTUQ+H5Ei/MS2AukhMuY/wOB37slrKGVQ+zANKeK2jAJ484/h9yOdembmo7T1GLOwu8YgViRDl4fW6/ycp7L4RlfWNidp4Gg/1vD1tK8DVxeqlDUtxGlHDuGA/v7nL8MxNsscugkr5YRIHB+Wy0VkE9xxMqAh/+peaQCgtJib1Q40TjOGX288//vUJHUURGfTpW9rqCP3XuIirm722SVBcrLgjScLFBywIo7alOLcj218Ww6o2D8AEs6S/MqCQSfF6kVCk9rVoAugn9reCu7Sk4W8r1ORN0pNDxLjEq5N8u2nDQ+oi7pQ==;z3HMI4Ngy2PMX2z6pqDdeg=="
 ---

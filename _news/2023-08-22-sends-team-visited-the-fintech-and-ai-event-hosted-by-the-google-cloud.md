@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Dynamic Use Cases of AI in FinTech"
+    excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
+    publishedDateTime: 2023-08-22T17:35:00Z
+    webUrl: "https://www.tech-critter.com/dynamic-use-cases-of-ai-in-fintech/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 39
+    images:
+      - url: "https://www.tech-critter.com/wp-content/uploads/2023/08/ai-fintech-02.png"
+        width: 1600
+        height: 840
         isCached: true
   - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
     excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."

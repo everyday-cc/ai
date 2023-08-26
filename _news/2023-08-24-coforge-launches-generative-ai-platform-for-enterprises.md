@@ -36,22 +36,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Digging Into Enterprise Digitization And The Power Of AI"
-    excerpt: "While it is a challenging time for many, I would argue there has never been a more important moment to harness the power of AI."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/21/digging-into-enterprise-digitization-and-the-power-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64df8e0431caa1d854c712f4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Specialised AI Models Offer Complete Solution for Enterprises"
     excerpt: "According to recent trends, Enterprise AI is shifting towards specialised models rather than a single generalised model. Recent reports have highlighted that an overwhelming majority (96%) of global executives are actively engaging in discussions about generative AI within their organisations."
     publishedDateTime: 2023-08-22T09:51:00Z

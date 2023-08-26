@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2.md",
+      "title": "Maximize Stable Diffusion performance and lower inference costs with AWS Inferentia2",
+      "excerpt": "Generative AI models have been experiencing rapid growth in recent months due to its impressive capabilities in creating realistic text, images, code, and audio. Among these models, Stable Diffusion models stand out for their unique strength in creating high-quality images based on text prompts. Stable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/maximize-stable-diffusion-performance-1260x628.jpg",
+          "width": 1260,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T09:37:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-better-artificial-intelligence-stock-apple-vs-amazon.md",
       "title": "Better Artificial Intelligence Stock: Apple vs. Amazon",
       "excerpt": "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock.",
@@ -1363,40 +1415,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab.md",
-      "title": "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab",
-      "excerpt": "The post Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab appeared first on Spotlight Growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -28,19 +28,6 @@ images:
     height: 255
     isCached: true
 
-related:
-  - title: "Abhay Lodha of Topworth Group: Transforming Fintech Industry with AI"
-    excerpt: "Through the utilization of AI technologies, innovative solutions are being developed to enhance customer experiences, reduce costs, and accelerate growth. According to Abhay Lodha of Topworth, AI has the potential to revolutionize the Indian fintech sector in a variety of ways."
-    publishedDateTime: 2023-08-21T14:14:00Z
-    webUrl: "https://www.thehindubusinessline.com/brandhub/abhay-lodha-of-topworth-group-transforming-fintech-industry-with-ai/article67219292.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/brandhub/abhay-lodha-of-topworth-group-transforming-fintech-industry-with-ai/article67219292.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/brandhub/abhay-lodha-of-topworth-group-transforming-fintech-industry-with-ai/article67219292.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-
 secured: "VDQHBjZNz4x2pJ4y/CeRor66oQHYagCvUBVvz+9zkSJX1EJncPbHsPC32IxGYXpkOHkV78dhmwU9xm4gwRv07W16vgO/IOyO/YJ0wzBgPqh/dB/zxKK3hjaTtc/+MI0Tf1xGKfDA2p1UJc8H8r5PqMcb10Jr8zW68OaaNicHIfnd+R9GlzNqTkMRXwdSv6PDQ1jmLhM2Y80jtHhhz22pEZL4nnufBaEJcF9R5s1WDA3JU2ubQ3eC74I0FXtgsA8k8aJCZ6HMextuv/im20O6A7CifF8nJRuRrRag3XllcVKriz3iQA6EVYxr46qmGuCnJVYRFQDJcBN24z0CTGKHp5gEO+9pSv9LALb7APNXf24=;Qf6ONUE4iGYSItR3uGXE8g=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
+      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
+      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "publishedDateTime": "2023-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
       "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
       "excerpt": "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words.",
@@ -1338,60 +1382,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-godfather-of-ai-has-a-hopeful-plan-for-keeping-future-ai-friendly.md",
-      "title": "The ‘Godfather of AI’ Has a Hopeful Plan for Keeping Future AI Friendly",
-      "excerpt": "Geoffrey Hinton left Google so he could speak more freely about AI’s dangers. He argues that building analog computers instead of digital ones might keep the technology more loyal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "originalUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d52f58d78d78815e4d0414/191:100/w_1280,c_limit/GeoffHinton_plaintext_biz_GettyImages-1260047116.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

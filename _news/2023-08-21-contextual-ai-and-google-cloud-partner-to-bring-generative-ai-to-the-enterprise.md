@@ -82,6 +82,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Dynamic Use Cases of AI in FinTech"
+    excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
+    publishedDateTime: 2023-08-22T17:35:00Z
+    webUrl: "https://www.tech-critter.com/dynamic-use-cases-of-ai-in-fintech/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 39
+    images:
+      - url: "https://www.tech-critter.com/wp-content/uploads/2023/08/ai-fintech-02.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
     excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
     publishedDateTime: 2023-08-22T23:54:00Z

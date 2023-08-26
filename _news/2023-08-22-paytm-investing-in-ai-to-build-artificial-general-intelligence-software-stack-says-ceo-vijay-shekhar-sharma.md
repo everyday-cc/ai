@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/paytm-investing-in-ai-to-build
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-says-ceo-vijay-shekhar-sharma-news-312556/amp"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paytm investing in AI to build Artificial General Intelligence software stack: CEO"
-    excerpt: "CEO Vijay Shekar Sharma said Paytms next contribution will be small mobile credit with high credit quality and fully compliant with the regulators guidelines"
-    publishedDateTime: 2023-08-21T14:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms"
-    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35592,msid-102914945/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Paytm investing in AI with eye on building artificial general intelligence software stack"
     excerpt: "Fintech giant Paytm plans to bet big on artificial intelligence (AI), a technology that is reshaping the tech narrative and is making its w."
     publishedDateTime: 2023-08-22T08:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/how-ai-used-to-detect-de
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/how-ai-used-to-detect-depression-and-anxiety-just-by-listening-to-a-persons-voice-71692788512055.html"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "New AI-based screening strategy uses ECG to detect heart defects"
-    excerpt: "Researchers explore the use of artificial intelligence in enhancing the yield of conventional screening for ASDs using 12-lead electrocardiography."
-    publishedDateTime: 2023-08-21T14:07:00Z
-    webUrl: "https://www.news-medical.net/news/20230821/New-AI-based-screening-strategy-uses-ECG-to-detect-heart-defects.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_756727_16926175351258822.jpg"
-        width: 2000
-        height: 1499
-        isCached: true
 
 secured: "W6UBEUQX4JlF6dc0URqT14LrbO3iSatY6UpMtcJrb/Cd3Tf4a78DslFOwcE+OAcCeG022ZB2KNQqEO6OKZqO4amTsKahcX8uKiceJxPVgaB9uXRaPSt2K93zjk02J5ClChl0E3qkXJZ84G33c1szqi0QFryg6S8tNeJI4ShQXKSmmQNHAzXO+AWLvlSx1+NHO3NLsIjqouFnSD0V68rvP0m6C/wEL4m6bU5WjiF5wGaLzigpVQOIoZkVBi8gxZLY65aOBGyr5OBm4403zHOwOIHZv0drWmsrj7zurDYkD5rQeINOUwva7jjQGV491gVwdKcIWq/SRqIvLQ1bRpoxetcmIStNGNkMUWps/OETbM49HnYkPcZ6mJoDGdefRji3ZsCaH5h0NpbDr/wMPd1AmA0O7q7KB+Dq+ecLcza+eGHE6z3ViRlHS0R7TTr1z+PBNFrZEP+BZ3OScNKsmxAMHek4T2SGtra1BM4vxjbnHrby9eNpTD/UNXiXnTcQma2sRdAy/PwW1LFRiAqYm1wJoQ==;vR+f7usQ9KF2nMk09+o1Xw=="
 ---

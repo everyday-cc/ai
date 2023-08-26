@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abba Star Helps YouTube Come To Grips With AI Music"
-    excerpt: "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors."
-    publishedDateTime: 2023-08-21T15:01:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
     excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
     publishedDateTime: 2023-08-21T17:40:00Z
@@ -60,20 +44,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "YouTube Launches AI Music Incubator With Help From UMG Artists"
-    excerpt: "A cohort that includes Juanes, Anitta, Ryan Tedder and the estate of Frank Sinatra will “explore, experiment and offer feedback on AI-related musical tools.”"
-    publishedDateTime: 2023-08-21T14:58:00Z
-    webUrl: "https://www.billboard.com/pro/ai-music-incubator-youtube-universal-music/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 37
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2022/09/youtube-logo-2022-billboard-pro-1260.jpg?w=1024"
-        width: 1024
-        height: 573
-        isCached: true
   - title: "YouTube and Universal Music team up to experiment with AI"
     excerpt: "YouTube is partnering with Universal Music Group and singers such as Rosanne Cash to experiment with artificial intelligence in music production."
     publishedDateTime: 2023-08-21T21:33:00Z
@@ -88,29 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "YouTube Music embraces AI songs, but there will be rules you need to know"
-    excerpt: "With AI music flooding social media, YouTube Music has announced how it will approach these generative AI songs more responsibly."
-    publishedDateTime: 2023-08-21T15:01:00Z
-    webUrl: "https://bgr.com/tech/youtube-music-embraces-ai-songs-but-there-will-be-rules-you-need-to-know/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/youtube-music-logo.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "YouTube launches ‘Music AI Incubator’ with UMG on board"
-    excerpt: "YouTube is launching a ‘Music AI Incubator’ with Universal Music Group as its first partner. It was announced this afternoon."
-    publishedDateTime: 2023-08-21T13:10:00Z
-    webUrl: "https://musically.com/2023/08/21/youtube-launches-music-ai-incubator-with-umg-on-board/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
 
 secured: "56iD+qD8AEbyDkD7FiZNA26zdkGcxB9LpzccjbIBaJxYoSn11Rxkgx6xXjHQMZutbeySe4pFs2S4JxxZw+69xLZE6L4p4yJ+zr5/QJP/ayFxyFddB/LzSX5YwvFE4/yRhPJ69rE6rCdFz0fv4dalhjUyI3q2vyGtaTuVTseNwBUQizySZYZByxba0Q9Ruwob31wl8vdBqz1RLjTIWIivDmeSL53ky3yKabfDKw8JOwDxzkLJ6v1hhm0I7Zkj080LEY/DlzRDI59RdRBVG3Ferv5INXWXpzCATF5K4G9zE+khHBCmlO5i6c7X9tluAoylFvys75BJSXZQ8SdB9+oyjve0LVIU/cAFOMoFvP4cK1pfZqKGEqm2xD5nryuSnFXeYjURJZ4Lmk+k2V4ONZw1dbggnXV+nazJKziQ/W61kw6VBz6ubQ9NjtZMGft7uIuSbg09LoEXC3ULdZ0ehTo0by2mgBW+JsLaMs3cOUcxMRJPmrZxJ2YCLxX0ObDZipMk4QNLWAe4vA7mQaGi5Yjm5g==;F/G4NjLfu9HSI3DwGTFMSw=="
 ---

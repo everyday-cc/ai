@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Homeland Security reveals new AI use cases — and removes references to others"
-    excerpt: "Previously undisclosed use cases include an ICE facial recognition system and technology for identifying “proof of life\"."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://fedscoop.com/dhs-adjusts-ai-use-case-inventory/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2018/09/44089411951_1f7689c057_o-e1692625958925.jpg"
-        width: 1200
-        height: 640
-        isCached: true
   - title: "5 AI-themed movies to watch"
     excerpt: "As the programmer engages in conversations with Ava, the film raises unsettling questions about consciousness, manipulation and the boundaries of AI ethics. Ex Machina is a tense exploration of the thin line between creator and creation. Spike Jonze’s ..."
     publishedDateTime: 2023-08-25T10:41:00Z

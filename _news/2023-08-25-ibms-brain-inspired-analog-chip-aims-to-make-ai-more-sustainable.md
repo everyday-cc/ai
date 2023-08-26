@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chi
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Singularity Hub
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's new analog AI chip is more efficient than power-hungry GPUs"
-    excerpt: "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates"
-    publishedDateTime: 2023-08-21T14:21:00Z
-    webUrl: "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 99
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
     excerpt: "IBM's innovative analogue computer chip, designed for AI, offers enhanced energy efficiency and may address the tech sector's growing environmental concerns."
     publishedDateTime: 2023-08-24T21:00:00Z

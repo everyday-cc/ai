@@ -40,20 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
-    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
-    images:
-      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
     excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
     publishedDateTime: 2023-08-25T11:31:00Z

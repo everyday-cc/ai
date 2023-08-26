@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-11-asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab.md",
+      "title": "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab",
+      "excerpt": "The post Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab appeared first on Spotlight Growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-50-amazon-fashion-finds-to-shop-for-under-50-this-prime-day.md",
       "title": "50+ Amazon Fashion Finds to Shop For Under $50 This Prime Day",
       "excerpt": "As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. If you buy a product we have recommended, we may receive affiliate commission, which in turn ...",
@@ -1348,49 +1382,6 @@
       "provider": {
         "name": "Kentucky Today",
         "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-to-be-hot-topic-at-collision-tech-conference-in-toronto.md",
-      "title": "Artificial intelligence to be hot topic at Collision tech conference in Toronto",
-      "excerpt": "As the Collision tech conference gets underway in Toronto, its chief executive expects much of the chatter at the event to focus on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
-      "originalUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://q107.com/wp-content/themes/corus-fm-radio/assets/dist/images/blank-featured.png",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q107 Toronto",
-        "domain": "q107.com",
         "images": null,
         "publishers": null,
         "authors": null

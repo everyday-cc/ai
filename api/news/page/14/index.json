@@ -2,6 +2,177 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-15-the-marketmaster-ai-system-using-machine-learning-to-pick-stocks.md",
+      "title": "The MarketMaster AI System: Using Machine Learning to Pick Stocks",
+      "excerpt": "Fortunately, advances in artificial intelligence now make this possible. This is especially true with machine learning, which creates models that improve with time. It’s how Google’s AlphaGo managed to beat a world champion in 2016. And it’s why ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-a-vs-f-stocks-bar-chart2.png",
+          "width": 777,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
+      "excerpt": "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-the-ai-engineer-myth-unicorn-or-new-normal.md",
+      "title": "The AI Engineer: Myth, Unicorn, Or New Normal?",
+      "excerpt": "What is an AI Engineer? What skills are required to become one? What jobs are available? Do I want to become an AI engineer? How to start learning to be an AI Engineer?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64da637f5f367c2a1b88000e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/amp/",
+      "publishedDateTime": "2023-08-14T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-3-machine-learning-stocks-to-buy-before-the-breakout.md",
+      "title": "3 Machine Learning Stocks to Buy Before the Breakout",
+      "excerpt": "Gabriel Osorio is a former Goldman Sachs and Citigroup employee. He possesses discipline in bottom-up value investing and volatility-based long/short equities trading. The post 3 Machine Learning Stocks to Buy Before the Breakout appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-buy-before-the-breakout",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-buy-before-the-breakout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-more-than-half-the-complexity-of-robots-is-in-the-hands.md",
       "title": "More Than Half The Complexity Of Robots Is In The Hands",
       "excerpt": "Phoenix has 75 degrees of freedom when you count up how the machine can move in all its jointed components. 44 of those 75 are in the hands.",
@@ -984,186 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Growth Report 2023-2030 | 101 Pages Report",
-      "excerpt": "The Global Computer Vision in Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ibms-brain-inspired-chip-embraces-energy-efficient-ai.md",
-      "title": "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI",
-      "excerpt": "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/",
-      "originalUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/08/milad-fakurian-58Z17lnVS4U-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/",
-      "publishedDateTime": "2023-08-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-take-action-against-ai-bias.md",
-      "title": "How to take action against AI bias",
-      "excerpt": "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
-      "originalUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
-      "publishedDateTime": "2023-08-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom.md",
-      "title": "AI startup Anthropic raises $100M from Korean telco giant SK Telecom",
-      "excerpt": "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "originalUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "publishedDateTime": "2023-08-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

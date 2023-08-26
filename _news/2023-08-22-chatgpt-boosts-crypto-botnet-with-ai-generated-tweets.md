@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top UK university partners with AI startup to analyze crypto market"
-    excerpt: "Imperial College London announced a collaboration with AI startup FluidAI to tackle major issues in the crypto market such as liquidity aggregation. Imperial College London announced a partnership with the artificial intelligence (AI) startup FluidAI on ..."
-    publishedDateTime: 2023-08-21T13:57:00Z
-    webUrl: "https://cointelegraph.com/news/uk-university-partners-with-ai-startup"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "5f8lwlYQYfSQp9FRzLNj8aMr/3hfwFp5RYUlQQopJDVbacyITBrRNMBL+r1rzkmRn5Yq9cHnt8LRoUDM9VX9JiITtl2Mcoy5UNT5VDAeZ9IqXVlTLXMaMsZ9VAEI6POPci7I7au1OouCKa2TtWiXiGVHABgfW4bi4SZpf7pe3in40Aq3T773Q8O9PUYUupU82w3YN90yDvnFeEvnnB7yJm7Cws5nJN4dfhZQZq77sueL+nX5tCAo13dANSGIJzpSUv77RgAuuZCZdC5Ajk4SbAim0blZhJ9TpOB54XPhVJK7rPPVvh1RkJyT4vu5DNO9rr7N2FbFcM1aDlwhRjoZxS8FLb4vm/AUKGg9jomfnuzoYSEFP66TZoag/XM3ghIoNPXUhlOheoeGSnG2Urq5KwNlffxsoutXWlCNpre9bEMdoF4gA+rV7kE8jx4+gWRpxA9olq3mrZzqYQ+uYtR4APaLi8zXtguNs3eqeOAtCM15xbzN9HXQuLafy1ozIPYtikGBuqJPEcuxlMO4kQFMNg==;6+mCdBbWxZhqUf3TSe4jow=="
 ---

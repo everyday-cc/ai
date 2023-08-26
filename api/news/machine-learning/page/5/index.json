@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-09-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu.md",
+      "title": "AI, machine learning being considered for inclusion in college curricula: CM Sukhu",
+      "excerpt": "Read more about AI, machine learning being considered for inclusion in college curricula: CM Sukhu on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
+      "originalUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_12_1951489.png?width=1280",
+          "width": 1280,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
+      "publishedDateTime": "2023-07-09T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
@@ -1290,40 +1333,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-study-explores-the-use-of-deep-learning-algorithm-to-detect-occlusal-caries.md",
-      "title": "Study explores the use of deep learning algorithm to detect occlusal caries",
-      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in conjunction with the 9th Meeting of the Latin American Region and the 12th World Congress on Preventive Dentistry on June 21-24,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992913",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

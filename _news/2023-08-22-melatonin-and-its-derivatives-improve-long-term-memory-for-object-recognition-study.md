@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-l
 webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Melatonin and its derivatives found to enhance long-term object recognition memory"
-    excerpt: "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins."
-    publishedDateTime: 2023-08-21T14:02:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Melatonin improves long-term memory for object recognition: Study"
     excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
     publishedDateTime: 2023-08-22T01:42:00Z
@@ -51,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "WwKEoYXBmMwJayC2mnCJ/p+ChqfCgwStkAouaJdiMvBJvgtmtXB9wijtaf8BAsO4I+pNfPsK/83msCZZ5T4MFbBi+exapwXJyWMFpwSb8lsgDUHg2YvmO/hyHbPxepLs6V6lqGPFSRrGiSCaSJHEb2LVSruELLBZlxTPCDVkkpbPvQyj95eOQgWoA4hM/6GDY3vOCVRlKaZYn8WrpdfHOzXtCaJwl0He3q33Q3Pxbqs1DuTfD0+aEEFSCt+w40YswfNfFfb8S8PtnCNjrDfLdSjO6MvkzOc+8eLUCoASvFqMlOU1YbFopVxLYdy7DwU3LLxwoV9o/FdQ6xuol6RMF4Woq4USRXVDTKugsVHQMs8=;DeUb9LRfr9CDO3wnllyEbA=="
+secured: "NDKBGFQl76pMFdtVF4M525+6GRoNWNeHg8lGG0Qiay6Atiqg4FCDIYiiV8S8mgojfMPdejuLTOdq2an8h1ImHKbR8by8NitpIntECLlxDro29dbxel9gvAHDkOVnydD6ILLVieHOJcJvv9fxzzpl0MY79HcY+8v7mxos5BLovluT8evXd3KocWjmUr6GQMvtXYCIx/bEm3cZIZbr4xsL5mIMFeaKkpNtqzuQ8PS+hl52BpIk418uPWWlsV6GxRJuTOmAhbhnXGcMclMXlfZ3+9ks+XHgqcyj3t9uTzHzUn0ArgD0upBYQ88yh16hZ2n+9Rp3iDDDdXF+VaQBB3pAzQa/Ua6inAU9WeVRmTkRVQcI7Fok0ptHoz5iLVwqvweZW141ETbzsIGe7SDOERL1SauF9vdZyxjPY1ycpxeTi4zuOfPOLV9Z9zRLBf608oSCJsudK8Fdq6PbvZr9xIUYUhh3Lsy3Ge3VSWT7KCiSjgDrbeDmJZ+5HZZTHzW4DtN19Nd58KxO7DRzAWAHeQNtXA==;5wT7dfN3xKcOTEpipRjhBQ=="
 ---
 

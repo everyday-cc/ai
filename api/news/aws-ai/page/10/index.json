@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-29-new-report-finds-canadian-smbs-are-open-to-new-payment-options.md",
+      "title": "New report finds Canadian SMBs are open to new payment options",
+      "excerpt": "The 2023 Chase Payment Solutions State of Canadian Payments report reveals that merchants are open to adopting new payments options over the next year as payment innovations for consumers increase in Canada. The State of Canadian Payments Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
+      "originalUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/10/GettyImages-576605112-e1541624080703.jpg",
+          "width": 620,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
+      "publishedDateTime": "2023-04-28T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-creating-a-cybersecurity-culture-good-intentions-are-not-enough.md",
       "title": "Creating a cybersecurity culture: ‘Good intentions are not enough’",
       "excerpt": "Infosec leaders hope to instill a culture of cybersecurity in their organizations. But an expert says action speaks louder than words. “Culture ultimately reflects what you do,” says Merritt Baer, a principal in the office of the CISO at Amazon’s AWS ...",
@@ -1357,58 +1400,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
-      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
-      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
-          "width": 1400,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "publishedDateTime": "2023-04-19T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

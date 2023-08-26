@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
-    excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
-    publishedDateTime: 2023-08-21T14:00:00Z
-    webUrl: "https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
-    images:
-      - url: "https://media.wired.com/photos/64dffd7e93ba5cd8bbdc984f/191:100/w_1280,c_limit/ideas_ai_chatbot_dead_replica.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
     excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
     publishedDateTime: 2023-08-22T13:00:00Z

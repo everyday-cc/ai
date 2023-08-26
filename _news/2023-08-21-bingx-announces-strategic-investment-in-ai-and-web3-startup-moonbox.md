@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bingx-announces-st
 webUrl: "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "METALERT EMBARKS ON STRATEGIC INTEGRATION OF AI INTO WEARABLE HEALTHCARE TECHNOLOGIES"
-    excerpt: "MetAlert (OTC: MLRT) and its subsidiaries are engaged in designing, developing, manufacturing, distributing, and licensing of products, services, and intellectual property in the wearable technology, personal location, wandering assistive technology, and health data collection and monitoring business."
-    publishedDateTime: 2023-08-21T13:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/21/9867347.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
     excerpt: "SINGAPORE, Aug. 22, 2023 /PRNewswire/ — BingX, a leading global cryptocurrency exchange, is proud to announce a significant stride in its commitment to fostering innovation within the blockchain and Web3 ecosystem. Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup."
     publishedDateTime: 2023-08-21T23:40:00Z

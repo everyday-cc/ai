@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-22-does-your-business-need-protection-from-ai.md",
+      "title": "Does Your Business Need Protection From AI?",
+      "excerpt": "While AI can offer many benefits to companies, there are also potential dangers you need to address to protect your business and its stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
+      "publishedDateTime": "2023-08-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider.md",
+      "title": "Generative AI startup Contextual AI selects Google Cloud its preferred cloud provider",
+      "excerpt": "Contextual AI Inc., a startup that creates extensive language models for businesses, chose Google Cloud as its top cloud provider.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Generative-AI-startup-Contextual-AI-selects-Google-Cloud-its-preferred-cloud-provider.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/",
+      "publishedDateTime": "2023-08-22T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
+      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
+      "excerpt": "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
+      "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
+      "publishedDateTime": "2023-08-22T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-content-in-context-the-foundation-for-modern-knowledge-management.md",
       "title": "Content In Context: The Foundation For Modern Knowledge Management",
       "excerpt": "Not every organization will need cognitive search as it is a more technical solution, but for those who are dealing with a deluge of content, it is an important tool for information management. If you are a Microsoft 365 or Google Workspace customer ...",
@@ -347,7 +494,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -579,7 +726,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -702,6 +849,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-22-youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music.md",
+      "title": "YouTube is working on a plan to compensate artists and rightsholders for AI music",
+      "excerpt": "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/",
+      "originalUrl": "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/",
+      "publishedDateTime": "2023-08-21T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted.md",
       "title": "US judge: Art created solely by artificial intelligence cannot be copyrighted",
       "excerpt": "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ...",
@@ -805,7 +1003,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -991,195 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-abba-star-helps-youtube-come-to-grips-with-ai-music.md",
-      "title": "Abba Star Helps YouTube Come To Grips With AI Music",
-      "excerpt": "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "publishedDateTime": "2023-08-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.md",
-      "title": "Paytm investing in AI to build Artificial General Intelligence software stack: CEO",
-      "excerpt": "CEO Vijay Shekar Sharma said Paytms next contribution will be small mobile credit with high credit quality and fully compliant with the regulators guidelines",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35592,msid-102914945/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms",
-      "publishedDateTime": "2023-08-21T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-ibms-new-analog-ai-chip-is-more-efficient-than-power-hungry-gpus.md",
-      "title": "IBM's new analog AI chip is more efficient than power-hungry GPUs",
-      "excerpt": "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "originalUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
-      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
-      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "publishedDateTime": "2023-08-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
 webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,42 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Chatbots Help Web Content Farms Copy Work From Top Publishers, Report Says"
-    excerpt: "NewsGuard identified 37 websites that have posted articles containing text, photos and quotes identical to pieces from major news outlets"
-    publishedDateTime: 2023-08-24T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-says"
+  - title: "AI chatbot aims to provide support for women with postpartum depression: 'A tool, not a replacement'"
+    excerpt: "With about one in eight women experiencing postpartum depression, amid a shortage of mental health providers, researchers at the University of Texas are looking to bridge the gap with an AI chatbot."
+    publishedDateTime: 2023-08-26T06:00:00Z
+    webUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement"
+    ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 44
-  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena' With Painstaking Care"
-    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
-    publishedDateTime: 2023-08-23T22:18:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 33
+      name: Fox News
+      domain: foxnews.com
+    quality: 72
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
-    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
-    publishedDateTime: 2023-08-23T22:18:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11bfcb2-a242-4eb4-ad93-18ee66256f28/f0d2fcae-a162-4bc0-826d-4409847dad26/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bzThKGV9i396ohhYx6V9QntCunmelc5Zwc1pCBlEhIC2PreWSACY/rKaBm3wBKxA7CzEyBUJ5Ph1pBS1blUSsLpUjg6SKUnGLKoU+8vo8zD/QQiWSEq6oGOGOZmjULAUhZOtQh03IZGSn4KSYlvxwZpKmH1LX0GWlLKZ/zM+1FQ/PJCtFC6B1suvTh2jXiOYFLXUtrdqDTqfvwGg+n8rWdvOfqPvhSVsFexkQkS40tmHPnjsplXsdi/KoavmTkOJBJfQzQpFquwy0PzTH2x7MYH8clu7HCSYAnl3JqYoJ09VzxKa804FgE6iIyzs4fq5eHnszCZQU5Cv/zW0FQZV7R5WtESA0PAiM4g64EEZ1DWQWU43wizj5AwqyOZnTnbyPGGzv9GVsIjMeMLu9h++TaY8aucSNRuNrTra2Xdr074AXAC2x5qYeEEhKdBTKuFHZ1Q2aR1csvYC4ZwmfojuCoYQdSicv89S46G3GY3ma5xEt2CGZReIXufPJRBsxdnahEtl9sV5Dyzr1skjYDvEqw==;+C6muuL1V3XSbTg+6/eOXw=="

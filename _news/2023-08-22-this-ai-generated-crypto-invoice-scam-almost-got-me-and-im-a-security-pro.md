@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Top UK university partners with AI startup to analyze crypto market"
-    excerpt: "Imperial College London announced a collaboration with AI startup FluidAI to tackle major issues in the crypto market such as liquidity aggregation. Imperial College London announced a partnership with the artificial intelligence (AI) startup FluidAI on ..."
-    publishedDateTime: 2023-08-21T13:57:00Z
-    webUrl: "https://cointelegraph.com/news/uk-university-partners-with-ai-startup"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "1cldqDO9rA2Iu7Qeh5n4SCcyClVfrpMvt3QlC3sDUNcj14VIcxe3eOKscRb8b0KEVCw5AD35hYoGlJVrL3B3lKtTGT6lLJ3jB9pFuf24cGZ7DFNGjqzHhmTMeRq8djsjA1pyCe1Smf90VBySTjp4+7ap+JtcNwPg1Aay13suJaim2IeuShGSs+cId5paIXR7OQaAM00/LkI50w4D7NwrIAi5VQw9TyYWULvHOdf+QkZM6eAOmafTGDfvdCeEGFbCcHXq3pWBQ8412ucyAK3S30mEcge9/vnXaySIzJozGlDNJ96gEsbtOq1GW2Ah9POzFBxr10tWr7HddoR0i/CFhf4xut47okK0Vc6LZ8B3BrrDMcVtanfsKgmdbyS2NvRanuIsvT18geLx3WhPRlmhDAXp/vs3EsMHgwyP87LNNlQLGAibBXScMJpR/osxiNO1Y7gLCklNeoA8RAaDB31L2aV1psxA7Srdw++i5OK+Z+tiP7o9k1Z+cmlssjKT66+ce5p0XsJT2aQKRCnw8v1J4g==;h64J6NgOg0zB7b6y36S+3A=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cloudinary Brings Power of Generative AI to MediaFlows, its Next-Gen Low-Code Platform for Visual Media"
-excerpt: "and many others Leverage Cloudinary add-ons such as Amazon Rekognition image moderation and Google Video Intelligence tagging Build workflows for metadata management, tagging, cropping, and other asset management tasks The platform’s out-of-the-box ..."
-publishedDateTime: 2023-08-22T13:43:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230822128620/en/"
-webUrl: "https://www.businesswire.com/news/home/20230822128620/en/"
+excerpt: "Cloudinary, the image and video platform that powers many of the world's top brands, today announced enhancements to its MediaFlows product, including"
+publishedDateTime: 2023-08-22T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230822128620/en/Cloudinary-Brings-Power-of-Generative-AI-to-MediaFlows-its-Next-Gen-Low-Code-Platform-for-Visual-Media/"
+webUrl: "https://www.businesswire.com/news/home/20230822128620/en/Cloudinary-Brings-Power-of-Generative-AI-to-MediaFlows-its-Next-Gen-Low-Code-Platform-for-Visual-Media/"
 type: article
 quality: 3
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 576
         isCached: true
 
-secured: "YPSpIlMslGQp+49rccl2P5UPvPj74A8aMxdx96DhIpNRl7Y2omeR6JgPkJz3T45q9hx25TOohHzssT+14+OOL5+1m1SGZ+JnTncre5uREr6X0Yu0Qe0W3DEZtu7UtP+hUVhn+ktjjEvXDGGpej2Nm4HK1YnMYK6Iljc5pXenceJ36M1Nmp33/EOTjpnBHo3/QzWz+iBPSNGC/Rh/pd765/GwY6JNowChewO6ek87Gq1mHJFeYB6FEFPTHp1T/yKKtuZ5K9oNhQ8dyXZ5dDFIQzbHcPXLg4aU2qqkSljMmZ/MpgvhAh7ZJakVI1sdNjq+X5CbDCruZk5IPl+0wolLFBTAr93/dlz7H1YU4GleUrs=;4a1mdLWEh1kWpkgBc3IXzg=="
+secured: "98mM2L5HfFcybT9DNnDENtyUUrEZkUjfw38Mw1CefciXZ3q6PQmkgxArdOPwv+LYxL/SpiUa4zhJK30x6kTbEFtCTM+oKwnlkX0PJga20vQanyZ2o3+DGfGh7gpSvi5VfRRbyKFWtgsI3ggpuH9RDidpEUQ9GBzVyJBFTZA8aUXx2VL/Ix7Bn70po+LPx7cpedvco0eDMmiRqG8lFO8Xc+TLph9gOdw0cqQzS4PZ7sAgGTedkSmNpyL/CA1feZJErXQCx4XyDKgoTdQjQSNs5lhwS/69MOf++reJ0JUnbFn9xPRXVzLAoCyYeCIcXgBBOLxzUXEuNtJVoI+L0lZx+nKBCioQnGC8GbnbeDf+zQM=;bfuc6YTP/ZFnX8C7iVl/FQ=="
 ---
 

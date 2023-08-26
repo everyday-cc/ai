@@ -225,6 +225,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
+    excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
+    publishedDateTime: 2023-08-23T18:54:00Z
+    webUrl: "https://www.aol.com/nvidia-dominating-ai-chip-race-100003548.html"
+    ampWebUrl: "https://www.aol.com/amphtml/nvidia-dominating-ai-chip-race-100003548.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/nvidia-dominating-ai-chip-race-100003548.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 68
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/.K45FEz5EXgehTdhLI0YuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5fea31115bd0fc6cdf12cc4c7150984e"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Nvidia earnings will be major test for AI demand, market rally"
     excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
     publishedDateTime: 2023-08-21T20:40:00Z
@@ -354,20 +370,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI demand faces test as chip maker Nvidia prepares to unveil earnings"
-    excerpt: "The results could also dictate the direction of the wider market this week, as most of the gains this year have come from the AI-driven rally in Nvidia and Big Tech"
-    publishedDateTime: 2023-08-21T14:52:00Z
-    webUrl: "https://www.irishexaminer.com/business/companies/arid-41209477.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 54
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7435/3717886_4_seoimageog_2.55896320.jpg_2_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI chip giant Nvidia crushes expectations as profits soar"
     excerpt: "Copyright AFP Sam YehUS chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday, as the AI frenzy continues to lift the tech sector."
     publishedDateTime: 2023-08-23T22:05:00Z
@@ -490,15 +492,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "PREVIEW-Nvidia earnings will be major test for AI demand, market rally"
-    excerpt: "AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said. But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the ..."
-    publishedDateTime: 2023-08-21T13:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/preview-nvidia-earnings-will-be-major-test-for-ai-demand-market-rally-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
     publishedDateTime: 2023-08-24T01:36:00Z

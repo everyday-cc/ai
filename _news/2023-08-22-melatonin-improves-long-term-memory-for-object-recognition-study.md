@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Melatonin and its derivatives found to enhance long-term object recognition memory"
-    excerpt: "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins."
-    publishedDateTime: 2023-08-21T14:02:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
     excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
     publishedDateTime: 2023-08-22T02:10:00Z

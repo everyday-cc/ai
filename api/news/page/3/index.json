@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-24-artificial-intelligence-chip-giant-nvidia-sees-sales-more-than-double.md",
+      "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
+      "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 761,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp",
+      "publishedDateTime": "2023-08-23T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes.md",
+      "title": "Could you soon be running AI tasks right on your smartphone? MediaTek says yes",
+      "excerpt": "MediaTek is working with Meta's Lllama 2 LLM to run generative AI tasks directly on mobile devices, no cloud-based processing required. There are several benefits to this -- but there's also a catch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "originalUrl": "https://www.zdnet.com/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/be070b82273a9cb433415f5e4b4ab05cd8ce3a8f/2023/08/22/397b3268-0085-47d4-81e0-226f7fbc0b84/gettyimages-1521580109.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/",
+      "publishedDateTime": "2023-08-23T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
+      "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
+      "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
+      "originalUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T14:58:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales.md",
       "title": "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales",
       "excerpt": "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season.",
@@ -772,7 +919,7 @@
       "originalUrl": "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -815,7 +962,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1054,153 +1201,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-does-artificial-intelligence-threaten-programmers.md",
-      "title": "Does Artificial Intelligence Threaten Programmers?",
-      "excerpt": "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
-      "publishedDateTime": "2023-08-23T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
-      "title": "Start Preparing For AI Regulatory Compliance Now",
-      "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63063108bc674cf3651b5fd1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
-      "publishedDateTime": "2023-08-23T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.md",
-      "title": "The most in-demand AI skills — and how companies want to use them",
-      "excerpt": "“Generative AI was born out of machine learning techniques. People added rule-based systems ... but companies that have their own open AI services, like Microsoft and Azure, also offer online training opportunities.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
-      "originalUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/shutterstockthapana_studio-100945002-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
-      "publishedDateTime": "2023-08-23T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

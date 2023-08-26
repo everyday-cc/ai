@@ -39,22 +39,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Global AI Race: UK to spend £100m to produce AI chips"
-    excerpt: "The UK Government has announced it will be spending £100m to accelerate its positioning within the global race to produce computer chips."
-    publishedDateTime: 2023-08-21T13:37:00Z
-    webUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/"
-    ampWebUrl: "https://enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/global-ai-race-uk-to-spend-100m-to-produce-ai-chips/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
     excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
     publishedDateTime: 2023-08-21T21:30:00Z

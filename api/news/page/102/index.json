@@ -2,6 +2,177 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-06-20-vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier.md",
+      "title": "Vimeo adds a suite of AI tools to make video creation significantly easier",
+      "excerpt": "On Tuesday, Vimeo announced it is adding a suite of AI tools to its platform that will automate a lot of the video-editing process. The features include an AI script generator, a teleprompter, and even a text-based video editor. Also : TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "originalUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb0f8df4687cfc04a4ac734b220e0f4b00c9e0ff/2023/06/16/2c07c14f-1fed-45bd-9a02-dd27d3b4b9cd/vimeo-ai-prompt-720.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "publishedDateTime": "2023-06-19T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
+      "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
+      "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/Untitled_design_1687233330640_1687233337610.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "publishedDateTime": "2023-06-19T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-chinas-own-chatgpt.md",
+      "title": "Xiao-I Corporation: Xiao-I Releases Cutting-Edge Large Language Model \"Hua Zang\" to Create China's Own ChatGPT",
+      "excerpt": "SHANGHAI, CHINA / ACCESSWIRE / June 29, 2023 / Xiao-I Corporation (Nasdaq:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, celebrated today th",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59464786-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-china-s-own-chatgpt-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59464786-xiao-i-corporation-xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-china-s-own-chatgpt-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics.md",
+      "title": "Artificial intelligence can support architects but lacks empathy and ethics",
+      "excerpt": "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/GANNETT-AI-0_1687232356033_1687232701698.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "publishedDateTime": "2023-06-19T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
       "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
       "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
@@ -979,197 +1150,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-this-industry-expert-explains-why-fintech-holds-a-bright-future-for-small-businesses.md",
-      "title": "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses",
-      "excerpt": "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342",
-      "originalUrl": "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs.md",
-      "title": "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs",
-      "excerpt": "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/r9nlqv0vwkc9estt_1687172425.jpeg",
-          "width": 768,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "publishedDateTime": "2023-06-19T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-chemo-brain-is-real-but-there-are-ways-to-ease-it.md",
-      "title": "‘Chemo brain’ is real, but there are ways to ease it",
-      "excerpt": "Physicians call it cancer-related cognitive impairment (CRCI), and research indicates it affects about 75 percent of cancer patients during treatment, with 35 percent reporting persistent symptoms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "originalUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BAXZSIH3RRGRTBI2FEKABL6ONI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-why-machine-learning-is-imperative-to-your-brands-digital-marketing.md",
-      "title": "Why Machine Learning Is Imperative To Your Brand’s Digital Marketing",
-      "excerpt": "Business owners and executives new to machine learning and its applications may not know the full potential it has for their digital marketing strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6234c761e493a5459f8e0764/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
-      "publishedDateTime": "2023-06-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

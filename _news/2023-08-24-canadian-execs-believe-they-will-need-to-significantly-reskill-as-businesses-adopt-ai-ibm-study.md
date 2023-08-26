@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Canadian Executives Anticipate Significant Workforce Reskilling And Shifting Employee Expectations As They Adopt Artificial Intelligence"
-    excerpt: "58% of Canadian executives are investing in reskilling internally as opposed to hiring from outside (43%)"
-    publishedDateTime: 2023-08-23T15:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9869264.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
-
 secured: "xRLrTcygsPP09MuGPuBT3MZ8SaWV894KFrUK84HurKFxLlZITmGs7j7xIcOiRRQwrU5hx0DppMT04wwENQWMIIY6hwPPs3zZFtcoduMRdXDOhe1IYxK9DalbOVEmrkClKKel8/Iv4JjPnXb/Bkn9XGiP0fuLMBy/zoaqmgKEQHvQvX/fnUVpT9XSenPBs93kuKiGdrYNbinB/H48umUmuO7nnBp4e4NI7QaN7WpPJvdFoBlI/he8x+ingVefyFrfgBHN8iamdFVLCZ32wcErErNv7xAwZTkPOWVfqL6Sm+4xVY4730wiYzI+79gKbyJQHDYbt1bM1L2NjJFOjSg6wM7td1bGUChaE0YNnkqvhYE=;G5N6LQumjEn3xIxWDXPdgQ=="
 ---
 
