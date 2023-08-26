@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 475
         isCached: true
-  - title: "Google AI predicts floods four days early in South America and Africa"
-    excerpt: "An artificial intelligence from Google can predict floods even in regions with little data on water flow, and its predictions four days in advance are as accurate as conventional systems manage for th"
-    publishedDateTime: 2023-08-21T07:00:00Z
-    webUrl: "https://www.newscientist.com/article/2387547-google-ai-predicts-floods-four-days-early-in-south-america-and-africa/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Chips as currency: America, China, and the AI race"
     excerpt: "Running in the background to the more visible, very real wars occurring around the world at present, there is another,"
     publishedDateTime: 2023-08-25T07:35:00Z

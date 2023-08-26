@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Cipia uses computer vision AI to empower driver-monitoring technology"
-excerpt: "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ..."
-publishedDateTime: 2023-08-22T06:22:00Z
-originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
-webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
+excerpt: "Driver monitoring has become a critical focus of automotive safety systems as distracted driving remains the primary cause of car accidents. Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI."
+publishedDateTime: 2023-08-22T05:48:00Z
+originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "ViaA18lZgjB9x3c3nGzrmpMop7eE0BIEcKtfjG2eu3KOpXlZaxdQUkWuzQNo1L/P8YfWnR30W1gOTodThFA2/FdYPRvitqjD70KnDVTxBdrGasY2EtcE2ijh0Qb0CmzgUFVMC7lj5afDq3xSfFMp2ZtMQSY/SsflHzCB8w597L9szF4VEYOix2Ev7SjBUeOTxWD8xyQwiMIwskdlhZ9DLu1qPfhj+lpVc6DqsrpmqQa7cNqg3lYVXXvxdrX8jiDQdkUwCX+vkaxIIbZZ21Vz7Qmm0Oz4YrlBjLLKJ2DdXJEFqBOEV6a+SzmoTY7UaJm6zbg1xF/DbxOvGjfb5egBHvdmqaUvGHfFNVgqNn77dKdEggocD4UFJml/YdsBJy3MGPmyh/x98l6aXbG9brDlG5b07WYd+zc5k9E9b4GvAF+Woh/6In3YJODCwLZJ1lVzSsVIQjv2A06JfZiz408Ho7uOXqrqypT37bWr5qsErV4sjtw4V7Gf6ZdhJBjJXCBc2gXqa0QeTECtGcenpNGR6w==;IgrGbkfoZlPRZCQAaB0mow=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20230822vl206_files/1_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "wAm+Hbed0MFp6kuPK5m4Bf/o+0N3BXMQTH74TH4gAKY5Y/qUb3nHE1tccdfLGaX1qSllT/fjaYm94Jb6pJ3o6XidLnvopLPahSTJH1jWgmKsWzR/4dYhX7O+VGx1nLtNe70euBR9ygTIq9OdKoTrETJL8Vl+AoXYdWiNM7fhCAn8kxc7n+Pf3aVso2XlpKtq7eSdOxryvsH/4ewFIr7mrsW99RD+ZPR4dXotx1l5loVIl2FZxhqiho+12tXDAs2UK9wMwbnEWpCF8dfUXuc1IAAw0zz5hQRBhGMkL09BDYFAKhqDf6tcRiz6Dcbjh2IbbycexDoOwOEMBeep7br01qPnxr3i1YHi8fTrAIiGltA=;wy9CzyUliExQlN7mOrLAZA=="
 ---
 

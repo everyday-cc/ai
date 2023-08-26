@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-sol
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -61,38 +61,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/ebc3fbebb1b64c4dc9941626d9803441a45e07a9/2023/08/21/184074f9-120f-46c6-8ce7-918105d0a825/gettyimages-1428512168.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Federal Judge rules AI-generated Art not eligible for copyright protection"
-    excerpt: "Court rules AI-created art not eligible for copyright protection, impacting creative industry and raising concerns about AI's role in artistic creation."
-    publishedDateTime: 2023-08-21T06:04:00Z
-    webUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection-11692597016243.html"
-    ampWebUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/FILES-CHINA-AI-0_1692597772890_1692597791668.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "'AI-created art can't be Copyrighted': US court dismisses AI entrepreneur's plea"
-    excerpt: "Thaler contested this decision, contending that AI should be considered an author when it satisfies authorship criteria, with the AI system's owner assuming copyright ownership"
-    publishedDateTime: 2023-08-21T06:45:00Z
-    webUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html"
-    ampWebUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 54
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Untitled-design-2023-08-21T121435.989.png"
-        width: 640
-        height: 362
         isCached: true
   - title: "The AI Judge: Should Code Decide Your Fate?"
     excerpt: "AI emerged in 2023 as the most potent technology the legal world has ever seen. Perhaps more startling is the rapidity with which it is improving, prompting at least one expert to use the term \"compounding exponential\" progress to describe anticipated future advancements."

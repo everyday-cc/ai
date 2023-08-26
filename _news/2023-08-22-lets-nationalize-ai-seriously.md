@@ -53,20 +53,6 @@ related:
         width: 1293
         height: 863
         isCached: true
-  - title: "Hoping to Get More of Their Teachers to Try AI, Students Organize a National Conference"
-    excerpt: "Summer is a time for educators to do some learning, and there are plenty of conferences and workshops throughout the season. But one national event for"
-    publishedDateTime: 2023-08-24T10:07:00Z
-    webUrl: "https://www.edsurge.com/news/2023-08-24-hoping-to-get-more-of-their-teachers-to-try-ai-students-organize-a-national-conference"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 31
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15499/Student_AI_Panelist-1692742590.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Smi0oTgvipLaUI2zKt2wf2UgtZg+66Ksy6EowG0CDXKfAq/UQewQudBFRL4BaAU92IoD2b14MkCquOmeOSfiDkQksd0mDu3R2ou0lphFRAm1Q57f04C52in+ZarGi5BDiXXuswt+13HhunUSHRWKo48C/7PVLDFrXtut4t5JbX/2jFIJlWjiBMPHwaMnj0HkHCo/3ijvrTB/UpAyK7B4CU1Yp6/1J1op5r02DZuzKzzeU2cK5p2iVIYlkwq9YI4fG1c2aYjjvCnhXFjihnHyicWP3mwS5bBqS4z13O5nSo/Wq9Ret42zB9O9kzrhrF7XKjMCeDmIf8KxV9y8k5VqvLNRY6WZ1y/ZlTfY3fHJSyE=;ioQjyOHnnISNN6OjatzrEA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html"
 type: article
 quality: 61
-heat: 83
+heat: 81
 published: true
 
 provider:

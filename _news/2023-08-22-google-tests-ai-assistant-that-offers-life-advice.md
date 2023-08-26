@@ -35,20 +35,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Column: Big Tech’s voluntary commitment to responsible AI offers us false assurances"
-    excerpt: "In response to widespread concerns over artificial intelligence, representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI met last month with President Joe Biden’s admini"
-    publishedDateTime: 2023-08-21T05:15:00Z
-    webUrl: "https://www.meadvilletribune.com/opinion/column-big-tech-s-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/article_84d2d2c0-3dd3-11ee-bb6f-b73b8bd3a6b3.html"
-    type: article
-    provider:
-      name: The Meadville Tribune
-      domain: meadvilletribune.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "QiRClJaO6WVqy/735tQtKFgVIFpOMLyh70n/0lt+ihKg69/azKfZ4C5k+x4Agv1Ilmsk7hfnUkEjtvtGpyrScA5/mBcyssB+REVQU/BLcBpp8otnEZwk1Te//FrtsC88XJgwTP1Mcvfkh8N1BFHQPqcgrb/V4ScMDlOqH0I8nbK4l4WJM5IaIkghC2pMRSLq4VwB+84THEyrswFlaxo+0zsMd4Kpw05mBBYPD+bP+gDNLViGsJyNI2qbOX+mlSMmP2kg7AmhDjZjDVQ2Z5rVxPfwm6cWraqFLR4VTrbrdl8tuACr4RsTM43E97LRY7IkMTW2GNvXaISlXfQsx5/As7b4KpprExu7/FY0dfFzWbNOaxlr1mSgPu3ip/lR7hT8Dn8NztfuFxLhfp43/R3VED5wvXSwfjmXWcFgiIfXUuK1a8/vjIx5xJDr5vkCWW0Tz+zhwbaL/4sbfR2Xfb8BkXjF25hp21aaLhR+3+bW2MZSK00JUrqyS9qpurISZfMAebmT8FVqGSJcZB/eD0Mdrw==;6vRcW8N41UoWgBoyqqAEEA=="
 ---

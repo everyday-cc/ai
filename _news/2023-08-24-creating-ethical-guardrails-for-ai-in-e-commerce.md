@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Making Artificial Intelligence Work for You"
+    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
+    publishedDateTime: 2023-08-25T23:29:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 19
 
 secured: "UWFRJSwpmgL806gvNqxOaW9aCKGOmsnaxTV6YPeeK9C09ZNUUBtVL3LuSM43L4rgBx5lkULQYWHltEqTiDMe3RDi9NSk/VxdcYQdRkc/SK5g2Yps0ccexZC4OD/56Uvhx68mzn6wCdadhBnZoIEukreYpqO1YkkjQntAkhX3qg5KJxaC2JxN/nx8Xgeg7gzvL2PYLdBkfFdS4R74mGjDZG+VWaVP3/sieyXgNtRdQwJIXP9CVhDDLt+R5kWb+Rg53TU29nQFX4DW1bnFNaVbYxWmqgSfWZ+3U4OS8gTay1ydf800Pfi97pk7IcwBUEN3hzajhQ25Mc53jFcGfQjycT0SG8GqsLQUGnCmWM7wJJXRX6K7WHsdQ6GjfvN5KQaOKldyNa8shLS3Fp+gXnSeqa5Y1Csm4HUmJmqx0C08OpCK9G2I0JtjMIZQPNN1C1ISA54k3Vm4Y5j0MRg/0mu72+oT5ludTR+nMc2D0zg46fVcE7ivWEFmySgPYejiiL33rrSnuEu6wl22iyDdDdrIRA==;iZXPk3uua3FTyY/5D3Vbaw=="
 ---

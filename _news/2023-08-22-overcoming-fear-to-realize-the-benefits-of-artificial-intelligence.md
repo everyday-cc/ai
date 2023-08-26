@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Myth of ‘Open Source’ AI"
+    excerpt: "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways."
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-myth-of-open-source-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "How customer engagement will evolve along with generative AI"
     excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
     publishedDateTime: 2023-08-22T05:08:00Z

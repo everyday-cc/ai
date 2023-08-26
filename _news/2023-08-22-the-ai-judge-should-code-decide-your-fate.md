@@ -70,38 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Federal Judge rules AI-generated Art not eligible for copyright protection"
-    excerpt: "Court rules AI-created art not eligible for copyright protection, impacting creative industry and raising concerns about AI's role in artistic creation."
-    publishedDateTime: 2023-08-21T06:04:00Z
-    webUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection-11692597016243.html"
-    ampWebUrl: "https://www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/federal-judge-rules-ai-generated-art-not-eligible-for-copyright-protection/amp-11692597016243.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/FILES-CHINA-AI-0_1692597772890_1692597791668.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "'AI-created art can't be Copyrighted': US court dismisses AI entrepreneur's plea"
-    excerpt: "Thaler contested this decision, contending that AI should be considered an author when it satisfies authorship criteria, with the AI system's owner assuming copyright ownership"
-    publishedDateTime: 2023-08-21T06:45:00Z
-    webUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html"
-    ampWebUrl: "https://www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/ai-created-art-cant-be-copyrighted-us-court-dismisses-ai-entrepreneurs-plea-13020652.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 54
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Untitled-design-2023-08-21T121435.989.png"
-        width: 640
-        height: 362
-        isCached: true
 
 secured: "fUxtUeD2CENpf6fVfAgjYsxqVARyl8FQVNgtnzHRTOIwtrLleYhK8Bgc4ZQ+LzqQaP9MzQmXxQvt9kRKuwUMvnEs4COaGoc/HWFJleebf8WeWWGP5ss4az6xCSnaFCGCCnmNLIZtRL9Ctipwz0rB8XySY8/S6JM05o8QRyrEbHXwOSdtoMddNZk5dyJM4NUhCOCOF1ClL6sqCv1MR5kly4mh2w9bhbbO9dnjwmZ44b5Oqtx3ha9nQDY0+NRBj5WEeOC3u+d56GLY27FbtraxZOcNERc6UxxbuaQCYAID/t/Ig/ayDvtQPT2Yp7iprRBDoofJc4hkOHcq33qZTAdAsplphYirS1nlReEhoXGhBxMmuSkT6OuULiQAhxaVNKXkbAOBJlPLU4Cku45SMrGw9D1uzlxVpY7ttBjeUp88qjHJe6kDT3eAjopK9zsrxak05tQdyy0SmMYCw4tcgHD2YYrg2ehSlwH0hS0Gj7RtQwq3J6OQFSy6JkW9nh85ILje3MM1TSTyssRYl4n7fSO+Ww==;/Y4M+CTcjsc8L7Ic8Vilcg=="
 ---

@@ -20,21 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "How are academic researchers navigating the tech job market?"
-    excerpt: "“Overall, the job prospects for PhD researchers in the tech sector are generally positive. The demand for interdisciplinary research has grown substantially, where researchers need to collaborate across multiple domains, just look at the healthcare industry,” Rai noted."
-    publishedDateTime: 2023-08-21T06:48:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-academic-researchers-navigating-tech-job-market/article67208924.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-academic-researchers-navigating-tech-job-market/article67208924.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-academic-researchers-navigating-tech-job-market/article67208924.ece/amp/"
+  - title: "Analysis of the Artificial Intelligence in Animal Health Industry, 2023-2030 - Companion Animals Lead, Production Animals Set for Remarkable Growth"
+    excerpt: "The Analysis of the Artificial Intelligence in Animal Health Industry, 2023-2030 report has been added to ResearchAndMarkets.com's offering. The global artificial intelligence in"
+    publishedDateTime: 2023-08-23T00:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33996549/analysis-of-the-artificial-intelligence-in-animal-health-industry-2023-2030-companion-animals-lead"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33996549"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33996549"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
     images:
-      - url: "https://th-i.thgim.com/public/incoming/ep6sao/article67208982.ece/alternates/FREE_1200/10EPBS_PHD.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "hm5wMZXXfVdXPRyo6VR95ryMq1O4cpVhVzFY609Szuqf4LwFHj8Qz9CS0MMUrjDTTUtC9IxHoFc7zlcYPR6c0/yKk1iLKn95/9V1NcKJg89XVLoJub3uQH0TLkaVOGWoDwOJE6i437R0x8aMoXGWpNv4ragHUD8knNf+UsXRQWUDvUOhjny14Xu+iOzvTF11mqIThcUadiqZUQUo3et8uc0cPNWpKyDsvzAGAZyRZui3QUun4pBEN9GIbJ8XNYcIBhLYzw90RNXRX6J0ejLwndBgnckVTSG3nkkGsMGDl+msuydJVR5CRNM7+Hm1+Vh+BMyznni0C++G86jf6bnABKK1TPieBIdA6xIURqNM87A=;qCvMAehhEI2/ggP9jbfWnw=="

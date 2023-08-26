@@ -9,8 +9,8 @@ ampWebUrl: "https://www.westhawaiitoday.com/2023/08/21/opinion/big-techs-volunta
 cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/08/21/opinion/big-techs-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: West Hawaii Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Column: Big Tech’s voluntary commitment to responsible AI offers us false assurances"
-    excerpt: "In response to widespread concerns over artificial intelligence, representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI met last month with President Joe Biden’s admini"
-    publishedDateTime: 2023-08-21T05:15:00Z
-    webUrl: "https://www.meadvilletribune.com/opinion/column-big-tech-s-voluntary-commitment-to-responsible-ai-offers-us-false-assurances/article_84d2d2c0-3dd3-11ee-bb6f-b73b8bd3a6b3.html"
-    type: article
-    provider:
-      name: The Meadville Tribune
-      domain: meadvilletribune.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Google Tests AI Assistant That Offers Life Advice"
     excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
     publishedDateTime: 2023-08-21T17:19:00Z

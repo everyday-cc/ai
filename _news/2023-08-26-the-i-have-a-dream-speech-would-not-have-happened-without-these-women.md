@@ -1,20 +1,20 @@
 ---
 category: news
 title: "The \"I Have a Dream\" speech would not have happened without these women"
-excerpt: "The \"I Have a Dream\" speech would not have happened without these women It has been 60 years since Dr. King gave his legendary speech at the March on Washington. Clarified refocuses the attention on all the female activists who made the march possible and continued in the fight for freedom and equity without recognition."
-publishedDateTime: 2023-08-25T21:28:00Z
-originalUrl: "https://www.ksbw.com/article/march-on-washington-anniversary-women/44868781"
-webUrl: "https://www.ksbw.com/article/march-on-washington-anniversary-women/44868781"
-ampWebUrl: "https://www.ksbw.com/amp/article/march-on-washington-anniversary-women/44868781"
-cdnAmpWebUrl: "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/march-on-washington-anniversary-women/44868781"
+excerpt: "It has been 60 years since Dr. King gave his legendary speech at the March on Washington. Clarified refocuses the attention on all the female activists who made the march possible and continued in the fight for freedom and equity without recognition."
+publishedDateTime: 2023-08-25T21:25:00Z
+originalUrl: "https://www.wlwt.com/article/march-on-washington-anniversary-women/44868781"
+webUrl: "https://www.wlwt.com/article/march-on-washington-anniversary-women/44868781"
+ampWebUrl: "https://www.wlwt.com/amp/article/march-on-washington-anniversary-women/44868781"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/march-on-washington-anniversary-women/44868781"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KSBW The Central Coast
-  domain: ksbw.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Natural Language Processing
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "VFdHJn624wFjZKqXs6NN1qEyiGHzBcEEiUFThwF//lh473vHh9Y3ia2dvqi1BeRjL2SdJWsrDXeG4Vvl2rd/kfKLusz4FRt3J7mKlqHyGzYSn864o6scUoKRWwOhBG6WGOcc/dZq80p/TpeyR/aw2LWa7FgSgTdfJn/7A4SxJgBuCKl6zXmFqmMXO2OmfBxR65eS+NVSyEBGEAPCdN1SveHUO1FEHL0SnIDILXqOZ61fWx38djdqFMSBYpACLBuu6IRNISm/NEdZBJ3AN108OrAKPE4SZjUKuvJaydizSnhCoB7k8CkOUDfH0FbHw2rsC32/VLEABAwYdIldo9jo1dZ0Cg9E+sOhDACc74MFq0U=;WIUcFtgFc6g7jFse5HK4MA=="
+secured: "Dzvof2jOZCmEsuTinOS8hnbbuI9mB74U0YzUOIs5dwfr5CBto8/Aq/YFNBx0lY0y57flTnjbcnQHuUvYEP29nWR8JNVu2UCdKPpCK9NO4i7iswpmm3s4bmMuegW3iV0g9KRFRniD0D1yRA/LaRH+SKrLnL+4IjVBx3gwLQuKtNAYd7amHS7McNPjv+SZ8VvubKDsRZ4kBmMOXwUn4WCQeVUUQjfKsIXgI5BxtqURoX7FO/9eNZdNQxhD7KRIaGNHDl9hZzmIXeD5FlucfiAc7uVFPXE/EB7BwYMOzvK/H7h+YCq9MUq0S931vP1/Q/9nRl7cE+hoMXCHvyEMfwfTGyqJnQg0/UtDnFS/lXLGmo4=;dsSjcfJAijmZt+U1fCnbwA=="
 ---
 

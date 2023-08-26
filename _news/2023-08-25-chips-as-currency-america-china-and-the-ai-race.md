@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google AI predicts floods four days early in South America and Africa"
-    excerpt: "An artificial intelligence from Google can predict floods even in regions with little data on water flow, and its predictions four days in advance are as accurate as conventional systems manage for th"
-    publishedDateTime: 2023-08-21T07:00:00Z
-    webUrl: "https://www.newscientist.com/article/2387547-google-ai-predicts-floods-four-days-early-in-south-america-and-africa/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "frYuLEpYVjvnJ2dl3E67yU7L7+qlQUSM3yFSatQbGRH+dQ5yoEcYrDOAcS8qfAdw0irC40/uFikdIQSA6fkq7/0F6Oelzk7pPL0/Zl2lCnw9DrPuqn1L0ApJYUVTTACRAeYoSySaNkOW1BxXkYWQJh6lvcWBiQD39CB7vH1CqoZQ0cU+gvyLPReBQBKzs5kcRLhRSzBTdWXlg+EhU/VDjYQ5RLrH6bDtJhEW6Fc4hjGRdqWPy7o5fCb0+ouaKjStlPfg7saXYOPZrnKWRA+nw0ThYM5DtZE8Sp0ITq2udNauXNcYLB4RIWyCsWAUvsoTrQThTymziMaMSTOMXrTKY1qMpekLnhgIinpuZ3xGdZDdHigQ4L99b3I0xVm25Ztf6iKZAcUBOfYtwAYV3Zim3F+LRRW0HpjcS+7W43T2w0DyyVIjdIpmp57bqWcNp2xldpPgfC+nNnqae2I8VMVZkKw1CIPsk/hpeBv8wXA89JH0pWzCYliL7+LGIoNootOVNWAQyvcGORdiCXW0uGuDdg==;wXO32pOeGZkP0JAcwJ8SZg=="
 ---

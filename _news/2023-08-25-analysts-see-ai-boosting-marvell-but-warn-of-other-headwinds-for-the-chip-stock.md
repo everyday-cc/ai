@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-b
 webUrl: "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html"
 type: article
 quality: 79
-heat: 89
+heat: 90
 published: true
 
 provider:

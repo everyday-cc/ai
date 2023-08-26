@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-hel
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "How AI-powered brain implants are helping an ALS patient communicate"
+    excerpt: "A brain-interface system that translates neural activity to speech is helping a person with ALS who cannot speak traditionally."
+    publishedDateTime: 2023-08-25T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/"
+    ampWebUrl: "https://www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/25/BCI_Speech_019.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "How artificial intelligence gave a paralyzed woman her voice back"
     excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."

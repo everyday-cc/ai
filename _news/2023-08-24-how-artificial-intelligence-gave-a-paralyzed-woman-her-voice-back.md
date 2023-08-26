@@ -52,6 +52,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "How AI-powered brain implants are helping an ALS patient communicate"
+    excerpt: "A brain-interface system that translates neural activity to speech is helping a person with ALS who cannot speak traditionally."
+    publishedDateTime: 2023-08-25T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/"
+    ampWebUrl: "https://www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/brain-implants-algorithm-als-patient-communicate/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/25/BCI_Speech_019.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Brain implants and AI help voiceless patients to speak up"
     excerpt: "An AI-based brain-computer interface system that enabled a woman with severe paralysis to speak through a digital avatar."
     publishedDateTime: 2023-08-23T14:59:00Z

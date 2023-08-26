@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolving Role Of CIOs And CTOs In The AI Economy"
-    excerpt: "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade."
-    publishedDateTime: 2023-08-23T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/"
+  - title: "Empowering Confidence: Overcoming Math Anxiety In The Age Of Artificial Intelligence"
+    excerpt: "Grasping mathematical concepts has been one struggle that eventually leads to avoidance. Math will be part of how we transform ALL our futures and more than ever, requires a different approach to engender confidence and resilience."
+    publishedDateTime: 2023-08-25T22:09:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 99
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e909ccf9546499753b0614/0x0.jpg?format=jpg&width=1200"
+        width: 940
+        height: 780
+        isCached: true
+  - title: "Hoping to Get More of Their Teachers to Try AI, Students Organize a National Conference"
+    excerpt: "Summer is a time for educators to do some learning, and there are plenty of conferences and workshops throughout the season. But one national event for"
+    publishedDateTime: 2023-08-24T10:07:00Z
+    webUrl: "https://www.edsurge.com/news/2023-08-24-hoping-to-get-more-of-their-teachers-to-try-ai-students-organize-a-national-conference"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 31
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15499/Student_AI_Panelist-1692742590.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "vo+XpR+ejBLZT+hmMkCkXGGThsssmaxIT/aOCmRrVJ/UScU//trZCEFrLYbZvRCVkRWCvEKvoU3/crgVJyTHu2rfHAdPCpsJzhV6+ApNPg7U+WqCX0fW+XEfzLMfVlTMVczM7Xtuf8QI+7ix5E0zMAR0wHEL00GgWTXBKAZd1WkdxGeUX4yL9OYPSuHV7bSJD/chQnS3wfeAE3gkqpAkihY91uVa0Q8MVY5N56h4MfhKjO3HnQtbZXLn3ieARTpk3727sNHiZzYX889AwVp7NFM5yCKUMX7ij+1YfxtAF/8uIwTE1GtT0eRSbfFrbkoIznV/nqFCZtetijnrdgWp1T7mD2Sk/qU/BMyaPJff47c=;4eK1Li7TXXwEC9Ksv9+NHA=="

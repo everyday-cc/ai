@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/skt-grabs
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mobile World Live
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SKT secures stakes in AI contact center developer Persona.AI"
-    excerpt: "South Korea's largest telecommunications carrier SK Telecom said Monday that it has become the third-largest shareholder of Persona.AI, a Seoul-based artificial intelligence contact center, or AICC. The company did not disclose other details,"
-    publishedDateTime: 2023-08-21T06:28:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230821000593"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230821000593"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230821000593"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 59
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F21%2F20230821000573_0.jpg"
-        width: 500
-        height: 358
-        isCached: true
   - title: "SK Telecom acquires stake in Korean firm AI Persona"
     excerpt: "Korean operator SK Telecom said it acquired a stake in local AI assistant developer Persona AI, with the aim of collaborating on the launch of products designed to improve automated customer service facilities for enterprises."
     publishedDateTime: 2023-08-22T15:20:00Z

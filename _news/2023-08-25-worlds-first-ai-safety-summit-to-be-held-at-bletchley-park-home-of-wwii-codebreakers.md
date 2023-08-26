@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/worlds-first-ai-safety-summ
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/"
 type: article
 quality: 79
-heat: 119
+heat: 120
 published: true
 
 provider:

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
-excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
-publishedDateTime: 2023-08-25T20:04:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19709757/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19709757/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace/"
+title: "Verofax' Transformative Brand & Retail Martech Solution Achieves Ftr Approval On Amazon Aws Marketplace"
+excerpt: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace <br />   <br /> <br />DUBAI,"
+publishedDateTime: 2023-08-25T18:11:00Z
+originalUrl: "https://menafn.com/1106950188/Verofax-Transformative-Brand-Retail-Martech-Solution-Achieves-Ftr-Approval-On-Amazon-Aws-Marketplace"
+webUrl: "https://menafn.com/1106950188/Verofax-Transformative-Brand-Retail-Martech-Solution-Achieves-Ftr-Approval-On-Amazon-Aws-Marketplace"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
-    width: 650
-    height: 328
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_8.jpg?197543"
+    width: 444
+    height: 250
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 328
         isCached: true
 
-secured: "uu622+9QvtPiEtf1xmzC5L3fMBJ59BMO6Tq/yEWEH58x56h1GWkuUak/8wQ+gejy4EVBbK1kVdSD+eV5tAvFvwN5AUjeXh0AdeXuN/HxF2TMKsvcRE7z1UmWTQtkM0nKl6XCKl9UR6OFrmqny0nQWw1+flWOWzscNUq7v+rpXqpS7k4+m5eMEGaEk4jMSlcC7QirMXd1sspN4u6kLCjTXs/tkdbbxW9NMceJ50M3VRGgQRxslW583KcA9vBo2ckFf2OO0DgEtLIrwDCSwH/h2YKq/GXGs56YdNUglPZJY1KCEDfaR+W1QXWmQlEHCY+FwxGyYXCiOzcg8bTrHBwDQr+K0EGDzp1T/wHSoXa+MKE=;pc83tYKA6JOAmCBPilkf4A=="
+secured: "Z5J7NG0A+BlFqiN3S2sK+rdvh69bWZyDbNUt+hNAFeuaMrGcbILsda7SnUW/6RJUUfDUtsJgiBVUOkikvwdItf48GfaoVgHm2WL9dqDrVlp8Tygr2FjSNDmNVhxeANgTtiJ2LljL2LVbPboNqVixkadPXut+fPdUwCraPEuUBmihNlbd4C+yMYI3lridbCW/5tXX92KM0rDkbvG5p92Jg28AqJjfwMZJbEp9jTxwVGTwMsYLVnHhNfl84Y8fgQuIHPg1d7C0Qo5kOSmAsbJCbhZyBF8aX28Stzq7PoBai5SrWd+EgeRYosV78G3MPiMkU9tDmN/w/iqf2HiJmP7Bp/uqZfT8FqT5nzL3p7DokDc=;Fk6mWw7GGo0hv7SPzn4KFA=="
 ---
 

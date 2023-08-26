@@ -5,8 +5,10 @@ excerpt: "\"We have had excellent client response to our generative AI investmen
 publishedDateTime: 2023-08-22T04:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
 webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
 type: article
-quality: 21
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "IBM Watsonx to use generative AI to translate COBOL code into Java"
@@ -241,6 +249,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "8rbNc6LgN4ZzUu6bqeenmcQS5XCya2ETawWnu/Luq+5Xd58jg9ePJn9m29aJPuS7ESdc9BjOe6BPdTJEAulsz8bTkAwtRzhoiwyo3IsyezFXszk6tvwgNtPoKhGq2XaCV4gi3GWigG6V9nWTFq/JAbr8APsHYyjJcxR08eH7fnjZV/zT8Wm8PzjDes3QljShvZqqN07ilBHLSMQaujSjxcptqEYXHK/SqONAx71SuN/aO766AAFK92zGKp+ojpgcD4xLFaf+182TyqsVLdvWTqiQwuHZlh1pND6RgVc2nQgLBs9eW11a7GKm371RFAPwLNgKW1nTkkFW7UcOAxfxKyMz6IDxRMjSHKd1BJJKiOs=;VVswAKW8fYQqeJfnSoq5jQ=="
+secured: "aEABz5b+/NYREFDSVglOgIhiuQSMg0YOgaZwpSI5GQC4vqXNKa+yGBmGmPZFVTQaNodnQzOsWeVJb24oLSJWzdq311ZbxHrTFYY26Olz9KgEkK4fXFpXM/PKMIbWlVb7CLzj/ZzzeXpizS+YkUxkHM9Dx1fIhC8kf0vevnAgWcRUTaHn1b1B/mPaDsGpZZ6IZ1FDLVyfhFPbwp++MRSH0ycL7hZjbIhbCpj3guD0bN/zlryDom00tohMb+Y7dunaKJxvaogI2ckM5NGwSwXzTtv1bZHQC+F0sIRq4Pc5x61s8ykLFobKDPAZVWMT9REUir5py3ZCPJCxhnZdr3EQrA9mwZ7mGAjEeb9kK0D0F/s=;mdnGj1NQuGsiIouQ7G/Q2A=="
 ---
 

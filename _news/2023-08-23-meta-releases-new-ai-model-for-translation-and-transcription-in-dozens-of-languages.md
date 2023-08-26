@@ -263,6 +263,20 @@ related:
         width: 1543
         height: 867
         isCached: true
+  - title: "Meta releases multilingual speech translation model"
+    excerpt: "Meta released a new speech-to-text model that can translate nearly 100 languages called SeamlessM4T, as the company continues to try to make a universal translator. SeamlessM4T, which stands for ..."
+    publishedDateTime: 2023-08-22T22:06:00Z
+    webUrl: "https://www.theverge.com/2023/8/22/23840571/meta-multilingual-speech-translation-model-ai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/qxym8ImmPkW13oLOQoP9aLaQR1o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "‘SeamlessM4T’ supports speech recognition for nearly 100 languages, speech-to-text translation for nearly 100 input and output languages, speech-to-speech translation, supporting nearly 100 input languages and 36 (including English) output languages ..."
     publishedDateTime: 2023-08-22T14:36:00Z

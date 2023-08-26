@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WiMi Developed Execution Platform for AutoAIM Analytics to Facilitate Machine Learning in Marketing"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed the AutoAIM (Automatic Artificial Intelligence"
-publishedDateTime: 2023-08-25T13:29:00Z
-originalUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
-webUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
+excerpt: "WiMi's AutoAIM implements ML in marketing by creating a real-time repository of projects and making implementation recommendations for ML in marketing. In this repository, users can learn, share and reuse workflows (visualization code)."
+publishedDateTime: 2023-08-25T13:59:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/25/9870317.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/25/9870317.htm"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
@@ -20,16 +20,21 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "WiMi Developed an AIGC-based Image Recognition System"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that an image recognition system based on AIGC is developed."
-    publishedDateTime: 2023-08-22T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-aigc-based-image-recognition-system-1032572697"
+  - title: "Sagarmatha to Leverage Machine Learning for Expanded Analytics Capabilities"
+    excerpt: "With millions of shoppers on the company's software platform, Sagarmatha helps retailers transform data and insights into multi-channel commercial opportunities. Through its proven ML-based software solutions,"
+    publishedDateTime: 2023-08-21T13:10:00Z
+    webUrl: "https://www.grocerydive.com/press-release/20230820-sagarmatha-to-leverage-machine-learning-for-expanded-analytics-capabilities/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
+      name: grocerydive
+      domain: grocerydive.com
+    quality: 37
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1692605720/press_release/assets/header_images/Food_Group_Banner_1500x700_bwqtkk.jpg"
+        width: 1500
+        height: 700
+        isCached: true
 
-secured: "BzFikmjidnNliC2tqmSYai9XvUkUsYwIqfbjA+qLnfPlNX7TcdRnnrab4nUAqnYYt4zxTjz8SLs/2zTbwmKw9YzLPXNwoR++FbcOO1Y5Hn4ke3AotMKs8IUbdgvk8CXhuVjmCZb8R3i7csssk4ehOSOkLE+iuIRa6qhqUfqBQzBexq7Ml2ncAnWcQcrZ2jVC6wEdnV/c9MB5rpk7i0F9nX/WY8K1izFdcoP07ZCV/pOqlkqE3sGcWz2V3LGPYF9igr8zWKRg91Bn+IH69NN3rxHy6cmHdhUlDPfqF2sllz6aUjyNwVQeOfpgblX8Rgrwd1KsQlaMk5lIcpmrREEsibtcuECKZNYVf8DzAMPTcUc=;tGyUUXFGb3MW5+K52aDLig=="
+secured: "AHV/+/yJsjzr6xFd/f2JOEJBNnIUSPdbdb36sn3Q7DhiZjkxNYf/73ZEX/KwjEdC0D202W/6ZK4D0P9Ls+FYFRVHgft3lbluC7M8/7TpB71R7hGPDpj8kAiducke1lxQDgnvVbOyvTvWNJZJQqckaW2IJJA6z6/5aOZaZje8be7pDHYm1zpdVeVm4ly7LZBOzkDX9Mo82DMDJa47E9yt8d+PrJu44UiUWY65Tu4O6L/4kpW0gtgD9uDwIkfFqcthsMIurd0qRgsR+DaUtPx2IIe/X/DNStWGsD3WNPAgL0GQaQNvEdUJ+AdFSInOU9IU5Wbdj9mmkz+x3jBe2HNTbySPwLPVGR5n8usO1slNIeg=;V6ZMhWoI2FNCc2MLRORi/A=="
 ---
 

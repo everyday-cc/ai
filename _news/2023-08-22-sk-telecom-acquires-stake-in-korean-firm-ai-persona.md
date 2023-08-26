@@ -41,22 +41,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "SKT secures stakes in AI contact center developer Persona.AI"
-    excerpt: "South Korea's largest telecommunications carrier SK Telecom said Monday that it has become the third-largest shareholder of Persona.AI, a Seoul-based artificial intelligence contact center, or AICC. The company did not disclose other details,"
-    publishedDateTime: 2023-08-21T06:28:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230821000593"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230821000593"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230821000593"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 59
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F21%2F20230821000573_0.jpg"
-        width: 500
-        height: 358
-        isCached: true
 
 secured: "dNsxAjY8yBdTcBGyH9TluCJDAl/EqAtDrGgWyxeiJdMf+OTyhKRyBfMggXXA7DBnA5DfSs/slAEP0kiXIGpbKxpSyTUvVWMil05Aor6vLzZoXIB8YeR3Anvia7tJp9bBgIeRkdaIx06QxZFG2qiYOk++lEmB1lTqwpWr+bzfLGy9e/SG6iXPKYXkpp415Utd/D0jPQ3afeAlnmksk1pcYBMHFNKixnl447SaHCDrJkfOLTL/cjyxCFY/ZByYDeAFjLID0FWln6rNaX7Sg7KWzeSr2Ef4o74zS7ZinO7eztxQMz6keKsQXZ/XTCdEBZxcQDehd/iCYJaBzjgwffZcq5vtUHbfed/i4e1d2u7zE/8=;YbiWvcgW8tdZiZyEyL6nDw=="
 ---

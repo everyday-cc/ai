@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705051/applying-the-lessons-of-op
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Myth of ‘Open Source’ AI"
+    excerpt: "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways."
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-myth-of-open-source-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "How customer engagement will evolve along with generative AI"
     excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."

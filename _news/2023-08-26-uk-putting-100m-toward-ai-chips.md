@@ -6,9 +6,9 @@ publishedDateTime: 2023-08-25T21:10:00Z
 originalUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 webUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 86
+heat: 126
+published: true
 
 provider:
   name: TechRepublic
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08252023-uk-ai-chips.jpg"
@@ -44,6 +45,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Global-AI-Race-UK-to-spend-100m-to-produce-AI-chips.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "UK Plans Spending $130M On AI Chips to Scale Up Computing Power"
+    excerpt: "The United Kingdom plans on deploying about 100 million pounds (equivalent to $130 million) on artificial intelligence (AI) chips."
+    publishedDateTime: 2023-08-21T21:30:00Z
+    webUrl: "https://techreport.com/news/uk-plans-spending-130m-on-ai-chips-to-scale-up-computing-power/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/52832131693_7dd0fd5412_c.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "Rishi Sunak to spend up to £100m of taxpayer money on AI chips"
     excerpt: "UK Prime Minister Rishi Sunak is planning to spend up to £100 million (~$126.3m) of UK taxpayer money on artificial intelligence (AI) chips. Government officials are in conversation with Nvidia, AMD, and Intel about acquiring equipment for a national AI Research Resource, all as part of Sunak's plans to make Britain a leader in AI."
@@ -74,6 +89,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xkdPEHJumNDtELNT5MK3PBp48CXwGhG+SXr4k8TR0hYPkvokKIqKkX7ZkTfad3qeyWD+97Xwh5ZkASfZ2n0pw6oJWTny3AuXi5OAdXgIPepfpNTPAoAc1gMxu25cwiF+vhdpJxUUSaNXnWBpP+SyPaMy2o+3dwuvfRicxDtYDCv23HybL1cSC5IuehZdYNxbWShXBLQqDQyJdmQTq9BM408N2eP0g09uaa6aWYYH/BiDeUowLiVq3JwjKeDtNH4SHrrPB3Dn8oVGL4fIr/Np7b3TW5Rma0q3u43CY+Am34tYDEekj5uOPgjOppcfB8hkC/HAgSi/pfxO2kHjPu97TTqkHTx5TROPhVx1EsFEkxA=;XpJmVTVvn6fTqWFUcdK2Ig=="
+secured: "2oFnRVLxfcIDMYFYQFVSMFq8zXqEVUTvcQLgX7e9EQSJfvrS0bhSgS+2da+oSuy4U1jTolkItCgyLYh1jFZzmIpMEw5DDNsozP5Y2C1cWvd2JShRj7XGtp6kwZfTjBzcGKDGy100Sc6etyi+7kTbBeWUqpb4fYxkfMIgL1YipNOIuTZSOxfQZLDLHnJYglq5BZ6FqnT4Ks8Ys/PK8MkwAbg7hp+M+vaKW0NYFKHJNGRT0EvLpJESuf2C053dqggv4xtXikbhqSDPyPhlc9SzyhyS2CtmnrUvprigczHGRAapisbO8Y0u2zQgaIVmsXn/ARMEZBHZFAyFk89TntPPqenFbcQ+XQneqtGP+fNhGWc85khfTdmmxdZKaD4zxFR98gsS6ABZ+rIYBlMxWTHoGMtsdlTmSFKHz4aKYhI0VthKhGNg6a1mmN1QCdxWEr+IBDZ6QBnlaYc4Hf5p4v/8CRPb7vCJEMjs5eRb3eywqdAKjiwrLJLT+bTTaNf2Q9rj9OOzTzieF4DjO/xXfIugaA==;T3AaupUjdUoP5FOo6kfILQ=="
 ---
 

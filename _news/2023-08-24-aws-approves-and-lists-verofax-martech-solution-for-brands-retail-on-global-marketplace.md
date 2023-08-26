@@ -69,19 +69,19 @@ related:
         width: 650
         height: 328
         isCached: true
-  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
-    excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
-    publishedDateTime: 2023-08-25T20:04:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19709757/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace/"
+  - title: "Verofax' Transformative Brand & Retail Martech Solution Achieves Ftr Approval On Amazon Aws Marketplace"
+    excerpt: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace <br />   <br /> <br />DUBAI,"
+    publishedDateTime: 2023-08-25T18:11:00Z
+    webUrl: "https://menafn.com/1106950188/Verofax-Transformative-Brand-Retail-Martech-Solution-Achieves-Ftr-Approval-On-Amazon-Aws-Marketplace"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
+      name: Mena FN
+      domain: menafn.com
     quality: 38
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
-        width: 650
-        height: 328
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_8.jpg?197543"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "nhZvUhGf4LBDnmE30OE0iCCSG2Z8YdPFFfthe+aEeN6g8uLcEy6rR5x0Q4vZlJKJ8yTgA78Ows6SL7IyUdfvzueHBUjZG9/U55tvJip/doy/KNq7G1KgTJ/LiiOB8o1pJI0cBrMuFZ554DUlOb8MR86oTGNm1DcZ/SSgqkD5yxj2tKNzOZjhAvhlIffFrOvhKDAuIx1e4uBzwRmpxdZuMF3HE3Pm4N4zB3wcczL/rkFRYgMMMjD6xs1op2J3N73vx51e90S4bHixUij+8ODhsQOLWIDbCc71ZSDLCxNxGIJwXF1nWdfNMuT45y5/2OZrTAjqXSTpBrjz/eq7LlZwlacxLyIYdBps54nQ8iy5BwM=;ykwvngAMHtDtPOcc1W5ArQ=="
