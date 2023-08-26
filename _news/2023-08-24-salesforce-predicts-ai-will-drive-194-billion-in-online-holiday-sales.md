@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/11120/6c44d06c-a347-496a-b947-f149f51cbc39.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Retail and generative AI - Salesforce, Honeywell research suggests lots of experimentation, but unclear on extent of implementation"
-    excerpt: "only 17% of shopper respondents say they’ve used generative AI to get inspiration for product purchases. Of that number, over half (52%) used it to research electronics and appliances. Other use cases include getting outfit recommendations (44% ..."
-    publishedDateTime: 2023-08-21T10:36:00Z
-    webUrl: "https://diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent"
-    ampWebUrl: "https://diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 29
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-21%20at%2011.35.58.png"
-        width: 852
-        height: 688
         isCached: true
   - title: "Report: AI startup Hugging Face hoping to raise millions from Salesforce and other investors"
     excerpt: "The startup has already raised more than $160 million in funding, closing on its most recent, $100 million round in May 2022. Hugging Face said at the time of that round that it counted more than 100,000 companies using its Hugging Face Hub to host their AI projects."

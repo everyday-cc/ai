@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-compani
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK moves on AI plan with chip giant talks"
-    excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
-    publishedDateTime: 2023-08-21T10:34:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "UK in talks with AI chip giants"
     excerpt: "U.K. government is in discussions with AMD, Intel and Nvidia about securing AI components to power a $127.6 million research project."
     publishedDateTime: 2023-08-21T17:04:00Z

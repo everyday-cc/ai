@@ -43,20 +43,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 44
-  - title: "Tricks for making AI chatbots break rules are freely available online"
-    excerpt: "Certain prompts can encourage chatbots such as ChatGPT to ignore the rules that prevent illicit use, and they have been widely shared on social platforms"
-    publishedDateTime: 2023-08-21T10:29:00Z
-    webUrl: "https://www.newscientist.com/article/2388231-tricks-for-making-ai-chatbots-break-rules-are-freely-available-online/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/18140734/SEI_167917530.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
     excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
     publishedDateTime: 2023-08-23T22:18:00Z

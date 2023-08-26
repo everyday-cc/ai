@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -58,6 +58,34 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/745131/nvidia-vmware.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Epic looks to accelerate generative AI offerings"
+    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
+    publishedDateTime: 2023-08-23T20:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The Genesis of Generative AI for Everything Everywhere All at Once in CRE"
+    excerpt: "Developed by JLLT, the company’s technology division, JLL (JLL) GPT draws on in-house and external CRE data. It is intended to be used not only by brokers, but also by the firm’s more than 103,000-strong global workforce."
+    publishedDateTime: 2023-08-22T10:30:00Z
+    webUrl: "https://commercialobserver.com/2023/08/jll-ai-gpt-proptech/"
+    type: article
+    provider:
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 38
+    images:
+      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2023/08/robot-hand-with-human-AdobeStock_208992806-WEB.jpg?quality=80&w=768\t"
+        width: 768
+        height: 508
         isCached: true
   - title: "Lenovo and VMware Expand Partnership to Bring New NVIDIA-Powered Turnkey Generative AI and Multi-Cloud Solutions to Every Business"
     excerpt: "New Lenovo ThinkSystem generative AI solution with VMware Cloud features NVIDIA-accelerated computing and software to deliver GPU-dense platform purpose-built for enabling next-generation AI workloads"

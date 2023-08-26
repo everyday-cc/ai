@@ -62,6 +62,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "tlzlmmyDBSjTAJXGMzIjXItW1rf7X3BD36sgB+JkXtwvjpNJ3a48W2sxFGE3sqF5Qex71C/aBwdVRtG1EpyrtewEMUrpqkkTkaoc8KC/WiniZ8DD/x0UuWfrTY6HJeclNUXbSuY/UYTg1IWg9tbzE1FlxeTeoF+ugrhwuijh70M+mmOvl98qb5ah6w6KgAqrIPurLrjCccw7FW4x+M/caktxyHXIiSFbdXeFOBnMBSYvp9jicKTQe9J3EX3xHOUH64R3uOHSiWsl9faGv2B6K4awtbz/UlM916k3PQcSSORuuMtaGzeiUs1ACPtM/CcdqvAWqBVxp2TlDf6QAD3WAHuqoMob+gLndtI7G7AqYACEFXnJHKVTE81cWryXesso8IwvOcjKrkmqvpXjNlfulCfTTdnKntYqCaViEp7z8a0Y92VAhsrnlj3UM0lFMZlMN4E/W4OlrFLZm9ETVZs9bKZv4NunF1rWWctXdlZYvJmbLSvduzADjYhr7MmaDlZ2S/WrZgsRGokG2X8GTeTKQQ==;Pt/ddNk1if9wS2Z/8+V2kg=="
 ---

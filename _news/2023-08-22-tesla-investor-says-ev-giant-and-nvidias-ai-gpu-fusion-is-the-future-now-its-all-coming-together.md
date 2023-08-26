@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33976696"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976696"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Benzinga.com
@@ -26,24 +26,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "OpenAI, Meta and Tesla desperately want this Nvidia GPU: But why?"
-    excerpt: "AI faces Nvidia H100 GPU crunch, stalling projects. Dive into its tech features, production challenges, and the ripple effect on AI's future."
-    publishedDateTime: 2023-08-21T09:50:00Z
-    webUrl: "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 91
-    images:
-      - url: "https://static.digit.in/default/tr:w-1200/nvidia-h100-1280-3c1f6abca9.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "l9+7SY9oVSn62s1T5Ou++s55eFEaSqQ/bSR34wV4BJ5fFlh0+Lv/5JLjByZ8rAWlpKWf9vVZmWfcUic8TymiSGGtx25ncs7DYdWgP+eZa+rC3acgBi2NUT3qYZirxI2VQQvvVxrngDg4z55pD7wAsRVUAK3KhMBA33A1Z/ojh7EohgcFRDIaGTY3ymepTRrfaw2qEQqoyLdvE1x6Pc2mlrdfcoYiKVlZWEaDTFeYZ/Vr0foZinAIAfgzoQWaTDVU7U4bv0ZMxcLm6gBC/UJkDB/padT4vcOLRpC8UGGcRIUOa3SXqlL6Dk3TzPGJzLcXcPnGV+jelj8Z3dtArXNmlGsOOCJNjQ8XBo8Q3oymO7A=;6uPxxYumcJcqwwOY3RY0iA=="
 ---

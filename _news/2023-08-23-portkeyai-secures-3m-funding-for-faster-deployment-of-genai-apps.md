@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Portkey Bags $3 Mn Seed Funding To Help Enterprises Ride The Generative AI Wave"
+    excerpt: "the Indian SaaS market is projected to breach the $26 Bn mark by 2026 Generative AI-focussed enterprise tech startup Portkey.ai has raised $3 Mn as part of a seed funding round led by Lightspeed. The round also saw participation from multiple angel ..."
+    publishedDateTime: 2023-08-23T08:59:00Z
+    webUrl: "https://inc42.com/buzz/portkey-bags-3-mn-seed-funding-to-help-enterprises-ride-the-generative-ai-wave/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 33
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/portkey-funding-social-.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Language model ops startup Portkey.ai raises $3 million in funding led by Lightspeed Venture Partners"
     excerpt: "Portkey.ai offers integrations with LLMs such as OpenAI, Anthropic, Langchain, LlamaIndex, among others. It serves millions of requests a day for innovative generative AI companies."
     publishedDateTime: 2023-08-24T12:08:00Z

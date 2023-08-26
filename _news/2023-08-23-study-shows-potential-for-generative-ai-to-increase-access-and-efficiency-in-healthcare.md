@@ -34,20 +34,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 45
-  - title: "Exploring Trends in Healthcare Analytics, Artificial Intelligence (AI) in Healthcare, and Health Information Exchange (HIE) Markets"
-    excerpt: "In recent years, the healthcare industry has witnessed a transformative wave of technological advancements that are reshaping the way healthcare services are delivered, managed, and accessed. Key segments such as Healthcare Analytics,"
-    publishedDateTime: 2023-08-21T09:37:00Z
-    webUrl: "https://techbullion.com/exploring-trends-in-healthcare-analytics-artificial-intelligence-ai-in-healthcare-and-health-information-exchange-hie-markets/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/AdobeStock_370796528_jpeg-1000x561.jpg"
-        width: 1000
-        height: 561
-        isCached: true
   - title: "BioSig AI Sciences Achieves Infrastructure and Technology progress in Development of Generative AI Platform for Hospitals"
     excerpt: "About BAIS BAIS, a majority-owned subsidiary of BioSig, is developing AI solutions for the hospital marketplace utilizing structured, semi-structured, and unstructured data."
     publishedDateTime: 2023-08-24T15:18:00Z

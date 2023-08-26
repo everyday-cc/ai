@@ -133,22 +133,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Retail and generative AI - Salesforce, Honeywell research suggests lots of experimentation, but unclear on extent of implementation"
-    excerpt: "only 17% of shopper respondents say they’ve used generative AI to get inspiration for product purchases. Of that number, over half (52%) used it to research electronics and appliances. Other use cases include getting outfit recommendations (44% ..."
-    publishedDateTime: 2023-08-21T10:36:00Z
-    webUrl: "https://diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent"
-    ampWebUrl: "https://diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/retail-and-generative-ai-salesforce-honeywell-research-suggests-lots-experimentation-unclear-extent?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 29
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-21%20at%2011.35.58.png"
-        width: 852
-        height: 688
-        isCached: true
 
 secured: "p2GQeQLSQCq2tUee+fpKxpdXF3Xe5YK19NJakcc0lAKYRe5KNsqhYTq1hf+ZkaTHHMWUb71+cCehJz0ZLymse9dmjApJlb/QUclQtN6v3EKhhRX8g24QLCScMOyC7nMFw2oC01MuR/S3qOgk2sui0Z/G4TMV5acxzdN8AXKZZeBtSB1iOQJ/nbcXMaN23WjQjpKbEuGiHC1DFJXQ5ms+ojbPvfRTXtft9Mk27zKUhl4AoZgPn27gtnzQmO6hln271xogv79d5TQPmLGG+02SaTloSXlTt5z3e8GUE8u7UyMVQ3/fr/U/uTYe5oP49bhk2nltFgru4JxQ3d3x/qX9AVrJbGkU7Xyggn2fSy8xr9xUM3mXi+e0RUFazm1ku3fXN3KeLMXz140AvF13JyeNfOi7BAwasXUK/IdtIz6bpEpd6T1lnJ34HKm9iIARjKkLyTa02nTKmoOn1r8PRWxcN7xqiBZncFAESi8Bd0XHIpTF/diuz7ONvGQOSMgX5SqjkFFUuaH0hhx1QeVW2531NQ==;MJ3zoEIdbnft183PwymxFg=="
 ---

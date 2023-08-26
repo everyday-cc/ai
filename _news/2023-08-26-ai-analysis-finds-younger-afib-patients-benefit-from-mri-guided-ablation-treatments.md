@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2023-08-ai-analysis-younger-afib-pa
 webUrl: "https://medicalxpress.com/news/2023-08-ai-analysis-younger-afib-patients.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "MRI-guided ablation improves outcomes for younger AFib patients, study shows"
+    excerpt: "Younger atrial fibrillation (AFib) patients are most likely to benefit from more personalized, MRI-guided ablation treatments to correct irregular heart rhythms, according to a new artificial intelligence-guided analysis of results from the DECAAF II trial,"
+    publishedDateTime: 2023-08-26T02:42:00Z
+    webUrl: "https://www.news-medical.net/news/20230825/MRI-guided-ablation-improves-outcomes-for-younger-AFib-patients-study-shows.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 21
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "7CqLVKMT0b86a3eLBokh6Whhlh6MzLOYf4veC/+6++SqOohHvoyBnlOfMlPj+4WXu+nVmV7hR5fMREpD6agiow3EW8rF0NUcZsj/JhMRpP+ZrHagayJWYO7HpKJjMgdgAygeUaXK6PjQOSyypO/A9H/sWAFXa2kq5lOTV2aYqh5W/g/l4IB6Y6w0xgbJAguvjv7LkfozH94y0lNMUvo+E7FmdrSkcv3wxaimbDcl0NsAUJoXIMcU5I4s6q0qQDai8Axt1/4RcPcR38SEBCc5U8YIekbE6BTv4aONHiV94C6LFY3cNem+e4BP/VMLDXg0FLpYaEOP73SjcaHLqpql/JM/moSH3eAqfvtiyMQIN+6HYZK3wcaUSjbC4CSnMoRrHNNyB53UP+YpgrjcCZDH1debVsZe2d3dQUCCCUum6fL2gCUkr1GhuENsNIHQ/OuA2M9h2DSlykDjBC1QQoa3sfALzKzXzYGPS+9x28z3/Ifki3vNJ+q7ogq8xnK5F2SNV/o/syNJH9lDr+NE5aWXcA==;xrAYOoD0hsaluOEB+SvWrQ=="
 ---

@@ -34,22 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "4 things Claude AI can do that ChatGPT can't"
-    excerpt: "ChatGPT is often considered the best artificial intelligence (AI) chatbot available. GPT-3.5, the large language model (LLM) used in the free version of ChatGPT, was the largest and most powerful of its kind, surpassed only by GPT-4, which is only available with a $20 monthly subscription to ChatGPT Plus ."
-    publishedDateTime: 2023-08-21T09:41:00Z
-    webUrl: "https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-things-claude-ai-can-do-that-chatgpt-cant/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/10e17e3b47695ed9d7b5839f3ed9d5ad130db1f0/2023/08/18/0037d63a-2356-4f19-b56c-e121f7f84577/race.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Using Generative AI to Resurrect the Dead Will Create a Burden for the Living"
     excerpt: "AI technologies promise more chatbots and replicas of people who have passed. But giving voice to the dead comes at a human cost."
     publishedDateTime: 2023-08-21T14:00:00Z

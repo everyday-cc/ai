@@ -20,7 +20,7 @@ topics:
 
 related:
   - title: "Natural language processing to extract social risk factors influencing health"
-    excerpt: "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed excellent performance when ported to a new health system and ..."
+    excerpt: "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ..."
     publishedDateTime: 2023-08-21T15:26:00Z
     webUrl: "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html"
     ampWebUrl: "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp"

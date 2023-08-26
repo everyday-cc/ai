@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
         width: 2945
         height: 1018
+        isCached: true
+  - title: "How AI Is Accelerating the Future of Cars"
+    excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"
+    publishedDateTime: 2023-08-24T08:24:00Z
+    webUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 39
+    images:
+      - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
+        width: 1024
+        height: 525
         isCached: true
   - title: "Rise of artificial intelligence has actors fearing for their careers"
     excerpt: "As Hollywood actors continue to strike, a major issue in negotiations is the role artificial intelligence could have in reshaping the entertainment industry. CBS News' Bradley Blackburn reports on the promise and the peril actors now face."

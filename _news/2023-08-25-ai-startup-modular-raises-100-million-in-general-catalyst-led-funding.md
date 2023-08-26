@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UK commits £100M to secure AI chip components"
-    excerpt: "In an intensifying global battle for semiconductor self-sufficiency, the UK will reportedly spend £100mn of taxpayer money to buy AI chip technology from AMD, Intel, and Nvidia. The initiative is part"
-    publishedDateTime: 2023-08-21T09:54:00Z
-    webUrl: "https://thenextweb.com/news/uk-100m-gbp-securing-ai-chip-components"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FChip2-e1692610910531.jpg&signature=dfc87fff36e547211c27b05bf8637281"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
     excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
     publishedDateTime: 2023-08-24T15:09:00Z

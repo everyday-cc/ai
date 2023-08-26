@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
-excerpt: "The latest round of funding outlines the rapidly growing adoption of AI, which has been hailed by many as the next frontier of technology and has attracted some of the biggest investors in Silicon Valley."
-publishedDateTime: 2023-08-24T15:38:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
+excerpt: "(Reuters) - AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce, Alphabet's Google and Nvidia. The latest round of funding outlines the rapidly ..."
+publishedDateTime: 2023-08-24T14:10:00Z
+originalUrl: "https://www.aol.com/ai-startup-hugging-face-valued-140155500.html"
+webUrl: "https://www.aol.com/ai-startup-hugging-face-valued-140155500.html"
+ampWebUrl: "https://www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-103032073,imgsize-444709,width-1200,height=765,overlay-ettelecom/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding.jpg"
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
     width: 1200
-    height: 765
+    height: 630
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
       domain: businesstimes.com.sg
     quality: 15
 
-secured: "UwFXPpQE3JkU6EjDT1V+dNrTfYuIzPlgNQ36mt7zHX6MtZHzxItKOMfKp0KYvtQg0gjYSjbkdaHDrZlwzIaQXhinn0848eeUz7aDSNLYKpugNLfo7urO6TjNIjZooV2yJh8JLK5LeAgEiYhwNHrrkudVLjfYAKjsBH+Gw5LPNrOy9WJw7QLkZ6tlZFoV1eee8Zyv2+0CxLJ9v1ts/MnQ8cnhXd5ZZLbjS1YD78zjTEPU5VBOGHsI0IPzc6Q3RsASeJDowMTW2jZIENWjWapcDkhOZ1qnP0ywSBturdPSBkpiReQkt3HiwNm3+Fd5iICVRC0pKs10fvCXYczuuSRr9zGfyeWODEwD6F6e8l8y6zg=;9ONYTkBfNvTro5IjKLQ4Bg=="
+secured: "ExAy1huBh1yFxZR5R3DtPmExhZ3mtxDwvI39S8fs69T9gA0/VykqidzTaEuIf1j+gkUL3TIUWFAlWwsbphEttXDx/8AaxC0wg4L90gVRq1OuELo7OYUoJck24Wzk/nvfFCWkZZvtHjY1/70dpjUDiQ+mmH3aamLui0W4cYwNJ7zO3POymsZpXmBfr3VnaOengPIpP8Rl7ogEXJIslkyeUyQbE0XkFoY6c/DDUJ2IIpXoFIjCgKuC8WvGx2SG0E6stxoQuXF5TZZxmGL4v0WKGMPSfoNo4opiBjxqzSjWxVptjWxyTWU1Yn0Xpg0uqU8RllcG9gA6kjB3BScMsqhA7DJlcxLnRy/kEnk6mrTtE90=;51dIdljdvxCVM19sPMpSpA=="
 ---
 

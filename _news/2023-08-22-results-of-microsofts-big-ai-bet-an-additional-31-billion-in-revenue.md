@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
-    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
-    publishedDateTime: 2023-08-21T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
     excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"
     publishedDateTime: 2023-08-24T12:52:00Z

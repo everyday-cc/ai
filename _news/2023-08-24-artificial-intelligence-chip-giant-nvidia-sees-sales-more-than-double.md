@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
 type: article
 quality: 121
-heat: 791
+heat: 781
 published: true
 
 provider:
@@ -471,15 +471,6 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 49
-  - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
-    excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
-    publishedDateTime: 2023-08-21T10:16:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-21/nvidia-earnings-will-be-major-test-for-ai-demand-market-rally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 49
   - title: "China keeps buying hobbled Nvidia cards to train its AI models"
     excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."

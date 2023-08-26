@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited
 webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Microsoft develops HPC AI infrastructure platform for Petronas"
-    excerpt: "“This collaboration has the potential to unlock new possibilities and drive innovation in the upstream value chain, leveraging on the domain expertise of Petronas, advanced capabilities of Azure’s HPC, AI Infrastructure solution and the expertise of Cega"
-    publishedDateTime: 2023-08-21T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-hpc-ai-infrastructure-platform-for-petronas/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
     excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"

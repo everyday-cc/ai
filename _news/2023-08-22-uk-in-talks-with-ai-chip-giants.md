@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "UK moves on AI plan with chip giant talks"
-    excerpt: "The UK government reportedly held talks with AMD, Intel and Nvidia about acquiring components to power a £100M AI research project."
-    publishedDateTime: 2023-08-21T10:34:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/uk-moves-on-ai-plan-with-chip-giant-talks/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/05/16113734/UK-Chips.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Five AI Failures That Left Companies Red-Faced"
     excerpt: "Let’s explore a few of the most embarrassing, disastrous, and sometimes even hilarious AI fails of the last few years."
     publishedDateTime: 2023-08-22T11:46:00Z

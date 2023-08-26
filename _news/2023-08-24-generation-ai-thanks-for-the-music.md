@@ -22,21 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Embracing Generative AI: Opportunities and Risks for CFOs"
-    excerpt: "By harnessing the power of AI-driven analytics and automation, CFOs can stay ahead of the competition and unlock new avenues for growth and success."
-    publishedDateTime: 2023-08-21T09:30:00Z
-    webUrl: "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/"
-    ampWebUrl: "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/"
+  - title: "Generative AI: Predicting The Tax Department’s Next Best Move"
+    excerpt: "C-suite leaders clearly recognize the power of data. However, the age-old view that tax only serves one purpose—compliance—lingers."
+    publishedDateTime: 2023-08-23T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e215e712d998d1680c8ded/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Generative AI: the Rising Kid on the Start-up Block"
+    excerpt: "The AI ecosystem in the country is a flourishing one, with reports stating that more than 4226 startups exist in the space in the country alone. Nasscom, in its recent report revealed that over 60 active start-ups existed in the generative AI section in ..."
+    publishedDateTime: 2023-08-23T07:39:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/generative-ai-the-rising-kid-on-the-start-up-block/457891"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692775850-Hithere2.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Five Use Cases For Generative AI: Creativity, Coding And Beyond"
     excerpt: "This simple design has led to generative AI, one of the most transformational technological advances since electricity. I’ll delve into five use cases of generative AI I find most intriguing and impactful: generative writing,"
@@ -47,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
 
 secured: "FbqZ4Js/oxWagaMC/VzpP4/Gzm0TgYQ/dsDUBqsHGxmSPr/Z+XLvlloE23yktfwA80TeyXLkCorHuIUHlCM5quKgEQ2Maj+6d6Q0gNpoBR54lvD//14A2eNdWQdq9mqWu3boQs7QGIgYbppmnKpCaJm5GTqbsXgWVVNReglz48EYO6iwo+1LfgyATL1vcTN/+977GypFW1aXz1QaSRjzh27P2hmdrDznmEmuU9xoTFf5pP1frSFstUUlgPGoGmvUG+F28ELNHvf73jH2NVXoyN9s7HikobOc4gZ2Z6k2hpnAGlkQuaOOx6SoglHVtIaOUqiIo3B6gUFpLf7Y31k5MUNGDEluaoJCwOeinngiNyRneQwA8Sfi3z6mgo7vqlY7hGsDxUpPEQ8UrSH4+ParPtf6uDAXtlP/yxkB5/PupsQeGxq04YW6ZsI7+8z66rP86sbqQQ1vDz61ohXsoE1tGhpJjcuJiGx7gWTqY+rXwVabMYO5t2LhwsMragYbkwr4JTGV4uLj4QTo1A/1mdPtOw==;WrrY/YAdHRoj1n8Gy4+5vw=="
 ---

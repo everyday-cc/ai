@@ -219,7 +219,7 @@
       "originalUrl": "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -709,7 +709,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -750,6 +750,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing.md",
+      "title": "Exploring The Benefits Of EXplainable Artificial Intelligence (XAI) In The Realm Of Marketing",
+      "excerpt": "In the ever-evolving landscape of artificial intelligence (AI) and machine learning, the concept of eXplainable Artificial Intelligence (XAI) has emerged as a pivotal development. XAI is the practice of making AI systems more transparent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elijahclark/2023/08/25/exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/08/25/exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -812,7 +855,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -863,7 +906,7 @@
       "originalUrl": "https://www.zdnet.com/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -914,7 +957,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1201,49 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
-      "title": "AI helps robots manipulate objects with their whole bodies",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-helps-robots-manipu.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "publishedDateTime": "2023-08-24T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

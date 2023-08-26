@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-ne
 webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
+  - title: "Google Tests AI Assistant That Offers Life Advice"
+    excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
+    publishedDateTime: 2023-08-21T17:19:00Z
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "5A+pcToMX+42DA+3qZwO1sTnirLIXl/q5B6hwzuZfW5IhH2yor8tAf8BHrB/C0tLdnnlhl0AQ5HW/1h9ZeAKm8u+3ScTe+IDsdkq8O5gTyIbIYr4d3bjmmtcZ2AuuD7O2KOjBgojQt8oyWZOiP2hdyf2xmJW/yr0BlhFM1Z5Gt2T2cjQZzP8Ti3PF9XTjsqI/PNvBFqH+Vavm1JaoVCuXwyZG7CDiwtOGVt92RMoBhfWcMYs2OMf3NnVRkfnXplFQinkXr2bKN3VossyyFmxllAYv4jw0BMjBEl6F9zSFfb0kGctReBhIGrTxUiYf77CakkyYoshvcprHj5iimUukolsAOuePufnmnStnIBgdPHO7K5kTG9NcASYU70pQPAHUy6LRmbeUifTBQ8+pO9H1Y3JhqFtuiYnu0f8KT0FHMfxsS70fD3fATlToxyKxReP7OLVoSx49pFVRxtF8OXuPUEDiQbOKPai0xk5XHXZISD914ATlrcdOJANGxn2qKeqyYNloeqEafbiy8W7HxW20Q==;KsUKxUC/Z0KNJ3aonapJJw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
+    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
+    publishedDateTime: 2023-08-21T16:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
   - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
     excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -447,6 +447,50 @@
       ]
     },
     {
+      "path": "_news/2023-08-22-why-we-should-all-be-rooting-for-boring-ai.md",
+      "title": "Why we should all be rooting for boring AI",
+      "excerpt": "Boring AI is unlikely to break as easily and, most important, won’t kill anyone. Hopefully, soon we’ll forget we’re interacting with AI at all. (It wasn’t that long ago when machine translation was an exciting new thing in AI. Now most people don’t even think about its role in powering Google Translate.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
+      "publishedDateTime": "2023-08-22T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-phillies-fans-can-now-use-facial-recognition-to-enter-citizens-bank-park.md",
       "title": "Phillies fans can now use facial recognition to enter Citizens Bank Park",
       "excerpt": "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ...",
@@ -537,7 +581,7 @@
     {
       "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
       "title": "Natural language processing to extract social risk factors influencing health",
-      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed excellent performance when ported to a new health system and ...",
+      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ...",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
       "originalUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
@@ -1380,49 +1424,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-a-roadmap-to-help-ai-technologies-speak-african-languages.md",
-      "title": "A roadmap to help AI technologies speak African languages",
-      "excerpt": "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "originalUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/african-language.jpg",
-          "width": 1920,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "publishedDateTime": "2023-08-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

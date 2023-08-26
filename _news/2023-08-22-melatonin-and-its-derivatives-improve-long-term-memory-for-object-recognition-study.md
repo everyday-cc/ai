@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-publishedDateTime: 2023-08-22T02:10:00Z
-originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
-webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways."
+publishedDateTime: 2023-08-22T06:44:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
+webUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
-    width: 1280
-    height: 750
-    isCached: true
 
 related:
   - title: "Melatonin and its derivatives found to enhance long-term object recognition memory"
@@ -60,6 +54,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "jkpxXD5vZC6xoc/N5veLoIJkDGdR5kOsVYdodpWb+iG0x34QMDHBNZJAYwwG4aF1y1znjmWj4Uoep4rxHjmbcIG05U8cmN1Y99J2ozKUAO7dnlHxfYaUJrcJLm99lV0pVScw3bJGIRANyqKLLgznUlwWYpKyEGkcxaqkibZ7MwnH3X99Up+ZaRZ+rO27/5qEK+L6CZ0pvNwZuf7mZLObPHBqk9Q7Ior1/NvajjVumZwi1SUS0c9ZwTHjafEnCR5r7MctBChMq10238PqHi5ygNyAF1ifzH4yM4GMdjXTOioKRqURJLUK6VHIO/COUlLnSII1/3uoJDVOviLyDZBPrcIxtoxUiV7Cgg4b6Zu3NZc=;87CERwex0kIDXXNaXXevgQ=="
+secured: "3ApbnWPjVE3v3BHjWZgh9pYNW38tMaXk+dKYgj0zs/EEzqe9PezE2cANVk3UHL6AZqDbSuKEFIF3j+rXfAf7CdPx+g3V3nlJ02YHg38z++ECootKwWikN7xyYrQPETJJwce+cFqIl0SxriXI8SBWqzD1dgxnNzCqKcrIK8XIxm32dmyk3EJoaIouh4d25iSboPwo9RE3TyMmoFZnjHnrrXlCfVkHE9nr8MBJjCo/dUaOmavxCt2FKKtlsXoKvI8VImagnY+OpW2lMchS2BooavqqAQl4vPBnej1rND4yAYPWBTbTXzpgtf2ZFc4eGpnRXrK3swmpHxm/fDBjSkQQlof/AZam1o/gZ71Oe3CD9fA=;N2hIBKEC+8WR2aDeQ2USig=="
 ---
 

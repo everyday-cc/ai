@@ -29,20 +29,20 @@ images:
 
 related:
   - title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
-    excerpt: "The latest round of funding outlines the rapidly growing adoption of AI, which has been hailed by many as the next frontier of technology and has attracted some of the biggest investors in Silicon Valley."
-    publishedDateTime: 2023-08-24T15:38:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding/103032073"
+    excerpt: "(Reuters) - AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce, Alphabet's Google and Nvidia. The latest round of funding outlines the rapidly ..."
+    publishedDateTime: 2023-08-24T14:10:00Z
+    webUrl: "https://www.aol.com/ai-startup-hugging-face-valued-140155500.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: AOL
+      domain: aol.com
     quality: 56
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103032073,imgsize-444709,width-1200,height=765,overlay-ettelecom/internet/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding.jpg"
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."

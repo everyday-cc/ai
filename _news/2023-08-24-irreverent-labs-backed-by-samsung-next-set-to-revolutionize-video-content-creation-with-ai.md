@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 562
         isCached: true
+  - title: "How customer engagement will evolve along with generative AI"
+    excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
+    publishedDateTime: 2023-08-22T05:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-customer-engagement-will-evolve-along-with-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_232601963-copy.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
     excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
     publishedDateTime: 2023-08-24T13:00:00Z
@@ -111,6 +125,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Responsible AI: The Solution To Generative AI's Threats"
+    excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
+    publishedDateTime: 2023-08-23T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/responsible-ai-the-solution-to-generative-ais-threats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI And The Evolution Of Customer Experiences"
     excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
     publishedDateTime: 2023-08-24T13:48:00Z

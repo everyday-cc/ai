@@ -69,6 +69,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "This is how generative AI will free up your time at work"
+    excerpt: "Generative AI is impacting the way people work across industries. Here's a look at how you can be a part of the revolution."
+    publishedDateTime: 2023-08-22T13:42:00Z
+    webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "seDWR9Gk+Xh3QVAf5wrXMr5ENGWPaedWydDSW+1bx9Q3oMLts1uZopKTFi0itfp0rrc+ri7cC15Es3+pZxwmSBb5X5mrNhUTfahpYEfJL8/UbvO8kTCzaLzd0jAf0qrRYa6DnoBZuKbnmXMmUhR5A77rBF7TBOx03gfMg6X0HhATPXevo3CXMuGEXfHOs9q2Ysrd2/2tazCPOHr3FlN74PTsN7d1A8VY167bvoqA9zLeyps9DHM8mgxtEUEK3frRi9njwGygrVOeFPAa1WyxjRBpbp8GwauYcM1lq/L40YAV6gemvqeylD373Tazd8iSMwsdsiGAXqlddmgKSTLD5k+M1bDGjLf+Et8JXIGFfuZVyweOyx4dZBGrItUsKiVFRGPSJXSur4XGFcjA9qwyxHETKUfMfEH1pAhqxZ8vPCrfgWLIeHcMJID8n+P1pwE3/lJPh7p/D4xU8dXvqTr+AonAvcaTGKSrUlJ78tY+Qe5uHP/Q7azFGw9fv7GBVhqBt8WPdIawM2WXBkhENZD3aw==;UKcW7fwOreH8hmIYkWVFzg=="
 ---

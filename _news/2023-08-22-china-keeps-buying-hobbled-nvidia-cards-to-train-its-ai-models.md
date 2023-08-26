@@ -479,15 +479,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Nvidia Earnings Will Be Major Test for AI Demand, Market Rally"
-    excerpt: "Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified. Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters."
-    publishedDateTime: 2023-08-21T10:16:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-21/nvidia-earnings-will-be-major-test-for-ai-demand-market-rally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
     excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
     publishedDateTime: 2023-08-22T15:07:00Z

@@ -18,24 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "The Download: internet scams, and the ethics of brain implants"
-    excerpt: "Both of the women can communicate without an implant. The first, Pat Bennett, who has ALS, also known as Lou Gehrig’s disease, uses a computer to type. The second, Ann Johnson, who lost her voice as the result of a brain-stem stroke that left her paralyzed, uses an eye-tracking device to select letters on a computer screen."
-    publishedDateTime: 2023-08-25T12:30:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/25/1078417/the-download-internet-scams-and-the-ethics-of-brain-implants/"
+  - title: "Why we should all be rooting for boring AI"
+    excerpt: "Boring AI is unlikely to break as easily and, most important, won’t kill anyone. Hopefully, soon we’ll forget we’re interacting with AI at all. (It wasn’t that long ago when machine translation was an exciting new thing in AI. Now most people don’t even think about its role in powering Google Translate.)"
+    publishedDateTime: 2023-08-22T09:27:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 34
-  - title: "The Download: introducing the Ethics issue"
-    excerpt: "Introducing: the Ethics issue . As technology is embedded deeper and further into our lives, it’s becoming increasingly important for us to properly grapple with ethical concern"
-    publishedDateTime: 2023-08-23T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/23/1078284/the-download-the-ethics-issue/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "LegBW3+c1NwrStX4b+vYPe1qzuSYcXMUEOqnUpRobciFbm1wtlYemrAaayY2e/spX2pBcJXWuSExX3Yve+8MgLKv1qg0P15x4yd+atyYnExOooqhEZ/w41WeDR1M1cp/6yfsDyMgslkPWsgMxeHD8B13Vjb//NWb8BYcFeI5TBnSqW4YtGrX6iQzYr5BP9wRloAUAj1kcyXUKW5FPKRBUFSB4gOi2hEihRDFxMuPeJ78extUSCzow/Gmyksn9TeURmJXRAcw8QNDeXdWuMpypTAmqSVqVd3oy9GqimNto1+g6XrLL/k3UVEkzjovhoAjs4zY7wMRY7oOCmHNdGSw2Xp/z7u1OcRaoR2Q8oW25m/gvT5v3UsvfNzPodGDq+Ru+vtKyzQyCYQanF+XzHPStkKJNxnSzr39mYcuM62ZHjCGf91xbrj0FVGPcwg3DkeacPXcxCxR3/cbAqtuZQSWlO9CGWHoWTJvrlZYi4ShNkySjBBkxWQuWYKh/uGqFI+ADYYpQnQsJ6YRTPvLLHdEzA==;5tvqGTuG6bJss454MSOYGw=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "WiMi Developed Execution Platform for AutoAIM Analytics to Facilitate Machine Learning in Marketing"
+    excerpt: "WiMi's AutoAIM implements ML in marketing by creating a real-time repository of projects and making implementation recommendations for ML in marketing. In this repository, users can learn, share and reuse workflows (visualization code)."
+    publishedDateTime: 2023-08-25T13:59:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/25/9870317.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+
 secured: "QSPya9LYu2R3BjqD7A9y36ikpBxhRqnhyYoEAncbJq1SSYFZXhSW4x4uLMwXloogqtCK0zv2XZuFliiteVoI1+jSBAMoybjksRi2Y3j04nfb3X78qq88fNJ9A/if6BTFrLyCZDyyzg7xGtTg/sEDwBQYsSxkj0VTagrn68nxdXxCiiNlComTOgq9nqOlj8ZpCtqbQtitgLVzaI2nwyMuvWPz+9CTcGLsh7V41wSqYzII0F71CoV/r4oCd+qOCSR6emSLsyv95C35Q/PCXziLGbNfMAKQeDUSr4q0fZ0Rw3/3CF10N8GAosf2/wMGkvjUUsl8OyXT3IGcLyXRcFpNkFxVP5Mygtnt5npsiDFNijgNe9Qnq0SyndIDc0XQe4m5pidxZmWw4TDwXwTkk3xyYAvXMrDBkoQve1WXbvtrTXr96CubYbW4miEJt4nUFp3JHOgflxr97LDYqnHE8i14jBM1LEpA274OCwMYICQJQNQ5agDETfd4hM3pxZgm9ZjaRGUv64jkNIT61DXNPNI2Jw==;HgWtU9L3X7M7g93OILF1Ig=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-24-artificial-intelligence-what-it-is-and-how-it-is-used.md",
+      "title": "Artificial Intelligence: What It Is and How It Is Used",
+      "excerpt": "He is a Chartered Market Technician (CMT). Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Nowadays this code is prevalent in everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/LM3fhER-7UsLy-teyQe8VA8f3Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/artificial-intelligence-1079012838-6ee85656ad2047f08371f47bd26f1b64.jpg",
+          "width": 1500,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
       "title": "Self-driving cars: Autonomous driving levels explained",
       "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
@@ -1341,49 +1385,6 @@
       "provider": {
         "name": "Investing",
         "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
-      "title": "Asda introduces self driving delivery vans in AI first",
-      "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
-      "originalUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg",
-          "width": 1536,
-          "height": 1183,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
-      "publishedDateTime": "2023-04-17T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
         "images": null,
         "publishers": null,
         "authors": null
