@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T14:03:00Z
 originalUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue-above-estimates-2023-08-22/"
 webUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue-above-estimates-2023-08-22/"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.reuters.com/resizer/Zxubc8zyLJMsxVKCRVNTDxfQQaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ORQBWYOUNMWBIRCUZWYXDVAOE.jpg"

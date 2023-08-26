@@ -27,6 +27,17 @@ images:
     height: 440
     isCached: true
 
+related:
+  - title: "Why Meta’s SeamlessM4T AI model is actually really exciting"
+    excerpt: "Meta has finally taken a huge step towards creating a universal translator with the reveal of its SeamlessM4T AI model."
+    publishedDateTime: 2023-08-26T19:10:00Z
+    webUrl: "https://bgr.com/tech/why-metas-seamlessm4t-ai-model-is-actually-really-exciting/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 21
+
 secured: "sL5OxED9RVzi4T+TwJTYqKDhmoN0zacDE+u/oC5yjAPpjss37lOMPKY6eTaurh/ERijYFzBxIC3ch/JCse99FszJQFNHpf7z1M+wFtFbN6/N2Puh1uOA5Z1NL5ObrlW6H+CmMKQWQmPztoayfR+zmukLKq7pFz9BkUO4T3F47Q8D9ZHoXCeV9quvg2tt8eWYcQsy/cp6yCxL2qVMz6ZjTs+ASqivrRKNxKQ31+2PbFQGlqWPVxuK7vAm4FNmc8efCVJRFXZgM8dvfWh70lz8Emjr2JQxqXsA+kq/5OrcgWe9xToczkjRQ5I3zbIfCckAINCyHmyiMpSdEYkCMvDIgMn+GPqPqkGBLoY+ZuKbUYxkag0ec4JmP1VTfkmI9T7mofdikWOCT9TL9sRo4bmGbZROp2FSuCdwKl2cNKyWp3En98Kf3xx1c7CizXW0R1QuZNsMOMHggUFgNi0pIFYXe9jiqnC20rZX8F/dho1s1tbSiENp6D1FPx06Rp53402XhTYTM2/i7hGZJe77LrJm9A==;NzT0zmqn37myDqQpUzaLKQ=="
 ---
 

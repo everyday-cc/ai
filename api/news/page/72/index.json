@@ -2,6 +2,58 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-07-07-amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-speeding-up-shipping.md",
+      "title": "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping",
+      "excerpt": "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-robots-at-an-ai-forum-say-they-wont-steal-jobs-rebel-against-humans.md",
       "title": "Robots at an AI forum say they won't steal jobs, rebel against humans",
       "excerpt": "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ...",
@@ -1076,49 +1128,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
-      "title": "Humanoid robots take questions at a Geneva news conference",
-      "excerpt": "inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence. The nine robots were seated and posed upright along with some of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "publishedDateTime": "2023-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

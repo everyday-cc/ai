@@ -48,13 +48,13 @@
     {
       "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
       "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
-      "excerpt": "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words.",
+      "excerpt": "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com",
+      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
+      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -68,8 +68,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp",
+      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
       "publishedDateTime": "2023-08-25T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -623,10 +623,10 @@
     {
       "path": "_news/2023-08-20-artificial-intelligence-and-machine-learning-news-and-features.md",
       "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ...",
+      "excerpt": "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223",
-      "originalUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223",
+      "webUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -645,7 +645,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T16:08:00-07:00",
+      "publishedDateTime": "2023-08-19T15:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "technologynetworks",
@@ -666,20 +666,29 @@
     {
       "path": "_news/2023-08-19-artificial-intelligence-and-machine-learning-news-and-features.md",
       "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ...",
+      "excerpt": "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
-      "originalUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
+      "webUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230826",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T03:19:00-07:00",
+      "publishedDateTime": "2023-08-19T09:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "technologynetworks",

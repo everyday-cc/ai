@@ -66,15 +66,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-08-22T04:22:00Z
-    webUrl: "https://www.inferse.com/686087/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
+    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
+    publishedDateTime: 2023-08-26T19:22:00Z
+    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
+        width: 3584
+        height: 2048
+        isCached: true
 
 secured: "5Q++BTDi8hM44U7FjURM45wC0W0XY0GPe1eS0919EfofvBhWAhMnViWUAJlRWI23jvrk49SL92UDM35tVUk0s730owuCZgKc1HGdh01pd5tEY2qYlcsTXPw4Xvft1X+mF7Ls+LLrPBUtT+idyurzDXzSYVtr6aQVVNX0QJeW8vVKKKEeu1rlCldkALQ/b+YkKOccdXOaY60n6PLPaACmgDsIr5WlkVkbgJg5mymy63xqhbvJ+/afYeY+Zq636TiD8oPsjD2CZeyjkJJKd/bnBiki19IPnyj54tzFZRedv7qGdAcTdjHjeiOSTwUBeRGpgUkGm8XX+g7M+R+5ZE4pTHmaDfFdCUzg03hb9fU+9psB+E8rkWTPst8VQFJTtG5g+ZY+gOTB855BvhaJ+LVV169FKbHL40LErhW/aVNQCHvF5IphhDnPBY2ccdsjZJWp6zNP8sjabv+cmJrCqPh4Csjxj2LAOmXszDgAWgj64J3ejlqWxzhYAHbTbBiASUouPfRXWShh3fr1GlunY4p2mA==;HHU5uce91H7FYSZ4VpqfjA=="
 ---

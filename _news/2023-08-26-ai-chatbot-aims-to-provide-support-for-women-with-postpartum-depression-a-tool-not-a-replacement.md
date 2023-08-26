@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI chatbot aims to provide support for women with postpartum depression"
+    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
+    publishedDateTime: 2023-08-26T18:10:00Z
+    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
+    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "IMKVWAHBRk3FZD6rYsrTN2xhBATVhjHN/58qJ5yk14qOApPHufudYku30WQjDsCfTRoSfWvmVDGmrH4Gtv76hACCAquYLEM+DA09kTkYn4qVtC5+wffdR0ThG3XuaVCCUdTsSSbc27NxsBX0ZDk5PFwVULtlDRLybto/KCa/tQBrcJvDjLUeBEpXPDnh6Et7D6vnFSTQCjhN14lBCb603pASJw0OH3QNGr2Bto8f2GRV4wDQM3ePrBuE3kByg6L0gtJExIRB3ddyI+QoTYXdTEdIsBGjc6KOWMTlg1aqmuBwKlFTw3JgwBx9t+DzWVtK8hqP6kKkMFJamaYDny2wFCRk20sw90+ghoUFNe51rcJUOQuOVoht1L01QK5O+wHwzRwJWCtMgPCVqfQ30n9TtIkPNfEt2jC7kIoCUnRZEA20E/p02TwYawjA0iTz3NI85l917TdjMgGOA8Q0KTkUsN8lL7YAxd1plGE2R1QUYGGXCde7AesxDuoVVcxNqdDJL43uJtsbr4nhSyUmcH7HyQ==;uaN8VOdPDMmUr/IyISK76A=="
 ---

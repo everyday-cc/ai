@@ -30,19 +30,12 @@ related:
   - title: "The Psychological Impact of Artificial Intelligence"
     excerpt: "Currently, experts studying the potential impact of advanced AI have concluded that the biggest risk of AI and robots comes from the potential manipulation of people. Brainwashing is much more effective and cheaper than military action."
     publishedDateTime: 2023-08-23T20:36:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/Trust%20.png.jpg?itok=5kWRfzwb"
-        width: 1528
-        height: 800
-        isCached: true
+    quality: 19
 
 secured: "RENVIVqTxNOUSav9agt/C2dwCqfec3MhTPNeYAhFIjIDWjB76P2R9l+nNWzxCmxIk2EkdoV0kQeqvehDuYh0Ox/BKWZjq3ULLf/ImZDuVCzeVaTA/42L7Ti1Fmpr4c1Wx7qv+jfnLL+JQgrrkG5/fbgivwCHFtONcGMMGjLbFgM7kIEDXPNF7sURXV1aUrbhs0z19EN2WYaMWOnQBQSGkk265kieS/9tD9FU49q8PkphZKmFC6yamYpXlbzeFp82NngKqoG3qL83Qbj+jvgp9R/t5QRUafJO59fphBSa0T0YqF66E03rntcx5RFMMKz39ZO1lEK0i0p08ezj7cGeYRnsem7+z4KAh+YiFeu2vso=;M6/ZhO2L+2SURgLmWj0oBg=="
 ---

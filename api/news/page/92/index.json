@@ -2,6 +2,58 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-26-soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000.md",
+      "title": "SoundHound AI Shares Rise 11% After Inclusion to Russell 3000",
+      "excerpt": "By Chris Wack SoundHound AI shares were up 11%, to $4.06, after the company said it was selected to be included in the Russell 2000 and broad-market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "publishedDateTime": "2023-06-26T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-mining-companies-bet-on-ai-to-make-dangerous-jobs-safer.md",
       "title": "Mining companies bet on AI to make dangerous jobs safer",
       "excerpt": "The global mining industry has come a long way since the days when coal-blackened miners would carry a bird underground with them in hopes its distress would alert them to the presence of toxic gases.",
@@ -1149,51 +1201,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
-      "title": "AI: Will it help humanity or doom it?",
-      "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
-      "sourceUrl": null,
-      "webUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
-      "originalUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2023/06/Ureneck-1-1024x689.jpg",
-          "width": 1024,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
-      "publishedDateTime": "2023-06-26T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

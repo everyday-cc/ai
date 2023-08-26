@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Arm files for Nasdaq IPO, seeking to cash in on AI boom"
-    excerpt: "Arm isn’t new to the stock market. After it was founded in 1990, it held its first IPOs on the London Stock Exchange and Nasdaq in 1998, and remained a publicly traded company until 2016, when it was acquired by SoftBank and went private."
-    publishedDateTime: 2023-08-22T01:09:00Z
-    webUrl: "https://siliconangle.com/2023/08/21/arm-files-nasdaq-ipo-seeking-cash-ai-boom/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/2c1fa490-55a5-4696-aa59-04f5fa01aa8f-1-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "A Filing for the Biggest IPO of the Year Is Producing More AI Excitement"
     excerpt: "Japan's Softbank plans to spin off chip designer Arm, and the buzz over that deal is combining with Nvidia's coming earnings to energize the AI crowd."
     publishedDateTime: 2023-08-22T11:45:00Z

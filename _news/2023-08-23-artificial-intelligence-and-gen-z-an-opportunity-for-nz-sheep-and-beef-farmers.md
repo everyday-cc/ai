@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-22T17:00:00Z
 originalUrl: "https://www.nzherald.co.nz/the-country/news/artificial-intelligence-and-gen-z-an-opportunity-for-nz-sheep-and-beef-farmers/FRM62KCSF5HBZI6V5GVMEWMTLM/"
 webUrl: "https://www.nzherald.co.nz/the-country/news/artificial-intelligence-and-gen-z-an-opportunity-for-nz-sheep-and-beef-farmers/FRM62KCSF5HBZI6V5GVMEWMTLM/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.nzherald.co.nz/resizer/3OTveERv-IFzh6_b4qksgwKaCBA=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/GEJBJW653VGLRNBZBGCSMX7TOU.jpg"

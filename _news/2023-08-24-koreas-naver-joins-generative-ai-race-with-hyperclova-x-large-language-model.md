@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-w
 webUrl: "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model/"
 type: article
 quality: 64
-heat: 76
+heat: 74
 published: true
 
 provider:

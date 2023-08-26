@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 609
         isCached: true
+  - title: "Closing the loop between artificial intelligence and robotic experiments"
+    excerpt: "(Nanowerk News) The powers of artificial intelligence (AI) and robotic experiment systems ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds ..."
+    publishedDateTime: 2023-08-23T09:53:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63531.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 33
 
 secured: "wonBkaWzoZBbuds1+I1MQpr6HYspybocKoX9lo8QwGsD+ZCiMJ6CghVEmW96kXAAIwz4m2iwcmcTEOYdBvBWJFG4s4hgxSi1jn36DOK1Htv3gRLTVgwN7p5YLW+SEC+Iryx6AaRWMK8rd5U9HKwLY5MQBFD5C1PLqoCsIaIbsHo0uYbcm5ChLuA5Z3KvVUG1MaS18fTTw7P9WmTUfUlQbFDR8CsbBLKa4KLfmfcZAPWNwk2VdW1/RqUAi12tJgHX6RBwJW0O551+IWdIYyA0ISkOmZo6b+EnSYwofqS79mMb71XynuVSSZunQxv3Q+NOqKYOHuIEbE3cKFZ67CdxA1uCUiP/r186FQdSa2wBanbXmpaolYYm5LaetdOV5Oa++XRTaIko51bBOcBN0mr7pfUpLeC7/x/J21uPlbx4S6iYxtHkvlVvucYQmmvX7x++jUojAMLntU+U1SlhTyzeDeyTPSaDprhEiN8HnKNnRyhYiHe1Q22/D2vAJ7doT18q9PWw1eiXUsCLU5GenY/lKQ==;h+VIiDi+hkGEBTzzFTyosQ=="
 ---

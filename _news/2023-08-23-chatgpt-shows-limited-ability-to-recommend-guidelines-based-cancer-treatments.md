@@ -53,6 +53,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
+    excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
+    publishedDateTime: 2023-08-26T18:27:00Z
+    webUrl: "https://www.medindia.net/news/balancing-precision-and-missteps-in-cancer-treatment-through-chatgpt-213252-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 4
   - title: "ChatGPT 3.5 provides inappropriate cancer treatment recommendations in one-third of cases, study shows"
     excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers from Brigham and Women's Hospital, a founding member of the Mass General Brigham healthcare system,"
     publishedDateTime: 2023-08-25T13:47:00Z

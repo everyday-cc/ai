@@ -3,12 +3,10 @@ category: news
 title: "The Psychological Impact of Artificial Intelligence"
 excerpt: "Currently, experts studying the potential impact of advanced AI have concluded that the biggest risk of AI and robots comes from the potential manipulation of people. Brainwashing is much more effective and cheaper than military action."
 publishedDateTime: 2023-08-23T20:36:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence"
 type: article
-quality: 57
+quality: 19
 heat: -1
 published: false
 
@@ -17,13 +15,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/Trust%20.png.jpg?itok=5kWRfzwb"
-    width: 1528
-    height: 800
-    isCached: true
 
 related:
   - title: "Making AI systems biologically plausible"
@@ -43,6 +36,6 @@ related:
         height: 390
         isCached: true
 
-secured: "fVD2EFqpQirDODY5dbYwYTmxAkNgcinC7W4s/QuDfKV/KnWu2W7FwzM6xyQhwG5dSzbd4OYUNeeT21v9Qvq1/4IqFTR68EbrKo5i9e7Z9WezfF51aBtbvci2aMjuIPY416V3eIzjpkfEjzaNdzYv4tPmEj8hcMPZ/cy0DUcwqQNVLE53wUiOpqxTzblhkhc21Ln/ZTKCU/cBBcUhABE8wbubyBcmUUoTfQHWtyQ7LFiJxpR246uxSSNJD438s9893716qiFGekR9BYWvBzFDVBKp8emE5oiMlE8OffQ925BaEbcoNMpQ2Bvnx5fzI7Ukn/UWwUl7C0gLnoKXUAXRQD87AUJ6K0K9Fci5un7GbDk=;0KOqkaf20rScdx7mLV4+/g=="
+secured: "bPWIiSEA8mFmgR+oDSFTJP2GmhVtiy2lTdbafOkJw3Doad7BfDUNXYlfy9i2ME3B4f/jaZjch4QIdBNfDC5KKGM0RSKpuuYJA7daKHJB+KmXji2OBzClgSwNJB9QPf6VdL2Mq85NWQJxs+ckPFDU5a7ZwZ3930P09OuRpcwIjV6QyE0ZKKVgf23GUMz9RUW6cjHYIL0ZvPjsHgJhrnrTE64IYkQfu3CiDUd/ZYdI3YpFhvDOKeC33iPYbm2MOaLUPyA2H1SOVDAT+QmjB242WOM42r44s/OMZCENL2ZUSInFrD7AZbA2yQilWzz6BbuupMSqtmoC29Bmpa19pcIrhkDQf22R7qlzkHO/Cg/CVLZ1MAvYaMvpvd7ljejK6dCRDTBA0c+EwxJixDUdu54w/hgRn/4YtDE3nLKha1Zc2RoQcNM9G3KswcS099wiGrqIKKKdGnjbmjJc7WEXsEoyjbxOcfA110pe5ibSvLEWfSlXrt6NGiRLlQobndliatvTKHQmP7AiTVg43uvM1cL/Yw==;Cj/xMFQJw4EcAflReDB1Ew=="
 ---
 

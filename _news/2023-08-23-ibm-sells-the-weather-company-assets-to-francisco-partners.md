@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-asse
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-08/5rvjq3fo_self-driving-car_625x300_22_August_23.jpg"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
-    excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
-    publishedDateTime: 2023-08-22T03:21:00Z
-    webUrl: "https://www.timesnownews.com/viral/self-driving-car-picks-up-passenger-in-san-francisco-viral-video-article-102922826"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 23
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102922826,updatedat-1692674433895,width-1280,height-720,resizemode-75/102922826.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."

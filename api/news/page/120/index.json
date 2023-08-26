@@ -2,6 +2,59 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2023-06-07-teslas-optimus-robot-fuses-self-driving-tech-with-mind-blowing-humanlike-capabilities.md",
+      "title": "Tesla's Optimus robot fuses self-driving tech with mind-blowing humanlike capabilities",
+      "excerpt": "Tesla is developing a robot that can take over your daily chores and errands, but what does this mean for us as humans? Kurt \"CyberGuy\" Knutsson explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "originalUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548995ea-53a7-4f7b-a9aa-de824d7a91d8/0c6dffc3-5cf9-477c-89fa-1c8433580e0a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "publishedDateTime": "2023-06-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure.md",
       "title": "DeepMind repurposes game-playing AIs to optimize code and infrastructure",
       "excerpt": "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression.",
@@ -1176,41 +1229,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
-      "title": "Machine Learning and Data Sciences for Financial Markets",
-      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

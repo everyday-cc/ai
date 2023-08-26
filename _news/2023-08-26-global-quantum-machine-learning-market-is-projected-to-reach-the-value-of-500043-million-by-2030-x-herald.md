@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-26T16:41:00Z
 originalUrl: "https://menafn.com/1106960582/Global-Quantum-Machine-Learning-Market-Is-Projected-To-Reach-The-Value-Of-500043-Million-By-2030-X-Herald"
 webUrl: "https://menafn.com/1106960582/Global-Quantum-Machine-Learning-Market-Is-Projected-To-Reach-The-Value-Of-500043-Million-By-2030-X-Herald"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?15994"

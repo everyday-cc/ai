@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-26T18:20:00Z
+    webUrl: "https://gizmodo.com/here-are-the-top-ai-stories-you-missed-this-week-1850763767"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
   - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
     excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
     publishedDateTime: 2023-08-22T13:46:00Z

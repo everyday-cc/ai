@@ -69,15 +69,20 @@ related:
         width: 803
         height: 452
         isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-08-22T04:22:00Z
-    webUrl: "https://www.inferse.com/686087/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
+    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
+    publishedDateTime: 2023-08-26T19:22:00Z
+    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
+        width: 3584
+        height: 2048
+        isCached: true
 
 secured: "fml+/WkQndPFRq1lGfmbDpMyFZuTzn3Xkg/XCyTLe+sWCbaL2MDOXreiV87QitURI5BK/dLF88J62iyDtpXV6t74XM300SToe5FEN0a3GiteJOCfCtkphrxzyJflcBqoZdj49l2uocaSp607G4QeMqEAbL8Le/Rc6faiLJ2u/p7jBAoj7qc6k6O3lPGYd2HhkXZCmVpYHhmn1H7+mE63xSjlYqV+MVdg5crdgchyfppLFWWE7GsBp2ZAtkrUVECTYfzEL8EOCfULh50NYLxoSz8DKqixoNyKwxk3NY7HDCWIj6/tWSvGgTVXbHdEleNzxTOATuK8S//sKjNHonSbl+yEMwIG6QZTp4v3h3Z1zGo=;9nPYwRQ9GMgWdoz1tXsjVg=="
 ---

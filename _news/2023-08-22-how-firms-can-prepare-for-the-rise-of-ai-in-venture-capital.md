@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-26T18:20:00Z
+    webUrl: "https://gizmodo.com/here-are-the-top-ai-stories-you-missed-this-week-1850763767"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
   - title: "How contractors can make sure they say what they mean when using artificial intelligence to write proposals"
     excerpt: "It takes a lot of thought to buy artificial intelligence. Contractors trying to sell the stuff, need to put some careful thinking into their proposals and not rush through them."
     publishedDateTime: 2023-08-24T15:31:00Z

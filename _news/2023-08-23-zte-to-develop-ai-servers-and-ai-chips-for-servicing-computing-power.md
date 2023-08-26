@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Humanoid robots bring artificial intelligence to services"
+    excerpt: "BEIJING, Aug. 22 (Xinhua) -- Holding, tilting and twisting a jug of milk to make latte art is no longer the unique skill of a barista -- a humanoid robot could recently be seen swirling hearts into cups of coffee in Beijing. At the 2023 World Robot ..."
+    publishedDateTime: 2023-08-23T04:14:00Z
+    webUrl: "https://en.ce.cn/main/latest/202308/23/t20230823_38683958.shtml"
+    type: article
+    provider:
+      name: China Economic Net
+      domain: en.ce.cn
+    quality: 34
   - title: "How generative AI will change SEO as a profession"
     excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
     publishedDateTime: 2023-08-23T18:28:00Z

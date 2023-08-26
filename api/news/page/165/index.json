@@ -2,6 +2,57 @@
   "page": 165,
   "value": [
     {
+      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
+      "title": "Learn how to build AI-powered software with this $40 bundle",
+      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "publishedDateTime": "2023-05-10T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030.md",
       "title": "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030",
       "excerpt": "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the",
@@ -1147,49 +1198,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-heres-why-ge-healthcare-has-ma-making-fever-in-2023.md",
-      "title": "Here’s Why GE HealthCare Has M&A-Making Fever in 2023",
-      "excerpt": "On Thursday, GE HealthCare announced it has signed an agreement to acquire Caption Health, a private company that specializes in using artificial intelligence to assist in conducting ultrasound scans. GE HealthCare did not disclose financial terms of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-2-9-195557.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

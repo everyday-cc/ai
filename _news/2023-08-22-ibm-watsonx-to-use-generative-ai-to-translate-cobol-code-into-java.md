@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
 type: article
 quality: 121
-heat: 271
+heat: 231
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 888
         isCached: true
-  - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
-    excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-taps-watsonx-generative-ai-to-help-modernize-cobol-on-mainframes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM’s generative AI tool aims to refactor ancient COBOL code for its mainframes"
     excerpt: "IBM, eager to keep those legacy functions on its Z mainframe systems, wants that code rewritten in Java. It tried getting humans to do it a few years back, but now it has another idea. Yes, you guessed it: It's putting AI on the job."
     publishedDateTime: 2023-08-23T16:34:00Z
@@ -94,20 +80,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watsonx Code Assistant Adds COBOL-to-Java Translations on IBM Z"
-    excerpt: "Generative AI comes to mainframe application modernization with a model trained on more than 80 code languages."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-code-assistant/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/IBM-Cobol-to-Java-translation-1.png"
-        width: 729
-        height: 432
-        isCached: true
   - title: "IBM Rolls Out Watsonx Generative AI Capabilities To Boost Mainframe App Modernisation"
     excerpt: "IBM revealed that the Watsonx Code Assistant product portfolio will extend over time to address other programming languages"
     publishedDateTime: 2023-08-22T08:14:00Z
@@ -123,36 +95,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/nizb0sblr2xvuyv6_1692692056.jpeg"
         width: 768
         height: 439
-        isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-    publishedDateTime: 2023-08-22T04:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
-    excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
-    publishedDateTime: 2023-08-22T04:01:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/ibms-watsonx-leverage-generative-ai-modernize-mainframe-apps/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IBM-z16_Banner_alt.jpg"
-        width: 1920
-        height: 720
         isCached: true
   - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
     excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
