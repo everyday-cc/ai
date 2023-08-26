@@ -2,17 +2,17 @@
 category: news
 title: "In Q&A, White House science adviser Arati Prabhakar calls for more safeguards against artificial intelligence risks"
 excerpt: "When President Joe Biden has questions about artificial intelligence, one expert he turns to is his science adviser Arati Prabhakar, director of the White House Office of Science and Technology Policy."
-publishedDateTime: 2023-08-26T10:15:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/aug/26/in-qa-white-house-science-adviser-arati-prabhakar/"
-webUrl: "https://www.arkansasonline.com/news/2023/aug/26/in-qa-white-house-science-adviser-arati-prabhakar/"
+publishedDateTime: 2023-08-26T10:12:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/aug/26/in-qa-white-house-science-adviser-arati-prabhakar/"
+webUrl: "https://www.nwaonline.com/news/2023/aug/26/in-qa-white-house-science-adviser-arati-prabhakar/"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "LwF4dDWchjpskd59ptP1NB3wbvrSjujWSioK+XUmSPV897k2TQi85RJyHHjZxsvfXKXNUEsVwhQcSoDfSb3ai9FrtqsGdKjzaFHMpFgks9m8Is0lcXn3zE/uvKTtQRlcI6lIGUUKkcEOFH/pphC05AU9qDjjVT3wuM1b8rxxvkFb7zLWB9XNoPvgwGsVrWS68jXah4wJ4x+nHtDSeoSPXK9IoUtM1EroBDfmAGVbg6HNmVHWIrqNdo96+KWlLrZSl/5w6eUNEWBjLmi+hL4kPnMdfDR3q9FpcEHch3deALIzclQLkI2TO90xSToHW7GRObbv7KNNcYFqAtOgg2dIz51RjwxIwPAMD7cn8n08+fQ=;v8bAnfXOV803+jIZpCnvJA=="
+secured: "hnXgQvD5oKT8wzaeYF1Ith1IhG07YIV0R4mGRb6O+WGVmYrxFBM68HaR/uUrS2uQdv18alS1yJyav5jMgYtavG13P/jnTr/FHbEjp7CTJ/lLsCaOiMRsRNYReWE+nYo6z03GNPARc0vx4Sk8zA3S4RMca6Ll4UeVswtpRigmJNHXhAuvcrdd5TizZVHadIqMQnvh89V8QqbrqMmBe/DiJCAPgGaK6I8/ipglC1s409IgBk+vnRkWqrf/SbBzJtmzDuoFwofAOMEBrKvMxdHtHJ+R944CnAVQJmnz23wj14PlNJg0xbXjK1J1cz8TWUHpXPsUHvPaGfdd1RWLryKJzD5LlxH8Ll0pfWARtJACHbw=;VAqTslCRqKV1gYLNY5YOaA=="
 ---
 

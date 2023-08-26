@@ -48,20 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "Less noise, better signals: Why XDR and AI are the future of cybersecurity"
-    excerpt: "The era of weaponized AI is here, and XDR platforms need to gain value from AI and ML technologies to strengthen the cybersecurity industry."
-    publishedDateTime: 2023-08-21T23:31:00Z
-    webUrl: "https://venturebeat.com/security/less-noise-better-signals-why-xdr-and-ai-are-the-future-of-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/database-encryption.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
     excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
     publishedDateTime: 2023-08-25T05:51:00Z

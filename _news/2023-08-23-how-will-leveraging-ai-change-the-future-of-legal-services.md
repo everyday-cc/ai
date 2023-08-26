@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai
 webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "ZTE to develop AI servers and AI Chips for servicing computing power"
+    excerpt: "Since the first half of 2023, ZTE has been signaling an aggressive transformation as a company offering computing services. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ..."
+    publishedDateTime: 2023-08-23T09:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230823PD211/china-zte-chips.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230823pd211_files/3_b.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "How generative AI will change SEO as a profession"
     excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
     publishedDateTime: 2023-08-23T18:28:00Z

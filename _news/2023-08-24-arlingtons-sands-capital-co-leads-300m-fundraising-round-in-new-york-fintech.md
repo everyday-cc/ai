@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Spend management fintech Ramp raises $300m following growth"
-    excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
-    publishedDateTime: 2023-08-23T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/43448dd6f0a8b8bafc7f342e4e09259e:5e8762bc7205758903985ac83204414a/ramp-founders-2.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Fintech Ramp Announces $300M Series D to Support Business Expansion Efforts"
     excerpt: "Acquired Cohere.io, an AI-powered customer support platform ... online lending, and other forms of Fintech. Join Crowdfund Insider for a freewebinar featuring two Regulation A(Reg A+) experts: Sally Outlaw ofWorthy and Etan Butler of Dalmore"
     publishedDateTime: 2023-08-23T22:47:00Z

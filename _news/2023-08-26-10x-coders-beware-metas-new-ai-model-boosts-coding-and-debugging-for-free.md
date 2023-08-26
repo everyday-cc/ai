@@ -1,6 +1,6 @@
 ---
 category: news
-title: "Meta introduces Code Llama, an AI tool aimed at faster coding and debugging"
+title: "10X coders beware: Meta’s new AI model boosts coding and debugging for free"
 excerpt: "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more."
 publishedDateTime: 2023-08-25T21:14:00Z
 originalUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/"
@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Ars Technica
@@ -30,7 +30,7 @@ images:
     isCached: true
 
 related:
-  - title: "10X coders beware: Meta’s new AI model boosts coding and debugging for free"
+  - title: "Meta introduces Code Llama, an AI tool aimed at faster coding and debugging"
     excerpt: "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more."
     publishedDateTime: 2023-08-25T21:14:00Z
     webUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/"
@@ -61,6 +61,6 @@ related:
         height: 359
         isCached: true
 
-secured: "EbkJRcGxobrivYILsp08G7iw7pySZKmqS92uKiD4JNO//ZrEgUC+dLJty4wete8cRkgmSUcKENUPKeB3Vpe2BAUXKWVae9358hTsNuLiyF+E1bw4pKbnMkB2JeMIMCcFBUoKM2Ape7HSSJrIa3iY6z/TH9eQ7hRnY+2v+Xhp2VR3ULgCdEo6X7RyUjaQexwIQ1EjY76XPdhrxfcrJePKNHsbcMTf5GY71TW6Rg8GWugREzUqEOzZ5sWEDNTzpB8t931jZLpcyzOkqDSzRIfezz0Qgg8us3BKso/IxGZgY7IsiJeLztztdDXpEoKvZBaD3jNWmMfSUOtd6IC7dwnmT9UMDLGQzf1udwqL3wFa229/KwONzJLyJgZW30lHTAOaezTz4AFo8oil+XaxAYh/qjMn132ShymdWWppFtlbLzopfsfJhfcX92Gu7hzeyHZf/C96MZCZmLSI1VF+21t6C0E14sAujW2IhSYHyZrcYLPtg0WEzxatBYYfPbmMbWh7fj9M7j8OnntzZ2AQm8ZAmA==;kr6scjacyicpgyzHxbzvIQ=="
+secured: "eudhiEgLPMYI9lXCL6lalebLLoyV/ihi7mf686M787IxCAE2nxvnzSMj+jTfFBIP+KbOR3jBylMOCq21sCLII3tfufeW8ZmVMLqZ+qoXplDV1hrj26HMrPsDhdXYiBRgpJIrZhF71vw/TxsJ6E+ZYODZ3sI0wjWeuCxVEPkBo29oLjpjkeu9CkiICFIPex0rk6C+OMo+PH5hpDIK2ffOhUKu/OIY9whoFqYjEj2i6g4vELYURy0Hp8d4i643GJ9MH31LXpvL8qs5GkBceqRYOXPvhssg8QF6kLBGWj4svcCJsiDgwChuHlTGQZ7Bng1ssvC6OW4iqMVUBO9M0mdvBmXK1JT2VXXgLnHoSyXBEm8=;TBavRCUlErih7HuQjEh08A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-al
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Resisting and reimagining Artificial Intelligence"
+    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
+    publishedDateTime: 2023-08-25T09:02:00Z
+    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
+    type: article
+    provider:
+      name: ei-ie
+      domain: ei-ie.org
+    quality: 39
+    images:
+      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
+        width: 1448
+        height: 762
+        isCached: true
   - title: "The Download: spying keyboard software, and why boring AI is best"
     excerpt: "Applying these technologies in high-stakes settings could lead to deadly accidents where it’s unclear who or what should be held responsible, or even why the problem occurred. The DoD’s best bet is to apply generative AI to more mundane things like Excel, email, or word processing. Read the full story ."
     publishedDateTime: 2023-08-22T12:10:00Z

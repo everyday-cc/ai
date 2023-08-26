@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-22T15:09:00Z
 originalUrl: "https://neworleanscitybusiness.com/blog/2023/08/22/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/"
 webUrl: "https://neworleanscitybusiness.com/blog/2023/08/22/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/"
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI Robots Poised to Take Over English Language Instruction for Young Students"

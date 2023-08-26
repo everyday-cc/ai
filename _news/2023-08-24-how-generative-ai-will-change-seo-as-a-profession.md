@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ZTE to develop AI servers and AI Chips for servicing computing power"
+    excerpt: "Since the first half of 2023, ZTE has been signaling an aggressive transformation as a company offering computing services. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ..."
+    publishedDateTime: 2023-08-23T09:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230823PD211/china-zte-chips.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230823pd211_files/3_b.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "m3LNBljEjSrRk1Zx9MLPGoUSJ0VZiN2p+opgkojXV3/nNyKlnZosXs2Brm34okpNzjsWQ7YSmb4MSftoqabFVfsCpFGZMxDckxsGUKTTJcqGqrH8JV30ryYQ49M4NhbRtR3Iim41kUUy6ptw5HVkz9WQ+hjWSQbBtdmGctqjzhdZcG8NlPlsca8U8ScjKQFiuZfYp516/TBEzDY7GhxCk8f3RzztQ+26V04oJZ3JJS/5XuAHlthY9OSZ1QHMyoO4XiI9239UsPMpViTamhKYE7EKgoDJ5D95ls1+rPzXCCyoPJjBncwyuh3ACHw3TtPKmg6BOcE7gJpFBn6ngQMaicCX+poWIJIxChjHu8Ae6lE=;p6aavJy24WL71olW4muGtQ=="
 ---

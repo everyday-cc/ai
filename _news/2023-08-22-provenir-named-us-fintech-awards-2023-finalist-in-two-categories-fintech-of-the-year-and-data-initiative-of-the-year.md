@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sends Team visited the Fintech and AI event hosted by the Google Cloud"
-    excerpt: "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ..."
-    publishedDateTime: 2023-08-21T23:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33975069"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Paytm eyes India-scale AI system; fintech investing to build AI-based software stack"
-    excerpt: "One97 Communications Limited, which owns the brand Paytm, India’s leading payments and financial services company and the pioneer of QR and mobile payments, filed its annual report for 2022-23 with th"
-    publishedDateTime: 2023-08-22T02:42:00Z
-    webUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack-11692629182577.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/paytm-eyes-india-scale-ai-system-ceo-sharma-says-company-investing-to-build-ai-based-software-stack/amp-11692629182577.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/21/600x338/pay_1692629810841_1692629811188.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "5 Best Fintech Banks to Invest in Now"
     excerpt: "Discover Financial Services (NYSE: DFS) owns the Discover credit card and has diversified into many banking services. Discovery Financial Services owns Discover Bank, which offers online savings, checking, money market, certificates of deposit (CDs) and IRAs. The savings account advertises that it pays five times the national savings average."
     publishedDateTime: 2023-08-22T15:55:00Z
@@ -76,6 +44,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Türkiye is on its way to becoming a Fintech base with its young population"
+    excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ0YTNiMmQtMTU0OS00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Dynamic Use Cases of AI in FinTech"
     excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
     publishedDateTime: 2023-08-22T17:35:00Z
@@ -90,6 +74,29 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Spend management fintech Ramp raises $300m following growth"
+    excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
+    publishedDateTime: 2023-08-23T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/43448dd6f0a8b8bafc7f342e4e09259e:5e8762bc7205758903985ac83204414a/ramp-founders-2.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Strong Buy Alert: 3 Fintech Stocks Practically Screaming ‘Buy Me Now’"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech industry has been rapidly reshaped by technology. The landscape"
+    publishedDateTime: 2023-08-25T21:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-alert-3-fintech-stocks-practically-screaming-buy-me-now-1032583795"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
     excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
     publishedDateTime: 2023-08-22T23:54:00Z
@@ -104,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10 Maps Showcasing Asia’s Fintech Startups Landscape"
+    excerpt: "To get to sense of Asia’s fintech ecosystem, we’ve selected some of the most comprehensive maps covering key markets including Singapore, Hong Kong, Indonesia and the Philippines. These maps provide an overview of each of these markets’ fintech landscape,"
+    publishedDateTime: 2023-08-22T05:39:00Z
+    webUrl: "https://fintechnews.sg/75467/fintech/10-maps-showcasing-asias-fintech-startups-landscape/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/10-Maps-Showcasing-Asias-Fintech-Startups-Landscape.png?x34447"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
     excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
     publishedDateTime: 2023-08-22T20:55:00Z
@@ -117,6 +138,48 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
         width: 800
         height: 712
+        isCached: true
+  - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
+    excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
+    publishedDateTime: 2023-08-25T15:58:00Z
+    webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/374bd6f34116a0319a2191326fffe442:fed74783d727da317e096f95c8a8699f/citi-rextie.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Future of Fintech in the Middle East 2023: Cloud connectivity at the centre of fintech innovation"
+    excerpt: "Fintech companies have proved that mass-market growth is achievable ... As countries continue to adopt more AI technologies and keep up with the digital revolution, citizen privacy is becoming an increasingly critical issue. This presents an opportunity ..."
+    publishedDateTime: 2023-08-22T09:11:00Z
+    webUrl: "https://www.finextra.com/the-long-read/763/future-of-fintech-in-the-middle-east-2023-cloud-connectivity-at-the-centre-of-fintech-innovation"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 11
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/763.jpg"
+        width: 799
+        height: 449
+        isCached: true
+  - title: "Regulation-focused fintech RTOP floats in London this week...Regulation-focused fintech RTOP floats in London this week via..."
+    excerpt: "Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published ... with Italy-based regulation fintech RegTech Open Project PLC set for a direct listing. Also known as an introduction, a direct ..."
+    publishedDateTime: 2023-08-22T11:56:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1024231/regulation-focused-fintech-rtop-floats-in-london-this-week-via-direct-listing-1024231.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 0
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTIyLTEyLTU1LTIxLWQ4YzkwOWUxZWJjOTg0MjVmMTgzM2MyNDliYzAwMzhiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
     excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."

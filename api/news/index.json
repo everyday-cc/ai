@@ -199,7 +199,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -244,15 +244,15 @@
       ]
     },
     {
-      "path": "_news/2023-08-26-meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging.md",
-      "title": "Meta introduces Code Llama, an AI tool aimed at faster coding and debugging",
+      "path": "_news/2023-08-26-10x-coders-beware-metas-new-ai-model-boosts-coding-and-debugging-for-free.md",
+      "title": "10X coders beware: Meta’s new AI model boosts coding and debugging for free",
       "excerpt": "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more.",
       "sourceUrl": null,
       "webUrl": "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/",
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -597,7 +597,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 155,
       "tags": null,
       "images": [
         {
