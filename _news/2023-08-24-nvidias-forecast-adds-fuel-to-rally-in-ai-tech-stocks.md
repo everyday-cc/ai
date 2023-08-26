@@ -437,6 +437,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
+    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
+    publishedDateTime: 2023-08-26T11:07:00Z
+    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Nvidia: artificial intelligence chip giant sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T03:19:00Z
@@ -471,15 +485,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "China keeps buying hobbled Nvidia cards to train its AI models"
-    excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
-    publishedDateTime: 2023-08-21T17:58:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/08/china-keeps-buying-hobbled-nvidia-cards-to-train-its-ai-models/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
     excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
     publishedDateTime: 2023-08-22T15:07:00Z
@@ -503,6 +508,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
+    excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
+    publishedDateTime: 2023-08-26T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-26/nvidia-s-soaring-value-excited-investors-top-the-week-in-ai-news"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 48
   - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
     publishedDateTime: 2023-08-24T01:36:00Z
@@ -682,15 +696,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How Nvidia built a competitive moat around AI chips"
-    excerpt: "Nvidia has built a nearly impregnable lead in producing chips that can perform complex AI tasks like image, facial and speech recognition, as well as generating text for chatbots like ChatGPT."
-    publishedDateTime: 2023-08-21T19:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/how-nvidia-built-a-competitive-moat-around-ai-chips/articleshow/102917968.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
   - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
     excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
     publishedDateTime: 2023-08-22T13:57:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Biometrics Institute announces online public discussion on ethical use of AI"
-    excerpt: "The Biometrics Institute is holding an hour-long virtual discussion on different aspects related to Artificial Intelligence, biometrics, privacy and ethics."
-    publishedDateTime: 2023-08-21T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202308/biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "ROC.ai hires senior researcher to meet growing biometrics demand"
     excerpt: "Rank One Computing (ROC.ai) has announced the addition of senior scientist Garrick Brazil to its Research and Development team."
     publishedDateTime: 2023-08-24T15:18:00Z

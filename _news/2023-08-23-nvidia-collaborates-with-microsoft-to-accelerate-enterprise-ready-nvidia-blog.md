@@ -57,15 +57,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 37
-  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
-    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
-    publishedDateTime: 2023-08-21T18:32:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 33
   - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
     excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
     publishedDateTime: 2023-08-24T19:10:00Z

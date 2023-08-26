@@ -65,15 +65,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
-    excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
-    publishedDateTime: 2023-08-21T18:32:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/21/ms-ai-payoff.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 33
 
 secured: "b5QsnyhyRbOhqRE7kJ5qrFU7mQ4zBB+QDxxeIddGZ9TMmHYiwopTx4mYtPefFeGY+GUqyAVkev21IW0PlBZSwfZQwISTUcc74VGeFlUVPz/HXdMp7l3//34Ry/ez+vUiTPCpzrqWUURljAJkQWrOXIHUQLoGh1jxPTNP4FHkfAiYsUCkCDA61vU24E9j5IfHyxgUy8VgYbEDxB53QYSQCahsD4y4YxKd4MC07F3qHQpJ3PVIZLi4cC4LUswFu1edFr4Z+ppMhsJLSHZgjVkj+RZ/V4RnPWADwipZYV0dHJWBhrTOkaa347utc6ac0ikYFdr5iTE0aCjUfFaeHnTwHlXIEWZYCZvJahTTHwVQxrvmsQsxZC2g2NChk98Jwfdf7lbbXqzMn17x+iBCmCwwp7imRQjBJvunMDM7OSE7sO5GOzgpCd61sW7hOIGHnLcu0oEQRaj870QZxC+nsNGa+yRNPPxBLKfxNu1y1aFjj1zLoG4X9ZKzlPho70Wy23BR1qT/q+UKjWhUsDBdVHi5Qw==;RvCTRK3wZM10iOSdxaUrZw=="
 ---

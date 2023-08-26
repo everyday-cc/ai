@@ -20,32 +20,20 @@ topics:
 
 related:
   - title: "Melatonin enhances object recognition from long-term memory: Study"
-    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models"
-    publishedDateTime: 2023-08-26T09:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273944470/melatonin-enhances-object-recognition-from-long-term-memory-study"
+    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models."
+    publishedDateTime: 2023-08-26T08:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1693040889.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-    publishedDateTime: 2023-08-22T02:10:00Z
-    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 32
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2023_08_47_00_2744137.jpg?width=1280"
         width: 1280
-        height: 750
+        height: 960
         isCached: true
 
 secured: "sLgyXEEQ/wM6T50jPaLJtz5pf39+x2MjJDIkPyW0ZsbCM8RrKym49dXIqtkCEOds0YeRSGbFMIdnKjdQ1JvsHvBA99hcaPVAjrRDHWkpWMGnapmpReF/fRFI5y8IKDy5/day/RYm+OPI9W8QWIwkhkx+7UdGY4TeslSRVSFC/Vm37sG/D/Q0YYSf9oNxTZfjCDCKrV7etrZ0zcmLWker7+VdLRnwU1wsHH+9viWFPs3SKJUXTZy64KsodAMETgyV9ppskEbWkpGGj6CS3S6/MYDWB5LJORontaObHdhb8yo9h7dvqHAw+jZPd0pB8KqZuIZAhaqoXsCLQijSL2tHIkI9+/N3CLKcyRTBHbZizgU=;bhFG0/IdQFZc0RxrcUbFUw=="

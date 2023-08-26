@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/in-a-win-for-humans-federal
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: ZDNet
@@ -28,33 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "US judge: Art created solely by artificial intelligence cannot be copyrighted"
-    excerpt: "Art generated entirely by artificial intelligence cannot be copyrighted because \"human authorship is an essential part of a valid copyright claim,\" a federal judge ..."
-    publishedDateTime: 2023-08-21T17:38:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/A_Recent_Entrance_to_Paradise.jpg"
-        width: 774
-        height: 580
-        isCached: true
-  - title: "The AI Judge: Should Code Decide Your Fate?"
-    excerpt: "AI emerged in 2023 as the most potent technology the legal world has ever seen. Perhaps more startling is the rapidity with which it is improving, prompting at least one expert to use the term \"compounding exponential\" progress to describe anticipated future advancements."
-    publishedDateTime: 2023-08-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/22/the-ai-judge-should-code-decide-your-fate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "B285Z/PT2DiecRdZZlWPxZs7thd//9nJNqLUkyVAnweTyMyDpfG9tNMtGlHH1WQogzbn3DH2QgBD0QFVG9tNzIodpknuXsjZWDyzolMws1TIzG4WUzdgmsoZO3mb7Z7htW9qRxkrpEyvyyz0MYcILVPH8S9vnpTluxdlGyj+HtCdWltYFBDxqIy82iLdBibFRia99fNqHgwwHfgY0ETG0gY9tPI30jasj/6DP/FUZqt7AnbTA8HiKakT0OkKRMOoV8R+vZpcHzD35piZe01iF0P0t+fu5FUpwnWA0Nbb5S09OHbONkynUOGDJddxYqKbNBQ7ncZR4jwru4Y7/M7tR0PvExF1eu6j+kqJgZOZOP2DMZ/pzX1JE31oGNORsP0KeraEpZDFKHXoK7dHXPk41jncw+gDHqdB3S7z7CniPPLtVTcBNW71oQbc3/A61BSPvHzxb0i0nXmjYAe+WcaPfUB0RjGShz8w6kzVjyU00b/GaQmhpicTNqcXRLjdF1WDrCSfS2N5K9BLOKbvwFmQzg==;n73Jujo2ZQkI9lPubVaabw=="
 ---

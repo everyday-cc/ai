@@ -39,15 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Apply fine-grained data access controls with AWS Lake Formation in Amazon SageMaker Data Wrangler"
-    excerpt: "We are happy to announce that SageMaker Data Wrangler now supports using Lake Formation with Amazon EMR to provide this fine-grained data access restriction."
-    publishedDateTime: 2023-08-21T18:03:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
   - title: "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler"
     excerpt: "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler."
     publishedDateTime: 2023-08-22T20:33:48Z
@@ -62,15 +53,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Explain medical decisions in clinical settings using Amazon SageMaker Clarify"
-    excerpt: "In this post, we show how to improve model explainability in clinical settings using Amazon SageMaker Clarify. Explainability of machine learning (ML) models used in the medical domain is becoming increasingly important because models need to be explained from a number of perspectives in order to gain"
-    publishedDateTime: 2023-08-21T18:15:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/explain-medical-decisions-in-clinical-settings-using-amazon-sagemaker-clarify/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
   - title: "Announcing the Preview of Amazon SageMaker Profiler: Track and visualize detailed hardware performance data for your model training workloads"
     excerpt: "Today, we’re pleased to announce the preview of Amazon SageMaker Profiler, a capability of Amazon SageMaker that provides a detailed view into the AWS compute resources provisioned during training deep learning models on SageMaker. With SageMaker Profiler, you can track all activities on CPUs and GPUs,"
     publishedDateTime: 2023-08-24T21:34:39Z

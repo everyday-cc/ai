@@ -43,15 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Apply fine-grained data access controls with AWS Lake Formation in Amazon SageMaker Data Wrangler"
-    excerpt: "We are happy to announce that SageMaker Data Wrangler now supports using Lake Formation with Amazon EMR to provide this fine-grained data access restriction."
-    publishedDateTime: 2023-08-21T18:03:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
   - title: "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler"
     excerpt: "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler."
     publishedDateTime: 2023-08-22T20:33:48Z
@@ -66,15 +57,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Explain medical decisions in clinical settings using Amazon SageMaker Clarify"
-    excerpt: "In this post, we show how to improve model explainability in clinical settings using Amazon SageMaker Clarify. Explainability of machine learning (ML) models used in the medical domain is becoming increasingly important because models need to be explained from a number of perspectives in order to gain"
-    publishedDateTime: 2023-08-21T18:15:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/explain-medical-decisions-in-clinical-settings-using-amazon-sagemaker-clarify/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
   - title: "How to install Llama 2 on AWS SageMaker using DLC"
     excerpt: "AWS SageMaker is a fully managed service provided by Amazon Web Services (AWS) that allows developers and data scientists to build, train, and deploy machine learning models at scale. It’s designed to make the process of machine learning more accessible ..."
     publishedDateTime: 2023-08-24T12:00:00Z

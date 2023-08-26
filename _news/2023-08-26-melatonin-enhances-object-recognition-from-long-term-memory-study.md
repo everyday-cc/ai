@@ -1,44 +1,32 @@
 ---
 category: news
 title: "Melatonin enhances object recognition from long-term memory: Study"
-excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models"
-publishedDateTime: 2023-08-26T09:44:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273944470/melatonin-enhances-object-recognition-from-long-term-memory-study"
-webUrl: "https://www.bignewsnetwork.com/news/273944470/melatonin-enhances-object-recognition-from-long-term-memory-study"
+excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models."
+publishedDateTime: 2023-08-26T08:47:00Z
+originalUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study"
+webUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study"
+ampWebUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1693040889.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2023_08_47_00_2744137.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
-  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-    publishedDateTime: 2023-08-22T02:10:00Z
-    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 32
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Melatonin improves long-term memory for object recognition: Study"
     excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
     publishedDateTime: 2023-08-22T01:42:00Z
@@ -49,6 +37,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "uShI9XW+Za1IHSYS39d4vB1YSr7BEjfRB3wTjeSbuN8JorcmKKkDAYEazoetAZwjHCaLzJS+8FbH6xoe8QigzJmSBACHqaa9q8LRjctENFQOugPkKGLgkntS7ALjvVQXolIeejkBJ/eefBAmclJVTm/E6e1gk+j25UqNKE9QhurlJAI7JwO/5f5V0toQxze1BYKXaTtXxBxAAFpJSv51CInm1xmK0kYNGAKxi7BYo2aGYv8ZGrWSZjidm296tN7EibUGa4/9qoB9oYyJuqvafQyxE6/NEesW2M/u3OdpxYZAHtq4bD0DIDtnkGCQi4geAgdiQ1hukKTcj9PFgDu4PXnH4Fe5HgXWHX1RkWqy0ag=;IE5e4ykvpU++C2YTuhykUg=="
+secured: "2xu1Rlm99NC6I6Lp2R7BslcXY7Fi0gOn/mBz8SdbG32H9i1I2j8QVvEWcY+Rt+/UUj28gl7VBjbOFXifzn1yR9PMZ+fU9EviuML81yuDNvy0soICQLDnFAizTCJu8eHGwdfHHCxxMw3aT+vOo/H96sCxI/zytyfhf8DFn4sBazZgZqrdWeXiYvdGhJWik3c/6loXFJBPIbjYPwffce6GLQOvwNaIL51llmrn3HZXi9FXv4hwDiwkEt+M0wqgLrDg1NXjExwkaorbwGMapUROUXkbTIARJsE8ljidIgW95B4mAJjXF/d9GZMJrUyIrbxA4nS2GAVvjz6vgZpcAMJk+kjn8a9r4FFvpw3mEcPb5ws=;FFNv/LckWfgh3a2iY7VdmA=="
 ---
 

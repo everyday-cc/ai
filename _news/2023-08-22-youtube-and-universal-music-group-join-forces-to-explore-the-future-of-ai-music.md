@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/youtube-and-universal-music-group-join-
 webUrl: "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: VentureBeat
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube is working on a plan to compensate artists and rightsholders for AI music"
-    excerpt: "YouTube announced today how it plans to approach the impact AI technology is having on the music industry with regard to its video hosting platform and"
-    publishedDateTime: 2023-08-21T17:40:00Z
-    webUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/"
-    ampWebUrl: "https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "YouTube and Universal Music team up to experiment with AI"
     excerpt: "YouTube is partnering with Universal Music Group and singers such as Rosanne Cash to experiment with artificial intelligence in music production."
     publishedDateTime: 2023-08-21T21:33:00Z

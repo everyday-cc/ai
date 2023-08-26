@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202308/roc-ai-hires-senior-researc
 webUrl: "https://www.biometricupdate.com/202308/roc-ai-hires-senior-researcher-to-meet-growing-biometrics-demand"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics Institute announces online public discussion on ethical use of AI"
-    excerpt: "The Biometrics Institute is holding an hour-long virtual discussion on different aspects related to Artificial Intelligence, biometrics, privacy and ethics."
-    publishedDateTime: 2023-08-21T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202308/biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Future of Global Voice Biometrics Market: Opportunities and Challenges"
     excerpt: "The Global Voice Biometrics Market is all set to achieve a Compounded Annual Growth Rate (CAGR) of approximately 23.48 during the period 2023-2028, a"
     publishedDateTime: 2023-08-25T21:47:00Z

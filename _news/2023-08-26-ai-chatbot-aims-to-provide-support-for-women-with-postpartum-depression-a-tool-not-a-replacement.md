@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Best prompts to get the most out of an AI chatbot"
-    excerpt: "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid."
-    publishedDateTime: 2023-08-21T19:00:00Z
-    webUrl: "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 47
 
 secured: "IMKVWAHBRk3FZD6rYsrTN2xhBATVhjHN/58qJ5yk14qOApPHufudYku30WQjDsCfTRoSfWvmVDGmrH4Gtv76hACCAquYLEM+DA09kTkYn4qVtC5+wffdR0ThG3XuaVCCUdTsSSbc27NxsBX0ZDk5PFwVULtlDRLybto/KCa/tQBrcJvDjLUeBEpXPDnh6Et7D6vnFSTQCjhN14lBCb603pASJw0OH3QNGr2Bto8f2GRV4wDQM3ePrBuE3kByg6L0gtJExIRB3ddyI+QoTYXdTEdIsBGjc6KOWMTlg1aqmuBwKlFTw3JgwBx9t+DzWVtK8hqP6kKkMFJamaYDny2wFCRk20sw90+ghoUFNe51rcJUOQuOVoht1L01QK5O+wHwzRwJWCtMgPCVqfQ30n9TtIkPNfEt2jC7kIoCUnRZEA20E/p02TwYawjA0iTz3NI85l917TdjMgGOA8Q0KTkUsN8lL7YAxd1plGE2R1QUYGGXCde7AesxDuoVVcxNqdDJL43uJtsbr4nhSyUmcH7HyQ==;uaN8VOdPDMmUr/IyISK76A=="
 ---

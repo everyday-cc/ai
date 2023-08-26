@@ -1,54 +1,28 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-publishedDateTime: 2023-08-22T02:10:00Z
-originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
-webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
+publishedDateTime: 2023-08-21T18:43:00Z
+originalUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
 type: article
-quality: 32
-heat: -1
-published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg"
-    width: 1280
-    height: 750
+  - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-related:
-  - title: "Melatonin enhances object recognition from long-term memory: Study"
-    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models"
-    publishedDateTime: 2023-08-26T09:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273944470/melatonin-enhances-object-recognition-from-long-term-memory-study"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1693040889.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Melatonin improves long-term memory for object recognition: Study"
-    excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
-    publishedDateTime: 2023-08-22T01:42:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20230821/4110824.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-
-secured: "NDKBGFQl76pMFdtVF4M525+6GRoNWNeHg8lGG0Qiay6Atiqg4FCDIYiiV8S8mgojfMPdejuLTOdq2an8h1ImHKbR8by8NitpIntECLlxDro29dbxel9gvAHDkOVnydD6ILLVieHOJcJvv9fxzzpl0MY79HcY+8v7mxos5BLovluT8evXd3KocWjmUr6GQMvtXYCIx/bEm3cZIZbr4xsL5mIMFeaKkpNtqzuQ8PS+hl52BpIk418uPWWlsV6GxRJuTOmAhbhnXGcMclMXlfZ3+9ks+XHgqcyj3t9uTzHzUn0ArgD0upBYQ88yh16hZ2n+9Rp3iDDDdXF+VaQBB3pAzQa/Ua6inAU9WeVRmTkRVQcI7Fok0ptHoz5iLVwqvweZW141ETbzsIGe7SDOERL1SauF9vdZyxjPY1ycpxeTi4zuOfPOLV9Z9zRLBf608oSCJsudK8Fdq6PbvZr9xIUYUhh3Lsy3Ge3VSWT7KCiSjgDrbeDmJZ+5HZZTHzW4DtN19Nd58KxO7DRzAWAHeQNtXA==;5wT7dfN3xKcOTEpipRjhBQ=="
+secured: "9woirlOLJLslqOQ2e6dF0w8OgiRVkGAxKkWNgoCFn3POD8Yj9nT1Oz88ZEdSVXiZO5GgMYfd8PERgl43oa5uQ+kO7vpIezYwwA9iB9l2H9a0KU9yYxWstJhV7uwW6G1spszI/bxcAOK4a9yJTYs+1m8Q+EKnH7hiV3MT3k1qa61AIbYSVJaqfAKKr/2r4ipMJN1FIpSIejhapJcKGA1xIn85QeLuHOwClvtxqAxTzz2WXmlMKPPIrL+9WLQaUrdq5F7Ovxxnf5HN+kluNUdQsZzV1/mfHfBcfpeSTIcUtqJYCSpR9NvToQ6GAdZ7IF4er5yZHoy8eKMeRS3/LXA1+Zwu0hlo3wq0kzgo/1hvV44=;/os4C6avxRSqFUAuXkSNdQ=="
 ---
 

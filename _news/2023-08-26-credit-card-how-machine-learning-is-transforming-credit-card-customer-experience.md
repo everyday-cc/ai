@@ -8,8 +8,8 @@ webUrl: "https://www.zeebiz.com/personal-finance/news-credit-card-how-machine-le
 ampWebUrl: "https://www.zeebiz.com/personal-finance/news-credit-card-how-machine-learning-is-transforming-credit-card-customer-experience-stst-250715/amp"
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-credit-card-how-machine-learning-is-transforming-credit-card-customer-experience-stst-250715/amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.zeebiz.com/sites/default/files/2023/08/26/257955-untitled-design-81.jpg?im=FitAndFill=(1200,900)"
@@ -26,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "gbZL3GrJdkM3hTVHZEjBzCBa6SWgwANcteTirMamJaoHTAxJ5uP+Onmiq5nhMeBUL05zuhqyFta1crQBxJek71aY7JlPyEms1BLvQo0rLaMQMveXKSrQQgSTme8JnTE5gl96HL0Vek60+0c6Y55Bvmfw6inVtrXaseFJ4SjOk2JIPu3cKVA8m1I15x+cjbghl1YMuIBusJskKrQmIC+LvB3caAP7ScAdXf2lkPBBZVDIhIZ37A5OBlcHwkdC1Gs/B0D3jJzmc7cVrsn+KtwTYWT8inowvPjlGF7i7A4IUx2u4oSX2khlm60pWTTZRBfFQ70hfiAVdBAVVPIjaRQWLDXKnL2paRfOFY1Mif7Di7w=;ieYJvAGeZvuMFl3WGYbQfg=="
+secured: "Vhd30YivBl4JICokcIKrcpq+hH5RV5BRbZLwjAzgEEIEL2b+YoQqNwodKJ8QCFBt0WmPoCTJWCQ3NzyFmn1BlPY9QzKT/fETKYShN8vQiharga34nOIcJw0/mgjhy5halbc9oTyr7ezZtEmsQYB2B9P14eqXqJOsJDVETxjKz/CWo4Qhln+DBQap919n405/b6rz3a5nutgtru+OgaJjAaZuo0oanAijo96GzZi2AODqON9bV3XFBR2wKIQBzp+BjvRY1U9LsJMwpMvnCxLTBe8ICHqc8Bvp8RJSmZmn66s0XwupkCA3FxK9b7RwE+BYc9AxKtkb2kR+MOq743jS+r6+nIiQxRgeGAxVvD3w8ITeuRHbs88IZvYKFF9HjtsUq3etAAJveJkuISWQUvNitsIDQDO0kPLXIYCVSMsCl8lSFdPKCRoSVQvBbH7UCVAFXNVLqmqy+gdBlred1mNOpFNUTPVuNJyiLs1/JA79TuzjZyJUQcw9i73FFdsN9N/QjYH08yc7jejjJmvy8bsB2A==;lEFGI26UVBhvY/9UMjorJg=="
 ---
 

@@ -66,6 +66,22 @@ related:
         width: 1280
         height: 718
         isCached: true
+  - title: "Artificial Intelligence in cloud gaming, emerging technologies disrupting the gaming ecosystem"
+    excerpt: "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence. With this advanced technology AI is revolutionizing all industry segments from healthcare to education to entertainment leaving no exception to the gaming ecosystem as well."
+    publishedDateTime: 2023-08-26T07:59:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-artificial-intelligence-in-cloud-gaming-emerging-technologies-disrupting-the-gaming-ecosystem-3223062/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-artificial-intelligence-in-cloud-gaming-emerging-technologies-disrupting-the-gaming-ecosystem-3223062/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-artificial-intelligence-in-cloud-gaming-emerging-technologies-disrupting-the-gaming-ecosystem-3223062/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 47
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-25T183741.134.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facial Recognition Technology (FRT) Statistics for 2023"
     excerpt: "Facial recognition technology is a recent AI innovation that uses advanced algorithms to provide simplified solutions. It is a security solution that involves identifying individuals using their ..."
     publishedDateTime: 2023-08-22T17:24:00Z
