@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34045931"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.reuters.com/resizer/Zxubc8zyLJMsxVKCRVNTDxfQQaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ORQBWYOUNMWBIRCUZWYXDVAOE.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The rise of driverless cars: Are they safe?"
-    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
-    publishedDateTime: 2023-08-21T23:01:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
     excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."

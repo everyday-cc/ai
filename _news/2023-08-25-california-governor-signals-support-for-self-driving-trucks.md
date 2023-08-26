@@ -52,20 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
-    excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
-    publishedDateTime: 2023-08-21T19:32:00Z
-    webUrl: "https://www.cbtnews.com/california-dmv-to-investigate-cruise-self-driving-taxis-after-traffic-incidents/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 19
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/13667262_081823-kgo-cruise-ax-STR-img.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "woMHZ0f7zMBEt32dGBFPsJOSRx5KJw8B7yBcAcvx7BmaVWjX9z1hI6wWO4doW76dyLW4cXEteJdlEeMDmX+/LgcUs1fcgZ74V7moXur3UxjertYLVoo0+kFnYxpSlVho6ppN3kmSuPwibzJAyEz0wo2i9AsoYFl/P7aXGT28VUpCwHCBwhYzXtWgSjYMydCT1Tg6an0ZJWdWvx4eMoC0WIXDqTmqbTXEHQWdq7u5APx3+eEPgqo5jlnEmSQlrDrOlAONRNas2CJ4+MbEqwrPhMzujI2OB4GDa45/e+Uc8hykovs1DjLeE99gns+q8RbVF5yTFYoL+4ip2IeMSp5KlPOYyYLVpYd41CrM9qY3ZTeYNtgOjoK7nhCCtseavLFNpBKVQi986xfVA9jQdzS+JZzrVPCoe6f6Hj4mXKcYOxvta7NL4ZV84gYaLkppYR4ca0Hby4j1pRk2E0b7brj+pL/EnSVjh7w7WphyTlrPDGdl9BCZMwYV1lnaPGlxxxE9OHAKaQtGa4eY90sqO2K7qg==;iEyynI0xdz1iEOvTZ6GSYQ=="
 ---

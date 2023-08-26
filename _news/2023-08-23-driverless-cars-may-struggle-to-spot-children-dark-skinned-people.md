@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The rise of driverless cars: Are they safe?"
-    excerpt: "Driverless cars are no longer the thing of sci-fi movies, with California significantly expanding their use - and facing harsh criticism in the process. The state of California has passed a ruling which allows taxi companies 'Cruise' and 'Waymo' to offer autonomous rides,"
-    publishedDateTime: 2023-08-21T23:01:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018903634/the-rise-of-driverless-cars-are-they-safe"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H_sB1RXc--/t_tohu-badge-facebook/v1680987168/4LATVC3_043_dpa_pa_221222_99_988767_dpai_jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EiLAsSXIGOTPgCm4zMoT1r1vfIV/wQhV1grdDywVz7CB80UbqkzaEwCREcRrDsN04IsilR+bdOi8VWoij5u5AygJe6r2v02q8ubPFf7ntDKfZlMAz+ZlRQftvZP18K+nkZauTZGxanjiRE3k1AiBfy+ZL5BmNjIDYgCLaArIIXW+BaAYyKwjEutUNVfP3UXggLfMFnBFRCLiwyblTlW5xvrB8JLJcZvZvb4CDBnF5kvfpzw6CExZE43mES22QIWhqbbW8ZC1YJv79GuIOtoRBy6zjt1ahr8qdwlZbrFFAjk05sEoIxxigkWj4ng9o9OHWc7h7BWvZ4aHdtcz2/DfTUNNIWueiXomvVWXZLz3U460Dn0PhNDeTxRdfA0lAfi1n1NNjTbK7J7bBcH9/vf8SCJSPx06JWYqpfnxX5Hn6Qbj1BG4WwXt/XqGOYWSfofi1Jqg7ZQD1RwvNEtdI2nUFo4nwoVB2a7GsiybSlSFvW6Vcy2MplVfPiAPcGfj/+nNcdNhgyK7DU7v97mqMJLZ6g==;ZjMTUaODjTGX1yKRF4uQ6A=="
 ---

@@ -1,28 +1,50 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
-publishedDateTime: 2023-08-21T18:43:00Z
-originalUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
-ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
+publishedDateTime: 2023-08-22T02:10:00Z
+originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
 type: article
+quality: 12
+heat: -1
+published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
-    width: 600
-    height: 450
-    isCached: true
+related:
+  - title: "Melatonin enhances object recognition from long-term memory: Study"
+    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models."
+    publishedDateTime: 2023-08-26T08:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2023_08_47_00_2744137.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Melatonin improves long-term memory for object recognition: Study"
+    excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
+    publishedDateTime: 2023-08-22T01:42:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20230821/4110824.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "9woirlOLJLslqOQ2e6dF0w8OgiRVkGAxKkWNgoCFn3POD8Yj9nT1Oz88ZEdSVXiZO5GgMYfd8PERgl43oa5uQ+kO7vpIezYwwA9iB9l2H9a0KU9yYxWstJhV7uwW6G1spszI/bxcAOK4a9yJTYs+1m8Q+EKnH7hiV3MT3k1qa61AIbYSVJaqfAKKr/2r4ipMJN1FIpSIejhapJcKGA1xIn85QeLuHOwClvtxqAxTzz2WXmlMKPPIrL+9WLQaUrdq5F7Ovxxnf5HN+kluNUdQsZzV1/mfHfBcfpeSTIcUtqJYCSpR9NvToQ6GAdZ7IF4er5yZHoy8eKMeRS3/LXA1+Zwu0hlo3wq0kzgo/1hvV44=;/os4C6avxRSqFUAuXkSNdQ=="
+secured: "1hqkOcBqce+EA708skqPX7N/qdAb30lNjiLigJALbzi2Mh8HCgmwf5wG9eGjp8g0qaFrktpzBtdpjzQlwaqT1bJ8yNz2Zfc8ll4qrIO1p7TUCxC4u1pjV7NWvbgJtD6cJK513CIJ/JnTLfxdOkmnJzMGDyg2iWmVauNUC76IDm0D/apAzgSYeyIX5h1lbEd9UnU9Px/AG+ErFPIBnCJKvUCM/r+4yNSAVnYot3OJr9labSnLdcKecUJLOXpfyMrahZ1imkqd1bFDvUjC2ZBzcbuqIh/RMAe3kuUgtVnSjhPhTn3wkGHp7mvQQ22eEUYa0YiUc0J30a8d9GZ96rOl5PgHi78AQLMspU3W55WMlZHnh/9713u0Df8hF2mecUnH21odvrPA0pb0yJUEdsNJbKVf0sZk1I5K7OCvZW5E2lUpD//6ApPOC2Mip0ZlnQWx1l/Jh6xuRXAX9eYQhONpYyJ4APNAKVqwe6+GE9x1HXEEpeLNysglP1zHyONpYqWa8kafsahnYIgpqIpwdmrrxA==;QPJCWE8jj2X9DZlRzakgqw=="
 ---
 

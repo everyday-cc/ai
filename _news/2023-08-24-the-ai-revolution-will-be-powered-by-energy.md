@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
 type: article
 quality: 89
-heat: 211
+heat: 209
 published: true
 
 provider:

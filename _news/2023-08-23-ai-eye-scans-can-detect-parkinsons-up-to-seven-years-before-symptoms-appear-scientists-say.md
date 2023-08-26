@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Scans Eyes to Spot Parkinson’s Years Before Diagnosis"
-    excerpt: "Using the datasets, the AI was able to identify very subtle signs of GCIPL atrophy in eye scans and, therefore, their increased likelihood of developing Parkinson’s. These markers were detected up to seven years before diagnosis of the disease."
-    publishedDateTime: 2023-08-21T20:00:00Z
-    webUrl: "https://www.thedailybeast.com/an-ai-scans-eyes-to-spot-parkinsons-years-before-diagnosis"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3375,w_6000,x_0,y_610/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1692644315/GettyImages-1370863518_pnmsok"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Eye scans detect signs of Parkinson's disease up to seven years before diagnosis"
     excerpt: "Markers that indicate the presence of Parkinson's disease in patients on average seven years before clinical presentation have been identified by a UCL and Moorfields Eye Hospital research team."
     publishedDateTime: 2023-08-23T01:07:00Z
@@ -48,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 29
-  - title: "Eye Scans Detect Parkinson’s Years Before Symptoms Surface"
-    excerpt: "A new study identified markers in eye scans which can detect the presence of Parkinson’s disease an average of seven years before clinical presentation."
-    publishedDateTime: 2023-08-21T20:34:00Z
-    webUrl: "https://neurosciencenews.com/parkinsons-eye-scans-23796/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 24
-    images:
-      - url: "https://neurosciencenews.com/files/2023/08/parkinsons-eye-scans-neurosicnnes.jpg"
-        width: 1344
-        height: 896
-        isCached: true
   - title: "Speech Accessibility Project needs more participants with Parkinson's"
     excerpt: "The Speech Accessibility Project is almost halfway through its first phase of gathering voice recordings from people with Parkinson's."
     publishedDateTime: 2023-08-25T02:57:00Z

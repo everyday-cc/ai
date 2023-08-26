@@ -6,9 +6,6 @@ publishedDateTime: 2023-08-13T12:57:00Z
 originalUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning"
 webUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
   name: bqprime
@@ -25,6 +22,6 @@ images:
     height: 630
     isCached: true
 
-secured: "h32sBgjp/xB+gW4A4MAj1RsQgj00CBssB7JJK6TVMW69ZV0m03VWFeKq4XyQ9KlU14YV9O0ZDYTWlZ4cqM6E5OT7b8xIfOwkk2S96gTovAtmzfCGi6lUo8QvlrJiPUZVpRkAHnjkivz+yRiS/KrS5p2RfKaTiwEpVNyNO8C7ga+n1wcB1y57JCutrm88F8DwFdsvnhbLcw8xaZ6qiHw0tEvpzCjQcvB6Y4Dq9ZyLSorBVUPwDldGNUQWWc/jw9SKK7uHAqzk2DKf4M1/OsfkyRP2OvMfFZnVbJnmhaqemf4berQSPOB2rPFzS4VZMJNgd/265yzol7AvuXgSY6lFJ9mW2PK0ZxO7YiH0JZfudBpOYHaMcmpbFU2sahNFIoH6bcJUnQg3qLGrVL11ji19sKvBO6IAdP6b9iUaDsc9VXNQk9Z5R5jOxHT0iQ/RrYwghDHplR6HsS9zhvcn6rArtBSQyVMtOhCiKkfNfG604Ivj0StYKfpTaubCVpHk8dTAjJGeVvpoyiKuqAmqjyO5gA==;shEcG/N5ImynsG+2eCiFhg=="
+secured: "RmNVAiOEE4zYVa1PEw0NcwfN9uMPklVQNKaYfmOFAVVSoKl5wjZB2ou53+PuX1kfp3XqZA3nLUK7fxKOM5Gl47dW3gQoONMynbCMIsNrqEZiQ5mXg/b5kF0rGZTfe+HCYoka5Qni2FdbEA0dDpdZCDZdohJahapcq0iQ4W6VCm804RNpa37AcXYGw7XSxx/2l8hRsm6ypHCXkGFZK/oybvwlyaesFGrK1pZ4SPOYVsBhS8Ny9H3N8Q7liKWi2gE2Po9asZ2IXuHm4RZaxG6739zC3nRjHTEaMQtYCl05bQFzqIGROm4+fsyWvJdiRdbtrHc9IDROgL5EDNGAX2soRzZ5G439ddG2k0paUndVFqg=;5iySbtJZtDJVg1rMWR9cjg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consultancy.uk/news/amp/35191/86-of-employees-say-they-n
 cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35191/86-of-employees-say-they-need-training-on-ai-changes"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 546
     height: 312
     isCached: true
+
+related:
+  - title: "AI safety and bias: Untangling the complex chain of AI training"
+    excerpt: "AI is progressing at a rapid pace. If we don't build safe systems now, we never will, says Intel researcher Lama Nachman."
+    publishedDateTime: 2023-08-26T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-safety-and-bias-untangling-the-complex-chain-of-ai-training/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "H5YCK1RJQnEohWndkdI6aIk0RJT4B4TrgOZ+6ghlb1w+bsI08Qlh88fIjg3KBQNNrHRh0Oyg2hUC2XCh5hevfg+yWaM1dVBFwadLeKbaY1+O2/Oc8sPY2Mn0Xi1Q2HSf5DYdtgF3xCcEsB7WP0UtaAgBGZBjjIArbjiFynRGvvqsPyU3m4tRmaEc5vbDqiyu2DbjNbHjd5VJxOwMQtb+XG1ISDIJpR6mhY9T6uoVfwi9awoOiMm9trnvOLUdEEcu+qJpApaxR5/gsXkB70O8gkwFKi8NKsuHoD536ePqY2FgRUFVWi1UmqWG64ZWZw/ktWuV/zm0Lztm/2fbe/pUo0qktiBJA+dfTIyE7fSnAEg=;rTbLaLw8lab0/OZkbx5ZOA=="
 ---

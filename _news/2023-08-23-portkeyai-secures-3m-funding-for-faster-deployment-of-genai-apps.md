@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Lex Lands $2.75M For AI Writing Tools"
+    excerpt: "Los Angeles-based Lex, a startup developing AI-powered writing tools, announced this morning that it has raised $2.75M in a seed funding round. The funding was led by True Ventures. According to the company,"
+    publishedDateTime: 2023-08-23T18:06:00Z
+    webUrl: "https://www.socaltech.com/lex_lands___7_m_for_ai_writing_tools/s-0083597.html"
+    type: article
+    provider:
+      name: Incubators
+      domain: socaltech.com
+    quality: 17
   - title: "Language model ops startup Portkey.ai raises $3 million in funding led by Lightspeed Venture Partners"
     excerpt: "Portkey.ai offers integrations with LLMs such as OpenAI, Anthropic, Langchain, LlamaIndex, among others. It serves millions of requests a day for innovative generative AI companies."
     publishedDateTime: 2023-08-24T12:08:00Z

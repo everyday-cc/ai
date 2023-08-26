@@ -6,9 +6,6 @@ publishedDateTime: 2023-08-21T19:53:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/998987"
 webUrl: "https://www.eurekalert.org/news-releases/998987"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
   name: EurekAlert!
@@ -18,17 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Researchers Validate NLP Tool to Extract SDOH from Clinical Notes"
-    excerpt: "An NLP-based SDOH tool has displayed significant generalizability, portability, and accuracy across two organizationally and geographically distinct health systems."
-    publishedDateTime: 2023-08-25T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-validate-nlp-tool-to-extract-sdoh-from-clinical-notes"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-
-secured: "zMv8pq6TmpipRWEnM0NUTn80GcP3NaWcsZgAQcgdi0DbXFQBhQg2RNmkCeZzRh3USAG8Uly6zU2Ysko11Xgv4SuwCgH0dED2jnptdFXke6yOCHV4fMlwNpjn87i3fk6vQd6u/32eQ7En5Bainx2t75q4BdE8GpXORnPasf717fNaJCyp54lMvN7SApNoyvXfKd/HPzpTw7B9CsiaegxRbQpaxgHE3IQNn+zetSbWCKzdc0hSdvRI26FkxoEgqxC8p22Ai2V9Zh1PnYUF0tJxh6CNeiUO7YKdD4WbpZLU2i1actoCJDWeBJ/uvkv7e/HHVp74pRm4hOl1kIc/U0Od7ij9Zfqxx/vV58hsj/0HHs8=;ZTm/b16Y377Xnah+rdyGrw=="
+secured: "UpKd2sINXvSZPzVEBj+jwxPA9WP+cVKnSVdo76+VZE6vNOFbtxiTmqB2oZzt6yN1YZM7e1ugzTRS10MibbLBNLGeEuXn5Kb3RBF1mOTmfr1wPybkmgMwYPKQthJ7px1LC5rjulOdwNpYVRZm7tX7shl3ZuydawW4x5Qvs1Biz7INOPJTbdBV7AkaLqjtpKdlXsKe+OP2LvxMYlQLu53/wq8j2ZnuDnGzsSSjhrL+DxMgZkcCUo/2uFSzgrVJFRIxw8ZwuN20Xihq+UAMv86LnajVaZ3ibg5f1xpg+QayS7c3vxyBPxZXdwOQvYjpsoEOJLudQk6nNPAHgRoIJmAJk+Q5d/9lK9AF8GcajS1OrCM=;U1pc9v8sL67Cal6CLoZxdg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhanc
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: devdiscourse
@@ -36,7 +36,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
+    excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
+    publishedDateTime: 2023-08-22T02:10:00Z
+    webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 12
 
-secured: "2xu1Rlm99NC6I6Lp2R7BslcXY7Fi0gOn/mBz8SdbG32H9i1I2j8QVvEWcY+Rt+/UUj28gl7VBjbOFXifzn1yR9PMZ+fU9EviuML81yuDNvy0soICQLDnFAizTCJu8eHGwdfHHCxxMw3aT+vOo/H96sCxI/zytyfhf8DFn4sBazZgZqrdWeXiYvdGhJWik3c/6loXFJBPIbjYPwffce6GLQOvwNaIL51llmrn3HZXi9FXv4hwDiwkEt+M0wqgLrDg1NXjExwkaorbwGMapUROUXkbTIARJsE8ljidIgW95B4mAJjXF/d9GZMJrUyIrbxA4nS2GAVvjz6vgZpcAMJk+kjn8a9r4FFvpw3mEcPb5ws=;FFNv/LckWfgh3a2iY7VdmA=="
+secured: "ZXK4r9v01PH/j36W0Pe1dfUJt5xGtI9a+6AJEJhZjddyLV17Qzu0Cg1TReIhKOlxWgplYnrrxGeLiCsY8/b9+Kw8UquD+4enj3+r+kFd+x9fGitamPq3gGv1xGklT/fDZMxiMdzX+eI7Z/xNxfDRqBvdHdPETxCFLrvVmx0/5KhZcXCuD6vhJ86r8SGZyow7r4LzF3zUQwW9ao9/UDOSi4PoI/UQzH/+PENreFsqVPTzPaAZGpCttrogRYGGsmSFWtr4dRNu+qKdI77tLY32H92eZn2IoZWgbnqwh2ioTugZGBJNTVFB7Ma5kScoCPqIUoztL3BQLomP8Eftk6aMitFgk05pQz6tcsLstPcKO/NSud+pTNBvk2+Jkf88RLNQEbFo1z9Hoj3wFTDD703NUpVtP0neOh/7t4T9+cPJKuprREZe1F6uky32uvTxlpu5jF+ByO3a2nW7RZDREC8I7RUqBuJ6Zz9mwMZWNaAR04evxtKfzeJWpZvPpUDk2cHJF8xIFakhlmrYJkecVTOR+A==;uzwZKoQsWyClVn/tuPdkGg=="
 ---
 

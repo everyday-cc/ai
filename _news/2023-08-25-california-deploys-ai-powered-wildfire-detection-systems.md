@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/firefighters-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/newsome_0.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "California DMV to investigate Cruise, self-driving taxis after traffic incidents"
-    excerpt: "The California Department of Motor Vehicles is conducting an investigation into self-driving vehicles operated by General Motors' Cruise."
-    publishedDateTime: 2023-08-21T19:32:00Z
-    webUrl: "https://www.cbtnews.com/california-dmv-to-investigate-cruise-self-driving-taxis-after-traffic-incidents/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 19
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/13667262_081823-kgo-cruise-ax-STR-img.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "Gqe5uvHlYuOTzEhlRF51MgPRq23exKgaUTMAyMiOGNDmgoo8A3xsMXozxoyzcw4rmiZBkzgSHXcdPRBYweDgaaI6/wZMW4suX/yu3JnzIO0fb9z4Dwtt8XBucYJ4B3+WBgJnd0/LyJYBCoAXYwxrdIBkPs07/uO/O+PDxufGjk7OhiljfOKvBAvcjPSyjojlwsKmDNinLFnxILvHG8yPjln9XWYCSG9ZCmwtBqUdkQ42flwmcgXoj41LCE2uDvWkBrGDWsg3Rtoy98B3vElBFVu2xHMdAzsHCWIqh3EDHgf0E1mVHy+R1fQCtfE7NqsKAMZjKVG9DRIoqPJRnzZ2feUtPBtSWdZibRpgaspD3uv+dRDkxALoWOddu4I58ugjnrDRGofRJ+HoexvnOSEl6b0Ae3Yv4DsWu6ZHa7ayBScAUgoQDcO5M09xyLXOnmfTRZkMkEWWdzR6E942EuF+tW8cHJrclC4+f+AU119cVD04kpuMbUcnO4ov5FQEW8pKC4l8mMZ6NMPO9s+v9+rl8Q==;3Xxbj9q8zCD3Rx1lvliffg=="

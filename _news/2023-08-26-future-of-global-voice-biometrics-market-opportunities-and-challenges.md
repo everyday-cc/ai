@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Face biometrics adoption hits another gear"
+    excerpt: "Face biometrics rollouts are proliferating for popular consumer products and services in many of the most popular articles over the past week."
+    publishedDateTime: 2023-08-26T13:57:00Z
+    webUrl: "https://www.biometricupdate.com/202308/face-biometrics-adoption-hits-another-gear"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
+        width: 2048
+        height: 1298
+        isCached: true
   - title: "Influential face biometrics group FISWG seeks feedback on 5 papers"
     excerpt: "The Facial Identification Scientific Working Group (FISWG) has published an ethics code and a guide to face biometrics to generate investigative leads."
     publishedDateTime: 2023-08-22T18:39:00Z

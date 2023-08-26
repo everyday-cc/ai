@@ -3,10 +3,10 @@ category: news
 title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
 excerpt: "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words."
 publishedDateTime: 2023-08-25T13:52:00Z
-originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
-webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/"
-ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com"
+webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com"
+ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp"
 type: article
 quality: 85
 heat: 145
@@ -113,6 +113,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "/YNnEtjdbq3P2aHp4/xwUzApwpN6giXTx1aX0ZUYWFsGz3DQaBc2FRQt271ig73fec5TvOz0FUbnTmFpZYF2w5nDImCZozIHjGgnY03kCLwMJo+JcFuWY6O31E0OnTp5gilwTgKkIb3mIXAtnNBVofDQlwti06EaZP61rxv36WFBu28RWERtnxn0OJ9U3jxLy5S7+4Qdm/YZEJyl9KvzvWoz10k3TLzuZWHCKxWxKY/5UoXjT/rB7slDaOhGZwohhS+FriGrmkYI58KEbiHh5MLUgDlFts6M9kyetCXsAXo0ZgsZopKCzNmGrTDx1aKgDT3XquX6XbF/VX3+AtaNBioDgwT9b9ry2HfA+ICCwWDgwu7zaTFS69zKD4aYmmKpo6Du7l9Uuuk5htgskG+O7LfSu0t/mmclE6p+VAp2vqawjAS3WlPc+pY5JIa1L195BkYVoyZoJ1pzMk/je48y79R0HDyXFNXCxH9L1lKg4IRpqc+1aj0ugXW2z85aeED6jBdde7UyJ/FyGVTYsXDMfw==;mcnwocsB7JSo4dgzQ8HQNA=="
+secured: "XFL+ESX0ACzN1WfjL0MilO7LcFQboGGyCIYLLEPIpbEh1l9ZXsivcRdckajAsTFqM6PK1utEpLApegUTEQ7pAf7k1IwWpR03zPcE700uNDxaQpUaNcpMrHHwQJf6zStOTFWUJInZ47ZBr0NmY4Aap9D5CbT6HJjaySz+8W5YpyrACLNyZ/TSDvaKnbj7qL3ryaVgvCoksKgHgBuFuvHcwzG+TNy1No1AMx0fdvIIUlO5u0PGhyzuJDknzbXxb4oxkT/T779LPT+AnTmvFJeNnWJSJe+Un+aejKN3RrM/6ytR8N4unJNUUAQ93AFY870SeZD2DnEMU2Qx18DRJGCIfoVrFPl4nHs8Vi/FSjGmcDo=;Qh4WCl3BS3uG9y4U2ULzrw=="
 ---
 

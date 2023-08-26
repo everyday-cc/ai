@@ -241,20 +241,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Nvidia earnings will be major test for AI demand, market rally"
-    excerpt: "Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?"
-    publishedDateTime: 2023-08-21T20:40:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-earnings-will-be-major-test-ai-demand-market-rally-2023-08-21/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/b3DhFPpv_5xaBf6dOzE7QEowHz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ2O4DP37NJL3I737M4ITFX6RI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Nvidia – King Of AI Becomes King Of Stock Market"
     excerpt: "Today is one of those very rare days when earnings of a single stock become a macro event for the entire stock market. Nvidia, king of AI, has now become the de facto king of the entire stock market."
     publishedDateTime: 2023-08-23T16:30:00Z
@@ -426,20 +412,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chipmaker Nvidia steps into the spotlight as a barometer of the AI economy"
-    excerpt: "But that could turn around if the AI gold rush was able to sustain itself and broaden ... noted Chris Miller, author of “Chip War: The Fight for the World’s Most Critical Technology.” “There’s no doubt the demand for Nvidia’s chips is ..."
-    publishedDateTime: 2023-08-21T21:39:00Z
-    webUrl: "https://www.marketplace.org/2023/08/21/nvidia-earnings-ai-economy/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 52
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1494623399-e1692648157559.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia: artificial intelligence chip giant sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T03:19:00Z
@@ -524,6 +496,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
   - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
     excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
     publishedDateTime: 2023-08-23T22:57:00Z
