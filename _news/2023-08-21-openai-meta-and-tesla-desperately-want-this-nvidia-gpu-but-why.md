@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/68744/opena
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
     images:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla.Shutterstock_4.jpeg?width=1200&height=800&fit=crop"
         width: 1000
-        height: 667
-        isCached: true
-  - title: "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?"
-    excerpt: "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 73
-    images:
-      - url: "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg"
-        width: 1200
         height: 667
         isCached: true
 

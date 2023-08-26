@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/08/23/1600x900/elisa-ventur-bmJAXAz6ads-unsplash_1692789504742_1692789514208.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Agencies and AI—how major shops are using artificial intelligence"
-    excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://adage.com/article/agency-news/how-major-ad-agencies-are-using-ai/2511196"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 52
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230815_WPP_MNTN_Wunderman-Thompson_Publicis_3X2.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Assessing AI readiness is paramount to execution"
     excerpt: "Without an AI readiness assessment, an organisation can end up doing proofs of concept and other initiatives without understanding why they’re failing. Assessing readiness, meanwhile, allows an organisation to identify any gaps in its capabilities and address them before implementing an AI strategy."

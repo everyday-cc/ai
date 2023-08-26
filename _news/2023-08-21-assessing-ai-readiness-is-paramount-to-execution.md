@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Agencies and AI—how major shops are using artificial intelligence"
-    excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://adage.com/article/agency-news/how-major-ad-agencies-are-using-ai/2511196"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 52
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230815_WPP_MNTN_Wunderman-Thompson_Publicis_3X2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "a23udgs6NRf0kQsXsu4sQTDftiEgXslXmjtbehuK6n4d9DdafOD1iU9OqDeDCxH3ne/rQ5TRlKN6QdSkI+5iO54ijSwMQIfS1PUF4VioeNyYqeSmEnda2UZ1A3a8RRa2BhOJ8gGczq+UhzAArSYL1fKw1iGh3RE6it6hVnAq3j0NnLJ+nlCAGDG+diUc/pWFEesZcwKNwgSvLW5lM15Do5Xjey5qf2IfqoREivE6Ac0J5H7xgv0MZc3Op0IrBcrMwVz9jyMcJMjb8ClSE6HkQVdznbsXELTcy31Riv4tDKT0Uy17bYp6TWYoADlfigGX/I23VCKjwCi7PhFopg/mqBrRmZho93BgcjKPCOdh2V6HqDdPbXZRnsQ4tT/yOM2Dw6oopk8LZeyIzmYqpL4LqSCFTPmbBK7zwKs2tinTEBITFTQ+6Iv06pbFInFIzFylssWhWATI4hNCrr/XTI6XsiLcjQrFDpzsqZDSlRHbeYvtZ0JlEbAbdvBf7HOBhcj9AIu8/BA2TxETGFMboHLavw==;4W4TH7jiHuL5qHyWW45xIg=="
 ---

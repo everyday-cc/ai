@@ -95,6 +95,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 60
+  - title: "Nobody can deny that there has recently been an AI revolution."
+    excerpt: "Peter Singer, an Australian moral philosopher and professor at Princeton, took a utilitarian stance and argued for the recognition of moral standing in most non-human animals on the grounds that they have interests in avoiding pain and experiencing pleasure. Of course, Singer’s arguments didn’t address contemporary Ais."
+    publishedDateTime: 2023-08-26T00:30:00Z
+    webUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/cats-4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI And The Evolution Of Customer Experiences"
     excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
     publishedDateTime: 2023-08-24T13:48:00Z

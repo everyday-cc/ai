@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -351,6 +351,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Meta.png"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Meta's new AI model can generate and explain code for you"
+    excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
+    publishedDateTime: 2023-08-25T12:30:00Z
+    webUrl: "https://interestingengineering.com/innovation/metas-new-ai-model-can-generate-and-explain-codes-for-you"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/25/image/jpeg/gfuOrbssFsY5eaQBKxkjjPGM5IMQkiJLtmNwW133.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Meta's new AI translation model performs speech and text translations for up to 100 languages"
     excerpt: "Read more about Meta's new AI translation model performs speech and text translations for up to 100 languages on"

@@ -46,7 +46,12 @@ related:
     provider:
       name: Publishers Weekly
       domain: publishersweekly.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
+        width: 447
+        height: 559
+        isCached: true
 
 secured: "00SHAXoxeXGiQ1SqR6x2mNI0jTqFlKXBthRLbaGh8w/u4jpsUb4Ve6fsJJVCWCrF4LKvbJ5DJ3eudvqwFgaR0Yrl3ayH9N8/NxaoEFDHp6Bw7uN9zdzW8SkiXV2Mf3q9K4eHO2JyukuceWE0EmdjL4rB/iEu81aeIr7+FsyBbjoXPqI/sYshFn06mWx/mcI2rWKxNNfklvqwZ28umvbR8bHZuxc8k0PkAkgyaGlK1xj65vrSs6KoXa8OtGqnSthc+u9UkRfepM5Ow1n6P/TmWcPDmjdMRhowJr2VUIXlxt5Fb9ltT1Vw/i0ntxIHOqvBtr4CR4OPF/HLSuts+Sb6kRt6GbqFDq7tDYPj/579lcZKwDkwKg8JaY8lrFx5RtZ09z8y7Mx6FSoPT5Et7iOimV1z6MBz5hJJaECm3uHYvaz+KlNPRElDnjKaq5zdZLl7Pq9udk7hZ8pezaZTEv05C8vPnhCrqAGOexzdPZHN77APviYwYimDi+zxhmG1v1n8xz/tCMbD1gPJ34z4CxOGTQ==;wU4xUAPUo+mlgoa1iqj4aA=="
 ---

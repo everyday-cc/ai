@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Phys.org
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can Google's Interactive AI Tools Transform Education? Finally answered"
-    excerpt: "As technology advances, Google’s AI Platform and AutoML empower educators and students to delve into machine learning, fostering data analysis and predictive modeling skills. By bridging virtual assistants with academic empowerment, Google is paving the ..."
-    publishedDateTime: 2023-08-21T08:44:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 76
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Aug/1692607126_okio.jpg"
-        width: 558
-        height: 372
-        isCached: true
   - title: "Navigating the surge of artificial intelligence in higher education"
     excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
     publishedDateTime: 2023-08-23T05:18:00Z
@@ -70,6 +54,20 @@ related:
       - url: "https://dailyiowan.com/wp-content/uploads/2023/08/USEAI-front-1-e1692819996951.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Above the Fold: Artificial intelligence and higher education"
+    excerpt: "Above the Fold is The Daily Iowan’s weekly deep-dive podcast into our story of the week. This episode details how professors are responding to AI technology. googletag.cmd.push(function() { googletag."
+    publishedDateTime: 2023-08-24T04:36:00Z
+    webUrl: "https://dailyiowan.com/2023/08/23/above-the-fold-artificial-intelligence-and-higher-education/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 54
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/use.jpg"
+        width: 2001
+        height: 1334
         isCached: true
 
 secured: "jQ1+TV2YZMD35Y7zEbMhSfP/IYJ2D9OO80cIwbfbwIHgWKcDxG+k+ggGcNQQ9xzqyM2sMOog8XHBo/BdH+rrGpXpuJ4M1U2XIaCWpJ0iBWvMsK9sBXHDRp6DSUqGcJRVN/PTgBIkzPP3kFQclnrudacpfabZSRzevybY5mOeAg7wUud3aZnipJAlHkx3v2EwyG1ZL+DEZX5hzX9ehFYApAT1pIkF3kXhjf7Z1Yz7RLat30CA9nssJIwgoexW4n1h9ScohZfImvNRl+S3LxTiMVlNq1Qy4S4zt+MnDFC97gzlZesl4x93mnylHnrnSGzuaXufI0M8YODcHp1hy8G3TuhogCc5BAD/65jzunZBh62CyEtl7ky4BFDgJ0orF0gkLOXSb43AAg7DiMwAgHfeAauJIWbDuBhinS+DGzoMx1VPaX/8DLf3jQ8oGxB1dziFj2ccdVvNYbtn3VrDHqACPZ5Ipao1z6uWtyOjI+JffAEi6p0Fq95UFhtRrmSEj3GZJYBUw+L6sQHc407fuK/qcw==;8u/MuEgPnTAr8rbUGLv9LA=="

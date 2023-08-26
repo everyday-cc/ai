@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/news/best-deals-to-shop-at-amazon-this-wee
 webUrl: "https://www.cbsnews.com/news/best-deals-to-shop-at-amazon-this-week-apple-airpods-irobot-roomba-robot-vacuums-and-more-2023-08-22/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "This week's robot vacuum deals include new all time low pricing on the Roomba j7+"
+    excerpt: "Compared to one of our previous-favorite hybrids, the S7, the S8 introduces AI-powered ... enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and ..."
+    publishedDateTime: 2023-08-23T15:29:00Z
+    webUrl: "https://mashable.com/deals/best-robot-vacuum-deals"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 64
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5C+Tn2gkh/iyHm7W3jHHLQNBZjT2+1Y+zniWZMXt2qGjFyNv4q/J3otVurU3o9sJtPeTIbwSa3iL+z1KCmWKw5oO9Ia4wMEtaTuf+rVE2X5jitSrQOmQSB/ExZustpwE4pNiCNmSP3to1RJh/Vkiv16NrIV/BtR1vODSihOqnFcBRk65vLHtGI0m95BM3Ky+IeWY3a6lVYF36mW/uUVySFG2mTnBVoc5KC55/Uix+EN71m0maTN8I160FcNWsIqkSdWlOGOlM4Q131i88ka9uz9l0+LOu2ouY55f+iH45wMK2FQnyRxq9m9YzT6e/REDUB2r0nORQAUCfChFYvFUggDfvgjyXv8uZ9/+gzeC7NQvwzPlpockEw1yURfKXIv8HAQTU7ICbT3dALM3eJIJxSrcWvBqWa7pH8jbrMcCSNbwsIOhEWRG8RDwd5jXlf4jWPMQLY5B2BTT552GB10VcN4E9r/tlgMZy8ri3VgnHKPFao0tQzeTIgdR6Z+rMP8ufKZRmAx/PW8gudqRPFsrtg==;j/OOMDoj4IwXd8RvJ3eTow=="
 ---

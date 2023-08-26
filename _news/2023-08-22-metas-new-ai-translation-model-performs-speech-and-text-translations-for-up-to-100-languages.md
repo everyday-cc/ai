@@ -367,6 +367,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Meta's new AI model can generate and explain code for you"
+    excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
+    publishedDateTime: 2023-08-25T12:30:00Z
+    webUrl: "https://interestingengineering.com/innovation/metas-new-ai-model-can-generate-and-explain-codes-for-you"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/25/image/jpeg/gfuOrbssFsY5eaQBKxkjjPGM5IMQkiJLtmNwW133.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Meta unveils AI model for speech translation between languages"
     excerpt: "The company said in a blog post that its SeamlessM4T model could support translations between text and speech in nearly 100 languages, as well as full speech-to-speech translation for 35 ... a flurry of mostly free AI models this year, including a large ..."
     publishedDateTime: 2023-08-22T14:27:00Z

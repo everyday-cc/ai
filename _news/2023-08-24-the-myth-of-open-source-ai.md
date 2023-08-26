@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "3 ways to upgrade continuous testing for generative AI"
-    excerpt: "As more CIOs and devops teams embrace generative AI, QA teams must also adapt their continuous testing practices to keep up."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705049/3-ways-to-upgrade-continuous-testing-for-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large-100929427-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How customer engagement will evolve along with generative AI"
     excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
     publishedDateTime: 2023-08-22T05:08:00Z
@@ -359,6 +343,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "0iMHaiDDxIei8eyHV2Rx5X5Bi+g1R4xMj6OJcPPCwc2tZqiQYuX8lM4/J07W9WDwJXYLdl169LBnHMU8OCSP3t4vtdqwE3oykUSw+9XWJlPMWmG9ThUaoun3tspFZ7gKAl0kJ05k0lrpfy8LmvtmdiT36WlAR3xOmfMpwhDUGjaK9GMx1vtTHs6ZQhi8mNWP53a2BGopHbuaS8Ehz8WYFHoRYVd8OvwhMthaorrfzkaiydLKH9qxzYCAklRB9e4WZFa1ylRwvjznukQsTCDORvHJ9RsNAZ17EK9a+h7PgZSENqBZ14cdwVXQEbTVNnq6SJKVzpwBCIABhLSs9mUOQwP6adNNa0QW6paNk1O4eFk=;BRPYlSHNjpi+9XmzeEoXAA=="
+secured: "XKM1ZJPxSdgRpaJ19Qg+QLVmtlW+81vuqx1OEBaCIbW9kClUavQUpLVSn7So2VVvyxD2yw4709ZBjExntj3X9i8JkbnMknu9LUt5Dh6jIelqvtQ9skWHTkaib7x0nqckrB4M7oPrpCx5SbqrES+l43m8sWpTdTi7ACNJs3xLqnOP42UihqeKqLPlccDq07r/BDFIxRwprv6av4wTdUcjNAt+9/YWJWiIyOloUeN7EcC/oS7/ZgXiPjbXnaojxxyStPnhTk+I75j1mq44CxN/PSsr7IiSCDfVCquw9Hntxru2tjDx1IvautCvRXA7bGEl8mH075bz5zkDzTLKVNRUn8AIwm/IvOE3nKAz79UN8DsAeDxljiCkOPk0Ls8tP3YTi9Xco9i93Hjr3FPxiRDPLs9NCwjnPld9jZ42b8LwyihXo2T20+Xnod4FnVvX7VIZGi85FXC6KIcIFaWU3HoYfUcZYSqo9uxPA+XxTURxDitEoL298ytzACzlaqBTX6gXbmpZ49OZ9aCZhBMNAzWesA==;vPCspYzN2T9Mn6k8NL+V7w=="
 ---
 

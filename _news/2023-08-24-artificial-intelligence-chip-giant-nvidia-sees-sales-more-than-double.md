@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-66601716.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp"
 type: article
 quality: 121
-heat: 781
+heat: 791
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power"
+    excerpt: "Trimming profits, delaying launches, begging friends. Companies are going to extreme lengths to make do with shortages of GPUs, the chips at the heart of generative AI programs."
+    publishedDateTime: 2023-08-24T09:59:00Z
+    webUrl: "https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/64e6438c5c3b7918a8e75f80/191:100/w_1280,c_limit/Nvidia-GPU-Chip-Shortage-Gen-AI-Business-1258367086.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
     excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."

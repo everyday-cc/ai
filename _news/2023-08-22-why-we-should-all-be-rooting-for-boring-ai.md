@@ -74,20 +74,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Agencies and AI—how major shops are using artificial intelligence"
-    excerpt: "As major marketers consider capitalizing on new forms of artificial intelligence, ad agencies see a rich opportunity to become mediators between the AI technology and the kinds of insights they can offer brands. Subscribe and get unlimited access to Ad Age's award-winning industry coverage."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://adage.com/article/agency-news/how-major-ad-agencies-are-using-ai/2511196"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 52
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230815_WPP_MNTN_Wunderman-Thompson_Publicis_3X2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Assessing AI readiness is paramount to execution"
     excerpt: "Without an AI readiness assessment, an organisation can end up doing proofs of concept and other initiatives without understanding why they’re failing. Assessing readiness, meanwhile, allows an organisation to identify any gaps in its capabilities and address them before implementing an AI strategy."
     publishedDateTime: 2023-08-21T09:22:00Z

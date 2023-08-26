@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cipia uses computer vision AI to empower driver-monitoring technology"
-excerpt: "Driver monitoring has become a critical focus of automotive safety systems as distracted driving remains the primary cause of car accidents. Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI."
-publishedDateTime: 2023-08-22T05:48:00Z
-originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
-webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
+excerpt: "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ..."
+publishedDateTime: 2023-08-22T06:22:00Z
+originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
+webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "wAm+Hbed0MFp6kuPK5m4Bf/o+0N3BXMQTH74TH4gAKY5Y/qUb3nHE1tccdfLGaX1qSllT/fjaYm94Jb6pJ3o6XidLnvopLPahSTJH1jWgmKsWzR/4dYhX7O+VGx1nLtNe70euBR9ygTIq9OdKoTrETJL8Vl+AoXYdWiNM7fhCAn8kxc7n+Pf3aVso2XlpKtq7eSdOxryvsH/4ewFIr7mrsW99RD+ZPR4dXotx1l5loVIl2FZxhqiho+12tXDAs2UK9wMwbnEWpCF8dfUXuc1IAAw0zz5hQRBhGMkL09BDYFAKhqDf6tcRiz6Dcbjh2IbbycexDoOwOEMBeep7br01qPnxr3i1YHi8fTrAIiGltA=;wy9CzyUliExQlN7mOrLAZA=="
+secured: "F8WsYmbZmpgF8bOFRjIz7kcDVPViA6jy2aJc7wtOJLZ2ZOKXFUEfXRD5iWmtk8goZocuGr2e9rKTtf8VcSb7j4H4CLAAJzMQ8mbZMpN8Ks2xdGX85gPzujyjg1lihHRnMCrNxKuQfIIlz2XhJMLuQkEScMVjeecsP74eEuo9D7HSnU65XKUHVDh61W7xg4rbDlqKzs9ymdso+r1SFSz4Aj3bJQsd4bj9CgLfvCDOROozXAiQU41nru0S7Jia18g3mktOfWUhDkxm/BoBc83JsrfnT5nC5lGt664GoCHP/DgMmAnbBpT47Ewqy0jqFPpPbeGfto3IYVBkBRjLY9yAGKvU9ERE4mZNZ0wWb4kuVp8=;WcvAyDsQbRKm1gFhaeWHwQ=="
 ---
 

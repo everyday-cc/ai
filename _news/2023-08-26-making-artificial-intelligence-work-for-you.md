@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-25T23:29:00Z
 originalUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
 webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
+    width: 447
+    height: 559
+    isCached: true
 
 related:
   - title: "Creating Ethical Guardrails For AI In E-Commerce"
@@ -45,6 +52,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "QnE74yOIDhvwfxCzEuDKK3txbui0tdmdglv9unwQ1UPT3U5J6vvAOpwW/i7IbDN+qwAwnzty4t1irmmHngJ+6ZMrAsXvExtQWDOSNPNjocs77KdxLATkA9Jpw+zjux3p/V3duPTJvJ5yWEECVxgLkBy/Xq6FhXVgcyygmvdN8BmQP5PzDh4wFTkuNdoOEF0cPdb4c3dvTdfAmZDHfWW7dk2OF2zk5GhX+faBGOwnMukAyBFbIMQio6ed3N2qnXPiNidMQyze/TPi5uVv7pYMY4gHd6bxdUdp9NtX3CPE04+rxlgE7HlmkV+uI+KlcZ5/nPiQ1T444x9yngN/M35yMImwtRENlgxBoivWkGKXH+OfpQ5wpF/raaBeG1cwtU+BjWwZsmg2eAt7Syph/HXTaG5HQ7c0JA5g0u+XitjJsch81Pk+CAeCwVDe9oTR4vE3sm4RjWN+PRGQaIXhz9wHkCvIi1L82RF/9HZRa7dcRAZMjMtwXs9wXDzK8BLyPQ2FMOMrCc8hxMbYrlGc95mcLA==;jWobWXvbyTBJW4N30AB1Aw=="
+secured: "SYcxkG/jBM9bk1n5mV2J1EdNJ/XuLHreMKZW11NSVBfrwcTQF56AcCf2SngGaO9sVBbBrqESnADL7sJlAzxUJS9Ycy2SBcJ/kaKaAEESD4yaga3XCR/sh5LxDzyNUu8E3b6YbHoh2hrgSZggQyJOLjq9nsWSTvnpssoiHqE3tZzjREaYFysNlh0aYDgL7O9AaFSqk3nPew5ht2Z5OjXvm/6gsXuxrXMQKSZFbESLj+0x6xQedeHRroS+t0V0nF21ReAzTwxe3HHQ6KfE9ax6APsdPH4TAlc5ac366/my2EyVUh3kvikeF42+PkNVWVxps4wlN9rFXcgDX6jwppXZsRNvy+VoScYkq4z/oOTQKjc=;ZS/KjYIfQQUBIVLa6ZhQcw=="
 ---
 

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s GPUs: Why are the hottest items in the AI boom in short supply?"
-    excerpt: "High-end chips called graphics processing units (GPUs) are currently facing a massive supply crunch amid skyrocketing demand, even as the shortages across most other chip categories are beginning to ease out."
-    publishedDateTime: 2023-08-21T09:00:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-economics/nvidia-gpu-ai-boom-supply-explained-8902197/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 73
-    images:
-      - url: "https://images.indianexpress.com/2023/08/nvidia-gpu.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "l9+7SY9oVSn62s1T5Ou++s55eFEaSqQ/bSR34wV4BJ5fFlh0+Lv/5JLjByZ8rAWlpKWf9vVZmWfcUic8TymiSGGtx25ncs7DYdWgP+eZa+rC3acgBi2NUT3qYZirxI2VQQvvVxrngDg4z55pD7wAsRVUAK3KhMBA33A1Z/ojh7EohgcFRDIaGTY3ymepTRrfaw2qEQqoyLdvE1x6Pc2mlrdfcoYiKVlZWEaDTFeYZ/Vr0foZinAIAfgzoQWaTDVU7U4bv0ZMxcLm6gBC/UJkDB/padT4vcOLRpC8UGGcRIUOa3SXqlL6Dk3TzPGJzLcXcPnGV+jelj8Z3dtArXNmlGsOOCJNjQ8XBo8Q3oymO7A=;6uPxxYumcJcqwwOY3RY0iA=="
 ---
