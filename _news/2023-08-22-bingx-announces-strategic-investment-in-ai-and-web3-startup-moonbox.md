@@ -18,20 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
-    excerpt: "Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup. Moonbox has a unique approach to reshaping the digital landscape. Licensed to use the intellectual property of most popular classic ..."
-    publishedDateTime: 2023-08-21T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458"
+  - title: "SAIC Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "Science Applications International Corp. (NYSE: SAIC) today announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to provide industry-leading services, resources and expertise to help government customers better utilize SAIC's secure cloud solutions in AWS GovCloud."
+    publishedDateTime: 2023-08-21T20:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/21/9867682.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/2190285/1920.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "CACI Announces Strategic Collaboration Agreement with AWS to Accelerate Cloud Capabilities for U.S. Government"
+    excerpt: "\"We are strengthening our relationship with AWS to enhance and accelerate our customers' cloud adoption,\" said CACI Chief Technology Officer Glenn Kurowski. \"This unique agreement offers our public sector customers more opportunities to take greater advantage of the benefits of cloud-based innovation by rapidly delivering migration at scale,"
+    publishedDateTime: 2023-08-22T12:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/22/9868082.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+IxQ2TCz5sRZ8yde3NXu5DYs2R4WM5W8HLsaFeVwLSjY4zLmuQdY74qnt3lGNeKPKV/JuQAo6lkjNrNH+1TnNx5WJdX1JP15TzOG4L2VfLpHUr7c6SwnQpsrmeLgsiQvgrVkHMm8Z6UVd14jLCWB57eMkaL0nQGQnLj93D6cBqQZ3s1QxDrkFdRIq2XUVXozOOPddgQtEJNWVpcqiHFU3rNq2wU89/GhF1O1AQz4hMDOnNu3ibm932kFr4mKWJCJdIwbTdawEdCo0E0pKsVYnVO3L3PWKxLfaflKnzaX4XZ5Vh05at5EcQreeAJ4ECbUsOSbMbvJmx+tA9jtkGL5pD04lcxat+DLpol9QV5QvmfxkpPp93rCBhlKQnfBMcFOEhvLkdaAl+c0fSdInoOoRNoMiZjnL2H0da60UKWdryvtHVP2j1YzNI4051j35bswLPQeJ8kpQX2vQpI3R06QK4N2Q/3rIcfbZJezLdS4WWpq22r8rj5QPA+Hxv7phHNrH0uwgqc/MzezQAGGn6iMfw==;OOeBXMac0nYUZk0jf7E8SQ=="
 ---

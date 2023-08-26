@@ -2,9 +2,9 @@
 category: news
 title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
 excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-publishedDateTime: 2023-08-22T14:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+publishedDateTime: 2023-08-22T14:23:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
 type: article
 quality: 0
 heat: -1
@@ -90,20 +90,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise"
-    excerpt: "As part of the partnership, Contextual AI will build and train its LLMs with the choice and flexibility offered through Google Cloud’s extensive portfolio of GPU VMs, specifically A3 VMs and A2 VMs, which are based on the NVIDIA H100 and A100 Tensor Core ..."
-    publishedDateTime: 2023-08-21T16:53:00Z
-    webUrl: "https://www.datanami.com/this-just-in/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
     excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
     publishedDateTime: 2023-08-22T23:54:00Z
@@ -142,6 +128,6 @@ related:
       domain: axios.com
     quality: 0
 
-secured: "SoRScgTXQGdTsPlhr5UReAFx8hWeJnjSipd6ZAMo1nEfzgHfKKfInIuOha7EZ7jj7HreRcOEsiuNQ/1OrMrnkO8yHia54IZVuqgr1w3lK6XxP8TbAkqlthsqB9lyON3uShXr1vp0mHj9b4AAYtdpzs7CxypyF5NaPYggb7FGiUS2xyBM3Pj77SZ6oLlDNg4uyH7YoE4/otxiq81kul/GgtA7EWjPVzwDeqq7lQXvLadVIiZWEqfL/XB5Lg/5JjH5d6rsgYxN6TASsNm33jhshmQt4/biaaUGLYpzodJMDpFBN8XUrUqKfc6Z3U1kZoufcZQ/SRyooXGcrMfK55Ywx+o91XWVFdP9iSc5Lm8KNAM=;I3tH0gLeBYLRbLsgYPyFeg=="
+secured: "Dve2mhLtncO07PbucCB18YPyF3zhsYesjRGxBUJQ2wgErkeEhLU9Wp+V6mLED2Prn4M9IvMzr87ZC/8/HqR4nzpcuY7aEbhISFfcD0JcGzjyjMwahpuvU8vR2KA5kQgFx1B+dj+uW1IAzRLNOPnI5kfAs8e1o1RvXPV6BlwhAXq5q8x5hcQ20l2Dp1rsqbo9A1ckLtRRkMYhqc01qFoJ3CAqVBtGs7z2GKiaUFSz4aPuFDO7cVN41KruLssNGZUlzo5CicWxwCkM9IB6jVDkm97vv4aQvq4kI55VZwzHVXeJ/bX6wj/6Dp6GitZFnNqLPa+z5cjVIjnQBD4/Im5AssFuD6kidjs3QfpzwLMsqjo=;NWycp8sbml/u8ZgfZotsXw=="
 ---
 

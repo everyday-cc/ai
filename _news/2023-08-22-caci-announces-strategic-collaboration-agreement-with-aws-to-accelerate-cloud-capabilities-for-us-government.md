@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
+    excerpt: "SINGAPORE, Aug. 22, 2023 /PRNewswire/ — BingX, a leading global cryptocurrency exchange, is proud to announce a significant stride in its commitment to fostering innovation within the blockchain and Web3 ecosystem. Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup."
+    publishedDateTime: 2023-08-21T23:40:00Z
+    webUrl: "https://www.macaubusiness.com/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 17
 
 secured: "g8Qhtj/C/3SR0BSOZq2mWVs+l/6qMszKjjgUm4CkUsWk0uBhuu6Ndy2D/W1/WelKpqZIx4wVR9MhaioCWipwWB4YChyGPFdwRCvy/OcJK5EE2mztZeaV+01OvhcX4jPxlbWcpwCcZHVHNuAQUg8y6QIMM6MP8gcZ+pR1m91Fqe/D30rAtM2sDu2KQY0uz27PmYlaYxCud7wSrgY/XAZzm/PI+JF31p5VXuB6bmBJkaglbGMDYoNy2JD/2HMqMaXkQjifAaClIQj1HQZiTmej1yHBKh1X8GXQdQohAQ06pEM4NFjqHgAe2hPHfYhhKmfmi9Fks8NfA5MVNawR5dZmHXU/3Nxu6+0j7ZLoK5hvSsI=;/D+Y/enuQeIA4FXm2VTLtA=="
 ---

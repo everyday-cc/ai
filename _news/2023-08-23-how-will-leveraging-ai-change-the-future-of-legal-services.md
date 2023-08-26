@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai
 webUrl: "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI’s momentum casts uncertainty over the future of the IT service desk"
-    excerpt: "Even so, models from generative AI start-up Anthropic are available for enterprise use off-the-shelf and through third-party services, such as Slack. As providers of generative AI models continue to release updates in beta and refer to tools as a work-in ..."
-    publishedDateTime: 2023-08-21T15:13:00Z
-    webUrl: "https://www.hrdive.com/news/IT-service-desk-generative-AI-impact-job-loss-user-experience/691366/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 32
-    images:
-      - url: "https://www.hrdive.com/imgproxy/3SuKnh_OQdkJKswp_ljOKPQhVd6zPlyt4rpAB8h5k2c/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDkwNzEyNzYuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "How generative AI will change SEO as a profession"
     excerpt: "AI isn't coming for our jobs just yet, but the industry is changing, according to SEO experts Britney Muller and Dave Davies."
     publishedDateTime: 2023-08-23T18:28:00Z

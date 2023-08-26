@@ -133,22 +133,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-    publishedDateTime: 2023-08-22T04:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IBM’s watsonx to leverage generative AI to modernize mainframe apps"
     excerpt: "Watsonx Code Assistant for Z is powered by IBM’s 20 billion-parameter watsonx.ai model, which is said to be one of the world’s largest generative AI foundation models dedicated to code automation."
     publishedDateTime: 2023-08-22T04:01:00Z
@@ -185,6 +169,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
         width: 300
         height: 235
+        isCached: true
+  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
+    excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
+    publishedDateTime: 2023-08-22T08:06:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "IBM is making an AI assistant to modernise old COBAL code"
     excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
@@ -233,6 +231,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "6PfG2/hFYp5ewlgnkWn7Vv5cS92rudA+saWMK5Unt8/GuNMCJP4LUzu6dTz9lkSvC70s1BBEQv5MUUFa58WYkwmetoTWVP13x5zTrpVrSgXk4BRs6xSRyAAZZzD82RCvDA4LA+RZcJBssYzYSeQexGp2973QsjrbtXkrrMTTiXQV7vAwcHMk2DykE5+kHAJ9a/sCti1W94kBKUasmjCGGYzAU3Z8ra4JIuCLbuqP597iIwr3qIaLJeNzTaKmbLpVjXAOEDgugQs0dfW0//PuBYglhuCdPP8LYkYhu32rmJFPmliBPmgnQmH+OnHZB7K8JbVwf4oHrt5slzWj8L7j3K/THEA7g3ofkKc4q2+rCOQ=;G8QMk3/wb7qy6SFBt+BfUw=="
+secured: "xg4u1+4+GHNa7F4yefgwNT7XDPgU5W9Rilff6xka068QVrmO4zcuP1uelGh+rZpKjbUXUvj790+wpsqKHy74nvMwtmIDBTeDTsPgfTqw2Xs4eL6PrNcCNVLJBLvvhlOQ0TawE3SGYg2wHX2YseAFeSGlzM5NvQBdVaFkrf7unL8o1Nt1aX24cCY1PnXrqfHBw8r0wUu+WFm8C4hfs7zW7oEJoRlJGN89v2f+9ceiNl7cSHvAxmPMotTC0yZUy3ag2fKJFTwVA6V8yxtVRhCbde6tDQv7qso+XZWjaMX3U6n2xVsnbBmdfEezpBoOt4kPgA/2ZcDz7s4nUyJ03T+77/kDyJaE45haH+OfYuvn1gQ=;e3nWw6ROWFkwo3ZiDvo/hA=="
 ---
 

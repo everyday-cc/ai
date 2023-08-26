@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/researchers-validate-nlp-tool-t
 webUrl: "https://healthitanalytics.com/news/researchers-validate-nlp-tool-to-extract-sdoh-from-clinical-notes"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Natural language processing to extract social risk factors influencing health"
-    excerpt: "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ..."
-    publishedDateTime: 2023-08-21T15:26:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/health.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Natural language processing to extract social risk factors influencing health"
     excerpt: "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ..."
     publishedDateTime: 2023-08-21T19:53:00Z

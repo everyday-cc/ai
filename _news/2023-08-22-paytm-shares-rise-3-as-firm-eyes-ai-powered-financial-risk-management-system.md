@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/market/paytm-share-price-rises-as-company-e
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/market/paytm-share-price-rises-as-company-eyes-ai-powered-financial-risk-management-system-17596341.htm/amp"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 650
     height: 407
     isCached: true
-
-related:
-  - title: "Paytm Scales Investment In AI To Build Artificial General Intelligence Stack"
-    excerpt: "Paytm CEO Vijay Shekhar Sharma said the fintech major is looking to build a full-fledged artificial general intelligence (AGI) stack."
-    publishedDateTime: 2023-08-21T15:12:00Z
-    webUrl: "https://inc42.com/buzz/paytm-scales-investment-in-ai-to-build-artificial-general-intelligence-stack/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 36
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/paytm-AI-social-.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "y+uHWJY97odVivqAsqBCO9OyHghx2jw1jW5amyiIB0EeZMtAzNdT8QhoESpJWZjS7W/jUw5PhNXfj5czR2wL7kNktzW1YHcM4TEF/Puuyf228aNkBJ79cdCQcNJM91W7D8NdCV8xA9RvyE5mPkyTzpR+PiMC0ElLWhigxsaIY9Kjdz3b2H3FjrxRzp/4XGGfmTWPzonmJ9l/98k5N4Vp8i8nUqEEvKSjLzKf4xEEjDEuvRMZ7gRh188Irwxacu1whtONbuSi1cEtkcqBRxqYbPe0xP+DOXaDAMNCCGRkeiQnduH9tiS5BQerTel9kAP/CSxdB2r4+K1VNu0LVnvKQh2OgN5JloLDWFhsnBy2+zCs5WpixoTIgcdQfOcZR0oR/o3qd+9494ApPph6H8WSkwW758EJfSzDmF7hcGVpbYGtLUMoFmAUo8/a3LMO/t2b+9NXYWlOYoB9s/DXJWTnOEbN76KJB6Cbz3MbtG05QjHAeae7JTHRgKrenctb8G6fehyv5kjjWrSDVR27z+dSDA==;dIhYNOvfNoDS/g13b2Wpmg=="
 ---

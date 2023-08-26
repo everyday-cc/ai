@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Millionaire-Maker AI Chip Stocks to Hold Through Thick and Thin"
+    excerpt: "When it comes to AI chip stocks, there are plenty of imitators. As a result, it makes it very difficult to know which ones to buy and hold through thick and thin. Some AI chip stocks are easy to identify as millionaire makers. The leader of the pack is Nvidia (NASDAQ: NVDA )."
+    publishedDateTime: 2023-08-24T18:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-chip-stocks-to-hold-through-thick-and-thin"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "3 Millionaire-Maker Machine Learning Stocks to Hold Through Thick and Thin"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We have entered the age of generative artificial intelligence (AI), and as a"
     publishedDateTime: 2023-08-25T18:59:00Z

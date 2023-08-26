@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-l
 webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Melatonin enhances object recognition from long-term memory: Study"
+    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models"
+    publishedDateTime: 2023-08-26T09:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273944470/melatonin-enhances-object-recognition-from-long-term-memory-study"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1693040889.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Melatonin improves long-term memory for object recognition: Study"
     excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways. (ANI)"
     publishedDateTime: 2023-08-22T01:42:00Z

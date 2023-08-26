@@ -52,22 +52,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
-    excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
-    publishedDateTime: 2023-08-21T15:37:00Z
-    webUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633.html"
-    ampWebUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Self-Driving Car Picks Up Passenger In San Francisco | Watch Viral Video"
     excerpt: "There have been massive advancements in the field of technology and not everyone are ready for some of it. In a video making rounds on social media, a passenger was picked up by a self-driving car. The clip has garnered a variety of reactions."
     publishedDateTime: 2023-08-22T03:21:00Z

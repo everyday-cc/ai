@@ -33,20 +33,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "A16z-Backed AI Biotech Startup Genesis Therapeutics Raises $200M"
-    excerpt: "A large round to a startup working at the intersection of AI and biotech is perhaps not surprising, given that the two sectors have led our list of very large funding deals this year."
-    publishedDateTime: 2023-08-21T16:47:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/a16z-backed-ai-biotech-startup-genesis-therapeutics-raises-200m/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Biotech_Privacy.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Samsung invests in AI video generation startup Irreverent Labs"
     excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
     publishedDateTime: 2023-08-24T17:48:00Z

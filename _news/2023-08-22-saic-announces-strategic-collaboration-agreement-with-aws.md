@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox"
+    excerpt: "SINGAPORE, Aug. 22, 2023 /PRNewswire/ — BingX, a leading global cryptocurrency exchange, is proud to announce a significant stride in its commitment to fostering innovation within the blockchain and Web3 ecosystem. Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup."
+    publishedDateTime: 2023-08-21T23:40:00Z
+    webUrl: "https://www.macaubusiness.com/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 17
   - title: "CACI Announces Strategic Collaboration Agreement with AWS to Accelerate Cloud Capabilities for U.S. Government"
     excerpt: "\"We are strengthening our relationship with AWS to enhance and accelerate our customers' cloud adoption,\" said CACI Chief Technology Officer Glenn Kurowski. \"This unique agreement offers our public sector customers more opportunities to take greater advantage of the benefits of cloud-based innovation by rapidly delivering migration at scale,"
     publishedDateTime: 2023-08-22T12:47:00Z

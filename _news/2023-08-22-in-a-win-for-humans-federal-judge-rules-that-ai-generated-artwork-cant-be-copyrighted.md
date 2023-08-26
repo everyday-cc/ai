@@ -46,22 +46,6 @@ related:
         width: 774
         height: 580
         isCached: true
-  - title: "Judge rules that AI-generated art isn't copyrightable, since it lacks human authorship"
-    excerpt: "A federal judge has agreed with US government officials that a piece of artificial intelligence-generated art isn't eligible for copyright protection in the country since there was no human authorship involved."
-    publishedDateTime: 2023-08-21T15:33:00Z
-    webUrl: "https://www.engadget.com/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
-    ampWebUrl: "https://www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/judge-rules-that-ai-generated-art-isnt-copyrightable-since-it-lacks-human-authorship-150033903.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 79
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7TXfRE2Oos4RO7f0RH4N5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/563c5cb0-9361-11ec-9ef8-b2b7d9850efc"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "The AI Judge: Should Code Decide Your Fate?"
     excerpt: "AI emerged in 2023 as the most potent technology the legal world has ever seen. Perhaps more startling is the rapidity with which it is improving, prompting at least one expert to use the term \"compounding exponential\" progress to describe anticipated future advancements."
     publishedDateTime: 2023-08-22T13:30:00Z

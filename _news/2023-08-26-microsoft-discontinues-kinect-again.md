@@ -1,28 +1,39 @@
 ---
 category: news
-title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
-excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
-publishedDateTime: 2023-08-23T13:27:48Z
-originalUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
-webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
+title: "Microsoft Discontinues Kinect, Again"
+excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
+publishedDateTime: 2023-08-26T08:25:00Z
+originalUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
 type: article
-quality: 105
-heat: 145
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: IBM
-  domain: ibm.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hackaday
+  domain: hackaday.com
 
 topics:
-  - IBM AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
+    width: 803
+    height: 452
+    isCached: true
 
 related:
+  - title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
+    excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-23T13:27:48Z
+    webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 105
   - title: "Microsoft unveils blueprint for India on AI governance"
     excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
     publishedDateTime: 2023-08-25T11:22:00Z
@@ -55,20 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Discontinues Kinect, Again"
-    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
-    publishedDateTime: 2023-08-26T08:25:00Z
-    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 54
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
-        width: 803
-        height: 452
-        isCached: true
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-08-22T04:22:00Z
@@ -79,6 +76,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "fml+/WkQndPFRq1lGfmbDpMyFZuTzn3Xkg/XCyTLe+sWCbaL2MDOXreiV87QitURI5BK/dLF88J62iyDtpXV6t74XM300SToe5FEN0a3GiteJOCfCtkphrxzyJflcBqoZdj49l2uocaSp607G4QeMqEAbL8Le/Rc6faiLJ2u/p7jBAoj7qc6k6O3lPGYd2HhkXZCmVpYHhmn1H7+mE63xSjlYqV+MVdg5crdgchyfppLFWWE7GsBp2ZAtkrUVECTYfzEL8EOCfULh50NYLxoSz8DKqixoNyKwxk3NY7HDCWIj6/tWSvGgTVXbHdEleNzxTOATuK8S//sKjNHonSbl+yEMwIG6QZTp4v3h3Z1zGo=;9nPYwRQ9GMgWdoz1tXsjVg=="
+secured: "ApW9VgB4u1Y2nH4kgjDFesYIRkZwNdSd4YuqQNUFu0vyZklgSDGt4XQqmP8ft4iHwxi0QJXADQ/jA/N2NEA8ItqyqFkpaXfm1kkMgglPB/Fjk2QNlkV23VK7kTIOTwhYCHx0uc/Ad0k3EVpY9MBMPmFKhaoYAUb7T/biGVIbOE+F5EA9E25R3ugQwpVa0j4uwfMZEtirBLhWPuLtOhryTtg1rBpYKT2LTabdbZazkkeA64nOnYJIXovVdc7EqpK1kZjVEal5Tu3U4VLxXMRZP22PslcFWhtTcofR3k9qk3tO5RkAAWSJjB29YujwbBpcC572PudkcCJGyye8JatG70yKnmWVWq/Bg6zn0YfqgDo=;as7K4KQ9gySgHnHhfU9kkQ=="
 ---
 

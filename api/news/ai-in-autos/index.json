@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-26-tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving.md",
+      "title": "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving",
+      "excerpt": "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "publishedDateTime": "2023-08-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
       "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
       "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
@@ -84,49 +136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-tesla-using-full-self-driving-ends-up-sunk-in-huge-puddle.md",
-      "title": "Tesla using Full Self Driving ends up sunk in huge puddle",
-      "excerpt": "The YouTube channel video is built on the footage captured by Ryan’s Tesla dashcam, and shows him passing one of those “FLOODED” signs one last time; approximately 180 metres past it, the car suddenly comes across a stretch of about 30 metres of highway submerged under still water.",
-      "sourceUrl": null,
-      "webUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california",
-      "originalUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2023/08/tesla-model-3-FSD-sunk-puddle-Mono-City-Ryan-.png",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/",
-      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/",
-      "publishedDateTime": "2023-08-23T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blogs.driving.ca",
-        "domain": "driving.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

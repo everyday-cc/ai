@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Discontinues Kinect, Again"
+    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
+    publishedDateTime: 2023-08-26T08:25:00Z
+    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 54
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
+        width: 803
+        height: 452
+        isCached: true
 
 secured: "UffVWqqtQTkSaXGJMZmCJOzioZjjduxsbrujSf6MrOXQOXhiOzEOuILmEz3npcqb7ubRrrKKq601w67jYNjf1Y4EqCnS955OSlYLp4zdWSfgP/5n+gJ8p2Z2enrKToPyOi57SEMv2cGDv50D55LOEaMcfhU/b+UamRglgOhmw0iqgxaf0xC5lJkobsmOSfdrb57v5dJm2ThkkRksFWGL0QovTEmBziJWFAnvsbH9Fg3xVEYEFzDuSi+dhNPcctvAzhZDZCrI0b8iSM2fU0M2e5i72OuzjtISQlLLCsf2SuBiwXHJRlYGxeML0EOSna32X5kp3AnZvPaGAhRQQuKnAAH+gkl+EOMeBYYeK3myKvU=;Ny/EuCBGAC+XQQso1Y6NWw=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Discontinues Kinect, Again"
+    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
+    publishedDateTime: 2023-08-26T08:25:00Z
+    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 54
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
+        width: 803
+        height: 452
+        isCached: true
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-08-22T04:22:00Z

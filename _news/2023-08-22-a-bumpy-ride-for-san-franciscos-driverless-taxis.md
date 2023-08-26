@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Passenger books cab in San Francisco, gets picked by self-driving car"
-    excerpt: "A video of a self-driving car in San Francisco has prompted people to post varied reactions, with many saying they will not ride a driverless car."
-    publishedDateTime: 2023-08-21T15:37:00Z
-    webUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633.html"
-    ampWebUrl: "https://www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/trending/passenger-books-cab-in-san-francisco-gets-picked-by-self-driving-car-101692606985633-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Self_Driving_Car_San_Francisco_Viral_Cab_1692607931153_1692607957916.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Watch: Passenger Books Uber Ride In San Francisco, Gets Picked By Self-Driving Car"
     excerpt: "Over the past few months, hundreds of self-driving cars have been spotted on the streets of the US' San Francisco. Recently, a passenger shared a similar experience where he was picked up by a driverless car when he called for a Uber ride. He shared a ..."
     publishedDateTime: 2023-08-22T06:51:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-23T12:00:00Z
 originalUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
 webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/ickVVIdX3.6zjSdu_qLbjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/e3ce8239c928a31795760eadf7a2fe18"
@@ -35,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 42
 
-secured: "HOxFv3wDJWFZZ63/FOSNKesM+LQjhCfrIQIK7F7P1n3jscpftBgceLqRuRiobhv3Ti4b4KtAWyN8wSreMpjLtW9Jbe0BIHcVkCEKn97t2oevq/ZZy8R5je1qvfH9C4t5X3YORxxaXT8TQ6nrvAmB2VDvy5AyfdaX5pfqwIl24fgUgwFoTWV6Z+K7iWphPhWPhE+MUi1AT4EavPuiPLc8I895GPcXa9AvEESaM58x9KHByhGdtS/u0YG1u1mWoDnvQNVTke/hwHI8vCe1zNkOjZNOodilcG1nNyblEUB8HHzANUJGLp6qWfXqDtOysZ2yFT5OJ3ayHYovL/PQZY/BShrG0iD9TEzyi7XdMYaUspY=;7JvqfNaRMahAgixurbIIMw=="
+secured: "c3sa1JBvn4fZsgIB+0+TduVnlWlrq58B+anF+Ie7r+PpLzuPvH39dNf1q1ygm3db0i95/IneXOA5r2ucBQ1WlYVKUI3UUMhbiCIFFB/urvQMFbmv5wbPf5GCBsm10EvoGal32jto2K4XLAulRYFonGBPg+ewbVobfwS8x62zec9KiPtd/HGoV+k0pp4NCTXgNZNACZtXs6L5a+8XtfT5ccHnV6w88n64JTxohUynrT4yHlrUvknRZGHEsuMUOAtbI6VqQLf52W/wHVME3KfrMkjK+PVm0PxT/t/0CLKIqp8eUwBk6VDJG84iNCzudBUNLKLYMKTUgAsMsIofbAMcQknIMLGcs42tcvuPFxyC0nBrj8Lx1eGWPnhyZe/N4VgzxiyHho54e/8eyc8F/eNIaxQZaUgj5FE/yjQT6ZJZrFCuKRNOwFo8ztvTjaIAJeE5we/0rJ2VIIE4LsRlz/dLXfNS7npnSjdtiI2D+eP13NRInZ2QVFHewvU6u3D/bJuVWiL+Op//Bcv27TqTFbcSUg==;mqPzBFVyf4N9j2tEpnyNpg=="
 ---
 
