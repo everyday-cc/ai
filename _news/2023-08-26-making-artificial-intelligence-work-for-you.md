@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "The Case For AI Investment"
-    excerpt: "As a cybersecurity executive, I’ve been knee-deep in generative AI for many years, back when models like ChatGPT couldn’t answer a word problem correctly, much less challenge search engines for supremacy on the internet."
-    publishedDateTime: 2023-08-21T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/the-case-for-ai-investment/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "E2gI8wzW5uwVyeDBm8a+stbSRi9tWMvcuS2gcD0VQhbRAs2iZD/i3iaEH2C3/ZRpzw5Qze+TOkFkT78eyVkvwbylEoU/AMycjPa8odLTehuLMvQJ9GNI1mUeJvIZpqvFFVDu5YVhzsJZY0vy6VJ8b7snllWuPekiBi61tnycWW22ylsd/VSbwvdo0tmVcZStYI9I4XacsD/UpEUe3z/twAyDE+5RWsLTjY5SnQmrKx8rZ1I3Mw9tCeEkpC+N/XfH7lnBZdl+WllAMyEZRAEYMRrxzNRjB8RvMqryunct0A9FjVz8PqcuL4/y3UJZSF8+O6NsDPiG4eteTVR88bo9g7f0up9TrXOd4ZGTaRhHYVA7LVsX40jlMu3aacdez9TRjtHPAp3AG7SDj1dGh8q8R00YSiekdGjXcyX9MTJoJl54njY4yfJYQUi3hwZ34iokpQ1IxPfUVOUSoz0+0OMCzozIFa8plxt5Zyir8VaLkZRL1pLJta11tZpW7si5vIOjljx/lkvV63ga96Ki+8GNAw==;5JJFpwAl3+xSqEmBcyemQw=="
 ---

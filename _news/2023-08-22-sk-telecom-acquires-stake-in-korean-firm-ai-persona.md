@@ -7,7 +7,7 @@ originalUrl: "https://www.rcrwireless.com/20230822/ai-ml/sk-telecom-acquires-sta
 webUrl: "https://www.rcrwireless.com/20230822/ai-ml/sk-telecom-acquires-stake-korean-firm-ai-persona"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "SKT grabs stake in developer Persona AI"
-    excerpt: "SKT revealed it will invest in AI assistant developer Persona AI, a move which will see the companies jointly develop AI products."
-    publishedDateTime: 2023-08-21T11:04:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/skt-grabs-stake-in-developer-persona-ai/amp/"
+  - title: "SK Telecom continues AI push with Persona investment"
+    excerpt: "Persona AI is a Korean AI contact centre (AICC) specialist that has developed its own natural language processing engine, which it offers via subscription to businesses that want to provide automated customer service. It offers AICC solutions both in Korea ..."
+    publishedDateTime: 2023-08-22T11:42:00Z
+    webUrl: "https://telecoms.com/523244/sk-telecom-continues-ai-push-with-persona-investment/"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2022/03/16114547/SKTelecom_MWC22_stand.jpg"
-        width: 650
-        height: 400
-        isCached: true
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
 
 secured: "dNsxAjY8yBdTcBGyH9TluCJDAl/EqAtDrGgWyxeiJdMf+OTyhKRyBfMggXXA7DBnA5DfSs/slAEP0kiXIGpbKxpSyTUvVWMil05Aor6vLzZoXIB8YeR3Anvia7tJp9bBgIeRkdaIx06QxZFG2qiYOk++lEmB1lTqwpWr+bzfLGy9e/SG6iXPKYXkpp415Utd/D0jPQ3afeAlnmksk1pcYBMHFNKixnl447SaHCDrJkfOLTL/cjyxCFY/ZByYDeAFjLID0FWln6rNaX7Sg7KWzeSr2Ef4o74zS7ZinO7eztxQMz6keKsQXZ/XTCdEBZxcQDehd/iCYJaBzjgwffZcq5vtUHbfed/i4e1d2u7zE/8=;YbiWvcgW8tdZiZyEyL6nDw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Google Tests AI Assistant That Offers Life Advice"
 excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
 publishedDateTime: 2023-08-21T17:19:00Z
-originalUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
-webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
+originalUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
 type: article
 quality: 19
 heat: -1
@@ -61,16 +61,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
-    excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
-    publishedDateTime: 2023-08-21T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/openai-mimics-google-deepminds-agi-strategy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
-secured: "JmfFWkDofd7FmDgx+DoU/vVQiB7m5Q9kdTaQ10mhlabZWazyQcmpRh4ToTa4CNz07JFwDez48RBYjgGKuv2tQ5CFR0EYtGxo4s/PZjJ+ef7LTtdhjTtPr5GpwGfia5S4r0RNQb7Wr3Ioxz1uV7vYNIWIj45zjrKNqwbQvK1/tcFg5XlzttFStlHJfz4uiQ0HY9tiFWxepaprQyipz5PJVqNys7GUPrGgFGbpTn1godJ13K9+7AfRQTkXW/WAlMO7S5okCGdEBaBH9qvw1/JL+7mS6wadmtZJe7Bd9z5F+xQ/hoDHN1KzLlODac5eCH7B/MZRRh2PdyBuYI82VsNzRZJ9OhErk55MTZc4rPZRGsjrvEtQpLICd/GciKXphommJ6XY9jEfjm1hUb35q6WL30pVvAt7TdPqkV+XBvQjkHZYMFdBOjxH7tnnWBY4yX8/nHXDRh5slP0MXn14KW7TBHgHu4ogicOXC6lAPreMJhVE1jgI+wN8dSmNqYmDxrtVKmrEsfj5saPs5T3rN7Qtdg==;7C5JZTKbfb8YYIP0vyB2TA=="
+secured: "nAqMZp0fZsw5vZCQbVR8WsEjinDMl7xbaG1yubN7FsB9mZbETJwc4tyQFN+kOw7Xpv5ctvrh2LiWTB6f1E6YuWbzDvLF1NJGcfzlnmCwuizytTHDC3qNmb4LHbw7b0QFXLkjTUI4W3IujROMVabFG0iuI4hIKM2jLQrR6Xb2xmYBCq9VtJeX3zE5+/NKNSU0l/kDYOZ7ZByljejSj4WhYcG/yxLa/7QLyVWtDx6/sK+pE6TrhLjVaM/ajaN9ihl2dpB3OQWP/+grdqHBCZBm1m+i9yBHET9GxQZ0xHABaHY0/9o/vzGeD8jq7VPFdbtWpVTt6AIplIQ1jIgd1gQtYWVWymtSEUP8gckzX282Zs6/gcf1WiVAUI8zSJ6zNDXRcc4AR2cjhDe2sOXh92vY/1X2VghSJ0Wx4cQC1p+f4+2A4BOpCc/KSjatRaT05jODbaRu0VE0Oztou66P3g7zs90H9WNnPfSl/22hjwF02bb0LTwQyI29slgwbutTY6bVgOYCplpAzE0SS2M/l7iZDw==;8PMJwS2ou50VuU3sR55cKg=="
 ---
 

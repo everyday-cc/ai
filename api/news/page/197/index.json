@@ -2,6 +2,57 @@
   "page": 197,
   "value": [
     {
+      "path": "_news/2023-04-22-the-secret-history-of-ai-and-a-hint-at-whats-next.md",
+      "title": "The Secret History of AI, and a Hint at What’s Next",
+      "excerpt": "Artificial intelligence is already a big part of our daily lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
+      "originalUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-768109/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
       "title": "We all contribute to AI — should we get paid for that?",
       "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
@@ -1142,49 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-merges-ai-teams-under-deepmind-banner.md",
-      "title": "Google Merges AI Teams Under DeepMind Banner",
-      "excerpt": "Google parent company Alphabet is bringing its Brain and DeepMind AI teams under one roof with the launch of Google DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
-      "originalUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/64410a99d52cf88103c4b88c_GDM_16_9-e1682073376881-gID_7.jpg@png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

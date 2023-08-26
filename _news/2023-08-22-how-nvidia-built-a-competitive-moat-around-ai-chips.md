@@ -466,15 +466,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
-    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
-    publishedDateTime: 2023-08-21T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "China keeps buying hobbled Nvidia cards to train its AI models"
     excerpt: "Industry analysts believe that Chinese companies may soon face limitations in the speed of interconnections between the 800-series chips. This could hinder their ability to deal with the increasing amount of data required for AI training, and they will be hampered as they delve deeper into researching and developing large language models."
     publishedDateTime: 2023-08-21T17:58:00Z

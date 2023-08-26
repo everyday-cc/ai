@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-ne
 webUrl: "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -54,19 +54,10 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI Mimics Google DeepMind’s AGI Strategy"
-    excerpt: "Interestingly, Sam Altman or its fellow board members hasn’t uttered a single word about its recent acquisition of Global Illumination."
-    publishedDateTime: 2023-08-21T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/openai-mimics-google-deepminds-agi-strategy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
   - title: "Google Tests AI Assistant That Offers Life Advice"
     excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
     publishedDateTime: 2023-08-21T17:19:00Z
-    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
+    webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
     type: article
     provider:
       name: acm.org

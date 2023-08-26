@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Cloudinary Brings Power of Generative AI to MediaFlows, its Next-Gen Low-Code Platform for Visual Media"
-    excerpt: "Cloudinary, the image and video platform that powers many of the world's top brands, today announced enhancements to its MediaFlows product, including"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230822128620/en/Cloudinary-Brings-Power-of-Generative-AI-to-MediaFlows-its-Next-Gen-Low-Code-Platform-for-Visual-Media/"
+    excerpt: "and many others Leverage Cloudinary add-ons such as Amazon Rekognition image moderation and Google Video Intelligence tagging Build workflows for metadata management, tagging, cropping, and other asset management tasks The platform’s out-of-the-box ..."
+    publishedDateTime: 2023-08-22T13:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230822128620/en/"
     type: article
     provider:
       name: Business Wire

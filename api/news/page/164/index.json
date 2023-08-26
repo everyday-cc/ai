@@ -2,6 +2,49 @@
   "page": 164,
   "value": [
     {
+      "path": "_news/2023-05-10-california-self-driving-technology-company-cruise-making-dallas-debut.md",
+      "title": "California self-driving technology company Cruise making Dallas debut",
+      "excerpt": "Driverless rides to public riders are expected ... The car feeds the data from the sensors into an artificial intelligence brain that powers the autonomous vehicle, giving real-time feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
+      "originalUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uggb9Ue29ctrJBzd_8w7AK3TbCs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RLN6N3FIFBF5JD43YIGOBH6IR4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
+      "publishedDateTime": "2023-05-10T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-chinese-scientists-reveal-shocking-brain-chip-that-allows-monkeys-to-control-a-robotic-arm-with-their-mind.md",
       "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
       "excerpt": "SCIENTISTS in China have made a breakthrough in 'Frankenstein' brain chip technology, with the aim of letting people control machines ... it to move a robotic arm with its mind.",
@@ -1126,58 +1169,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
-      "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
-      "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645b3eca0059191fb09c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "publishedDateTime": "2023-05-09T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

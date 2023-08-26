@@ -3,16 +3,16 @@ category: news
 title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
 excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
 publishedDateTime: 2023-08-22T12:16:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article278479764.html"
-webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
+webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Microsoft AI
@@ -194,15 +194,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 49
-  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
-    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
     excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
     publishedDateTime: 2023-08-23T13:30:00Z
@@ -222,6 +213,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "JbERQk21lzoCqOHcZtpfes3+jJra/FUlBJe+jW04guJDMz7JCzVwLUmuEips79P6VbQxgcvQdNXcQ+ge2ikG1dPxZTB9aLpPxUw20ckDJ/oVSRJUc3ZXRpbblBtEXFRRp6CiudGkci2TzsTeC40WlmbZ7ruY9CaYmzQN/FyjdnshOHmNvDpA6aWgrC5eR8+c+vBmtzWOKCL77I4Y+BGe4picE28e9xj1Wa5q6xM9/MMja3kUJmdqYPzT/hdVlGL/BuQdghcqKS2+vhAQam1TIPYpj58SMvz53Q7rUS/syEMJPA6/azsB9b6KR9mxNYU1Zh1C7dVrvt3CXFq3leCK9xI8MdeQBac5P3vo0UskMp8=;yRYXdiSh/Ll8XT9O434MxQ=="
+secured: "feDPG2edXqHoPEzhYT1UdZvYwM5tRQUyxjakumkFPsh9eJi95ITxLMzuwf6RP6SgeE7agqLQfR7uwHIBZH25aUb5L7WfuMUaFLQwWAQVLtu2dG5fLc/QDFCcApfz9ovOi6hwZqYPB6sWRTl0Metc0FJf3sK1Wq5RCovKa9z1bD3lD62sybvEOlXkYYqMjsbIdGSHSoEXFTCuke9xMii7JztdyYVZaDTMjcLQ4mCTXmCR+QGoR+rW3DlVYLLasa5nmk98IRPNgAuGZnxFyJRtYFoUSWKu7Ekin9qDG/NtbM0MhgF/z5oHqZgB0HyGz7nG++HtlhyL5YEkM/pQvjDZDpenjn066TbVUV1uyRHji88=;GZt0Dpoqg/1ye915NXiMQg=="
 ---
 

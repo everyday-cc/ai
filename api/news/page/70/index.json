@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
+      "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
+      "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/09/6330833102112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "publishedDateTime": "2023-07-09T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-amazon-prime-day-2023-is-next-weeksign-up-today-to-shop-the-best-deals.md",
       "title": "Amazon Prime Day 2023 is next week—sign up today to shop the best deals",
       "excerpt": "The two-day sales event is exclusive to Amazon Prime members. Right now, you can give Prime a test run for free. Newcomers can sign up for a 30-day free trial of Prime and pay the monthly fee of $ ...",
@@ -1082,50 +1134,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
-      "title": "How much should we fear artificial intelligence?",
-      "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
-      "originalUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5b8ca4e1-e9cb-4b66-8c72-4a322a16ee90?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

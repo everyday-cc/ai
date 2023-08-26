@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WiMi Developed Execution Platform for AutoAIM Analytics to Facilitate Machine Learning in Marketing"
-excerpt: "WiMi's AutoAIM implements ML in marketing by creating a real-time repository of projects and making implementation recommendations for ML in marketing. In this repository, users can learn, share and reuse workflows (visualization code)."
-publishedDateTime: 2023-08-25T13:59:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/25/9870317.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/25/9870317.htm"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed the AutoAIM (Automatic Artificial Intelligence"
+publishedDateTime: 2023-08-25T13:29:00Z
+originalUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
+webUrl: "https://www.cmswire.com/the-wire/wimi-developed-execution-platform-for-autoaim-analytics-to-facilitate-machine-learning-in-marketing/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
   - Machine Learning
@@ -20,21 +20,16 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Sagarmatha to Leverage Machine Learning for Expanded Analytics Capabilities"
-    excerpt: "With millions of shoppers on the company's software platform, Sagarmatha helps retailers transform data and insights into multi-channel commercial opportunities. Through its proven ML-based software solutions,"
-    publishedDateTime: 2023-08-21T13:10:00Z
-    webUrl: "https://www.grocerydive.com/press-release/20230820-sagarmatha-to-leverage-machine-learning-for-expanded-analytics-capabilities/"
+  - title: "WiMi Developed an AIGC-based Image Recognition System"
+    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that an image recognition system based on AIGC is developed."
+    publishedDateTime: 2023-08-22T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-aigc-based-image-recognition-system-1032572697"
     type: article
     provider:
-      name: grocerydive
-      domain: grocerydive.com
-    quality: 37
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1692605720/press_release/assets/header_images/Food_Group_Banner_1500x700_bwqtkk.jpg"
-        width: 1500
-        height: 700
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
 
-secured: "jbYCEgroFq/mmFspTQw4LHoTJYQvYxsk7OgmcQ34gefEzhkBYgeALatOV5i2XOlP+M84qZ/oo8rZfVgx+KlI1nR8HJFtZUg5DLkks7K+wF9BjUqT8u+eOs9KzBVGscUb8//sR9wq+lnOCyQ2ZaXfPGwko2pun+tazBplSkC/WHkYg9n+ojgsMj/3g2vka0ioVE7T143W/D9A7Ebm3aMv/2y5ZONu8uEFiQ3XMswGCOlM9p1yb6EbTfQP/39J65dgBA89FyKX7Jzf2O7EOQz8R5NmmG8dwD6k/mkzPWuedBi+HHPaafJlmFEU2CeI7UBImN18DBgcZixFpeVAGuy3lxkFaE8WZsUwIWXTTjvziAU=;DNH3Xu8HfMRZMT6GD38LnQ=="
+secured: "5edTGC5kV59/1/5gwZSu4h5ChByj2U1lB9QBuaJcxMuW49CnWf7j+KD/31CSj9gdDhjcgz273cwvdqsg4JEe6VSEz/wok/KkGEjDTjEQg629G74Atv9X9h31cBkmGlmLxfwzwACnNz3EDC1P9xLgKDVDPOsGyQ+nNH83Qq9M0kP1/1Hz02N8FMS5hY8nSJozo/D6lt/WS+IBLWUeBPAiSbFuKpl4iPHHnQKeewravlw9Y+DyPOlOEHfiuADRfUUdq+sLEsHFa4PseiyMenoLKQmjH5I2anT38Ig3oriy1BfcGK4Joo+pj+lEFD7KuOqAo4yZlPSpfz40cqK19cvzc66UJmbbKIlzzy6NJIRTGGM=;8jogRPfyj4J3y8Z5wBi70Q=="
 ---
 

@@ -2,26 +2,28 @@
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
 excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-publishedDateTime: 2023-08-22T08:06:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+publishedDateTime: 2023-08-22T04:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888"
         width: 1200
         height: 888
-        isCached: true
-  - title: "5 Ways Startups Can Use Generative AI To Build A Competitive Advantage"
-    excerpt: "Its use has already become table stakes in the tech world, and VCs are increasingly considering potential investments with an eye on how AI may one day impact the markets and segments in which a startup operates. Furthermore, incumbents like Salesforce and ..."
-    publishedDateTime: 2023-08-21T11:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/21/5-ways-startups-can-use-generative-ai-to-build-a-competitive-advantage/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "IBM taps watsonx generative AI to help modernize COBOL on mainframes"
     excerpt: "IBM is now using generative AI large language models (LLMs) to help bring COBOL applications into the modern era."
@@ -247,6 +233,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "eI5Y+H1t9CToujcHfdCtMddW8Ou2onR4u8WGl+Y7N5TazoQSJohEouKC+qkYHrlN0G+yy4NIpV3QPUXfgf5TxleUNAPXMKXiWxvDz6ZQEzHkdGyag3Lq69GukFNhaudd15xs8MVk3Ah1/Vib51QxZkmVB0tA9t6DLVtSJ2HTlzZx7x8q5rMFAq+tx62LsKK3AqqjHcWornxR6FGVRK3hB53GYiknmhN8oMzwD5YsicBZ7Ti44Q/sWUwRULrnED4nrIqKvx2vEFnItrw4ey3491WZvSt4W0NOTXE/GMCeqHZUohCslJeiXqjkscLBftW0LEEM5kYPO+a0tdkH61m+BIOo1u74rTgOys1GQSrBmVs=;N3Eov/pqniykTxVL8P+x9A=="
+secured: "AYfxcyokcWPRo3YNjdNr5kPUIj998a1coM9BDkWVCv9mfBbcXC4Lg6NqEOqthqlr+QfjffkLcCZNAn7VxxgydMtQyW9sJIRqf/VZPuw65lnM2HDJOGD/y/nbVnRQtcKpl5IseMTU7UYksWGE0TDvqCBX31UXzFQuS0hLGu+ERPjQ/9pUnSokSG7I8l0UkmxuBbp4zbWJDAgr7EqQ3bNnV5Kf3l3PjaVRqQLZIdRYgKfskIZkWckH5ETigMWWS/ymDmjLEq8pa6vK+qHqt5XEaXrUVvYOSKrN5YJX/O2GbeV3lNZgneq6NGUyBQoVeA6vCUazHQNxtMk/XfvKob4OLGPPziQCPkRW7s8t+ewB7m4=;p1gOLXUETL45m2g1seOxLw=="
 ---
 

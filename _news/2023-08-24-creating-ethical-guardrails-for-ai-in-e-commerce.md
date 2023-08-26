@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Case For AI Investment"
-    excerpt: "As a cybersecurity executive, I’ve been knee-deep in generative AI for many years, back when models like ChatGPT couldn’t answer a word problem correctly, much less challenge search engines for supremacy on the internet."
-    publishedDateTime: 2023-08-21T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/the-case-for-ai-investment/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Making Artificial Intelligence Work for You"
     excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
     publishedDateTime: 2023-08-25T23:29:00Z

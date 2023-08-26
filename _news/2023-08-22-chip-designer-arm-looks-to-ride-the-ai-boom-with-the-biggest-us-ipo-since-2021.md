@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/arm-semiconductor-
 webUrl: "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8"
 type: article
 quality: 80
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Arm IPO to put SoftBank's AI hard sell to the test"
-    excerpt: "When SoftBank Group-owned chip designer Arm files for a Nasdaq IPO on Monday, investors are set to hone in on a key question - will the company have \"exponential growth\" due to the boom in artificial intelligence as CEO Masayoshi Son claims?"
-    publishedDateTime: 2023-08-21T12:00:00Z
-    webUrl: "https://www.aol.com/news/arm-ipo-put-softbanks-ai-090056308.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "pWaZFvSLk7HV7nksL5e8RLE2dUgBJJUUsAu46eJmBAl0ivkf8TAqmnBAMlZr5M39c+tqIZuNzZSdJ8rgA/U7NaVrrahLbDdzHPoYgnMEoyW8FMzGHuKeC6VXgb1ws9ddqhjhDBUvBoFjslHor9gMcJwS3a04qt25Z5l3gwOzczF9zEeFkWHZmi1DucjLwfvBPcLzqElIBbi0pXa1SvoSl0HdGljOneA/UeKLYMKPzCER6qYv0cPimRTMeJo7T+QP8oiXC02WZfguhGPqDaMFSlOZ4/LinNcoO/ffRcvs6sKImrJPIts4x69NaEcqexoZ9besC1gChFWLenunHalMJG6fdcZZO4ht4x5Dn8V2P0Umfr0T/Ns6gkz4Z3Tk+m86C4Ke6IqdvIWZx7k0pIjDvur0THfDdvQcXVjzah1bbrK9yKB9yXhVRFnDw15YqbkYXqVfh0c1bFrgnH7Hm3kbx/C8XUErAkzD+rKH0x3C0uzeS3WOuGggL6Tmgk5n/aOQvAGpfXKpjslGNA81xbE5jQ==;vydSS1Aj7iGLDc/XNhrS9A=="
 ---

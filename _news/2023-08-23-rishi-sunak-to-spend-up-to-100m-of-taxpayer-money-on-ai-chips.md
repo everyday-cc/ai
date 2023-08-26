@@ -69,20 +69,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
-    excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
-    publishedDateTime: 2023-08-21T11:04:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/blogs/are-the-uk-s-plans-to-spend-100m-to-produce-ai-chips-too-little-too-late"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 51
-    images:
-      - url: "https://www.newelectronics.co.uk/media/vfipvhi3/investment.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HrDePkHkOolFe46Bq5wh8TBlmRLGqRq+shef7rT05oHAMgzNfRczZYg5NWrpCb9CUFtFfhSRFYW3RhiXZ+5tQ+vmKmMjKmTQRosYpEifGer06m0pvDbYU37xDz76n+99IxzFmRRzG+a1PJogYjgxGCV67XA3xY96tyR9xXdLf2Mmy3+IvmlZFVfE3sDcK92oAZCXT4w+NrOy2CVhamL+S85VH76sN11+Zcdh7ISM4QwQFo6Ng6wARyCQgs2pVqG3rSoZv/ZcaOA0x60E7X2IyWZFm34NXEn8+geEdEgYW9Qo5m9iLZjle0hqCQTUwseAAGUwkzr4XtD1sYRKXh/bpIZlpOA9AYpPo2eNxULOv8zSyk6qIbXdQwRLgmER4qhaidj7r0Zg6NjrFAXlrGCYp/pfOIPfeb1XhEH7w1YforGtXfO8ajiEKXPiezGo2FmCYclRU8BTxZsmS2dLwn8R1SBYtptc5voR6foxjRBKoVCN6K7gu+Oinpk14dftRcoN++c+Lfm+VcJSKX6MJ45Ccw==;stv9nOhB+GPDYOndgNG4+g=="
 ---

@@ -97,15 +97,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Arm IPO to put SoftBank's AI hard sell to the test"
-    excerpt: "When SoftBank Group-owned chip designer Arm files for a Nasdaq IPO on Monday, investors are set to hone in on a key question - will the company have \"exponential growth\" due to the boom in artificial intelligence as CEO Masayoshi Son claims?"
-    publishedDateTime: 2023-08-21T12:00:00Z
-    webUrl: "https://www.aol.com/news/arm-ipo-put-softbanks-ai-090056308.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "MQnCsz6NYghA8ZOAw0EJRj/Uor5r2f7Kb5HwkWcpdGm9iVBoz+dDtFTlm3TjXAgh8lKXwc0n7bKz7zK5vjoCWH6JrTYoTPiAAk7GPXlwifPbeLms1BOX5cjHsPTP0nK0aI+n6oFoxtRkQEoa3n/ywj06hk1Z8b+D3JVYwC0J1gzeTi00viAFP9lvEbn04/t54cQA51pvNcWYm6oeLwulP2UI0sz6dXLyoHSWOwHg6ldRm0gpG5XlEbo2s2HyObLMleAT4jP4UAfp+sJSM/31lP4b8Hx2mZuCy5dO8jKSxvs8W3ZVrH6iEfuxcbl5YdDYANO8KeCNh2c5zKDs4PazDVSus0iyUmRZQpgcQFzW5O0=;aaBloXQH2HKQFO+KaGL4EA=="
 ---

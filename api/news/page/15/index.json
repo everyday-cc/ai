@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-08-14-ump-introduces-artificial-intelligence-technology-for-enhanced-chest-x-ray-analysis-efficiency.md",
+      "title": "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency",
+      "excerpt": "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
+      "originalUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/Group_photo.jpg?h=252f27fa&itok=YgGwlpBJ",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
       "title": "Is Generative AI Destroying The Internet?",
       "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
@@ -1089,40 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-def-con-convention-organizer-talks-ai-and-ethics-with-soledad-obrien.md",
-      "title": "DEF CON Convention Organizer Talks AI and Ethics with Soledad O'Brien",
-      "excerpt": "Some of the most recognizable names in tech are inviting hackers to test their AI vulnerabilities at the DEF CON convention in Las Vegas. Rumman Chowdhury talks with Soledad O'Brien about the motivation behind this year’s focus on AI, biases in AI and the AI Bill of Rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/def-con-convention-organizer-talks-ai-and-ethics-18293570.php",
-      "originalUrl": "https://www.chron.com/news/article/def-con-convention-organizer-talks-ai-and-ethics-18293570.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

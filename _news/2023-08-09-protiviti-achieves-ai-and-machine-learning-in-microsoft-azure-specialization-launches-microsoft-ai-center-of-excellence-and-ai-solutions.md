@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
-publishedDateTime: 2023-08-09T15:54:00Z
-originalUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
-webUrl: "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI"
+publishedDateTime: 2023-08-09T15:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize"
-    width: 924
-    height: 485
-    isCached: true
-
-secured: "LXCNqNwwmyUaHNw451nNtR0bH96a5U00qxeGCkp3nO9W0FjHofNljOcE4ia9R7SNQ7MvPefy55hON47SHvcoycvzob7GKHxGBFmYuNpZedZeBe7YPhQuVoqaJGrP0qA5r8mM/IkNbqhvJQhwOP23A65CIQglMipKVbJ9cZsxk58Km1Jxo1sKp4L5rZgVUzr6oGJhe+mk352g9lr0ax9wQUHjr6UYxF41O9OrBB/1QT2lrfc/EL1q9ImzU3oiJ0MatrIG1PJ4Ee/bcqyg+sMd+W+y4JCOIRAn0EFU0z9nX/qBmEYGycwCCVMnNHLvPg7e/+Kt5Wp6/rHwopb0KUdu095RzY/XeMGG/jxB0UGRnrU=;CIVVxoVD6+hsEvm5ZLiYAw=="
+secured: "K12JIXI4ixCX/JWA/Cv23nr1c1C3MWgNvG8naQo9UfwkTtKYY6EOE3qTC+hNWN/6VqRDoamtxTnJgl6Oof466iN+DRhmz6kVWThdHcGDRmm094E7IqdaVlRnrgW5KwK9Phxp1KWE0DOrnONJclrlIq/BYurw8b5OX1mr950WsdrVL7/nQKaI7rumFw4jdAa1Fek+RWiwTlGMJWK9ct1InmPZzxTT7MVD1EDpdciUgsmj7utOca4V4R86BiewDbkxKM+fpaAJ4Aq8JzgMZ/GoAwqqRMg4Stgcz1lTL2H/yRKNOyAazf2Ge6Q13uJPdboWCIkPNJoufg2olHdHr3nLVkXW/pxB4qfKuYCOn+MptOdzsxKE9GfJVQEax9adFRDQ5tya42XTuynrb7lAbxwhwjTWIsXZzCFuNXyrHuDi4rB2p5mCLislXEWBh3QEOA40MXBldOylIitQ7ieGxjFg5O/F65eD923gRPn3Dro/x4TDwk06CnsSxttQF+cpliQMWd1jEttNLsmQ2yCSrRWiWg==;Z4pSRUj+EyadkMEi7sMRYQ=="
 ---
 

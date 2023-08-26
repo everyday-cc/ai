@@ -28,15 +28,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 32
-  - title: "Indigenous Voice to Parliament: Vote date to be set within a fortnight"
-    excerpt: "Prime Minister Anthony Albanese is expected to reveal the date of the Voice referendum within a fortnight, before the next parliamentary sitting."
-    publishedDateTime: 2023-08-21T12:00:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-vote-date-to-be-set-within-a-fortnight-c-11657204"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 4
   - title: "Australians urged to vote on voice separate to political parties by Liberal MP"
     excerpt: "A Liberal MP who broke ranks over opposition to the Voice has urged Australians not to vote for “parties” at this year’s referendum and rubbished claims the advisory body would have any extraordinary powers."
     publishedDateTime: 2023-08-24T03:28:00Z

@@ -57,15 +57,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 37
-  - title: "SophiaVerse announces collaboration with Hanson Robotics"
-    excerpt: "SophiaVerse has announced that it is collaborating with Hanson Robotics with the objective of facilitating innovation in AI and Web3 Gaming. The ultimate aim is to bring revolution in these areas."
-    publishedDateTime: 2023-08-21T11:39:00Z
-    webUrl: "https://www.cryptonewsz.com/sophiaverse-announces-collaboration-with-hanson-robotics/"
-    type: article
-    provider:
-      name: cryptonewsz
-      domain: cryptonewsz.com
-    quality: 34
   - title: "Results of Microsoft's Big AI Bet? An 'Additional $31 Billion' in Revenue"
     excerpt: "A $10 billion-plus investment put advanced generative AI tech into everything from Bing search to Microsoft 365 office apps to even Windows itself, with some prices rising accordingly."
     publishedDateTime: 2023-08-21T18:32:00Z

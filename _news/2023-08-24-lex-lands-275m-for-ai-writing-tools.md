@@ -46,15 +46,6 @@ related:
         width: 683
         height: 512
         isCached: true
-  - title: "An­dreessen Horowitz-backed start­up lands $200M for AI-based drug dis­cov­ery"
-    excerpt: "Genesis Therapeutics, a startup using artificial intelligence to design small molecule drugs, has raised $200 million in Series B financing — one of the largest rounds for an AI-focused biotech this year."
-    publishedDateTime: 2023-08-21T12:00:00Z
-    webUrl: "https://endpts.com/genesis-therapeutics-raises-200m-for-ai-drug-discovery-based-on-stanford-research/"
-    type: article
-    provider:
-      name: ENDPOINTS NEWS
-      domain: endpts.com
-    quality: 13
   - title: "AI drug discovery company Genesis Therapeutics scores $200 million in new funding"
     excerpt: "A Stanford University spinout, promising a new era of AI-guided drug discovery ... Genesis has no clinical data – in fact, it’s not officially saying yet when it will even start clinical trials, let alone which conditions it is targeting – but ..."
     publishedDateTime: 2023-08-22T15:21:00Z

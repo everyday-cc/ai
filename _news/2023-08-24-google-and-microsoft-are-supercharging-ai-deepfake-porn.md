@@ -189,15 +189,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 49
-  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
-    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
     excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
     publishedDateTime: 2023-08-23T13:30:00Z
@@ -210,11 +201,11 @@ related:
   - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
     excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
     publishedDateTime: 2023-08-22T12:16:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article278479764.html"
+    webUrl: "https://www.newsobserver.com/press-releases/article278479764.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 29
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
     excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."

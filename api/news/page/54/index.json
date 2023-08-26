@@ -2,6 +2,59 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
+      "title": "Three Career Choices That Will Not Be Impacted By AI",
+      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "publishedDateTime": "2023-07-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-nick-clegg-defends-release-of-open-source-ai-model-by-meta.md",
       "title": "Nick Clegg defends release of open-source AI model by Meta",
       "excerpt": "Head of global affairs at Facebook owner claims AI’s development is running behind ... which will be free for research and commercial use. LLMs are trained on vast amounts of data and underpin ...",
@@ -1112,58 +1165,6 @@
         "Microsoft AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
-      "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
-      "excerpt": "IBM may be hitching to the AI bandwagon with WatsonX but analysts are more interested in Big Blue's growth at Red Hat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "originalUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-375235/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "publishedDateTime": "2023-07-18T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

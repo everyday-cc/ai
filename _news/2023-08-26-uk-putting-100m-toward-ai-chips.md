@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 webUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/s465_Rishi_profile.2e16d0ba.fill-1200x630.jpg"
         width: 465
         height: 246
-        isCached: true
-  - title: "Are the UK’s plans to spend £100m to produce AI chips ‘too little, too late’"
-    excerpt: "The UK government is planning to spend upwards of £100m to help with the production of computer chips from the likes of Nvidia, AMD and Intel which are used to power artificial intelligence."
-    publishedDateTime: 2023-08-21T11:04:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/blogs/are-the-uk-s-plans-to-spend-100m-to-produce-ai-chips-too-little-too-late"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 51
-    images:
-      - url: "https://www.newelectronics.co.uk/media/vfipvhi3/investment.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "2oFnRVLxfcIDMYFYQFVSMFq8zXqEVUTvcQLgX7e9EQSJfvrS0bhSgS+2da+oSuy4U1jTolkItCgyLYh1jFZzmIpMEw5DDNsozP5Y2C1cWvd2JShRj7XGtp6kwZfTjBzcGKDGy100Sc6etyi+7kTbBeWUqpb4fYxkfMIgL1YipNOIuTZSOxfQZLDLHnJYglq5BZ6FqnT4Ks8Ys/PK8MkwAbg7hp+M+vaKW0NYFKHJNGRT0EvLpJESuf2C053dqggv4xtXikbhqSDPyPhlc9SzyhyS2CtmnrUvprigczHGRAapisbO8Y0u2zQgaIVmsXn/ARMEZBHZFAyFk89TntPPqenFbcQ+XQneqtGP+fNhGWc85khfTdmmxdZKaD4zxFR98gsS6ABZ+rIYBlMxWTHoGMtsdlTmSFKHz4aKYhI0VthKhGNg6a1mmN1QCdxWEr+IBDZ6QBnlaYc4Hf5p4v/8CRPb7vCJEMjs5eRb3eywqdAKjiwrLJLT+bTTaNf2Q9rj9OOzTzieF4DjO/xXfIugaA==;T3AaupUjdUoP5FOo6kfILQ=="

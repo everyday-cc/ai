@@ -97,15 +97,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 16
-  - title: "The Editorial Board: Facial recognition in schools shows itself to be an unreliable technology"
-    excerpt: "So far, the Lockport school district has no intention to revisit the notion of facial recognition and, given a recent report, let’s hope it stays that way. A New York State report stating that the risks of using facial recognition technology in schools ..."
-    publishedDateTime: 2023-08-21T11:32:00Z
-    webUrl: "https://buffalonews.com/opinion/editorial/the-editorial-board-facial-recognition-in-schools-shows-itself-to-be-an-unreliable-technology/article_84b1d47c-3d41-11ee-b093-8b420569cd5b.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 9
 
 secured: "Ff5MuxtAW5YXtGIt+n1vPA7LaFFCjPwXrzxPx+uMvsJDyjjiN2eDnSn+YrTHcb7ZBazPKbqeSgBL+tSYZ04Tf+7NT6NJQR5ZnqeRxwrDjWd4EYiF53gfBueXGI+XDDjRlVn6GIne1hOynhq4SuerwhxwuGnBFw2T3bVruAnq9l+J8oVJJfSFDfBtvWcY94ohjVYUakNjdpyCJ8FEm+Tv+eVsJAzdBaUFkisodGsU73aboKSazDzkCnhZzgt7jktC6/tL3Om1BXojpwUPTOcZveP1Hr5Sj4dgTIzsgwpTv2FRO8y43rDXQDBvmoGI7nOYZ0ZU2yjWn1qh4Kdbp4mb1TJ87jNQ2utdR15FNns4kFs=;hQj4yrR0e0yLHSmoQB6gSw=="
 ---

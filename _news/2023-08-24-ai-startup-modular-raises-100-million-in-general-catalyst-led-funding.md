@@ -121,15 +121,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
 
 secured: "WHrKYVao5Odv1CaBe0LvWR0rrjkBuGVoknEGCcqWih3Ox3sU+AZN7Di+8QUn+a19iW3oFUXATlF9JwKwSJFjS4BDGEJfuHGNTUPm5jez4GGtjQVnPRnNU2jBchl9oEeMwv0vAmlaYSY+xbpLe3SQJeceUETMz07bKy0CqFPk1ig7kckOFudmLe3B+UmgPvtf07pNReAz20BGpABotA9vU9Ga1kc8/nbyfXJoNftd/C9FPcmFBgzKbWHsT1ZTNXCkKw2fZ8Fhbckm+THbc7R9C7n9QiL0obBkaJzTVYglLATod8eLOKQKXJQ2OHNnZsANUXPgSASeTtDiXZ+eMz1pM/80IkcZd7+gH8vam9rH8Bg=;ku2Nx77s58x1eGMER+INsQ=="
 ---

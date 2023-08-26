@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-too
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
 
 secured: "NV/ppq+RDgZpM2b03XZdXjWlHCV02nfvkDlR6BxCQaa79P6ovr0rvYzJrf4pqSqpn0a946ycLMawif3mFbKznlAalVCx8RhZXEhJcQMLUufCxaA1+ntfyysHhHDP28yYL014Vrvi1tlNB2MXuqoUjjQiG1KPf4xChe2xWOGUiFiJcc7E2ktTSWyLtt4ukgNtryx+qcVqFREXCPgn2BD+WlcvIULDnQcaSyOtksWjlIDKn0O0X7XkYAgNYCs+0O2x6z/Bp/lV43o8z1ygCtSqa0ie1mdkLIoLNy023q9m32JGHqROttDb9zVHHg9wlrqNKbc+rpwET8o3tSH4jTjG3mCPkZxQIJSvBmtyfV0YuBI=;JAF1mDx614rPrD6mo7AbgA=="
 ---

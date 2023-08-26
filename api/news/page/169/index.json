@@ -2,6 +2,49 @@
   "page": 169,
   "value": [
     {
+      "path": "_news/2023-05-09-uva-researcher-receives-trailblazer-r21-award-to-improve-cardiac-resynchronization-therapy-outcomes.md",
+      "title": "UVA researcher receives Trailblazer R21 Award to improve cardiac resynchronization therapy outcomes",
+      "excerpt": "The National Institutes of Health Trailblazer Award will provide the project $660,000 over three years using an enhanced provision of the R21, the NIH's program for exploratory or developmental research. Trailblazer awards are designed for \"NIH-defined New and Early-Stage Investigators.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230508/UVA-researcher-receives-Trailblazer-R21-Award-to-improve-cardiac-resynchronization-therapy-outcomes.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230508/UVA-researcher-receives-Trailblazer-R21-Award-to-improve-cardiac-resynchronization-therapy-outcomes.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies.md",
       "title": "Antimetal is putting AI to work to root out cloud cost inefficiencies",
       "excerpt": "Antimetal, a NYC-based startup, announced a $4.3 million seed investment to help optimize AWS costs with plans to add other platforms soon.",
@@ -1138,57 +1181,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-hollywoods-screenwriters-are-right-to-fear-ai.md",
-      "title": "Hollywood’s Screenwriters Are Right to Fear AI",
-      "excerpt": "The Writers Guild of America’s demands for guardrails on artificial intelligence are a smart move—and the stakes are higher than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
-      "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645594d6da92561daff9397d/master/pass/Hollywood%E2%80%99s-Screenwriters-Are-Right-to-Fear-AI-Culture-GettyImages-108903032.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
-      "publishedDateTime": "2023-05-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

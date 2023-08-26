@@ -119,15 +119,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "UK to invest £100m into chip production for AI tools"
-    excerpt: "The UK government has revealed its plans to spend £100m to accelerate to produce computer chips that could be used to power artificial intelligence (AI) tools."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/uk-to-invest-100m-on-chip-production-for-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
 
 secured: "j7vnRjLGn+HhRwcyp/dQpd8WSaWK9ZIVMzgX6O7HG06EOKeVPvI1uQjzsJxvu6OXvRc28AonSo0aRcUUIuqmgRQUyjunzw9grAljfNdPNmTIvJ2p8FzMKxGKlCE05QzI6pM0vUKEmR8lHxdTo30w6Jmp7h70ogiNOo3ui9NrMcpAdyP7wVa4kGHA3uMMmHBMEqA+qbW6aXGnRbiZ9yVd4MxDXm7CJF5IP3K0IVTwkEBV7FUACOZNgEAK0Aasc3YAPyHjGqfPkz+pBg/nmS1xpt17KsI8VwC99UNoaS/yL8pTVUK3BJNWyREKe/JZXttprPfLHv5LPqBa0l02n1onWDZGs6jR7l3OP4GPX44/T0LTJSjGGRttb8koT+PHgwaUyCEQbZ4iC6TwsBd5wlCW9cjcat0ul1nFnbto6PhtIqweB9tkKJAJurwHXqt/3uLmJROacuRq1hojQgeSdXeVGIJXsO/N6J70+JjRrZV6n4xwFFkp5Q4OswtK8uH4p4iQTLjLK1rxiBsPGFQmTirQ9A==;p5ZxfiOY2HTyl1y+pV/o4Q=="
 ---

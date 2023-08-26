@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-08-08-black-mom-sues-city-of-detroit-claiming-she-was-falsely-arrested-while-8-months-pregnant-by-officers-using-facial-recognition-technology.md",
+      "title": "Black mom sues city of Detroit claiming she was falsely arrested while 8 months pregnant by officers using facial recognition technology",
+      "excerpt": "Woodruff later learned she was implicated in the alleged incident after the facial recognition software hit as well as the carjacking victim allegedly identified her in a lineup of six photos that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
+      "publishedDateTime": "2023-08-07T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-pope-warns-artificial-intelligence-could-fuel-conflicts-and-antagonism.md",
       "title": "Pope Warns Artificial Intelligence Could ‘Fuel Conflicts And Antagonism’",
       "excerpt": "Pope Francis issued a warning against artificial intelligence Tuesday, saying in a statement it should be used in “service of humanity” and warning to be vigilant of the “rapidly increasing ...",
@@ -1154,41 +1206,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-independent-contractors-machine-learning-financial-services-industry.md",
-      "title": "Independent Contractors › Machine Learning › Financial Services Industry",
-      "excerpt": "Independent contractors are individuals or entities that perform work for other individuals or entities, but are not employees of those individuals or entities. Whether a worker is an employee or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/topics/independent-contractors/machine-learning/financial-services-industry/",
-      "originalUrl": "https://www.jdsupra.com/topics/independent-contractors/machine-learning/financial-services-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

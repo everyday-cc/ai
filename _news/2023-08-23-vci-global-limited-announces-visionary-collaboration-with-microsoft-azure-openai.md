@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited
 webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 37
-  - title: "SophiaVerse announces collaboration with Hanson Robotics"
-    excerpt: "SophiaVerse has announced that it is collaborating with Hanson Robotics with the objective of facilitating innovation in AI and Web3 Gaming. The ultimate aim is to bring revolution in these areas."
-    publishedDateTime: 2023-08-21T11:39:00Z
-    webUrl: "https://www.cryptonewsz.com/sophiaverse-announces-collaboration-with-hanson-robotics/"
-    type: article
-    provider:
-      name: cryptonewsz
-      domain: cryptonewsz.com
-    quality: 34
   - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
     excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
     publishedDateTime: 2023-08-23T16:41:00Z

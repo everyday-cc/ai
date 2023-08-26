@@ -470,15 +470,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "How Nvidia Built a Competitive Moat Around A.I. Chips"
-    excerpt: "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services."
-    publishedDateTime: 2023-08-21T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Nvidia hits record high as AI boom lifts bets on another strong forecast"
     excerpt: "Analysts expects Nvidia, which dominates the market for chips used to power generative AI like ChatGPT and many such services, to forecast 110% growth in third-quarter revenue to $12.50 billion when it reports results on Wednesday. \"It might be the most ..."
     publishedDateTime: 2023-08-22T15:07:00Z

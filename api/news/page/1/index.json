@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-26-robotics-and-coding-being-taught-at-durbar-high-school.md",
+      "title": "Robotics and Coding being taught at Durbar High School",
+      "excerpt": "Robotics and Coding classes have been launched at the historical Durbar High School, popularly known as Bhanu Secondary School.",
+      "sourceUrl": null,
+      "webUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "originalUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/uploads/media/DurbarHighSchool_20230826095609.jpg",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "cdnAmpWebUrl": "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "publishedDateTime": "2023-08-25T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myrepublica.nagariknetwork",
+        "domain": "nagariknetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence.md",
       "title": "Empowering Confidence: Overcoming Math Anxiety In The Age Of Artificial Intelligence",
       "excerpt": "Grasping mathematical concepts has been one struggle that eventually leads to avoidance. Math will be part of how we transform ALL our futures and more than ever, requires a different approach to engender confidence and resilience.",
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1202,48 +1245,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-evers-creates-state-task-force-on-workforce-and-artificial-intelligence.md",
-      "title": "Evers creates state task force on workforce and artificial intelligence",
-      "excerpt": "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market.",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/",
-      "originalUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/uploads/2019/07/SR-Health-Care-Wisconsin-State-Capitol.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp",
-      "publishedDateTime": "2023-08-24T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

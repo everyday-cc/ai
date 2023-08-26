@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous Voice to Parliament: Vote date to be set within a fortnight"
-    excerpt: "Prime Minister Anthony Albanese is expected to reveal the date of the Voice referendum within a fortnight, before the next parliamentary sitting."
-    publishedDateTime: 2023-08-21T12:00:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-vote-date-to-be-set-within-a-fortnight-c-11657204"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 4
   - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
     excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
     publishedDateTime: 2023-08-22T10:49:00Z
