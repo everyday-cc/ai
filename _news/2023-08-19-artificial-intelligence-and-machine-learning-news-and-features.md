@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-publishedDateTime: 2023-08-19T16:08:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
+publishedDateTime: 2023-08-19T10:19:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "TEeyj1EPfw+ED5Ap0MhfU2YKCWnuni8eQ40MCeaJbiV9171YYFQHROSaMM+/u1YhiPtDxy0+3hTCB/y/OjZZ1cbl3B1SJA10plzhtGnTPDLh2IufIdrRYR/omMTbAUg65Ow7kfzhLDzuGFIN47t25Rzakcl+bmK6W9nulmHMPOiemezUicHRDfIg78k1Edcnt/5b9P1y7+PamMhBz/TwRtlwvg7/3mHVtbtbsfRqFWqdSjS557d3Zfqsd9or8gw7NCVznXS90dC/xMt/vRqdIh8TzQQkjwK82fm5ex8bKgcL9KhMVnh2Nf0FwlhlOiwrM7iEE2NQeeR5kyeSCNOHkO189vgHjhRp2NAuSX42nyI=;CuK3oWUTIe4XhWiU+M9GRg=="
+secured: "j3qitHWb6ihe+e30xwepPTtW/W6lzCPbXUg4fNOwYlYA3msgd7XDJ7t+MiPQxiTtP3Mkh9tt5qgZ+NHxp4d9qUrg2HzMLGnyg/cuP9Xu9AtsDpLHqHVSs9NOHK85GR6DPZMp+7K9PwBL05bkOB61tJ55AOMAX7DpvDYPj/lIbOkrG2GJFRPFXHahXAzlAvbvVT2IAj1SKLk8OVSGqPSG/2tox4H+9yyQdMAfT58fVPYqPYt3R4GkBbf2ExfFKH/v7mQilGhHDefovddRyBgCMpCEcVuwKKx8Xt/4nYdgElDxERIn/ftWNEZ3KGh5Mvu8p7MYBw9g0vffOMsknXAtpRKdJnZtdMKNuydO7ohq6iA=;NlcYCTrBkl1znSpKsMMUWw=="
 ---
 

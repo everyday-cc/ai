@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-c
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 496
         height: 315
         isCached: true
-  - title: "Global AI chip revenue to reach $53bn this year"
-    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53,4-billion revenue opportunity for the semiconductor industry in 2023, an increase of 20,9% from 2022, according to the latest forecast from Gartner."
-    publishedDateTime: 2023-08-22T09:26:00Z
-    webUrl: "https://it-online.co.za/2023/08/22/global-ai-chip-revenue-to-reach-53bn-this-year/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Gartner: Revenue from AI chips climbs to 49B euros"
     excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
     publishedDateTime: 2023-08-23T12:50:00Z

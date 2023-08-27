@@ -132,6 +132,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
+    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "dEyS1keIeA2tXdoHkzHAS7PLdpRzN1isQ4jdp87DJTI40gBdGDN3g0pKypnPyvgrkeuSPz9NYlEwr+RFc8WdEaYIFmGdY5UaQ2/Rxldi67aqOSwcA0yb0Qt8//DXXVJH/5gyw7LPIeYlV99e7m7/TT7co8PAmP6G3rJNxNFezHO3vTne6x/56B64vBq/VtjOmHLDOJD7I+nrALeRi2N4CvE2HKsMscwTz/SetYfTI3n38eOD9SioCP6/fu1l3+F7uV6OVf6lWgai9rfDcjalkfnL9bXfF8X46o4paWBIDvjmZaD0hvwe8hUg6L0zmEMas0CY/3x6ehaPk2PN9aM75lNTsPxEteUPNlRZooNd7IEf1QBZ2vaiJEf8BTsO7w1r10u2hTM+h4I+iX0wjSl2WVU7Gnc41Gl40XWohVAqfRSyHuarax1IhiGMDH0yZlJJvKAiikSlykgD5UK+Go3fUsZKdfw1Bv66oZL+qSdBdhhrR3Ldbp0mX5nmVDw+CweXCSrOvekSmpiBowCIsjngXA==;u7HtS9xjgFviJ+f2NCn5Ow=="
 ---

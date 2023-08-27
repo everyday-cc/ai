@@ -22,130 +22,73 @@ topics:
   - AI
 
 related:
-  - title: "IBM Watsonx to use generative AI to translate COBOL code into Java"
-    excerpt: "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle."
-    publishedDateTime: 2023-08-22T10:53:00Z
-    webUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html"
+  - title: "Nearly 40% of workers think generative AI can help with workplace communication"
+    excerpt: "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier."
+    publishedDateTime: 2023-08-25T17:44:00Z
+    webUrl: "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 121
-    images:
-      - url: "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "IBM taps AI to translate COBOL code to Java"
-    excerpt: "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java."
-    publishedDateTime: 2023-08-23T20:15:00Z
-    webUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/"
-    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888"
-        width: 1200
-        height: 888
-        isCached: true
-  - title: "IBM’s generative AI tool aims to refactor ancient COBOL code for its mainframes"
-    excerpt: "IBM, eager to keep those legacy functions on its Z mainframe systems, wants that code rewritten in Java. It tried getting humans to do it a few years back, but now it has another idea. Yes, you guessed it: It's putting AI on the job."
-    publishedDateTime: 2023-08-23T16:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 83
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IBM unveils AI-based watsonx Code Assistant for Z for developers"
-    excerpt: "IBM has announced watsonx Code Assistant for Z, an AI-assisted product. This development is expected to enable translation of COBOL to Java on IBM Z and can enhance developer productivity on the platform. Reportedly, this product will be available in Q4, 2023, and is being designed to help accelerate COBOL application modernization."
-    publishedDateTime: 2023-08-22T09:15:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ibm-unveils-ai-based-watsonx-code-assistant-for-z-for-developers-3218532/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ibm-unveils-ai-based-watsonx-code-assistant-for-z-for-developers-3218532/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ibm-unveils-ai-based-watsonx-code-assistant-for-z-for-developers-3218532/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-22T141328.772.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-    publishedDateTime: 2023-08-22T13:18:00Z
-    webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+  - title: "Upwork Reveals Top 10 Generative AI-Related Skills and Hires in 2023"
+    excerpt: "Each company will figure out what works best for their own organization, but encouraging people to learn and understand generative AI is an important place to start.” Catch up on the latest tech innovations that are changing the world, including IoT ..."
+    publishedDateTime: 2023-08-22T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/top-10-generative-ai-related-skills-and-hires-in-2023/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-        width: 600
-        height: 450
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr0082323-featuredimage-top-10-generative-ai-related-skills-and-hires-in-2023.jpg"
+        width: 1400
+        height: 785
         isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
-    publishedDateTime: 2023-08-22T17:11:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/"
+  - title: "95% Of Indian IT Leaders Expect Generative AI Have a Big Role In Tech World: Research"
+    excerpt: "whereas 82% are concerned about generative AI's ethics. Diving deeper to the sectoral operations, the report states that 74% of Indian IT organizations have trouble keeping up with demands from the business, as 91% project increased demand over the next 18 ..."
+    publishedDateTime: 2023-08-25T11:34:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it-leaders-expect-generative-ai-have-a-big/458054"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692961782-Untitleddesign-2023-08-25T163633069.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "IBM is making an AI assistant to modernise old COBAL code"
-    excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
-    publishedDateTime: 2023-08-23T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ibm-ai-cobol-code-assistant-watsonx"
+  - title: "This is how generative AI will free up your time at work"
+    excerpt: "Generative AI is impacting the way people work across industries. Here's a look at how you can be a part of the revolution."
+    publishedDateTime: 2023-08-22T13:42:00Z
+    webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "How will artificial intelligence impact the workplace?"
+    excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
+    publishedDateTime: 2023-08-24T02:42:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intelligence-impact-the-workplace/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 39
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_400584931_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/2809a9e1-f494-4ed2-bcda-79245812c00e/thumbnail/1200x630/bfb863ac7e77c7cd519a22c543dbc463/2e63e746d76ae07350acd34526ace493.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
-    publishedDateTime: 2023-08-22T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
-  - title: "IBM trains its LLM to read, rewrite COBOL apps"
-    excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
-    publishedDateTime: 2023-08-22T12:23:00Z
-    webUrl: "https://www.ciodive.com/news/IBM-COBOL-AI-watsonx/691395/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 19
 
 secured: "dxysho+Z941L5FmtamI8z7Jiwa+3I0YPpTUFU4OQtZWV6AfRy98IdB+V+0M5dfV2/9H9PIVa838xaF2UUDtMKiu4h3aZ1RVU91zWkTlminZgH8BssnVM+KnkPZxYG3sEJn3oSLhmfCpovnCZDfR6BjP0pVlP3/uwmNEBJrLABTLEgas3RiVPX4JwsTKero4d0raakTo2c9m2px9HBtaoyQ/coc7CjM9t0j1ETIIndWnSKYvvAFMXd+9MyY05ACfnfzn2RdcZhIvgwwfEkCnGCAN1YNhgpRN8cZdDXxmDKGyjXvzvidmC/WpnhHw1Nr38nFukLyp9eahP2tcRUBT7Umf/HMcpUgGOHPo1Cj+XAf/vndQ+YsTN/3KcKf2kuUuouySZQ9Yse32CE006F3c03Hv0s1+eUQ6p7PtJmlhrc71L5jfaqk4bIoI04UD9Z9tRxpCkd8DXe4jRkAI4+pGGlNhHQnjyauWbnKfpOgMFiJ1VcAPgMMSTCSiCMJZquW6WOBOvCsWlkgXHDKGiBSSebA==;W31X4OiB9pqF/JH6jGPiPg=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 5500
         height: 3668
         isCached: true
+  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
+    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
+    publishedDateTime: 2023-08-25T02:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
     publishedDateTime: 2023-08-25T10:34:00Z

@@ -145,24 +145,10 @@ related:
         width: 800
         height: 712
         isCached: true
-  - title: "Future of Fintech in the Middle East 2023: Cloud connectivity at the centre of fintech innovation"
-    excerpt: "Fintech companies have proved that mass-market growth is achievable ... As countries continue to adopt more AI technologies and keep up with the digital revolution, citizen privacy is becoming an increasingly critical issue. This presents an opportunity ..."
-    publishedDateTime: 2023-08-22T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/763/future-of-fintech-in-the-middle-east-2023-cloud-connectivity-at-the-centre-of-fintech-innovation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 11
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/763.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-    publishedDateTime: 2023-08-22T14:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
+    publishedDateTime: 2023-08-22T14:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
     type: article
     provider:
       name: TMCnet

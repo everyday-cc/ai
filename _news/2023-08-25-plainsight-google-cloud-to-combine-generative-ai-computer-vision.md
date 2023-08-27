@@ -7,7 +7,7 @@ originalUrl: "https://channelvisionmag.com/plainsight-google-cloud-to-combine-ge
 webUrl: "https://channelvisionmag.com/plainsight-google-cloud-to-combine-generative-ai-computer-vision/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Generative AI startup Contextual AI selects Google Cloud its preferred cloud provider"
-    excerpt: "Contextual AI Inc., a startup that creates extensive language models for businesses, chose Google Cloud as its top cloud provider."
-    publishedDateTime: 2023-08-22T10:55:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/generative-ai-startup-contextual-ai-selects-google-cloud-its-preferred-cloud-provider/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 50
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Generative-AI-startup-Contextual-AI-selects-Google-Cloud-its-preferred-cloud-provider.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "hyWS9yTowTy1Ebq+xYnRsJpS847GyVhkeyCiLZ0irsXfzMwc0eYJJIqO1RguIrGZslbKrmq1FGFBt+5+aqyeVpEL7lnIAHcVpcimU2rEZHtcUuoSMjcXDbvUarHt0Gq0y6wuIc1SStqYSZn5Rd4gPMZsGuQzhN6JpeAz+Shi1VfKzkHsKVpiQjJ9Ut0wqN1FjOD0+86rEZnZcEWiIQND44E4CLcOoAvh/uxdNCp0g5ov06oHaUXlrT7JuAPDD7tvHROM6QONr+h8oQuyR5lLBuI5pywC39JF1whMYW+K7wGrnkZH1KEoZzeXz5bKYI2k+So8nARiCVnMZJZTMm7FwtPT7GEsiiuFRiBwQi06Kt2DpZd94v1++DlC7rV+2Xsbu5Vvhh1sbvUIl1hVdzKE+V18b2dFwLNKgmaDcBxljo6z/ElYET8HNqutAseRtevJCJNKx1QIu6Qr1DFULPJyh+3dksBtNeIPbz8VirejYhMbYdTdtpSAS9bMhZw72EfM9g5x2DqzsTGzjBTRTutx9w==;F0ZX6iOhY2bWciG2XA5M2g=="
 ---

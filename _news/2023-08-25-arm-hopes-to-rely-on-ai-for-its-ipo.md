@@ -39,22 +39,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Arm’s mega IPO could be just around the corner, a year after the biggest chip deal in history fell apart"
-    excerpt: "But Son and Arm’s AI promises may overstate the company’s potential, at least somewhat. Arm-based chips have appeared in some gadgets beyond smartphones and tablets, such as servers that are less power-hungry. But Arm said it does not make AI chips and ..."
-    publishedDateTime: 2023-08-22T10:13:00Z
-    webUrl: "https://www.wral.com/arm-s-mega-ipo-could-be-just-around-the-corner-a-year-after-the-biggest-chip-deal-in-history-fell-apart/21011216/"
-    ampWebUrl: "https://www.wral.com/amp/arm-s-mega-ipo-could-be-just-around-the-corner-a-year-after-the-biggest-chip-deal-in-history-fell-apart/21011216/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/arm-s-mega-ipo-could-be-just-around-the-corner-a-year-after-the-biggest-chip-deal-in-history-fell-apart/21011216/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 42
-    images:
-      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wralnews_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "A Filing for the Biggest IPO of the Year Is Producing More AI Excitement"
     excerpt: "Japan's Softbank plans to spin off chip designer Arm, and the buzz over that deal is combining with Nvidia's coming earnings to energize the AI crowd."
     publishedDateTime: 2023-08-22T11:45:00Z

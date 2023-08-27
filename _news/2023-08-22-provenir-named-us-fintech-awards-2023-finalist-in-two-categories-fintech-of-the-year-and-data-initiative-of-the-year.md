@@ -2,9 +2,9 @@
 category: news
 title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
 excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-publishedDateTime: 2023-08-22T14:23:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
+publishedDateTime: 2023-08-22T14:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
 type: article
 quality: 0
 heat: -1
@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Future of Fintech in the Middle East 2023: Cloud connectivity at the centre of fintech innovation"
-    excerpt: "Fintech companies have proved that mass-market growth is achievable ... As countries continue to adopt more AI technologies and keep up with the digital revolution, citizen privacy is becoming an increasingly critical issue. This presents an opportunity ..."
-    publishedDateTime: 2023-08-22T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/763/future-of-fintech-in-the-middle-east-2023-cloud-connectivity-at-the-centre-of-fintech-innovation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 11
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/763.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Regulation-focused fintech RTOP floats in London this week...Regulation-focused fintech RTOP floats in London this week via..."
     excerpt: "Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published ... with Italy-based regulation fintech RegTech Open Project PLC set for a direct listing. Also known as an introduction, a direct ..."
     publishedDateTime: 2023-08-22T11:56:00Z
@@ -191,6 +177,6 @@ related:
       domain: axios.com
     quality: 0
 
-secured: "agVWzkegh8EVc0rkbsYnZ+lXysHjxphOhPaNevzOOjudrez4asmEsx7PE+FOMWx/mJgz6xKuepsoay54HOcfAaGUArHv1ySshr1JuFOIy7mhTfDX1lzDfmKJnpOeDVJzpx7kRVxmk7anvpu1dYLWXuyqEkYF1Vr8H3xPl3VjfTd51BZFwVWfZbPe/5fxdXO/RgJXe5Qo8S/JewzyhB0LQWM46Yf01bBpwyT+fEzlbiyjgI0doVAnECRjHbBDjPvUJBYlWwfn6DFJ5DO2Pj0DiFAn1AKarhmnaBXc+or8WYapchm5JuO1xvLeJpGKW6Ca07o2pwpMSHa2NUmWWt5yfRrcH55aqTGTeV1ac8rv10E=;CfVU9fKrTVeAZOk40SMFYA=="
+secured: "qrJ7LXqEQSMEcrI/bIU7eDJ3qUfRlnFeA0FjTnOQC2dfFOfrSnikWNBOWhUZDggQXxib3QNWri4HSb8I1NWvvHsGm72d2YWspxMKPbWu+TuYN23PszkDK6kpgPgqlEt2vWdS3NyY1fMFLJaSMDFsRbHpedVbi5589LDk31A1vIE5IxuKiRq9MF4vI2iJzOErxY+v8VbwGsYPG0I0rgLqly43dtBgCieUd9al38ROg9aFJ7cmJBQU0hVyuEMQ5lZ2TlxYY/aJqTnxGqYnSRRag0UlaZqORmA8hJtDyb4eBwzz0VXT5dZxR+vVOO+C6qhWMpvbPNz4OFEFZkrX5RXh7yHcmlRcphkhmlEzbsJxmAg=;PTxMI7Qq/4mQNlY0AtTwVQ=="
 ---
 

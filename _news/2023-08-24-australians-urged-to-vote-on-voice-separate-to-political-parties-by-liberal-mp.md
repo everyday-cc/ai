@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
-    excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
-    publishedDateTime: 2023-08-22T10:49:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-tipped-to-announce-voice-to-parliament-referendum-date-in-south-australia-next-week/news-story/46f99c4152790b4878a10105b4d6cb97"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
 
 secured: "iss/1neboaXMnzTav6rm4DQOdOLJglFgLeoBicHhJ+dXBNalFcqJQk5vnk1OITY6vvJRN979cw9jp0rCCpp7ycbls5pZGnknp8WlcQd/xBNb0+3JTI/qmkEJZAflCnIxBS9SNSgQXROZH49W0tAuVNiNLm8wVkx2XPMRtry1D35qh/XD0nbrxPOzOW7GL845QtpXu32pxCQg5ykn820p1oF+5V165EBcImxdWmaCe6TeAFTpdKTKMwGok3iZ56c+JRql2O0fjgb72A/0ilNbUBGQPROWXM1bKRw3bSZGA3xbP68qTKwvBUGaYQpxUeSZ2YjPIRvDWZtcGq2zdkAbu09QqGFHSzaFYWFNv9m23MRG9xQuFFeny87Vv/WRQn2n9XDtVvLdVWaH3FQ+F9wGredUFdxFyLV67RmVf0RRXcROaEmJrfBET8OYbc5dHdbAgVM2SR/p3Gda9mtwlBjkzMMmTcGdekaWBUaov7No70sJgPnhqfBPKEAqB2UOsNapcM2c0SgCRuzl9eRWOIUp6g==;eHSo56amU9T5L/D6rHjHoQ=="
 ---

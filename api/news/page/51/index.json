@@ -2,6 +2,204 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-21-the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology.md",
+      "title": "The Ugly Sweaters That Make You Invisible to Face Recognition Technology",
+      "excerpt": "Facial recognition software works by first identifying the people in a scene — using “object recognition” to separate you from dogs, post boxes, hedges, and buildings — and then applying a more computationally-intense facial recognition algorithm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nysun.com/article/the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology",
+      "originalUrl": "https://www.nysun.com/article/the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.nysun.com/wp-content/uploads/2023/07/sweaterpic-1.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive",
+          "width": 689,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Sun",
+        "domain": "nysun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
+      "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
+      "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821047/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-computer-chip-with-built-in-human-brain-tissue-gets-military-funding.md",
+      "title": "Computer chip with built-in human brain tissue gets military funding",
+      "excerpt": "Monash University scientists created the \"DishBrain\" – a semi-biological computer chip with some 800,000 human and mouse brain cells lab-grown into its electrodes. Demonstrating something like sentience,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
+      "originalUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/474cbba/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F83%2F70%2F1d37aa81476bbc3534b48a2120d1%2Floz9501-a-computer-chip-with-some-human-brain-tissue-in-a-small-95451b8c-01dc-4613-8dff-14df00131c92.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-lets-use-ai-to-clean-up-government.md",
+      "title": "Let’s use AI to clean up government",
+      "excerpt": "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government",
+      "originalUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/lets-ai-clean-government.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp",
+      "publishedDateTime": "2023-07-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031.md",
       "title": "Voice and Speech Recognition Market Size, 2023 Global Growth, Key Players and Forecast 2031",
       "excerpt": "The global speech and voice recognition market size is expected to grow toUSD 31.49 billionby 2026 according to a new report published by Report Ocean. The report \"Voice and Speech Recognition ...",
@@ -969,204 +1167,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat.md",
-      "title": "UN security council delegates urge AI controls to defuse potential global threat",
-      "excerpt": "The United Nations supports calls for a separate UN entity to facilitate collective efforts to govern artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "originalUrl": "https://www.zdnet.com/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cf3cdc6d1b378c3ca5e98e61eece6580fe50846a/2023/07/20/0a08f888-c62e-4d03-8dbb-516a6290b6b0/gettyimages-1543007160.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "publishedDateTime": "2023-07-20T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-google-is-reportedly-testing-an-ai-tool-that-can-write-this-article.md",
-      "title": "Google Is Reportedly Testing an AI Tool That Can Write This Article",
-      "excerpt": "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article",
-      "originalUrl": "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Vkml6DGAYaSTMqJh3hSxM-1.fit_lim.size_1200x630.v1689879397.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ibm-the-og-ai-spark-excitement-for-watsons-new-skills.md",
-      "title": "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills",
-      "excerpt": "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
-      "originalUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33309833",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833",
-      "publishedDateTime": "2023-07-20T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-want-to-know-how-to-get-ready-for-the-rise-of-ai-dig-into-the-past.md",
-      "title": "Want to know how to get ready for the rise of AI? Dig into the past.",
-      "excerpt": "Experts are looking to past technological disruptions to help predict how the rise of generative AI could impact workers of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "originalUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b84697a46ce30019a1f97e?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
-      "publishedDateTime": "2023-07-20T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

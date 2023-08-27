@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-micro
 webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
 type: article
 quality: 105
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 3584
         height: 2048
         isCached: true
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-22T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "fml+/WkQndPFRq1lGfmbDpMyFZuTzn3Xkg/XCyTLe+sWCbaL2MDOXreiV87QitURI5BK/dLF88J62iyDtpXV6t74XM300SToe5FEN0a3GiteJOCfCtkphrxzyJflcBqoZdj49l2uocaSp607G4QeMqEAbL8Le/Rc6faiLJ2u/p7jBAoj7qc6k6O3lPGYd2HhkXZCmVpYHhmn1H7+mE63xSjlYqV+MVdg5crdgchyfppLFWWE7GsBp2ZAtkrUVECTYfzEL8EOCfULh50NYLxoSz8DKqixoNyKwxk3NY7HDCWIj6/tWSvGgTVXbHdEleNzxTOATuK8S//sKjNHonSbl+yEMwIG6QZTp4v3h3Z1zGo=;9nPYwRQ9GMgWdoz1tXsjVg=="
 ---

@@ -36,15 +36,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 32
-  - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
-    excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
-    publishedDateTime: 2023-08-22T10:49:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-tipped-to-announce-voice-to-parliament-referendum-date-in-south-australia-next-week/news-story/46f99c4152790b4878a10105b4d6cb97"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
   - title: "Australians urged to vote on voice separate to political parties by Liberal MP"
     excerpt: "A Liberal MP who broke ranks over opposition to the Voice has urged Australians not to vote for “parties” at this year’s referendum and rubbished claims the advisory body would have any extraordinary powers."
     publishedDateTime: 2023-08-24T03:28:00Z

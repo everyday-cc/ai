@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
+      "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 474,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp",
+      "publishedDateTime": "2023-08-25T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-uk-putting-100m-toward-ai-chips.md",
       "title": "UK Putting £100m Toward AI Chips",
       "excerpt": "NVIDIA, AMD and Intel are in the spotlight in the proposed deal. The global competition for semiconductor chips makes investment in innovation a priority for the UK.",
@@ -351,21 +403,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-24-artificial-intelligence-chip-giant-nvidia-sees-sales-more-than-double.md",
-      "title": "Artificial intelligence chip giant Nvidia sees sales more than double",
-      "excerpt": "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock.",
+      "path": "_news/2023-08-24-ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence.md",
+      "title": "AI boom drives chip sales for Nvidia, which has substantial Triangle presence",
+      "excerpt": "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66601716.amp",
-      "originalUrl": "https://www.bbc.com/news/business-66601716.amp",
+      "webUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/",
+      "originalUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 761,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -373,16 +425,51 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66601716.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66601716.amp",
-      "publishedDateTime": "2023-08-23T20:19:00-07:00",
+      "ampWebUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1",
+      "publishedDateTime": "2023-08-24T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-your-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets.md",
+      "title": "Your Evening Briefing: AI Chip Star Nvidia Lifts Broader Markets",
+      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -398,9 +485,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI Hardware",
-        "AI in Sales"
+        "AI"
       ]
     },
     {
@@ -412,7 +498,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -518,7 +604,7 @@
       "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -604,7 +690,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1337,101 +1423,6 @@
       "provider": {
         "name": "ProPakistani",
         "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-tech-down-even-as-ai-stocks-rise-tech-roundup.md",
-      "title": "Tech Down Even as AI Stocks Rise -- Tech Roundup",
-      "excerpt": "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "publishedDateTime": "2023-08-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-kneron-drives-automotive-ai-chip-market-with-new-kl730-release.md",
-      "title": "Kneron drives automotive AI chip market with new KL730 release",
-      "excerpt": "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "originalUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/speedometer-100944749-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "publishedDateTime": "2023-08-15T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null

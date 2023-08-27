@@ -67,6 +67,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Meta's free generative AI tool will help you write code"
+    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
+    publishedDateTime: 2023-08-25T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
   - title: "How will artificial intelligence impact the workplace?"
     excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
     publishedDateTime: 2023-08-24T02:42:00Z

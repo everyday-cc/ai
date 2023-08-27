@@ -61,15 +61,6 @@ related:
         width: 496
         height: 315
         isCached: true
-  - title: "Global AI chip revenue to reach $53bn this year"
-    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53,4-billion revenue opportunity for the semiconductor industry in 2023, an increase of 20,9% from 2022, according to the latest forecast from Gartner."
-    publishedDateTime: 2023-08-22T09:26:00Z
-    webUrl: "https://it-online.co.za/2023/08/22/global-ai-chip-revenue-to-reach-53bn-this-year/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
     excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
     publishedDateTime: 2023-08-23T06:05:00Z

@@ -78,6 +78,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Meta's free generative AI tool will help you write code"
+    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
+    publishedDateTime: 2023-08-25T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
 
 secured: "seDWR9Gk+Xh3QVAf5wrXMr5ENGWPaedWydDSW+1bx9Q3oMLts1uZopKTFi0itfp0rrc+ri7cC15Es3+pZxwmSBb5X5mrNhUTfahpYEfJL8/UbvO8kTCzaLzd0jAf0qrRYa6DnoBZuKbnmXMmUhR5A77rBF7TBOx03gfMg6X0HhATPXevo3CXMuGEXfHOs9q2Ysrd2/2tazCPOHr3FlN74PTsN7d1A8VY167bvoqA9zLeyps9DHM8mgxtEUEK3frRi9njwGygrVOeFPAa1WyxjRBpbp8GwauYcM1lq/L40YAV6gemvqeylD373Tazd8iSMwsdsiGAXqlddmgKSTLD5k+M1bDGjLf+Et8JXIGFfuZVyweOyx4dZBGrItUsKiVFRGPSJXSur4XGFcjA9qwyxHETKUfMfEH1pAhqxZ8vPCrfgWLIeHcMJID8n+P1pwE3/lJPh7p/D4xU8dXvqTr+AonAvcaTGKSrUlJ78tY+Qe5uHP/Q7azFGw9fv7GBVhqBt8WPdIawM2WXBkhENZD3aw==;UKcW7fwOreH8hmIYkWVFzg=="
 ---

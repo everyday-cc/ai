@@ -133,6 +133,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
+    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "8DZkoqz5hB8b2QBGxY0K/ZYl4FS78ypvG71rN0tRkExJkyYtRnlfvpKWEBcKlYK7+CavW09MIuJtFX4IZUN/zmLN9iTWzZCZoThTFMAcxPO09zu5NFE/mz7DFk9vcN8QwRdtbpacEymZ0lORayAEO3RXl9EK7aQ3kfIMFPTn1AK4fzd/ymImqjjIBZZVesL5eA4EmaUTHejk71/tSiy2mzegPSwvHvUwchWsxD6aMUlgDOi8+Ix86Xh2Mtwhy4GDM/n5UzSS/x2vVI4dRj90Nr/+0m2rVxaz60cXrEU6evW3jRrf1DGSa69z6EzSCthjBc0R9bqc25UZtdL7+IOfvaLFCRMqMBUKEWBGu5vYiM4=;hHPFdZAHyS3v0R4rFa5mag=="
 ---

@@ -36,20 +36,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How Specialised AI Models Offer Complete Solution for Enterprises"
-    excerpt: "According to recent trends, Enterprise AI is shifting towards specialised models rather than a single generalised model. Recent reports have highlighted that an overwhelming majority (96%) of global executives are actively engaging in discussions about generative AI within their organisations."
-    publishedDateTime: 2023-08-22T09:51:00Z
-    webUrl: "https://analyticsindiamag.com/how-specialised-ai-models-offer-complete-solution-for-enterprises/"
+  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
+    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
+    publishedDateTime: 2023-08-22T19:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/unnamed-49.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "h9aCJT9HIdcyFCA41OPrOP3/rdKJsqIuv4zCnlxVF6DcA4R9tw+oOBexQNy0jVwHltL9v1G1IT+YCt0nHv4VL+qP+/7QgisrPGtsDCLLvYQflyG0xnQawmoAD3nqn7I2uTGizGW/uKJxALZ0seu9SVvWrRGS5+aJpbjGPW4ktcT66zLpwbSeLvt+krecBQLLc0BZWNeeuSKLLMqez3wnaCp7rZD2TBhM41d+wRs04o2w5Qwx1yIMii8L0lMGf5C1B442T7eYeSZvAqWtJIwspwNVAmYvsyQ8JzPF1k7zNWtrSHQAuzaw3zT3Q4AY+5lsYOcfj8ySV4+bkTpdPAD2zukrgPSZ5J9iyhChkN2FVYA=;Icr7b+zaxFiFgFzbK3PVKg=="
 ---
