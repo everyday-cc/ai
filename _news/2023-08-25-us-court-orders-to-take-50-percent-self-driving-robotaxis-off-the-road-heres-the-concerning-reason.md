@@ -43,6 +43,54 @@ related:
         width: 662
         height: 348
         isCached: true
+  - title: "My ride in a self-driving car on the streets of San Francisco"
+    excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
+    publishedDateTime: 2023-08-26T23:02:00Z
+    webUrl: "https://www.thetimes.co.uk/article/autonomous-driving-tech-runs-into-its-limitations-on-the-streets-of-san-francisco-9k6jkrlf0"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F36195570-4443-11ee-9098-1b3c9790fdce.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
+    publishedDateTime: 2023-08-23T16:11:00Z
+    webUrl: "https://jweekly.com/2023/08/23/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    type: article
+    provider:
+      name: Jweekly.com
+      domain: jweekly.com
+    quality: 11
+    images:
+      - url: "https://jweekly.com/wp-content/uploads/2023/08/20210408_BaxTowner_Cruise_CamA_NEIGHBORHOOD_700848.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
+    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    ampWebUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 11
+  - title: "Cruise, the self-driving ride-sharing service from San Francisco"
+    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
+    publishedDateTime: 2023-08-27T12:47:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/cruise-the-self-driving-ride-sharing-service-san-francisco-3404426"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 4
 
 secured: "nBrQpkYrH/jwabcSgYpbiT4cdhqH2MELKp6IKYIl7z46p5u+MqxupM7/BJDafAGIHYiMsRZWCPFj9rVhTwlC8t+yiEr4AEM94b0J8z2wW5cJaGAdTLHZFeyRMRxyHnt4JW4HKuARiI7mItPeiWUraspIYWOcefyptfziCxxxQs6ucsrxz0XhFmiv/8/T6QlRsOg7oFJgeGX1YS04Zf1CV3v1Rn/BifVZHBcInC5IXUIBSNTcAWhKPuBceB6/2aR0i+Qwlo4YIqAso1uOy/zQn/qn/s6ZY1jKXIGfx5laOZ0ZXXNvsmVUvy+gYldUWCgY2hUH/Bg1tIr0f9zx2deZeT1s8+tGzd7iNMKdeI9DgRA=;qjrLZCnQ6ZZitaMmqa0YUQ=="
 ---

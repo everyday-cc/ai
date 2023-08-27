@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited
 webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,29 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "How AI brings greater accuracy, speed, and scale to microsegmentation"
-    excerpt: "AI streamlines team collaboration and automates workflows, decreasing the time required for planning, analysis and implementation. By enhancing collaboration and automation, AI has optimized the entire microsegmentation lifecycle, allowing for a quicker time-to-value and ongoing agility, thereby enhancing the productivity of security teams."
-    publishedDateTime: 2023-08-22T22:20:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-brings-greater-accuracy-speed-and-scale-to-microsegmentation/"
+  - title: "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests"
+    excerpt: "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ..."
+    publishedDateTime: 2023-08-27T14:34:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Neowin
+      domain: neowin.net
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
-    excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"
-    publishedDateTime: 2023-08-24T12:52:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/microsofts-blueprint-for-indias-ai-future-ethical-governance-innovation-and-global-leadership-article-103028530"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 37
   - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
     excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
     publishedDateTime: 2023-08-23T16:41:00Z
@@ -60,15 +53,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
-    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
-    publishedDateTime: 2023-08-24T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 26
 
 secured: "NLwyU1OeEQhCfBwc0Z0BOGqrPt8Wwcu1tSvFCxxGgp1L+oTfdy2bK4TafqyY+p+GZQQtBJLpJjgtQ/5VupEuYRyFcKiTJkZeAlBIUpiOE3288oIMpM0zAN5+WYZwfWAis6G940LUGd8maqqXMmaoI4XWME+hxK8lS7dq9B52iP6YzWNA2rphzIcsry4YJ4CBdpIMjv9bqpwnZxLG5BVJxGNMW8v0VJxhtVnezovvXTT6Xy7gY/yPVnaifUoGw9flvC+gcKBAj7jGAZN7hWaYqAEpCgWT7Vhpf855eDGfiwfq3/YbPC9eCm29KPQKfhriRwLmfvGj1q3ZfM/Pd6qVbofeJFHnHDfOKHFefsDbKFM=;vYTpdGUEUlQHku8V2HouSQ=="
 ---

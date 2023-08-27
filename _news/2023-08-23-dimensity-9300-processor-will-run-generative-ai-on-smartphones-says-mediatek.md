@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MediaTek-powered flagship phones will get on-device AI support in 2024"
-    excerpt: "The company is working with Meta to offer the Llama 2 large language model for on-device AI capabilities. It adds that the first phones with this chip will be available by the end of the year. The Taiwanese chipmaker revealed that it’s working with Meta ..."
-    publishedDateTime: 2023-08-22T23:05:00Z
-    webUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Mediatek-Dimensity-9200-back-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "OBys8/a42EDf/0RfuGwwpCy9dAP9rN6SzVDXR+UmvZcFUp5odUeUQbEZ2BVEWkiSYdqJKe1/cfA1PgkglR01K2k9RFT66pKdYyhglFLtl4Tx25+9MybTNPM5JYA6xStqBXK9S3BJf5z76n31OtD/+M0kvH8lLqXCqaSJ5aW7EqTKnPpiFQGmLIYcmV2tuorL/yqPHctlht2gRcFQhr/Wc3Z/KnAKwEp5cixYHbSgnlLNDWejaRT4EzVSjncIcYLvw4mMtn98XB1tgBFoVR8o95aYRtjBuiOIxlsPusdj2noAS3cx52EiKwRmjwb0CwSEWng2zlrMaDzrpjlc+mE5jXN3B/TJMdxh3OT/yulOx9Ud0QjX4Np8h7twa0s3gdqSavX5ZtYc7X5iVp+CMz1JkFB4kXrOiyT0AuA+Ka+5vBwm0DUfY9tTFHQkRJWawfncvdeV0435UNR3mmrv/NJwc5Bycb9EsffqHZfxIb7nhem8ZFy9A1ad9xkkgVMCpWZYiYgLf+Hpo4+QjKZvhFbYnw==;Fh63y3avOHsIDX2S8RU/5g=="
 ---

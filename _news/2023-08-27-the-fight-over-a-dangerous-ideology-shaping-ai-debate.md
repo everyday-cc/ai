@@ -1,31 +1,31 @@
 ---
 category: news
-title: "The Fight Over A 'Dangerous' Ideology Shaping AI Debate"
-excerpt: "Silicon Valley's favourite philosophy, longtermism, has helped to frame the debate on artificial intelligence around the idea of human extinction."
-publishedDateTime: 2023-08-27T05:54:00Z
-originalUrl: "https://www.barrons.com/news/the-fight-over-a-dangerous-ideology-shaping-ai-debate-647a488d"
-webUrl: "https://www.barrons.com/news/the-fight-over-a-dangerous-ideology-shaping-ai-debate-647a488d"
-ampWebUrl: "https://www.barrons.com/amp/news/the-fight-over-a-dangerous-ideology-shaping-ai-debate-647a488d"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/the-fight-over-a-dangerous-ideology-shaping-ai-debate-647a488d"
+title: "The fight over a 'dangerous' ideology shaping AI debate"
+excerpt: "vocal critics are warning that the philosophy is dangerous, and the obsession with extinction distracts from real problems associated with AI like data theft and biased algorithms. Silicon Valley's favourite philosophy, longtermism, has helped to frame the debate on artificial intelligence around the idea of human extinction."
+publishedDateTime: 2023-08-27T15:52:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/the-fight-over-a-dangerous-longtermist-ideology-shaping-ai-debate-elon-musk-sam-altman-peter-thiel-marc-andreessen-71693107917436.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/the-fight-over-a-dangerous-longtermist-ideology-shaping-ai-debate-elon-musk-sam-altman-peter-thiel-marc-andreessen-71693107917436.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-fight-over-a-dangerous-longtermist-ideology-shaping-ai-debate-elon-musk-sam-altman-peter-thiel-marc-andreessen-71693107917436.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-fight-over-a-dangerous-longtermist-ideology-shaping-ai-debate-elon-musk-sam-altman-peter-thiel-marc-andreessen-71693107917436.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP4854454890896678239644891751104993353220---1.jpg"
-    width: 768
-    height: 511
+  - url: "https://images.hindustantimes.com/tech/img/2023/08/27/1600x900/Artificial_Intelligence_1692374860750_1693109508840.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "YN2IVq4VLrQ/Gj21tdY/CnlyT17+irAOoNyYg44PHYwcQz66Ia7V2efXc70M+hFsyPDZbnLYWRmWSIt1jRwX8zyeISaSljznxexZNHQ8dCGsJ7KvNO7IFMNwDIVPf9FqEtf9tSO+VsvfUUx6XjiUtqyytMbpMDE6LRVOF7B/svjYudmdzGr2h71vmJAC17TeXcnH66imDIkWpUc5Kr3M7SkQYWGc7HXHvfGsOoXJgZzsoXwVd8TtdMnLGgflzTiDVgkmzWpZhnUxlJmP2EdAOykoTP7w72Qoa04WgOVHPy+McMznt/tBoSmqJjDSwhdZxGXZHCoUTmEIzUcNpQ4UeUuMQw5N6A497eyI2RPU5HY=;YpIJtqt9eZ6au16w5CjGkQ=="
+secured: "8kRS/q+jgNr5ds3c7uQ+PP9fOt3veDvea5McP89ooQcZGI9r546fWuVcXDZm6hUn1KDZHPjUTIXUDF/Mn3tr81/ua1vKNPMUfeUMi5L4OdRTfeCPtG4DRAI4SWo6Gu2AQbJNpEXv1yvPt3mmDBkhv1AbO9cBZhWEMjUxIYiXXNX4IJNQg8Kvy/GnCzquFi7TgE3OzaMU0tz5fvrNDb2cbuGoqfEwsLF8d31SzytsN4QsxxjEPOMVH+2dlIZF9poiJIpcRYUICunGf0DV8aVtlOV7LcUrfIk4jGOixwBOw7VbFrzakumajUP16HX1+VUzKTWD3t+E16gByiBM8DnG1ukEDwkFo/flDVBeXH6Jnow=;Xhp+Fw2IJ0BeaC6q5i0BSA=="
 ---
 

@@ -62,6 +62,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Teachers turn to AI to make workload more manageable, chart lesson plans"
+    excerpt: "Droves of teachers are turning to artificial intelligence, saying the technology keeps their workload manageable, especially as they chart the course for a new school year."
+    publishedDateTime: 2023-08-27T12:20:00Z
+    webUrl: "https://www.ctvnews.ca/lifestyle/teachers-turn-to-ai-to-make-workload-more-manageable-chart-lesson-plans-1.6536759"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 18
 
 secured: "DtFTdT5jRYf2XDlJzrfQB5hbBvPXkp+cNM2MVQXPdeLEq3e8QPJ2y8p7ve/jev6Ixj1vHrfU2WcYc/pSU3wlW1js7zFWvFBfgyYmfVJiVgPNqhS/J2Yat+PsN2rj/uBk/Eu7pL3WBdIAOQdNy167g1M2ubovNv+9TbZ4mGbvrw65gtEKTOUOxmILbrh41aHwImgbektCIhhIZx3i0JUyOElFusOIlrDOuzsweJM5oHZEQ1N+wqLV5u/LkALmIYAvP6pFzs9WXRpouEZwuq7Z5QsyASiPMcK5Q1xyQXbNC0pxnar1GSaaFvnU4vM5w+xAJK6hALqvw6543+c2tsagLhLei+dhIArjpahZZw4h7352FnMWUU9J7/AS7YohSkiLiluOZS0BFN5if8oEounOYIo52OCwGD+EN9Mnqu7TqH+VxYYxY97YK6u+qr5QrqokjNpZ0SxY672HAuKDzVzdyj+zvLet/kXaDwa2E7Mu23effMF5hXXjRKg5Wc00yBPX4RSWNE++rrYFoJtpu02ZCw==;1m/T4PogbfHxJjv/ivqrjg=="
 ---

@@ -119,20 +119,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation"
-    excerpt: "Salesforce is leading a financing round in Hugging Face, one of the most highly valued startups helping businesses use artificial intelligence, at a valuation north of $4 billion, according to two people with knowledge of the situation."
-    publishedDateTime: 2023-08-22T21:04:00Z
-    webUrl: "https://www.theinformation.com/articles/salesforce-leads-financing-of-ai-startup-at-more-than-4-billion-valuation"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 35
-    images:
-      - url: "https://tii.imgix.net/production/articles/11120/6c44d06c-a347-496a-b947-f149f51cbc39.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
     excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
     publishedDateTime: 2023-08-24T21:49:00Z

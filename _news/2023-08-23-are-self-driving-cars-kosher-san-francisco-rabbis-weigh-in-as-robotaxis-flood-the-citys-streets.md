@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "IBM sells The Weather Company assets to Francisco Partners"
-    excerpt: "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount."
-    publishedDateTime: 2023-08-22T20:58:00Z
-    webUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/"
-    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
+  - title: "Robotaxis Make Enemies While Driving Around San Francisco"
+    excerpt: "Mishaps are adding to traffic and safety concerns over driverless vehicles, which zip around the city’s streets surrounded by sensors and cameras, collecting data and promising a world with fewer human interactions."
+    publishedDateTime: 2023-08-25T15:56:00Z
+    webUrl: "https://www.govtech.com/transportation/robotaxis-make-enemies-while-driving-around-san-francisco"
+    ampWebUrl: "https://www.govtech.com/transportation/robotaxis-make-enemies-while-driving-around-san-francisco?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/robotaxis-make-enemies-while-driving-around-san-francisco?_amp=true"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
+        width: 662
+        height: 348
+        isCached: true
+  - title: "US Court Orders To Take 50 Percent Self-Driving Robotaxis Off The Road: Here's The Concerning Reason"
+    excerpt: "California Department of Motor Vehicles (DMV) has initiated an investigation into a series of concerning incidents involving self-driving Cruise Robotaxis. In a recent road accident on Thrusday a self-driving Cruise Robotaxi collided with an emergency vehicle while crossing an intersection."
+    publishedDateTime: 2023-08-25T09:49:00Z
+    webUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303"
+    ampWebUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 29
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103057303,updatedat-1692956967122,width-1280,height-720,resizemode-75/103057303.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "My ride in a self-driving car on the streets of San Francisco"
     excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
@@ -66,6 +82,15 @@ related:
       name: The Forward
       domain: forward.com
     quality: 11
+  - title: "Cruise, the self-driving ride-sharing service from San Francisco"
+    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
+    publishedDateTime: 2023-08-27T12:47:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/cruise-the-self-driving-ride-sharing-service-san-francisco-3404426"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 4
 
 secured: "7lv1vlFz/MLtR+2ssYHV9e9A6Ucz+SO0hALaqlTPrHgvR+CqTKSF+A+ifLByXIKhzsye72j9ts23B/vAbx7X8sklvgRKZVr8BukEzsSaWkiNpIJPm7KdXEwtFFzQLD5ispMQ0hIrkhQkskr1JffxpL/ki8xWf0JRLamOT4rHgLi07ChtDLclrlkraKZPIU3DZWAclSBTbUijjlHwwkPUi55JyYh2FWH8VaQ7+GVjUpiOTAa2KJciQPnnh1mSneGgoe4VQdFX33+Ri0MnUv7o8oz3q5hPYZMcF8QjQQqSflz8i6TVCudCL+zTp8QR5Vu8i/EWU64y/yLVMLp9gDP5g9sQpm3tMintqpRVvr8e9XTbfXnOv8zYqZ8quniuANPhnvI85WkeqMfRtJVD0oIq5YySnWn9dgwLUVJlO130s0Gfzxg/WHh1bEuwZlG7SGTaLqlOw53ocZnuuRyRqB/LDVkM0sJbnPGaART2ZNgWHQp+mR4qJa0wEHGFS83oS4C3OLnfP/H47KDWkck6g+t8Rw==;LwK6enz1YnXfiDaNODtY/g=="
 ---

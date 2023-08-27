@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Debuts SeamlessM4T Multilingual AI Translator"
-    excerpt: "Meta has just unveiled a new AI solution to address cross-language communication called SeamlessM4T, a multimodal and multilingual AI translation model."
-    publishedDateTime: 2023-08-22T19:24:00Z
-    webUrl: "https://www.iphoneincanada.ca/2023/08/22/meta-seamlessm4t-multilingual-ai-translator/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 19
   - title: "Meta Debuts SeamlessM4T, the Swiss Army Knife of Translation Models"
     excerpt: "Meta doubles down on multimodal translation as it launches SeamlessM4T capable of translating speech and text."
     publishedDateTime: 2023-08-24T09:25:00Z

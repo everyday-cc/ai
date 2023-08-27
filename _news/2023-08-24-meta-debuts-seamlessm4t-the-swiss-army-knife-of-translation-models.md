@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta Debuts SeamlessM4T Multilingual AI Translator"
-    excerpt: "Meta has just unveiled a new AI solution to address cross-language communication called SeamlessM4T, a multimodal and multilingual AI translation model."
-    publishedDateTime: 2023-08-22T19:24:00Z
-    webUrl: "https://www.iphoneincanada.ca/2023/08/22/meta-seamlessm4t-multilingual-ai-translator/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 19
 
 secured: "vNPXakXQQJmBC73kCmDGTSfU7NJwrjB2Acs0WcotKB5NBCnlV0wmiNW3lvy9d76KlWq6Si6VN7Ofvxx3w5f4YcUJ+M0oz6Mh+uzsKwa+BcWqS9uBez91nmOGO4fI5cSX+wT5sq4A3F2fV1Nuj/sUJq/+5N7abT4VUXK9YakXJjhyym09dQ6dSDC7B7cszvxji6TuXzNPCTqGDWUsgrILDfPvvHR3m7WkaE52PsEdd4sJThVyVfLVfS3r5UzjIE9r4/zFfUCgA0QSf2G9zYcceDwkKNNlr7q3Wrz/T2wljr7hlJc4Im0Ncb9oCEzojAtEKvebV2MeMQ2PTusWwmr2/qS2bMrmQONiq8CxDwubWjr+tD7yOCIbriBrS7+4p4VY8M9/oPzBpTOTwoWTON4WIhyAYZdoFxo3qMarqpMZCY40rw7PEvXhuggLXS50022AZFu3vdHntmbL72tGORD8thBBL+NK0WXJXaEEkgalGq2+mXpCQ2n6HvFXcZFdQMkf1NWU13j8Cs3ckfjCtrOyJg==;kcUBVxM2pYQ9ypauOY5awQ=="
 ---

@@ -42,6 +42,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
+    excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
+    publishedDateTime: 2023-08-24T17:25:00Z
+    webUrl: "https://analyticsindiamag.com/twilio-segment-unveils-customerai-predictions-tool-in-partnership-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/TwilioRincon©Blitz_03EDIT.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
     excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
     publishedDateTime: 2023-08-25T13:44:00Z
@@ -51,6 +65,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "Epic looks to accelerate generative AI offerings"
+    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
+    publishedDateTime: 2023-08-23T20:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "o/Y5cYj0Zuqc1/yj6/Q2+YY97vGHmlRc4VzcRdEPig9N2h2hvqcXdEzvA20csRBAi8pdGN6DJFXLMKHrpGO8zHuaB4pjJHeUBaCEFUMilYO7mGH2sAgE5yf2A0LbrV7ooY/xIRZztgXL/QoEPLdMY38z/QL66n598FmIFQhCo2/fBEqg5oazF2pd0/NBIGl842fZiw8E7a0A/nfxOlmJ1hqcCt4u96t3PHgSG7HPQnv5J7lTJLx8H1RwJs/L9kTR4hBElIaspOPeUj9Yju0kU600O9rk1++hQdedaaHy/6YT8i0bmWVNp3Sy3X3Dhbe2LyzRWiILKXcT4mFit3xOYK+LiJyYTub5B+9FtYkzGZs=;0kk3QXrkbrt1h3i8EN49QQ=="
 ---

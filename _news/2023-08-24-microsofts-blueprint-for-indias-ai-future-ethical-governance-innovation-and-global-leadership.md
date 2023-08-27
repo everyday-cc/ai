@@ -7,7 +7,7 @@ originalUrl: "https://www.timesnownews.com/technology-science/microsofts-bluepri
 webUrl: "https://www.timesnownews.com/technology-science/microsofts-blueprint-for-indias-ai-future-ethical-governance-innovation-and-global-leadership-article-103028530"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,54 +18,6 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
-
-related:
-  - title: "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI"
-    excerpt: "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,"
-    publishedDateTime: 2023-08-23T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-  - title: "How AI brings greater accuracy, speed, and scale to microsegmentation"
-    excerpt: "AI streamlines team collaboration and automates workflows, decreasing the time required for planning, analysis and implementation. By enhancing collaboration and automation, AI has optimized the entire microsegmentation lifecycle, allowing for a quicker time-to-value and ongoing agility, thereby enhancing the productivity of security teams."
-    publishedDateTime: 2023-08-22T22:20:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-brings-greater-accuracy-speed-and-scale-to-microsegmentation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-08-23T16:41:00Z
-    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
-        width: 1920
-        height: 960
-        isCached: true
-  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
-    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
-    publishedDateTime: 2023-08-24T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 26
 
 secured: "C570R4ksOk/8zO79QB2DSUo/GK2UtOe+yGQHK9db+gHDkc8A4xQCD9wQNyMq+G5u8urQ5fxTAJvDZCmhf3ut2rPk3Jn5xV9kQyqORxdgnPL7GqpYfw2bo51e1kbv1U687yigJ//F8ymekXz18/ufwuPtvFXAE7yBXEKwhex6XmV0PyjkDKcPUOjzNwveC3/BwCXOIkLrWIhx/TcIKEbAlu08S2LKk5Lsr8w3vlLfq4xKih5AHs9lE3KKSbBdFn3KziTsrmU+Cd92hgbE0B2nHIkYkfgDL64XDD4lFsRMXeyj810DTpHQ/svzH/3Bqut26baf1ZHBpz05Aq1o3ekKQl88ieeyl9RDTQ3vmB0YwuY=;65BuKtwrhliMBZls86IIJg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailycamera.com/2023/08/26/community-editorial-board-art
 cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2023/08/26/community-editorial-board-artificial-intelligence-in-the-classroom/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 630
     isCached: true
+
+related:
+  - title: "Editorial: Acquire AI literacy"
+    excerpt: "There are two camps that are distinctly eyeing each other warily across the gulf created by artificial intelligence (AI): those who are using it and those who are not and"
+    publishedDateTime: 2023-08-27T12:03:00Z
+    webUrl: "https://www.sunstar.com.ph/article/1970995/cebu/opinion/editorial-acquire-ai-literacy"
+    type: article
+    provider:
+      name: Sun Star
+      domain: sunstar.com.ph
+    quality: 19
 
 secured: "AfOz4lHNZc1ZMcnTj4+Sb4cXLBr96DT1C2XGgRyc/rSejVyg4UAMPVRPyIg0PLTLS9ycSPikknEVuWwRylm9I6+1/D7L/E9A16FXypTiQYnxUcM/2ksRxPcTZJoypLvt1oDf9f6L3tzajolFdLLEiMj7uxQl1ggajLMcw1Qnw41t8ZchuZ+uWvz3kP0xEWTvb+2FOMVvfL14MacpkoTRknM2z/MvCfryVoxs+f7oNRMSo5JEdCZH604p8bn9TbNPohVXMQNKUqqwO/CbvxA7syC8jG5NI1CZB0sW2kkBzCc/qLVDJWoPR+sF4sYJrCSvZMw8dQdE2BFS2I9Ck/Yc0Rb4LhvPXT8iD9CLiXu3Lg2mMETHC0xFd+A1rpopJrvRLoqFh9QKD604xLltz4QCD5klcTlQs7GX1Qz6H0TubH9/X/HAEY5im4W/QxjGML+1WJK06vT+h849jCmzLDKlK/o+yhBbxYQsArVPZGzK6GmHKJueCle+LYJpSeViJXzcruNi1aHZ1Cj0TIvO+hSBsg==;wnsxO8DjOHl/sOmaEGMxDg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nv
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 69
+  - title: "AMD: Strong Read From Nvidia's AI GPU Surge"
+    excerpt: "The Nvidia FQ2'24 earnings were never really about whether the GPU chip giant could hit the $ ... and so that's what we've been working on. Our AI engagements increased by more than seven times ..."
+    publishedDateTime: 2023-08-24T00:28:00Z
+    webUrl: "https://seekingalpha.com/article/4630716-amd-strong-read-from-nvidias-ai-gpu-surge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1468619897/image_1468619897.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1017
+        isCached: true
   - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
     excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
     publishedDateTime: 2023-08-24T00:13:00Z

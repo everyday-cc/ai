@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "Zzc9JkJ5LRQtljGkZ6LXcw9WS5AalnFdEe89ePYDyzx1X5Pqv6m2Za0OI8Xo4VWJ7vqLnhev153hj5TBFUrCpuuJGPcxQNXfFESBAAZZqafwztPuxIX+MDf4T/Vyo+xpXZSrXVslnyWABOlKlYsXFqvTrpV8XnY6kNs5ePnpUFP5prqzVyXqhIHfvIAfyRwFhl2+hkM3Bn+FtaMD5F1J5Nggnotdzj4f6+dN4XX5p2aW+698XVh3JNzw8SPX7FTcRZtU3z8rEB6pwoRoOwgwxen9jWy8ZqN4IB8o0pLCUEkG0Kj3x5o6DUXz9d//bLSe9TxE7ng6rltN4Twae8q+Md/SSLPYFhOcJVsaLJTmI+Y3DIs7FmMa9OtoT/3dSTm97T198SR2jZGRgteWnkJCuXeGfkbGQsRB+vL08h69820UAl9m3hp7+GcXn84Q216ArHYq6a/sMzMg4qdWL5F7fKwh6FhVCL9mfL9QywrVQoIL4YG9iyMh5hWuD1+5EU+bUR7g2jP3bi30VfsiSQkDhA==;be0bfQCJzue73oJVTKPu1g=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-cottonbro-studio-6153354.png"
+    width: 960
+    height: 540
+    isCached: true
+
+secured: "kHaFqclH8JoLUkXo5uSgMeWY+TZz2omtZLV+EOnRorm3wno1Ysj4yMT17RNYenaZq1GVXTSfAgN667sBA+ZVhUAgY9zWhgS8DBCuEYBVG23bV9G98rihBuJgHnJIOisNPxXuRv3nqh8FMreFkC0/nbS+BeMfh81Fpg9lV06sx0QUvhVFcDcatwvLf1HZu8+DxA0Z0vdhreSGWUMzAbX7nyuCPk/WaSI7/Yr3M3FFeAlLyvXB5g0gYD1H5vE8BBh9u6Q8KAQe/jSWbo5cYC9Ubeu8z3X44CR2OJE3jzvgx5Q06THIswMHCpOMjc4lVus587QYUQaGx9ponZfV1OGqddgJbFL7M9opxCzefWXOfWY=;ZaJ6g2ZAuf+KWAGNEmUMSg=="
 ---
 

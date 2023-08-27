@@ -55,6 +55,20 @@ related:
         width: 1201
         height: 631
         isCached: true
+  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
+    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "uakbJR448zMUqVMaVr4R2kTLJ33MyfE8voPEjl689hFibk+n8Le0GhfDwruJ8F8bgkpEGWF+rlIzuafz0+9lDwya8dY/st5RP8F+JZVod60+Q3mB42/MAliz/9cPKhAAW43XyQ8asT5L/FCQ+/Ru0RIi4H0AdwT9Oswnv1ekYhNQonfpalrpdTikWtLOM9We/E7lmokDRhQdARs5qPl+0ZLGViq7Mt1EcEsokMeB6PYVAqo8+8FKowxR7GAnN1oGqnk7/6qrTIgT5Q9DUV+oy9cGuY1FsdMu/oWPDrvrHDWnrhCUQa2nLezNUejcEESHuq/zr/WpS2PDYL8CmcUm3hL4csuuuGumdrfc4lTDYjDUVxeCdVtkCAK2qvlnGi18N16ev/JV/rCWZDLCbtqvg/TV0pgpNZkdPPev44hBBQTB69Sv/yi2pmgqeQ/kGqQpVfh6rGZsAta/EdAa5P9RXtuMrSrzsoEkrApUQnazUFPSyWpwBmpw6Yk26tuj7HCiuHE+cw1EmVfYr0FyRTpttQ==;7pvkCfrrgvMA3Q/MK1F9Og=="
 ---

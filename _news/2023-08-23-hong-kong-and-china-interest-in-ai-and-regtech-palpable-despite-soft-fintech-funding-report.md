@@ -117,20 +117,6 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
-    excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
-    publishedDateTime: 2023-08-22T20:55:00Z
-    webUrl: "https://moneymorning.com/investing/buy-this-beaten-up-fintech-stock-thats-poised-to-soar/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 24
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
-        width: 800
-        height: 712
-        isCached: true
   - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
     excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
     publishedDateTime: 2023-08-25T15:58:00Z

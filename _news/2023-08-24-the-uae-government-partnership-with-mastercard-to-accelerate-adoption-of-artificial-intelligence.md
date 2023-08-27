@@ -42,6 +42,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
+    excerpt: "(MENAFN- Weber Shandwick) Dubai, 24 August 2023: The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and ..."
+    publishedDateTime: 2023-08-27T12:35:00Z
+    webUrl: "https://menafn.com/1106968443/The-UAE-government-partners-with-Mastercard-to-accelerate-adoption-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 6
 
 secured: "mxkYfnDYKWRa5+x/hYDT+Hw9+qrcWLwB9Ay0xSagOIQd+F/zf966F0U+gZbweU9pPJI+MUl2aoDIuzLvHbDE1yzfvIqiKeJ68+8pzfOGi6K54EuhGC1lUzEQJ0T03IguWZ4XBHZeobbJd09j8Vkk5R0vHpjZZXgYOf6peiZWc4lCx0EaMGcnQBr/yy6uarGryBpWPI1TzpYCwIkI5c4EAR22Lag0XDkxi5tz1SM6FUx5eeiU15b1COP3T3B2wqr/Xtl0vqHhLcKTh1nnGf0zfnnh8ejKblptmSPzgYf5sE4rNxyj6EOWtwLONBKWxyrKWamulza/M4vMPvRekz8i1010K0XtXP4kbC2CeIYobq8=;byrY2D6qRj/H3km/pZ1hqw=="
 ---

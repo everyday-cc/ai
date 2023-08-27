@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
-    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
-    publishedDateTime: 2023-08-25T02:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
     publishedDateTime: 2023-08-25T10:34:00Z
@@ -108,6 +92,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
+    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
+    publishedDateTime: 2023-08-24T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 26
 
 secured: "syDHDPMbzw+fztTgGR+xMJFFTr4wIx1+c/AxM3kgd4YPptCRzf7Zxxq80XLDeUhVLLHvVF4HCcXhbrYQQztXsZ55TuyPudZI6naxbyANT5soy9XGRhzvKzDA4SQrlbHEx+0Uxa4Jk2jOLJ0Mp8IxYGaw7e+L9poveyZNCr1AANsjgkmU0/W40vjm4fAX/vgIeady5WAd3IylLFZlZsrf9KeSm1zIet+B1xhKQfPTVix76kb639R6vl/RpMn9nHqy37NhI/eYj09/0+daiX0B/MZhzH/NTi/1SyYO6FpVQGdhXogbB0gE1iFtmN4FMns4lFTXtZXIUuTZtEUltUJmIoqy/aC1jrI9YpBIXVLcW6LI8jO4rHKS7gxG399UJEP0mnmMkrNvskEfBp5MYQiQk77hbwC1HtJam3o9shKSH5YZcIq9FZKkqR/ZewtOMzIgjbh2Q6dtJGXY0t+tSO7eqCVZo0D2NNdAdYj5di/dXEvSeeMQtK3Cx+shVgR5WPgJWdsDcoXDo8cB6SxN4GN2tQ==;UhtbOGehbbQhM3cj4B++2g=="
 ---

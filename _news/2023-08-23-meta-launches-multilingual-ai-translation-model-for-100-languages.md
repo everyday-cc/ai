@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Meta’s New AI Can Translate Speech and Text for Nearly 100 Languages"
-    excerpt: "SeamlessM4T builds on Meta's previous AI work. In July 2022, the company launched its No Language Left Behind project, which uses AI to do text-to-text translations for 200 languages with an emphasis on improving translations for rarer or less commonly used languages."
-    publishedDateTime: 2023-08-22T21:27:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/metas-new-ai-can-translate-speech-and-text-for-nearly-100-languages/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/af7aa605783b600c7df53215364756cdff17665d/hub/2022/11/10/e953c2ad-22ab-4908-a566-a6c217e847c7/meta-blue-red.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meet SeamlessM4T, the Meta AI model that can translate 100 languages into speech or text"
-    excerpt: "Meta releases SeamlessM4T, a multilingual foundational model that can translate and transcribe 100 languages across speech and text."
-    publishedDateTime: 2023-08-22T20:05:00Z
-    webUrl: "https://venturebeat.com/ai/meet-seamlessm4t-the-meta-ai-model-that-can-translate-100-languages-into-speech-or-text/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Meta introduces AI system that can translate 100 different languages"
     excerpt: "Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects,"
     publishedDateTime: 2023-08-23T05:55:00Z
@@ -101,20 +73,6 @@ related:
         width: 4000
         height: 4000
         isCached: true
-  - title: "SeamlessM4T: Meta’s newly designed AI translates, transcribes 100 languages"
-    excerpt: "The SeamlessM4T model provides on-demand translations that enable people who speak different languages to communicate more effectively"
-    publishedDateTime: 2023-08-22T20:05:00Z
-    webUrl: "https://gulfbusiness.com/seamlessm4t-meta-ai-translates-transcribe-100-languages/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 67
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/08/META-AI-SEAMLESSM4T.jpg"
-        width: 920
-        height: 630
-        isCached: true
   - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
     excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
     publishedDateTime: 2023-08-23T07:12:00Z
@@ -130,43 +88,6 @@ related:
       - url: "https://static.tnn.in/thumb/msid-102973423,updatedat-1692774727385,width-1280,height-720,resizemode-75/102973423.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Meta’s “massively multilingual” AI model translates up to 100 languages, speech or text"
-    excerpt: "Meta is far from the first AI vendor to offer machine-learning translation tools. Google Translate has used machine-learning techniques since 2006, and large language models (such as GPT-4) are well known for their ability to translate between languages."
-    publishedDateTime: 2023-08-22T19:57:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/metas-massively-multilingual-ai-model-translates-up-to-100-languages-speech-or-text/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 56
-  - title: "Meta Releases AI to Translate Dozens of Languages Using Speech and Text"
-    excerpt: "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from speech or text in up to 100 languages and generate translation in either mode of communication."
-    publishedDateTime: 2023-08-22T20:50:00Z
-    webUrl: "https://gizmodo.com.au/2023/08/meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/1e1a0f03db5318c6ee689ba8646ed173.jpg?quality=75"
-        width: 1543
-        height: 867
-        isCached: true
-  - title: "Meta releases multilingual speech translation model"
-    excerpt: "Meta released a new speech-to-text model that can translate nearly 100 languages called SeamlessM4T, as the company continues to try to make a universal translator. SeamlessM4T, which stands for ..."
-    publishedDateTime: 2023-08-22T22:06:00Z
-    webUrl: "https://www.theverge.com/2023/8/22/23840571/meta-multilingual-speech-translation-model-ai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/qxym8ImmPkW13oLOQoP9aLaQR1o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."

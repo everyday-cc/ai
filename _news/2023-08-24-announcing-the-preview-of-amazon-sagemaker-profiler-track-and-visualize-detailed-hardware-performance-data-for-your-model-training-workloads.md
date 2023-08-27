@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-previ
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-preview-of-amazon-sagemaker-profiler-track-and-visualize-detailed-hardware-performance-data-for-your-model-training-workloads/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler"
-    excerpt: "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler."
-    publishedDateTime: 2023-08-22T20:33:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/21/featured-images-ML-14476-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "How to install Llama 2 on AWS SageMaker using DLC"
     excerpt: "AWS SageMaker is a fully managed service provided by Amazon Web Services (AWS) that allows developers and data scientists to build, train, and deploy machine learning models at scale. It’s designed to make the process of machine learning more accessible ..."
     publishedDateTime: 2023-08-24T12:00:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Llama-2-on-AWS-SageMaker-using-DLC.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
-    excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
-    publishedDateTime: 2023-08-24T17:25:00Z
-    webUrl: "https://analyticsindiamag.com/twilio-segment-unveils-customerai-predictions-tool-in-partnership-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 46
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/TwilioRincon©Blitz_03EDIT.jpg"
-        width: 1500
-        height: 1000
         isCached: true
 
 secured: "V17lRxKGOJY0yRF03w3/0jAHJsS/7fJhX2AUZr2HOdXBlz/n4r7VW4GWgrsJ6kzB8SOg6jd3j0Mao/1Khk+ypzL5YLd/gR81PP8+k7wQvdSXGy6wOiM7bI5Y1o+SyYXUvP8Iyiey7om9d8Dscn3xMeGmYL1niJIE4spbkU7+J80/xoU8ES8um68GoNgjoEkHFh6y3bHFeZrxH3AP8vNajuoMEdzQqeweESTzmoXqzkUt2C1xjrn2O+w2dwouXEhiow7FMkLsB3R9HTN6QYYT0lESmoyBpuWshwFixgQ27mphyzS/Nu6X5EUqYM/ekS6JmeCHBUcMYvuPnl7mzURCwox0nyRqQ+1+c2E+y/Ekhpg=;LiD+MZMP21mnNJBKhIK6wg=="

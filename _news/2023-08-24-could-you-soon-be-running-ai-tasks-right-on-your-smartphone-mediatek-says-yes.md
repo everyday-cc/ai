@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek-powered flagship phones will get on-device AI support in 2024"
-    excerpt: "The company is working with Meta to offer the Llama 2 large language model for on-device AI capabilities. It adds that the first phones with this chip will be available by the end of the year. The Taiwanese chipmaker revealed that it’s working with Meta ..."
-    publishedDateTime: 2023-08-22T23:05:00Z
-    webUrl: "https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Mediatek-Dimensity-9200-back-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Dimensity 9300 Processor will Run Generative AI on Smartphones, Says Mediatek"
     excerpt: "Details of the Dimensity 9300 chipset suggest a radical design, with specifications including Arm’s Cortex-X4 and A720 CPU cores and the Immortalis-G720 GPU. This technical composition suggests a strong commitment to delivering a robust and efficient AI ..."
     publishedDateTime: 2023-08-23T02:58:00Z

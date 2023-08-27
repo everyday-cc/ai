@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chi
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Teachers turn to AI to make workload more manageable, chart lesson plans"
+    excerpt: "Droves of teachers are turning to artificial intelligence, saying the technology keeps their workload manageable, especially as they chart the course for a new school year."
+    publishedDateTime: 2023-08-27T12:20:00Z
+    webUrl: "https://www.ctvnews.ca/lifestyle/teachers-turn-to-ai-to-make-workload-more-manageable-chart-lesson-plans-1.6536759"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 18
 
 secured: "VH498B6NX42vizacYvk4M8kEIfFEt+elYY6UJgj+NRYSxLrD65/9bvjiFcygp6a8wEcfwUZk0Yb4PGsjaCyvkR0VFmfHhRq6TCloSFVdOYNKsmlotCtFSjDLcLa4facp9yISKjsIzGQeGgJGG4WALmhlUohXU6YFBQeQhtqCDMvcxxpJwKD+zAGy8gyN6wV3VrrKlCwqaohrqjL3gwKKQHvG+Tu1BNiMShazSVl88LDj7fuo5ZjmOnG9cutbrtKxahJReiIWn5brV3diIIIFKbJpyJ8olJfn5OmBpRJUVFX8iRuCp6JXDeDYYQizqXbfVXVayMwpgvpnt69fWcFvsHNjWsJCjvyfr/OxS71cZdzhFv/1+dDw79mMMmlABOiSrJT8/7Xln11gn9IxUAP0TWLmqMgile5MmMte/A+ulnVT+OWhOCXyActagY79HnFLh64Ks5tP+QaXd/rIc4Zvu9pnCBlNS41paRe8qiLuXLYKE8QnLbQp7OkPjbTYl/f41pVer+TNTzD+W+kO4CQGFQ==;uZJ8Vx7LVqJy8hq/WFC8fQ=="
 ---

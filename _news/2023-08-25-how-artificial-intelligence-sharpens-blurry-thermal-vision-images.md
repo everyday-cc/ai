@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-24T18:00:00Z
 originalUrl: "https://www.sciencenews.org/article/ai-thermal-night-vision"
 webUrl: "https://www.sciencenews.org/article/ai-thermal-night-vision"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
-secured: "5eVIEFk3R8Ja2IsBPBEmkvWG74JrIZM8cvSguFnk+V2Tq1ru5JbIEkTB3WiP3IDm/1S2eIuzgn8qxdhSw0uizLMYuN4WScsZIhh3xODhd7zNUDQZ5Va4J/GcWl1Fx+OE9Xyf8n84FDN9pmSBucENarU0qXFHL+ASa5rUhibhvYK23AxPKrqFvp6Zd0wmuhp4KkORejcpW6UkNDfA+QT0wMzEGPGZz6DTsg1zDVMcgASwAU4UK91y8fjfmIoWDWmmrfle/TgG4l/KDJKfHB3u4B8fNwDFYkjYw7CMf5KI8YGwhwszCTUuTYmkJ2FS6rNvfb7wAhzEdWM5223Jpq/nyxVY0Ycuv6dH/Sx0dCSaoykris3XM+k2AAujlsvm7HxNnwFumh+5ZCJLB7if8AgtfDGhReAyNLkXaYzF1eA9mtCVRXOZxqeOaiZHcFnbzTkPB1FyJ5h8BbeIpVHZbQ9wLNoCDgn9F+/grp2pDlxoCr+suNBkh7rRH1I1E5l1eOF0/4JFrCitEibuBHyefHSBcw==;xuALeIdkV5Uf8EM/9zShTw=="
+images:
+  - url: "https://www.sciencenews.org/wp-content/uploads/2023/08/082323_lmz_hadar_feat.jpg"
+    width: 1440
+    height: 810
+    isCached: true
+
+secured: "grWdsTxadZnPO4wCeu7EQAoDiEqyVBZ4oIEY2H/boVnPDFJqOwogcdSB5x9epFZSTQFSPIcYqhXvHdq54A+07DUKXhepJnVce3WJmJuJkYSY7H0ecR+6Lyyo10Yuac55IDyDHMcQxfyVfrWcKkREeEn3XdbzexdM65y6n+y5eR1stE0dZQI0dVXe+FHibL3QzHe+a2VdfQt7NX7sW332p6NJShhUG7xJ3swYCQGpitrlg1WVLG2StxB9HsZGzk4xQcKReFp4u+ifLRvNqtUkGRs3R9knphlIZcCl+9fhcMEqQ88IPIZSarHacjVQBMCwjzSUvbqZCvCNCaT4cyvksTohaMTaEwF7mE8ri2vgo18=;WTNPKmNtH9KrUUGNoknVXA=="
 ---
 

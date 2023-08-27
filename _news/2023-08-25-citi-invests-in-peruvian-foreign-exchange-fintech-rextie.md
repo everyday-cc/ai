@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
-    excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
-    publishedDateTime: 2023-08-22T20:55:00Z
-    webUrl: "https://moneymorning.com/investing/buy-this-beaten-up-fintech-stock-thats-poised-to-soar/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 24
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
-        width: 800
-        height: 712
-        isCached: true
   - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
     excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
     publishedDateTime: 2023-08-24T18:54:00Z

@@ -29,49 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "VMware-Nvidia Team Core Infrastructure To Acclererate Generative AI"
-    excerpt: "VMware is now continuing its systems level development by working further with Nvidia to deliver core services that underpin new AI delpoyments."
-    publishedDateTime: 2023-08-22T22:44:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/"
+  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
+    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
+    publishedDateTime: 2023-08-27T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e39ecdc2691457f00c8df5/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 360
+      - url: "https://images.wsj.net/im-841956/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
-    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
-    publishedDateTime: 2023-08-24T15:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
+  - title: "Your Evening Briefing: AI Chip Star Nvidia Lifts Broader Markets"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-08-23T21:59:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "Epic looks to accelerate generative AI offerings"
-    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
-    publishedDateTime: 2023-08-23T20:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
+    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
+    publishedDateTime: 2023-08-25T02:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "9IRWJnQwlxVcWh+oxyEOD0+uj5kGhJXe+xX4RsZba+mRzF88vNUyKetoSOMboWPqe/x66YKjE77lkXyQfF0ZtIvlnPJNt4et0JofxQAonyEM3/k1+yZuN3U6zCL3taeRLdN635sdIDARlBILjODXJK+iel14G2FgHIDy7xuueo47VmYqm8tB/rDcS50oBoAPjoVXuIGUJb2Vn61N58oO/3kxSxMd+vSyzWglUP6p23XMyl7Yt3zbOMAkUWDrOybwomXgeln3YDKHtCo5UTxO1KP5fRdQroCXrReuBvYyLsz4lsDyAAK6JLaQogns8pfcqb+WANYvhUrwkZZPFe3UA2evz9TXSunSexTydgrLVSE=;l9gu3EgjBcQogiaaxGefKQ=="

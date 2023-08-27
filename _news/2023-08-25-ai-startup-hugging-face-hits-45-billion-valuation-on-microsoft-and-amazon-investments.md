@@ -19,52 +19,89 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI"
-    excerpt: "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,"
-    publishedDateTime: 2023-08-23T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vci-global-limited-announces-visionary-collaboration-with-microsoft-azure-openai-1032576117"
+  - title: "AI startup Hugging Face valued at $4.5 bln in latest round of funding"
+    excerpt: "AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce , Alphabet's Google and Nvidia ."
+    publishedDateTime: 2023-08-24T13:01:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-  - title: "How AI brings greater accuracy, speed, and scale to microsegmentation"
-    excerpt: "AI streamlines team collaboration and automates workflows, decreasing the time required for planning, analysis and implementation. By enhancing collaboration and automation, AI has optimized the entire microsegmentation lifecycle, allowing for a quicker time-to-value and ongoing agility, thereby enhancing the productivity of security teams."
-    publishedDateTime: 2023-08-22T22:20:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-brings-greater-accuracy-speed-and-scale-to-microsegmentation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
+        width: 5500
+        height: 3668
+        isCached: true
+  - title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
+    excerpt: "(Reuters) - AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce, Alphabet's Google and Nvidia. The latest round of funding outlines the rapidly ..."
+    publishedDateTime: 2023-08-24T14:10:00Z
+    webUrl: "https://www.aol.com/ai-startup-hugging-face-valued-140155500.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
-        height: 672
+        height: 630
         isCached: true
-  - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
-    excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"
-    publishedDateTime: 2023-08-24T12:52:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/microsofts-blueprint-for-indias-ai-future-ethical-governance-innovation-and-global-leadership-article-103028530"
+  - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
+    excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
+    publishedDateTime: 2023-08-25T10:34:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 37
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-08-23T16:41:00Z
-    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
-        width: 1920
-        height: 960
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Hugging-Face-an-open-source-AI-startup-receives-USD-235M-in-funding-from-tech-giants.jpg"
+        width: 1500
+        height: 844
         isCached: true
+  - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
+    excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
+    publishedDateTime: 2023-08-24T21:25:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/tech-giants-back-235m-round-open-source-ai-startup-hugging-face/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-2.png"
+        width: 850
+        height: 476
+        isCached: true
+  - title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
+    excerpt: "The latest round of funding outlines the rapidly growing adoption of artificial intelligence (AI), which has been hailed by many as the next frontier of technology and has attracted some of the biggest investors in Silicon Valley."
+    publishedDateTime: 2023-08-25T06:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding-11256281.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 36
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/dollar-finance-BBO-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
+  - title: "AI startup Hugging Face valued at US$4.5 billion after latest funding round"
+    excerpt: "ARTIFICIAL intelligence (AI) startup Hugging Face said on Thursday (Aug 23) that it was valued at US$4.5 billion in a US$235-million funding round backed by technology heavyweights, including Salesforce,"
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/ai-startup-hugging-face-valued-us45-billion-after-latest-funding-round"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 15
 
 secured: "b5QsnyhyRbOhqRE7kJ5qrFU7mQ4zBB+QDxxeIddGZ9TMmHYiwopTx4mYtPefFeGY+GUqyAVkev21IW0PlBZSwfZQwISTUcc74VGeFlUVPz/HXdMp7l3//34Ry/ez+vUiTPCpzrqWUURljAJkQWrOXIHUQLoGh1jxPTNP4FHkfAiYsUCkCDA61vU24E9j5IfHyxgUy8VgYbEDxB53QYSQCahsD4y4YxKd4MC07F3qHQpJ3PVIZLi4cC4LUswFu1edFr4Z+ppMhsJLSHZgjVkj+RZ/V4RnPWADwipZYV0dHJWBhrTOkaa347utc6ac0ikYFdr5iTE0aCjUfFaeHnTwHlXIEWZYCZvJahTTHwVQxrvmsQsxZC2g2NChk98Jwfdf7lbbXqzMn17x+iBCmCwwp7imRQjBJvunMDM7OSE7sO5GOzgpCd61sW7hOIGHnLcu0oEQRaj870QZxC+nsNGa+yRNPPxBLKfxNu1y1aFjj1zLoG4X9ZKzlPho70Wy23BR1qT/q+UKjWhUsDBdVHi5Qw==;RvCTRK3wZM10iOSdxaUrZw=="
 ---

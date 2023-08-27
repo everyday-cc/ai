@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
-    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
-    publishedDateTime: 2023-08-25T02:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
     excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
     publishedDateTime: 2023-08-24T21:25:00Z
@@ -100,6 +84,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
+    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
+    publishedDateTime: 2023-08-24T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 26
   - title: "AI startup Hugging Face valued at US$4.5 billion after latest funding round"
     excerpt: "ARTIFICIAL intelligence (AI) startup Hugging Face said on Thursday (Aug 23) that it was valued at US$4.5 billion in a US$235-million funding round backed by technology heavyweights, including Salesforce,"
     publishedDateTime: 2023-08-24T15:45:00Z

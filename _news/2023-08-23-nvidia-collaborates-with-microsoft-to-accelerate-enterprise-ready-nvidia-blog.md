@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests"
+    excerpt: "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ..."
+    publishedDateTime: 2023-08-27T14:34:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 78
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "VCI Global Limited Announces Visionary Collaboration With Microsoft Azure OpenAI"
     excerpt: "This teaming up with Microsoft Azure OpenAI also enhances VCI Global’s AI consulting capabilities. Tapping onto Microsoft Azure OpenAI’s potentials, VCI Global is playing its part in developing the tech landscape by navigating a transformative path and provide game-changing solutions in creating next-gen innovations and being at the forefront while making inroads to tools like Generative Pre-trained Transformer 4,"
     publishedDateTime: 2023-08-23T13:59:00Z
@@ -34,38 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 74
-  - title: "How AI brings greater accuracy, speed, and scale to microsegmentation"
-    excerpt: "AI streamlines team collaboration and automates workflows, decreasing the time required for planning, analysis and implementation. By enhancing collaboration and automation, AI has optimized the entire microsegmentation lifecycle, allowing for a quicker time-to-value and ongoing agility, thereby enhancing the productivity of security teams."
-    publishedDateTime: 2023-08-22T22:20:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-brings-greater-accuracy-speed-and-scale-to-microsegmentation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_flat_illustration_line_art_minimal_surreal_abstract_a_p_c119c670-de87-4ce9-86d2-806ee305a8b9-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Microsoft's Blueprint for India's AI Future: Ethical Governance, Innovation, and Global Leadership"
-    excerpt: "Microsoft's Vice Chair & President, Brad Smith, shares insights on responsible AI, highlighting India's unique opportunity to lead in ethical governance and innovation. With nearly 350 employees working on responsible AI,"
-    publishedDateTime: 2023-08-24T12:52:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/microsofts-blueprint-for-indias-ai-future-ethical-governance-innovation-and-global-leadership-article-103028530"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 37
-  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
-    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
-    publishedDateTime: 2023-08-24T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 26
 
 secured: "QtmzYNIZa9Vr6QEWazmkpXT6MowQvSSwHnJpFwZgABAVi87r0eWxbcORUATd7ykY+ZGedpmfCy14ugt2WWMk96xKwediL3U7DKO8qYT1zO2BKcfU2XG0ylsLPQPjJy8hHzfYq0ZYYv2N9gISHXpZ40vGH7uq0Dy5MXCmvYjKO2f6lt+USyMzk4ylfIikKKEW/Fru6YlGeIzZnw2ATPqGWGMZ2WYE1trH83FnHSAPiiqfZ0hsg5FuWgLuzCcBI7N21cQD6Jk1D2Gse0gdf1KZO4D8nhcq0oOoZPJQXdz4seLSdo8e+zAfvKwuuvsLQ8hPMmDw2AdH4mey68UR0STNSEcdvsd4R9RK9Mk8I22I5ENvqwp7NZKYTbqT68vn8dL3Reu59bIWWMsfrd9HkESGIEoT0hY75Sbhh1Cnnx2tfwKGB47J+yO3OkYklyeCOQ7f+QdR4lvmhs7R0UyqTQ5Vu07HWTFWUVRosToZtfvQYb2nIDS8Wv80uGCKOhsb45RrG3wU3cND4ATgO6HcHrubGA==;Jp/sbG4aL6x0T59XnZlozA=="
 ---

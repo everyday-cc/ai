@@ -389,20 +389,6 @@ related:
         width: 800
         height: 525
         isCached: true
-  - title: "VMware and NVIDIA Partner on Generative AI for Enterprises"
-    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their partnership with a focus on generative AI. The companies said VMware Private AI Foundation with NVIDIA will enable enterprises to customize models and run generative AI applications,"
-    publishedDateTime: 2023-08-22T21:38:00Z
-    webUrl: "https://insidehpc.com/2023/08/vmware-and-nvidia-partner-on-generative-ai-for-enterprises/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/08/VMware-NVIDIA-logos-II-0822.png"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "Nvidia is the early winner in the AI gold rush"
     excerpt: "Accelerated computing and graphics chipmaker Nvidia announced its impressive second-quarter earnings for fiscal year 2024. The company reported a revenue of $13.51bn, which is more than double the revenue from the same quarter a year ago and an increase of 88% from the previous quarter."
     publishedDateTime: 2023-08-24T11:47:00Z

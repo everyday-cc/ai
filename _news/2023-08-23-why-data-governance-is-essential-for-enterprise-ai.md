@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-ente
 webUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Private AI Foundation with NVIDIA will enable enterprises to harness this capability, customizing large language models; producing more secure and private models for their internal usage; offering generative AI as a service to their users; and more securely running inference workloads at scale."
-    publishedDateTime: 2023-08-22T19:08:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868524.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "WTsMlf4TlstGRKQw5JbIslaBDMJ9kVWe04z+l+Gz4rSJFtyIYxtD3dAUJB2y9J8Qz7wZOUt9vo2ogRGYrzCx9Nl/AFV9NJ++HWhd5KlLHBGx541nLP6r0zyrhDIaVeCD3Zkjo0FVGBD8IEj2I1QUuDqFYpzv7qDYA7HTorKUEnuSZla5A0UWwrhXNJlqHM60WW//IFStLdSbyrI6lfpCs95qURlDzTb4zzHpC/1I/ep2eB34m1vumMF8CSV3noVLz4c1hiPHQxb4lUk5lQ6W+wadgAhyYrSgg5+nUlFGrwIYzFgQ3El6dCrzaVKTUsN3nWIdLjKEaqBytoRZXuGNA4orO5s6vJMPCfRCakBKzA0=;C/gmNvfSlYNtmNOD8AKPuA=="
 ---

@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Teachers turn to AI to make workload more manageable, chart lesson plans"
+    excerpt: "Droves of teachers are turning to artificial intelligence, saying the technology keeps their workload manageable, especially as they chart the course for a new school year."
+    publishedDateTime: 2023-08-27T12:20:00Z
+    webUrl: "https://www.ctvnews.ca/lifestyle/teachers-turn-to-ai-to-make-workload-more-manageable-chart-lesson-plans-1.6536759"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 18
 
 secured: "6vxcOgzqmLOHYpCgV1/AFwT8wST44oxreDtJrzFejgQEyZI8ZJfuLqVQ6NIHYAP6YuwnmQ1zsmCFH2kVpXaDT5KXMiwTYml84w5ouELfFSqI7rJmcSpndwcnZPBKOuMd0zOrAzVBb7EvbKYP32fagcpzQSMetgDhKkGeBjBWePXmvpmMsVlf2G9W4nXtwVawrazfhp9uNu1xZ6Oa+/cZhdMtYHWBv5bUT9sEPFejSLKCA+laUwnK2nTkvGciCpz46Q/rELg+cLAw1/UUUNvbNmBMYDzg0jfOeCxMzd1gbAaS4LjR2bfIEI+/kktVCtpsTJrJBRIrX9rb/W7Xpgu/ggVBgnzSIErF4hV1Q3NG717cx7VzBnIMzbGdqIJoPdK35JPl42MJXYbYWyzt7qMM5v0/9IIXGXFOtVsFQGpSQ/GEIvb2ahShlqRuUTQtmFHBrUQpK8pmR32TCavyCiN0ZCZkEAUvt33P1RiiO9gIpF1AVvVbD1eBg1nHW1nRqHS217X11YMAUcXh2XWWqx9PgA==;6W0U3oy5iSqOPOlemeeAZA=="
 ---

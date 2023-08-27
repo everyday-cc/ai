@@ -7,8 +7,8 @@ originalUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner
 webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Mobile World Live
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner claims revenue from AI chips to reach US$53b this year"
-    excerpt: "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20."
-    publishedDateTime: 2023-08-22T19:41:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/ad3a2519674a154c0bf6e392f81f20e7_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Global AI chip revenue to reach $53B in 2023"
     excerpt: "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023."
     publishedDateTime: 2023-08-23T23:34:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg"
         width: 496
         height: 315
+        isCached: true
+  - title: "$53bn AI chip market forecast"
+    excerpt: "ICs for AI  workloads will be a $53.4 billion market this year, says Gartner, which is 20.9% up y-o-y “The developments in generative AI and the"
+    publishedDateTime: 2023-08-25T05:25:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/53bn-ai-chip-market-forecast-2023-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2016/04/21230609/wafer-close-440.jpeg"
+        width: 440
+        height: 330
         isCached: true
   - title: "Gartner: Revenue from AI chips climbs to 49B euros"
     excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
