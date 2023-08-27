@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
-publishedDateTime: 2023-08-19T10:19:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
+publishedDateTime: 2023-08-19T16:08:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "+1NmjfhSUGkfi687Ow0D0h5rpBNNPGI3ZXgfwB6rUzyXq0GH/uI4crEOmEA79pWi7cnW1RDzDv5HFtjXJProibxRGpeypCLf3k1dV8mWgPFZ1Q67qd41Ns5zBwH8AzxBjJ0iY0YDF+10IANK/fJ5BJGcD0RLVCiIBd57tUBDb3VJHt5I9k2ZQO4doo+DOb8CMzjWWJ5dqyOWWalk+2exeZaBgimViQf9TIBIKS5h/JO0QP99rwMvlTXz6nyJIk/etlo28ToOo03WhBBAI4x1BhpB1/fusWdyxtrxE7HYcrpCaVUlnQO/H77lJH+Hwm8AxpBVsQK3gF1oZMJx8rhuU8aMWuyQoRe0XwjKDN61Q0Q=;voqz5JfYZR1aDCIy8XA2mw=="
+secured: "JLiy+7Oio2e3mmng+SBshgxOoZJqJd7yoU0ssSEWPvIlKrJOCf8+4gWV7rOzMRdJ23vuGfEPvRsos/j1HW3KiaVfmrwgo8tlAEsKKBuAxrdd/Err3TJ7vUH+6RjIrZlPa7BZ7OA1A8XecjcokCcaAb1uDaFi9l75dnTPYgdJ1WOhSVPIftpxaubxU+xXl6SRRq8IPd1a6Ordk/PILHUvmq5VuLIU9Vud/ZAK1XviG0zW+S7PPjZaMQxpRXU0b9aRDSn6Z4qSAEvHjdMPSO2C9EElMosaPxhY/c50vEjClFtG8jr1Kb+iV5xPTpWLcZRVHL+8Mqxb83bkLpFrPKRDZhhhSZaAj1ccAwiSjMbNoXc=;7F7F3NxPYyudwPc/e897SA=="
 ---
 

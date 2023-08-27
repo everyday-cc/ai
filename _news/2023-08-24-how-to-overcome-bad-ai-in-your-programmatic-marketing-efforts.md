@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to use AI for marketing without sounding like a robot"
+    excerpt: "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling."
+    publishedDateTime: 2023-08-27T16:59:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 71
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Use AI for Barbie-Style Marketing Magic"
     excerpt: "There are numerous powerful generative AI text-to-image systems. Some of the more popular ones include DALLE, Adobe FireFly, Midjourney, Canva and Stable Diffusion. They can create realistic photos and images, illustrations, cartoons, logos and text effects. Some of these systems even allow for editing. All this is done using prompts."
     publishedDateTime: 2023-08-24T17:05:00Z

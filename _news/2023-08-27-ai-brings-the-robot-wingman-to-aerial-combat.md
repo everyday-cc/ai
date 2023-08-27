@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 webUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New York Times
@@ -27,6 +27,19 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "American military brings in artificial intelligence robot for aerial combat"
+    excerpt: "And gaining and maintaining an edge in artificial intelligence is one element of an increasingly open race with China for technological superiority in national security"
+    publishedDateTime: 2023-08-27T17:12:00Z
+    webUrl: "https://www.business-standard.com/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 52
 
 secured: "mcx7IA+chdVbXZ1vX5nMUEY4xgMp3IALA6Vpq+tfP3WxoQu8iOJZvyq/+TfzHaxd0GPu5d30wP6vcOXlqN/QABq0kOYBONtxI24bh937RIZbgOfHp9GM71tkDJw4oiC6goWpBdk9IllJnyr1Y62d6+PmVdbfR/bOWZ14tnaqA225+rDBEjVX6j5Q8FAMRKXIl+Uen+THk9powg3DKZREQWFVwxBmeIYGwfDAQzWQ++5wIAULjOw+L6bqG+6YirxY/rhMXouuZQ0lItzTJuxHiVIKBWYQOCh4uMutW4lTduXRQd87BkQImI/hSe7XuqXL3TGC32iGzdG6ju7zdYb5hRdnP8tfiJy99O1DYL0+0qV0zVC5pfcRd+d0cHjb8ShHH0FD/bDcqVKrjM1ABy4HQFN7OSK+1kFS8a15K2o+b3bf9Fe36UWP75c9MbhoVrYW6iv7bcSY1R+Ayaufk7DMGx4pjgAW78mxstXMfcb3lHWReNC68aT1Wtg2Eh+aZQJqb3cI1QtvsdBwb15GrlZBdw==;MYB7mRSoT/ZOSwII4eD4xQ=="
 ---

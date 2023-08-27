@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ..."
-publishedDateTime: 2023-08-19T23:08:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
+excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
+publishedDateTime: 2023-08-19T22:24:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "POWDwUQIqUKK+iHIK0Ve6bLftou1gWVQtdQQhtmmFkCgE+W/gYtfzh/ZaLxAK9FD0YLCUnlZFi65NCVOR0XEbeWAfJdapNvIqdhrypTbgwliqdnVRVgWTcOkyIN5Hy3q9zE+YIp2IXxeyVu/8H1gOeSCTComBCWXfZPHLzNQZqplQsz+BrrK9jq2g50GZIKCGuL8FxdOicdaQlYgyixguHQwWDBQkJYygYaEeZcqbmgfrb7jOexIbv9boHj7vFzoKzQpObckEGCkk8PCjK7VyaP7K9qwK4I5bTBf08Ecbp9lV0Ys58jMfTaES4c+nYfe6buux07Hfb3PvZy0DA5owmNUpsobRxgT30PgDoRrrCk=;mltN/VfGUHuxpN2yFe+shA=="
+secured: "oibBjwtyINwQez9uWZmHT41KWDgC1cZolVnqlw1R3h4avZncvYHMnAaTHcpN6MUhmlTL1k5NcWoqrh0frXw0tylCkBvwAvZVKCwqknBTjhE5mHfFNwxRPEQmFWHauWGU4NnNCOnZqV7l8GqmdCzFNJnCQmOw71VMQxUAaks3/Rm5HP183gLqIL8oBYov4CnG2SILEN4N56QxbsUFXFCZpkgsHKRJZ3v41wz/8jhYAALWHcljGo9WY1Kfyb/FZonfTagzd5RyqWzVP7myPdk/QFqIrdUslgdyVEufyswDqFTueNlk6KyFH5QrCDAxt209LOAe7s597GuxjihyEPjj0oOBD6iKTPHWZVbJJGriiiU=;CC+wTXSHKGg+Ea6LCgDRJg=="
 ---
 

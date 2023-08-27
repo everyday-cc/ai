@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft could bring AI to the Windows 11 Paint app"
-    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
-    publishedDateTime: 2023-08-23T01:03:00Z
-    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
-        width: 1399
-        height: 787
-        isCached: true
   - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
     excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
     publishedDateTime: 2023-08-24T09:06:00Z

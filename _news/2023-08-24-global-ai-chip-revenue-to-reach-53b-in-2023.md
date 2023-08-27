@@ -85,20 +85,6 @@ related:
         width: 376
         height: 250
         isCached: true
-  - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
-    excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
-    publishedDateTime: 2023-08-23T00:00:00Z
-    webUrl: "https://businessmirror.com.ph/2023/08/23/alibaba-cloud-named-a-challenger-for-second-year-in-gartner-magic-quadrant-for-cloud-ai-developer-services/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 21
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/unnamed-13.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "r/HZwkQeLJoR3HgzjUjke/M7SnAboHshQNYrJ7edcbP9MOf9Bm63ay5q4joALCgC1XFeAy4OyzoimmJwHcCwg0n6wARI+OXa/lmVj1i6KTESqYv1p9v4iz9i5UF8QksGTrEtFRPHwYKxtw1OlFe4UNHBKJ6YTqCR7t38cy+E6u+ZfT1MeP9xyMOK76xCE3CDpTKnNBgDH7QkoOibDzsA3cKVUhjpBdqtIIe6yreBNQl0361KPzcdZpL4+TzoAou3QLfuDl9kh4jc30nP/YH2lmB5ziD28oLbNuGznSt3LWmG60Lqyp2CeWXLWbFtMueNEHsZnudZdFodjjIrTXL2bf0CcJjP8Q3Sy0THqcQoTkg=;UxOkdTKJFe1KrJHgTZvkNw=="
 ---

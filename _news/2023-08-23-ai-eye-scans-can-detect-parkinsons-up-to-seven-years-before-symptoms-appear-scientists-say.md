@@ -57,15 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Eye scans detect signs of Parkinson's disease up to seven years before diagnosis"
-    excerpt: "Markers that indicate the presence of Parkinson's disease in patients on average seven years before clinical presentation have been identified by a UCL and Moorfields Eye Hospital research team."
-    publishedDateTime: 2023-08-23T01:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230821174246.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
   - title: "Speech Accessibility Project needs more participants with Parkinson's"
     excerpt: "The Speech Accessibility Project is almost halfway through its first phase of gathering voice recordings from people with Parkinson's."
     publishedDateTime: 2023-08-25T02:57:00Z

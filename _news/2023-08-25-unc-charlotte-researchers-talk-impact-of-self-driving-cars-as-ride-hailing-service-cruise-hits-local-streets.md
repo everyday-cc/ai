@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Meet Cruise, the self-driving ride-sharing service"
+    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
+    publishedDateTime: 2023-08-27T16:08:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t201640.685.png"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Researchers see bias in self-driving software"
     excerpt: "Autonomous vehicle software used to detect pedestrians is unable to correctly identify dark-skinned individuals as often as those who are light-skinned, according to researchers at King's College in London and Peking University in China."
     publishedDateTime: 2023-08-23T18:30:00Z

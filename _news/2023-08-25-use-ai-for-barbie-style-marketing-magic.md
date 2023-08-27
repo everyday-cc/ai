@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to use AI for marketing without sounding like a robot"
+    excerpt: "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling."
+    publishedDateTime: 2023-08-27T16:59:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 71
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "/vhDQonlrT097MwbtQabxoiYW2TH8zr2nvAgD3qRq8XG757IOCz7OUUS5OxU5vpvrpeXO5td8qrekTYhZzt1xiuKUzKB+XFUtTZ5tFznmTngT8fMVHzAnK6qvw5Hgpjhgj9BnufVJBQTbpt/ROLx2sowbH9AVUN/dd0cPap42lRgh/1MVU+2clIAxEaidCNvON+iawgdwU6P2oxQOymlxaTru/jMfhbs9yz062sBpaAo90RJjzLjfgmVDQaaANJj0ntLbT2JsIn5I39iTE9BkxYrOusQwm43xTf0uA+FJcELN7asH+eDp7bjpSAcsLIJcpclOP27+8M2X2l7lkObP2IdCcJcfTNSE6yhrOpC8X1pTohxzjEEZ73m7nrmdffz8zleOho2PED7t/SOlYLDj2tQruv0JB/s1Hp4g5DWzfEqiEy/nNn6hcG9BwBwz8w+nICD3Qwm61Tj7v11k4HB/Tc6m3EVLWvHb0t5/5KG7KsJ4UqtnqTfrrU6P2npl9KgH6z1xFkqeGbU3+rcqp1TEw==;8UQ8ubATmOgyKN2KwBttSA=="
 ---

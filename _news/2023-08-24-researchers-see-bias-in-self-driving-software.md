@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2023-08-bias-self-driving-software.htm
 webUrl: "https://techxplore.com/news/2023-08-bias-self-driving-software.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Meet Cruise, the self-driving ride-sharing service"
+    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
+    publishedDateTime: 2023-08-27T16:08:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t201640.685.png"
+        width: 750
+        height: 393
+        isCached: true
   - title: "UNC Charlotte researchers talk impact of self-driving cars as ride-hailing service Cruise hits local streets"
     excerpt: "Cruise, a self-driving rideshare startup, announced last week it was testing its self-driving, all electric cars in Charlotte. UNC-Charlotte professors weighed in on what driverless cars could mean for the city."
     publishedDateTime: 2023-08-24T18:50:00Z

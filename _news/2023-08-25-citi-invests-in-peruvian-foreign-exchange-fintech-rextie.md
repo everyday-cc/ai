@@ -117,20 +117,6 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
-    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
-    publishedDateTime: 2023-08-22T23:54:00Z
-    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
-    type: article
-    provider:
-      name: FinanceAsia
-      domain: financeasia.com
-    quality: 27
-    images:
-      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
     excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
     publishedDateTime: 2023-08-24T18:54:00Z

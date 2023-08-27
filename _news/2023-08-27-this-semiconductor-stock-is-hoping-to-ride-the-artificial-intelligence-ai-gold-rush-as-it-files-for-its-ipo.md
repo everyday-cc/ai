@@ -1,28 +1,22 @@
 ---
 category: news
 title: "This Semiconductor Stock Is Hoping to Ride the Artificial Intelligence (AI) Gold Rush as It Files for Its IPO"
-excerpt: "Arm says, \"We architect, develop, and license high-performance, low-cost, and energy-efficient CPU products.\" Arm's CPUs are a staple in more than 99% of the world's smartphones and the \"vast majority of the world’s software,"
-publishedDateTime: 2023-08-27T15:23:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19737803/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19737803/"
+excerpt: "One example: \"The CPU is vital in all AI systems, whether it is handling the AI workload entirely or in combination with a co-processor, such as a GPU or ... [neural processing unit].\" However, this ignores the fact that the GPU does much of the heavy ..."
+publishedDateTime: 2023-08-27T15:14:00Z
+originalUrl: "https://www.nasdaq.com/articles/this-semiconductor-stock-is-hoping-to-ride-the-artificial-intelligence-ai-gold-rush-as-it"
+webUrl: "https://www.nasdaq.com/articles/this-semiconductor-stock-is-hoping-to-ride-the-artificial-intelligence-ai-gold-rush-as-it"
 type: article
-quality: 35
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI Hardware
   - AI
-  - AI in Robotics
-
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/4119578837086221497b88c6199f5292/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f745412%252fa-computer-circuit-board-with-a-cpu.jpg%26amp%3Bw%3D700"
-    width: 2121
-    height: 1414
-    isCached: true
 
 related:
   - title: "Arm hopes to rely on AI for its IPO"
@@ -40,6 +34,6 @@ related:
         height: 427
         isCached: true
 
-secured: "pmrysYiVB15CtQxfqCGBDcbTR2U5+cNiFosYKsZxf6pN05Q3+xw+u5tGkF9kC8ozxYwkaNt5pI7lcL8oL4OWw2jQfC9YpIeC0mX+mixJjgTVXv8KC+zOdC8MGNDa4Y5VJY3yvidksWNlO3coWGYYA7zYlmzFplMn5vtOIPc3GH7Sn4xk/A9Qg54M7I1cPWnoFxfF2eqfqGCuwFczwl+PwqzwSYGSvvzouAWeDBKiqSsgC1mxuApPdSvWMHAbBrevszOT9XPcBaA0tVGGHdgMy/bvlGL0uicj/YRoT1E/akXPJmTorLOfROuBz1zNr7s+h7BVBZoH3JQSaFfz+TlKjtuaHStzJF15jmZwbaden3o=;Cd7A0S8X3Hw6muPgok7qmw=="
+secured: "LZoVsbFksPMSLPVBr6gBpbCVrG0vwUDyAXvaJwhGhUNecbT/v4aeYNX6VYbRVJjf7VsHzFRMG+Pe0Q81XAza20iHFT6l5EhvkIxU9BrG1RRI/LxSHrnXT8479nSQhh7XuhbWHQOLYfGMZ/HJzRBy0jxAk9EizRQHdmWJX0G5yuY5P+N0AEaaaqEQopH3CRK3QB5cVUbOPeneTJu3CPe9HneQ7o079Zjw528LOijeCRme+DcqywRvix0XiyNP+L/nJfKHKIbSQy24Ut9j4UWvG01mLHG1oG1pNJDRmnb1i08Rccw7l6t2S+Ju3H7q2FD4/oH2ik53Eg+Si03lWWjyJVfB9Y4xMQLUVlefRGkOFGUotc9bt+7y7CPX1YCNdgP4yhkyIhDkDqgMst/+YOXVbwCtbssCX+7zhiqu8pnebaN82gFa9cDee9fuKifBNAdNxqR469kfng0zOaynrj/3X+I7gs/mbOpeeL6FVjXR+hRoACeMUeF6u/iK8/xHfysiWsf7l9d/xxKondBB1C0Jkw==;H/M/HuyYoOpmNY5OAkZpxA=="
 ---
 

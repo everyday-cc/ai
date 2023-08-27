@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1358
         isCached: true
-  - title: "ChatGPT shows limited ability to recommend guidelines-based cancer treatments"
-    excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network (NCCN) guidelines."
-    publishedDateTime: 2023-08-23T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230824111917.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 31
   - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
     excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
     publishedDateTime: 2023-08-26T18:27:00Z

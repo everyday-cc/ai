@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-micro
 webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
 type: article
 quality: 105
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft could bring AI to the Windows 11 Paint app"
-    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
-    publishedDateTime: 2023-08-23T01:03:00Z
-    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
-        width: 1399
-        height: 787
         isCached: true
   - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
     excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."

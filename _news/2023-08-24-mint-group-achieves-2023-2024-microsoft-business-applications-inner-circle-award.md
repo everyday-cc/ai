@@ -130,20 +130,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft could bring AI to the Windows 11 Paint app"
-    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
-    publishedDateTime: 2023-08-23T01:03:00Z
-    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
-        width: 1399
-        height: 787
-        isCached: true
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z

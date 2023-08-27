@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-publishedDateTime: 2023-08-22T13:18:00Z
-originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
+publishedDateTime: 2023-08-22T13:10:00Z
+originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "wE5JZR5vktQTC1i4r6EIbsElVR31yQ1Mmho4GxlueIZsulEz3NjpcJtOH6bELEXStjc7bH1gXd/xZF13JdspeXcC0XGNjK+pFXBKDpsJ8ykc1k7wi2L0BeRc9pXb99b+JmrMDrC7Dl0+kVoiJXnMeMieIkUyi3fX50yWpa1r+VNT85POo0ZhEjde4Fi+Ou8QMAUZnDskVj/k9YbArR+8afXEE8k321ViXl5ybSn0ZR6VJgpbecZx5wTpajEeJop0WWCvkgKIIVhksHPyv0gfcOsw1w8qdGLd/Qm0ZfAs34YBC5DoLAIquyVSHa1mIiMIVivk0iQXptJ0/zK/PiBOyZ58sopi65y2lkekLHVzTfvB/G92EaneVbQztF4UMJkn0I3A+mxcnkxGZcfmHEN8TI5iNA7i0bUlsxqe1auWe4ykOsNrt9+iZx8t9ttEnslUqGWlMsokuBosarr2vNOqHtjtWafNHzOmySA5XQE8628JZFoLRsw7p9xCfAsuFb0QiwpfoRJdQsVXJ2P4sHr3zQ==;ef1qsVZqWMw+aAswUYh4Ow=="
+images:
+  - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "HAP8sqofK/ZuL1ne8mAs2s/YgZd9kIWu/d6piHf1PuJnE5SDRQDfsADuT8RxyhIrNqY8YziIAFkHRa+XZOx4qUPEj5Ive2oEmX3xYGXMfSEoVu177zAz7zb3EkQWz1fbVk0fQ2HWmCdJobOX1WZSdtWZcVd3qXveBqS3cjDPgfxsuHfXpVfMcdf536ZsikURfTAQJwdHniZ8TAZloO9dl8y8+CZamL9zd1DUlu/hU0vHEddhUNtAe8/vqaZuuVxuslMgr1VczmyeQIaXjf1qd8+reSIsClgPLqi7sQZjpvkVkKXkZWYb3sC9WYnyMF3Ms4nXZG9nS3mmPXZLdNi1gNKKWpKfuVcz8XwkjFlVLcc=;xqu8kbFh+0JLXgAq/fvvjQ=="
 ---
 

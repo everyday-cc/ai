@@ -7,7 +7,7 @@ originalUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner
 webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
         width: 376
         height: 250
-        isCached: true
-  - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
-    excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
-    publishedDateTime: 2023-08-23T00:00:00Z
-    webUrl: "https://businessmirror.com.ph/2023/08/23/alibaba-cloud-named-a-challenger-for-second-year-in-gartner-magic-quadrant-for-cloud-ai-developer-services/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 21
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/unnamed-13.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "8eZjloADTGVYLKxb3/Ihy7kHA4vdgFNL+vUDDWBAdF6AjEqyDaQFv1XWI9tfbZBepmIk4hr8dMfFcxWaMoFDMBn7cWqeR6b+FcXMT/qEn6radoy/yC9oS6pc8GLjfOPpwM3iW8PTvwCQuMIv057VgmqBuzqGyDo1ckLe2NosGuZvgjJfLJpnQv8ufWwX7BxiFWHz+A1R0pHkJC0ISKBnOcNCbKqT84xMHnwFbboVfLj8gOx0R4w+72o3yRGB0w8Iihuh2B9ZIelJgAY9KDsZJzzpOjjQFdEnXHK3e5dg7vddXcFui9Jy8ixp6teQEXnq7uM5/d6Y6X8cKJUuDxIamkE1MT9CMsfxWoL+DHt+kZIh6qpl6dLxMt50gGLwiIuACD2brcDUV2Jsbqc4Y+3XdeieEDgqKuWxwbGJaEnah4WEdI/NnqoqhdcVBHge93wJGa1lg2WKqCw1nO69ea94N2XxatMLcckwXOHd//OveBiFKZ0Qf8UJHPLXJDPZ4GWW0uI7NMy+i6w+FaIrQ+8f2g==;l3URp5803OKjCxv96XWP1A=="

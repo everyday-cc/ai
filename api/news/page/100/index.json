@@ -2,6 +2,40 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
+      "title": "Old Mutual Completes All-In Migration to AWS",
+      "excerpt": "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-hacker-reveals-secret-elon-mode-in-tesla-cars-for-full-self-driving.md",
       "title": "Hacker reveals secret ‘Elon Mode’ in Tesla cars for full self-driving",
       "excerpt": "Feature reportedly didn’t require any attention from the driver while using Tesla’s full self-driving software",
@@ -1058,58 +1092,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-intel-branding-change-spells-new-era-for-ai-hardware.md",
-      "title": "Intel branding change spells new era for AI hardware",
-      "excerpt": "Meteor Lake CPU releases will mark the end of Intel's \"generational\" naming system. Plus, say goodbye to \"i\" naming for client processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32423-intel-sign.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

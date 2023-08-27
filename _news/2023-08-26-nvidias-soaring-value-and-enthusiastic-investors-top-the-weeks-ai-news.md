@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
+    excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
+    publishedDateTime: 2023-08-27T16:24:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
     excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
     publishedDateTime: 2023-08-23T21:45:00Z
@@ -218,20 +234,6 @@ related:
       - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
         width: 992
         height: 558
-        isCached: true
-  - title: "How the AI revolution made Nvidia the world’s most valuable chip maker"
-    excerpt: "While Google, Amazon, Meta, IBM, and others have also produced AI chips, Nvidia today accounts for more than 70% of AI chip sales."
-    publishedDateTime: 2023-08-23T01:04:00Z
-    webUrl: "https://techwireasia.com/2023/08/how-did-the-ai-revolution-make-nvidia-the-worlds-most-valuable-chip-maker/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_2321347753-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "AI chip giant Nvidia crushes expectations as profits soar"
     excerpt: "Copyright AFP Sam YehUS chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday, as the AI frenzy continues to lift the tech sector."
