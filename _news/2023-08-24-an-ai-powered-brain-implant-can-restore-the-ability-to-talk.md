@@ -148,6 +148,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-08-25T16:23:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 34
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "xGKYPC0s1jLT13uTLwAxzTlY5E3YtiU/f+dDHrpLIHP6o4zrgP54MROf6PDGoZhtHpJP+EXnNSHDS6pzxTv8v/eljbfO+smkll+Qp8bmQKWV/g64i6JHvBRoQeRI4uY+/d8IYex4wQK0jv5FfXhBwqGsIBTAJwEzIrSRrdHiQCw3tmJTkQy8QrNBFB0T2AEiog3W8oYRiNzHjtN7Jy+sgXSyY+At48N5TreKbfRZUyXXzOX2CgJpt231zLynlYoqLvtvVFBhg0WMZsG3HgUShLoe7k8jIRDbt+T6omAIqY3iUX+Y7cv6wBeQ45KuJ6q8u7scKgaZ37V23naIUsAYKBCATUtffqhBcleARRInh4yWOKs3+v0GSSBQQCcxQf8te0g8e4us5oTHu9BCY6DpIyRLBRjcjoL016XtcKqDW+szMLpBMkMf5ig+Q2Z9PTMfYQG0/DkHghA80LkbhXeagzX3+0LPOkIe3bVFBDiqxvg7w1jo6uj6z4JxC4tUFX+PTLKZyo2eDmNoC4CELSZYrg==;QWaN3rr4pys8JeaAf/i9UQ=="
 ---

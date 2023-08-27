@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-17-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
+      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
+      "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
       "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
       "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
@@ -1074,49 +1118,6 @@
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/33227102",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227102",
-      "publishedDateTime": "2023-07-14T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-forecasts-growth-2030.md",
-      "title": "Self-driving Car Market 2023 Detailed Analysis of Current Industry Figures with Size, Share and Forecasts Growth 2030",
-      "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33227129",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227129",
       "publishedDateTime": "2023-07-14T18:14:00-07:00",
       "updatedDateTime": null,
       "provider": {

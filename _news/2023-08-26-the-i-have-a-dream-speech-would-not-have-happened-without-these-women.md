@@ -2,19 +2,19 @@
 category: news
 title: "The \"I Have a Dream\" speech would not have happened without these women"
 excerpt: "It has been 60 years since Dr. King gave his legendary speech at the March on Washington. Clarified refocuses the attention on all the female activists who made the march possible and continued in the fight for freedom and equity without recognition."
-publishedDateTime: 2023-08-26T01:25:00Z
-originalUrl: "https://www.kcci.com/article/march-on-washington-anniversary-women/44868781"
-webUrl: "https://www.kcci.com/article/march-on-washington-anniversary-women/44868781"
-ampWebUrl: "https://www.kcci.com/amp/article/march-on-washington-anniversary-women/44868781"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/march-on-washington-anniversary-women/44868781"
+publishedDateTime: 2023-08-26T00:25:00Z
+originalUrl: "https://www.wlwt.com/article/march-on-washington-anniversary-women/44868781"
+webUrl: "https://www.wlwt.com/article/march-on-washington-anniversary-women/44868781"
+ampWebUrl: "https://www.wlwt.com/amp/article/march-on-washington-anniversary-women/44868781"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/march-on-washington-anniversary-women/44868781"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Natural Language Processing
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "pIvQmbTQZKiE1V+FCOTHjKE/uqpCgKR+MDxZ5r3LX23DcK1cxHnYk+TfkMr65YGElBJ60obZ0AvJB+0HYQAtEgHxusqCU4oC96VbgUNfHvt5nROuTkSjptNYgG3LioZu1j7UxXy+BCFJodjUVWzQ1JNw58sHqEsYMBv5GPvF0LgkIILq72PqRgknNlChYKXl9cW7Gc1wn9nvHsBouYZTuv3uyVyg4CctvVpe87NPFsnQSWEF05W9l8k34xXRS9/UzePRBdblc01JFhAf2neVq4SoywYXhlorLwBtgdBOifz2cX4VWUstxGspMQUR4F3hgJLeFPLFcHRDnDHJIRbSEnFXDbVJsB877cR0y3fVFR0=;wtJkArBUHajUtDeC9oSS2Q=="
+secured: "zQ3ictiAaE4RlGovXTJOI47f9lmRACNuRppUySyovT4YSM5GPGSJ+lm81wdAnQytmNcSELgfjnsvIWaXgHWAePQJZvWQKLBY15lu9CdueSiWNkOYYR+H7O1pJJUvL1O+Npqb20M6/P+NRRFAr23+cnbEFnlSmqJRww/NmEQuqdJXLdlvBI4Ay1ZRw7/XifU3Uto7slk1bhyJT+PzLiUnCq9E0NxT3KdcQaH80OB+Tcdi97dpfuZyIXEZjaRECGyDif9S7dsPUr9FPoZjQOyEsg8LCprOjICfL0jzQFk4LTo+7WFQt2RoYEoKYbtAdzbD8iVk3AeLLKvw0vz0uNr3fODeK3V7Rtp8PeTKjxhqhEM=;xKfC2FY45ZYwHY68ASs5wA=="
 ---
 

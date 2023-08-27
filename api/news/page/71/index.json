@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-07-08-driverless-robotaxi-services-launched-in-shanghais-pudong-district.md",
+      "title": "Driverless robotaxi services launched in Shanghai's Pudong district",
+      "excerpt": "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202307/09/64aa5035a310bf8a1d23b203.jpeg",
+          "width": 634,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-these-are-the-3-biggest-fears-about-ai-and-heres-how-worried-you-should-be-about-them.md",
       "title": "These are the 3 biggest fears about AI — and here's how worried you should be about them",
       "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
@@ -1119,57 +1162,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-speedybrand-uses-generative-ai-to-create-seo-optimized-content.md",
-      "title": "SpeedyBrand uses generative AI to create SEO-optimized content",
-      "excerpt": "SpeedyBrand, a Y Combinator–backed startup developing generative AI tools for marketing use cases, has raised $2.5 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/",
-      "originalUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-594830889.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/amp/",
-      "publishedDateTime": "2023-07-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

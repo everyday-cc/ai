@@ -2,9 +2,9 @@
 category: news
 title: "Sunak to hold AI summit at Bletchley Park, home of Enigma codebreakers"
 excerpt: "Global summit on AI safety planned for autumn, as UK tries to cement image as being home of ‘transformative technologies’"
-publishedDateTime: 2023-08-24T16:26:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
-webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
+publishedDateTime: 2023-08-24T11:26:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
 type: article
@@ -74,6 +74,6 @@ related:
       domain: devdiscourse.com
     quality: 10
 
-secured: "UUrC/c4WHSmdzeFkDlb2gz2zLK02Vq9wa63ccBI18cNr1fqjj6Lvfk5DDKQ64eLImJmK9iEqFQX7JP8JShEW5YMCaIfUdZAaIPNfDOC5ip3CYcppQbG/tmGuk3vB7rsuxvhGjcK7WZwTR9i1cb2+A+ni9IUR26xNDId6sjZ5zs7vJuDlDKMGPyr3xAP09ou6CzqCflDxFw5jMrBLpPk67Pt5gq+hGCDopmxgZ0bIPMYKCVJxf7rsbOQ3XzRiPqLNxw/0cyNDhB3i7V9jiXPDwhvQQYxb7rUVK39GoLnBnHdJOF+aNq8+bNPpt9Jmtcrc+EN9MtmYGDUxnvb1DdaZ6rLYWQepCi9zt5EuQLv12oU7/nTV4W6w5pRN0ot1YAdH7oJG8ogp2FGQ2Xf2q6vdrGiNngcQFX4Ke6kRG2GK6UOkDrhlq6gsbIOXxCHSjBbkmOhrYr+9HMEIM9PGrX5VZO+8s7EL5w0L5paO6IerrsDk/D+NbyLwwl2fQ8Pj2WhUW/bxz4qkHRbL0s1UUuFM6Q==;3avp1lF0nnt24xRRBFMV2g=="
+secured: "GyNCCGTtWm0n7Y13LirI4n57fhI8iEXiLx726uaEkXJ2ueTU22TMkQGufZ6C7ZLN7DOFjSD2zJRHsfxNjH3svVGlasyOAVOgkHJkO17W3O1iL7ghn8aKReHGeGPpNcXz3h5JL7714uqEoTzM9qotO6foOGBzka3Uv4COvKhhLWY1HSLvBXweSGwMoZh12aDvnoqB5Q6MEw2BlVLtaMLkNsaD8oX7l4B+qJGoWcS09Di8aE08YqPFhsIQseQDfi+J8n4YrtkwJaiL+FzL76LUfmiHTsPsEyJEfABEVOCmlnAp2tRKwAmbREku6Yg5/aFWw+d3ukVNZaWFOIs+xUSuiWjPBYkQ7n3p2AYev3hKLeI=;qf57JwVZxvNJfinkqi3lgw=="
 ---
 

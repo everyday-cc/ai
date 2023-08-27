@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-26T10:20:00Z
 originalUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
 webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"

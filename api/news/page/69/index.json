@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-industrial-robotics-europe.md",
+      "title": "AI Industrial Robotics - Europe",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence.md",
       "title": "Senators to receive first ever classified briefing on artificial intelligence",
       "excerpt": "Senators will receive their first ever classified briefing on artificial intelligence at 3 p.m. Tuesday from Director of National Intelligence Avril Haines and other administration officials.",
@@ -1119,49 +1162,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.md",
-      "title": "Does Generative AI herald the end of an era or the start of a new chapter in marketing?",
-      "excerpt": "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "publishedDateTime": "2023-07-09T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

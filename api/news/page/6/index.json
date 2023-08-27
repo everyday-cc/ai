@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-21-deepminds-ai-life-coach-can-be-your-new-personal-advisor.md",
+      "title": "DeepMind’s AI Life Coach Can Be Your New Personal Advisor",
+      "excerpt": "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
+      "originalUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox.md",
       "title": "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox",
       "excerpt": "Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup. Moonbox has a unique approach to reshaping the digital landscape. Licensed to use the intellectual property of most popular classic ...",
@@ -1143,57 +1187,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-loftie-magic-storymaker-a-groundbreaking-ai-powered-personalized-bedtime-story-experience.md",
-      "title": "Loftie “Magic Storymaker” - A Groundbreaking AI-Powered Personalized Bedtime Story Experience",
-      "excerpt": "This article discusses the importance of sleep and how new innovations, aided by AI can help improve health and wellness and business productivity Loftie is a company to watch with a very talented CEO who has a brilliant mind and a big heart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e26b9257642d1784c71423/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "publishedDateTime": "2023-08-20T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

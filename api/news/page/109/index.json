@@ -2,6 +2,49 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-06-15-deepchecks-raises-14m-to-validate-machine-learning-models-continuously.md",
+      "title": "Deepchecks raises $14M to validate machine learning models continuously",
+      "excerpt": "Deepchecks was co-founded by Chief Executive Philip Tannor (pictured, right) and Chief Technology Officer Shir Chorev (left). It originally intended to be a traditional machine learning operations platform.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "originalUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/2205-Philip-and-Shir-Deepchecks.png",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai.md",
       "title": "Why Companies Are Vastly Underprepared For The Risks Posed By AI",
       "excerpt": "From accuracy and security threats to bias and cultural implications, this article explores the reasons behind organizations' lack of readiness.",
@@ -1144,58 +1187,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-zume-softbanks-445-million-robot-pizza-startup-is-cooked.md",
-      "title": "Zume, SoftBank’s $445 Million Robot Pizza Startup, Is Cooked",
-      "excerpt": "To start, Zume pies would be assembled at ... Data collection and artificial intelligence, meanwhile, were supposedly used by Zume to anticipate consumer choices for the pizzas they were buying.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/zume-softbank-ai-pizza-delivery-stellar-pizza-1850529465",
-      "originalUrl": "https://gizmodo.com/zume-softbank-ai-pizza-delivery-stellar-pizza-1850529465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/947e9be6a774e1d74292e4e5b375143f.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

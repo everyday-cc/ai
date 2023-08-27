@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-c
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/unnamed-13.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
-    excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
-    publishedDateTime: 2023-08-22T07:30:00Z
-    webUrl: "https://manilastandard.net/tech/314363124/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-2nd-straight-year.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 18
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/08/KV-1-.jpg"
-        width: 468
-        height: 462
         isCached: true
 
 secured: "er2U+9wTkz7gSbKwKujd8DJ6uQlDxy7vpDU0VVlxRrl3a1YkYFQcbtyoBJiIOw2X0eXdRNEhhkkUx1mdrjFX1Fc+dipUULVV9svEp9I5yq+VXeRiMYERhnXdfZu0L1mU88zrCMDF8HONrCmSdbCAAChq1Sy9Kc1kvlAVEXizJyjGuDupKz5LhqOWF29Va0u1eFdVQU3kXH+rlxqkL8HjgRUXv4EkdWF424splKB4vQi1wq+20NTzZUi3ZzxBj7k+VXsiYluupi3ylfdCYqjgpzvgxz7BHtWGe1+y9a/hR+wtr/TWVQDLr+JAX8IMk/p7sY7wM0n9UwZzuufl4pBtJpcS0/i8Pey8Mx8Y0E+JMcUar2QdiNGN7N3/9hLbcm5K4/qWNMLKLVOfSiUEUfM/O9QpRvFzx1EaWf9O6OV6I1mc8xzBBb7Gu5GHtertNcTN10tR2aNfhaoVVwDl13Qy/zavWwzbgmvrXQTa8ZYd6G7Chct3Mb66KW0dZQMWrj3X8d/NMUOM43nZrGaVVHJc2w==;3/g+Q5R102VHA/PfPLy6dw=="

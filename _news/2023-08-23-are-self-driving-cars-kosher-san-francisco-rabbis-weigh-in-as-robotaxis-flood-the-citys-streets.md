@@ -50,6 +50,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "My ride in a self-driving car on the streets of San Francisco"
+    excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
+    publishedDateTime: 2023-08-26T23:02:00Z
+    webUrl: "https://www.thetimes.co.uk/article/autonomous-driving-tech-runs-into-its-limitations-on-the-streets-of-san-francisco-9k6jkrlf0"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F36195570-4443-11ee-9098-1b3c9790fdce.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
     publishedDateTime: 2023-08-24T18:46:00Z

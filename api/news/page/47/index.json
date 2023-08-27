@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
+      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
+      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
@@ -1162,40 +1214,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-master-of-science-in-computer-science.md",
-      "title": "Master of Science in Computer Science",
-      "excerpt": "The department focuses on the wide spectrum of artificial intelligence capabilities, including automated reasoning, computer vision, machine learning, virtual reality, robotics, human-robot interaction and the social implications of AI. Other areas of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clarkson.edu/academics/majors-minors/computer-science-ms",
-      "originalUrl": "https://www.clarkson.edu/academics/majors-minors/computer-science-ms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Clarkson University",
-        "domain": "clarkson.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

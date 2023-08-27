@@ -2,6 +2,49 @@
   "page": 180,
   "value": [
     {
+      "path": "_news/2023-05-02-city-councilman-introduces-bills-to-limit-facial-recognition-technology.md",
+      "title": "City councilman introduces bills to limit facial recognition technology",
+      "excerpt": "THE SECOND BILL REVOLVES AROUND FACIAL RECOGNITION TECHNOLOGY. IT WOULD REGULATE NOT ONLY ITS USE, BUT HOW DATA IS RECOVERED, RETAINED AND THEN ULTIMATELY DESTROYED. BARNETT SAID AT TONIGHT’S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "originalUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "publishedDateTime": "2023-05-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAL-TV",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
       "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
       "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
@@ -1180,57 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-samsung-reportedly-bans-use-of-generative-ai-tools.md",
-      "title": "Samsung Reportedly Bans Use of Generative AI Tools",
-      "excerpt": "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "originalUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/734ac9449cb8169694bff4472bec103682803272/hub/2021/12/16/e9b75d85-82f3-4925-ae9e-79b6728957b7/20211209-samsung-san-jose-california-headquarters-06.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "publishedDateTime": "2023-05-01T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
-publishedDateTime: 2023-08-22T13:10:00Z
-originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
+publishedDateTime: 2023-08-22T13:18:00Z
+originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
 quality: 54
 heat: -1
@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Rolls Out Watsonx Generative AI Capabilities To Boost Mainframe App Modernisation"
-    excerpt: "IBM revealed that the Watsonx Code Assistant product portfolio will extend over time to address other programming languages"
-    publishedDateTime: 2023-08-22T08:14:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/ibm-rolls-out-watsonx-generative-ai-capabilities-to-boost-mainframe-app-modernisation-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/nizb0sblr2xvuyv6_1692692056.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Meta's free generative AI tool will help you write code"
     excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
     publishedDateTime: 2023-08-25T09:34:00Z
@@ -142,20 +126,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM’s new generative AI product to boost mainframe application modernisation"
-    excerpt: "Tech major IBM on Tuesday announced a new generative AI-assisted product -- Watsonx Code Assistant for Z. New Delhi: Tech major IBM on Tuesday announced a new generative AI-assisted product — Watsonx Code Assistant for Z, that will help enable faster translation of COBOL to Java on ‘IBM Z’ and enhances developer productivity on the platform."
-    publishedDateTime: 2023-08-22T08:58:00Z
-    webUrl: "https://telanganatoday.com/ibms-new-generative-ai-product-to-boost-mainframe-application-modernisation"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 38
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/IBM.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
     publishedDateTime: 2023-08-22T18:42:00Z
@@ -175,6 +145,6 @@ related:
       domain: ciodive.com
     quality: 19
 
-secured: "v2i5lq41jdvqlnOYzO+Nji57N1zFtYXZzWVhcYHfBNezT2WKFdVlxrQpI9Ir72Nq70QU0Yac+EniPWiW3BalRJIOKvAaGhZe/kgXrfYxYBu9kcrHXmwNHSTMJFpWmViyQ/otlJFGDk/87nJ+IptxnvLgntCo2n1NobPMIDnuEk+eSQ38brjqdH2HibbqrRZ0sDJq40rLKBOm7o3Fc58y+IPihSWBg2LJovnvmNSEOMaozX95dw4N1YCurtdCDaN5cBsbE0cDQJ0tIKhfRZu2fPJ6dSi/lsUJrlNY/XqTnh7fC//02knvy8y80VwfKziP6Y4Cs874YEKbmrc9NsTcBD7Vr0LV0VvEePy2eSyLPTs=;6E/oygoALkhNHMhih6wZTQ=="
+secured: "7kNV9gWz1ACq/n4LUrLlfnGJsvQdc2oGaiCi3PoMQt034ECQumEikdr6zvELyJUnIyJeI73xl60xqLa2KlUy2Zp4dTbGArvLdI+2pa/1SItcqFBy1xw+n8d2z5ZQZ3TNvCjf/yPxfL3vyPCg1uy+jdYHUbVke2EENwOOrkHZ6utnYxuFW+YAkw3eVQuJxaePp902LPu/WBiuR3ov2neGS2UM9vqKYFlhyiFHRQoe/i92VA7SBTamOznGb6k+9S/aM6BOdPoEvtl2j7n01yAp5PbLpBv9eFIBn5ic53XpaaLNRzMu2LvSrZDu8Us5G6zKpCCWGbXQUptgNk9/AX16etNL0hTYw3k/EJJ0GehUqRk=;gl/C4XBxGwQ66wMCbq0hXQ=="
 ---
 

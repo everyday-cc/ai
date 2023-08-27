@@ -488,6 +488,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-23-twilio-expands-customerai-capabilities-with-generative-and-predictive-ai.md",
+      "title": "Twilio expands CustomerAI capabilities with generative and predictive AI",
+      "excerpt": "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/",
+      "originalUrl": "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ai-artificial-intelligence-in-medical-imaging-market-to-surpass-usd-1442315-million-by-2032.md",
       "title": "AI (Artificial Intelligence) in Medical Imaging Market to Surpass USD 14,423.15 Million by 2032",
       "excerpt": "The global AI (Artificial Intelligence) in medical imaging market size is projected to reach around USD 5,448.17 million by 2029, a study published by Towards Healthcare a",
@@ -1148,58 +1199,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-the-evolving-role-of-cios-and-ctos-in-the-ai-economy.md",
-      "title": "The Evolving Role Of CIOs And CTOs In The AI Economy",
-      "excerpt": "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
-      "publishedDateTime": "2023-08-23T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Detroit Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+title: "Detroit Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
 excerpt: "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!"
-publishedDateTime: 2023-08-14T16:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552173"
-webUrl: "https://markets.businessinsider.com/news/stocks/detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552173"
+publishedDateTime: 2023-08-14T15:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9864047.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864047.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "sheJKt/GU1fEgkM4BKklSKHD7D41jwqXCzf2Ua3LQWT4HOHnRgIMw6NDGEL3eyaOtwCRsivPqRGIaL1Mr9G+Dxx67S4oQtlAMqW6IAR6mDewIewu5whnibXQ9OEk8NN8+KXc83GEgHjpXUFEfJ4W1lAxArmoacnbabhfumZrHAlvuyO+XcDUwbtMDPU4ns2ykQVXLhdI3Wjbdck60PXC1l5rBB2Mp8aV3XHt7OQvPG0pix9kh8+yPdD5greTaOi2jd8Bbsuy6ww6P1t9ifN6O67n/AkjQhSABEc8NTz0XAzOvbZhxMuRZKaIPO0YcX8Ad3mX82RjOQKXPqWL+iQbfWgVa7M5ElFReIJvTuepvLM=;RKNnHxFwKrFTYUwpYAyriQ=="
+secured: "MROHj68qgcYffdZ5gqJ5XCp+r2HcEFz7gzMkcfVUZ0t010oxL7UK2ZdIbZQPj2OMYGNlfKJ5rlN3Ak6/FxDk11UnwJyACbBNtRUyMXW4ym07d/9KEF0R0HKd4IOFRfWF8H4yH5KSPS/qjxfeeIApKqvdcrp9tSMX/qOGHOti218w9B5mXHX+24bcZ1SCYgdULLJCwt0XWdPkV8k9g4FzcDF6J7eI4gq9Yp2XEHjY7YCryaQxKaO4+o2FjzuPjULRN+o0K5Qx0cmTeOXLVK6GuMgvU15ttn/CyNLsQla9ySC+NJiAlo7AbMqHJLVdzC2kDFJKMS55Xq3S52XUq4T37n+h/TyLKdcl9pYLJ7dg0N4=;ghrEfW6VhoGPds0T75kHLg=="
 ---
 

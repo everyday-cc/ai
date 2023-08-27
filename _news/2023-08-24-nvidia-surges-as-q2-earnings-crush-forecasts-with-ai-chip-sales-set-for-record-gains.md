@@ -499,7 +499,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 43
+    quality: 45
   - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
     excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
     publishedDateTime: 2023-08-23T22:57:00Z

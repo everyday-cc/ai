@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will generative AI make the digital twin promise real in the energy and utilities industry?"
-    excerpt: "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To"
-    publishedDateTime: 2023-08-22T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 109
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png"
-        width: 1164
-        height: 610
-        isCached: true
-  - title: "Twilio expands CustomerAI capabilities with generative and predictive AI"
-    excerpt: "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns."
-    publishedDateTime: 2023-08-23T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all"
-        width: 1200
-        height: 607
-        isCached: true
   - title: "How will AI impact the data center industry?"
     excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
     publishedDateTime: 2023-08-23T06:02:00Z
@@ -66,34 +38,15 @@ related:
         width: 800
         height: 421
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-08-25T16:23:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
+  - title: "Entertainment industry cozies up to AI"
+    excerpt: "Talent agency giant CAA invested $20 million in AI startup Deep Voodoo from \"South Park\" creators Matt Stone and Trey Parker, as well as formed a strategic partnership with generative AI company Metaphysic that will include using its de-aging technology in an upcoming film."
+    publishedDateTime: 2023-08-23T14:58:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2023/08/23/youtube-universal-music-ai-incubator"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 34
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
-    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
-    publishedDateTime: 2023-08-25T14:15:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 18
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "OoEkW/bgV/M/I/55aFfM4GXO2PS4HYHgqb/LJIN1/w3uhe9n7LmA1LbP0cnE6e9ogQbs85TI4eKoHJCJLOr2TBxo5NJ5NbAgCbg2SSk440AHOoaxchl4avpgdhkH5dX+A2AAOD2xTSUy+FwzOzQKo83uwqwUvK2zJGaGZXoTRr5lF0K5V+FdhaB18l85ivtGv8xMqWE/MHGsPW6LNiXlYwWglN1+M33tiIeyrPPhNDK/sAmaIRGQ6E1s3K/MA2f7Zg7+cNtf2+VCYO7cP4CYqI2K5qpF1GHSTWkUqOpXpZJZKh8mXJ+RwqombCl1UbucJLfnAXPbG29scFqQbrkPDDyos0V3GM375tIIDehWoT8=;m1E1XmAtDs77ihESptn8qg=="
 ---

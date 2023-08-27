@@ -25,76 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Will generative AI make the digital twin promise real in the energy and utilities industry?"
-    excerpt: "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To"
-    publishedDateTime: 2023-08-22T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/"
+  - title: "Study shows potential for generative AI to increase access and efficiency in healthcare"
+    excerpt: "The large-language model (LLM) artificial intelligence chatbot performed equally well in ... are occurring at a fast pace and transforming many industries, including health care. But the capacity of LLMs to assist in the full scope of clinical care has ..."
+    publishedDateTime: 2023-08-22T23:30:00Z
+    webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 109
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png"
-        width: 1164
-        height: 610
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Twilio expands CustomerAI capabilities with generative and predictive AI"
-    excerpt: "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns."
-    publishedDateTime: 2023-08-23T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
+  - title: "'India emerging as world leader in teaching and framing of robotics in healthcare'"
+    excerpt: "Today, technological advancement has enabled a policy of creating a new digital ecosystem that not only enhances accessibility and efficiency of healthcare delivery, but also made it more cost effective and paves the way for universal health coverage in India that is inclusive,"
+    publishedDateTime: 2023-08-22T12:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging-as-world-leader-in-teaching-and-framing-of-robotics-in-healthcare"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all"
-        width: 1200
-        height: 607
-        isCached: true
-  - title: "How will AI impact the data center industry?"
-    excerpt: "In an AI environment the servers need to be very near each other, often linked together with InifiBand connections rather than ethernet. This creates a very dense (and more efficient) environment within the data center which, in turn, creates challenges for cooling the server."
-    publishedDateTime: 2023-08-23T06:02:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-will-ai-impact-the-data-center-industry/"
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 45
+  - title: "BioSig AI Sciences Achieves Infrastructure and Technology progress in Development of Generative AI Platform for Hospitals"
+    excerpt: "About BAIS BAIS, a majority-owned subsidiary of BioSig, is developing AI solutions for the hospital marketplace utilizing structured, semi-structured, and unstructured data."
+    publishedDateTime: 2023-08-24T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/biosig-ai-sciences-achieves-infrastructure-and-technology-progress-in-development-of-generative-ai-platform-for-hospitals-1032580440"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Adam_Levine.2e16d0ba.fill-1200x630.jpg"
-        width: 800
-        height: 421
-        isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-08-25T16:23:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 34
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
-    excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."
-    publishedDateTime: 2023-08-22T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/gen-ais-role-transforming-industries-crucial-need-data-integrity-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Rehan-Jali-CLEAN.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "LAFk3wE5UKmqFIPKwajfdBEWZysIqiKPYknzDMZXcZujdvh2Kgp6rD3KbHCbY7R/jD+Mg5eri0bhVOh9aoj7D1OfetvEmIv5o1GAQIVQL6B0TCAZzzEjm27XQyIicv2RyBPmH2QOOKaH0Iep4ugADPFWu6L/zmYC7NGWhJs3tzKJPfkMY+5ATFekpM0kkRsCk+jJA5uSbHy20G0DqcI7LMzCIK6gKILuWROqVzpvHoRW8qKFfIhnevhqhvrNX6nFypn1AvoKKRDtYrbtj5duteXocsD6GQbN3xQsNqE7Gndr0N6glE4utSCZjBB4bhICTWGGtdDjW/deFaxVpeNtCBv3OILX+C6xtYmOjqKG9Kc=;vCGYNYj3UBNptmyo8UXqTA=="
 ---

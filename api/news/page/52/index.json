@@ -2,6 +2,58 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
+      "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
+      "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b90ec712fc5c66bcbd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "publishedDateTime": "2023-07-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient.md",
       "title": "TSMC delays US chip fab opening, says US talent is insufficient",
       "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) was supposed to have its first Arizona chip factory operational by late 2024 but now has confirmed significant delays. Primarily due to a shortage of technical workers with critical expertise in the US, TSMC projects to finish construction instead by 2025.",
@@ -1100,49 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
-      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
-      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "publishedDateTime": "2023-07-19T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

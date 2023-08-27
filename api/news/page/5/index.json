@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-22-ai-is-remixing-musicbut-the-dj-is-still-a-human.md",
+      "title": "AI Is Remixing Music—But The DJ Is Still A Human",
+      "excerpt": "The truth is that successful, AI-generated art will still require a human touch. Despite its ability to automate tasks and generate images, AI (for now) is still limited by the abilities and decisions of the people responsible for its creation, editing and programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38a5f40c0644c620c8def/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "publishedDateTime": "2023-08-22T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-does-your-business-need-protection-from-ai.md",
       "title": "Does Your Business Need Protection From AI?",
       "excerpt": "While AI can offer many benefits to companies, there are also potential dangers you need to address to protect your business and its stakeholders.",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -349,26 +400,35 @@
       ]
     },
     {
-      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
-      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
-      "excerpt": "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways.",
+      "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
+      "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
+      "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T23:44:00-07:00",
+      "publishedDateTime": "2023-08-22T01:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -378,7 +438,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "IBM AI",
         "AI"
       ]
     },
@@ -424,49 +484,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
-      "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
-      "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33976425",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425",
-      "publishedDateTime": "2023-08-21T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -517,6 +534,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
+      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
+      "excerpt": "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study",
+      "originalUrl": "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/VS.jpg",
+          "width": 1280,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1119,50 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-deepminds-ai-life-coach-can-be-your-new-personal-advisor.md",
-      "title": "DeepMind’s AI Life Coach Can Be Your New Personal Advisor",
-      "excerpt": "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "originalUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

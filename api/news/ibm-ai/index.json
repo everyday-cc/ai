@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -265,7 +265,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -317,7 +317,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -418,17 +418,17 @@
       "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
       "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -436,13 +436,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33976425",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425",
-      "publishedDateTime": "2023-08-21T21:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

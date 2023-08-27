@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Anthony Albanese confirms announcement of Voice to Parliament referendum date to be made in South Australia next week"
+    excerpt: "Prime Minister Anthony Albanese has revealed when he will confirm the date for the Voice to Parliament referendum, as he prepares to kickstart a six-week campaign for the constitutional amendment. Anthony Albanese has confirmed when the date for the Voice to Parliament referendum will be announced."
+    publishedDateTime: 2023-08-23T01:29:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 21
+    images:
+      - url: "https://content.api.news/v3/images/bin/1ed692cdc13dbdcda5fd7111438ff10c"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Prime Minister Anthony Albanese tipped to announce Voice to Parliament referendum date in South Australia next week"
     excerpt: "Anthony Albanese will reportedly announce the date of the Voice to Parliament referendum in the must-win state of South Australia next week."
     publishedDateTime: 2023-08-22T10:49:00Z

@@ -2,6 +2,58 @@
   "page": 189,
   "value": [
     {
+      "path": "_news/2023-04-27-elon-musks-past-statements-about-self-driving-safety-could-feasibly-be-deepfakes-tesla-lawyers-told-court.md",
+      "title": "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court",
+      "excerpt": "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4",
+      "originalUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp",
+      "publishedDateTime": "2023-04-27T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
       "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
       "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
@@ -1168,58 +1220,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
-      "title": "DeepMind’s latest research at ICLR 2023",
-      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

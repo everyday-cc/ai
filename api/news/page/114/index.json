@@ -2,6 +2,57 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-06-13-larry-ellison-rides-ai-boom-to-highest-wealth-ranking-ever.md",
+      "title": "Larry Ellison Rides AI Boom to Highest Wealth Ranking Ever",
+      "excerpt": "The Oracle founder has surpassed Bill Gates to rank fourth on the Bloomberg Billionaires Index as shares of the software firm have climbed 42% this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-12/larry-ellison-rides-ai-boom-to-highest-wealth-ranking-ever",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-12/larry-ellison-rides-ai-boom-to-highest-wealth-ranking-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izvhhhmG9wEg/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-why-taiwan-semiconductor-manufacturing-rose-on-monday.md",
       "title": "Why Taiwan Semiconductor Manufacturing Rose on Monday",
       "excerpt": "However, management also noted very strong demand for artificial intelligence (AI)-related chips, and especially tight capacity for advanced packaging needed for 3D-stacked CPU-GPU AI chipsets.",
@@ -1170,58 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-artificial-neural-networks-market-insights-2023-2030.md",
-      "title": "Artificial Neural Networks Market Insights | 2023-2030",
-      "excerpt": "The Global Artificial Neural Networks market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-2023-2030-2023-06-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-2023-2030-2023-06-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

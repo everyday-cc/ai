@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-21-loftie-magic-storymaker-a-groundbreaking-ai-powered-personalized-bedtime-story-experience.md",
+      "title": "Loftie “Magic Storymaker” - A Groundbreaking AI-Powered Personalized Bedtime Story Experience",
+      "excerpt": "This article discusses the importance of sleep and how new innovations, aided by AI can help improve health and wellness and business productivity Loftie is a company to watch with a very talented CEO who has a brilliant mind and a big heart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e26b9257642d1784c71423/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
+      "publishedDateTime": "2023-08-20T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-christians-shouldnt-fear-ai-they-should-partner-with-it.md",
       "title": "Christians shouldn’t fear AI, they should partner with it",
       "excerpt": "Christians shouldn't fear AI, they should put their faith in it. Christianity has always made good use of new tech from the bible to the internet -- to share the Good News.",
@@ -286,6 +337,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-19-artificial-intelligence-and-machine-learning-news-and-features.md",
+      "title": "Artificial Intelligence and Machine Learning – News and Features",
+      "excerpt": "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230827",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-2-artificial-intelligence-ai-growth-stocks-that-wall-street-billionaires-are-buying.md",
       "title": "2 Artificial Intelligence (AI) Growth Stocks That Wall Street Billionaires Are Buying",
       "excerpt": "Those products led Morgan Stanley analyst Keith Weiss to conclude that Microsoft is the software company \"best positioned\" to monetize generative AI, a bold prediction that bodes well for shareholders. The generative AI market is expected to expand at 42% annually to hit $1.3 trillion by 2033, according to Bloomberg Intelligence.",
@@ -525,49 +619,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-artificial-intelligence-and-machine-learning-news-and-features.md",
-      "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
-      "originalUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230827",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1149,57 +1200,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-the-ai-powered-adobe-express-is-now-generally-available.md",
-      "title": "The AI-powered Adobe Express is now generally available",
-      "excerpt": "Access to Adobe Express on desktop is free, but the Express Premium plan is included for Creative Cloud members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-ai-powered-adobe-express-is-now-generally-available/",
-      "originalUrl": "https://www.zdnet.com/article/the-ai-powered-adobe-express-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4121ff0a697a4e3744b24dc9a93fa166d400a122/2023/08/17/37dfa150-4c7e-42eb-b693-186c9a3ab314/adobe-express.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/",
-      "publishedDateTime": "2023-08-18T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 190,
   "value": [
     {
+      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
+      "title": "DeepMind’s latest research at ICLR 2023",
+      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
       "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
       "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
@@ -1118,58 +1170,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-chatgpt-how-to-use-the-ai-chatbot-thats-changing-everything.md",
-      "title": "ChatGPT: How to use the AI chatbot that’s changing everything",
-      "excerpt": "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 579,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-04-26T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

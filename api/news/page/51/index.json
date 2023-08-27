@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-21-voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031.md",
+      "title": "Voice and Speech Recognition Market Size, 2023 Global Growth, Key Players and Forecast 2031",
+      "excerpt": "The global speech and voice recognition market size is expected to grow toUSD 31.49 billionby 2026 according to a new report published by Report Ocean. The report \"Voice and Speech Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33318042/voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33318042/voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
       "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
       "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla (TSLA.O) Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been ...",
@@ -1134,58 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
-      "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
-      "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
-      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b90ec712fc5c66bcbd34f2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
-      "publishedDateTime": "2023-07-20T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

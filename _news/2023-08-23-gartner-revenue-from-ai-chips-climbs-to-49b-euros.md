@@ -93,20 +93,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for Cloud AI Developer Services for 2nd straight year"
-    excerpt: "Alibaba Cloud recognized for its Ability to Execute and Completeness of Vision Alibaba Cloud, the digital technology and intelligence backbone"
-    publishedDateTime: 2023-08-22T07:30:00Z
-    webUrl: "https://manilastandard.net/tech/314363124/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-2nd-straight-year.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 18
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/08/KV-1-.jpg"
-        width: 468
-        height: 462
-        isCached: true
 
 secured: "PWhHLhD9d5tjTzz9FgObdcT82l+f1gq0w3p2EIXUglTiIysqAPW08jVCQUeH5RxA7qugukrPmwE6R01T5H7F9pFPnfpQdwiaDBGZXsUuYifl3qokxEhzdin/rPlgPQZ08jKiVGWt59naFKmvLHALHRrr8KXwVlNRmEsUVlww/6PsWHp8sQGEAyBJgfBPoRo/LQBa1ZipDT22PthyBCy9aKG2omv1jHuAXuChxmEVlss9FBdiw9cW71LiBFs74GoINeFAQYAm75+/Xllq8Dz7LCvERDR1VJEim/My6m4u77Qh9vbF5xJbduLkgCP98v2WjRaYHl0JW14Dtl43TsIIYHEfhsmL+pvg+nx5yI3zvg4=;KT1yKecM8WbMzBOpWadDKw=="
 ---
