@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Samsung funds Irreverent Labs, a startup that creates AI videos"
+    excerpt: "Samsung Electronics Co., Ltd. has invested in Irreverent Labs Inc., that develops artificial intelligence models for the generation of video content."
+    publishedDateTime: 2023-08-27T09:40:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Samsung-funds-Irreverent-Labs-a-startup-that-creates-AI-videos.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next"
     excerpt: "Among them is a Bellevue, Washington–based startup called Irreverent Labs, whose AI technology enables anyone to create a ... one that had developed a robot cockfighting game called MechaFightClub that used non-fungible tokens (NFTs)."
     publishedDateTime: 2023-08-24T13:31:00Z

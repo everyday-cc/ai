@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65675027.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp"
 type: article
 quality: 104
-heat: 424
+heat: 414
 published: true
 
 provider:
@@ -432,15 +432,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
-    publishedDateTime: 2023-08-22T18:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "WBqBcMENvolJ0tpCd5kPv1rgyyFm313AS8+T+XfDUo2IuuXAbKRW1L69EYrfOHxdsNxXVJzRD9UCUiik7Ges3WlkXDtv3lf+A4vNvtvI01fqf588Wqpp1Q5DaCV+Ol7qcw9+96PfN70naTcKbNxNSgKxBysHU2j/+gmkh4YL8QomOk0na3cT6aK+QNEjJwVHFDIizGlAUWN4Kcokk52NKIr68edQOxjWklOduWFIxL3nqg/BnZBKUq6BjOUTvAIZKzsieDMoz5D8RE1cFeN6KVFOV6Z7O6neIdHftQuE9yW5XEHm2Lr9yXXzMYUTbXMLHlhVala/ekk4cBSgpFq5SYnG41SQVWCUa/yfHzDsyTs=;iGoVhpleO7sg00a6Ng8ifw=="
 ---

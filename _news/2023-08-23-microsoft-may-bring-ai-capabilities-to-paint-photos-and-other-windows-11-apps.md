@@ -30,38 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'"
-    excerpt: "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ..."
-    publishedDateTime: 2023-08-22T17:16:00Z
-    webUrl: "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
-    ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
+  - title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
+    excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-23T13:27:48Z
+    webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 113
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Python is coming to Microsoft Excel"
-    excerpt: "This will enable users to perform complex statistical analysis, advanced visualizations, predictive analytics, and machine learning in Excel."
-    publishedDateTime: 2023-08-22T17:41:00Z
-    webUrl: "https://www.zdnet.com/article/python-is-coming-to-microsoft-excel/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-is-coming-to-microsoft-excel/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f19a01c69ca1095117ebe9fad7097214ff82f81c/2023/08/22/b58df5b7-d18a-4f36-ae1c-e474a7114e03/color-ropes-stock-photo.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 105
   - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
     excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
     publishedDateTime: 2023-08-23T04:11:00Z
@@ -77,6 +54,36 @@ related:
       - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
         width: 546
         height: 312
+        isCached: true
+  - title: "Microsoft unveils blueprint for India on AI governance"
+    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
+    publishedDateTime: 2023-08-25T11:22:00Z
+    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 74
+    images:
+      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
+        width: 670
+        height: 476
+        isCached: true
+  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
+    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
+    publishedDateTime: 2023-08-27T10:32:00Z
+    webUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 73
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png"
+        width: 1000
+        height: 715
         isCached: true
   - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
     excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
@@ -126,6 +133,22 @@ related:
         width: 1399
         height: 787
         isCached: true
+  - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
+    excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
+    publishedDateTime: 2023-08-24T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpOMg2bgk7DLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/08/Mint-Inner-Circle-24Aug2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z
@@ -139,6 +162,34 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_line.jpg"
         width: 644
         height: 450
+        isCached: true
+  - title: "Microsoft Discontinues Kinect, Again"
+    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
+    publishedDateTime: 2023-08-26T08:25:00Z
+    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 54
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
+        width: 803
+        height: 452
+        isCached: true
+  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
+    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
+    publishedDateTime: 2023-08-26T19:22:00Z
+    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
+        width: 3584
+        height: 2048
         isCached: true
   - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
     excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"

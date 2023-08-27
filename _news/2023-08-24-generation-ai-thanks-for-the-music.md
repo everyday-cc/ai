@@ -77,15 +77,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How human advisors can bring out the best in generative AI"
-    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
-    publishedDateTime: 2023-08-22T18:51:00Z
-    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
-    type: article
-    provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 19
 
 secured: "FbqZ4Js/oxWagaMC/VzpP4/Gzm0TgYQ/dsDUBqsHGxmSPr/Z+XLvlloE23yktfwA80TeyXLkCorHuIUHlCM5quKgEQ2Maj+6d6Q0gNpoBR54lvD//14A2eNdWQdq9mqWu3boQs7QGIgYbppmnKpCaJm5GTqbsXgWVVNReglz48EYO6iwo+1LfgyATL1vcTN/+977GypFW1aXz1QaSRjzh27P2hmdrDznmEmuU9xoTFf5pP1frSFstUUlgPGoGmvUG+F28ELNHvf73jH2NVXoyN9s7HikobOc4gZ2Z6k2hpnAGlkQuaOOx6SoglHVtIaOUqiIo3B6gUFpLf7Y31k5MUNGDEluaoJCwOeinngiNyRneQwA8Sfi3z6mgo7vqlY7hGsDxUpPEQ8UrSH4+ParPtf6uDAXtlP/yxkB5/PupsQeGxq04YW6ZsI7+8z66rP86sbqQQ1vDz61ohXsoE1tGhpJjcuJiGx7gWTqY+rXwVabMYO5t2LhwsMragYbkwr4JTGV4uLj4QTo1A/1mdPtOw==;WrrY/YAdHRoj1n8Gy4+5vw=="
 ---

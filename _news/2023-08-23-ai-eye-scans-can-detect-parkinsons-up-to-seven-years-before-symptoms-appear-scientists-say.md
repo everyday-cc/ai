@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/tech/ai-eye-scan-parkinsons-diagnosi
 webUrl: "https://www.independent.co.uk/tech/ai-eye-scan-parkinsons-diagnosis-b2397774.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eye scans detect signs of Parkinson's disease up to seven years before diagnosis"
-    excerpt: "Markers that indicate the presence of Parkinson's disease in patients on average seven years before clinical presentation have been identified by a UCL and Moorfields Eye Hospital research team."
-    publishedDateTime: 2023-08-23T01:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230821174246.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
   - title: "Speech Accessibility Project needs more participants with Parkinson's"
     excerpt: "The Speech Accessibility Project is almost halfway through its first phase of gathering voice recordings from people with Parkinson's."
     publishedDateTime: 2023-08-25T02:57:00Z

@@ -45,20 +45,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
-    publishedDateTime: 2023-08-22T17:11:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "Elite Unveils New Generative AI Time Entry Capability"
     excerpt: "Elite, a leading provider of financial and practice management solutions to law firms and pioneer behind the legal industry's first cloud-native financial management solution, has launched a new time entry capability for users of 3E which leverages the industry-leading machine learning and generative AI capabilities available from Microsoft."
     publishedDateTime: 2023-08-23T14:36:00Z

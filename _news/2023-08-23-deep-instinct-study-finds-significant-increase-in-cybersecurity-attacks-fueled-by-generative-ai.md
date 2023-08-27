@@ -67,15 +67,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "What to expect during the AWS Startup Showcase ‘Cybersecurity’ event: Join theCUBE Sept. 14"
-    excerpt: "During the “Cybersecurity” AWS Startup Showcase event, theCUBE analysts will talk with leading founders and visionaries from companies including Securiti, Halcyon, Elastio, JupiterOne, Thoropass, Secureframe, Vanta and Cloud Storage Security."
-    publishedDateTime: 2023-08-22T18:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/expect-aws-startup-showcase-cybersecurity-event-join-thecube-sept-14-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 9
 
 secured: "B7h7xBjTYxmVllYlrHl5gnGcZnK5zD+FKbTR+xjo0z1p3fhI2Sviy1eab40rMLMp9h0ZYBYuveuqIn1iJGAprjGjheks3GdSLvt4NdEubLluRi6CbWQeKCupS1n8W0oFzfnLFiKBM7AL5eOqYM1lexi4iDX1ZyQ8WHIvpDmFDYkwVzuau6YMPPzBr39uglciCn6IuafmGdMNqG0pZuf0PBeH4n8QZPYrMR4GRriY6z6LCn0N1C8W1ZPWDC+Vi0mUc54sggqU4frepsd0NxF0RTt9011B4H7rVPz4BnmiPZht2Wjrwznqz4FFs7LXNRXCCrzd3JZqH8cwGBejQGfHRZMWbimhZ8z2QIvIu4RME3GRj7Vyy+JZfQQLltRa3KAat6ir1X6pWQKFJ8VKMRecV1vODi9VazTRYF3lJfbKE5GVzMnBjE22k7IkHbBWjizB5Oj2KIjXXEzE7HoXMDf0kDQst282Rk+vTChcZS4+R36LtVVzgu2H1cMRHlGpepHW/Fb0Pi1xNloSg64wjQMvBQ==;xI01YuDEhgb2ie6XXGEVTA=="
 ---

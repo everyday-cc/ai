@@ -2,9 +2,9 @@
 category: news
 title: "CyberLink Launches FaceMe® Platform 5.4, a Complete API Solution for Facial Recognition"
 excerpt: "The FaceMe® Platform's extensive facial recognition API set - including face template extraction, 1:1 face match (comparison), 1:N face search, video analytics, image quality check, and anti-spoofing - addresses the facial recognition needs of any use case."
-publishedDateTime: 2023-08-23T17:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cyberlink-launches-facemereg-platform-54-complete-api-solution-/2023/08/23/9869285.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cyberlink-launches-facemereg-platform-54-complete-api-solution-/2023/08/23/9869285.htm"
+publishedDateTime: 2023-08-23T17:12:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/23/9869285.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/23/9869285.htm"
 type: article
 quality: 11
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "ZsmPVkZMP8/G5G9ZX0ABrdIrxa2Nw67ZrzC6MJ0aUd5QzgpEJW9xyuzB2f/02onI3ZdFYeaDE7o/jRZ0ueMANVMUIe3E9U6/PYxR2UmSdUTCsKUGlZrL/zJgBMR6XX8yso+VeaQyiK109ew3e2KRbO9c/w/78EYATLVzPnRh4yLKrIx5WBsS3RQ7S4A7qePRiId/fIRN6MjW0HyLhOx9v/lTKfu0xYoCG7w5D6t8mlW9+/YLozBIMD2tAx05InvRwcIWORL0qbWurMojO+kEX1v/6sD0HPwtHwD7ztW1IKRIwBL9xvT2Wyb1oyJUl4QLvzYqRhw86LcW13ooeru4d2G0IaaHLbrJFEoaWKQWc4Y=;S8JDblud4CmPN1kRkemswA=="
+secured: "8w/jUSJur0m8Y7rnk3h0vW2ZxFMSA6a2Ydq6dGTp3gA6Q2cU3UpqsP7HdNhoYd/FhZZ0lZo/rnO49adUPJS6TEf8oHGuFs33StNRsb6FwXTwsy7FMfANTpZomm+wwQN/q9UfCh7hT/OmvpaTv9u81QCyQIKqf6eY4IvEv5aY+nRJmc9VHkzG1VUihT1m8ReTexzs1J2/zhZBjjbYpcT7pk4Qv0WjQfJkSn5puYP680+n+8Wa43QgdoJOY7fbC6YCBWVpsNqqZnPUXc1aYXtvW5ZUPCVyYBdlxwGImf4HAQlD2iJrmNVDDGK+8FqWXXshOulavwkrORXIZCsHr3LMDLX5ww23nOIjJXHFyOdDU7U=;GLHuVtyhQMy6bN5BzmT5IQ=="
 ---
 

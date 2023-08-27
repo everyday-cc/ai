@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 607
         isCached: true
-  - title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-    excerpt: "IBM today announced watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster"
-    publishedDateTime: 2023-08-22T17:11:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
     excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
     publishedDateTime: 2023-08-25T13:44:00Z

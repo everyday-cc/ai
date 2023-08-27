@@ -69,24 +69,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "VMware, Nvidia Reveal Private AI Foundation To Help Enterprises Run Gen AI Apps"
-    excerpt: "VMware and Nvidia executives explain how Private AI Foundation will help enterprises build custom generative AI applications on top of VMware's cloud infrastructure."
-    publishedDateTime: 2023-08-22T18:00:00Z
-    webUrl: "https://www.crn.com/news/data-center/vmware-nvidia-reveal-private-ai-foundation-to-help-enterprises-run-gen-ai-apps"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
-  - title: "Triple cloud-AI play: Lenovo, VMware, NVIDIA partner to offer ‘turnkey’ services"
-    excerpt: "MORRISVILLE - Lenovo is expanding its partnership with VMware, and chip maker NVIDIA, which is at the forefront of generative artificial intelligence technology, on Tuesday disclosed products and services that are \"turnkey\" and \"cloud ready\" for customers."
-    publishedDateTime: 2023-08-22T18:25:00Z
-    webUrl: "https://wraltechwire.com/2023/08/22/triple-cloud-ai-play-lenovo-vmware-nvidia-partner-to-offer-turnkey-services/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 14
 
 secured: "29T9mfk2wSOl19JSoVQ6vgaMQU+sbeeJGjNb3AihTLsURS+V0bjh8jqEUbacHf8mlTpkxE79+KvK19ucEuviMxS5gUBW9sxRtAFyRClJ1r6sMIuoPfkpDlUUAfw5nns/1nMXJGB7PusO8HGEpbyzfcuI2PtuskXC6C/g0GDmiQEsF+np5yOsb/zTHqihKuiHw5OF4qI4RGY+/pWYja9jnY6BLIeMbz2xYmgE6Exlmo+Z2/OD4/cdFO8hX2Z80agsjKHrJvuX+SaA4XnV+kK2sOwTXf6INrkq9syHal5uDRc9rgYZw4bHqa+dhVDDfpN4o/R83Ua6q1N0C+ojVoYTn7OLI4SBWEXXev+q4fFIlRM=;zH5ruwY9BkmwnTz/qka+Ew=="
 ---

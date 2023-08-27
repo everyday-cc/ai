@@ -74,20 +74,6 @@ related:
         width: 1024
         height: 525
         isCached: true
-  - title: "Rise of artificial intelligence has actors fearing for their careers"
-    excerpt: "As Hollywood actors continue to strike, a major issue in negotiations is the role artificial intelligence could have in reshaping the entertainment industry. CBS News' Bradley Blackburn reports on the promise and the peril actors now face."
-    publishedDateTime: 2023-08-22T17:05:00Z
-    webUrl: "https://www.cbsnews.com/video/artificial-intelligence-actors-fearing-for-their-careers/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/22/fe2777cf-297a-46ff-b385-79d077b2751d/thumbnail/1200x630/1f1f230d87486340a8ed747c4a7c3d8c/cbsn-fusion-artificial-intelligence-actors-fearing-for-their-careers-thumbnail.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WP/G8IHg0HTVYnqbZlyA4Bsu0vWpSeWaeUkqP6onY2DUFb+YneaQv1w/eiGB59FIJhkx409hsij1ES2BTOhkhvelcYoTiaUT7xM6quoF8sPvlEU0amamLz2ae1+QPkUaVExhXF4WqeEKFLCQqZL90Y7tpEN2McYOI/YFf2j3cNHvIweN1RmfxRjco+ggHOvvZJUTBppSzB942TmQveZJEGVIk95xe5fUeyIt5UXwCso2FzDjKqiNn8qGpvQzpXGKIPUWL7ScGRM3CkLP3BGYY1MPo3i3Gu+LqPGEh/KG/5NYg4UCcieA+2vVx1m3LQe2vzJlOMtDod1czXqZEwvrJ2n5y7xPmF72tqz+MTMk/Ye5VlRPSSlxxLPUsUohslaPjo9FZKOWxyxs1C2MRgzwfvl7DeF9j2NcjtT7bEAxhtCk7OMwbQetGVh04ME0TridAZaReEDGJmdjQkBHvPy3g9BxRvvt3xL3ipRLuw7qvTEKsM4S9r4fk6u2aPrml0G5UMaUV9cvumgBoaKYjQMCmw==;STwIw9T8v1aE49JwZ56Jwg=="
 ---

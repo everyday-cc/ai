@@ -53,15 +53,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Influential face biometrics group FISWG seeks feedback on 5 papers"
-    excerpt: "The Facial Identification Scientific Working Group (FISWG) has published an ethics code and a guide to face biometrics to generate investigative leads."
-    publishedDateTime: 2023-08-22T18:39:00Z
-    webUrl: "https://www.biometricupdate.com/202308/influential-face-biometrics-group-fiswg-seeks-feedback-on-5-papers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
 
 secured: "yU3VGJV55OY8ujAaAq5cVCLAZruknoP0NvmF+hQmVC8ArJRknAZhNoMNB4edouS45B2s574MPPWYSVTRFC55kr4tRuVwJutNjBOkjAdBtYIa8AAzNIn9zMniGtpM5fk7hjhRhfws7NPP5FStlxTPKChkdAqUYEsaZLTuWa5EP2K342mH+IHHfQgt0J5ByxAsKynsMB0bAY7W82u+tOJoddh5Kk58dA+EWpY/rtShgohgMWNCdm6OCH/x5ZAItDcUVTSmZVGnuYPPYzmr2lSNhahP2Kgpo7t0WKj9/y5XzEPQGdiScNxIe1sGEQQfKCrtlmdsIxgiMJ2bI9q2k8srueKBauVX8BAjDfRv//hPZlz/7D5eTqfZTHwJ0l3NOHN6U0keuOS8cwZQGxH4rNxEObQfXDzb59/jfwkSvGQIOMNFjsLaowSV8NsPDjWSwnoZeEenI5Ul02C3VfXpvHL1LR7A8avc2DGJx7NmsqJLCfLoehfXXJt4f66xLMK/2fplB6nGfxrBixNGlntQzbFIcA==;OFBOvK7GGD6MWGazSXKQUg=="
 ---

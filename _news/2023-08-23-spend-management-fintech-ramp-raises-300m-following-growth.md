@@ -73,20 +73,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Dynamic Use Cases of AI in FinTech"
-    excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
-    publishedDateTime: 2023-08-22T17:35:00Z
-    webUrl: "https://www.tech-critter.com/dynamic-use-cases-of-ai-in-fintech/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 39
-    images:
-      - url: "https://www.tech-critter.com/wp-content/uploads/2023/08/ai-fintech-02.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
     excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
     publishedDateTime: 2023-08-27T00:47:00Z

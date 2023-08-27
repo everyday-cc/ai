@@ -59,20 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Dynamic Use Cases of AI in FinTech"
-    excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
-    publishedDateTime: 2023-08-22T17:35:00Z
-    webUrl: "https://www.tech-critter.com/dynamic-use-cases-of-ai-in-fintech/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 39
-    images:
-      - url: "https://www.tech-critter.com/wp-content/uploads/2023/08/ai-fintech-02.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Spend management fintech Ramp raises $300m following growth"
     excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
     publishedDateTime: 2023-08-23T15:00:00Z

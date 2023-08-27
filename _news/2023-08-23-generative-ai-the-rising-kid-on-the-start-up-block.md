@@ -78,15 +78,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How human advisors can bring out the best in generative AI"
-    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
-    publishedDateTime: 2023-08-22T18:51:00Z
-    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
-    type: article
-    provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 19
 
 secured: "7N7pJaRcDdLxa/ZxnJW2qrhnCia53GudK/zb/IsOCVwy/lE0TcttuNH7C1y86zCvETKLKgPSm0st/UZeGQYkdj/xRZktLJSjVcxQFvlPrU/y9P+94BFxH4BsDBTC8k8CtvSV3dAvyxPQVnea3VOOo/+LKcGjTMMDFdf3YAUksbxuChLiWXt1/aDQH8UMAdMe7FmfdCvCZ/NxmrKaWfLeZATm1viA5nxcBsuR0BYY2ZcI9os8i1PUaWo0TsY4K/ist7MSjfhsxLyja6xh9L91RwjrgjPiSHgN0Xjuu81wIwP1DCpEiUsCAL7EU23pc8uT7VSRFBbqMhFz33bPdjUgUFgiyidGkunYHo8DjWmqO2w=;JBd5gONBVk97SfbKbgGcew=="
 ---

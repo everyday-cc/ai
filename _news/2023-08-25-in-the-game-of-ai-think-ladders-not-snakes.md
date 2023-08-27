@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
         width: 1024
         height: 525
-        isCached: true
-  - title: "Rise of artificial intelligence has actors fearing for their careers"
-    excerpt: "As Hollywood actors continue to strike, a major issue in negotiations is the role artificial intelligence could have in reshaping the entertainment industry. CBS News' Bradley Blackburn reports on the promise and the peril actors now face."
-    publishedDateTime: 2023-08-22T17:05:00Z
-    webUrl: "https://www.cbsnews.com/video/artificial-intelligence-actors-fearing-for-their-careers/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/22/fe2777cf-297a-46ff-b385-79d077b2751d/thumbnail/1200x630/1f1f230d87486340a8ed747c4a7c3d8c/cbsn-fusion-artificial-intelligence-actors-fearing-for-their-careers-thumbnail.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "P95W8AVVQcnIYk7U3XMKiirrSVKTlZWp3x7iJLfSsvFrg5K6SFwTIJi7F710x6Dy7VnzPtHm76qmQDXhKWZfESHkNEuAx/6fSXVCcfksL5n23vtc6ibD9zbAZfzHgQriint8/Wrc/Y5cO7yRwIcPNTBXJeBiJ+nA4XICGD7kSgnfS2Jr77aUf76/IltD6ZBvKtaD/ND+bTok9ITNAZu1qAR3at9ptFvHGGpdq8j4HQyf3M19/aqhK9qgwcDtILkPMovfMUl8XeWFf71+GGRTldOiIRHOBnTD37Rz2QhgXdhDwYjzu+r5U1ZKuBEvDSL9/RJozaV4afRUUuIESY6dMo/nz6Mp2uzqwE/ZFCcn7so=;D76OygUwjLCevLwJ4BGgEA=="

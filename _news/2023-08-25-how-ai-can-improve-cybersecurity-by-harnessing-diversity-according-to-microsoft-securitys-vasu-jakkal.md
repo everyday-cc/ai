@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
 type: article
 quality: 105
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "What to expect during the AWS Startup Showcase ‘Cybersecurity’ event: Join theCUBE Sept. 14"
-    excerpt: "During the “Cybersecurity” AWS Startup Showcase event, theCUBE analysts will talk with leading founders and visionaries from companies including Securiti, Halcyon, Elastio, JupiterOne, Thoropass, Secureframe, Vanta and Cloud Storage Security."
-    publishedDateTime: 2023-08-22T18:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/expect-aws-startup-showcase-cybersecurity-event-join-thecube-sept-14-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 9
   - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
     excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
     publishedDateTime: 2023-08-23T13:59:00Z

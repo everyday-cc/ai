@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-i
 webUrl: "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Samsung funds Irreverent Labs, a startup that creates AI videos"
+    excerpt: "Samsung Electronics Co., Ltd. has invested in Irreverent Labs Inc., that develops artificial intelligence models for the generation of video content."
+    publishedDateTime: 2023-08-27T09:40:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Samsung-funds-Irreverent-Labs-a-startup-that-creates-AI-videos.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Samsung invests in AI startup Irreverent Labs"
     excerpt: "Samsung is investing an undisclosed amount in Seattle-based American AI startup Irreverent Labs. The South Korean tech giant is said to be particularly"
     publishedDateTime: 2023-08-25T14:10:00Z

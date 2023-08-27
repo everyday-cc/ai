@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How human advisors can bring out the best in generative AI"
-    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
-    publishedDateTime: 2023-08-22T18:51:00Z
-    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
-    type: article
-    provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 19
 
 secured: "WCQeSEyNW5qRbMhpYRfZFBclnIZ4NQzdjE27kmLF6dd/yZM5i3S2tNZKgcqOSsvCQgjERu1F8aYXwKbtpRy0ees6N6ZKqhesyLcbNiNSMF//cA4oDIIKIjDPdRUp8cNDm/PFvRgfEKoiaoVJ8vsYkvRPjOrqxfPT0tXyAFIUBkdWACEhWa2qndxXug+pkssTZHcBcJFmeWEYrZNenWXg65t1PqHy4lhSd8GN4ZsyxN0OhwaruE1/+s1VSynoXnDqCyWfKqqQCF2rEFFhx6Z+8P+WlmLkz5+YwNn/0/PCJLX7lL4JjvIyo8cZQqdCIRHLe1RolfZ16TUOm/jURzn20LQiFn8WAzkOVIRWLL88zz0=;c4ciEw+q+1PeJ7hjVsExbg=="
 ---

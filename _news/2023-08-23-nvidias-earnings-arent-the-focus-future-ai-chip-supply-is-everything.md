@@ -428,15 +428,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "NVIDIA AI-Ready Servers From World's Leading System Manufacturers to Supercharge Generative AI for Enterprises"
-    excerpt: "NVIDIA L40S-powered servers from leading global system manufacturers — Dell Technologies, Hewlett Packard Enterprise and Lenovo — will be available by year-end to accelerate enterprise AI."
-    publishedDateTime: 2023-08-22T18:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868519.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "7PDtwUV8YJl0TAB9ON0441k8nqE21raEDXefS+ZCiXgaBfLWWJwNKB/C+5qajlpVJ/iQU9UJQsk+LPKpm238n91YdhD/bAUxaVS04veGJygJdp5GocXRumC0SNmEx/jAGFMO4yDZWbzqMKFGM/GZ56MuBg31/0ZvVJXaXsFm5l8vnpjDO+ybhST2QIRCdpJyH+WoJtSsN8DEj1qfRy8SVybWEH2H6bJ55PJNs7GXlvlWIyW5mlhw1RXnk3Ot7ThIexRlOaPs45wNp9CQVdenjD2W+cPL9YmDeKbZABrCsqS8fXiwaS/h7InL/CxjBkmhH6AJm9oSF1GvzTW2BdV3U0yIQEy7SMUhU4WawgHZJClVstezsoTt/ex+gjMZPKBqTfWAW9tbjzsrcQK12T+IVPux9h7RL8cf+ibhhEi6HZH/7Xo7PEv98ch6m1508MrtZ5VDWkbXpwkicpHm9u+/UJiRuAYIyfD74FO0sUNJiGP/XdelHCTqF8zwkL0/pxGmPpEdlL/WIW2WI86l70lVhg==;L+7phr8ioTG4x+OQqcj8Qw=="
 ---

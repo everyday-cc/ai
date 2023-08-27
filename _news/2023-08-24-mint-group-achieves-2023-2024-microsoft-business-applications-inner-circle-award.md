@@ -36,6 +36,36 @@ related:
       name: IBM
       domain: ibm.com
     quality: 105
+  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
+    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
+    publishedDateTime: 2023-08-23T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
+        width: 2473
+        height: 1795
+        isCached: true
+  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
+    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
+    publishedDateTime: 2023-08-23T04:11:00Z
+    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 74
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "Microsoft unveils blueprint for India on AI governance"
     excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
     publishedDateTime: 2023-08-25T11:22:00Z
@@ -51,6 +81,82 @@ related:
       - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
         width: 670
         height: 476
+        isCached: true
+  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
+    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
+    publishedDateTime: 2023-08-27T10:32:00Z
+    webUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 73
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png"
+        width: 1000
+        height: 715
+        isCached: true
+  - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
+    excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
+    publishedDateTime: 2023-08-24T09:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/google-microsoft-tools-behind-surge-in-deepfake-ai-porn"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
+    excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
+    publishedDateTime: 2023-08-23T19:14:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-may-soon-give-windows-11-an-ai-revamp-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "What's Going On With Microsoft Shares"
+    excerpt: "Microsoft Corp (NASDAQ: MSFT) shares are trading higher by 1.5% to $332.03 during Wednesday's after-hours session amid broader tech sector strength. Shares of several tech stocks are trading higher in sympathy with NVIDIA,"
+    publishedDateTime: 2023-08-23T23:49:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34015788/whats-going-on-with-microsoft-shares"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34015788"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34015788"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft could bring AI to the Windows 11 Paint app"
+    excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
+    publishedDateTime: 2023-08-23T01:03:00Z
+    webUrl: "https://bgr.com/tech/microsoft-could-bring-ai-to-the-windows-11-paint-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/03/windows-security-on-windows-11.jpg?quality=82&strip=all"
+        width: 1399
+        height: 787
+        isCached: true
+  - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
+    excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
+    publishedDateTime: 2023-08-25T17:53:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/08/25/robotic-automation.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_line.jpg"
+        width: 644
+        height: 450
         isCached: true
   - title: "Microsoft Discontinues Kinect, Again"
     excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
@@ -80,15 +186,24 @@ related:
         width: 3584
         height: 2048
         isCached: true
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
-    publishedDateTime: 2023-08-22T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341747&cat=PR News Wire"
+  - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
+    publishedDateTime: 2023-08-23T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
+  - title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
+    excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
+    publishedDateTime: 2023-08-23T13:30:00Z
+    webUrl: "https://ehrintelligence.com/news/epic-expands-microsoft-partnership-for-ai-enhanced-clinical-workflows"
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 34
 
 secured: "n5SSHpunxaymzIUjHirwQsl+2BQJkD/nPGp2qvmBlDThElYfeX3HLgM91uG+umEY+sM3p6w3hsbdYAcrOgS4KPli1mg81aXy5pMnB4fcgEYb5m5edu2B/4QgHTN2D48G8sKKRgQCmq9Lus4OShz8SNxBigCm1m7qNSexaRXHwPVB24LLP6X+++WTmvRL+n6Vi0Hg8bPchPWgWSehZBa/ynrz7DIfWWhCO9d8o5LGTfSdcE0xSA024monA2ekkwnc6VgbtmPVAJ++9e7bi0eWry2LGLTZMbQcBT9J65AakjY9ONkPsvG00m9/hPAgOM0PA+c5QjDU7JAtRJf8+wFk6GjiHvvnnyCXFq7y9i2IlhE=;DcCgZhuqqxV/2ttfrio1vw=="
 ---
