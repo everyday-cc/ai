@@ -28,22 +28,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 32
-  - title: "Anthony Albanese confirms announcement of Voice to Parliament referendum date to be made in South Australia next week"
-    excerpt: "Prime Minister Anthony Albanese has revealed when he will confirm the date for the Voice to Parliament referendum, as he prepares to kickstart a six-week campaign for the constitutional amendment. Anthony Albanese has confirmed when the date for the Voice to Parliament referendum will be announced."
-    publishedDateTime: 2023-08-23T01:29:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 21
-    images:
-      - url: "https://content.api.news/v3/images/bin/1ed692cdc13dbdcda5fd7111438ff10c"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "iss/1neboaXMnzTav6rm4DQOdOLJglFgLeoBicHhJ+dXBNalFcqJQk5vnk1OITY6vvJRN979cw9jp0rCCpp7ycbls5pZGnknp8WlcQd/xBNb0+3JTI/qmkEJZAflCnIxBS9SNSgQXROZH49W0tAuVNiNLm8wVkx2XPMRtry1D35qh/XD0nbrxPOzOW7GL845QtpXu32pxCQg5ykn820p1oF+5V165EBcImxdWmaCe6TeAFTpdKTKMwGok3iZ56c+JRql2O0fjgb72A/0ilNbUBGQPROWXM1bKRw3bSZGA3xbP68qTKwvBUGaYQpxUeSZ2YjPIRvDWZtcGq2zdkAbu09QqGFHSzaFYWFNv9m23MRG9xQuFFeny87Vv/WRQn2n9XDtVvLdVWaH3FQ+F9wGredUFdxFyLV67RmVf0RRXcROaEmJrfBET8OYbc5dHdbAgVM2SR/p3Gda9mtwlBjkzMMmTcGdekaWBUaov7No70sJgPnhqfBPKEAqB2UOsNapcM2c0SgCRuzl9eRWOIUp6g==;eHSo56amU9T5L/D6rHjHoQ=="
 ---

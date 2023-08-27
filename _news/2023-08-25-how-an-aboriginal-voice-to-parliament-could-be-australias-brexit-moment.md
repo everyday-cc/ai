@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese confirms announcement of Voice to Parliament referendum date to be made in South Australia next week"
-    excerpt: "Prime Minister Anthony Albanese has revealed when he will confirm the date for the Voice to Parliament referendum, as he prepares to kickstart a six-week campaign for the constitutional amendment. Anthony Albanese has confirmed when the date for the Voice to Parliament referendum will be announced."
-    publishedDateTime: 2023-08-23T01:29:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-confirms-announcement-of-voice-to-parliament-referendum-date-to-be-made-in-south-australia-next-week/news-story/5edb24505cfb9dcc55bc567d7e486b09?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 21
-    images:
-      - url: "https://content.api.news/v3/images/bin/1ed692cdc13dbdcda5fd7111438ff10c"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Australians urged to vote on voice separate to political parties by Liberal MP"
     excerpt: "A Liberal MP who broke ranks over opposition to the Voice has urged Australians not to vote for “parties” at this year’s referendum and rubbished claims the advisory body would have any extraordinary powers."
     publishedDateTime: 2023-08-24T03:28:00Z

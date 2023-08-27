@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/could-you-soon-be-running-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/could-you-soon-be-running-ai-tasks-right-on-your-smartphone-mediatek-says-yes/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Dimensity 9300 Processor will Run Generative AI on Smartphones, Says Mediatek"
-    excerpt: "Details of the Dimensity 9300 chipset suggest a radical design, with specifications including Arm’s Cortex-X4 and A720 CPU cores and the Immortalis-G720 GPU. This technical composition suggests a strong commitment to delivering a robust and efficient AI ..."
-    publishedDateTime: 2023-08-23T02:58:00Z
-    webUrl: "https://www.gizmochina.com/2023/08/23/mediatek-dimensity-9300-generative-ai-smartphones/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 66
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/MediaTek-Dimensity.jpeg"
-        width: 960
-        height: 541
-        isCached: true
 
 secured: "Pl8hmYOn1Zo4dP6VSBRHq9Fwd7dyQiizobQeXyA0qBW6kZmmaPpLR1W8+rmRkQ/qu0Y5D1K9XQboN09R2STp7ZIQ6tb2m7XVEatbBG1mGzIIjKsY2AFEbicgmP5IEKg44aZdL21ZIns+yLsKA6h4Ve8K4LkXAhcAY2w1mm5KIga5jCDC+y/g49FjzFbrXx04IepF+OICsJo1+qKBNiKfyHpg9WdEDxBDadVgyT8F/WvArlRj1w0E1uVkT3mRibgFR7vw4ZfM6vP13qdidi3sWDyGxjnA07JYwYlIApLerrNVtDeYIcJFgedJHVUVn52xvRETqq7wih7XNh3Lh6MH+qqXJiZonXLmxcmNjfiZAuVcUqhbeB/2WXq4EYyP+xat2Z53/LoB7EB/D7i6ZgBV772ibMdhyekhSGUekogGzKCAVRKSrh+N5M1YSDpzDZD4ATtSBCT+CMqxRfNfnRt4lbQbZ3aV8r6AwM66ErLnwUr766+OtxHCJ+CyFY9QJ4zXOOk9A76LITZmYuDtKdDsFA==;A9+36LDZxbMOSiS9nyrQFQ=="
 ---

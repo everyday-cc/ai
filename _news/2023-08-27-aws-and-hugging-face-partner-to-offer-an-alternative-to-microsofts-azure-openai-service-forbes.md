@@ -49,22 +49,6 @@ related:
         width: 2473
         height: 1795
         isCached: true
-  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
-    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
-    publishedDateTime: 2023-08-23T04:11:00Z
-    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 74
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
   - title: "Microsoft unveils blueprint for India on AI governance"
     excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
     publishedDateTime: 2023-08-25T11:22:00Z

@@ -41,20 +41,6 @@ related:
         width: 763
         height: 428
         isCached: true
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-    type: article
-    provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 54
-    images:
-      - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
-        width: 1201
-        height: 631
-        isCached: true
   - title: "HCLTech partners with AWS to drive GenAI adoption"
     excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
     publishedDateTime: 2023-08-24T04:16:00Z
@@ -69,6 +55,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "HCLTech Collaborates With AWS to Accelerate GenAI Adoption"
+    excerpt: "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-23T13:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "I9s0smjBNOAe9NGpN1eHT6YG6/YOPQvUZEUz3VtGQpIPqG8Zd7pbJjBEeQe77LT03sr//jTOOFMiZHjQR5k9/z5IsT6sOOYId48iZc7hd06aM6Jqd1L+88lbnT8KX5IDdP9fDAFVBzDYyUYosT1C4IZnDprTdtNFdgEP0brVHGbUS3fU2HohGHhZBobuDA/xku8JpkYTryu/7TYxEfUV6proYkndGLDRzFEg1h4WCcgRlDOjz13B6Zhg1jna7d6WymywtzjEpRUqbPvga9FtaOo8yRraLY5Jze47DIJm59SGfeAnJ9VVTiEkHlUIrD90l1yEltmkIsZlKGpXU5xHIeottu4mIm0Y6/nSPqcdUktFIPLiKPbJluy/muK5AIP05h0GNxql7DM1GZy1IP6ptUmSQRfNTigqv6Hnk8feNYULpGVYF9sRs5pVWbd9Q+dqNk1J+CPFhKovXMSwfrWIzEbkW+sptuIumlp3UAAZLnaZJVHVXdKse48lhDLkFyGwVDuyoHvtLaxUKdObkAfx5w==;60r4HqUUeLO2t7tBUw894A=="
 ---

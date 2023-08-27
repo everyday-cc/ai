@@ -257,6 +257,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-18-google-deepmind-is-reportedly-testing-an-ai-that-can-give-users-life-advice-like-how-to-tell-your-best-friend-you-cant-afford-to-go-their-wedding.md",
+      "title": "Google DeepMind is reportedly testing an AI that can give users life advice, like how to tell your best friend you can't afford to go their wedding",
+      "excerpt": "DeepMind, Google's AI arm, is working on ambitious new tools that could function as a personal life coach, The New York Times reported. According to internal materials seen by The Times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-deepmind-developing-ai-personal-life-coach-nyt-2023-8",
+      "originalUrl": "https://www.businessinsider.com/google-deepmind-developing-ai-personal-life-coach-nyt-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64df4478b698ac0019dc1868?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-developing-ai-personal-life-coach-nyt-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-developing-ai-personal-life-coach-nyt-2023-8?amp",
+      "publishedDateTime": "2023-08-18T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-googles-deepmind-reportedly-developing-ai-tools-for-life-advice.md",
       "title": "Google's DeepMind reportedly developing AI Tools for life advice",
       "excerpt": "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ...",
@@ -1387,58 +1439,6 @@
         "AI",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-offering-free-ai-training-for-everyone-in-the-uk.md",
-      "title": "Offering free AI training for everyone in the UK",
-      "excerpt": "Jonny Cottom knows the juggle involved with running a start-up single handedly. Since launching BreakBottle, an eco-friendly water bottle brand, last year, he has been s…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/",
-      "originalUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-07-28_7.31.52_AM.width-1300.png",
-          "width": 901,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
-      "publishedDateTime": "2023-07-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Generative AI dominates VMware Explore news"
+    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
+    publishedDateTime: 2023-08-27T21:35:00Z
+    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
+        width: 473
+        height: 315
         isCached: true
   - title: "Multicloud and generative AI announcements signal new chapter in VMware’s evolution"
     excerpt: "Part of VMware’s message is that in the new reality that encompasses generative AI for the enterprise and a desire to operate in multiple clouds, finding people with the skillset to handle a diverse infrastructure can be a challenge. The company is focused on making this a simpler proposition for customers."

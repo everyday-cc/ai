@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-    type: article
-    provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 54
-    images:
-      - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
-        width: 1201
-        height: 631
-        isCached: true
   - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
     excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
     publishedDateTime: 2023-08-24T15:09:00Z
@@ -69,6 +55,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "HCLTech Collaborates With AWS to Accelerate GenAI Adoption"
+    excerpt: "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-23T13:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "SGJDfvL/ThUYUlppVZKo0L8izhQHd6CRr2H5v6LqAIIi7sjc4oTHZ+R5XRMfJAcwA1A7ya2n6xwzO5iHwzDpqN6GVyDW0DBs12LgqARqr2/3DnGC+fd3dD6VcNd9QC5ggavm/RwHhQZWwsGRWa8aheGobIuRXcgE4S0IlsHPCOW2cC5gXTqJfAdCRVnRQPJP6MLCCITnJWv5FE1L4csYi+AyyUEHAncOh2VhlA6IedGC6tCBQ9HyyiN3umqBMgWHPUu2YZST6o2vnZ9/nmotI7OrGwhL8Q2SPEvowzWTv50pVcGn1UGafEpJcz12BrXEFQZtj5ppbPkvUh5Fn7hgQLrLQgCptvJwVR0jUIUC2ig=;L//A/yh9wEk5do6NFDmA+Q=="
 ---

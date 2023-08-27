@@ -46,15 +46,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Humanoid robots bring artificial intelligence to services"
-    excerpt: "BEIJING, Aug. 22 (Xinhua) -- Holding, tilting and twisting a jug of milk to make latte art is no longer the unique skill of a barista -- a humanoid robot could recently be seen swirling hearts into cups of coffee in Beijing. At the 2023 World Robot ..."
-    publishedDateTime: 2023-08-23T04:14:00Z
-    webUrl: "https://en.ce.cn/main/latest/202308/23/t20230823_38683958.shtml"
-    type: article
-    provider:
-      name: China Economic Net
-      domain: en.ce.cn
-    quality: 34
 
 secured: "m3LNBljEjSrRk1Zx9MLPGoUSJ0VZiN2p+opgkojXV3/nNyKlnZosXs2Brm34okpNzjsWQ7YSmb4MSftoqabFVfsCpFGZMxDckxsGUKTTJcqGqrH8JV30ryYQ49M4NhbRtR3Iim41kUUy6ptw5HVkz9WQ+hjWSQbBtdmGctqjzhdZcG8NlPlsca8U8ScjKQFiuZfYp516/TBEzDY7GhxCk8f3RzztQ+26V04oJZ3JJS/5XuAHlthY9OSZ1QHMyoO4XiI9239UsPMpViTamhKYE7EKgoDJ5D95ls1+rPzXCCyoPJjBncwyuh3ACHw3TtPKmg6BOcE7gJpFBn6ngQMaicCX+poWIJIxChjHu8Ae6lE=;p6aavJy24WL71olW4muGtQ=="
 ---

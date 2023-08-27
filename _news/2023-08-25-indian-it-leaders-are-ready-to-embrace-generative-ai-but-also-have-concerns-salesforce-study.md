@@ -105,20 +105,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Report: AI startup Hugging Face hoping to raise millions from Salesforce and other investors"
-    excerpt: "The startup has already raised more than $160 million in funding, closing on its most recent, $100 million round in May 2022. Hugging Face said at the time of that round that it counted more than 100,000 companies using its Hugging Face Hub to host their AI projects."
-    publishedDateTime: 2023-08-23T01:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/22/report-ai-startup-hugging-face-hoping-raise-millions-salesforce-investors/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/F3Ky24UWgAAW_DI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
     excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
     publishedDateTime: 2023-08-24T21:49:00Z

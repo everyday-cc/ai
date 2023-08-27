@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp
 webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Guide to Fintech ETF Investing"
-    excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
-    publishedDateTime: 2023-08-23T15:38:00Z
-    webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 44
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
-    excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
-    publishedDateTime: 2023-08-27T07:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Türkiye is on its way to becoming a Fintech base with its young population"
-    excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
-    publishedDateTime: 2023-08-23T15:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ0YTNiMmQtMTU0OS00/0/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
     excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
     publishedDateTime: 2023-08-27T00:47:00Z
@@ -103,29 +55,15 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
-    excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
-    publishedDateTime: 2023-08-25T15:58:00Z
-    webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
+  - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
+    excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
+    publishedDateTime: 2023-08-23T19:21:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2023/08/23/sands-capital-investment-ramp.html"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/374bd6f34116a0319a2191326fffe442:fed74783d727da317e096f95c8a8699f/citi-rextie.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
-    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
-    publishedDateTime: 2023-08-24T18:54:00Z
-    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
-    type: article
-    provider:
-      name: Axios Charlotte
-      domain: axios.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "yKn+YVIQBgEcWOmyiJZ7TiH1dzvE2xBHUmPGVCA4HW2ioxeZ/2+BCcieolNl4MLQrmI8oJ1DYIMilT82g4G8oXXNPheeQQlhBpqE1fDEwFJgy9V60BKuK+LCp3KoUDXbiTOGvgtbVh1OLOzVNL15SRoUPnmX1J01t+gl+7ia1EPViXGTrk6qj7fyvyJjW+SpQBfBeTzJr1fguHZfUcb6jFH4aL2BZFu+DPtyRTZMaoO6eUXk2P/bUFJrvTqMBULnJhrTwVg3a2J3TKElCv5h6s9u82eQ27UUcyZyxLEyP9fCYFSgWG3JZ2bc/OnWnUBaa+f0Xdcwuu4lyMSWS5F8XR9607n7TDmlNNA1/Qm16i5VQWyHQeovqm7jPKX3AfnMXK2ZZ9/a4jjg21fYcdh1Ctf9d51xdayBNHWqI2+tO5ShQABy789KUX2sKZa54mMap9MtbYZaD2HfUZ83oSZ1xh2UjRZjqlgz9tD+jqcID1KwtX5ZsHPWamVenRlDymhhWB1GbzMjIDHvjGnM8qW2ZA==;F8jxsM2gkDZ8ak3i2/I3Dg=="
 ---

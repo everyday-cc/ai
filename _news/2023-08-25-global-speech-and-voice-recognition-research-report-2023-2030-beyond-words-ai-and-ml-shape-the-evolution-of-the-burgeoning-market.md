@@ -27,6 +27,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Far-Field Speech and Voice Recognition Market Research Report 2023 Growth, Recent Trends and Forecast to 2028 by Key Players"
+    excerpt: "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ..."
+    publishedDateTime: 2023-08-23T11:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/34007149/far-field-speech-and-voice-recognition-market-research-report-2023-growth-recent-trends-and-forecas"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "5cDIfr18C9vyJaxmjRbtu7bUfuaCcBWaa363E9kz9SNmWoDnU/odpwP7cvwA/WHN9Axb4S7iEzLLHTaA6dKUJw9P7Cv0H2LQ7GT8xtgDtmqIUOLNB0wlhOegYCacGYmZ8yoyl8WTitoLaq0ZGsUj9NhZBtfBexkBZZjpREpf8S/2akBRQnVR1B7bolnzMBtUVJifDqDI7OQ/OzFGZNcYCpnsh1BUG5zf02aLPTtfK295H6gAcaZBC7Q8m6PTxj+qtXuZfIQRl23vZP5XbkhIVUK2eup+vzTP+ViZsgPWYV2nTSpRr9JMiKE9aqPkRYNwGEiaeKYJV8KVFyzYd/mIAhb3kvFQURKGopXw7Y5+Ac8=;8CpBHULMvJnyLdu5Ru+IOw=="
 ---
 

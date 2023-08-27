@@ -302,6 +302,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 51
+  - title: "Nvidia Sparks Rally in AI ETFs"
+    excerpt: "Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics & Artificial Intelligence Thematic Index, which seeks investment in companies that stand to benefit from the ..."
+    publishedDateTime: 2023-08-24T17:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-sparks-rally-in-ai-etfs"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
     excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
     publishedDateTime: 2023-08-23T10:00:00Z
@@ -422,6 +431,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "5j5EIUHqMKe1fcnu7chseSueggDPWYjdA6jA2NfZXmeNYVfJbMUiqduKduZlYiB9MTpBMW+JGQg8cvaG0QzEIS1r7DwuwrB8BotoDbFjTg/HQlJZBzl4oUR8DRDWbIKFWxFSCkN/mkjNf3nhQIwNBle1HN2WwnxfOoOdYJINOPdy/dUrwVzbCw1GTiQlL7ffNVwXO+SgL6Oxd4mFsyab0Uxx2V0tNIa2n6V2bdKQl5V4Yuf6npbGnwMY1+QlZzHbe2QU+0eBqAi3QbKTV3bHO0Q6BLXTss+dUbVWJPUVEFZe/gxYtow6wlQg4n6Gp/pn3+XV4k/tjQzWzB/bUQrETnBK4GGaGMafxEf05eCtXX4=;4+HSV4yI/SSLcVUS8Yx23A=="
+secured: "5J8vFvJbR+beZqqSTYKA/1HKfo9StN6hxWMcXunC9FHv6O4Tak0OsC4EtT5xCLJQ20/KqMbgA7ZjfWmkNDNgmq6jWP8aFnPPCaGLjZAEbOYEd7dgtTz5+oeY8bY8EHcKORJi8Y8ovnjPAhSSt3ycJPRm3bQiyyA+PfKfdfUYe7IbC/eTJOnbf/Xd16fmUdMmHe8nJEIhnXz47AF1QgHQe7hPLcBWV+OJ4QgRtuqX9Oz/rfOxQVXVep4XNV6fozO2C9Kg25pfmufsvnU84acM2mqmfSSJurKhQR/CTRGR1JZndKEATvOlMgOwshQf/ONpfMuD2rp/tnuX5jzPaxFFd+o47RsNTE1vXwuxYSAJDCxFri+q7IB7uPMkCBUOirCNA3Lgk54lsgFCsuYnZSEPBtxnURmxY7BIT69YjoMbDFmCSRntUaA95hCbi7vKNB6zOJm2aocsgwpk5PpdfuNlN5eWkBvroIX4gJjBHiM5v8QgNK8cowo93uwLQM6qbM0mCoejXF2VXzjUtCDJS6kTAA==;plcZRexB54Hqb7mXke6bvg=="
 ---
 

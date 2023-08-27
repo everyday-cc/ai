@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Guide to Fintech ETF Investing"
-    excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
-    publishedDateTime: 2023-08-23T15:38:00Z
-    webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 44
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
-    excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
-    publishedDateTime: 2023-08-27T07:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Türkiye is on its way to becoming a Fintech base with its young population"
-    excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
-    publishedDateTime: 2023-08-23T15:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ0YTNiMmQtMTU0OS00/0/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Spend management fintech Ramp raises $300m following growth"
     excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
     publishedDateTime: 2023-08-23T15:00:00Z
@@ -103,29 +55,15 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
-    excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
-    publishedDateTime: 2023-08-25T15:58:00Z
-    webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
+  - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
+    excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
+    publishedDateTime: 2023-08-23T19:21:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2023/08/23/sands-capital-investment-ramp.html"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/374bd6f34116a0319a2191326fffe442:fed74783d727da317e096f95c8a8699f/citi-rextie.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
-    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
-    publishedDateTime: 2023-08-24T18:54:00Z
-    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
-    type: article
-    provider:
-      name: Axios Charlotte
-      domain: axios.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "I1m1vmTSblAd33LFkDnMiALEyUX42MzQyAw1HqzqH9Namt4HW1v781uS3MDIzkE1VgQZzRbO9y/+Q9x4oxMKC49GubE5hdDGsSmXEPfTMk9Pbnb4PWz0fT6B1vaQdbI8QEQFjObAIgzl4opbew/ysOWgRWPTaZW2uzO/7RPwniN1IXco3e+lSL8XkscyAC5QNZX6TTkWU2BhrJWu2zhV02wmSvLpJueHa0xQeOXYVdTXyURk+/AD/+lAVOCvQXmmQoztxMOeL9kSUJS1IYZ+G+QXQYB8KWanMDyYDm+E6wwOSwpeeJgN9t6hxClc5rEOBkLnu4Poaa0UpgmU80KuQFCO3XtgQPDI2YvPaqZ8v44=;rLyjVIXhs5k4XxL+yzPBtQ=="
 ---

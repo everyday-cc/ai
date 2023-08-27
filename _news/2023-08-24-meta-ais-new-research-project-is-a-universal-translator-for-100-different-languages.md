@@ -70,22 +70,6 @@ related:
         width: 4000
         height: 4000
         isCached: true
-  - title: "Meta launches multilingual AI translation model for 100 languages"
-    excerpt: "Meta has introduced 'SeamlessM4T,' an advanced AI translation model that performs speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations in nearly 100 languages."
-    publishedDateTime: 2023-08-23T01:23:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-unveils-seamlessm4t-multilingual-ai-translation-model-for-100-languages-2023-08-23-888323"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-unveils-seamlessm4t-multilingual-ai-translation-model-for-100-languages-2023-08-23-888323"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-unveils-seamlessm4t-multilingual-ai-translation-model-for-100-languages-2023-08-23-888323"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/meta-pixabay-1686979786-1692753637.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
     excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
     publishedDateTime: 2023-08-23T07:12:00Z

@@ -50,22 +50,6 @@ related:
         width: 2473
         height: 1795
         isCached: true
-  - title: "IBM Consulting to deliver new generative AI offering with Microsoft"
-    excerpt: "Global technology advisory IBM Consulting has expanded its collaboration with Microsoft as the firm looks to bolster its new line of AI services."
-    publishedDateTime: 2023-08-23T04:11:00Z
-    webUrl: "https://www.consultancy.uk/news/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35173/ibm-consulting-to-deliver-new-generative-ai-offering-with-microsoft"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 74
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-22-01063151-IBM_Consulting_to_deliver_new_generative_AI_offering_with_Microsoft_spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
   - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
     excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
     publishedDateTime: 2023-08-27T10:32:00Z

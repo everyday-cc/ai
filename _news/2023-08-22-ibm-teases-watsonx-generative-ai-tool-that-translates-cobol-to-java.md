@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
-publishedDateTime: 2023-08-22T13:10:00Z
-originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
+publishedDateTime: 2023-08-22T13:18:00Z
+originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "HAP8sqofK/ZuL1ne8mAs2s/YgZd9kIWu/d6piHf1PuJnE5SDRQDfsADuT8RxyhIrNqY8YziIAFkHRa+XZOx4qUPEj5Ive2oEmX3xYGXMfSEoVu177zAz7zb3EkQWz1fbVk0fQ2HWmCdJobOX1WZSdtWZcVd3qXveBqS3cjDPgfxsuHfXpVfMcdf536ZsikURfTAQJwdHniZ8TAZloO9dl8y8+CZamL9zd1DUlu/hU0vHEddhUNtAe8/vqaZuuVxuslMgr1VczmyeQIaXjf1qd8+reSIsClgPLqi7sQZjpvkVkKXkZWYb3sC9WYnyMF3Ms4nXZG9nS3mmPXZLdNi1gNKKWpKfuVcz8XwkjFlVLcc=;xqu8kbFh+0JLXgAq/fvvjQ=="
+secured: "JuvF1bgGQjXtO8Aeh+bzSvYsnkWCIQ46GNnPS4gWnuD8reUgMMKhyUdygzxaz+HxBwdnaay2MdTapECnDYKv+haB/vHkBPmlRWF5B9FLWOyNffnt/VnJ1Q86rNWfSBTSVRFdeMqR38zubZOpJ7EcwT+GKY2c4IwRn7V9PFBY4713UaVPpEQE+eaMElvv0xPR/vosudVOnJ05ZbUgTBUuzvT4md9QSQwcrz20nd7ESuP26oPeKrfXX+nguzduJctDf5mTlt/A9PDc/fTAzsTutug/CNXxgKuHbIt+e+1BIo0CyGXFqRERWzGy6EtKbu+96HFQEkp9bGr1Zdk4DwSg+LlmTwWWuet024OOJwnmubA=;aq7OZWUBNzj/7oInSbccTQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/books/archive/2023/08/stephen-king-boo
 webUrl: "https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Atlantic
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI software roped in to translate MBBS textbooks"
-    excerpt: "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c."
-    publishedDateTime: 2023-08-23T03:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms"
+  - title: "Analogue chips can slash the energy used to run AI models"
+    excerpt: "AI research uses vast amounts of energy, but new research shows that analogue devices can run models far more efficiently due to their unusual ability to carry out data storage and processing in the s"
+    publishedDateTime: 2023-08-23T15:00:00Z
+    webUrl: "https://www.newscientist.com/article/2388005-analogue-chips-can-slash-the-energy-used-to-run-ai-models/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/23124429/SEI_168541481.jpg"
+        width: 1350
+        height: 901
         isCached: true
 
 secured: "0HMKQ+zV/tIQlu15VXwWr4vQ14MtIkn+DCYXZA9U0xAhIZJ5AIzMlw4ujTrYgAWTgfBTzeyID20ZdEAHjkYoxUPcN+BJybI9y1UGHBNn4fIYWZ9LxQQXMHJjQ7I0bAkhCkH9yphD0tEHUEDXE20ToufmHhO0Q+06HY6jomgBHGHCmqA2yd1v4QpW3f4WyfvxSzgCzBlv3J8zAEAHtwSMZIxQpVaVjZrQ6BAWfXFlMOo780Vd+9sP3+fFz2MIKOAsjycSIzwZGgBu6FffWiwdwzkYlOAaJg7NTqiWgFrccPJXIKb4K/4CjHwl0QYFbPK1YpM1xffKkQq6Gc4agEmYvEXfXQLoBOfGH/v/HKFKNzSAibYc0MET23bHecDYRO5h3Y4/OE7Th/MvnkjzEj9lYRcgWDePRRmWMi0VJiXDA/XDOZIDZbyXQCuEQ1Cwmwwd5nhhIYZowXH8i6dA3l/dEsuKjcXLakig4IH04ZbbZ8cL9pzV4ZZ26efksHunOmjyXItkEuehfrWWunqIn0PNew==;VlBkdXrKKQH5ypUE91AeRQ=="

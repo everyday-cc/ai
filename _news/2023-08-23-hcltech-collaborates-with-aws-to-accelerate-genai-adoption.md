@@ -1,28 +1,22 @@
 ---
 category: news
-title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-publishedDateTime: 2023-08-23T12:00:00Z
-originalUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
+title: "HCLTech Collaborates With AWS to Accelerate GenAI Adoption"
+excerpt: "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+publishedDateTime: 2023-08-23T13:05:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: HCL Technologies
-  domain: hcltech.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
-    width: 1201
-    height: 631
-    isCached: true
 
 related:
   - title: "HCLTech partners with AWS to drive GenAI adoption"
@@ -70,6 +64,6 @@ related:
         height: 765
         isCached: true
 
-secured: "xJyx4o/2P/1204fai2bZIiBuJwr5XG4dvZsy6BWpRyHToEJQlms6kECEyZc0fCslSZPZtx0KPp7sDh5JWC5Hk+YBfXVLVkEhsDfg0D83KNPti+99Q4ACrPLFqU1X0k6xMIBpjW0ZubfBaKc6VOxzn/b7OfnfRsND6trqS8tvsEqsGmrwKwKHmiwhfSehFHfe/uMedtjg6JzDpqDfN/SWeVoQ/eOxz+aa4egOoW9AsakDjoG0T8WyANStJmUVW0erPsqQ+H+rI2E8BpO3y2IrwkhG5wOHcQZ+7e65hdUK3tsnTq2AVgRHZe6a/LF5dBWBOXHNrgl0/QUZ1ZdLxu3hDqjVJoACVddmtpEFDa8/QQNxyt60x5wlkqbZGQCUlGh9f+B15tBlvP1O0uVWgLiwrCuIgfUFxZe8ew9ZTV4m434Mj/516UGHuGWpIVpUZWGuEgalXQiek9MNFyXweWNNhU5MqS9hCAH1kTzX66d4lsyBvGM3Dtda5GR7PLZD8HufPXlrvsoMwuxgWWo36gUNNA==;Vu4wLyZ/FIe56U6TZCD+0Q=="
+secured: "SoxjtH5IoKFr5NXXQ8sk3xfKhPklRKmbV1DNcGTwncaJxWEf+aECczMabPHdchhR8irGBSZkaEG23xiqwZK7mTPRKeHIUJHMQLgr/IyUEZoYFvJ8DVZXLUZBKP4WQBlFeywYCNXRTu8O4DqwPQUjf6qc/eeQsA3lELkacZRpkaD2xrHgstmnL43kba/EIZSnI7tm3bwx5ddimuFHkdCZSTmLjOlgV9y0eQaN2HusdgAh0+dnB9kHhqItROHgu53HZdzvGR+HyQJx5iMOBF6h60mWdUbrPAbXNEwbKvbd1meIxnxcu2Ghblewo/hgeYHxveQKA7gtEsjPCUDuwG5V5HDl/YShrm3MyaJYSmTeQ/M=;/9jFF5vMfzIF/01rCp3DNg=="
 ---
 
