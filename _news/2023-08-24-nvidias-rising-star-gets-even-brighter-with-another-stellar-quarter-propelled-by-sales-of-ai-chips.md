@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
-publishedDateTime: 2023-08-23T22:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
-webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
+excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
+publishedDateTime: 2023-08-24T02:01:00Z
+originalUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
+webUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI Hardware
   - AI
   - AI in Sales
-
-images:
-  - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
@@ -826,6 +820,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Bb2xDsqOhu7o+oGsP5r2HmiW9HWwfjWzxnmf3X+my6gETvTMaV/LbLxr5pDeNvBaLOVlVgnR47wsGkw5EnvV8SEUF3YggeX35yNTiYfma8BNYig34GpN3Y1DArSxJu2ybqcymrixEFme5rQD8w9KV6kLvFw7O+f6D3xYz1lMGP8jUwXJCmY+JCxOjAd4xLY6pjtHGXsk9I1mVC8vX17LbDxAXdBE6orLLRx5vbpx2M9BlPusLcsmo0ekGwR6Y7rYZbyOIsObOU98pqBZirr6hSQzGLBwDfRa/X1LoIUkhLlSO0xYzi7JJ2qWrMLTKtPPWne8CnN4kV1oX6riv90EVwi5rW5g8fYZ2Bhih93hWeqvz3Yorwrfs60GfxWtShTGd4NpfnzL71QZ1H1abZKYxKlQjavk/9xxJOKzyLerCbqsdldSldLSxlXJqq7lh55GvWgduWyDJI/o97f1NN4QXDkzvyFqPTgHSvTDUHjjgVCZF4t8GfXKjtJY6iJvgOMOBHaOHzah3E5GiZyK/TBS9w==;wbb5fJHnfCgDyXZu9ehIEA=="
+secured: "Zlj+4v7Rd6spcszjKribfaAvaNEuqxczi5tSljPKiAmvCW//wLSYlu3ahvbaOaXXsb/f3mVWlKZS8SKno0BNzQQb6y960lxzGIqHEs8H6O6ur+epoxYvddETALoGBqxD3adU4/WQRPjMhvjciOu46v+ayqgA0JHERlbGLPHaSKl3xW70kDiXrGXn69GC4hTucnpgmFUDIjc2sJ6LvU1AxhK0RpUAvxzk+fzfWrwOJEQzUUEWfFukWLbr7PrhOD7Ufjao5toVRcUKv+qph/sMs81TTLTez1UWkWFz+NP7eVacwha9RkWh6oBJYD3rK/HK+55GZXf2C9gvDq8Ti0P8BQW5DdUKXqsTPNNpPyzI5yK05zrKwsxmavdiOn8iqubwJZy7TOB1bzNislxoMt4Vw5NvXtcPaQKWQ92vqRBz5UPFRkfBAAShy1rLMl8j/s0x5h6YxPgLLXcMfUFv4VX4Vu8mBiueMzwqIAZPOyOU3SlvnpgS7EaFNPqnjbTvioABSw5K4iCrTZxqQ0EIj7mNbw==;++wFAkpAFBjvt89BBuuFDQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-ha
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

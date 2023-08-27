@@ -56,20 +56,6 @@ related:
         width: 800
         height: 421
         isCached: true
-  - title: "How AI in Games Will Revolutionize the Gaming Industry"
-    excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."
-    publishedDateTime: 2023-08-22T05:25:00Z
-    webUrl: "https://www.maketecheasier.com/ai-revolutionize-gaming-industry/"
-    type: article
-    provider:
-      name: maketecheasier.com
-      domain: maketecheasier.com
-    quality: 37
-    images:
-      - url: "https://www.maketecheasier.com/assets/uploads/2023/07/AI-in-games-immersive-technology.jpg"
-        width: 1350
-        height: 675
-        isCached: true
   - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
     excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
     publishedDateTime: 2023-08-25T16:23:00Z

@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "10 Maps Showcasing Asia’s Fintech Startups Landscape"
-    excerpt: "To get to sense of Asia’s fintech ecosystem, we’ve selected some of the most comprehensive maps covering key markets including Singapore, Hong Kong, Indonesia and the Philippines. These maps provide an overview of each of these markets’ fintech landscape,"
-    publishedDateTime: 2023-08-22T05:39:00Z
-    webUrl: "https://fintechnews.sg/75467/fintech/10-maps-showcasing-asias-fintech-startups-landscape/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/10-Maps-Showcasing-Asias-Fintech-Startups-Landscape.png?x34447"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
     excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
     publishedDateTime: 2023-08-22T20:55:00Z
@@ -161,8 +147,8 @@ related:
         isCached: true
   - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-    publishedDateTime: 2023-08-22T14:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
+    publishedDateTime: 2023-08-22T14:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/22/9868268.htm"
     type: article
     provider:
       name: TMCnet

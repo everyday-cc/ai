@@ -67,20 +67,6 @@ related:
         width: 800
         height: 421
         isCached: true
-  - title: "How AI in Games Will Revolutionize the Gaming Industry"
-    excerpt: "Generative AI can bring unprecedented immersion and personalization to video games. This list includes promising use cases of AI in games."
-    publishedDateTime: 2023-08-22T05:25:00Z
-    webUrl: "https://www.maketecheasier.com/ai-revolutionize-gaming-industry/"
-    type: article
-    provider:
-      name: maketecheasier.com
-      domain: maketecheasier.com
-    quality: 37
-    images:
-      - url: "https://www.maketecheasier.com/assets/uploads/2023/07/AI-in-games-immersive-technology.jpg"
-        width: 1350
-        height: 675
-        isCached: true
   - title: "Gen AI’s role in transforming industries, and the crucial need for data integrity"
     excerpt: "Even though traditional AI was used to find patterns in data, gen AI is emerging as a game changer that digs deeper into natural language. This is a significant milestone, because out-of-the-box solutions will be triggered based on the computer’s capability to comprehend language, as this was only restricted to humans, according to Jalil."
     publishedDateTime: 2023-08-22T16:08:00Z

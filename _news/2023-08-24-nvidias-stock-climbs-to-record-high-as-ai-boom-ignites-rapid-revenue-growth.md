@@ -326,20 +326,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
-    publishedDateTime: 2023-08-23T22:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
     excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
     publishedDateTime: 2023-08-23T07:26:00Z
@@ -684,6 +670,15 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
+    excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
+    publishedDateTime: 2023-08-24T02:01:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 37
   - title: "What’s up with… Arm’s IPO, AI chips & Nvidia, Brsk"
     excerpt: "Arm has filed its IPO papers Nvidia’s stock rises as AI chips get even hotter UK altnet Brsk lands £156m in debt financing In today’s industry news roundup: UK chip designer Arm has filed its IPO papers ahead of a planned September flotation but at an ..."
     publishedDateTime: 2023-08-22T13:57:00Z

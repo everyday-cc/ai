@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "How customer engagement will evolve along with generative AI"
-    excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
-    publishedDateTime: 2023-08-22T05:08:00Z
-    webUrl: "https://venturebeat.com/ai/how-customer-engagement-will-evolve-along-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_232601963-copy.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
     excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
     publishedDateTime: 2023-08-24T13:00:00Z
@@ -146,20 +132,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Novel AI-powered solar panels offer 88% energy efficiency"
-    excerpt: "Solar cells have a theoretical maximum power that they can generate with sunlight received. But what happens when you lower the resistance?"
-    publishedDateTime: 2023-08-22T06:46:00Z
-    webUrl: "https://interestingengineering.com/energy/ai-model-ev-motors-no-plugging-in"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/21/image/jpeg/HVAolUndxslBBcGdNa5TvwUgjlkreRKmy7ejTt4y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Irreverent Labs, backed by Samsung Next, set to revolutionize video content creation with AI"
     excerpt: "Irreverent Labs announced today that it had received a strategic investment from Samsung Next, the venture capital arm of the South Korean tech giant."
     publishedDateTime: 2023-08-24T13:00:00Z

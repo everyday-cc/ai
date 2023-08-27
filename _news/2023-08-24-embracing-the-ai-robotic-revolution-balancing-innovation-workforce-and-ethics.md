@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "How customer engagement will evolve along with generative AI"
-    excerpt: "Generative AI is reshaping customer and prospect engagement, elevating experiences at scale and driving growth."
-    publishedDateTime: 2023-08-22T05:08:00Z
-    webUrl: "https://venturebeat.com/ai/how-customer-engagement-will-evolve-along-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_232601963-copy.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nobody can deny that there has recently been an AI revolution."
     excerpt: "Peter Singer, an Australian moral philosopher and professor at Princeton, took a utilitarian stance and argued for the recognition of moral standing in most non-human animals on the grounds that they have interests in avoiding pain and experiencing pleasure. Of course, Singer’s arguments didn’t address contemporary Ais."
     publishedDateTime: 2023-08-26T00:30:00Z
@@ -135,20 +121,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Novel AI-powered solar panels offer 88% energy efficiency"
-    excerpt: "Solar cells have a theoretical maximum power that they can generate with sunlight received. But what happens when you lower the resistance?"
-    publishedDateTime: 2023-08-22T06:46:00Z
-    webUrl: "https://interestingengineering.com/energy/ai-model-ev-motors-no-plugging-in"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/21/image/jpeg/HVAolUndxslBBcGdNa5TvwUgjlkreRKmy7ejTt4y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
     excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
     publishedDateTime: 2023-08-23T15:52:00Z
