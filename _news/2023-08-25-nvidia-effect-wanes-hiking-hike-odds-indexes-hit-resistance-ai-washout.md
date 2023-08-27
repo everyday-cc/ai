@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NVIDIA DLSS 3.5 introduces AI-boosted Ray Reconstruction"
-    excerpt: "Alan Wake 2 and Cyberpunk 2077 will be among the first games to support NVIDIA's DLSS 3.5 update."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.shacknews.com/article/136733/nvidia-dlss-35-announced-gamescom-2023"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 19
 
 secured: "7PNdYQtpdXColw06aTxf8RJ+Fw2SJshn3kovUbxbwlLPbLMh9gKAzA9d/4payU/k3hIyYkTs3Ae9nQJv98V/l6UKvIhAxvqIWlCgou41ZWJK893UpYnBU07v55I3DC5x5ddv0zAsNDyO5HUAfWm78u9yYknFD4vxTP9mzcvRaq6Kb3nphV/mQRH+/hCB9kCInZ8WKslmNkKk0CAkmFomO5zBRvTyDQmXko3VnWgYoJOcQ+4WeBZRrvNcmAg4QY3T48b5zymzs1wBSXdOv7PSdNoGsGQ78db431akvaaeZHOVIdc7Kds3gA3Gf6mqjvRyC0qs2a+hxIPKlndogZwBc7cbYiXbCW0qlTF34f1z8A8wE4tpTz/TeJgc44nX4VDbP/VPP0p16v7mhfPtjXF2L9P2UgpQ8UMhwzrVy5XQcpoKWt5ZJfjCT7EUMGUxzRxMFOIBM0OOHfCL3/Rp5P1SBWU1D/G5GumD5HnRJaZGPP8Vqhkf0/mLzXuT2CuxQQupG6M4/6UxzAm0S7/RAr19DQ==;/zZntNpQDQQD15Ln+Vvx+w=="
 ---

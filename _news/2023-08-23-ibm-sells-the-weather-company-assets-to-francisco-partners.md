@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-asse
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Bumpy Ride for San Francisco’s Driverless Taxis"
-    excerpt: "Autonomous vehicles scored a victory this month when state regulators approved their expansion in the city, but then the mishaps kept coming."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicles.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "My ride in a self-driving car on the streets of San Francisco"
     excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
     publishedDateTime: 2023-08-26T23:02:00Z

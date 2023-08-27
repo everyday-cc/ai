@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004
 webUrl: "https://www.aol.com/finance/ai-skills-most-sought-employers-120004372.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Upwork Unveils Top 10 Generative AI-Related Searches and Hires in First Half of 2023"
-    excerpt: "The analysis by Upwork’s Research Institute found that businesses are progressing their understanding of generative AI as they increasingly move from ... Learn more at upwork.com and join us on LinkedIn, Facebook, Instagram, TikTok and X, formerly ..."
-    publishedDateTime: 2023-08-22T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/upwork-unveils-top-10-generative-ai-related-searches-and-hires-in-first-half-of-2023-1032572542"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
 
 secured: "c3sa1JBvn4fZsgIB+0+TduVnlWlrq58B+anF+Ie7r+PpLzuPvH39dNf1q1ygm3db0i95/IneXOA5r2ucBQ1WlYVKUI3UUMhbiCIFFB/urvQMFbmv5wbPf5GCBsm10EvoGal32jto2K4XLAulRYFonGBPg+ewbVobfwS8x62zec9KiPtd/HGoV+k0pp4NCTXgNZNACZtXs6L5a+8XtfT5ccHnV6w88n64JTxohUynrT4yHlrUvknRZGHEsuMUOAtbI6VqQLf52W/wHVME3KfrMkjK+PVm0PxT/t/0CLKIqp8eUwBk6VDJG84iNCzudBUNLKLYMKTUgAsMsIofbAMcQknIMLGcs42tcvuPFxyC0nBrj8Lx1eGWPnhyZe/N4VgzxiyHho54e/8eyc8F/eNIaxQZaUgj5FE/yjQT6ZJZrFCuKRNOwFo8ztvTjaIAJeE5we/0rJ2VIIE4LsRlz/dLXfNS7npnSjdtiI2D+eP13NRInZ2QVFHewvU6u3D/bJuVWiL+Op//Bcv27TqTFbcSUg==;mqPzBFVyf4N9j2tEpnyNpg=="
 ---

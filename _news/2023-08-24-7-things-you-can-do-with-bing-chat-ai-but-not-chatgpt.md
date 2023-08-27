@@ -43,20 +43,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "The logic behind AI chatbots like ChatGPT is surprisingly basic"
-    excerpt: "Imagine chatbots like algorithms with little knobs, which are tweaked as these programs incorporate more data from the wider world."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/how-do-chatbots-work/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 37
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/16/2311_PopSci_AI_Language_Final.jpg?auto=webp"
-        width: 1500
-        height: 841
-        isCached: true
   - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
     excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
     publishedDateTime: 2023-08-25T11:31:00Z

@@ -157,20 +157,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "Regulation-focused fintech RTOP floats in London this week...Regulation-focused fintech RTOP floats in London this week via..."
-    excerpt: "Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published ... with Italy-based regulation fintech RegTech Open Project PLC set for a direct listing. Also known as an introduction, a direct ..."
-    publishedDateTime: 2023-08-22T11:56:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1024231/regulation-focused-fintech-rtop-floats-in-london-this-week-via-direct-listing-1024231.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 0
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTIyLTEyLTU1LTIxLWQ4YzkwOWUxZWJjOTg0MjVmMTgzM2MyNDliYzAwMzhiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
     excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
     publishedDateTime: 2023-08-24T18:54:00Z

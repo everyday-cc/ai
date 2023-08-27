@@ -47,7 +47,7 @@ related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T06:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66601716"
+    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/business-66601716.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp"
     type: article
@@ -209,6 +209,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c446e34e469bb311d1bcedff852daa784b411b37/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=6b96b0090ed13f2560176b0767798731"
         width: 620
         height: 372
+        isCached: true
+  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
+    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
+    publishedDateTime: 2023-08-23T22:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
+        width: 992
+        height: 558
         isCached: true
   - title: "How the AI revolution made Nvidia the world’s most valuable chip maker"
     excerpt: "While Google, Amazon, Meta, IBM, and others have also produced AI chips, Nvidia today accounts for more than 70% of AI chip sales."
@@ -452,24 +466,6 @@ related:
         width: 842
         height: 438
         isCached: true
-  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-    excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
-    publishedDateTime: 2023-08-24T02:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 37
-  - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
-    excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
-    publishedDateTime: 2023-08-22T12:42:00Z
-    webUrl: "https://www.barrons.com/articles/arm-nvidia-ipo-stock-price-ai-chips-cf4614e4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
   - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
     excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."
     publishedDateTime: 2023-08-24T13:26:00Z

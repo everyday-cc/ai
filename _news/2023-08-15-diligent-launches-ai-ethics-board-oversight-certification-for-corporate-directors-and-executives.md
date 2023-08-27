@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Diligent Launches AI Ethics & Board Oversight Certification for Corporate Directors and Executives"
-excerpt: "Diligent, a leading GRC SaaS company, today announced its AI Ethics & Board Oversight Certification for corporate directors and executives. The program will help leaders navigate the context and ..."
-publishedDateTime: 2023-08-15T13:18:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives/article_031b9e9c-c8ae-5d42-81b5-518e73201fe2.html"
+excerpt: "The program features top experts across AI, ethics, compliance, and regulatory and legal industries, including renowned speakers: Meghan S Anzelc, Chief Data & Analytics Officer at Three Arc Advisory"
+publishedDateTime: 2023-08-15T13:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33857762/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/b33857762/diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives"
+ampWebUrl: "https://www.benzinga.com/amp/content/33857762"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33857762"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-    width: 437
-    height: 563
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "oBoQT8JWx0KB8qi2wm0ynLMNqP3mDm19OvosrZiRS+7RmfD6asHWbeViDBDJt/Hhtq3OX2RTO/8N+WevsIwatZxQdX9h3lCO8ACLB2BTl04pWm2L5Y3uPqa1OQcrhuVVq4gzqehs32WMrpIl5DI0gok6o1FEAQa6/PUkEnjvhuIoejVUydbk0j48QtGMtH5NJhfW8sjZKEwd1HZ2Gbo9KxiSKhIQXG8z1HO+wfQYlNfmWMuOfg2Kh7ABSq61eRPbgQhGsQcF3ftZZo/BhxdZak6Jsvutc/G49Ewy0sk9QKQK2iDgVMRD5ai+eeNYKw0FMSxSzb84GJ5r3yqFeS9qnyWp0CBnS5ly2U0Psba/PWU=;XBp1n3ut3hLtTzG1kI1d3g=="
+secured: "f/ITbNF/jSn4aCo/OEQhIdv/hn6vhUe449CDlM3htf/4RvcxAYAJ3J5U1ibpvG7K3YwMhPAmHjxVKZJVkryjuuDL4WXBIloZ3/O1P3dX2+s+oRCF2HXEcTEvry2/G64RQ2EB+dd40cXwrKDczuFPbv/bTW76GdEABOLdu7uqeSVCIn1IQqYE7w84/ME39KSc2WT233225TYvpdso8hA4/xhOE0lE1MdOHabJjaGgU7OroKiLxXnTBsvr1yC8AYo6VDCnQy5MW96mWTYkw5RuLFjJIWrLDcP1FjgTt7cPfwlIahqiwBxCeyGhStFSZaKXglVv/1H05weNHFz3DO3J1dlexHEZfM9z8TRYwMUbCSA=;QvgNK2WCPZRiBypdbZZT2A=="
 ---
 

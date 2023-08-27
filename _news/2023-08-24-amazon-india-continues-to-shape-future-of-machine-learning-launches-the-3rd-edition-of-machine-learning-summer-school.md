@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon India continues to shape future of Machine Learning, launches the 3rd edition of Machine Learning Summer School"
-    excerpt: "Amazon India launched the third edition of Machine Learning (ML) Summer School, an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon, making them industry-ready for a career in machine ..."
-    publishedDateTime: 2023-08-22T11:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/amazon-india-continues-to-shape-future-of-machine-learning-launches-the-3rd-edition-of-machine-learning-summer-school-nid-224893-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 15
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/rwodxzTU.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "Znqx2evuv1keyJWJb9xeV2R3sd6pz275zufUzMrfNeGMcBWWW7PQ0Wy1yuENtgatTQX1E8+LGkkGLLhyIO2yFn3ESV6squsZ8dU2EXhI0Ug+HE2jXW2fLEp7Voek5f4fqISYFMKWZxiv5HRrZHXyy2BVk4Nxn7dyie+GCWV6luRpjbzdBQvrogStjAFgIFAFzgEaC8Av+qN+mh2s9rqo9BR2i/2D7QgpVafNgVY52qxirhd55zS853wSuhXIvz+W9LRmnOPlLxhlf8z/yrT6zE+ju9Oybz0uyOizwqTfqNYX6HFJz0fa0IE5F68qIcYaryj5tR8ykVvEYTTCOMe/pglt4rPpOUlr5PtrFR/eJH2pPNBPuUmNaNggY6HnFhzHCl9MZ/PLsyQ37rqa+KGUqsPnlOMTVtoUselj+nQLBRfwnR85HQmC5SMn0/Q4wYFlwAVLxqGBjzXRiU0flX2Mi/gB6LS4gAQZSYGGMp3xcp+Or2HmO6LK5sOHlqLx+B+TV/Q4c9a3BihLheLPmJ47fg==;u4Mv0t+XwmCYbacslB0JYA=="
 ---

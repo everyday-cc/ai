@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "A Bumpy Ride for San Francisco’s Driverless Taxis"
-    excerpt: "Autonomous vehicles scored a victory this month when state regulators approved their expansion in the city, but then the mishaps kept coming."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/22/us/california-autonomous-vehicles.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
     publishedDateTime: 2023-08-23T16:11:00Z

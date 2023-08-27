@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/defence-engaging-artificia
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-engaging-artificial-intelligence-from-sci-fi-to-the-battlefield-3221924/lite/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Financial Express
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Most Disturbing AI Characters in Sci-Fi Movie History"
-    excerpt: "Artificial intelligence is everywhere ... the lengths to which we’ll go to catch these most horrific of criminals, and the ethics of using something as bait that may be self-aware in its own right. The latter becomes prevalent toward the end of the ..."
-    publishedDateTime: 2023-08-22T13:00:00Z
-    webUrl: "https://www.denofgeek.com/movies/the-most-disturbing-ai-movie-characters-ever/"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 19
 
 secured: "vtt7JK+87sW+07asaUMwVnqwfwM2BKm9k1Zkc9nfBelbrE68ZlVgCoZTr13vUlp8ca3iRgw+J1XjFrwk4ssdIxv3PSUpdIaY8lZIO2jZ4EINRhCYPr+JtMInAzYO2aA8UKPgUwZEBl6/+3IBGuKs7CYaN0GqU9UI9DdSpQ8Y+Bq8q3dJXnsqUquCI+QQTp8l9M3APv2849cJzIdkMVHKYJZQ6ti1zRBiEBvlrY4p9RUp0REgHny4dULvzxngq1ry2v10xTPCDHSW4OXLLqDWtPRHsco1FLVYT+P5PD2cC0bdfNK5aB5jzffPjB/svGck41ODL1xCSLhdy11fyolOXJ2NvzppLRW9YonOm7bRp5ZOhiqpsAdR0QcRH1XwMjhVSloXi5RUQH9z5q2iHV7sA9yGNmLAAY+2mHxnT5TnkiWLMkMdyylvOG4CtaJ0/r6Z2AjFfmy96GPvYMoqogNeQW+A/JsjMXtgOIOTOXtflS5/8QM5ZjsH1PoHaTTvWA/rZB9Y3ejJD5ldW76z5SZwEw==;IS9T2mt2NR2MS3c53qFsZQ=="
 ---

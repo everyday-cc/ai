@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-excerpt: "Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.51 billion, culminating in a profit of $6.2 billion, or $2.48 per share, more than nine times more than the company made a year ago. Both figures were well above the projections of analysts polled by FactSet Research."
-publishedDateTime: 2023-08-24T02:01:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
-webUrl: "https://www.houstonchronicle.com/business/article/nvidia-s-rising-star-gets-even-brighter-with-18327597.php"
+excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
+publishedDateTime: 2023-08-23T22:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
+webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI Hardware
   - AI
   - AI in Sales
+
+images:
+  - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Nvidia: The chip maker that became an AI superpower"
@@ -39,7 +45,7 @@ related:
   - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
     excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
     publishedDateTime: 2023-08-24T06:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66601716"
+    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/business-66601716.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp"
     type: article
@@ -460,15 +466,6 @@ related:
         width: 842
         height: 438
         isCached: true
-  - title: "Arm Has Ambitions to Be the Next Nvidia. Why the Battle for AI Is Key."
-    excerpt: "Arm Holdings is preparing for its IPO and the model for its success will be Nvidia - an AI chip favorite. But there are potential concerns about Arm's exposure to China and the smartphone market, warn analysts."
-    publishedDateTime: 2023-08-22T12:42:00Z
-    webUrl: "https://www.barrons.com/articles/arm-nvidia-ipo-stock-price-ai-chips-cf4614e4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
   - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
     excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."
     publishedDateTime: 2023-08-24T13:26:00Z
@@ -497,6 +494,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Zlj+4v7Rd6spcszjKribfaAvaNEuqxczi5tSljPKiAmvCW//wLSYlu3ahvbaOaXXsb/f3mVWlKZS8SKno0BNzQQb6y960lxzGIqHEs8H6O6ur+epoxYvddETALoGBqxD3adU4/WQRPjMhvjciOu46v+ayqgA0JHERlbGLPHaSKl3xW70kDiXrGXn69GC4hTucnpgmFUDIjc2sJ6LvU1AxhK0RpUAvxzk+fzfWrwOJEQzUUEWfFukWLbr7PrhOD7Ufjao5toVRcUKv+qph/sMs81TTLTez1UWkWFz+NP7eVacwha9RkWh6oBJYD3rK/HK+55GZXf2C9gvDq8Ti0P8BQW5DdUKXqsTPNNpPyzI5yK05zrKwsxmavdiOn8iqubwJZy7TOB1bzNislxoMt4Vw5NvXtcPaQKWQ92vqRBz5UPFRkfBAAShy1rLMl8j/s0x5h6YxPgLLXcMfUFv4VX4Vu8mBiueMzwqIAZPOyOU3SlvnpgS7EaFNPqnjbTvioABSw5K4iCrTZxqQ0EIj7mNbw==;++wFAkpAFBjvt89BBuuFDQ=="
+secured: "mfTH9TBbBa4inrWMZDf0LGxJiCRjyv+TeQr8t/Jmo0NNEr2HIqkpiGLVLFRX+RuQseCnYgYb0qmkGnIRJO1RlHzddcF+piKisHaIsj08Xh3U7hq0+Dmek9GmCl1xJA0DFbgCJV/9+McyE6PrttHm50iVf9Z6ZIKW8jquBJQQjuAokJrlAfHbEduHCnI5GuR+rpKlFz2o06Y4NURwQB59J84OJlbwdQ9KaNWwjsagbnnxSN46iRwEvEZ3EwZY9G4aLxcSv+epJiGnJpjT81GzNpCYWsCJH3pG73El/lUhYhb758g9TRUzU83VIK33CgfpxegIzQ9xbP6JRuccJMOPtO5Y+OK17V01cgMWYpq1hgQ=;1wTtbYSWRFVHp8/0FkcQ+w=="
 ---
 

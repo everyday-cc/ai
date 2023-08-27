@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-cod
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM trains its LLM to read, rewrite COBOL apps"
-    excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
-    publishedDateTime: 2023-08-22T12:23:00Z
-    webUrl: "https://www.ciodive.com/news/IBM-COBOL-AI-watsonx/691395/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 19
 
 secured: "B1EJhoV/aW+iZ4SybjE1U6FtBg+laJXwe0Dw7PyuMRPAPmBgO/NWyaB8zU1z/0K2fK2JuUE+FgeOlIDEMFE8ndAcJi15oKHsB1YUC/mcwA21P8c8JPhBVYIbSIlnlA820fcteI5frz+0fxGdOyJqs18/zgMBk5okaR66R9VobmaiY8MB22AYJdTrE2Ojgl+Vk6h6L2YtCs1Qjkgpv7nQOGZ6SVF4jrEP1dQLhKQwvTo/hyw6BN7q4Gf87clkuSqDude0n03W2QH0rpxxPMJjUbiz2nqbimIb+uv3PA1Pccz+KTUc+4mdzE5SV7/4a9hfV/cXIuj8xxG6cNMBgvigWdjkf4ykGYV091aKNvW7lgYfqFBCJMovYA5g/E4py1UR2DDxoym2TxV/BZQYWktcDrPlVWUwBjWwAz2oH/CcAEDnYH5MzFuB9O4NEIPzVhR66Kgj8CCcjAgIO/kxCJaeyiUlbK0QqLsUf3/VN1+3KkncJJTqRQRQON8QSCMqVDHHqbQpyujLQjjqqhigkXvvZw==;F0tgeMIDWYVzApCqlZ+OXA=="
 ---

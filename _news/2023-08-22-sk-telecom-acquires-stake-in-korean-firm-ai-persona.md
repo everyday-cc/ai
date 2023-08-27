@@ -24,17 +24,6 @@ images:
     height: 353
     isCached: true
 
-related:
-  - title: "SK Telecom continues AI push with Persona investment"
-    excerpt: "Persona AI is a Korean AI contact centre (AICC) specialist that has developed its own natural language processing engine, which it offers via subscription to businesses that want to provide automated customer service. It offers AICC solutions both in Korea ..."
-    publishedDateTime: 2023-08-22T11:42:00Z
-    webUrl: "https://telecoms.com/523244/sk-telecom-continues-ai-push-with-persona-investment/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
-
 secured: "dNsxAjY8yBdTcBGyH9TluCJDAl/EqAtDrGgWyxeiJdMf+OTyhKRyBfMggXXA7DBnA5DfSs/slAEP0kiXIGpbKxpSyTUvVWMil05Aor6vLzZoXIB8YeR3Anvia7tJp9bBgIeRkdaIx06QxZFG2qiYOk++lEmB1lTqwpWr+bzfLGy9e/SG6iXPKYXkpp415Utd/D0jPQ3afeAlnmksk1pcYBMHFNKixnl447SaHCDrJkfOLTL/cjyxCFY/ZByYDeAFjLID0FWln6rNaX7Sg7KWzeSr2Ef4o74zS7ZinO7eztxQMz6keKsQXZ/XTCdEBZxcQDehd/iCYJaBzjgwffZcq5vtUHbfed/i4e1d2u7zE/8=;YbiWvcgW8tdZiZyEyL6nDw=="
 ---
 

@@ -71,16 +71,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM trains its LLM to read, rewrite COBOL apps"
-    excerpt: "The new watsonx Code Assistant for Z eases mainframe modernization, using generative AI to analyze, refactor, transform and validate legacy applications."
-    publishedDateTime: 2023-08-22T12:23:00Z
-    webUrl: "https://www.ciodive.com/news/IBM-COBOL-AI-watsonx/691395/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 19
 
-secured: "dRThUMB7nnndv8605yKM0e5iLbuQcvEU+7euf4bk7Xwj1ofacX7hlwO04Oy1Dv/c89tVrPwwaJt4B0wI2PvSyVWh9Cdglw9k7+jF4v0fet6QLTJEGWzc7eG3XmvMju2kPRCvoCyO72DF5hqYWeJYNEMRSgrz/tHZ/o5VDlf3DaP/WviPIj08sjgi1pphkQbzP7+aE+aQJkf0FFGFZuWYQ5M/k031vV5nOm/zehCk7e5pzqtdqWAkk25CkAaFMtHVqjDdPZIHEqUaelaLaUlcs5Ghw9+EU7TfpOcFNUIc9JvbyAXKEjqDN1ahuo2QJh5YEGzVG5oMX5+llP9LzZty5YwNOZxOPgN9BKAGvVlP2rM=;0ywJt815AjWa3mwwCaDU0Q=="
+secured: "Xk456VSUugrHkMrRLIxB98z47+Ddu51r3jdAosVRlH2VDxiMoOvsPqxuFTOek0zuhOTHVBSfU9ZMlKoLRa1KhtVqOZcITlmr25XEcXQbTKZhNONgKTl16QbEtpEM5fIaYZQeQ9b1qaW15yWynWczHXOtUMP9ZMWv7b1HhZZJKzqR9od1v7QBQ7qxsEhj5QJA1QUXqLLiwkgfBiXNYTLYC/Xh7EZLAuhj9x32v/uL78EiPFxzdVFMk1Pd7y3HZri2/BEJ3EqdcLEp5WjoW6yvxSnWqQ4qpOTCWelQrck/YV6MzbWfjqH71PiqXyo4LMHzt3PQwaNxWAjAITaR6gi1jz5xenGclgviBK/21eMch+c=;7fGHFE9mCl6WO12pe9hrfg=="
 ---
 

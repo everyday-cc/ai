@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-f
 webUrl: "https://www.news-medical.net/news/20230822/Study-shows-potential-for-generative-AI-to-increase-access-and-efficiency-in-healthcare.aspx"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "'India emerging as world leader in teaching and framing of robotics in healthcare'"
-    excerpt: "Today, technological advancement has enabled a policy of creating a new digital ecosystem that not only enhances accessibility and efficiency of healthcare delivery, but also made it more cost effective and paves the way for universal health coverage in India that is inclusive,"
-    publishedDateTime: 2023-08-22T12:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/health/2566931-india-emerging-as-world-leader-in-teaching-and-framing-of-robotics-in-healthcare"
+  - title: "Benefits, concerns over AI in mental healthcare"
+    excerpt: "Clinicians, therapists and researchers are increasingly embracing the potential in artificial intelligence, also known as AI ... patients are more likely to respond to cognitive behavioural therapy, also known as CBT, and therefore be less likely to ..."
+    publishedDateTime: 2023-08-27T03:12:00Z
+    webUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/"
+    ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 45
-  - title: "BioSig AI Sciences Achieves Infrastructure and Technology progress in Development of Generative AI Platform for Hospitals"
-    excerpt: "About BAIS BAIS, a majority-owned subsidiary of BioSig, is developing AI solutions for the hospital marketplace utilizing structured, semi-structured, and unstructured data."
-    publishedDateTime: 2023-08-24T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/biosig-ai-sciences-achieves-infrastructure-and-technology-progress-in-development-of-generative-ai-platform-for-hospitals-1032580440"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
-  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
-    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
-    publishedDateTime: 2023-08-25T14:15:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 18
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 74
     images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/27001333/AI-MENTAL-CARE.jpg"
+        width: 700
+        height: 400
         isCached: true
+  - title: "Overcoming Fear To Realize The Benefits Of Artificial Intelligence"
+    excerpt: "AI's progress should be followed closely and perhaps subject to ethical regulations over time, but seeking to delay its advancement strikes me as counterproductive."
+    publishedDateTime: 2023-08-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/overcoming-fear-to-realize-the-benefits-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Could Save Healthcare"
+    excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
+    publishedDateTime: 2023-08-23T17:27:00Z
+    webUrl: "https://www.aei.org/multimedia/how-ai-could-save-healthcare/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 34
 
 secured: "6cidR2czaShODytx7GbjfaEtIITQ7NLpQURFU7NNaOnwl7Q8fP2YQyvDgEkKVBMfFXnuWQrWF08/CC+Af9ZNlcOPo56jqXdwfs3erHr7sRgxi7PdqldsLRZRT0TMR9OZINARyEdi/d7YQvQS2o5/PNEUDIbEYrPRybX3Z/gbvJo3EP0BsulpQMGEzHlXv+kfeXLRhGvQJjm0pUJtZ9pK310bdYqzTMpcO4ILea6BJqFi9tTUBcjfyae0WOaZca/qfy7eZHyKYBpcRZBKHlyQxAf5Zy1/vxGVYn68O/NAq+mxLk6+61hlqDihhC0p4utdxOGE1vIZT2yIS3lEvS5fVH+ko+bz2cstKtwy9UgvtQI=;eg7RoGzUbVawZYJXYNmCFA=="
 ---
