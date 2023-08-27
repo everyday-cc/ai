@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overcoming Fear To Realize The Benefits Of Artificial Intelligence"
-    excerpt: "AI's progress should be followed closely and perhaps subject to ethical regulations over time, but seeking to delay its advancement strikes me as counterproductive."
-    publishedDateTime: 2023-08-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/overcoming-fear-to-realize-the-benefits-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Study shows potential for generative AI to increase access and efficiency in healthcare"
     excerpt: "The large-language model (LLM) artificial intelligence chatbot performed equally well in ... are occurring at a fast pace and transforming many industries, including health care. But the capacity of LLMs to assist in the full scope of clinical care has ..."
     publishedDateTime: 2023-08-22T23:30:00Z

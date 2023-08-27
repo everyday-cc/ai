@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/"
 type: article
 quality: 113
-heat: 263
+heat: 233
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Epic, Microsoft add new AI capabilities to EHR software"
-    excerpt: "Microsoft & Epic expand AI collaboration to accelerate generative AI's impact in healthcare, addressing the industry's most pressing needs."
-    publishedDateTime: 2023-08-22T14:23:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-microsoft-add-new-ai-capabilities-to-ehr-software.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft could bring AI to the Windows 11 Paint app"
     excerpt: "New reports indicate that Microsoft could be planning to add AI to the Windows 11 Paint application in the future."
     publishedDateTime: 2023-08-23T01:03:00Z
@@ -200,24 +186,6 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 34
-  - title: "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture"
-    excerpt: "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data"
-    publishedDateTime: 2023-08-22T13:16:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article278479764.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 29
-  - title: "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs"
-    excerpt: "Today, the promise of technology to help us solve some of the biggest challenges we face has never been more tangible, and nowhere is generative AI more needed, and possibly more impactful, than in healthcare."
-    publishedDateTime: 2023-08-22T13:30:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
 
 secured: "cby5Y0P51+n5GEmB8uWashAvoPponiMdfSrNBefPux+hGjWhso7c1Ppzs079hGTtsS9QUPz7/vGaK//tLaSp9fAXg17wDJOyNT0sUvda70CSYCdSDMAsHB7hZ/exQ/8nVsTOJFRR76xRtpMGipSRb5BmDBqzxXCOiWeKxbMqJ/B53YcM+blRoJtbzKEEmgCXMFl5Tae+FYdM/oNU8pcvc758WL1HpqbRKvtboSLzTz2oWi7geNw1JzlCXOE6psKmmUsSddNBcE08FYAruKJBu/htOn6esdBW3cs81oHyzUy0C1j3RJF+IszraFpZIyvM6ST0TSJn3URnd0NcEQO+pln4sLvAwrM7JQ4GloosyEkXfdx+DWSSYl/cNKLABRdjeFgtdlj0+A2ocoGOwAeT4mKV7cqYmponKlGx4bvor7cnxQHJNE4+eGQtS4O/EVHdVkklaAnHSQhwdLT9a5DZZMGVVxibkdjy3IGfpeNv4fiAejeEbqSNmo54gtNwhpQB2/FLjZQULOtbGCipLaRkIA==;0l5cKBj47tFJ0kYkQK03Og=="
 ---

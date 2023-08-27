@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bosses and workers are worried about new technology like AI, but for different reasons"
-    excerpt: "Execs are planning to invest in generative AI, but employees are nervous these new tools will put them out of work."
-    publishedDateTime: 2023-08-22T13:43:00Z
-    webUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/64e410bdbd98a600197b78e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Chips as currency: America, China, and the AI race"
     excerpt: "Running in the background to the more visible, very real wars occurring around the world at present, there is another,"
     publishedDateTime: 2023-08-25T07:35:00Z

@@ -32,8 +32,8 @@ images:
 related:
   - title: "Sunak to hold AI summit at Bletchley Park, home of Enigma codebreakers"
     excerpt: "Global summit on AI safety planned for autumn, as UK tries to cement image as being home of ‘transformative technologies’"
-    publishedDateTime: 2023-08-24T12:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?leakd"
+    publishedDateTime: 2023-08-24T11:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
     type: article

@@ -57,20 +57,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
-    publishedDateTime: 2023-08-22T13:10:00Z
-    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "LzqiXZ7Iz3QJn0N8WR97NpbZxA7Y9tPYCZ5OPwG2E68nUiqQLHJcVCESIiz3FMZWVJsiOlaWRnjTNC2TbURW9u3qIcU2KCIomOX97vyL26eKUz9Z2GeBgtB76oJ15Q8zwPvdC6fOzAuxNTZJeFSA45LnJTdXsB5PwsmazjbKWuqZxNPMh1LJIV++b/e52TUhIUXiN9RBK8cjvQ94FqkYTAjGadmzCzbeSlTg1ZpNF5MMXxRPMh+E+zpmBpKpjNwjoaTAtSpyVFQ8mtLo1ZxWVi/neDF/u6WcyddwLbKqKT0OFq1vQZBds9AS+jo+3cOqGcSGGA91UXShS8AKfs2t0aNMjTTS3CzGlkou9IS84QVGdQpL49gpK9XIr3ooS9lTo2LD9sYbeVe6OhUlPALLUXIM/Pv/ZXMvrMXa2nk2He5EvgPiOydZvGg85KjvkJb+e/Eo1QBYPVcTvcRpj11NC7hrUfkEcVEoJUR9BA/MMQkb4qY0+U9YHcsVYKWG7hMtDsF0WqXM7IcUah+4uI1+ug==;7TKgXLXBmGopJ/LrlgVnpQ=="
 ---

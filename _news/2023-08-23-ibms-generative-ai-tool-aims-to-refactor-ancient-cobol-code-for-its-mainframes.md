@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 888
         isCached: true
-  - title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-    excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
-    publishedDateTime: 2023-08-22T13:10:00Z
-    webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "IBM is making an AI assistant to modernise old COBAL code"
     excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
     publishedDateTime: 2023-08-23T07:41:00Z

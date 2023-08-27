@@ -2,12 +2,14 @@
 category: news
 title: "The professor’s great fear about AI? That it becomes the boss from hell"
 excerpt: "Some concerns about artificial intelligence are very speculative, but there are genuine risks, says the man aiming to demystify the technology in the Royal Institution Christmas lectures"
-publishedDateTime: 2023-08-25T11:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures?ref=biztoc.com"
+publishedDateTime: 2023-08-25T11:23:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures?ref=mc.news"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/25/ai-artificial-intelligence-michael-wooldridge-christmas-royal-institution-lectures"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://i.guim.co.uk/img/media/cdcf65b0f8285dfa474a01ca376d9c06bba2ce15/0_517_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=387ecbc380bea26b3940869bd122b128"
+    width: 620
+    height: 372
+    isCached: true
+
 related:
   - title: "The professor’s great fear about AI? That it becomes the boss from hell"
     excerpt: "Some concerns about artificial intelligence are very speculative, but there are genuine risks, says the man aiming to demystify the technology in the Royal Institution Christmas lectures"
@@ -32,6 +40,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "MLnMV8GmlTvM08KHu3TOPs6bkNhL/NnFYgxQrjowFftrsFxCeWIlPlH1ifPFgDm/dKolmxrtnMZslfcrBG7LHBUMtorfHsrA6R9lJofpMh1xtnG1LQ+O8UI6DKJsI14Khv0U6xMmKZjXtvk/tDj1zFoW/v8Rl6otmPLEb0TEc8O5JJ63LARX9Kfox8wG+F6nRYKBoPALuE2Z/t+SdxwdyzDZam1/XpPy7b/qes8j4Kzp19oyr4RA0qbu7YzmmzH1kBgRSjS7SMGcKidlssTeH/MM2HrN6ufOhmqsdqMa3AJ1IUD3EUyAygO3Du1Stkzk6OMmyP4W7Jw6jEx5G1N3sknrkWt2uyNpXdY3qJ+Qyoy3az2ceBjRgz1oet+SjWELaOsSK4l7eMouh02mlziEYMlLo4ar4C2toKcF5DekTKQDUjTJkEh5F956VYvUY0SVVdBc3Wi5S9N5/MnSN/3ognDg1oNfRm0YZ88aWil89unqhGvfh3sXyqUZ9wVXlv+hI8yhaBJa9r93iOX4rHT37g==;U5hsccDRgk34gIIl68BK3w=="
+secured: "lEAWelSpBWZ9mqf4q67NFJTabUbDJ9NsXCrSu+AAc4p9fz5+Y2DCLLfNE7oRBQp2Rldf7a6XSQEpAqJqEUXoexe8dDVNshRo5uVkYi7dfaiF2m6zl9+MVb5AOeZzUJSmNvWso71PdCOHPYMpyH0WrDBIU5GGT3k1y4Q7jQloHunFvRgQQ9JbGo/aq1Zj2y+aiWhulzkXjS717P5eI7QmyZAmLpW+5tt5WAKDxKflagJwGkxrJdgaT3yYcSWlZSfxkytH+rTfziRc06Rh+s8Nd9PA8ppSblzZVRYxM6W4FqZsxf1LtWHow+uBgt5y/ce1nDHHEhzROSg+AkMZNCOxmEQ+Wwb0/tg77FEOD4yXUcY=;XP2rWKDU9XYiiD3E/RY9lQ=="
 ---
 

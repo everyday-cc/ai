@@ -35,20 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "China's Baidu beats quarterly revenue estimates, cheers generative AI progress"
-    excerpt: "China's Baidu Inc beat second-quarter revenue estimates on Tuesday, helped by a post-pandemic recovery in advertising spending, and said it would further intensify its efforts on generative artificial intelligence (AI)."
-    publishedDateTime: 2023-08-22T14:03:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue-above-estimates-2023-08-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/Zxubc8zyLJMsxVKCRVNTDxfQQaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ORQBWYOUNMWBIRCUZWYXDVAOE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "EiLAsSXIGOTPgCm4zMoT1r1vfIV/wQhV1grdDywVz7CB80UbqkzaEwCREcRrDsN04IsilR+bdOi8VWoij5u5AygJe6r2v02q8ubPFf7ntDKfZlMAz+ZlRQftvZP18K+nkZauTZGxanjiRE3k1AiBfy+ZL5BmNjIDYgCLaArIIXW+BaAYyKwjEutUNVfP3UXggLfMFnBFRCLiwyblTlW5xvrB8JLJcZvZvb4CDBnF5kvfpzw6CExZE43mES22QIWhqbbW8ZC1YJv79GuIOtoRBy6zjt1ahr8qdwlZbrFFAjk05sEoIxxigkWj4ng9o9OHWc7h7BWvZ4aHdtcz2/DfTUNNIWueiXomvVWXZLz3U460Dn0PhNDeTxRdfA0lAfi1n1NNjTbK7J7bBcH9/vf8SCJSPx06JWYqpfnxX5Hn6Qbj1BG4WwXt/XqGOYWSfofi1Jqg7ZQD1RwvNEtdI2nUFo4nwoVB2a7GsiybSlSFvW6Vcy2MplVfPiAPcGfj/+nNcdNhgyK7DU7v97mqMJLZ6g==;ZjMTUaODjTGX1yKRF4uQ6A=="
 ---

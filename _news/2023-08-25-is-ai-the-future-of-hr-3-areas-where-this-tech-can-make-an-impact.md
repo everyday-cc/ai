@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 49
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How contractors can make sure they say what they mean when using artificial intelligence to write proposals"
     excerpt: "It takes a lot of thought to buy artificial intelligence. Contractors trying to sell the stuff, need to put some careful thinking into their proposals and not rush through them."
     publishedDateTime: 2023-08-24T15:31:00Z

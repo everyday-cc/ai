@@ -49,6 +49,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Here's a better problem - generative AI detecting humans"
+    excerpt: "AI-generated content is starting to pollute the Internet, businesses and schools at an unprecedented scale. In some cases, it may be easier to detect human text than flagging generative AI content. At the very least, they could complement one another."
+    publishedDateTime: 2023-08-24T09:42:00Z
+    webUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans"
+    ampWebUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/hacker-2883630_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Five Use Cases For Generative AI: Creativity, Coding And Beyond"
     excerpt: "This simple design has led to generative AI, one of the most transformational technological advances since electricity. I’ll delve into five use cases of generative AI I find most intriguing and impactful: generative writing,"
     publishedDateTime: 2023-08-23T12:14:00Z

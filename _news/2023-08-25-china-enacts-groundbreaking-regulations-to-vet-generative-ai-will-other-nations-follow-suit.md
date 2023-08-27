@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regu
 webUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regulations-2366808/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Generative Artificial Intelligence in Finance: Risk Considerations"
-    excerpt: "In recent years, technological advances and competitive pressures have fueled rapid adoption of artificial intelligence (AI) in the financial sector, and this adoption is set to accelerate with the recent emergence of generative AI (GenAI)."
-    publishedDateTime: 2023-08-22T13:40:00Z
-    webUrl: "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/08/18/Generative-Artificial-Intelligence-in-Finance-Risk-Considerations-537570"
-    type: article
-    provider:
-      name: International Monetary Fund
-      domain: imf.org
-    quality: 34
 
 secured: "4HTdDddj1Qsqwu73QVmJKUy3lg3lmDCJNIpXEFaFm0BRjtgG4aoXq8OLy6aZevUfL9nL2Y5pFeFWRFsxR70nN46Wo+TTw21uiXc69o4BwtWvFbCambEInMjSgu+LwzD7o97Zea1KbYzL4mRJPyoErp2pb6Rv/dURHvli+7d67MOjS+V3yxO31wruBj3DKIyZsv4q0chk3k01tqEpLxs8EuWlBaWMGu9j7VXuxXT/q0lcduzjy8546xiYPpD9ZNyQtbwflSjU3WLQr5jEASSkeJ5exZu5wJpa2wBxy3MKrrSxiPTYmXVnK4iYxkgMCWla0hAtRUBxYorNbQcgb6fMWxys28WDA+t++Vk2ApV03nI=;QBCRqDq/gXEZaUV/adPdhA=="
 ---

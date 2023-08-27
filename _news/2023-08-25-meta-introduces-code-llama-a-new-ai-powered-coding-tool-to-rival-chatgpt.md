@@ -35,15 +35,20 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT boosts crypto botnet with AI-generated tweets"
-    excerpt: "ChatGPT may well revolutionize web search, streamline office chores, and remake education, but the smooth-talking chatbot has also found work as a social media crypto huckster. Researchers at Indiana University Bloomington discovered a botnet powered by ChatGPT operating on X—the social network formerly known as Twitter—in May of this year."
-    publishedDateTime: 2023-08-22T13:21:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/chatgpt-boosts-crypto-botnet-with-ai-generated-tweets/"
+  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
+    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
+    publishedDateTime: 2023-08-26T18:54:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "7 things you can do with Bing Chat AI but not ChatGPT"
     excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
     publishedDateTime: 2023-08-24T12:52:00Z

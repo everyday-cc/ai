@@ -71,6 +71,20 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 33
+  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
+    excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
+    publishedDateTime: 2023-08-27T07:13:00Z
+    webUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
+        width: 376
+        height: 250
+        isCached: true
   - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
     excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
     publishedDateTime: 2023-08-23T00:00:00Z

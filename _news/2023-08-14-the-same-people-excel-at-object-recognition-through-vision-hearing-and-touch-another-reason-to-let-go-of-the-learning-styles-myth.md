@@ -2,19 +2,19 @@
 category: news
 title: "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth"
 excerpt: "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ..."
-publishedDateTime: 2023-08-14T13:06:00Z
-originalUrl: "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
-webUrl: "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
+publishedDateTime: 2023-08-14T13:08:00Z
+originalUrl: "https://www.timesunion.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
+webUrl: "https://www.timesunion.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
 type: article
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "PNSOMHtfDd4OAWDEasmkPp+UHAbbgMl/+6hdginKAVmoP6mwDcZjDtNlDdajtB3snJwxV7TFA6O8XW1TpLGeSfDXCTxStduZf7zYKtJFupl1c6cWQ7RleHKamsw37aiav37JyuSuhULgd4n3mbJR8I8oZmbac+eHXwCAuezZW+RlLlfmPS8P0eXNfWVdBJ6o86a6CufgJ26/Os5PmosJrGn6wTm5CEE01Py44WQiphKACHSAoj7kHPWP8V6qUEF4nK6J5006WvbjGBb18+46MnOx0RABAaY4OH8gsLyMSmul3YHgMFBjYuaPrqu8WpU3qFDfKWo9CJ4wXWJvUiD8DIIXUAc9j2BQsVGyjFPvPdk=;cnFLnHqhr/3bRMzc4XI0SQ=="
+secured: "F2CyynQxhw/0tthN+3wd92kGrgAOK6Cb8YD+nrj183/l4hyLATXeHjhnGw2kAx/09Eo3/izrkaQn8YoJ9/wxrCm74cEnRRxy1nSyR0M/5tZ0d3mXZQ0nFLaQqPef8SMmTHkme9msO9BwCMPMyStFlOUD4zIGuape1PduGEFSsjXsxp35R0NO9rHl+1Mb6TPe1hxgXrmvvpQTIYWkk06XmI9W1j201MX07pyJwNR7zFp5PejVCLlUi5Ie1+zADW4EH0fWIfO838H8qPrBZiIMRnCjlYKdgqMLA1WIhKzAKpCY3mO4kze7OFpkFkAip2VGIT3Bc6FV08sbVZqONKkEB85qRCXs1kBS5MnSR1KtGzU=;abH/T2SWQOBRciWFPUIOsg=="
 ---
 

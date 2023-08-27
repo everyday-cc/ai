@@ -66,15 +66,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "This is how generative AI will free up your time at work"
-    excerpt: "Generative AI is impacting the way people work across industries. Here's a look at how you can be a part of the revolution."
-    publishedDateTime: 2023-08-22T13:42:00Z
-    webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "How will artificial intelligence impact the workplace?"
     excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
     publishedDateTime: 2023-08-24T02:42:00Z

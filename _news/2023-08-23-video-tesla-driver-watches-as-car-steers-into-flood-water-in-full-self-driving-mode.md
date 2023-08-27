@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Passenger books an Uber, gets a self-driving car instead"
-    excerpt: "In a video taken from the backseat of the car and shared on Reddit, the driver's seat could be seen empty with the steering wheel moving on its own."
-    publishedDateTime: 2023-08-22T14:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/uber-passenger-us-self-driving-cars-instead-11237751.html/amp"
+  - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
+    excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
+    publishedDateTime: 2023-08-26T17:48:00Z
+    webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Collage-Maker-22-Aug-2023-07-51-PM-2137.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 34
 
 secured: "MU48rSNgApRjiYlihlo9IhmPMOuHSX9jq+6TjjYhBRvZNUAp//eec0QX9EAmW2EYft3b9V75AF2ggWC2HVtNX4vbUmIhHUpBF5H8EhwB1QsZMc0q0AjzsdvIBxL1JDMnxJHEv8w6n5pqbbMqUdcXduKhIztUEpnJukIqkjEZOVw1A1ltAT+M8J3WIrJIZE2BiDpstduaanya5QSsbh1vFakZRhyr4vZIibJ4bPfXBYQ7V9zNRPLv5pkWToI0X4+LkjTlwxPJdt7ZsJDA2PfhS70cp+6EyhF9RVwvkJz9nhjFv6iaF+fhyZF7f2+r2JAFjl6O7P29d7ycHs+PZrTrPSX15X0bkuGDGa3bPbnA5pHznSUOPq5FuEYfqV+8VPp4TUAIQXo12TkkcAGOSUaxYzUCFVoHD32xSNnQ44/uMUGLTmYfI0Yr9fu0py/w37pN3I2F5SjUeAGFc5WmUoF+cYuTPs7SaNbJv/qWtGmPK1FP1yEA7AP3V+HmwT3t00GqGOuoo7GGTChnN666VxuV2g==;N9KkA4uZMQvpTYZ86BjPcw=="
 ---

@@ -26,36 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "Interactive AI App Sizzle Guides Student Learning"
-    excerpt: "Sizzle is a free smartphone app that uses artificial intelligence to help learners work through any problem. It shows a compelling vision for how AI can support learning."
-    publishedDateTime: 2023-08-22T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/"
+  - title: "Generative AI: Predicting The Tax Department’s Next Best Move"
+    excerpt: "C-suite leaders clearly recognize the power of data. However, the age-old view that tax only serves one purpose—compliance—lingers."
+    publishedDateTime: 2023-08-23T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4b7aa78f7f2f2574af6bb/0x0.jpg?format=jpg&crop=1110,624,x447,y0,safe&width=1200"
-        width: 1110
-        height: 624
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Exploring AI and machine learning in modern bookkeeping"
-    excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."
-    publishedDateTime: 2023-08-25T14:53:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
+  - title: "Generative AI: the Rising Kid on the Start-up Block"
+    excerpt: "The AI ecosystem in the country is a flourishing one, with reports stating that more than 4226 startups exist in the space in the country alone. Nasscom, in its recent report revealed that over 60 active start-ups existed in the generative AI section in ..."
+    publishedDateTime: 2023-08-23T07:39:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/generative-ai-the-rising-kid-on-the-start-up-block/457891"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 54
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/13a22f7/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F39%2Fec%2F39ca587340b0bbc003c71583cdd2%2Fartificial-intelligence-ten.jpg"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692775850-Hithere2.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "Five Use Cases For Generative AI: Creativity, Coding And Beyond"
+    excerpt: "This simple design has led to generative AI, one of the most transformational technological advances since electricity. I’ll delve into five use cases of generative AI I find most intriguing and impactful: generative writing,"
+    publishedDateTime: 2023-08-23T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/23/five-use-cases-for-generative-ai-creativity-coding-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generation AI: Thanks for the music"
+    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-08-23T19:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "How human advisors can bring out the best in generative AI"
+    excerpt: "AdvisorFinder is introducing a new AI-powered content creator for wealth managers. But the fintech's founder says advisor expertise will be needed to tap into its true potential."
+    publishedDateTime: 2023-08-22T18:51:00Z
+    webUrl: "https://www.financial-planning.com/news/how-human-advisors-can-bring-out-the-best-in-generative-ai"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
 
 secured: "T0o0byK/MW6b0sJRAQ0sJRJ2rYeKhRNHZc4/GaCxmo2T2wPOT5Ymi+2FcOxwRZp50BR3S8jmUyEyxwSPyUxc+uiXLuxFIrJSORV/eZ705C2bO+IIgyk/hZtc4uS6rX9BCjclgJmFA6r09vegYc16M3TGoILRDc+fXMVWLTATCJLkHwf9VNwMzyIiDz5IPfI2AAEP0+t/7JWeY7wVqK2zBuJ8DFPHgGuRhjmZDuacGwMolHHLBZED0yFYnlA/lCPBxJWbZGnFqE7AjMIUlEn7cdF1SIT59a+1ELq7PER6B31isgxh6vOlKYiJyq0K3HYIHdUQykvOr25n46r4zzcuJCzt0VuXqj3ccWD6hjs6Lco=;XHVorQENxuz0SdVs8hoAWw=="
 ---

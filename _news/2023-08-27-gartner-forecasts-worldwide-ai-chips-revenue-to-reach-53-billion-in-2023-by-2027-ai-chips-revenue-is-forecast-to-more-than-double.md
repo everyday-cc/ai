@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Gartner: Revenue from AI chips climbs to 49B euros"
-excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
-publishedDateTime: 2023-08-23T12:50:00Z
-originalUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
-webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
+excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
+publishedDateTime: 2023-08-27T07:13:00Z
+originalUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
+webUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: techzine
-  domain: techzine.eu
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
+    width: 376
+    height: 250
+    isCached: true
 
 related:
   - title: "Gartner claims revenue from AI chips to reach US$53b this year"
@@ -61,6 +67,15 @@ related:
         width: 496
         height: 315
         isCached: true
+  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
+    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
+    publishedDateTime: 2023-08-23T12:50:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
     excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
     publishedDateTime: 2023-08-23T06:05:00Z
@@ -70,20 +85,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 33
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
-    excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
-    publishedDateTime: 2023-08-27T07:13:00Z
-    webUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
-        width: 376
-        height: 250
-        isCached: true
   - title: "Alibaba Cloud named a challenger for second year in Gartner Magic Quadrant for Cloud AI Developer Services"
     excerpt: "Core capabilities include automated machine learning (autoML), automated data preparation, feature engineering, automated model building and model management. Optional and important complementary capabilities include language and vision services such as ..."
     publishedDateTime: 2023-08-23T00:00:00Z
@@ -99,6 +100,6 @@ related:
         height: 600
         isCached: true
 
-secured: "PWhHLhD9d5tjTzz9FgObdcT82l+f1gq0w3p2EIXUglTiIysqAPW08jVCQUeH5RxA7qugukrPmwE6R01T5H7F9pFPnfpQdwiaDBGZXsUuYifl3qokxEhzdin/rPlgPQZ08jKiVGWt59naFKmvLHALHRrr8KXwVlNRmEsUVlww/6PsWHp8sQGEAyBJgfBPoRo/LQBa1ZipDT22PthyBCy9aKG2omv1jHuAXuChxmEVlss9FBdiw9cW71LiBFs74GoINeFAQYAm75+/Xllq8Dz7LCvERDR1VJEim/My6m4u77Qh9vbF5xJbduLkgCP98v2WjRaYHl0JW14Dtl43TsIIYHEfhsmL+pvg+nx5yI3zvg4=;KT1yKecM8WbMzBOpWadDKw=="
+secured: "lvgQJ0wuwgXP/2pdrnZXN0Cfkzn1PLjWqEIieZKyiGtm3cTuMksqjmjA8jhCfhcF8kjVGdWOp+GPCEb+wx8pQR+zoZlYBwEbLbsqFQ7vDGYblgJxNhz0o6L3PUc9vq+aLjIQXAOQGpj2KsXWtCBDVLbGePHwhY1KJ4TjcxH483KFTBWsAREUpeEk8WCAOa9BEH9R2RWwfBPzwHShj/VHlY7CNVP1uuK8xJPJUrRP1HO8z+nhJAVe9JKkFcN+J/4HpEWEN9PQNaB4pBGYpxrI2xIbpjOO/jIPH3snq571s1cQ7cbn8T5ni+Jo6Ns8l1PVDDdcbnvG4ffVOe6m6lo6kqAduvOh6aQA2835ea7TKXs=;IiKaRbmENKPGTPuFIG3q3g=="
 ---
 

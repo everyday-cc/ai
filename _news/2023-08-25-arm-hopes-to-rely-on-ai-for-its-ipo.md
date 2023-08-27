@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230824PD210/arm-architecture-ai-
 webUrl: "https://www.digitimes.com/news/a20230824PD210/arm-architecture-ai-cpu.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Chip designer Arm looks to ride the AI boom with the biggest US IPO since 2021"
-    excerpt: "Arm's planned IPO, which hopes to raise up to $10 billion, is set to be the largest US listing since Rivian fetched over $12 billion in October 2021."
-    publishedDateTime: 2023-08-22T14:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/64e4811fbd98a600197ba266?width=700"
-        width: 700
-        height: 525
-        isCached: true
 
 secured: "i7+6lyGKk02Fe9dXclmWYX2SsGaiSR7yquyX8EoueasOQfpa6GC1bChJoaLlOtqD58bnTDhFZrBqTrG7gtlSpVHIW7BSwPiTkazehHGkTwzeAOo8JrRI7cq0v1DHQTEOZ/OGnrAXW4T6vU/+YOfqoD5N7tyshIrYZ12vz/qrXZ3WYFiwap7osqXySUPgqVGv0XPYAcCmKaalnsqjIIjgTnmGQOXjHApS2KkkkZLKl3QJEl4W8PxXgsVM98IpRBn0knWKYoBuvwblON2JRYbd+sh9y0wkQOenl8F6wMUFcgwdQIXKZR9DdT86GUQzT0sA3Kdg7vc2x84ZtO52FJ3ActgwwpJQygRxIt2cK23ZUOg=;g7JKlbI2doHykJrRtOfkjg=="
 ---

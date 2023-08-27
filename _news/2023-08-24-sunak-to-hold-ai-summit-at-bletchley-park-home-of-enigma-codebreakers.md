@@ -2,9 +2,9 @@
 category: news
 title: "Sunak to hold AI summit at Bletchley Park, home of Enigma codebreakers"
 excerpt: "Global summit on AI safety planned for autumn, as UK tries to cement image as being home of ‘transformative technologies’"
-publishedDateTime: 2023-08-24T12:26:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?leakd"
-webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?leakd"
+publishedDateTime: 2023-08-24T11:26:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/24/rishi-sunak-to-hold-ai-summit-at-bletchley-park-home-of-enigma-codebreakers"
 type: article
@@ -74,6 +74,6 @@ related:
       domain: devdiscourse.com
     quality: 10
 
-secured: "yS3aYoTcZjISN91Wk0rnzwr5gB8JNchO7kz1fM2LlQmOV/5l3mlNrkw99dAcKOFtkxQZ9CHGmB1ffuPhglwBQQK2d7AfIHKOos1WUC/9Cuhl6gSLS+bRID4DY8qORKi7lRIN6eIj6d0F+I5qdyIK3z/hd6Vp0hGTd4nhFUHwnvx6ve4caNKbuDgvWF8E+FcOKlnoLVzokZy9xrbjYGtWy5dwAcp+q032QnrU2Q1KhGqCoIKCvrOppoayyI82woFl2Q3/hMQ2F13KM8Xw8svGOe6ri4t/oz/EnIEYIKHUZDAfXAxL32x3SOcErKbEJZez1JqhZkaKU+nMtUYm9a/BI89+KiFYMrKyub9kWF02PLY=;EBB5X8snjXBWHxp8DQjgDg=="
+secured: "/CoBGXE1Duifrv6tIGCGh0qVscloVW8mkZt+P0xNT0qGihzWS8EjbhxAyZZ4YrMEndntnR+sPD/EAWWb2VlQc9sBTot+pwL37YPx6kXl57U1MjdSctHqscLQYQtGftAeprNkocymeNIHLyOFCX75RuEhiOBFydoJ1hCBvbDmwVopV2HVm0xUiup1BOuptfgXgZnI//1OquHVAp5j0teL+eHIl43lT7VCLq7MMoFLq09/teBinIdMJ/NurSqnzyhF7O3zTpzDqQWqTB7BPMT3/w7p/FUrnJZ+ttl0IypKOcalTylHum60ul93KqR32BcRGR/X4cc0O68jkUtrIGJCidOKOJVBouDK9Bj/GSVA6j4=;Ct86gZJfCJOyP4bH/Kz93A=="
 ---
 

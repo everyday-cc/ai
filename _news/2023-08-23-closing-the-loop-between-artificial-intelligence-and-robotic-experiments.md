@@ -63,6 +63,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Exploring AI and machine learning in modern bookkeeping"
+    excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."
+    publishedDateTime: 2023-08-25T14:53:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13a22f7/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F39%2Fec%2F39ca587340b0bbc003c71583cdd2%2Fartificial-intelligence-ten.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "45LZEWFKeAiM1d0EwUuLaIMeIRLVpp/wLdfUAViIByQmUBs/IxOmYnw0XhSXrv5d2I6l5/EtllNPCSiw2ST58w9wEQFEVLMlPO0mtfIrsTdehyS362OiIzQW45lWJl7ytqXGZ73VC8/feQiELqvcAwPIdyOPsCHH/AbjKMUOdQTVoRRjGtS446AVFQvBlvGgY/f0S77O1TJdMScJ0w1NpOHmqM7+81uJL4eqwV049UtwtrKpZrzwws/50h+vyLQX2/uHvLCSM+kVSaGRe14VUgHfehp1YL0nIKq31FU1jMMDN/XL+D6CPNrHiF8Mt7/mYpIl1In6qjsiDOTTvZ+JJD56eETRtWuvw1dSi4F7huU=;RlCaLasi6ncO9QgujcPXaw=="
 ---

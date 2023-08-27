@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "7 AI-Powered Technologies You Should Know About"
-    excerpt: "Members of the CW3E Machine Learning team gather around \"Atmospheric Rivers,\" a sculpture on the campus of Scripps Institution of Oceanography. The team has created an AI-enabled tool to improve the prediction of atmospheric rivers. (Photo credit: Sapna Parikh/UC San Diego)"
-    publishedDateTime: 2023-08-22T14:31:00Z
-    webUrl: "https://today.ucsd.edu/story/7-ai-powered-technologies-you-should-know-about"
-    type: article
-    provider:
-      name: today.ucsd
-      domain: ucsd.edu
-    quality: 39
-    images:
-      - url: "https://today.ucsd.edu/news_uploads/_social/AI-powered-tech-teaser.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI Brings Star Trek 'Universal Translator' Closer to Reality"
     excerpt: "However, rather than scanning alien brain waves to find a basis for language commonality and translation, Meta's new SeamlessM4T is just a multimodal AI model, though it can perform speech-to-text, speech-to-speech,"
     publishedDateTime: 2023-08-23T21:51:00Z

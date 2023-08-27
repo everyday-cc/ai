@@ -50,15 +50,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 49
-  - title: "How Firms Can Prepare For The Rise Of AI In Venture Capital"
-    excerpt: "Venture capital (VC), long regarded as the pulsing heart of innovation and entrepreneurial risk-taking, is on the brink of transformative change."
-    publishedDateTime: 2023-08-22T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/how-firms-can-prepare-for-the-rise-of-ai-in-venture-capital/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "Yz4coPXfErD3aHIGfkRiVvgSAkZsvThb+HcNILJepZT4Eiibo+5kw8MHizqVxwtitCmWwrO6O0ed9NfG7keZTDcZg/2ThI/HnaTirheggmxb2bP86BPyEH9vD/zo/YoDZoP1Ohxe8OAEgCs8OmxHIHr5RJA6qkpNMyuyTDZWWy+lS+y1eeUFcRdlYYO1Rv8pAmn0j/M61gwnfhIW9H4bwAYXKaWD39tt1OVd86/CKHAgEcjo6nkokKEn8qfRWjYaBpFfhvvnUDPZtJ1nF7wtMBMPtxASA3hL7sKEV6CC1N7cABhT/ABe5IfhOeWSNrz7bN9NhgRjbLKrUSgXI8UX6J1iMsxYAO5n4vDnUFx4v+0=;oq79He6PLMV9UE4YPCr9qQ=="
 ---

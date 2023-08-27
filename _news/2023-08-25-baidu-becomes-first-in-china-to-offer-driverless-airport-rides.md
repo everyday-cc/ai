@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34045931"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Baidu beats quarterly revenue estimates, cheers generative AI progress"
-    excerpt: "China's Baidu Inc beat second-quarter revenue estimates on Tuesday, helped by a post-pandemic recovery in advertising spending, and said it would further intensify its efforts on generative artificial intelligence (AI)."
-    publishedDateTime: 2023-08-22T14:03:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-reports-quarterly-revenue-above-estimates-2023-08-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/Zxubc8zyLJMsxVKCRVNTDxfQQaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ORQBWYOUNMWBIRCUZWYXDVAOE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Driverless Cars May Struggle to Spot Children, Dark-Skinned People"
     excerpt: "Scientists evaluated eight artificial intelligence-based pedestrian detectors used in driverless car research, and found they may have difficulty detecting children and dark-skinned people."
     publishedDateTime: 2023-08-23T16:34:00Z

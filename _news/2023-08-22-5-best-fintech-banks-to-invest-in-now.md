@@ -144,15 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023."
-    publishedDateTime: 2023-08-22T14:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9868268.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
     excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
     publishedDateTime: 2023-08-24T18:54:00Z

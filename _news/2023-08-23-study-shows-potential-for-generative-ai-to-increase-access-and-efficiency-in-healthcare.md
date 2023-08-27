@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Overcoming Fear To Realize The Benefits Of Artificial Intelligence"
-    excerpt: "AI's progress should be followed closely and perhaps subject to ethical regulations over time, but seeking to delay its advancement strikes me as counterproductive."
-    publishedDateTime: 2023-08-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/overcoming-fear-to-realize-the-benefits-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How AI Could Save Healthcare"
     excerpt: "Dr. Brian Miller joined Rep. Crenshaw to talk about the coming Artificial Intelligence (AI) revolution in healthcare. They cover the prospects for everything from automating mundane tasks to easing the patient experience to partially replacing doctor workload."
     publishedDateTime: 2023-08-23T17:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chi
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-08-24_apswhx5noy.jpg"
         width: 718
         height: 300
-        isCached: true
-  - title: "IBM reports analog AI chip patterned after human brain"
-    excerpt: "Deep neural networks are generating much of the exciting progress stemming from generative AI. But their architecture relies on a configuration that is a virtual speedbump, ensuring the maximal efficiency can not be obtained."
-    publishedDateTime: 2023-08-22T14:41:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ibm-analog-ai-chip-patterned.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ibm-reports-analog-ai.jpg"
-        width: 1782
-        height: 1614
         isCached: true
   - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
     excerpt: "A new breakthrough in tech may have just solved artificial intelligence’s energy problems. AI requires a massive and growing amount of"

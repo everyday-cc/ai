@@ -6,9 +6,6 @@ publishedDateTime: 2023-08-22T13:10:00Z
 originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: CRN
@@ -24,54 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "IBM taps AI to translate COBOL code to Java"
-    excerpt: "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java."
-    publishedDateTime: 2023-08-23T20:15:00Z
-    webUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/"
-    ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888"
-        width: 1200
-        height: 888
-        isCached: true
-  - title: "IBM’s generative AI tool aims to refactor ancient COBOL code for its mainframes"
-    excerpt: "IBM, eager to keep those legacy functions on its Z mainframe systems, wants that code rewritten in Java. It tried getting humans to do it a few years back, but now it has another idea. Yes, you guessed it: It's putting AI on the job."
-    publishedDateTime: 2023-08-23T16:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IBM is making an AI assistant to modernise old COBAL code"
-    excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
-    publishedDateTime: 2023-08-23T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ibm-ai-cobol-code-assistant-watsonx"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_400584931_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "Xk456VSUugrHkMrRLIxB98z47+Ddu51r3jdAosVRlH2VDxiMoOvsPqxuFTOek0zuhOTHVBSfU9ZMlKoLRa1KhtVqOZcITlmr25XEcXQbTKZhNONgKTl16QbEtpEM5fIaYZQeQ9b1qaW15yWynWczHXOtUMP9ZMWv7b1HhZZJKzqR9od1v7QBQ7qxsEhj5QJA1QUXqLLiwkgfBiXNYTLYC/Xh7EZLAuhj9x32v/uL78EiPFxzdVFMk1Pd7y3HZri2/BEJ3EqdcLEp5WjoW6yvxSnWqQ4qpOTCWelQrck/YV6MzbWfjqH71PiqXyo4LMHzt3PQwaNxWAjAITaR6gi1jz5xenGclgviBK/21eMch+c=;7fGHFE9mCl6WO12pe9hrfg=="
+secured: "3xXl2IsHRmXcxwR23vNgNuV6AiZRjUqUC640EH2+lvVcwoN55igburIi8SZjhpzdYil7aueRDonObrgWruzEA7eM6RS5+z8FQHLvZjJbwllheOe4Pf1HbUhsrMosOrRRIsGpVW7F7mSUL1HlfmCpI8j31CzYFuzFM1Dhq2WP6K4Q7/cv2KhgObInQDdO7DO63U1/TMetAcWyv7IbeRb0b5WykiOmi4SRX+VncZZFE1jkn0WQF7/nQ/ix0w1SZF0u56Zei3w4nQMucGDIMGmvgN122+VszWIn6lYWEAcOfgGcinQ4YKdGLh5hwwntvJUjohwQxyLRdiz5W1hGno+459UYjly2R9oYh4Dg0f9s30U=;EZqvE0QhNUbzgm7+LbHXjg=="
 ---
 

@@ -69,15 +69,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "This is how generative AI will free up your time at work"
-    excerpt: "Generative AI is impacting the way people work across industries. Here's a look at how you can be a part of the revolution."
-    publishedDateTime: 2023-08-22T13:42:00Z
-    webUrl: "https://venturebeat.com/ai/this-is-how-generative-ai-will-free-up-your-time-at-work/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Meta's free generative AI tool will help you write code"
     excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
     publishedDateTime: 2023-08-25T09:34:00Z

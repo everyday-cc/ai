@@ -123,15 +123,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Rubrik brings power of AI to VMware customers to accelerate cyber recovery"
-    excerpt: "Rubrik, the Zero Trust Data Security™ Company announced new generative AI capabilities for VMware customers through Rubrik AI-Powered Cyber Recovery.Minimising data lossLeveraging"
-    publishedDateTime: 2023-08-22T13:21:00Z
-    webUrl: "https://www.sourcesecurity.com/news/rubrik-brings-power-ai-vmware-customers-co-14053-ga-co-1614609647-ga-co-12330-ga.1692701941.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 17
   - title: "Triple cloud-AI play: Lenovo, VMware, NVIDIA partner to offer ‘turnkey’ services"
     excerpt: "MORRISVILLE - Lenovo is expanding its partnership with VMware, and chip maker NVIDIA, which is at the forefront of generative artificial intelligence technology, on Tuesday disclosed products and services that are \"turnkey\" and \"cloud ready\" for customers."
     publishedDateTime: 2023-08-22T18:25:00Z

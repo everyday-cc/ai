@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
-excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
-publishedDateTime: 2023-08-24T13:31:00Z
-originalUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
-webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
+title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
+excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
+publishedDateTime: 2023-08-26T18:54:00Z
+originalUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
+webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
 type: article
-quality: 6
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Techopedia
+  domain: techopedia.com
 
 topics:
-  - AI Ethics
+  - Google AI
   - AI
+
+images:
+  - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "How ChatGPT turned generative AI into an “anything tool”"
@@ -34,20 +40,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
     excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
@@ -67,7 +59,16 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
+    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
+    publishedDateTime: 2023-08-24T13:31:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 6
 
-secured: "3t5BJVHRyTA+hj9sKCPm/WHf2tQ2rPSH4pCA2mJfrrrHopFJ+rQOd7smVpJaGn0ubUnEZrdZxGtR9cmHEbn4jBAK5A3QpoXmDwOhLeaHASTGkgp2YSDrHPiQ7lDvStN7IEvpuGAzSw2oe4VT0uOSF+jax/hJmWq16kFM9kj7rfS1is5lV26EUIEf+ankjLL7aIQZ4mtxbVNMi2DMGyS/JWZ7RI2AvOa18MhRKsZ6h5IZvZ5pis9KTzGO6sb7HQctyHzaG6TLGFWs7WZFVuQxFUqiIhOUrbAWVNfjBKhOKJJ7WAQaN3HqCyKKTJc1N4nqFTYyG/gAD7XTjxobYnkVkTtOYMbLW5+CxwdtUZoCZs8tzZfWHvgRlJQQRSsmXcWcmV69ZdOmkbhvGx0Y0V16mzLFF2JpMx5w3UkE9pnW1EGD4qF5XC7NsdhgI6tgxffs/vkhTaLERn6FK2flcxzUwRmPv18hP3GzQhDdNKIZOMCMlMwOGtiqKyJe5mExprzTJIaoiCNZ5J/IN8g1LzCAvA==;XK2/Ac80B1FU6ZjvGLiIpw=="
+secured: "2mIx1ojV0+IRjk8qgbLRuqWS1N++E9rHAR1HXbZl8ZIMIc2eEsS0aJm4rq6C1i9yt+KJ1z+Trs/DSUuthUntUI7w9wtpyE//YX+Ah5wivsai2wVl54XIsmgrJFO+wAxBDQykyzbKrKzjznEbPvr6KUqNn+rU9tvnMJmcF6hILUmRBqAdAxiCHpLDy7ZbKaw2XAQD52fHYJx+yPojYmR2gzczkSlMEAxHapq/8QyPGLyHeBvIINTTVxaSlx70Rdl8pRE6soNFKyMEH7mEZ81NdTJnVUmVjdl20epw5238cE6NoEIAX+ISXIXe1SYO1Ec83DeXmIguV4GTGfNhRz2pdzeGAkegnR53OVowu7lbnHc=;/XL67i7h+1y/SybVc3HTVA=="
 ---
 

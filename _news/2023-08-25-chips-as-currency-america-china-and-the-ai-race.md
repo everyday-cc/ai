@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 475
         isCached: true
-  - title: "Bosses and workers are worried about new technology like AI, but for different reasons"
-    excerpt: "Execs are planning to invest in generative AI, but employees are nervous these new tools will put them out of work."
-    publishedDateTime: 2023-08-22T13:43:00Z
-    webUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-bosses-workers-worried-about-tech-investments-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/64e410bdbd98a600197b78e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "frYuLEpYVjvnJ2dl3E67yU7L7+qlQUSM3yFSatQbGRH+dQ5yoEcYrDOAcS8qfAdw0irC40/uFikdIQSA6fkq7/0F6Oelzk7pPL0/Zl2lCnw9DrPuqn1L0ApJYUVTTACRAeYoSySaNkOW1BxXkYWQJh6lvcWBiQD39CB7vH1CqoZQ0cU+gvyLPReBQBKzs5kcRLhRSzBTdWXlg+EhU/VDjYQ5RLrH6bDtJhEW6Fc4hjGRdqWPy7o5fCb0+ouaKjStlPfg7saXYOPZrnKWRA+nw0ThYM5DtZE8Sp0ITq2udNauXNcYLB4RIWyCsWAUvsoTrQThTymziMaMSTOMXrTKY1qMpekLnhgIinpuZ3xGdZDdHigQ4L99b3I0xVm25Ztf6iKZAcUBOfYtwAYV3Zim3F+LRRW0HpjcS+7W43T2w0DyyVIjdIpmp57bqWcNp2xldpPgfC+nNnqae2I8VMVZkKw1CIPsk/hpeBv8wXA89JH0pWzCYliL7+LGIoNootOVNWAQyvcGORdiCXW0uGuDdg==;wXO32pOeGZkP0JAcwJ8SZg=="
 ---
