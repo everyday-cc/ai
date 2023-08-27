@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
-publishedDateTime: 2023-08-24T18:46:00Z
-originalUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
-webUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
+excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
+publishedDateTime: 2023-08-24T19:03:00Z
+originalUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+ampWebUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
+cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Jewish Telegraphic Agency
-  domain: jta.org
+  name: The Forward
+  domain: forward.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.jta.org/wp-content/uploads/2023/08/GettyImages-1556779082-1024x569.jpg"
-    width: 1024
-    height: 569
-    isCached: true
 
 related:
   - title: "IBM sells The Weather Company assets to Francisco Partners"
@@ -79,6 +75,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "b9NtYef05rk0XdZTukSn1nPy4LaSygDqkuLdPwJ7XRoBkliOdQazDBAZ0nnVBdrQf7EGwO25HnaycMex7hssBApi7euOp1GqfoqiS78SSbfScQwuaJtgHOBTtObBAiQAPRp1v50HHV4/ZgTOGiGgnfcU+YZu4ufg1b12JZmB+baXvZR/ygnPimXn8btdGyy/aBUdkXCFOedY0JYDIlKA+VrBJtWP6fvVm8zOvcCs/jn6V4mlxvkP4UiNtmmIqXo5696uo0q3fRh5WlMmMkD5rglzm2r11owymRPfBsyDniFnXpUNa/wcEodUvYa6znwUrR63OuBGV1diWKbzqwAcKLa5sHq2s32TjYybZKspXdw=;WZSXhvGj7OrGSjcCdfUF9g=="
+secured: "kQbncYpOeJIbdeTekaz1t5GQ4tiJy/UgPCMIbbd/Amu4vlG5FYAKvoTyDwy3SZzfY85N+EFLJRpxth5QHfrDP+yls90U4HzZ31+DO6Iq4bWhICpoqB/AFd4JfS6GhXGphgxHRbveBIGSq6MnGDuP1z0AfmPMnosjhD5BHkBBN3KGUBL4fk5lqjHFRsf3vL96oYE3iVMVtRpWB3CDR8cyaheVxWCf2EkNb4GXpuQOTHBEm0KBeWX8zAT0r5Ww9N0jNEe8C3BX5Ksl+jtQB0jvlF4cicKLXJv8lXlOjTvFI+nci9eci5ArNTTWBDIV4AgIbQqJc0M8UJEfHxxfUomnAldCqXWkJkAdF5KO02nG50zYW4jIz0YG7Glz7Olb/qXCeQ/NPbGe8mupn5Y4bf/g9PlhJBFuG9Y8eTsqFxnfnFDzUxibUK/opxW7rh8Fh/wNz4xStfA2gu7fjZTlRXPKq994aJ2BwhNMPnKdeTjvA5sTeFm6L2EMo73ZetwsT3h1wMgB/TuXHb844DICqGFVCg==;vfudC9x64RtYucI6yZhQpA=="
 ---
 

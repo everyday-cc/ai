@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Meta Releases SeamlessM4T AI Model to Translate Languages in Real-Time"
-    excerpt: "For the SeamlessM4T model, Meta researchers said in a research paper that they gathered audio training data from 4 million hours of \"raw audio originating from a publicly available repository of crawled web data,\" without specifying which repository."
-    publishedDateTime: 2023-08-22T16:23:00Z
-    webUrl: "https://www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357"
-    ampWebUrl: "https://www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/apps/news/meta-releases-seamlessm4t-ai-model-translate-transcribe-speeches-languages-in-real-time-4320357/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 74
-    images:
-      - url: "https://i.gadgets360cdn.com/large/meta_ai_reuters_1689771499541.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta introduces AI system that can translate 100 different languages"
     excerpt: "Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects,"
     publishedDateTime: 2023-08-23T05:55:00Z
@@ -100,20 +84,6 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
         width: 700
         height: 394
-        isCached: true
-  - title: "Meta releases AI model for translating speech between dozens of languages"
-    excerpt: "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides."
-    publishedDateTime: 2023-08-22T16:35:00Z
-    webUrl: "https://www.reuters.com/technology/meta-releases-ai-model-translating-speech-between-dozens-languages-2023-08-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 70
-    images:
-      - url: "https://www.reuters.com/resizer/KzumeMKQ6J3LE2yegaLyNvl4hDs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PGRJZN6TSVMSLBS5E4ZSLX6SIQ.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "SeamlessM4T: Meta’s newly designed AI translates, transcribes 100 languages"
     excerpt: "The SeamlessM4T model provides on-demand translations that enable people who speak different languages to communicate more effectively"
@@ -161,22 +131,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta releases SeamlessM4T AI model capable of translating nearly 100 languages"
-    excerpt: "Nothing will be lost in translation anymore as Facebook's parent company Meta has introduced an AI model that can translate and transcribe speech in numerous languages, serving as a"
-    publishedDateTime: 2023-08-22T16:33:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1102702-meta-releases-seamlessm4t-ai-model-capable-of-translating-nearly-100-languages"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1102702-meta-releases-seamlessm4t-ai-model-capable-of-translating-nearly-100-languages"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1102702-meta-releases-seamlessm4t-ai-model-capable-of-translating-nearly-100-languages"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 57
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-08-22/l_1102702_091356_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
   - title: "Meta’s “massively multilingual” AI model translates up to 100 languages, speech or text"
     excerpt: "Meta is far from the first AI vendor to offer machine-learning translation tools. Google Translate has used machine-learning techniques since 2006, and large language models (such as GPT-4) are well known for their ability to translate between languages."
     publishedDateTime: 2023-08-22T19:57:00Z
@@ -186,22 +140,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 56
-  - title: "Meta launches AI-powered speech translation model, to use it on WhatsApp, Facebook"
-    excerpt: "Meta, formerly known as Facebook, has unveiled an AI model called SeamlessM4T that can translate and transcribe speech in up to 100 languages. The mod"
-    publishedDateTime: 2023-08-22T15:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/articleshow/102953757.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/amp_articleshow/102953757.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/meta-launches-ai-powered-speech-translation-model-to-use-it-on-whatsapp-facebook/amp_articleshow/102953757.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102953819/102953819.jpg"
-        width: 1867
-        height: 1280
-        isCached: true
   - title: "Meta Releases AI to Translate Dozens of Languages Using Speech and Text"
     excerpt: "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from speech or text in up to 100 languages and generate translation in either mode of communication."
     publishedDateTime: 2023-08-22T20:50:00Z
@@ -310,20 +248,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/25/image/jpeg/gfuOrbssFsY5eaQBKxkjjPGM5IMQkiJLtmNwW133.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Meta's new AI translation model performs speech and text translations for up to 100 languages"
-    excerpt: "Read more about Meta's new AI translation model performs speech and text translations for up to 100 languages on"
-    publishedDateTime: 2023-08-22T15:56:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2567230-metas-new-ai-translation-model-performs-speech-and-text-translations-for-up-to-100-languages"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 30
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_04_2023_07_01_56_2739472.jpg?width=920&format=jpeg"
-        width: 920
-        height: 690
         isCached: true
   - title: "Meta releases new AI model for translation and transcription in dozens of languages"
     excerpt: "With the hope of building a universal language translator, Meta on August 22 released a new AI model called SeamlessM4T that can perform translation and transcription services in dozens of languages. The model currently supports: Speech recognition for ..."

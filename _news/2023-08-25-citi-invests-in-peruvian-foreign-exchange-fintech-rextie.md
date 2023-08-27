@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Best Fintech Banks to Invest in Now"
-    excerpt: "Discover Financial Services (NYSE: DFS) owns the Discover credit card and has diversified into many banking services. Discovery Financial Services owns Discover Bank, which offers online savings, checking, money market, certificates of deposit (CDs) and IRAs. The savings account advertises that it pays five times the national savings average."
-    publishedDateTime: 2023-08-22T15:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-best-fintech-banks-to-invest-in-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "A Guide to Fintech ETF Investing"
     excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
     publishedDateTime: 2023-08-23T15:38:00Z
@@ -49,6 +40,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
+    excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
+    publishedDateTime: 2023-08-27T07:50:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Türkiye is on its way to becoming a Fintech base with its young population"
     excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
@@ -108,15 +115,22 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Strong Buy Alert: 3 Fintech Stocks Practically Screaming ‘Buy Me Now’"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech industry has been rapidly reshaped by technology. The landscape"
-    publishedDateTime: 2023-08-25T21:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-alert-3-fintech-stocks-practically-screaming-buy-me-now-1032583795"
+  - title: "Global Fintech Ramp Announces $300M Series D to Support Business Expansion Efforts"
+    excerpt: "Acquired Cohere.io, an AI-powered customer support platform ... online lending, and other forms of Fintech. Join Crowdfund Insider for a freewebinar featuring two Regulation A(Reg A+) experts: Sally Outlaw ofWorthy and Etan Butler of Dalmore"
+    publishedDateTime: 2023-08-23T22:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Money-Grant-Dollars-50-Cash-1024x855.jpeg"
+        width: 1024
+        height: 855
+        isCached: true
   - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
     excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
     publishedDateTime: 2023-08-22T23:54:00Z

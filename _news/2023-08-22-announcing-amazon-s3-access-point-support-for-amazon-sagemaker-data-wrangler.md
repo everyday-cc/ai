@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning with decentralized training data using federated learning on Amazon SageMaker"
-    excerpt: "In this post, we discuss how to implement federated learning on Amazon SageMaker to run ML with decentralized training data."
-    publishedDateTime: 2023-08-22T16:24:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-decentralized-training-data-using-federated-learning-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 109
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/22/featured-images-ml-12904-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Announcing the Preview of Amazon SageMaker Profiler: Track and visualize detailed hardware performance data for your model training workloads"
     excerpt: "Today, we’re pleased to announce the preview of Amazon SageMaker Profiler, a capability of Amazon SageMaker that provides a detailed view into the AWS compute resources provisioned during training deep learning models on SageMaker. With SageMaker Profiler, you can track all activities on CPUs and GPUs,"
     publishedDateTime: 2023-08-24T21:34:39Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-l
 webUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html"
 type: article
 quality: 78
-heat: 118
+heat: 120
 published: true
 
 provider:

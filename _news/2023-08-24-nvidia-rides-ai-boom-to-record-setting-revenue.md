@@ -96,20 +96,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://insidebigdata.com/2023/08/22/vmware-and-nvidia-unlock-generative-ai-for-enterprises/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/12/Data_Pipeline_shutterstock_9623992_small.png"
-        width: 300
-        height: 225
-        isCached: true
   - title: "VMware and NVIDIA unlock generative AI for enterprises"
     excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
     publishedDateTime: 2023-08-23T20:50:00Z

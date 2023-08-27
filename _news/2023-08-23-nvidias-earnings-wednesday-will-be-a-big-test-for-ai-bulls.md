@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html"
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://insidebigdata.com/2023/08/22/vmware-and-nvidia-unlock-generative-ai-for-enterprises/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/12/Data_Pipeline_shutterstock_9623992_small.png"
-        width: 300
-        height: 225
         isCached: true
   - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
     excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."

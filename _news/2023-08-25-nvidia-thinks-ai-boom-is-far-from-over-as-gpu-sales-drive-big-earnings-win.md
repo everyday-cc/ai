@@ -86,20 +86,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "VMware and NVIDIA Unlock Generative AI for Enterprises"
-    excerpt: "VMware Inc. (NYSE: VMW) and NVIDIA (NASDAQ: NVDA) today announced the expansion of their strategic partnership to ready the hundreds of thousands of enterprises that run on VMware’s cloud infrastructu"
-    publishedDateTime: 2023-08-22T16:30:00Z
-    webUrl: "https://insidebigdata.com/2023/08/22/vmware-and-nvidia-unlock-generative-ai-for-enterprises/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/12/Data_Pipeline_shutterstock_9623992_small.png"
-        width: 300
-        height: 225
-        isCached: true
   - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
     excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
     publishedDateTime: 2023-08-24T01:01:00Z

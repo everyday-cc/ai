@@ -2,6 +2,100 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-06-06-global-image-recognition-in-retail-market-set-for-growth-says-report.md",
+      "title": "Global image recognition in retail market set for growth, says report",
+      "excerpt": "According to a report by Research and Markets, the increasing use of image recognition applications is expected to drive the demand for image recognition in the retail market going forward and image recognition in retail market is expected to grow to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
+      "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail4growth.com/public/thumbs/viewpoints/2023/06/1060/r4g-Thumbnail-research5_440_851.jpg",
+          "width": 715,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
+      "cdnAmpWebUrl": "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
+      "publishedDateTime": "2023-06-05T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retail4growth",
+        "domain": "retail4growth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-ai-software-helped-convict-coventry-paedophile-police-say.md",
+      "title": "AI software helped convict Coventry paedophile, police say",
+      "excerpt": "Advanced AI software was crucial in proving a paedophile groomed and sexually abused young girls, police reveal in a new TV programme. The conviction of Luke Cassidy, 29, from Coventry, has been documented by BBC Two's Forensics: The Real CSI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
+      "originalUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8713/production/_129997543_joward.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
+      "publishedDateTime": "2023-06-05T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-ai-for-value-investors-megacap-tech-etn-dlr.md",
       "title": "AI For Value Investors: MegaCap Tech, ETN & DLR",
       "excerpt": "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),",
@@ -1096,109 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-can-ai-become-an-ally-in-the-dei-world.md",
-      "title": "Can AI Become An Ally In The DEI World?",
-      "excerpt": "For those of us in the diversity, equity, and inclusion (DEI) sphere, AI's emergence prompts a question: What implications does AI have for DEI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647df61bfec965c17c13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
-      "publishedDateTime": "2023-06-05T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-comparing-and-contrasting-ai-and-human-translation.md",
-      "title": "Comparing And Contrasting AI And Human Translation",
-      "excerpt": "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 931,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
-      "publishedDateTime": "2023-06-05T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

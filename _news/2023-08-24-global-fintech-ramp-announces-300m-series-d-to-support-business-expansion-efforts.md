@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,147 @@ images:
     isCached: true
 
 related:
-  - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
-    excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
-    publishedDateTime: 2023-08-23T19:21:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2023/08/23/sands-capital-investment-ramp.html"
+  - title: "A Guide to Fintech ETF Investing"
+    excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
+    excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
+    publishedDateTime: 2023-08-27T07:50:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Türkiye is on its way to becoming a Fintech base with its young population"
+    excerpt: "Key trends shaping the global fintech sector were identified, including the rise of digital banks, personalized financial services through AI and machine learning, increased mobile and cryptocurrency payments, compliance with regulations through \"Regtech ..."
+    publishedDateTime: 2023-08-23T15:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/turkiye-is-on-its-way-to-becoming-a-fintech-base-with-its-young-population-boskmw1l?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ0YTNiMmQtMTU0OS00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Dynamic Use Cases of AI in FinTech"
+    excerpt: "The rise and expansion of the global financial technology industry have been greatly influenced by the emergence and swift progress of Artificial Intelligence"
+    publishedDateTime: 2023-08-22T17:35:00Z
+    webUrl: "https://www.tech-critter.com/dynamic-use-cases-of-ai-in-fintech/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 39
+    images:
+      - url: "https://www.tech-critter.com/wp-content/uploads/2023/08/ai-fintech-02.png"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "Spend management fintech Ramp raises $300m following growth"
+    excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
+    publishedDateTime: 2023-08-23T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/43448dd6f0a8b8bafc7f342e4e09259e:5e8762bc7205758903985ac83204414a/ramp-founders-2.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
+    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
+    publishedDateTime: 2023-08-27T00:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Hong Kong and China interest in AI and regtech ‘palpable’ despite soft fintech funding: report"
+    excerpt: "Asia’s fintech funding in 2023 might be lagging its US and European counterparts, but interest is strong in leveraging artificial intelligence and regtech throughout the region."
+    publishedDateTime: 2023-08-22T23:54:00Z
+    webUrl: "https://www.financeasia.com/article/hong-kong-and-china-interest-in-ai-and-regtech-palpable-despite-soft-fintech-fu/488076"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 27
+    images:
+      - url: "https://cdn.i.haymarketmedia.asia/?n=corporate-treasurer%2fcontent%2fFintech+shutterstock.jpg&h=630&w=1200&q=100&v=d090bda323&c=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Buy This Beaten-Up Fintech Stock That's Poised to Soar"
+    excerpt: "Shah Gilani boasts a financial pedigree unlike any other. He ran his first hedge fund in 1982 from his seat on the floor of the Chicago Board of Options Exchange. When options on the Standard & Poor's 100 began trading on March 11, 1983, Shah worked in \"the pit\" as a market maker."
+    publishedDateTime: 2023-08-22T20:55:00Z
+    webUrl: "https://moneymorning.com/investing/buy-this-beaten-up-fintech-stock-thats-poised-to-soar/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 24
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/08/ACQ_Report_Snapshot_ChipWars.png"
+        width: 800
+        height: 712
+        isCached: true
+  - title: "Citi invests in Peruvian foreign exchange fintech Rextie"
+    excerpt: "Citigroup is making an undisclosed 'strategic investment' into Latin America's popular foreign exchange (FX) platform Rextie, which is based in Peru"
+    publishedDateTime: 2023-08-25T15:58:00Z
+    webUrl: "https://fintechmagazine.com/articles/citi-invests-in-peruvian-foreign-exchange-fintech-rextie"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/374bd6f34116a0319a2191326fffe442:fed74783d727da317e096f95c8a8699f/citi-rextie.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Charlotte’s biggest fintech and health players want to make the region a federally recognized tech hub"
+    excerpt: "Could Charlotte become a federally recognized tech hub? The epicenter of artificial intelligence innovation? Some of the biggest local players in academia, technology, banking and healthcare think it could."
+    publishedDateTime: 2023-08-24T18:54:00Z
+    webUrl: "https://charlotte.axios.com/337727/charlottes-biggest-fintech-and-health-players-want-to-make-the-region-a-federally-recognized-tech-hub/"
+    type: article
+    provider:
+      name: Axios Charlotte
+      domain: axios.com
+    quality: 0
 
 secured: "0neKO/5vDHLQ4c5S156h1iaR+LL7mwzo0WitdbnlvRb63+49BoEH4ppvWws0QQEreNQYwdjFMWSLpBeSMNA2k7Kw94FEGndax93iwdy3fmXeSE4ozSCuZCHI6NROjF3sU8MDhcQyGhMsMsryalNanceNYIfK43NdYdZkt+1ZIsJ3n6XVA39umd1CriBio56aODn6J8RispqvPz/j0YfbEvs6wjbYTg29Vx3694RoO+ZGvLMKYPxlghgllbXDKONXlSOzuQae3HumBx8eRhh348oYXJIE5WLmtBpMfSNxno5D4KQ3EtN2C2hSu2Dsw44bAI5tlF1i9ec2GYZm2CBfOjqC99qOwD8W6nlQAMIWaIQ=;u9V+bBsXPxYhTtmiJLWafQ=="
 ---

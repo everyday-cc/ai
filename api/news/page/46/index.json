@@ -2,6 +2,83 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-07-25-statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-growth-with-an-estimated-cagr-74-from-2023-2030.md",
+      "title": "Statistical Natural Language Processing Market Analysis: Examining Trends and Forecasting Revenue Growth with an estimated CAGR 7.4% from 2023-2030",
+      "excerpt": "The \"Statistical Natural Language Processing Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand and supply aspects of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33356981/statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-gr",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33356981/statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-gr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-25T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox6now",
+        "domain": "fox6now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-robot-litter-boxes-cast-iron-skillets-and-more-4-things-you-didnt-know-were-made-in-sheboygan.md",
       "title": "Robot litter boxes, cast iron skillets and more — 4 things you didn’t know were made in Sheboygan",
       "excerpt": "In addition to household company names and goods, like Ellingers Agatized Bowls and Kohler, here are four products you may not have known were locally made. Well-known for toilet seats, Bemis Manfacturing also makes parts for Whisker’s robotic cat litter box.",
@@ -1086,109 +1163,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-machine-learning-helps-this-company-deliver-a-better-online-shopping-experience.md",
-      "title": "Machine learning helps this company deliver a better online shopping experience",
-      "excerpt": "Buying products online can feel like a gamble. Wayfair uses machine learning to ensure the odds are in your favor, and the technology boosts internal productivity, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
-      "originalUrl": "https://www.zdnet.com/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/06205202a6bf24c5b8b76a98b813236a5c243b4a/2023/07/24/f1b2733e-76ec-4595-a90f-b45790534b96/gettyimages-590775955.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
-      "publishedDateTime": "2023-07-24T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-what-is-it-operations-analytics.md",
-      "title": "What is IT operations analytics?",
-      "excerpt": "IT operations analytics (ITOA) is the data-driven process by which organizations collect, store and analyze data produced by their IT services.\nThe post What is IT operations analytics? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/it-operations-analytics/",
-      "originalUrl": "https://www.ibm.com/blog/it-operations-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/donedsc07661retocada.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T08:59:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

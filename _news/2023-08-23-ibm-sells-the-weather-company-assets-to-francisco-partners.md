@@ -60,19 +60,16 @@ related:
         height: 720
         isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "Self-driving electric cars offer intriguing Shabbat possibilities — not least for observant Jews who traditionally refrain from driving and using electricity on the day."
-    publishedDateTime: 2023-08-24T18:46:00Z
-    webUrl: "https://www.jta.org/2023/08/24/religion/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets"
+    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
+    ampWebUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
     type: article
     provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
+      name: The Forward
+      domain: forward.com
     quality: 11
-    images:
-      - url: "https://www.jta.org/wp-content/uploads/2023/08/GettyImages-1556779082-1024x569.jpg"
-        width: 1024
-        height: 569
-        isCached: true
   - title: "IBM agrees to sell The Weather Company assets"
     excerpt: "International Business Machines Corp. announced today it agreed to the sale of its weather business, The Weather Company, including The Weather Channel mobile, Weather.com, Weather Underground and Storm Radar, to Francisco Partners for an undisclosed sum."
     publishedDateTime: 2023-08-22T17:35:00Z

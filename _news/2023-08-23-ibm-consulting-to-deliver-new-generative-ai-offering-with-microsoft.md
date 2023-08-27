@@ -73,34 +73,6 @@ related:
         width: 2473
         height: 1795
         isCached: true
-  - title: "Microsoft Adds Python Programming to Excel Spreadsheets"
-    excerpt: "Microsoft is introducing the ability to use Python code directly in Excel spreadsheets. It's called Python in Excel, and it's being made available as a Public Preview for Microsoft 365 Insiders using the Beta Channel in Excel for Windows."
-    publishedDateTime: 2023-08-22T15:20:00Z
-    webUrl: "https://uk.pcmag.com/office-suites/148306/microsoft-adds-python-programming-to-excel-spreadsheets"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-adds-python-programming-to-excel-spreadsheets_vbmj.1200.jpg"
-        width: 1199
-        height: 680
-        isCached: true
-  - title: "Epic, Microsoft expand partnership to accelerate generative AI in healthcare"
-    excerpt: "Epic and Microsoft announced on Tuesday an expanded collaboration focused on integrating generative artificial intelligence tools in ... is intended to speed the development of AI tools in healthcare, bringing the technology as “quickly as possible ..."
-    publishedDateTime: 2023-08-22T15:13:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-epic-generative-ai-partnership/691505/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 68
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/i6TwXMDqR2-SwpYLbQVAMHZ7RenE-M2CAeuYj2kIA9I/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNjI3ODA5NTRfcVlwU3JLSi5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
     excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
     publishedDateTime: 2023-08-24T09:30:00Z
