@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-cod
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 83
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IBM is making an AI assistant to modernise old COBAL code"
-    excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
-    publishedDateTime: 2023-08-23T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ibm-ai-cobol-code-assistant-watsonx"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_400584931_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-l
 webUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html"
 type: article
 quality: 78
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
         width: 1280
         height: 609
-        isCached: true
-  - title: "Here are 6 stocks dominating the AI trade and 3 more that stand to benefit down the road"
-    excerpt: "We surveyed the current artificial intelligence landscape — and with the help of a Goldman Sachs note, explored the AI trade after the trade."
-    publishedDateTime: 2023-08-23T08:01:00Z
-    webUrl: "https://www.cnbc.com/2023/08/23/6-stocks-dominating-the-ai-trade-and-3-more-to-benefit-down-the-road.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107286646-1692102538403-gettyimages-1589438908-caustic_01_v07_0004.jpeg?v=1692784801&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Exploring AI and machine learning in modern bookkeeping"
     excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."

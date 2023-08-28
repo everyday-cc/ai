@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
-    excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
-    publishedDateTime: 2023-08-23T07:12:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 58
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102973423,updatedat-1692774727385,width-1280,height-720,resizemode-75/102973423.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."
     publishedDateTime: 2023-08-23T10:00:00Z

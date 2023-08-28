@@ -43,20 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI eye scans can detect Parkinson’s up to seven years before symptoms appear, scientists say"
-    excerpt: "Scientists have developed eye scans that use artificial intelligence to detect markers of Parkinson ... breakthrough as drug treatment comes one step closer Parkinson’s therapy could be used to tackle alcohol abuse Previous studies have shown eye ..."
-    publishedDateTime: 2023-08-23T07:48:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-eye-scan-parkinsons-diagnosis-b2397774.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 28
-    images:
-      - url: "https://static.independent.co.uk/2023/08/23/07/GettyImages-1237096893.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Speech Accessibility Project needs more participants with Parkinson's"
     excerpt: "The Speech Accessibility Project is almost halfway through its first phase of gathering voice recordings from people with Parkinson's."
     publishedDateTime: 2023-08-25T02:57:00Z

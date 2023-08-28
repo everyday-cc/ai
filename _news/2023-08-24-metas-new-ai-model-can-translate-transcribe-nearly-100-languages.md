@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_234.jpg"
         width: 4000
         height: 4000
-        isCached: true
-  - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
-    excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
-    publishedDateTime: 2023-08-23T07:12:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 58
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102973423,updatedat-1692774727385,width-1280,height-720,resizemode-75/102973423.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Meta introduces multilingual speech translation model for 100 languages"
     excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."

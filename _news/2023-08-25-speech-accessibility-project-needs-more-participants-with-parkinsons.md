@@ -57,20 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI eye scans can detect Parkinson’s up to seven years before symptoms appear, scientists say"
-    excerpt: "Scientists have developed eye scans that use artificial intelligence to detect markers of Parkinson ... breakthrough as drug treatment comes one step closer Parkinson’s therapy could be used to tackle alcohol abuse Previous studies have shown eye ..."
-    publishedDateTime: 2023-08-23T07:48:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-eye-scan-parkinsons-diagnosis-b2397774.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 28
-    images:
-      - url: "https://static.independent.co.uk/2023/08/23/07/GettyImages-1237096893.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "o0DIkZOLNcjADUrNnskiGBE2rkO91acEvhgEAlHDG0wvDLDLNedtR59Vd7l9kORXLpem2i4cfX8cHhxbQZsJmCBTh2yqlKWpcsMKs85ICqm1CmOHKLiL3U6cXJCC4JkK0ymxJFsjAWVlAj/YSPwgGzJXGIxN3AB1NZqmwu3d410sJx4H/nmTqVffYvE1oZOkHovLlmjefnS9I9+jSVIiHVTaAv9W+r/jhuCJfeikmF1Nn/D0S1P35IwDSuqSiASEkDTL+rQYBjOCyt1iVVaMvijEmzEIqi/dojy/ZZmo0NM8wj4VYrgP/uin5iUJbOuO//TKFgce5nYeiJ5yzh7sSTiLbx/5B4i0qJs/OM2HMKU=;Hu0H8ab3SqbaA0glXmk00Q=="
 ---

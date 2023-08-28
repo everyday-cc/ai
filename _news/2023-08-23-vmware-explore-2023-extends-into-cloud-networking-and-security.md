@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 806
         height: 524
         isCached: true
-  - title: "VMware works with Nvidia to deliver generative AI cloud"
-    excerpt: "Dell and HP and Lenovo have built new hardware to support the VMware platform. Nvidia AI-ready servers include the Dell PowerEdge R760xa, HPE ProLiant Gen11 servers for VMware Private AI Foundation with Nvidia, and Lenovo ThinkSystem SR675 V3."
-    publishedDateTime: 2023-08-23T07:45:00Z
-    webUrl: "https://www.computerweekly.com/news/366549266/VMware-works-with-Nvidia-to-deliver-generative-AI-cloud"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "WcTGIdT5GptY8tKwWHOzh9OTGZKsbx1JjprIS2ruC65+ZP0ZdnNlsk/kWkx8JgpimhY7qggeJ7Z5nmovE77MLfi2TWfEAnfoQhk9rVgXQN73NxRsDZKxfP13PGiFqPWcaHJEbraLZWSBamRfPUSEi8u6PbplcNIB0LPy4m4fwcMW0gaXfyzztpwNXx9b1y4JAtXPQ3zkrDheDP40ltJRrvNlOrzrS0OLeIS5rx2MT97K3lPS0sQuaWEfAkMzxe7V2YuADl7BY7hCi44ImWk8W2zmN2wNJ8/kgxcLcO/sxwV9yRhdy9MUp+XhqiepnDIsKF1+JQYimWtWvKjS8NL4SMECRH038cSysV4/rk2l4kiAuRgnHIuOXS/sW3/bOXEG+FMHlwqfvL7HmYaCFR9Oxp3yzN2+V+ck9nJsKxoLaJiZNkl9pWvlvheZGQS6eD8CoIPa2quY6iFGC8NDglwHpEqTjhwz8g57mnWu1ckNAz20/uIOjnc20PIHHgRDYPgcYrAZxqNX2VN0ERCMy+yqzg==;mRxHC0G/qyROccwYwkR1BA=="
 ---

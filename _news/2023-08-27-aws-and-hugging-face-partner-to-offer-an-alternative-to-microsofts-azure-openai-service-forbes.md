@@ -35,20 +35,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 105
-  - title: "Microsoft May Bring AI Capabilities to Paint, Photos, and Other Windows 11 Apps"
-    excerpt: "The tech giant has been adding AI to its products and services for a long time ... improve the quality of voice recordings or podcasts. And the ability to translate text from one language to another could be used to communicate with people who speak ..."
-    publishedDateTime: 2023-08-23T07:47:00Z
-    webUrl: "https://www.gizmochina.com/2023/08/23/windows-11-paint-photos-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 82
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/windows-11-paint-photos-artificial-intelligence.png"
-        width: 2473
-        height: 1795
-        isCached: true
   - title: "Microsoft unveils blueprint for India on AI governance"
     excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
     publishedDateTime: 2023-08-25T11:22:00Z

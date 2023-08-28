@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI: the Rising Kid on the Start-up Block"
-    excerpt: "The AI ecosystem in the country is a flourishing one, with reports stating that more than 4226 startups exist in the space in the country alone. Nasscom, in its recent report revealed that over 60 active start-ups existed in the generative AI section in ..."
-    publishedDateTime: 2023-08-23T07:39:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/generative-ai-the-rising-kid-on-the-start-up-block/457891"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1692775850-Hithere2.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Five Use Cases For Generative AI: Creativity, Coding And Beyond"
     excerpt: "This simple design has led to generative AI, one of the most transformational technological advances since electricity. I’ll delve into five use cases of generative AI I find most intriguing and impactful: generative writing,"
     publishedDateTime: 2023-08-23T12:14:00Z

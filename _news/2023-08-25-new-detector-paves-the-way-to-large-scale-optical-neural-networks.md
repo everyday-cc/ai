@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-detector-paves-large-scale-optic
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-detector-paves-large-scale-optical-neural.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 1746
     isCached: true
+
+related:
+  - title: "1000 Times Faster Processing: Innovative Detector for Large-Scale Optical Neural Networks"
+    excerpt: "Faster, energy-efficient diffractive ONN could be used for image and video processing. For the first time, researchers have harnessed the power of a surface normal nonlinear photodetector (SNPD) to improve the speed and energy efficiency of a diffractive optical neural network (ONN)."
+    publishedDateTime: 2023-08-27T00:07:00Z
+    webUrl: "https://scitechdaily.com/1000-times-faster-processing-innovative-detector-for-large-scale-optical-neural-networks/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 10
 
 secured: "oQF+5atvJA1l3r1ht7L63GYZBxrhN99H4A70ef/tx3sisNgOEWtvvKS37RXsOogv/qlY7j1ZJzsEigc5yM+0JzsuNQp8pcEkW1DXb2qJ9jtWCHRY+N+HwvqMMdPC/6y67zcu01QKnPgdHr/Q5ZY3gjjuzoIO+/EAG2MiLebVUMnF+6C50j0kHQNsq3XFQ/IOd6VpzDysBPL3QZ8bXYfS8qvh26NSbb3rqF+BaxV7Flno1KFu0j7vET3gI+JUdFh9z10rlfiFWrn7vbOb/sxjLgUw2TUeIQZ4QX8e2KQMDCh+WQ1wHt9DAX3/wQZ1HXueYbSw4s/fptDQd+P4ZnH9zsL6BSC3CvCYVNVDBm/fz+vki5La106ditiQ5Ikb3iE5x/mWDv/FaNjcWLZdLmInHeIz04zhAUWgRlihDSZOPJWYR2jv9qdqBKDOVB7Z4FbkLIUZXpWRYLguVyd7+7FfMiufYrU1HxMrLAWis+5weRW5b13DNvabKR7ZHUPGkxswA7H7xlUZN+2NUQ8ngVt52A==;fvVy/iCeaoddtLTwO8GSUQ=="
 ---

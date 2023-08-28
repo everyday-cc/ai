@@ -158,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 215,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -347,8 +347,8 @@
       "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
       "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
-      "originalUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "webUrl": "https://www.newsobserver.com/press-releases/article278479764.html",
+      "originalUrl": "https://www.newsobserver.com/press-releases/article278479764.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -358,11 +358,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T06:16:00-07:00",
+      "publishedDateTime": "2023-08-22T05:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "San Francisco drives tech; will it drive away robot taxis?"
-excerpt: "SAN FRANCISCO (Reuters) -San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General Motors ..."
-publishedDateTime: 2023-08-07T11:07:00Z
-originalUrl: "https://www.aol.co.uk/news/san-francisco-drives-tech-drive-101320740.html"
-webUrl: "https://www.aol.co.uk/news/san-francisco-drives-tech-drive-101320740.html"
+excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ..."
+publishedDateTime: 2023-08-07T00:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0"
+webUrl: "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0"
 type: article
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "mUHTbUocguon4+qdPhistARkGKwxnWELeOxXvwyLMmrYJJ9oPnsqB56M1lgXD1q6qPW2V6Ja3OD8Aa/gtrenhKBDthDH+yDcKbT1SYZJ6ni0DkEcJxRaovqXfxcvDgEQZiBnqeomISDS0V/z4TePjyZuDIPQWlVSE4gSJtJn+OdSUcMtjdK6E68+zU8hTm2+60ipzUJ4J5PA03hAcBjzDL50inNO4FE+i9m+1rkbXzA1HgSveaDiGfLqFk3iTTai0HVSkFgRPrIhUpEIIJQ+X6Mq00Pls7oPRN+riEBaf7gzRXvDeEPnvWPTwrLP//tIJo5ttmpRbK8Pntire67T2c1N3LS8lRWahKbBRnExAMY=;in6rn4dGReJSpXNJM1Z4Hw=="
+secured: "NykFBiLMpHxtpBih/nuQ33FnDGjUhMD6qR6DNBIPh5xptt1lKnTTIjhgylvAn0nVDCuO5y/O8MO5Ag0vC5M0q0RvnQDxSJ5uP6fpK+ZAhuyRlgcCEadkohO+XJyleX75uohjTBDPh+8xdMdroUsTHptRVz0Li4R+sjIn1sPxcrHBzE480tQCSOzKfutqQOx6M2HioOAGXm8I8cFP2U95CW75RGgHSYFjD8D858sF5mpM6Rg4SMh8ZN4Jw+tTZac98WnCHfOf+DaW4ygMV1FvEZT4Vi4Y+ORao9lXLhMgwUCJlGfhCdu7R8VOW0RSheRNHb6lQ2SEPMPPCnj3pkUG7E6H6VPalBTLxsOIYmfzx3Y=;RP0g7HwNzJ9gfNJu/31rgg=="
 ---
 

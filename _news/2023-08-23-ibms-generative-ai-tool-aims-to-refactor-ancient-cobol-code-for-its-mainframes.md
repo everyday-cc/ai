@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 888
         isCached: true
-  - title: "IBM is making an AI assistant to modernise old COBAL code"
-    excerpt: "The watsonx AI model aims to help developers update COBOL code, while IBM is selling The Weather Company to an investment firm. IBM has unveiled its latest generative AI creation, which is designed to translate COBOL code to Java and enhance developer ..."
-    publishedDateTime: 2023-08-23T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ibm-ai-cobol-code-assistant-watsonx"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_400584931_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "PKtIW/3tuV0IpK0EmoIVFs6jUtHl298wW1gWn2nJSlEJpprRqHGX6PbuThzgwScIaZACp5h/bQWqObQ/c9ZEl26NoLNjETX8TUhyJyUtkY6JoqGRwujRrzQMW3ZJtgTICeKszQ3wkqH+U7XBNcVDIL6oe14wb5/LyIHYVQ40+IunMIuu76rsILkU3rTAwIkR/kT5bRIqtTcZFg5y5sGQiMUVSP9lOZSa8vlIAANSJQ6K9y0XsShHiTaXffw9fBzCH5l53ncqJ7UwDwLW8BHgZ7aTUVBW3m6Ty4KbZllWmVq0cYPTZka92txT+XTRsHrWMCvWjHJ7ZTdwPKEWX3wQvq/MpBKn/oZ3tNfhsJ0XE/k=;aOiaZVU/LITOhKlVp2I+Ag=="
 ---

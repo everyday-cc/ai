@@ -56,22 +56,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 79
-  - title: "Nvidia Said To Be Tripling Production of World's Hottest AI Chip for 2024 — But Will Supply Chain Snags Bite?"
-    excerpt: "Nvidia aims to deliver between 1.5 million and 2 million units of its H100 chip in 2024 This ambitious plan marks a substantial leap from the 500,000 units anticipated this year Shipments of servers for training AI algorithms are projected to triple in the ..."
-    publishedDateTime: 2023-08-23T07:26:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33998198/nvidia-said-to-be-tripling-production-of-worlds-hottest-ai-chip-for-2024-but-will-supply-chain-snags"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33998198"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33998198"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Taipei,,Taiwan,On,June,1,,2023,:,Jen-hsun,Huang,(jensen.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
     excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
     publishedDateTime: 2023-08-23T22:57:00Z

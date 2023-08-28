@@ -85,15 +85,6 @@ related:
         width: 806
         height: 524
         isCached: true
-  - title: "VMware works with Nvidia to deliver generative AI cloud"
-    excerpt: "Dell and HP and Lenovo have built new hardware to support the VMware platform. Nvidia AI-ready servers include the Dell PowerEdge R760xa, HPE ProLiant Gen11 servers for VMware Private AI Foundation with Nvidia, and Lenovo ThinkSystem SR675 V3."
-    publishedDateTime: 2023-08-23T07:45:00Z
-    webUrl: "https://www.computerweekly.com/news/366549266/VMware-works-with-Nvidia-to-deliver-generative-AI-cloud"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "KjgfLDT3jB9TT8edN+fi5IF68tGJh3KhXsHymBqklTzdiWrVI01yuNIffzk8YqzqbAgvjYH4W9u/mlCXQEjb5934flZ4gP1BcK83zithx/bSxnGCMCpSf7bWu/CZrU3L7hBYVt1T6EQDJ+iLtKupgDB3DKcFhuGHg1rVKb7SjyHiGdmMCuqdtwd0KonCYHErMRQuNgWw9r0WFXmzBmu/O9XxTaVpXNKptUrNwZ6ML/9RVoQcRHPCJtnDNELtILXAzGOhol2Dcsck/KBKylD4i0aHPC4IAYvPaukqYnm/rKphBNNmXEr/Jj2TawY1u0ET8mnJtmeAi6aaT4Gr4YqkNFkmK/6lr+ShqxqtZc6HOCM=;rbdf/GKNehH1YYRDNLXp5Q=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
+    excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
+    publishedDateTime: 2023-08-28T01:08:00Z
+    webUrl: "https://thethaiger.com/world/news/1412/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 22
+    images:
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/luca-bravo-TaCk3NspYe0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
     publishedDateTime: 2023-08-24T19:03:00Z

@@ -57,22 +57,6 @@ related:
         width: 4000
         height: 4000
         isCached: true
-  - title: "Breaking Language Barriers with SeamlessM4T: META's New Multimodal AI can Translate Over 100 Languages"
-    excerpt: "META introduces SeamlessM4T, a revolutionary multimodal AI model for speech and text translations in up to 100 languages, pushing boundaries in universal language translation., Technology & Science News,"
-    publishedDateTime: 2023-08-23T07:12:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/breaking-language-barriers-with-seamlessm4t-metas-new-multimodal-ai-can-translate-over-100-languages-article-102973423/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 58
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102973423,updatedat-1692774727385,width-1280,height-720,resizemode-75/102973423.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
     excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
     publishedDateTime: 2023-08-25T09:07:00Z
