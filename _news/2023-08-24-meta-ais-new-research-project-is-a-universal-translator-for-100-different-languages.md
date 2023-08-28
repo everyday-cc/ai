@@ -82,6 +82,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
+    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
+    publishedDateTime: 2023-08-28T09:51:00Z
+    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "fETwNQYYGyLvZlaaWJjWbeuWxCkdTXg4D4sgwWs+fvyeJOUUCixqH6/UNb8z0aoSPBDjRUj+9U0f4b7O7aETGk2YboUAY0Kg7he6o58LJ1vPDuCsR6wmUyGeOHkAsa+FxoH+ZlIlo/VFbM1Fzdym7o3kPeLss9NocfXJ/Te5AMwDmiR+nCFMsuY5v9emhvpPZaaqXhe4m5phRxXgvorLu4Qf1j+x95HDO2XulDgwj4XQuNAomAljaNaK1JXuUlP2gCvdQWyL4m6qMljRkb/9/JFNmHTzXyd+XrhNiv9nkMl7QdTnhEeYGrm7c113sR+++jx5vvQr9/u0+PgFqvMeZMtxULA4NbE17caPD99NeSCOH8ldpwgYVK1050ImUe0qk3twPsqmkwzprmkHYE53uQQNNlbk3uSepbnLXnBCOE9RJ9PLTMHTimz0xtqilJUbK55z4e7+WD5sDN2JfdyuCcBxjpOf2Ud64oX6ecQDTAc7FLzoDhE09NIHij7m+bX0VDqfXnLf9YheRnjND/ZSQA==;OcFCL/pOgZBJqlGlxCe1gg=="
 ---

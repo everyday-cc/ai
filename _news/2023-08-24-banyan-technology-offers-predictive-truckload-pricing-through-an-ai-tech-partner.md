@@ -24,17 +24,6 @@ images:
     height: 758
     isCached: true
 
-related:
-  - title: "Exploring the Influence of Artificial Intelligence on Consumer Technology"
-    excerpt: "Artificial intelligence (AI) has ushered in a transformative era across numerous sectors, and the realm of consumer technology is no exception. From virtual assistants capable of arranging appointments to tailored recommendations aligned with individual preferences,"
-    publishedDateTime: 2023-08-23T17:03:00Z
-    webUrl: "https://techbullion.com/exploring-the-influence-of-artificial-intelligence-on-consumer-technology/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 16
-
 secured: "eUMP9Zr/3CpL4su+mt97wrcpfyys6MNv1b8BlJWINon4SmEeFMCZdEg4jX2V2z5UO+U9WMqcFL3Njnk2Ylb8aQXWTIt0Wot5oWEhY3pA4bDtUHGo8fxMgrjD9owGTIvXpU0vOLdg8pK5HrezNw8RbhYZ8ZPdfYco8qiUrLlEWNidubzOW3CsGTjaJ20Wbznipfee89Rkweq9KUqwHYgAhLNN80nFd31UkBehvTyxy+eKwV7Xdi/eLMd5LowWUcscVtLcsrbKps7a5CFKvOu+giwJGceVlj9egP61rMobPQDg6l3QMqjqqeP+aIb5vlfjbIUCD0ryRIa/SeF1ETsjEl7zMHnkkbSJb6RaQVqLlVY=;82NJvmENlCl3wcTy71AzoQ=="
 ---
 

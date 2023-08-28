@@ -110,29 +110,6 @@ related:
         width: 3584
         height: 2048
         isCached: true
-  - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
-    publishedDateTime: 2023-08-23T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-08-23T16:41:00Z
-    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "0E8QFK36xDCbQT0pPuRea/KyEocChScSVpGtPfH/NLJQeel5L8iMRJ3a7MsiIpvVxracUnFjstKi2i7pt43l2rWIgUP2MwjEJHui4VVCt4AghpIj4KKiEUTQn0VhivZlCDxl52Yi4oRSRbSDN9msQwLPfnC98ubHFdTqIz+36pdg8XtgJoPBR3iB6w6cBFbROwe6C9Eix1FsRrmyxOyXPZLssGTwWKX1o4OT1MCaxD9LlROBhp8FwaMS1hSOCN2cq87uh1U+TeSHefjeuy/AYaIcCwUuZyL0TwdUSW6wBRtISyTwh7Qge6A2CT94DUXzynPH3E/E8kscgN66BJqPNZ0kJbXzWxVMJQddrJwP2nA=;qvn+1mvcN5VYoJvIxFZ7JA=="
 ---

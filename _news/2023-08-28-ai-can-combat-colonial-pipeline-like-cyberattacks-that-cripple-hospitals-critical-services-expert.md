@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cybe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "/1W+Oin+LSoeb5W7psTNAFII+rFm9V3h5czESaZPK9WSHfVLMUqRWr1SG23aox9ftcyqdLiKkdfFMGDLxWPXfeS6j0MtIlqnaWydQncJ6McesGS21EzZJShrIoxfxePbdX+AILlhrgHtLTtus5XH2lnte/ScOczPXeEwXoEV2YOzXOwkZK44Nn94lwW0aw6NilX6eHEpWibE/7HHjfcAQFYV0ftlBjzQq56dv1juxY6kLmqfZvMLJi8NGX9ZQP1lm+f5+b/nzCWWwUlqYLqjhYlbIU4iz2YQ7qhd/W1vSv6YvMrgz9RijGrJVpXvWgHaP5kNgHeCGGvKAgLtIfK8nbNRI7DeY37RMjHYd5YCDbE=;kfQbhRq+yoVp6/BaNm7MHA=="
+secured: "SZFXMdwYffsfKOfFPaKgzXHXhWwKwRb1AeFT3iK1x4EXZF1OKgsTYRXFZKpgeXvG/PGBUZCgkXOx+LpVgaa8es0wkj9m//XNSBq69CFTaZdBfRRKhpM0unvy0QqDq21O6XrtanhVNDC3Uh3RCy4+xlL2vstQjLhXrsgSkLRfqMspaLjEq4CfWEQGeOGxvrUMMTizl82+wsUpOr3xXQECAV9GVf3Nr+BiMmXRkzVcZmjyrrU6TBGJ7LlphqHmdjo7C4Kxg6ZqT+xFfDrVXmsjP8dMr26OdCagZJ1EElKK44CoaZlb4BjeMML4Cn0ScRKjb2M2lMDbbqjGMtKRS9MHiDW7yWdGfeVKR0SrKoFA7Xt/YjcW10nQbxTCmehF16+cUnIYTArc/NAdJ5YyXmNcSrwBpWPnFJ3V93kwzFRoOEZF3MWg5/svUKxi8n3Lte4TzueZtOKFZINBySxJSozijx5YTDL9GJq1OtuztTAkYLETj0kmj+l48UP39ZkBF2TI0tXOHk3YXDEjOblUfaLJBg==;mYyh70VVGHTSb4zoOUFVJg=="
 ---
 

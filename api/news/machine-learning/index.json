@@ -91,13 +91,13 @@
     {
       "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
       "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
-      "excerpt": "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words.",
+      "excerpt": "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com",
+      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=archive",
+      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=archive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -111,8 +111,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp",
+      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
       "publishedDateTime": "2023-08-25T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1073,6 +1073,42 @@
       ]
     },
     {
+      "path": "_news/2023-08-15-enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term-cyberthreats-isg-study-finds.md",
+      "title": "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds",
+      "excerpt": "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/08/15/9864941.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/08/15/9864941.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution.md",
       "title": "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution",
       "excerpt": "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l",
@@ -1322,49 +1358,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-now-study-machine-learning-cloud-computing-ai-at-aktu.md",
-      "title": "Now, study machine learning, cloud computing, AI at AKTU",
-      "excerpt": "Lucknow: APJ Abdul Kalam Technical University (AKTU) will offer students certificate courses cum summer internships in machine learning (ML), cloud co.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/articleshow/102666665.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/articleshow/102666665.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms",
-      "publishedDateTime": "2023-08-11T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

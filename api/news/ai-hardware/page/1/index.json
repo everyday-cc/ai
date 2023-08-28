@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-27-this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring.md",
-      "title": "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring",
-      "excerpt": "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer.",
+      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
+      "title": "The 34 most promising AI startups of 2023, according to top VCs",
+      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
-      "originalUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
+      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-841956/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T07:00:00-07:00",
+      "publishedDateTime": "2023-08-28T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -307,6 +308,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-25-for-nvidia-its-ai-or-bust-as-it-reports-a-record-breaking-quarter.md",
+      "title": "For Nvidia, it’s AI or bust as it reports a record-breaking quarter",
+      "excerpt": "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/",
+      "publishedDateTime": "2023-08-24T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-3-millionaire-maker-ai-chip-stocks-to-hold-through-thick-and-thin.md",
       "title": "3 Millionaire-Maker AI Chip Stocks to Hold Through Thick and Thin",
       "excerpt": "When it comes to AI chip stocks, there are plenty of imitators. As a result, it makes it very difficult to know which ones to buy and hold through thick and thin. Some AI chip stocks are easy to identify as millionaire makers. The leader of the pack is Nvidia (NASDAQ: NVDA ).",
@@ -349,7 +402,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -486,50 +539,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence.md",
-      "title": "AI boom drives chip sales for Nvidia, which has substantial Triangle presence",
-      "excerpt": "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/",
-      "originalUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1",
-      "publishedDateTime": "2023-08-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     },
     {

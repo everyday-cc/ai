@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aw
 webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
 type: article
 quality: 54
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -98,6 +98,29 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFkOGU3NjItYzEyZC00/0/h-e-omarsultanalolamaduringmousigning-3-jpg.jpeg?f=3%3A2"
         width: 826
         height: 551
+        isCached: true
+  - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
+    excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
+    publishedDateTime: 2023-08-25T13:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "Epic looks to accelerate generative AI offerings"
+    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
+    publishedDateTime: 2023-08-23T20:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
     excerpt: "(MENAFN- Weber Shandwick) Dubai, 24 August 2023: The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and ..."

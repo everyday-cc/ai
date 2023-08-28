@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-ye
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
+    publishedDateTime: 2023-08-25T17:18:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/bravo3-ann-square.jpeg"
+        width: 700
+        height: 700
+        isCached: true
   - title: "Artificial Intelligence Gives Paralyzed Woman Her Voice Back"
     excerpt: "A brain-computer interface translates neural signals of a woman who is unable to speak, not only into text on a screen but into audible speech using a digital avatar."
     publishedDateTime: 2023-08-23T22:32:00Z

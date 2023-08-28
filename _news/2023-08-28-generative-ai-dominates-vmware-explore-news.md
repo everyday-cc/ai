@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here's a better problem - generative AI detecting humans"
+    excerpt: "AI-generated content is starting to pollute the Internet, businesses and schools at an unprecedented scale. In some cases, it may be easier to detect human text than flagging generative AI content. At the very least, they could complement one another."
+    publishedDateTime: 2023-08-24T09:42:00Z
+    webUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans"
+    ampWebUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/hacker-2883630_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Multicloud and generative AI announcements signal new chapter in VMware’s evolution"
     excerpt: "Part of VMware’s message is that in the new reality that encompasses generative AI for the enterprise and a desire to operate in multiple clouds, finding people with the skillset to handle a diverse infrastructure can be a challenge. The company is focused on making this a simpler proposition for customers."
     publishedDateTime: 2023-08-25T14:24:00Z

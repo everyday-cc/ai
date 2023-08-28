@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34016647"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34016647"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -26,6 +26,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Corporate AI Legal Policies Race to Keep Up With Technology"
+    excerpt: "When ChatGPT burst onto the scene last year, in-house lawyers had to scramble to figure out how to govern the use of new generative AI tools, and decide who would take charge of those decisions."
+    publishedDateTime: 2023-08-28T09:00:00Z
+    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/corporate-ai-legal-policies-race-to-keep-up-with-technology"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/e9bea9c/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fb8%2Fc0%2F88a95cf44c60bc7d08ce823472e5%2Fgettyimages-1258305599.jpg"
+        width: 1920
+        height: 740
+        isCached: true
 
 secured: "Ff5MuxtAW5YXtGIt+n1vPA7LaFFCjPwXrzxPx+uMvsJDyjjiN2eDnSn+YrTHcb7ZBazPKbqeSgBL+tSYZ04Tf+7NT6NJQR5ZnqeRxwrDjWd4EYiF53gfBueXGI+XDDjRlVn6GIne1hOynhq4SuerwhxwuGnBFw2T3bVruAnq9l+J8oVJJfSFDfBtvWcY94ohjVYUakNjdpyCJ8FEm+Tv+eVsJAzdBaUFkisodGsU73aboKSazDzkCnhZzgt7jktC6/tL3Om1BXojpwUPTOcZveP1Hr5Sj4dgTIzsgwpTv2FRO8y43rDXQDBvmoGI7nOYZ0ZU2yjWn1qh4Kdbp4mb1TJ87jNQ2utdR15FNns4kFs=;hQj4yrR0e0yLHSmoQB6gSw=="
 ---

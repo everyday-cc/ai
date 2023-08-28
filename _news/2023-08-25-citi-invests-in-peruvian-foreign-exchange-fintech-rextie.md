@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Beams Fintech Fund Invests in India’s Leading Debt Collections SaaS Platform Credgenics"
+    excerpt: "Business Wire India Beams Fintech Fund, India’s first Growth Stage Fintech Fund, has invested an undisclosed amount in a Series B round of USD 50"
+    publishedDateTime: 2023-08-28T09:12:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/28/dcm21-beams-fintech-fund.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/28/dcm21-beams-fintech-fund.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/28/dcm21-beams-fintech-fund.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
+
 secured: "NPNGS6FbT3f1Lo26Sn6R5Lzbmi4PbGAtMHsqVP34XbxqsB6RJQf1L37nTYUc+pZg0y222Cp2JD7wDDcVw9oJRYc6t4Mq8nW8DEUWoXgcxIACVAP/7wsASFEuZR8nrj9uvOvpcU6yeBDORmrzZ0WvsydlFX11Xwy01L3hgJ9lilXSURtjdz90+7P3MrEdsEcZC4UUmOEbXb+5mNEmv5zkZ3KNZoFO4hAo56XLbSt3V6uhL/RU9o1muETsIB7jQ/1udTbDb1yCKAZoz24eRtTl+RBNVGOKqgfMC5iMT2fOWGizVJp3tn2AhkWDPVcVGltj5d9/li+ujar3vR6A01lDB8mwDD8VBHyfurg0PAjswi/hpPVFbzckK9g2vS/9HqpYnScM15wUvSx6HPpLiFk+uxyEQKq5lv176GoCbogsSJbe9Y9NTxZ1amTujkQBPKm2NcoylUM/VLUvkvGW4CQjQnoP2M7dRB5y7UzIj7uLKagis3//hR6MCsIMvErzdCCp0/ZWuyDCGgyJ9r168ZGT7Q==;HkDfWmiub0iwSN8kBJJ7AQ=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Artificial Intelligence and USBs Drive 8% Rise in Cyber-Attacks"
-    excerpt: "The report highlights the fusion of advanced artificial intelligence (AI) technology with traditional tools like USB devices used for disruptive cyber-attacks. It also uncovers a rise in ransomware attacks in the first half of 2023, introducing new ransomware groups to the scene."
-    publishedDateTime: 2023-08-23T15:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-usbs-drive-rise-cyber-attacks/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "JMITiP8UWU2mEhRTzZlHijFCloD5+p3MYpkWGYoPuTtQ5Jw9zlH/V/lBdAfxndfnlrRNmlgNF/SCeMN0yOH+bo/va5QkbBnRsYZ6qxmAl8TJmNkuOsIm90gvlH7Ut9p/vVf2xgZIdKWk+TmuzzDmLlsA4pgh0qaJ0MwTOdl38Z7vZHYMI/D1jGXzV/Weg4titvHsWKTONPZJExib3YtHzK/kdUYB6YqE0oT8jl8ASFr9i615Zm+99GHeo0sFp7ldZKsWQ/rfRO2MbFUyqT9r5Q0fPTT0YAAolBK+8u9mic/3JVBCgMZeQDVMj8OAw4T9UH587xdiXi3yDjTryrpzv8euDKOhe2AluCiTnXvTbMI=;QHD93aZYixbmqMeRH6HkQw=="
 ---

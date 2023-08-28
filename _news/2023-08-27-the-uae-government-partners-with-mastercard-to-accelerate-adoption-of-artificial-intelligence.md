@@ -106,6 +106,29 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
+    excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
+    publishedDateTime: 2023-08-25T13:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "Epic looks to accelerate generative AI offerings"
+    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
+    publishedDateTime: 2023-08-23T20:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "wZUxj4Cv5OU75rP7LCQ4N8n81ubXNTSaC340JDAz0IukPyhtSO8GwvjK+DgZDBns0RjtKeZql5WxESTvT9JyOePPG1PToEPE8GpbCrgbXnQtg9n+xCHWC81t1M9jzOoGh7mCLkpooAesqzONvGc5K1fU80YIv84p6CctxYjGlUxePSwEwdfAb4Bv4IT3rN05oSc1a0kGuRFZy4BUhIkZV4Jyxd+PuJYiCMvOSP87CMBT22ovh3xrQeqsdfm6ysnIb4ExWoK6xosMelzIyYtat4PVmLb9tRmstZR9LrCacecotoUqBw3WptAq2EpD/NFLUOx9r1XtlfGhfl78AdAE5Xvfes4K2Q1mNqcUHjEqk8pcRWVqvIrnu9bvhpnNqPs2LUf9OQm2OeKwNYvjKgc2Yawu3ngTvv6+ryjZhfNSZs+7HM/JmodGdZ3LFia90p/jPk7Ges2kxp79fVtyBjYRNs+GFt5X3NAH9h98oEr/sAmn1h8RHp6TWQ17SfBWFnMg0kkbCeKT9KIh+o2xiHJpgQ==;kJ27up4Uzf4Xt0x1OP+NJg=="
 ---

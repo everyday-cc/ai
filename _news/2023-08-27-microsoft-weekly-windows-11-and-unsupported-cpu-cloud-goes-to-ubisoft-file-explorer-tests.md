@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupport
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
 type: article
 quality: 78
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -113,29 +113,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
         width: 3584
         height: 2048
-        isCached: true
-  - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
-    publishedDateTime: 2023-08-23T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-08-23T16:41:00Z
-    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
-        width: 1920
-        height: 960
         isCached: true
 
 secured: "MzM91JXsl2B4G+KwITDhn3ioNqZ21CB6C+OX99bKY3/9VX7kFgN1OZ89xyPstuA0jzsLipRJO8CN8q1oqxii1UnjI3CjuvPoLbETve/Wl0NZTh46udMwoDF+JkbVYsyFJo4+gAPFCvvUpWCTi7MgNreXKtKaBta9eO7PmMo9Dg0Jj0ZcPZ4BuA1mmQs4Ik+SsO2dd5yc7u7QN/NfdlDDQhPoAZsFEi0J3pLHpLVyXzdI/vZPeDH2ZkOKna9N6G0PWCDA5sVFuoxYRxe245a0suReNzVBqHzz9DbrMC2yXXNB+YFWek8W0aALSU2MNZ1eW/6Hy3aoNeF3QSZZmKe596l+UUfCDS94FAwrx2vsykgQ6b+o2IljGaCoK8rQf3WJnsknaWkfB2foPrvprwPxX4VbO/x4GAtDLLQhaThJaJgAQdNQl6U5MlKXHOL5tqasHSRtjkwIwi8mHky0Y7quVIYV5Ww40VsNBFhorT3ef2RstwZK/Tvn8UUDnyeuCth+gxmALtAVjL/Lf4FkFDgCUw==;YHvXVKGq960QOJUsU3s4cQ=="

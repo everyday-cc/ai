@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's a better problem - generative AI detecting humans"
+    excerpt: "AI-generated content is starting to pollute the Internet, businesses and schools at an unprecedented scale. In some cases, it may be easier to detect human text than flagging generative AI content. At the very least, they could complement one another."
+    publishedDateTime: 2023-08-24T09:42:00Z
+    webUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans"
+    ampWebUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/hacker-2883630_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Generative AI dominates VMware Explore news"
     excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
     publishedDateTime: 2023-08-27T21:35:00Z

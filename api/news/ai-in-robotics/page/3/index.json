@@ -2,35 +2,26 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-08-07-toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv.md",
-      "title": "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV",
-      "excerpt": "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China.",
+      "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
+      "title": "San Francisco drives tech; will it drive away robot taxis?",
+      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
-      "originalUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
+      "webUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
+      "originalUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/src/image/2023/08/30096746559173.jpg",
-          "width": 770,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T00:23:00-07:00",
+      "publishedDateTime": "2023-08-06T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +31,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

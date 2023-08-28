@@ -80,20 +80,6 @@ related:
         height: 1707
         isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
-    publishedDateTime: 2023-08-23T16:11:00Z
-    webUrl: "https://jweekly.com/2023/08/23/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
-    type: article
-    provider:
-      name: Jweekly.com
-      domain: jweekly.com
-    quality: 11
-    images:
-      - url: "https://jweekly.com/wp-content/uploads/2023/08/20210408_BaxTowner_Cruise_CamA_NEIGHBORHOOD_700848.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
     publishedDateTime: 2023-08-24T19:03:00Z
     webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"

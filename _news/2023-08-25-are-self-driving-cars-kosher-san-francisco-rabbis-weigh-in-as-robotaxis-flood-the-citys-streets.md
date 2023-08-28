@@ -81,20 +81,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "Is it kosher to hail a self-driving Cruise or Waymo on Shabbat in San Francisco? Short answer: No. Long answer: It's complicated."
-    publishedDateTime: 2023-08-23T16:11:00Z
-    webUrl: "https://jweekly.com/2023/08/23/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
-    type: article
-    provider:
-      name: Jweekly.com
-      domain: jweekly.com
-    quality: 11
-    images:
-      - url: "https://jweekly.com/wp-content/uploads/2023/08/20210408_BaxTowner_Cruise_CamA_NEIGHBORHOOD_700848.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cruise, the self-driving ride-sharing service from San Francisco"
     excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
     publishedDateTime: 2023-08-27T12:47:00Z

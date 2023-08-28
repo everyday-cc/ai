@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Dear Superintendents, Get Ready For the AI Guidance Revolution"
-    excerpt: "School counseling is undergoing its biggest transformation in a century, thanks to the deployment of AI guidance."
-    publishedDateTime: 2023-08-23T16:13:00Z
-    webUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinaybhaskara/2023/08/23/dear-superintendents-get-ready-for-the-ai-guidance-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dce896503cde930688000c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
     excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
@@ -113,20 +97,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
-    excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
-    publishedDateTime: 2023-08-23T15:52:00Z
-    webUrl: "https://neurosciencenews.com/ai-bci-voice-recreation-23810/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/08/bci-speech-vid.jpg"
-        width: 1344
-        height: 896
-        isCached: true
   - title: "Irreverent Labs, backed by Samsung Next, set to revolutionize video content creation with AI"
     excerpt: "Irreverent Labs announced today that it had received a strategic investment from Samsung Next, the venture capital arm of the South Korean tech giant."
     publishedDateTime: 2023-08-24T13:00:00Z

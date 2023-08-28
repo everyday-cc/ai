@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
+    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
+    publishedDateTime: 2023-08-28T09:51:00Z
+    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "7QxungvIOuiI1hBNz0V1SbMoRQY1GRuFGjw74O9eWJZHK1pwWVIDstSRtHvbEebMbhD/WY7jhpctzquRYQD78Ln1JYTzD7KaqsKMOUX8Ezr4LkQs0FNtzuK4sOivNTC71IzLueucRweJCqXfjtB/L4WF5lolRbSbTISYRw0UL0sDL1h6NlX/iq2xSDk7jiKeJvuwK4DAe/iFLT598YBtKAFWO1g1qX9fdqpPsDZIAZ0vN8OhwlvJJ+F5O5m+cSy00ZUUBzFCeelS/KgbqBzp3b3k/VrZtomOTcDMPwMa/WA1GNjFwCbOWL+cgKFyEsQe+czeHzX91Dxt8R8iVrFREpaI8Xmk2JyYoyR0ze+BNvuvecBItkgHPErQM1bF7qVYfgXzZebVpSDEQlmLo1cy5CgmYRL1Sa0cGV0uEAasLwJJ/L3b/f+PUGvqrW9FuRyckUfHxEmf6rNGXLiUQDcchd8cfk/p2LH5KehflsewNKDC1R8+61i4MlNtXrHsCDkHofVH30lmaWCfKQqhb5frsg==;FVHMDTNyFHSubJQ/eHf2gg=="
 ---

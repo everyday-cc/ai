@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
-excerpt: "NDAQ:III) Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
-publishedDateTime: 2023-08-15T15:46:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/08/15/enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term"
-webUrl: "https://stockhouse.com/news/press-releases/2023/08/15/enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term"
+excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
+publishedDateTime: 2023-08-15T15:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/15/9864941.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/15/9864941.htm"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -20,6 +17,6 @@ topics:
   - Machine Learning
   - AI in Security
 
-secured: "N+Ks6IMrcT/eMOzWuDf2FSkqB/UltVByPSH57AHtit/d/yzCDrYK0D61PP3RQahK/JlCLO5teEn/ImUQIit8J/hx251S4lcdf8Y0ISEi3c6Ybku3ycr+RUmpIG/3TDLQD431tehQpeGKg1dPh6eJpJOXmvMUeNJvJ7Ih50tC42ldXc6nhVullYDC1qwO4RK82bnsUm/4CjFIg4TDuAJ9mvjsBWb/SfW5Hr5SEFbyMCeoptN9FENUdALIEW3WS/rgNgknu5+lZa/d08RcV01RheTq4/95ak9ByZn4Sn80V+B3uasDyJzi2rDeEAyFaGJ97U8UsKYfDXyqPIrTDeypt+bu7Z2eUBL0PGp/6yIKBGc=;TXuq8gLlF3DT05K+UMYTaw=="
+secured: "i4HJOYqyxJNFpGpxWWqEsmscwLjZ7IManBquxNb7oI9jXLdfygsxI24NntLDdNZfYZnE3qhWT1QkRJREemJ8dB768yf7sJeMhRZBf5mU8Ans2Rs6NnOR1lyuivkK0nJNStjyMyvzQgDPNLYt9PfCwlKn55R16/NARJKSfUtSYJ1+F8Dgu+04oMATpPPyMWoDpX4ioSPIkYniqh7orVefKVjubc/5zcx78W6CMHAZhNoBRFsLQEVcf4ZrMq9zRKGVvwKMEAHZLQgMZBD+UbTc4F6Q3ciYfm7QQ/ldMAFcaUBEhDxuNCm10gRu4MJJg4H2zic5BuxJPkKPEILGb9Q0PqEXpBThrnosGPgY+uepQIg=;H1AcZln0ChWsIzN/83JvKQ=="
 ---
 

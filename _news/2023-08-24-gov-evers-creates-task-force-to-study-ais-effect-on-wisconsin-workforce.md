@@ -34,20 +34,6 @@ related:
         width: 1280
         height: 820
         isCached: true
-  - title: "Gov. Evers Signs Executive Order Creating Task Force on Workforce and Artificial Intelligence"
-    excerpt: "You'll get access to an ad-free website with a faster photo browser, free tickets to a host of events (including everything from Summerfest to the Florentine Opera), access to members-only tours, and a host of other benefits."
-    publishedDateTime: 2023-08-23T16:19:00Z
-    webUrl: "https://urbanmilwaukee.com/pressrelease/gov-evers-signs-executive-order-creating-task-force-on-workforce-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 28
-    images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2019/01/Tony-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Gov. Evers creates task force to study AI's affect on Wisconsin workforce"
     excerpt: "MADISON, Wis. (AP) — Wisconsin became the latest state Wednesday to launch a task force to study the affects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
     publishedDateTime: 2023-08-23T17:59:00Z
