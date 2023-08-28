@@ -56,22 +56,6 @@ related:
         width: 4000
         height: 4000
         isCached: true
-  - title: "Meta introduces multilingual speech translation model for 100 languages"
-    excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 44
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/05/7fd56ad9dd860cebbe0a1885f7320d93-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta AI's new research project is a \"universal translator\" for 100 different languages"
     excerpt: "Meta's new AI model holds the potential to underpin robust and efficient \"universal translation\" services in the future. Known as SeamlessM4T, this marks the first all-in-one"
     publishedDateTime: 2023-08-23T18:17:00Z

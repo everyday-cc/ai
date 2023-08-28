@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-dual-arm-robot-bimanual-tasks-si
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-dual-arm-robot-bimanual-tasks-simulation.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 2880
     height: 1920
     isCached: true
+
+related:
+  - title: "New dual-arm robot achieves bimanual tasks by learning from simulation"
+    excerpt: "An innovative bimanual robot displays tactile sensitivity close to human-level dexterity using AI to inform its actions."
+    publishedDateTime: 2023-08-24T19:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230824003859.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "yRr3+PbW8WIDOoOokzbJevH/yYVOQCFj6isx2hwu1IgNfa99hMaIcpUi5FsyVEP8CsRPQKWINtOdz5jKhTxmd43GWIkl6HAFUPBYXOBvTjf6XYRtC9Bu0f1ySVPKDIHAnjLYdfYqj+iFrk65vVeFJCI4CfT9Z7wGqlYqv9ZdTmam/XGCuJI8yZ8FQZ06Ib9i1YWVn7tgryTOjMgZutcd/EZHeuaZJaSogrsxZGby8HCIh81QbQEhk0xf2Gsnmr+oZMhig0aKOUBhBHxz7o16auk0RKUEe2nh7iFXtDpG7LokDvM40Me6J7uL6/limB58PynKBcQpRyTceDKudGLwCfibACyOMQBvGRVycwZS7eg=;eTyAND2czxtteXVI9n8/8g=="
 ---

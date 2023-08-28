@@ -268,6 +268,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Inside China’s underground market for high-end Nvidia AI chips"
+    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
+    publishedDateTime: 2023-08-27T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14936857"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 54
+    images:
+      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
     excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
     publishedDateTime: 2023-08-26T11:07:00Z
@@ -309,20 +323,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
-    excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-dominating-ai-chip-race-100003548.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 48
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/.K45FEz5EXgehTdhLI0YuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5fea31115bd0fc6cdf12cc4c7150984e"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
     excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
     publishedDateTime: 2023-08-26T11:00:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner forecasts AI chip revenue to top $53B"
-    excerpt: "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI."
-    publishedDateTime: 2023-08-23T11:01:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Global AI chip revenue to reach $53B in 2023"
     excerpt: "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023."
     publishedDateTime: 2023-08-23T23:34:00Z
@@ -53,15 +39,20 @@ related:
         width: 496
         height: 315
         isCached: true
-  - title: "Gartner: Revenue from AI chips climbs to 49B euros"
-    excerpt: "Dedicated processors for AI solutions and applications are increasingly in demand, Gartner market researchers have found. Worldwide sales from these types"
-    publishedDateTime: 2023-08-23T12:50:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/110440/gartner-revenue-from-ai-chips-climbs-to-49b-euros/"
+  - title: "Ai Chips Revenue To Hit $53Bn In 2023: Gartner"
+    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr"
+    publishedDateTime: 2023-08-28T03:55:00Z
+    webUrl: "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/27/DNE_16084image_story.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
     excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
     publishedDateTime: 2023-08-27T07:13:00Z

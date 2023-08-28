@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "No AI Can Learn the Art of Medicine"
-    excerpt: "Instead, a computer-generated AI voice informs her that she has high-grade serous ovarian cancer with metastasis. The platform then automatically redirects her to a line where a compassionate, AI voice explains the prognosis and her various treatment options based on the latest research."
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://time.com/6306922/artificial-intelligence-medicine-doctors/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1468430468.jpg?quality&#x3D;85"
-        width: 2945
-        height: 1018
-        isCached: true
 
 secured: "W70oFcjtep//LyO6yE+hH2t3K702eheyZwiV9vTZRMZm8VUEBojYQmPFF+zYmfD/gwtiEFcBjr4DdGVSXmQQg0a3m9JxYPUg8wVP7/Iyb4oi3V13thmslAaJFsrvqRf05is2j4dzi1lCaj0qW2/IsSKDPz19TQxmqQ68bdaYJus0CxL+JT3OA1i3hjTAJReVAuFn8QDejE15GiN9bHH5bXoboMH3lFNTgv0dF1kIeYwFZw5fvmjD3Qy/drzxQAmdhwfvgk8+jpMyF1WV2HSeybwheCKEdyDHm+mxRuRkcsuyRq7EI7LPC71Wgdg2OCv/mHZMV0ef+aYwQZIoiNCfG+oLKf9CUxreIEapkj6BQPvXTWCvmxXBIqw6KuHjjQMeyckXPC/ononnS9TT1JzetcdKbWIlPle89h/rC7jTbILmJ1SAADskb5Ay7YnD1tXW1W1sWMxcmiaKStajEk4hN2eXWCuWPlASNVKshdy6650jR2NGb4+59B2enPgNgirYWp+kuZM7msj5/9aXGX4ILA==;IZOkRYRGiDIiiHw7G+TlJQ=="
 ---

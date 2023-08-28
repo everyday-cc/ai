@@ -1,0 +1,42 @@
+---
+category: news
+title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
+excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
+publishedDateTime: 2023-08-28T03:07:00Z
+originalUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
+webUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
+ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
+type: article
+quality: 66
+heat: 76
+published: true
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
+    width: 1000
+    height: 667
+    isCached: true
+
+related:
+  - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
+    excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
+    publishedDateTime: 2023-08-26T17:48:00Z
+    webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 34
+
+secured: "wNHzsAJV2N6IexFi+Jxz1xeQkjLaHe+DyywQCtPtY0VHN3AHmJQ60wDzlG4OsaK8w6DSCoD0Dfwi5Pb3gzmnHXAHc7Y9QMDJBI2LiMlRTxjLiUwCtYIdRoffMUVphvlchKSjLXE+Z4zDnj/1oWJobYGvlKt0Ht+eieERlgfASUJKMg8UQLysnTQyiXQbzMFZuNIKRkK0RCeO1fg0KKDVXU965RoJuzlHTuyCSoztmEzSxMUcsVwQ5LDAPvkKcivf6boRyFZrhPEMukRnx3EmLLJqK+BNZkESTxfC46GHjYzqQNlfa7XLSHRRa/2mruuiqqPU2dsmNkAAZ7kE0ozPMtjSvUmRCdHrKANdh8K8hnE=;MMTFdxvVs6ow47XVNYlPyw=="
+---
+

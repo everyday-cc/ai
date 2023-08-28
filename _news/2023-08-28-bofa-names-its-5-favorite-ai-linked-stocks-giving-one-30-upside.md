@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-27T22:11:00Z
 originalUrl: "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html"
 webUrl: "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107286646-1692102538403-gettyimages-1589438908-caustic_01_v07_0004.jpeg?v=1693181476&w=1920&h=1080"
@@ -43,6 +44,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "nr//v+Q0AWqfciHzjCc+bRpKRVFeH/pbOfBYxdKMC+YXUu1BpdHASYPbDIne+yK1BBYOS55s9oSsMgL4sc4fjasq5F7mLtB/aiVvs4jLxZR6ncuKxyPXSC7UQRz00lM1sAs5nNqFEH/MQU6QJfteEYkiawT86jNcz8uuOIOpMWbT8w39ui7r7CXdO7B8pJtQ99PyWMx7KaQd8+1jJwLiOe4goBYpol24GnoC1PEcYVRSvoR6CKmTbsTO5n0QLQ3Xu+2qwXP5BLtY502w0EXjzpQuMgmSLdr4Kb2Ba76VCNs61c5ztl61bMSqiwmqX29PEx8PBK7l7UzGXDHNelS/+yZFSzcjnlZWgFVRP0PjFss=;0jgfz7Eiuj9CO79yGIbisQ=="
+secured: "RBXeOmtbY7qBhZiz/OBm9BNt8GnXW0rXhg7BD4a6Wq4ZCjeTflRKu8gT7w2cJ/tj3mtY1R8Iopn44WO81kLSFoQO2O8kVpNoIIy1HYbLoyRMVUaEVRud0cAIvKmQzlDbsfb5ZXB40Wla60VD6VTwLA5cBFfqn9oFCYioOaNCjO7jqp/CVppRb1DPtS7mEieyDZd4Vr596Pf+Fk05yBpY7AbYAO6IgplIjeibSY9lATbteXIFZMzn3cj/dshxaIiumcOJ4MgQyI2DOYFrfODjRl4fFP+8OU/s/sE+ViTUyUIZwEQfrL/WqW9KMKhhvfAdmsSBJ1SELB8UTIVRqhb1UnnlU1oejAq+TFhjIqCjGkN58MDRZQfeqxHdcZIq/SvwiasCIPhaMXNZKsW2aLWyddjzjPjll/aJCZ0Fp95jVOzjL6XPoLhKWG2MqZd65FU4QbPYBPXSuxvCcm1+i1I9z+lEuoAFvMWiQcKWaJADZBDiI3oCUqewb6SiCej2wMPf66pKX/DZ24ht8a27NO5+/A==;N57YPtCx/DqmGmFqvzZTRg=="
 ---
 

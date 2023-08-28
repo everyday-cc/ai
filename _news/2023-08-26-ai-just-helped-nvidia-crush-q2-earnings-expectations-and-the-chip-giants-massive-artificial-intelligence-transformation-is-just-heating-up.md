@@ -19,6 +19,17 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "Nvidia Soars on Blockbuster Q2 earnings: ETFs to Buy"
+    excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
+    publishedDateTime: 2023-08-24T15:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-soars-on-blockbuster-q2-earnings:-etfs-to-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+
 secured: "h1qa48zSg5z//SzrF2C5nTXSo9Hn/97BoEEiDZ//3hkH3R4G9qja76xu7Jtsz/bJecpkpUTbp92cAcXKqqN8XUr/0AVdxFYBBnkkSP5lWPmROqvyAjxOdY+g/v67zssX32sMszUYIss6fTuKF1u3Sj+EZEI2j2LIQCVkWqmYla2V5JUlscBZ4DplbMkNz9XCfxLg3ymcJvMiMkTHe507E2hXrB1NZWb293S5ItKXH3bxYU4VEDhNNtapV4okRjP66yj1QNF7GrLFayS4mkMGLmGbZ0K+2kM+XpQ2X2RaXMHyeT/h38z+2lit8+svcfMDrzFQew9fPUeEGAnfn6w/5TTRURKxrxMhH+vqKpUc7q2Kq8Z8BXVLYvhW33LhQlXO621jPUnOFp4p6ayKgyR7Oa3+HEI9aTHW17oLwwftuREiJtfOKeJ644zDtJXvjGoBXuO9McqQVx4L7nz+Dwz8lBZFvQ/ZCWVeLVHEbIBdu5/dhsE1hHQjlZgVqAgQH5h53K9RUVhVpfkvwH3iRzFZXA==;waxKO8vxOg81M8m7WxAnCA=="
 ---
 

@@ -22,22 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Does Artificial Intelligence Threaten Programmers?"
-    excerpt: "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?"
-    publishedDateTime: 2023-08-23T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/"
+  - title: "AI’s carbon emissions are about to be a problem."
+    excerpt: "That data center, holding row upon row of refrigerator-size racks of servers filled with rows of silicon chips, consumed huge amounts of electricity, outstripping the yearly power usage of more than 6,"
+    publishedDateTime: 2023-08-23T18:15:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/08/ai-carbon-emissions-data-centers/675094/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200"
-        width: 720
-        height: 405
-        isCached: true
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 51
 
 secured: "5dIdhDe5jDuvkliqYn4spl4WFCTh1jhRRG/Km2LdMtx96ZG73lP5SZa8WNuW00gAf8lr83BAoeDd/e3c9qXE+9EhWHSHkVRBY5dDJL4MCvL/kjLT6akOe+3ukE6/EfU63CBaC4Ef5gnTOfGiEOFGaSuCIlYTWHDTzY4Qu5CYqk4FMRyc5NtidoN3bbRdnG/GK99OSownL6H7HWoHEcBBdi35MqMfJ1oWJEkLpB+XhwvZphrq1oBHRrkwuQes+PSbRBOlnllUvXeHEPfHDnGyVIzV79cUvyLc3eDs1OgDVFJKIsf9w2gqS3gUUj0ia163x+dsUdFR3pHJp5tenssPDf+QNiB29iaXspdRH6eAcpw9MDcN9jG/PBAivWr0UIEvTq9MnmNgYpZmZlGYo9e5Ts1TvGZ/h5P9EcX+jEfrTajgYBfLct7TTmMg9a/kM1DMkGC47uFVHPx45dAP8qMk9rxZLr2kGYPmaP6RgFNsdSkq926xDoK8ZI3X8krop7g6ZDya1my5Z0QFEASqBjKnfQ==;80SUXVmK6LXLgrhKiId+Rw=="
 ---

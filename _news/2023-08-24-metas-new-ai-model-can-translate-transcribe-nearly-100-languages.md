@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_234.jpg"
         width: 4000
         height: 4000
-        isCached: true
-  - title: "Meta introduces multilingual speech translation model for 100 languages"
-    excerpt: "Heating up the artificial intelligence (AI) race, Meta on Tuesday launched a new all-in-one, multilingual multimodal AI translation and transcription model for up to 100 languages depending on the task. Called ‘SeamlessM4T,’ the single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations."
-    publishedDateTime: 2023-08-23T10:00:00Z
-    webUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-introduces-multilingual-speech-translation-model-for-100-languages-1503214716.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 44
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/05/7fd56ad9dd860cebbe0a1885f7320d93-1.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
     excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI gets lukewarm response to customized AI offering"
-    excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
-    publishedDateTime: 2023-08-23T10:58:00Z
-    webUrl: "https://cointelegraph.com/news/openai-gets-lukewarm-response-to-customized-ai-offering"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMDgzNmY2ZmYtNDE2My00ZmI4LTgzY2YtY2Y0YjY1YTE5Y2EwLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "A|I: The AI Times – Inside Meta and Google’s plans to attack OpenAI"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-08-23T13:17:00Z

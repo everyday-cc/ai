@@ -7,7 +7,7 @@ originalUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-
 webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
+    excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
+    publishedDateTime: 2023-08-28T03:07:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "UNUj5mmUR/JoRCg7Y6/QWaH9OtrtNEzXA3A7I+q+fDuzekyl8ZKziUGSryR7kBVtjECRIwymPdp50TQNinieyOfenpyWTy4M49pOOXHpY39GivL+xqNvF2mBgc3bmIVDB1i6Ao2+m6HtXDihqLlgP32yuskE5T0MJ0jZEu+N5ND04gngA9LexN55mbhmNqIj28lr9WGpFI+yNIdOpTXb7OOFhXlmfkuygw0Vs6XmiE+IM4u9A1tjQJEbIq8gdN+iubygnjt4SBz8mpkxuvzKBPKG+kOwVlubowIGdxbtzLiclbKuHvDo07vZo+0qHiFvwgHds6bC9M81mR33XXry3DpTBXCV8rvgJn4YoOVOUiA=;Nk5KakOh6kdO7CryaBvUvQ=="
 ---

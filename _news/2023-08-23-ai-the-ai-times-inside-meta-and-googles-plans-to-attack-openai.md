@@ -44,20 +44,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "OpenAI gets lukewarm response to customized AI offering"
-    excerpt: "OpenAI upgrades GPT-3.5 Turbo with fine-tuning for tailored tasks. Potential to stay ahead in a competition like Google's Bard. Fine-tuning allows for customizing AI capabilities. Developers are cautious;"
-    publishedDateTime: 2023-08-23T10:58:00Z
-    webUrl: "https://cointelegraph.com/news/openai-gets-lukewarm-response-to-customized-ai-offering"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMDgzNmY2ZmYtNDE2My00ZmI4LTgzY2YtY2Y0YjY1YTE5Y2EwLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "Rh4K2OG23EZh7vI5XQyPkzvHluDmSaqAm5b7RbGQWwSfHsoKk51C7VVD6ZYf/e47MIxYad98iz5jDULzCR4ZfQtx5XaVRAQK/oLMx0ZhkbFcUCENb3WxMq1oa1BZXVqPQv2YtQ1aS9eRB2JnuPQS0ysyEitdklnDh1/ux97mgyRLMX1CyXWLDoG7QHRTXJz5vUQuYbGaRehVL087rH2pBZYwy4LuQQ9w1cQQ2HUx+jhvcyFwJeyQXcaxx79bwBknozA3u9SpT1GI6tCJxwYf0pSaNf8ovDMYEVlijPg1MOQoIMEqLp9NV1AyIDfJ27xUvXK/aCb26yz3XWGTRjGKamh9ix7FApV43UwAaO44Up0F9JCtGc53Nr/Oxebe4IvdjtukmFUsUgmO0UHQbdnR+y0Xy4Sx5H/P8jJEpxOPyQeF5Q3xaNQ+P9OSYFxZSaYsabPN02shfovbd28eBpWOQAhnpCznVWdg322XCucn+xBJ7YcLdhwVQSWOv5QVRlGnRuOPa89hQDiwSFFQOMjL+A==;RfyUJBi5uBt0GMoyLwDqwA=="
 ---
