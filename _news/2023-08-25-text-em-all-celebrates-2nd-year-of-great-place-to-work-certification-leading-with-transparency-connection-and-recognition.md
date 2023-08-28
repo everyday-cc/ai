@@ -56,6 +56,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 0
+  - title: "New NLRB Rules Favor Mandatory Union Recognition & Limit Employee Voting in Secret-Ballot Elections"
+    excerpt: "Voluntary Recognition Demands and ‘Card Check’ Review Employers ... [8] And the General Counsel has announced new limits on employers’ free speech rights, such as captive-audience speeches and other employer communications most often occurring ..."
+    publishedDateTime: 2023-08-28T19:42:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-nlrb-rules-favor-mandatory-union-5060677/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 0
 
 secured: "VCJxYVdsQuFTOlowOrX35EToYRYP8f6BLSL6jYoffvGdpXSvnMCPEwhqgyXqKIQFUaxwE3VKM+zFMPcyd/TywRVejIUKW6VJsB0hjcrJkH9xYmj6KvZV8a1rNj46y5J0WWQTJLDAUe4af9bHt5EbDlD4qNW0v+DeVXzIOj/InrkH0HBjfYUmWhw2eBHU/WijQPn4tS1MC7iM7CZt/NzwQPiMKiZPGypnIG/IJXwboOkYkzIgGr96fb3pW+zsdVRYythvtsxiPHooCLg9GfY3IBwDxZ/MAncX0WCTjQfdpJh4uf1/11FLpi3SJGFFPz091hD4ztfCjz/ab4Jt9cfxXv5APml0GhDBqaNrsXl9ROHK2As5K7B2am02sFEVlFaFez2AG+Qv444vATC/EVmk7he52n3BS1Z/rngfbefr2/GAPDXJh1wn7WEn/wf5hGEEKtx2bUKKyV6suCQqkb3cDsCOpsdtZc2yXrPlT5a9JwG81NXPaExzt5rvpJWM3nhsVTDmWQjkMUoT3F2Kse/yMQ==;Nk0ZWf6Sx1iB/PgHazjQaQ=="
 ---

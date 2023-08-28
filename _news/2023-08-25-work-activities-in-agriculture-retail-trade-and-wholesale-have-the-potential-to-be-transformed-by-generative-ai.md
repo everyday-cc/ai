@@ -96,6 +96,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
+  - title: "Generative AI Is Coming To Mobile Devices"
+    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
+    publishedDateTime: 2023-08-28T18:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "LAFk3wE5UKmqFIPKwajfdBEWZysIqiKPYknzDMZXcZujdvh2Kgp6rD3KbHCbY7R/jD+Mg5eri0bhVOh9aoj7D1OfetvEmIv5o1GAQIVQL6B0TCAZzzEjm27XQyIicv2RyBPmH2QOOKaH0Iep4ugADPFWu6L/zmYC7NGWhJs3tzKJPfkMY+5ATFekpM0kkRsCk+jJA5uSbHy20G0DqcI7LMzCIK6gKILuWROqVzpvHoRW8qKFfIhnevhqhvrNX6nFypn1AvoKKRDtYrbtj5duteXocsD6GQbN3xQsNqE7Gndr0N6glE4utSCZjBB4bhICTWGGtdDjW/deFaxVpeNtCBv3OILX+C6xtYmOjqKG9Kc=;vCGYNYj3UBNptmyo8UXqTA=="
 ---

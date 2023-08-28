@@ -59,34 +59,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "My ride in a self-driving car on the streets of San Francisco"
-    excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
-    publishedDateTime: 2023-08-26T23:02:00Z
-    webUrl: "https://www.thetimes.co.uk/article/autonomous-driving-tech-runs-into-its-limitations-on-the-streets-of-san-francisco-9k6jkrlf0"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F36195570-4443-11ee-9098-1b3c9790fdce.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
-    excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
-    publishedDateTime: 2023-08-28T01:08:00Z
-    webUrl: "https://thethaiger.com/world/news/1412/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/luca-bravo-TaCk3NspYe0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
     excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
     publishedDateTime: 2023-08-24T19:03:00Z
@@ -98,15 +70,6 @@ related:
       name: The Forward
       domain: forward.com
     quality: 11
-  - title: "Cruise, the self-driving ride-sharing service from San Francisco"
-    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
-    publishedDateTime: 2023-08-27T12:47:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/cruise-the-self-driving-ride-sharing-service-san-francisco-3404426"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
 
 secured: "nBrQpkYrH/jwabcSgYpbiT4cdhqH2MELKp6IKYIl7z46p5u+MqxupM7/BJDafAGIHYiMsRZWCPFj9rVhTwlC8t+yiEr4AEM94b0J8z2wW5cJaGAdTLHZFeyRMRxyHnt4JW4HKuARiI7mItPeiWUraspIYWOcefyptfziCxxxQs6ucsrxz0XhFmiv/8/T6QlRsOg7oFJgeGX1YS04Zf1CV3v1Rn/BifVZHBcInC5IXUIBSNTcAWhKPuBceB6/2aR0i+Qwlo4YIqAso1uOy/zQn/qn/s6ZY1jKXIGfx5laOZ0ZXXNvsmVUvy+gYldUWCgY2hUH/Bg1tIr0f9zx2deZeT1s8+tGzd7iNMKdeI9DgRA=;qjrLZCnQ6ZZitaMmqa0YUQ=="
 ---

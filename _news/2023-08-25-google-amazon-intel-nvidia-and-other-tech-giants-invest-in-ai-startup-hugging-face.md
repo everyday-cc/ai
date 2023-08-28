@@ -95,15 +95,6 @@ related:
         width: 4167
         height: 2688
         isCached: true
-  - title: "Nvidia tops estimates and says sales will jump 170% this quarter, driven by demand for AI chips"
-    excerpt: "Revenue in the second quarter doubled from $6.7 billion a year earlier and increased 88% from the prior period."
-    publishedDateTime: 2023-08-24T03:54:00Z
-    webUrl: "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
   - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
     excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
     publishedDateTime: 2023-08-25T01:50:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
+    excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
+    publishedDateTime: 2023-08-28T20:29:00Z
+    webUrl: "https://www.heritage.org/technology/commentary/ai-generated-child-pornography-fuels-the-child-sex-exploitation-industry"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 36
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
     publishedDateTime: 2023-08-28T12:36:00Z
@@ -50,6 +64,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 14
 
-secured: "1+VLc2r8pV2EYxIHdIis1bHccpT08sZMLkm9c8ryopQ0eL3juVb3PQMZJaOuGWO3QQBYBD+qyqomZEElspZqdEHxSHwnjIFIt+hyL/ERFktLKjaCO+UIiSEZTDYg1qfc2ZFHzdnJpmOCPAYLs6lNH3U1DDSPLkMM0fIBgeEJjtn3li+oMfBsVwgA8vpV5reQQGBs1P/FA4J3cvgRDGEj+oxptuMb5/cEpfGcPhRbSA9ze5EW/v3UxPcTjgKhlSWbOUZJx5/ee7EPzJ50dxffv/XMgym+siokXxhneDFppsbFag31vSGf2iRSHNliqWgmBOGrMzALnGIrKdxXjtrot+dtnqThwQfRnrgeCYITZCI=;VlwioyvUeW6uo04VkPeX9w=="
+secured: "c8JdNZxxIOib6tqtME2AeSQ18ot0wVqOIwDi7mlUlXZ7ohx+tqoNfvwVVvRqmxRuTJI0PxNjdcPsRODAc8YcMQ3H6J1wap97lWF5F11P6eucm3btogM4XN9DZLBLpW6LZIQybiqscS28pRRgJRTWVcBT6updwpqEcu03yyfJS4wDrL4yvlPo2LwEq+Fs5a+LAA+pfjqHxxFagHrzgyv3cEH1IvGmE50s+nsi9dpEovbl03uxW8WIR2xUCzouQJZcnyqtqFBLoa6zMMMpvNa9yRMJ4nX5tQQnLslpDyydsFA1Uo2sPpi8DELAHWJhjWtyW5rpYNxZRamEKF3xNJCd0CTxBsTZiLEMVpBe2CiE0AKL1AllT4cQvuIx31Mo0FJFrQrAcuFM6Y2eq2QOxwXYJefXJCg2lCSqeLdigUsZFgEH1mWF2J374cHWmTmzxz3jA6Yb8AZCCzzgqbl+0vkaVNN7QkOTntMpWaIqTresYQ54KsYWA55louT6LSX+7vFCxJAMPE+DFtDaLHFW6WEwbQ==;iWy/S3ryNAbjXLzKXNE6EA=="
 ---
 

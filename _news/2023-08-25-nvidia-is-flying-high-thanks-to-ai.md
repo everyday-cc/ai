@@ -107,19 +107,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Chip giant Nvidia rides AI wave as profits soar"
-    excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
-    publishedDateTime: 2023-08-24T01:15:00Z
-    webUrl: "https://www.macaubusiness.com/chip-giant-nvidia-rides-ai-wave-as-profits-soar/"
+  - title: "Nvidia: A Moat In AI GPU Technology"
+    excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
+    publishedDateTime: 2023-08-25T13:40:00Z
+    webUrl: "https://seekingalpha.com/article/4631108-nvidia-a-moat-in-ai-gpu-technology"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 54
     images:
-      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
-        width: 516
-        height: 516
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423708201/image_1423708201.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
   - title: "Inside China’s underground market for high-end Nvidia AI chips"
     excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
@@ -149,15 +149,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia: artificial intelligence chip giant sees sales more than double"
-    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
-    publishedDateTime: 2023-08-24T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 51
   - title: "Nvidia sales hit record high as AI chip demand soars"
     excerpt: "Artificial intelligence chip giant Nvidia has seen its revenue double in the last quarter due to surging demands for AI technology. The company’s stock surged by nearly 10 per cent in after-hours trading on Wednesday after it posted a sales growth of 101 per cent year-over-year to $13."
     publishedDateTime: 2023-08-24T12:34:00Z
@@ -185,15 +176,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 48
-  - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
-    publishedDateTime: 2023-08-24T01:36:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidia-bets-25-billion-that-ai-boom-is-far-from-over"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
     excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
     publishedDateTime: 2023-08-24T15:45:00Z

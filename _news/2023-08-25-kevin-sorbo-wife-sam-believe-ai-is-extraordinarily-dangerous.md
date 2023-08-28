@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-ai-extraordinarily-dangerous.amp"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

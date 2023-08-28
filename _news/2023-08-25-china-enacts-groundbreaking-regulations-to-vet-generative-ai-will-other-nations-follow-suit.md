@@ -57,6 +57,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 0
+  - title: "New NLRB Rules Favor Mandatory Union Recognition & Limit Employee Voting in Secret-Ballot Elections"
+    excerpt: "Voluntary Recognition Demands and ‘Card Check’ Review Employers ... [8] And the General Counsel has announced new limits on employers’ free speech rights, such as captive-audience speeches and other employer communications most often occurring ..."
+    publishedDateTime: 2023-08-28T19:42:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-nlrb-rules-favor-mandatory-union-5060677/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 0
 
 secured: "4HTdDddj1Qsqwu73QVmJKUy3lg3lmDCJNIpXEFaFm0BRjtgG4aoXq8OLy6aZevUfL9nL2Y5pFeFWRFsxR70nN46Wo+TTw21uiXc69o4BwtWvFbCambEInMjSgu+LwzD7o97Zea1KbYzL4mRJPyoErp2pb6Rv/dURHvli+7d67MOjS+V3yxO31wruBj3DKIyZsv4q0chk3k01tqEpLxs8EuWlBaWMGu9j7VXuxXT/q0lcduzjy8546xiYPpD9ZNyQtbwflSjU3WLQr5jEASSkeJ5exZu5wJpa2wBxy3MKrrSxiPTYmXVnK4iYxkgMCWla0hAtRUBxYorNbQcgb6fMWxys28WDA+t++Vk2ApV03nI=;QBCRqDq/gXEZaUV/adPdhA=="
 ---

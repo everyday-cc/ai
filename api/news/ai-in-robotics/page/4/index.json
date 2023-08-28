@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-01-the-future-of-ai-powered-robotics-a-game-changer-in-warfare.md",
+      "title": "The Future of AI-Powered Robotics: A Game-Changer in Warfare",
+      "excerpt": "A perspective of what the luminescent future of AI could mean for AI-powered robots, exploring the potential impact of robotics being deployed in naval operations and warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/the-future-of-ai-powered-robotics-a-game-changer-in-warfare/",
+      "originalUrl": "https://www.technowize.com/the-future-of-ai-powered-robotics-a-game-changer-in-warfare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-openais-sam-altman-links-2-hot-tech-trends-with-his-new-worldcoin-artificial-intelligence-and-crypto-but-theres-a-lot-more-to-the-story.md",
       "title": "OpenAI’s Sam Altman links 2 hot tech trends with his new Worldcoin: artificial intelligence and crypto. But there’s a lot more to the story",
       "excerpt": "David Paul Morris/Bloomberg via Getty Images Artificial intelligence has taken over much of the financial ... create a global network of digital identities for a world in which AI robots become harder to distinguish from humans. Users of the service ...",
@@ -1299,49 +1333,6 @@
       "provider": {
         "name": "The Sheboygan Press",
         "domain": "sheboyganpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-2023-to-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projections, Regional Outlook, Rapid Growth and Trend by 2023 to 2030",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33361808",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33361808",
-      "publishedDateTime": "2023-07-24T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

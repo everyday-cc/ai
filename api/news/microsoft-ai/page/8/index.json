@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-15-endocrine-disrupting-chemicals-may-raise-risk-of-cognitive-disorders-in-future-generations.md",
+      "title": "Endocrine-disrupting chemicals may raise risk of cognitive disorders in future generations",
+      "excerpt": "Adverse cognitive effects linked to polychlorinated biphenyls (PCBs) exposure, a type of endocrine-disrupting chemical (EDC), have the potential to be passed down through generations, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
       "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
       "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
@@ -1420,40 +1463,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ionq-demonstrates-world-first-quantum-cognition-models.md",
-      "title": "IonQ Demonstrates World-First Quantum Cognition Models",
-      "excerpt": "IonQ (NYSE: IONQ), an industry leader in quantum computing, today announced results from its early research into applying quantum computers for modeling human cognition. The recently published paper describes the world's first publicly known method in which basic human cognition models have been run on quantum hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

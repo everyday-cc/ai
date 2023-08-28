@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
+    excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
+    publishedDateTime: 2023-08-28T20:29:00Z
+    webUrl: "https://www.heritage.org/technology/commentary/ai-generated-child-pornography-fuels-the-child-sex-exploitation-industry"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 36
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Rb3ORWGuIKsfjN8dbRqGXd4/8sVKqsNBSWHwnB7Z9i6XcOUI3sruWQVcMsXj6mC7UqzTWDFLG8+VwZFOmHEb1mFs2k4FIkaQVo7lZFLIQnL/oROVQBR+G0aLB8eGjO2Z4tRH++TablvxQaPc4PEag5q4ga5/8ONcwxWTmhYRjnCVFxBsCNCQYlS/0xDMebK7OBYo+Y7Cdm0YgiDcHDVI6K/SSx9x6HCMvmSnR16Da8vSCPeT+SE7yxIqJUOSkrwU4HTWIBwtj6ZhIfYQUA7AtNmFTElmFSv6J7O5DFfC2WRBBCcIjTpPvHF9wSG23StW7UY4suGZBUq6ht+d13i+Xb9TZfvXmgL1sHE9/6uC3Q3r0MKvD0H9y43RrMBwfza/qhz+AXymzEfiPpN1UhnkjS4U5Sgoj5AaMMKuiNJcxP9J2lQ5P0TvvUwxgvAZRKtkqLS1NvUr25ezYY0SI15IzyjRP6Nq89bB/bsf7DtFxMKfyChC30aFNVv3+/bPh2WfF7+hiijJTz3jxNW0Y5x8QA==;bMd2MFyHxG1A5y8KyRZkQw=="
 ---

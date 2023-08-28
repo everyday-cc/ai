@@ -22,6 +22,17 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "AI-Generated Content, Deepfakes and New Data Push the Limits of Civil Procedure"
+    excerpt: "How will traditional tools and techniques need to adapt to handle new data challenges that have never been encountered by digital forensics specialists or lawyers?"
+    publishedDateTime: 2023-08-28T18:44:00Z
+    webUrl: "https://www.law.com/2023/08/28/ai-generated-content-deepfakes-and-new-data-push-the-limits-of-civil-procedure/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
+
 secured: "i+8OWrS9wUxLCGiHiww0gLm9iX1C/BE4TnsqcOiN4u+degtoB6nPsSzs5OrH57m8A+9SvMyOrIdAqxqvtmvMmzrtzo/wd9bgMTXSjDrFfAwx7y8HtxNKuVP56JE0gVo1Zw4HLMUMyZaT3m7iqhLk/AIAluX6nfukhft4Z0ql8OQL2V8nEql8IKR6ogTMRSM7LGbf/gPH4pRGo8Ihxvovr2vkjecnNiBx8Xvqd0cNu8IIEmLvuxKm5K1BD+NSngPR1HEbtHclgsUWPhuoLL53kqFpuubadb3XGuU0VFGQ3+CUI6PlOhqOkA3CNJFAv18EUlkQvdLYumtEt42xkf+LpHXcwQ4vETt79Quah3vlNH96jAv53rJKSwMnDVXsvTOfYRnV4XcgEaOFMWIP2szMCtr01Zrz5GcHSS8hYccjCCsWkagqoPSesMpDSJ7qJO6K9b+FS381iFFwsJaiKo4aYDTNTpXl2N1w6JNI85jASHPpIa4De1vAwypZG51KeeYEr9c58W6LsqCw1TKfwBmL9Q==;Vjl6JhthrSKUZXZokV2Izg=="
 ---
 

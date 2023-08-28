@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-introduces-wat
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-introduces-watsonx-your-business-1032586756"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -28,17 +28,6 @@ images:
     height: 209
     isCached: true
 
-related:
-  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
-    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
-    publishedDateTime: 2023-08-28T13:05:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
-
-secured: "J20g99Rh3l0TjtM2Q1h+DwY8VNeDDfBJ6A6lXUosl6WLvhmhyi/YktOkew7XQGix4SiKOSQ1KSmp04yT3SBK+2cttikzKJmb7denD4/SRa1hl7i5sKEhe/JCAgPvrtHYgMCsrZcSQc71dRr3vRyHPd1dMtVJBBRJrkaZ/fHWj8B30Uj/28mn+ylFaEiLdBRZ+2v937jnrhqzZOLXs95NvoX0syI+JwDy5WqUKyPhSnGxqX97mw57VqcsnS3cWGIu47U3H9LXV5kqc2PhM9vBeK9r6BR6FEVrdPpXLMKXOitiN96XHl787PDMxwk0kAhc42PGdLttEbij1xmyhYYHGPJdlUx/VtDhhG9/hE9FRgQ=;8419GURsiqO5fToLFL7trQ=="
+secured: "Fzry9svVmMJbwi66iHVIW80VxIx4AnpMTTqz20038ASXmB7xcJKY0imgjpWxsuPmAoajfw8TCnacG3sQa9XIxg1dnHHWmVa+bBLIxNLXYaYO46GjEZSLJAHhspoTeeRusacJvcKnVDo+lqSo22aiwV1l6VslbGr3s1NM1YsBpupoFobBEOiBxdbDmTj/LjoeIJzYT7WfIH9+ct2AA4c9voaYhrEKb3xKzcyYTQQXTsuvycE2eiIk8//HIBeH2O31tghTtulgoP9QjKqiW8NSbDgEO7NdDMjqHRpEz+6r9x/j5max0Qs5Qb9IEib8BgkIYrrkTNIcUStphBDZL3LQ9xqyBkHfcKqMiIOErRWEBBs+Gk1Vg9e++8jesthIvlKkl4TayDxdi9XegXzv048goa3IYgj1LgSf5RzZxeKa9JcsmQvFTQxidyA7kGvB+Ivw2ZQ9uyYnD2xR5Ip3/BhxFZV5gnXD3/UP12CG7ukMXaTC5ivjB/uXnKk+X+/U8kMSdJ7qdFKvjXD2GHlfz0PvPQ==;FjXgflD10chACYAJUkqYjw=="
 ---
 

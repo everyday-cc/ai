@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-inn
 webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
 type: article
 quality: 64
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
+    quality: 0
+  - title: "New NLRB Rules Favor Mandatory Union Recognition & Limit Employee Voting in Secret-Ballot Elections"
+    excerpt: "Voluntary Recognition Demands and ‘Card Check’ Review Employers ... [8] And the General Counsel has announced new limits on employers’ free speech rights, such as captive-audience speeches and other employer communications most often occurring ..."
+    publishedDateTime: 2023-08-28T19:42:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-nlrb-rules-favor-mandatory-union-5060677/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
     quality: 0
 
 secured: "1RjN6uW4DSCybcma1ixpwiDO/82jvVSii1H74wJDGhlNfeyUprmAi5nbTlWiDLm3iwJn3cNIyqizXrTASDq0JO4Ud2cDEQPi09VnSFlQyZVuDL4U/kwN15Gff6eVuR6YS9/60Tf6YvY+XbsXYWO3KrbQZsByQKRcXkhEn29UXzBO1n9b5hJEoam2Al10BdLSFGGCDPwTzrANsKlVcDYKUWix+MQBeqCvfxVpKtCeNOzyxekKuxlg+LKa6LdcEw+yblsMVHiKELgwpPtgmK3a1rOlBk6tVK7KGyRm+ws0wo9Bn65raimWbg0GHvYYO+Jz72cXX9LdPgmoXTmoLQsxmN+wuZ6bBkf6jlm4TthoU5su4bF6b9MN5dSUDZ6B8+g4XBxLU5cdhKkPPCA8mwRv3eIjvchfy0EdWpgSs7amJ5Y2nrHcF1l0mVo//CkZMMBiQ3/v+ZdUOEC7iJG1C4yJEfzXlHtcLAr14UZnxfgXK5nt0QQUJLkSKd9kiEOOswMLDcwRclgtECz/4gQuzKVZrA==;F7Xqy7ZmVEAIqt47cZ1gAA=="

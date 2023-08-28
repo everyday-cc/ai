@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-10-microsoft-partners-gurugram-based-builderai-for-developing-ai-solutions-for-businesses.md",
+      "title": "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses",
+      "excerpt": "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/AI-globe-climate-change.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
+      "publishedDateTime": "2023-05-10T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
       "title": "Why AI Will Open Up New Career Opportunities For Young People",
       "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
@@ -1433,58 +1476,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
-      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
-          "width": 450,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

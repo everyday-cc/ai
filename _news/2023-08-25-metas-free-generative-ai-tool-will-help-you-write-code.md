@@ -52,20 +52,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How will artificial intelligence impact the workplace?"
-    excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
-    publishedDateTime: 2023-08-24T02:42:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intelligence-impact-the-workplace/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/2809a9e1-f494-4ed2-bcda-79245812c00e/thumbnail/1200x630/bfb863ac7e77c7cd519a22c543dbc463/2e63e746d76ae07350acd34526ace493.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dxysho+Z941L5FmtamI8z7Jiwa+3I0YPpTUFU4OQtZWV6AfRy98IdB+V+0M5dfV2/9H9PIVa838xaF2UUDtMKiu4h3aZ1RVU91zWkTlminZgH8BssnVM+KnkPZxYG3sEJn3oSLhmfCpovnCZDfR6BjP0pVlP3/uwmNEBJrLABTLEgas3RiVPX4JwsTKero4d0raakTo2c9m2px9HBtaoyQ/coc7CjM9t0j1ETIIndWnSKYvvAFMXd+9MyY05ACfnfzn2RdcZhIvgwwfEkCnGCAN1YNhgpRN8cZdDXxmDKGyjXvzvidmC/WpnhHw1Nr38nFukLyp9eahP2tcRUBT7Umf/HMcpUgGOHPo1Cj+XAf/vndQ+YsTN/3KcKf2kuUuouySZQ9Yse32CE006F3c03Hv0s1+eUQ6p7PtJmlhrc71L5jfaqk4bIoI04UD9Z9tRxpCkd8DXe4jRkAI4+pGGlNhHQnjyauWbnKfpOgMFiJ1VcAPgMMSTCSiCMJZquW6WOBOvCsWlkgXHDKGiBSSebA==;W31X4OiB9pqF/JH6jGPiPg=="
 ---

@@ -84,6 +84,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Generative AI Is Coming To Mobile Devices"
+    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
+    publishedDateTime: 2023-08-28T18:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
     excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
     publishedDateTime: 2023-08-25T14:15:00Z

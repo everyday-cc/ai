@@ -87,15 +87,6 @@ related:
         width: 4167
         height: 2688
         isCached: true
-  - title: "Nvidia tops estimates and says sales will jump 170% this quarter, driven by demand for AI chips"
-    excerpt: "Revenue in the second quarter doubled from $6.7 billion a year earlier and increased 88% from the prior period."
-    publishedDateTime: 2023-08-24T03:54:00Z
-    webUrl: "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
   - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
     excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
     publishedDateTime: 2023-08-25T02:56:00Z

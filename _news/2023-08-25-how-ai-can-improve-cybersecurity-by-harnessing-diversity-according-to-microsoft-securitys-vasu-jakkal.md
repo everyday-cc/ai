@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
 type: article
 quality: 105
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 900
         height: 675
         isCached: true
+  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
+    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
+    publishedDateTime: 2023-08-28T19:37:00Z
+    webUrl: "https://www.inferse.com/696630/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "77YtBYf9A4Pht/QtTZZPUS3x+6pNUBCT48EDGdjUfXHBKfH35dthkR/6zM5zzJLo9MDRgVKGxV0XNK3ga1EaHeF5lAGYM+1qTX6mr0x9HhY8XixuEs/Hhbli88ZhNFGNpPrSQ7Uhe17xwzl88UJMDGQyv769DGUlLbEG9M5sFiud4CqDQfc475gcnOW1DxDh9RieWhMwQ2gGw1sGmvOE7RF11mIfVOSuBpZYU4uYLsLqdZ9Ls+wwcth1/y+WPnqT9Kie0+BwleIeSvkdAExR347P7NMyEwKssKcpzwIW9cAalMVdFcqwJFTYs53//kDkCY/GUYeoCzOPUwrjkK1Y8wzzw8MdJevNHW7FptRpUdavF/HbAuMyBdyZrIW4d5G1kLrUqIlwCzJ0KlMiqlxaIZimcmwK0sCyVThDyWd8Q48s0Mu+xEeNWCNlLduqB/74HJaDFuK2T7+MdNwzWqRTMpzVSZGRuAk1tVirjnRy9m8Og+PiFBzFzg1dhIxcRg53e7YHRuZvhULGB/XDvamAgw==;riHCuUBrDRrbM9FRtz9Kfw=="
 ---

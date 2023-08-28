@@ -19,20 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "IBM Introduces 'Watsonx Your Business'"
-    excerpt: "New Advertising Reinforces the Transformative Power of Innovative AI Solutions Tailored to Business ARMONK, N.Y., Aug. 28, 2023 /PRNewswire/ -- IBM (NYSE: IBM) today launched the first ad campaign to formally introduce watsonx, the company's next ..."
-    publishedDateTime: 2023-08-28T16:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-introduces-watsonx-your-business-1032586756"
+  - title: "Nutanix Introduces A Turnkey Generative AI Solution Stack"
+    excerpt: "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production."
+    publishedDateTime: 2023-08-28T18:53:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ececc62874c313484af6bb/0x0.jpg?format=jpg&width=1200"
+        width: 787
+        height: 1037
         isCached: true
+  - title: "Meta introduces artificial intelligence tool for coding"
+    excerpt: "US-based global tech giant Meta on Thursday introduced Code Llama, an artificial intelligence (AI) tool for coding. The new AI tool is a large language model (LLM) that can use text prompts to generate and discuss code, the firm said in a statement."
+    publishedDateTime: 2023-08-25T06:25:00Z
+    webUrl: "https://www.yenisafak.com/en/news/meta-introduces-artificial-intelligence-tool-for-coding-3669566"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 39
+    images:
+      - url: "https://img.piri.net/piri/upload/3/2023/8/25/3d0d084c-i73evoqfyofycnh2h2n7i.jpeg"
+        width: 640
+        height: 359
+        isCached: true
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-08-25T16:23:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 34
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Generative AI Report: Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
+    publishedDateTime: 2023-08-28T19:07:00Z
+    webUrl: "https://insidebigdata.com/2023/08/28/generative-ai-report-nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 2
 
 secured: "BLWaEjf3iZUNGP5yL7jylEfI8FS7G0NwHSFL0PhR7bTJH8ZgMdopLcNN7wE/AakJf/Tfr35AspuoOXD1evuPJc5slx/M1drsPHqMhqUfpfVmGgWbM2AW/sje4C2sM7yZg5x2CsStp8UZLsIyMYg01DFNyMdSbRypJY6F+3u+JXj6wNTvbSUBTkJHAGSVBPadDrZsfCvrPBb7YXB+PxYpLWp7Yty+PwLcJilKdTSdQnVvAPXIdOPCAR3h2Gt7Gsn/bW7FYAqoORlFNL1AVFW8x3R3I8H1YPXuL9YQg649jwq6jmXqsxNGiRlinu62tYSXopwEe+oQeSoImHgRfB4EKnRsVekzLpIu4/kwKn17sdU=;cH3Zh/FM73Hpq2Gk2MXS+Q=="
 ---

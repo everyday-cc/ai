@@ -3,12 +3,9 @@ category: news
 title: "Google Tests AI Assistant That Offers Life Advice"
 excerpt: "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley."
 publishedDateTime: 2023-08-21T17:19:00Z
-originalUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
-webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice"
+originalUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
+webUrl: "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: acm.org
@@ -18,6 +15,6 @@ topics:
   - Google AI
   - AI
 
-secured: "91bEcgn3QslXQ2E2uY+/oXomNo4XNFz2QqFcj07La2vBzM0arWTHqUnaP7MWXC0/GyUjzoj/SaHAUHmEw1klBHe3BnRYorBvArRxVqhwZ//BSvS0UMmnCwg4nS4pAKXyHivTk/xGD73XIt/bk1O99jrruEANktPf8wnPga0LSULigbvG/N1Pvlf10UgdEndpCgYJMNqloz6cZS4O9Bnm1qFwuesTj2EBh2hUE2AKa0QEQBTcjvgYjl5Q/r0TOnBIfIZMNufdYAhaV+j6f+PMI3o6kyLZRCLiZjJ9uFAvXy5vCiP6hfWmAw9VKWC1II6aXQbwSgmyt1mvf+A+6cm0IclNcUGWCIJ7zz/RigVGu5a3er4eWk12regxNEkB3W3ol1A5TIozA0xsSl41nljCtjRZWpLtFiIDECKqV6pmg8ggDNw+nNjlBhYWPB35z6lheO++a+T6ki1hxmjVegFZHCp4xtTQsRFnI87ldbrbcal9HSDzI9yxsubPGpg7JWPC7Ara2ToKu/fqNrNdaHhD1g==;SFAjGv3ixCkYN8btfoWxqw=="
+secured: "fBnw5Qhy0/k/78gmI2vaKZHgHBfNbQJ4BsMPzeyrTQoZ6kqbzNb4AAFiOM/iWuqTToYj1AHVzSvHH0VkjgiJuJRcDZwW3f5n944OHY/vvVTS7vm3wndn8biZ89jK7n0sIyu1+j+6VwCrVYzJ9qXiLxqR9GrgFFIi9bQfE9fUwVldqyshH0wRp+HgL9N7K9KEfnNkZGzhmky9y38AysERyfmuaudq8ozVCYgvCcSBc6GjAlVS3n/vp+k2ktyC2FtUCIWFNre8WJCkyYQ1GQYoECs22igcPedNDdSABLCaKucDOck2dZ4qSuTt6HxfE++ifkyvQUEqrfD5SAvYfJslXACaC5up6nWWTx5+G8vPB11cHZxxRa9uIVqM2t2om+e4GLLo97WF+0yrzjFT6yaWiRfx5S6HCQ6VhLD+JdU9RNAecRae6mxc8tTrS+7Ta8NRce/zscbGa8CjGK43SFHRpSWnY1abZ1DtB4xtXPc7Iqscbzs55LSFloq39wmK0SipolpN0oi6JcqktszK2Ekxaw==;8QtziAdOh2bXykITtESx7w=="
 ---
 

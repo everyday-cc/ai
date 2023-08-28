@@ -10,7 +10,7 @@
       "originalUrl": "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -302,6 +302,40 @@
       "provider": {
         "name": "gulftoday",
         "domain": "gulftoday.ae",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-8-best-artificial-intelligence-stocks-under-10.md",
+      "title": "8 Best Artificial Intelligence Stocks Under $10",
+      "excerpt": "Looking for the best AI stocks to buy now? You might have to get in line — artificial intelligence is one of 2023's hottest market trends, and several companies in the industry have already seen massive growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/8-best-artificial-intelligence-stocks-under-$10",
+      "originalUrl": "https://www.nasdaq.com/articles/8-best-artificial-intelligence-stocks-under-$10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1348,50 +1382,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-new-machine-learning-method-may-aid-personalized-cancer-therapy.md",
-      "title": "New machine-learning method may aid personalized cancer therapy",
-      "excerpt": "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If validated in clinical trials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/998118",
-      "originalUrl": "https://www.eurekalert.org/news-releases/998118",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/cb5c3276-d676-49ce-a6fa-24de556f44db/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

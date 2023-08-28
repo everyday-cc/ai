@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-18-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-to-boost-us-5299-million-by-2030.md",
+      "title": "Artificial Intelligence In Cancer Diagnosis And Therapy Market Size To Boost US$ 5,299 Million By 2030",
+      "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth Artificial Intelligence in Cancer Diagnosis and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
+      "originalUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?880888",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-artificial-intelligence-in-healthcare-market-size-to-hit-us-1222-billion-growing-at-a-519-cagr-by-2030.md",
       "title": "Artificial Intelligence In Healthcare Market Size To Hit US$ 12.22 Billion Growing At A 51.9% CAGR By 2030",
       "excerpt": "Artificial Intelligence in Healthcare Market Research Report Information By Component, Application, Technology, End User- Global Forecast till 2030 NEW YORK CITY, NEW YORK, USA, April 17 ...",
@@ -1276,59 +1319,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-healthcare-ai-market-2023-size-and-forecast-to-2030.md",
-      "title": "Healthcare AI Market 2023 Size and Forecast to 2030",
-      "excerpt": "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

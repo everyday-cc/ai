@@ -24,6 +24,17 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Some Questions about the TSA’s New Facial-Recognition Program"
+    excerpt: "Those of us with valid concerns about the government’s use of powerful technology that can be used to surveil and infringe upon our privacy deserve a hearing."
+    publishedDateTime: 2023-08-25T23:50:00Z
+    webUrl: "https://www.nationalreview.com/corner/some-questions-about-the-tsas-new-facial-recognition-program/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 4
+
 secured: "yBCPAoDGzMLbGznVyM8s4BpglvJajhO5sEweO2qS03mbfLBRhVjODVgJLgx66rHtn10SLBwR06+lyZD9utxC7B0aSxF0g4re6JfWbC82NY/2S9Zj1yjiNccRQTuGSqyg28be/s+ABqaR0KdIlYA2H27k54JjWrk3nWIv/l3/cTx3Y8fgHVI14glST5py5e/cuxjMuuhGpCHHEi53OuxYpS4PFLi3BZdpC8rTEVC0AQsjtU7IDmVf+EvdZh+2pXrzvymyCrzma/ccDgTDgMPfEA6GMVfa45P9ZNO0UhvpJbrrOK5uRZzbmfsCZDB2l6iNQRBjsETXn3HCTsXyz3QXkQROUm2qBCHE0kAAjPm2xzL0v27XKq0TTetURJeYb3V/pL811zI216TzzQ93kIhRcFLXz1wdXFDCayi+q4RB9YDGI9ezVdi/VkXmBNvrhUPTq9mX1sru7VrMHYrc01YqYpgsv0l9UOAqsb0r/IaM2GPGSZGRGh/HiAEcHr2aYQid8av+KAXpUQrzDYAILCC1nA==;6YPBwJEToVtkMyWzU+m2qw=="
 ---
 

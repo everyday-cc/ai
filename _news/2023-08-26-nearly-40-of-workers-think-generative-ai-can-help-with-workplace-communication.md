@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
-  - title: "How will artificial intelligence impact the workplace?"
-    excerpt: "The rise of artificial intelligence has many concerned about how the technology might impact the job market. Mark Lee, founder of The Lee Group, joined CBS News Detroit on Wednesday (Aug. 23) to discuss AI and how it may fit in the workplace."
-    publishedDateTime: 2023-08-24T02:42:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/how-will-artificial-intelligence-impact-the-workplace/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/2809a9e1-f494-4ed2-bcda-79245812c00e/thumbnail/1200x630/bfb863ac7e77c7cd519a22c543dbc463/2e63e746d76ae07350acd34526ace493.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NojqQgGVP9IlQl0C4auH9tyOgJgsBMogIW6dj69zUbdDZahhd4HKDbPzIHWF0/05ysz/SA7G3VId9CYy6ui+eKnJB8TwxHOZ7JshtLjg962bD0AZPSD0GeDZilcuTbuX2/IjMlBOmig/Hi5Pt4GCkjjRroLNNa7PRKNJ+IgNhcJyhHv+YJxScN4oTdMGPxeDVGUi6kj4cISsAHW3gei3o/sUd9l3Q7J1Y/ue+IqdPS8kDvmiYprLm6t2zJMma3EyhIkeQt60dRurzli9wEGfExPNbdIhkhutctv6MDhy3zD6HTm8O3flwvw5hDIEjr4UVJaOp6oErRDvyNNd2pGc/iX0SyDpcuQhbEG8b3vhzfhU6w6FS67/9Kuui4PAqJ5CnMf5c3eaFnm7WQG406RDp4NUdOCUk/HJZek8Ie3H8cB0E324vKypNxRXB+A/IXqrVWsVUqYFkmULvybQeKwaNc3fce8FJ9gunfGyGWEOB3JzF+Gl3EyqSUpJT8haC+7VAF03bZyU/RMUHv/ZzgFcDg==;4/Tnw84rIeM9M28hrXqnEw=="
 ---

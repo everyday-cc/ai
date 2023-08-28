@@ -9,7 +9,7 @@ ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-
 cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

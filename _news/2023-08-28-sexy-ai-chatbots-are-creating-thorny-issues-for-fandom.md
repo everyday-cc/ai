@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Chatbots Help Web Content Farms Copy Work From Top Publishers, Report Says"
-    excerpt: "NewsGuard identified 37 websites that have posted articles containing text, photos and quotes identical to pieces from major news outlets"
-    publishedDateTime: 2023-08-24T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-says"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 44
   - title: "Young professionals are turning to AI to create headshots. But there are catches"
     excerpt: "Generative artificial intelligence is helping some young professionals create realistic headshots for a fraction of the price. The results, however, raise questions about how AI is trained."
     publishedDateTime: 2023-08-25T14:24:00Z
