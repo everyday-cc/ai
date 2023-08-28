@@ -111,15 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Responsible AI: The Solution To Generative AI's Threats"
-    excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/responsible-ai-the-solution-to-generative-ais-threats/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI Revolution: Paralyzed Woman ‘Speaks’ via Digital Avatar"
     excerpt: "Researchers created a groundbreaking brain-computer interface (BCI) that allows a paralyzed woman to communicate through a digital avatar."
     publishedDateTime: 2023-08-23T15:52:00Z

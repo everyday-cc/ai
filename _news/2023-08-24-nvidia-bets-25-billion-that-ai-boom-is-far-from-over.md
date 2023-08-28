@@ -340,15 +340,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 48
-  - title: "It's Not Just Nvidia—AI Stocks Are Beating the Market Big Time"
-    excerpt: "Betting on AI has really paid off this year. A basket of stocks tied to artificial intelligence has outperformed the S&P 500 by 62 percentage points so far in 2023, according to Goldman Sachs data as of Monday."
-    publishedDateTime: 2023-08-23T13:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-23-2023/card/it-s-not-just-nvidia-ai-stocks-are-beating-the-market-big-time-EExPw9TiBvvRFnIjyQoM"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Nvidia's Forecast Adds Fuel to Rally in AI Tech Stocks"
     excerpt: "Nvidia's strong forecast on Wednesday added to investor optimism. Big Tech and AI-related stocks saw their stock market values increase by over $70 billion, on top of Nvidia's increased value, as their shares climbed following the report."
     publishedDateTime: 2023-08-23T21:36:00Z

@@ -28,34 +28,107 @@ images:
     isCached: true
 
 related:
-  - title: "Unleash the full potential of AI and robotics with Automa+ Health 2023"
-    excerpt: "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,"
-    publishedDateTime: 2023-08-23T11:09:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must ..."
+    publishedDateTime: 2023-08-24T00:00:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     type: article
     provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://healthcare-in-europe.com/media/story/28594/rect-01-automa-rect.jpg"
-        width: 400
-        height: 240
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Unleashing the Potential of Artificial Intelligence in Enhancing Internet Security"
-    excerpt: "Welcome to the forefront of internet security advancement. In a world where the pace of cyber threats is rapidly escalating, the time has come to embrace the capabilities of Artificial Intelligence (AI) and utilize it as our ultimate defense against online hazards."
-    publishedDateTime: 2023-08-24T14:27:00Z
-    webUrl: "https://techbullion.com/unleashing-the-potential-of-artificial-intelligence-in-enhancing-internet-security/"
+  - title: "AI chatbot aims to provide support for women with postpartum depression"
+    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
+    publishedDateTime: 2023-08-26T18:10:00Z
+    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
+    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-24T152658.286.png"
-        width: 800
-        height: 400
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
+    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
+    publishedDateTime: 2023-08-26T18:54:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena' With Painstaking Care"
+    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
+    publishedDateTime: 2023-08-23T22:18:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
+    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
+    publishedDateTime: 2023-08-23T22:18:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
+    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
+    publishedDateTime: 2023-08-25T11:31:00Z
+    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 18
+  - title: "7 things you can do with Bing Chat AI but not ChatGPT"
+    excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
+    publishedDateTime: 2023-08-24T12:52:00Z
+    webUrl: "https://bgr.com/tech/7-things-you-can-do-with-bing-chat-ai-but-not-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
+    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
+    publishedDateTime: 2023-08-24T13:31:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 6
 
 secured: "/gpvB+sPVjJlQ+7turWNQZj8i+J5dYhKvftVqXl0/Y1H9Dz2U1mU1x4scgw9fh65X4AlNxJ1SjiDqfw1RCHPOr5bJGTl+RnhuFg7EjXfwqPhNuLSGpwyYnveJ9Iygg3pQc13ijvaZCAO0BrA5410vLDvFx+BIKuVno/riPbIpawCwgzYO/szGBSpM4zRroO8fAbjmitpWhn0alzvauBWYhYWNRtXQWbythDeNuzRsKZyNhE4autHGLu4xn/ZedwLj/UH6OJTKXUnG7Bcj/RiTsd+h8QmkP96XzxU+WfR/7qF7YRlMCGIxlaPCnqzdV1YQ7X2w3q+lnXZhCw37KcHV55P2FiSW6sObkDZAJb7F8Y=;b2AR7kJHQOk7pUGOjczsvw=="
 ---

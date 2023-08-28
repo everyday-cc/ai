@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 607
         isCached: true
+  - title: "Here's a better problem - generative AI detecting humans"
+    excerpt: "AI-generated content is starting to pollute the Internet, businesses and schools at an unprecedented scale. In some cases, it may be easier to detect human text than flagging generative AI content. At the very least, they could complement one another."
+    publishedDateTime: 2023-08-24T09:42:00Z
+    webUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans"
+    ampWebUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/hacker-2883630_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
     excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
     publishedDateTime: 2023-08-24T17:25:00Z

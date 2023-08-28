@@ -104,15 +104,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Responsible AI: The Solution To Generative AI's Threats"
-    excerpt: "U.S. national security officials are raising concerns about the risks artificial intelligence poses to national security, with the director of the Cybersecurity and Infrastructure Security Agency, Jen Easterly,"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/responsible-ai-the-solution-to-generative-ais-threats/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI And The Evolution Of Customer Experiences"
     excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
     publishedDateTime: 2023-08-24T13:48:00Z

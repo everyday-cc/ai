@@ -41,20 +41,6 @@ related:
         width: 763
         height: 428
         isCached: true
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-    type: article
-    provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 54
-    images:
-      - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
-        width: 1201
-        height: 631
-        isCached: true
   - title: "HCLTech partners with AWS to drive GenAI adoption"
     excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
     publishedDateTime: 2023-08-24T04:16:00Z

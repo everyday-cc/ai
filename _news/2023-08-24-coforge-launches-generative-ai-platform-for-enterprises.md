@@ -27,15 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Why data governance is essential for enterprise AI"
-    excerpt: "Learn why we need to focus first on managing, understanding and protecting the data that is input into the AI models with data governance.\nThe post Why data governance is essential for enterprise AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/why-data-governance-is-essential-for-enterprise-ai/"
+  - title: "Coforge launches AI platform Coforge Quasar"
+    excerpt: "Coforge Limited, a digital services and solutions provider has launched Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities. Coforge Quasar comes pre-loaded with a set of 100+ APIs,"
+    publishedDateTime: 2023-08-24T13:32:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/articleshow/103029679.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/amp_articleshow/103029679.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/coforge-launches-ai-platform-coforge-quasar/amp_articleshow/103029679.cms"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103029679,imgsize-110988,width-800/103029679.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Coforge Launches Quasar: A Next-Gen AI Platform for Enterprise Transformation"
+    excerpt: "Global digital services provider Coforge has introduced Coforge Quasar, a comprehensive Gen AI platform for enterprises. Designed to foster AI-powered applications at scale, Quasar is packed with an array of features and pre-built solutions that promise to transform various facets of an organization."
+    publishedDateTime: 2023-08-24T08:52:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/coforge-launches-quasar-a-next-gen-ai-platform-for-enterprise-transformation-article-103017044"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/coforge-launches-quasar-a-next-gen-ai-platform-for-enterprise-transformation-article-103017044/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/coforge-launches-quasar-a-next-gen-ai-platform-for-enterprise-transformation-article-103017044/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103017044,updatedat-1692867163531,width-1280,height-720,resizemode-75/103017044.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Coforge launches Gen AI platform Quasar"
+    excerpt: "Coforge Limited introduces Coforge Quasar, a Gen AI platform for enterprise AI dev. It features 100+ APIs, modular & scalable architecture, 100+ pre-built use cases, and cloud/on-premise setup."
+    publishedDateTime: 2023-08-24T07:04:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/coforge-launches-gen-ai-platform-quasar/article67229828.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "h9aCJT9HIdcyFCA41OPrOP3/rdKJsqIuv4zCnlxVF6DcA4R9tw+oOBexQNy0jVwHltL9v1G1IT+YCt0nHv4VL+qP+/7QgisrPGtsDCLLvYQflyG0xnQawmoAD3nqn7I2uTGizGW/uKJxALZ0seu9SVvWrRGS5+aJpbjGPW4ktcT66zLpwbSeLvt+krecBQLLc0BZWNeeuSKLLMqez3wnaCp7rZD2TBhM41d+wRs04o2w5Qwx1yIMii8L0lMGf5C1B442T7eYeSZvAqWtJIwspwNVAmYvsyQ8JzPF1k7zNWtrSHQAuzaw3zT3Q4AY+5lsYOcfj8ySV4+bkTpdPAD2zukrgPSZ5J9iyhChkN2FVYA=;Icr7b+zaxFiFgFzbK3PVKg=="
 ---

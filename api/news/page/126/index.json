@@ -2,6 +2,205 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2023-06-05-tsa-expands-testing-of-facial-recognition-technology-as-some-in-congress-voice-concerns.md",
+      "title": "TSA expands testing of facial recognition technology as some in Congress voice concerns",
+      "excerpt": "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide. “We have automated what we have been doing manually as a snapshot in time to make sure you who you say you,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "originalUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "publishedDateTime": "2023-06-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSB-TV",
+        "domain": "wsbtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make",
+      "sourceUrl": null,
+      "webUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "originalUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/c/a8/ca876be0-0143-11ee-9b3d-1b859d4763af/6479e538866c4.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "cdnAmpWebUrl": "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "publishedDateTime": "2023-06-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Gazette",
+        "domain": "niagara-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-generation-ai-fear-for-jobs-as-half-of-uk-public-think-robots-will-act-against-human-interests.md",
+      "title": "Generation AI fear for jobs as half of UK public think robots will act against human interests",
+      "excerpt": "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-these-deep-sea-animals-are-new-to-scienceand-already-at-risk.md",
+      "title": "These deep-sea animals are new to science—and already at risk",
+      "excerpt": "About 90 percent of species found in the Clarion Clipperton Zone have never been identified, yet they may be at risk from mining for minerals such as cobalt and nickel. Spanning 1.7 million square ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "originalUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Geographic news",
+        "domain": "nationalgeographic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-academic-warns-against-using-ai-as-therapy-tool-points-to-security-risks.md",
+      "title": "Academic warns against using AI as therapy tool, points to security risks",
+      "excerpt": "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
+      "originalUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
       "title": "Google is using machine learning models to speed up Gmail search",
       "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
@@ -955,220 +1154,6 @@
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-improving-fluid-simulations-with-embedded-neural-networks.md",
-      "title": "Improving fluid simulations with embedded neural networks",
-      "excerpt": "While neural networks can help to improve the accuracy of fluid flow simulations, new research shows how their accuracy is limited unless the right approach is taken. By embedding fluid properties ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/improving-fluid-simula.jpg",
-          "width": 2031,
-          "height": 1074,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "publishedDateTime": "2023-06-02T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-are-your-deep-fryers-connected.md",
-      "title": "Are Your Deep Fryers Connected?",
-      "excerpt": "When Wendell Hays was 17 years old, he got a job as a fry cook at a local restaurant. The amount of formal training Hays says he received amounted to: “There’s the deep fryer, now go cook.” “The deep fryer controller had 30 buttons, but it felt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
-      "originalUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-nowhere-for-investors-to-hide-from-ai-hype.md",
-      "title": "Nowhere for Investors to Hide From AI Hype",
-      "excerpt": "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
-      "originalUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG",
-          "width": 599,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
-      "publishedDateTime": "2023-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
-      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
-      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-793870/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "publishedDateTime": "2023-06-02T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-google-opposed-a-shareholder-proposal-asking-for-more-transparency-around-its-ai-algorithms.md",
-      "title": "Google opposed a shareholder proposal asking for more transparency around its AI algorithms",
-      "excerpt": "During Alphabet's 2023 shareholder meeting,Trillium Asset Management proposed asking the search giant for more accountability on its AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
-      "originalUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6460f406d391de0019bdd0f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
-      "publishedDateTime": "2023-06-02T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

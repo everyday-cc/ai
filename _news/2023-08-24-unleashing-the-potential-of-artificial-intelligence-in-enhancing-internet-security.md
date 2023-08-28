@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/unleashing-the-potential-of-artificial-int
 webUrl: "https://techbullion.com/unleashing-the-potential-of-artificial-intelligence-in-enhancing-internet-security/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Unleash the full potential of AI and robotics with Automa+ Health 2023"
-    excerpt: "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,"
-    publishedDateTime: 2023-08-23T11:09:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html"
+  - title: "Cloud giants eye a potential windfall in AI at the network edge"
+    excerpt: "Oracle Corp.’s Roving Edge Infrastructure, a ruggedized, portable and scalable cloud-compatible server node that the company introduced in 2021, has since been outfitted with graphics processing units for processing of AI workloads without network connectivity. Oracle declined to comment for this article."
+    publishedDateTime: 2023-08-28T00:08:00Z
+    webUrl: "https://siliconangle.com/2023/08/27/cloud-giants-eye-potential-windfall-ai-network-edge/"
     type: article
     provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 69
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://healthcare-in-europe.com/media/story/28594/rect-01-automa-rect.jpg"
-        width: 400
-        height: 240
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/data-globalization-hand-finger-business-world-network-edge-computing-intelligence.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Unlock the Full Potential of AI With 7 ChatGPT Courses for $29.99"
-    excerpt: "ChatGPT is capable of automating a wide variety of tasks within your business. Through step-by-step videos, this collection of courses shows you how."
-    publishedDateTime: 2023-08-24T09:23:00Z
-    webUrl: "https://www.techrepublic.com/article/2023-chatgpt-for-business-mastery-bundle/"
+  - title: "Unlocking the potential of autonomous clinical research"
+    excerpt: "Effective clinical research starts with thoughtful study design. Establishing strong protocols is essential to ensure that a trial is cost-effective, successful, and yields accurate results. AI and ML enable the production of an ideal and productive design which can be implemented with little to no manual input,"
+    publishedDateTime: 2023-08-25T08:12:00Z
+    webUrl: "https://pharmaphorum.com/digital/unlocking-potential-autonomous-clinical-research"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 24
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08232023-2023-chatgpt-for-business-mastery-bundle.jpg"
-        width: 1200
-        height: 800
+      - url: "https://pharmaphorum.com/sites/default/files/2023-08/AI-life%2C-work%2C-and-social.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "G1ibWcaDF4BoIcnBV78JH0AOfralMs/NgZl1UWCAMqYcdJD3/9EAPm/MLzBhsy1X4Vj4BZcGqaYaJChYWzjxCyBXILl1HbDuBb3qmh21gcW8XoCGcD15BgGk6NOBfHACgrfJx+GOqEkr/0SrB9Q9EjIUi0piiYNrYHmKdguuR+FJRAW5HnWB2VsA23tU3in5E7EelABc3ZW3IjW9qpG1kD8A9paNXMVU66L3N3Voqawr3LkcUIGIecZW90pr2BEi5qAO4XOZiuYv4JD91U4hQperUtY9QKHpCCAT2C4yhI5UxlOXap2ydepQI4q2Wz6lMRw1lNM/8jDuZ1CzTDQ7mjxQyoMKthUg8o44ZYecDvQ0t/RSIxh2cyYstEtDBOw9r72nS9qHWrhztCIUVzfaPa2pNwaLPk7ih0VjSSS99Bx5nXc/7iJrGtrChuufKtTAIsmiZrWwFqs9nzZYZj7qMue/xHvAGI7Qq41K57zNW2gDKEk4xrLTfuNJ8ND4wOEPkBf6xfNj+eogLLshKl84UQ==;T8mei7Q77NBWfYkvFz6Gig=="

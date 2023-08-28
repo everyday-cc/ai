@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How ChatGPT turned generative AI into an “anything tool”"
-    excerpt: "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction."
-    publishedDateTime: 2023-08-23T11:31:00Z
-    webUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 91
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must ..."
     publishedDateTime: 2023-08-24T00:00:00Z
@@ -56,6 +40,64 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Unlock the Full Potential of AI With 7 ChatGPT Courses for $29.99"
+    excerpt: "ChatGPT is capable of automating a wide variety of tasks within your business. Through step-by-step videos, this collection of courses shows you how."
+    publishedDateTime: 2023-08-24T09:23:00Z
+    webUrl: "https://www.techrepublic.com/article/2023-chatgpt-for-business-mastery-bundle/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08232023-2023-chatgpt-for-business-mastery-bundle.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI chatbot aims to provide support for women with postpartum depression"
+    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
+    publishedDateTime: 2023-08-26T18:10:00Z
+    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
+    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena' With Painstaking Care"
+    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
+    publishedDateTime: 2023-08-23T22:18:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
+    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
+    publishedDateTime: 2023-08-23T22:18:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
     excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."

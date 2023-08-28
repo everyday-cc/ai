@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
-    excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
-    publishedDateTime: 2023-08-23T12:00:00Z
-    webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
-    type: article
-    provider:
-      name: HCL Technologies
-      domain: hcltech.com
-    quality: 54
-    images:
-      - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
-        width: 1201
-        height: 631
-        isCached: true
   - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
     excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
     publishedDateTime: 2023-08-24T15:09:00Z

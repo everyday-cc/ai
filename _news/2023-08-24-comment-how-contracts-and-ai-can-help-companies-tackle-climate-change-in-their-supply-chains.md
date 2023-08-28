@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/sustainability/sustainable-finance-reporti
 webUrl: "https://www.reuters.com/sustainability/sustainable-finance-reporting/comment-how-contracts-ai-can-help-companies-tackle-climate-change-their-supply-2023-08-24/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Chinese companies see computing power and storage challenges in AI competition"
+    excerpt: "The rising AI trend is heating up the competition between major computing companies, while Chinese companies, in particular, also have to face various challenges. In addition to the GPU supply shortage,"
+    publishedDateTime: 2023-08-28T05:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20230825PD206/ai-gpu-ai-baidu-china-data-storage.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230825pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "oeGOqdf9OEo74eHj2IkV8a9kD4iQznUCIM+zoSx7mINm38IcdXMih+Ppt/sehfeiWw8UWRQtLAmhhYYhjTFZFSQWRjPuwnowaQ/7I399v4KGUoWWFgxEgl9KhAcoQ4SNUMgcJEWGK6ZA49ebt6HQvTjk4WbhbZOaST2+I5QbEoyo6Be8RmEetRqAXIdoAaOyQeYwVjf0mFHlZBaEJ0AJvYHK8w/QTHZRv+Kwpg5UmQP0fLmrn4obnO2LQ8GdDHrwij27it4jD3WWHUuoQ6z6iqWYHpxr1c3YHNCXxfCzDy8MSqK+z0hiiWhqimbRKCRiIhVPkW5PqwGFJsxZ/RbIpt/zMzj/B0XVXRy7z3oZm+0=;Zqc9mAlQcnuNDHl/gMdQ3w=="
 ---

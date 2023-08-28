@@ -24,17 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Apollo lands today. A viable humanoid robot that ticks, and carries, the right boxes"
-    excerpt: "Humanoid robots have caught the public imagination for over 100 years. Ever since the word ‘robot’ was coined into the English language, in fact, via Czech playwright Karel Čapek’s 1920 drama, R.U.R (Rossumovi Univerzální Roboti,"
-    publishedDateTime: 2023-08-23T13:03:00Z
-    webUrl: "https://diginomica.com/apollo-lands-today-viable-humanoid-robot-ticks-carries-boxes"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 12
-
 secured: "+403Y5TkJcR9w9iRU40uoydOdWkJzax+bXNp+EMtj03Sofi01PxMz2rqmsmKby0m2KRagwcdmaWrSmgRAhRvhEslFrv6WAK+lZux04xwTdub49irdnpbiRJZpE0ukZbM8BNVbZcBipr50DJa8Fm0bTFTmqYDGsWcovjm0xwRZqyfoAijs0hHYBbsz4A+6CfDgnnYVYt6u4CRyD0qKfeaIVD8oi/nnW5U4eQUXw4nh7s2hbraWpnWZ0fwoQVZtxOdWde+DC1qYj7vTw5sWjxoLVFVZHRreICkbGIge28C4/WWrEuSS9w1U2VNv0zzr6iqbgdxXAJ2e1gTZaSaHRaLzbut9ijwLKWAYtfnVMclbid/u2xwrrK2b0wOmqtNe6Sl0RgFmOQXTpzqJ8Ws/z4ve+gZ61Pfg7k0+1OkHKRfMfWlKPoNTal6QNgvMucuOd5aUoIrMoWL2GUugMHbMmfay3Ck7eLLsWICZydywOzwoga29rcUKfoq/0udxFAYgs4xHtx9IEt116aDAo2WBTTOqw==;6sZPR8xQlBXbz1EdvBhufg=="
 ---
 

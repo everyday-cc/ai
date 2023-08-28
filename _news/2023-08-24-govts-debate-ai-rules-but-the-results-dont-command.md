@@ -39,6 +39,15 @@ related:
         width: 1198
         height: 672
         isCached: true
+  - title: "Generation AI: Thanks for the music"
+    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-08-23T19:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
     excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
     publishedDateTime: 2023-08-24T23:37:00Z

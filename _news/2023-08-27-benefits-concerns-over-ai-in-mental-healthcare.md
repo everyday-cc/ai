@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

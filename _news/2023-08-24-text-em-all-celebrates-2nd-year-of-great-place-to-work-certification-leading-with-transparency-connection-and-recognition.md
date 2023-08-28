@@ -33,6 +33,15 @@ related:
         width: 1198
         height: 672
         isCached: true
+  - title: "Generation AI: Thanks for the music"
+    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-08-23T19:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Gov’ts debate AI rules but the results don’t command"
     excerpt: "Leaders of Australia, Ireland, Israel, the United States and the Group of Seven (G7) finance ministers are seeking input on AI regulations."
     publishedDateTime: 2023-08-23T19:47:00Z
