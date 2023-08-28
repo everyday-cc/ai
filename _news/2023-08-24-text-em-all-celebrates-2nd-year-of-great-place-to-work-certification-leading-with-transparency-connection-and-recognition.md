@@ -33,29 +33,6 @@ related:
         width: 1198
         height: 672
         isCached: true
-  - title: "Generation AI: Thanks for the music"
-    excerpt: "From an ABBA legend teaming up with artificial intelligence, to a tech startup that wants to get into the boxing ring, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
-    publishedDateTime: 2023-08-23T19:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsAV4?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Gov’ts debate AI rules but the results don’t command"
-    excerpt: "Leaders of Australia, Ireland, Israel, the United States and the Group of Seven (G7) finance ministers are seeking input on AI regulations."
-    publishedDateTime: 2023-08-23T19:47:00Z
-    webUrl: "https://www.biometricupdate.com/202308/govts-debate-ai-rules-but-the-results-dont-command"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
     excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
     publishedDateTime: 2023-08-24T23:37:00Z

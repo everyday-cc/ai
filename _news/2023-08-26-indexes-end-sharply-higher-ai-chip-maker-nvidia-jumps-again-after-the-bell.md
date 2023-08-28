@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia’s artificial intelligence chips send sales, stock soaring again"
-    excerpt: "Now all those tech giants as well as a long line of other firms are snapping up Nvidia chips as they wade deeper into AI — a movement that’s enabling cars to drive by themselves, and automating the creation of stories, art and music."
-    publishedDateTime: 2023-08-23T21:45:00Z
-    webUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html"
-    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2023/08/nvidias-artificial-intelligence-chips-send-sales-stock-soaring-again.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 89
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXL4L3UHHBGBPBDMUFNDRKE6RU.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power"
     excerpt: "Trimming profits, delaying launches, begging friends. Companies are going to extreme lengths to make do with shortages of GPUs, the chips at the heart of generative AI programs."
     publishedDateTime: 2023-08-24T09:59:00Z
@@ -102,34 +86,6 @@ related:
       - url: "https://media.wired.com/photos/64e6438c5c3b7918a8e75f80/191:100/w_1280,c_limit/Nvidia-GPU-Chip-Shortage-Gen-AI-Business-1258367086.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Nvidia Sees Blockbuster Quarter Thanks to AI Chip Demand"
-    excerpt: "In fiscal Q2, which ended in July, Nvidia saw its net profit grow 843% year over year, thanks to record revenue from demand for generative AI."
-    publishedDateTime: 2023-08-23T21:18:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-sees-blockbuster-quarter-thanks-to-ai-chip-demand"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05CxzV6634h7ZP01wFFIiXZ-1.fit_lim.size_1200x630.v1692822971.png"
-        width: 1082
-        height: 630
-        isCached: true
-  - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
-    excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-23T20:29:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-surges-after-earnings-crush-ai-chip-sales-set-for-record-gains/article_a1730cdf-1457-588e-8393-6596032e3f96.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 71
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
         isCached: true
   - title: "Nvidia is flying high thanks to AI"
     excerpt: "Nvidia is benefiting from being a company in the right place at the right time, where its GPU chips are in high demand to run large language models and other AI-fueled workloads. That in turn is driving Nvidia’s astonishing growth this quarter."
@@ -161,34 +117,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips"
-    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech’s brightest stars while riding the artificial intelligence craze that’s fueling red-hot demand for its technology"
-    publishedDateTime: 2023-08-23T22:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/nvidias-rising-star-gets-brighter-stellar-quarter-propelled-102510436"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://i.abcnewsfe.com/a/01c6736c-a0d3-4076-bb4d-ea637aa905d1/wirestory_ff3ffebe8be03e5ea5c7e5d5b4b24667_16x9.jpg?w=992"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "AI chip giant Nvidia crushes expectations as profits soar"
-    excerpt: "Copyright AFP Sam YehUS chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday, as the AI frenzy continues to lift the tech sector."
-    publishedDateTime: 2023-08-23T22:05:00Z
-    webUrl: "https://www.digitaljournal.com/business/ai-chip-giant-nvidia-crushes-expectations-as-profits-soar/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/08/8e82f2824b5375c5ae44da522c5131b5723fe073.jpg"
-        width: 768
-        height: 516
-        isCached: true
   - title: "Chip giant Nvidia rides AI wave as profits soar"
     excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
     publishedDateTime: 2023-08-24T01:15:00Z
@@ -202,20 +130,6 @@ related:
       - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
         width: 516
         height: 516
-        isCached: true
-  - title: "Indexes end sharply higher; AI chip maker Nvidia up ahead of results"
-    excerpt: "U.S. stocks ended sharply higher on Wednesday as shares of Nvidia gained ahead of quarterly results from the company whose chips are widely used for artificial intelligence (AI) computing. Investors expect that another strong outlook from Nvidia could fuel a further rally in tech stocks."
-    publishedDateTime: 2023-08-23T23:01:00Z
-    webUrl: "https://www.aol.com/news/indexes-end-sharply-higher-ai-101351200.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ad380a92a34db3cd046e5426b0cfbb45"
-        width: 800
-        height: 533
         isCached: true
   - title: "Inside China’s underground market for high-end Nvidia AI chips"
     excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
@@ -276,15 +190,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia's Forecast Adds Fuel to Rally in AI Tech Stocks"
-    excerpt: "Nvidia's strong forecast on Wednesday added to investor optimism. Big Tech and AI-related stocks saw their stock market values increase by over $70 billion, on top of Nvidia's increased value, as their shares climbed following the report."
-    publishedDateTime: 2023-08-23T21:36:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidias-forecast-adds-fuel-to-rally-in-ai-tech-stocks"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Nvidia surges as Q2 earnings crush forecasts, with AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
     publishedDateTime: 2023-08-24T00:29:00Z
@@ -322,6 +227,15 @@ related:
         width: 842
         height: 438
         isCached: true
+  - title: "How Nvidia built a competitive moat around AI chips"
+    excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.seattletimes.com/business/how-nvidia-built-a-competitive-moat-around-ai-chips/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-08-28T07:26:00Z

@@ -201,6 +201,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
+      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
+      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
+      "sourceUrl": null,
+      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technical",
+        "domain": "technical.ly",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems.md",
       "title": "The AI Financial Crisis Theory Demystified: How To Create Resilient Global Ecosystems",
       "excerpt": "Once upon a time, the fictional idea of robots and humanoids propelling global crises would have been a far reaching fascination among science fiction aficionados.",
@@ -1379,49 +1413,6 @@
         "AI",
         "AI in Security",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030.md",
-      "title": "Natural Language Processing (NLP) Software Market Scope and Business revenue Insight, 2030",
-      "excerpt": "Natural Language Processing (NLP) Software Market | Outlook 2023-2028 | Tables and Figures with Pre and Post-COVID Research is Covered, Report Information | Updated 115 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33815537/natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33815537/natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33815537",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33815537",
-      "publishedDateTime": "2023-08-13T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

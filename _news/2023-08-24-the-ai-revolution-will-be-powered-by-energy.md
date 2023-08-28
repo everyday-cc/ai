@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "SKGJ4RqB94tTzzKKDRlLbRu5a/+bLCsqaTm5F1yLH7rV14hlt3kL4WuS9X5GHoD/Sbe8Tv7k2RovqOAMj0gY6wcb3NGb7V7Wnep0f4k/B7KtVrICCrxlHDd9znlmgrZXY67LAvD6WSFWbGHjn5fz8y7mNmM2O2QpbQ9d/RKf/lSVLI3+s0TMfaVytWf3LuUzGeRcq0sassDKfdCN8vW4NmmL4gGdGrW7q5/EcsGXdRYNVIbDYtS3Wcw5SGTxtRzkgfJ3iw1GzFImA068T74kTP5CfEyXBgw92vGzOmk81R+rq2Owd0tG24jvli60qrBXm+JkEpeTrhH1i8R/syALFiGlb2HmiypseYZLtMzwglXKJWGOXFSNsLB63YyuJsR2FK9qwisXeSWIAF0HNBOBo35gBgprUxs38x3ck613L0QPldaVBhgPAfGwtciunvVATFXXYhZbIN1fHrqn/0D4+v95OoRhFd84W05zEITcjDqUGcUpLc4M6W6ZDlPc7qh3o9h9ZiqOt0EFhGR34x8wSA==;+K3/trjnPKrlIn4FWl9B5g=="
 ---

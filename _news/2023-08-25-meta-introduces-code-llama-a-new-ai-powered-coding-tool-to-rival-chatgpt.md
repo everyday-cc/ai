@@ -65,6 +65,24 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
+    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
+    publishedDateTime: 2023-08-28T12:11:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
+    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
+    publishedDateTime: 2023-08-28T10:00:00Z
+    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
     excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
     publishedDateTime: 2023-08-26T18:54:00Z
@@ -78,34 +96,6 @@ related:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena' With Painstaking Care"
-    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
-    publishedDateTime: 2023-08-23T22:18:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 33
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Troutman Pepper Rolls Out Proprietary Gen AI Chatbot 'Athena', But With Painstaking Caution"
-    excerpt: "With its new chatbot Athena, powered by OpenAI's GPT-3.5, the firm is drawing an unequivocal line when it comes to certain use cases—and keeping a watchful eye."
-    publishedDateTime: 2023-08-23T22:18:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/23/troutman-pepper-rolls-out-proprietary-gen-ai-chatbot-athena-but-with-painstaking-caution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Troutman-Sanders-Sign-02-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "7 things you can do with Bing Chat AI but not ChatGPT"
     excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."

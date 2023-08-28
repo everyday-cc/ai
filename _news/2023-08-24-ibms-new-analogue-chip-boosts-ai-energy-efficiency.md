@@ -55,15 +55,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "IBM team builds low-power analog AI processor"
-    excerpt: "Now, IBM has followed up on its earlier demonstration by building a phase-change chip that's much closer to a functional AI processor. In a paper released on Wednesday by Nature, the company shows that its hardware can perform speech recognition with reasonable accuracy and a much lower energy footprint."
-    publishedDateTime: 2023-08-23T19:23:00Z
-    webUrl: "https://arstechnica.com/science/2023/08/ibm-team-builds-low-power-analog-ai-processor/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "Teachers turn to AI to make workload more manageable, chart lesson plans"
     excerpt: "Droves of teachers are turning to artificial intelligence, saying the technology keeps their workload manageable, especially as they chart the course for a new school year."
     publishedDateTime: 2023-08-27T12:20:00Z

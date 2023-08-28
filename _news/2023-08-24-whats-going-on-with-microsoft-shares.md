@@ -110,6 +110,15 @@ related:
         width: 3584
         height: 2048
         isCached: true
+  - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
+    excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
+    publishedDateTime: 2023-08-28T13:13:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Expands-Partnership-with-Microsoft-to-Support-Companies-Adopting-Generative-AI-160210.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 28
 
 secured: "UIL+KSr8eyZ48bBfacYjJA3j3Esv0nBhrvoFso2xrKhNVizxTb4HdK4qoRtxkUZ0l+6kYZfJjtfqxC8x4AldcKDAyH6F+4s8O3CT7+9adurQGdzeB82J5oKgGLen3oMNBNNOPqtP4ZcocbXPVDNtsaDyMcgiaOCOZwOY2XjLRklaUvJsZTJ1LMG5sR7P33QxpSjHLpwQFKQb4AULXS/yfpYwTlly1XNSn5sUNGFk3HHA6uO82T+ZAusM1gaQBQ9GaVdGQLAtA44ftR/DWY/tL9OdDbD9wJYMAusc+LwnKat5ViMg7a3B+6/dH6IMnr7I+S3CSmPP1gib+2p5Ik1CxE9rc2HwiSr8szabXo9fenI=;cLRP1pTPVVYc6LtVDK2TxQ=="
 ---

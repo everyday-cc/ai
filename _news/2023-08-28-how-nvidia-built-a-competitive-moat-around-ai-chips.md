@@ -1,0 +1,273 @@
+---
+category: news
+title: "How Nvidia built a competitive moat around AI chips"
+excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
+publishedDateTime: 2023-08-28T13:01:00Z
+originalUrl: "https://www.seattletimes.com/business/how-nvidia-built-a-competitive-moat-around-ai-chips/"
+webUrl: "https://www.seattletimes.com/business/how-nvidia-built-a-competitive-moat-around-ai-chips/"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Seattle Times
+  domain: seattletimes.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Nvidia: The chip maker that became an AI superpower"
+    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ..."
+    publishedDateTime: 2023-08-25T22:45:00Z
+    webUrl: "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T"
+    ampWebUrl: "https://www.bbc.com/news/business-65675027.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
+    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
+    publishedDateTime: 2023-08-24T06:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66601716.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
+    excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
+    publishedDateTime: 2023-08-27T16:24:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power"
+    excerpt: "Trimming profits, delaying launches, begging friends. Companies are going to extreme lengths to make do with shortages of GPUs, the chips at the heart of generative AI programs."
+    publishedDateTime: 2023-08-24T09:59:00Z
+    webUrl: "https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/64e6438c5c3b7918a8e75f80/191:100/w_1280,c_limit/Nvidia-GPU-Chip-Shortage-Gen-AI-Business-1258367086.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Nvidia is flying high thanks to AI"
+    excerpt: "Nvidia is benefiting from being a company in the right place at the right time, where its GPU chips are in high demand to run large language models and other AI-fueled workloads. That in turn is driving Nvidia’s astonishing growth this quarter."
+    publishedDateTime: 2023-08-24T21:07:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Nvidia rides the AI wave as profits, revenue rise"
+    excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
+    publishedDateTime: 2023-08-24T05:52:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103009472/103009472.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Chip giant Nvidia rides AI wave as profits soar"
+    excerpt: "US chip giant Nvidia, whose products play a crucial role in artificial intelligence systems, crushed expectations on Wednesday"
+    publishedDateTime: 2023-08-24T01:15:00Z
+    webUrl: "https://www.macaubusiness.com/chip-giant-nvidia-rides-ai-wave-as-profits-soar/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 54
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
+  - title: "Inside China’s underground market for high-end Nvidia AI chips"
+    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
+    publishedDateTime: 2023-08-27T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14936857"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 54
+    images:
+      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
+    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
+    publishedDateTime: 2023-08-26T11:07:00Z
+    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Nvidia: artificial intelligence chip giant sees sales more than double"
+    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
+    publishedDateTime: 2023-08-24T03:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 51
+  - title: "Nvidia sales hit record high as AI chip demand soars"
+    excerpt: "Artificial intelligence chip giant Nvidia has seen its revenue double in the last quarter due to surging demands for AI technology. The company’s stock surged by nearly 10 per cent in after-hours trading on Wednesday after it posted a sales growth of 101 per cent year-over-year to $13."
+    publishedDateTime: 2023-08-24T12:34:00Z
+    webUrl: "https://www.aol.com/news/nvidia-sales-hit-record-high-093548911.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 51
+  - title: "Nvidia Sparks Rally in AI ETFs"
+    excerpt: "Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics & Artificial Intelligence Thematic Index, which seeks investment in companies that stand to benefit from the ..."
+    publishedDateTime: 2023-08-24T17:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-sparks-rally-in-ai-etfs"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
+    excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
+    publishedDateTime: 2023-08-26T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-26/nvidia-s-soaring-value-excited-investors-top-the-week-in-ai-news"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 48
+  - title: "Nvidia Bets $25 Billion That AI Boom Is Far From Over"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT ..."
+    publishedDateTime: 2023-08-24T01:36:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-23/nvidia-bets-25-billion-that-ai-boom-is-far-from-over"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Nvidia surges as Q2 earnings crush forecasts, with AI chip sales set for record gains"
+    excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
+    publishedDateTime: 2023-08-24T00:29:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-crush-forecasts-with-ai-chip-sales-set-for-further-surge?ref=biztoc.com"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+  - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
+    excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
+    publishedDateTime: 2023-08-24T15:45:00Z
+    webUrl: "https://www.unite.ai/nvidias-earning-report-reveals-dominance-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 41
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/08/Alex_Mc_AI_chips._technology._green_white_black_244476a9-2518-4e42-b5f5-d3da796a7668-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Nvidia is the early winner in the AI gold rush"
+    excerpt: "Accelerated computing and graphics chipmaker Nvidia announced its impressive second-quarter earnings for fiscal year 2024. The company reported a revenue of $13.51bn, which is more than double the revenue from the same quarter a year ago and an increase of 88% from the previous quarter."
+    publishedDateTime: 2023-08-24T11:47:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/664/241301.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2308/710028-842x438.jpg?7"
+        width: 842
+        height: 438
+        isCached: true
+  - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-08-28T07:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/elon-musk-said-bullish-things-for-nvidia-shares-that-all-data-centers-will-be-ai-centers.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 30
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-28-at-12.13.57-AM.jpg"
+        width: 1208
+        height: 584
+        isCached: true
+  - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
+    excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."
+    publishedDateTime: 2023-08-24T13:26:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-set-for-record-high-as-chipmaker-coverts-ai-hype-to-revenue-surge"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
+  - title: "Nvidia shares touch all-time high on back of AI boom"
+    excerpt: "Soaring demand for Nvidia’s GPUs, which dominate the market for training AI models, has made it the biggest winner from this year’s boom in the industry. Supply rather than demand has become the main constraint on the company’s growth in the short term."
+    publishedDateTime: 2023-08-24T15:31:00Z
+    webUrl: "https://www.ft.com/content/4197702a-9749-4eca-912b-07cc4880c336?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+
+secured: "kS6HwE92HPuco+xUhrwD5tO4oQDOjFlKElBPn2KS8fJjQTr6j/ZgzQjJYQtLL6bjg+gYf40pzwVUkioH201Dgh30PLmydfnv54X5t42aVAOrgcygVcVVoR56IS+Nv52FB2ipCVbF2N731q99ulyAhcrU1o47LU0S9b4u+7W7mLr3gUkRBhAGEO1Sa+5SKsvNYMc4o52UHlzrFCXli6tfd8YoBQBnfn3QVC3E//k7R9CAG+tjN4oo1K7+ybDF3PuIp/DgOFw9ZR+dXDj/Qpo4in6At/5QS+pvu8oNkPeoZviGTusSTAalse1OSjR9iAnPlkXiky6ZAglNHHTflbOVe4BDcqIrJTvwueScT1TmayEC3Pg9Nw3w1SLKlNQBG2lFD+dyQsWMFyfLOQF0yrBmxPZMgpGy7pQdjp/+pAyq22JMeve1cVMUz8DK7A9MvXcXKTXYBXYs/OMMgd5L/nmghnnepRNfXa9IDrGYinp53Qtx9dtcX887KGSVcD6bxi4sppal+wu6deQ7+e31KdtwfA==;g6sm3S8C/EdHk11QJ17CPg=="
+---
+

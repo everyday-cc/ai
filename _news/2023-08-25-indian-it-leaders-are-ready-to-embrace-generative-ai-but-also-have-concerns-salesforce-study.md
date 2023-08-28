@@ -27,102 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales"
-    excerpt: "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season."
-    publishedDateTime: 2023-08-23T21:57:00Z
-    webUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/"
-    ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
+  - title: "Generative AI And Sales: A Business Perspective"
+    excerpt: "By better understanding how AI can increase your sales, you can develop customized methods and ensure you can profit from this new technological breakthrough."
+    publishedDateTime: 2023-08-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63e417d475ec314ca09be102/0x0.jpg?format=jpg&crop=3855,2170,x0,y191,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e90ebc90981300bad8ae21/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Hugging Face raises $235M from investors, including Salesforce and Nvidia"
-    excerpt: "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round."
-    publishedDateTime: 2023-08-24T19:36:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
-    ampWebUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
+  - title: "Here's a better problem - generative AI detecting humans"
+    excerpt: "AI-generated content is starting to pollute the Internet, businesses and schools at an unprecedented scale. In some cases, it may be easier to detect human text than flagging generative AI content. At the very least, they could complement one another."
+    publishedDateTime: 2023-08-24T09:42:00Z
+    webUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans"
+    ampWebUrl: "https://diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-better-problem-generative-ai-detecting-humans?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602"
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/hacker-2883630_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
+    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
+    publishedDateTime: 2023-08-27T04:53:00Z
+    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 51
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
         width: 1200
-        height: 602
+        height: 600
         isCached: true
-  - title: "Salesforce Releases AI Acceptable Use Policy"
-    excerpt: "Salesforce's EVP and GM of Industry Clouds Jujhar Singh talks about the future of generative AI and the new policy."
-    publishedDateTime: 2023-08-24T22:26:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-ai-einstein-studio-interview/"
+  - title: "When the generative AI hype fades"
+    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
+    publishedDateTime: 2023-08-28T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
+    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
+    publishedDateTime: 2023-08-25T14:15:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 18
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
-        width: 1400
-        height: 906
+      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
-  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
-    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
-    publishedDateTime: 2023-08-25T09:11:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 43
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
-    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
-    publishedDateTime: 2023-08-24T21:49:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
-  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
-    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
-    publishedDateTime: 2023-08-24T22:06:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
 
 secured: "8DZkoqz5hB8b2QBGxY0K/ZYl4FS78ypvG71rN0tRkExJkyYtRnlfvpKWEBcKlYK7+CavW09MIuJtFX4IZUN/zmLN9iTWzZCZoThTFMAcxPO09zu5NFE/mz7DFk9vcN8QwRdtbpacEymZ0lORayAEO3RXl9EK7aQ3kfIMFPTn1AK4fzd/ymImqjjIBZZVesL5eA4EmaUTHejk71/tSiy2mzegPSwvHvUwchWsxD6aMUlgDOi8+Ix86Xh2Mtwhy4GDM/n5UzSS/x2vVI4dRj90Nr/+0m2rVxaz60cXrEU6evW3jRrf1DGSa69z6EzSCthjBc0R9bqc25UZtdL7+IOfvaLFCRMqMBUKEWBGu5vYiM4=;hHPFdZAHyS3v0R4rFa5mag=="
 ---

@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-07-19-computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-2028.md",
-      "title": "Computer Vision in Healthcare Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2023 - 2028",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33263028/computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33263028/computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33263028",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33263028",
-      "publishedDateTime": "2023-07-18T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai.md",
       "title": "Tractable snaps up $65M led by SoftBank for car and property damage appraisals using AI",
       "excerpt": "Today, a startup that has been an early mover in the area of applying AI, and specifically computer vision, to the world of insurance is announcing a round of growth funding to continue expanding ...",
@@ -1301,6 +1257,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-tfgm-no-ai-facial-recognition-in-new-oldham-speed-cameras.md",
+      "title": "TfGM: No AI facial recognition in new Oldham speed cameras",
+      "excerpt": "New speed cameras have been spotted going up around the borough, amid speculation they could include AI or facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
+      "originalUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theoldhamtimes.co.uk/resources/images/16947498/?type=responsive-gallery",
+          "width": 650,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoldhamtimes.co.uk/news/23624964.amp/",
+      "cdnAmpWebUrl": "https://www-theoldhamtimes-co-uk.cdn.ampproject.org/c/s/www.theoldhamtimes.co.uk/news/23624964.amp/",
+      "publishedDateTime": "2023-06-30T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theoldhamtimes",
+        "domain": "theoldhamtimes.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

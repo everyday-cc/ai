@@ -26,73 +26,75 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-25T14:32:00Z
-    webUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html"
-    ampWebUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
+  - title: "Generative AI And Sales: A Business Perspective"
+    excerpt: "By better understanding how AI can increase your sales, you can develop customized methods and ensure you can profit from this new technological breakthrough."
+    publishedDateTime: 2023-08-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e90ebc90981300bad8ae21/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-27T21:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
+  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
+    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
+    publishedDateTime: 2023-08-27T04:53:00Z
+    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
+      name: Inferse
+      domain: inferse.com
+    quality: 51
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
-        width: 473
-        height: 315
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Multicloud and generative AI announcements signal new chapter in VMware’s evolution"
-    excerpt: "Part of VMware’s message is that in the new reality that encompasses generative AI for the enterprise and a desire to operate in multiple clouds, finding people with the skillset to handle a diverse infrastructure can be a challenge. The company is focused on making this a simpler proposition for customers."
-    publishedDateTime: 2023-08-25T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/multicloud-and-generative-ai-announcements-signal-new-chapter-in-vmwares-evolution-vmwareexplore/"
+  - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
+    excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
+    publishedDateTime: 2023-08-25T11:23:00Z
+    webUrl: "https://www.forbesindia.com/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 48
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Prashanth-Shenoy-Krish-Prasad-VMware-VMware-Explore.jpg"
-        width: 977
-        height: 651
+      - url: "https://www.forbesindia.com/media/images/2023/Aug/img_216853_opening_shutterstock_650850907_bg.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "At VMware Explore, experts debate questions around AI bias and the future of data privacy"
-    excerpt: "At the VMware Explore conference in Las Vegas on Tuesday, the focus was on what artificial intelligence can do. Today, the company turned its attention to what AI should do."
-    publishedDateTime: 2023-08-23T23:41:00Z
-    webUrl: "https://siliconangle.com/2023/08/23/vmware-explore-experts-debate-questions-around-ai-bias-future-data-privacy/"
+  - title: "When the generative AI hype fades"
+    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
+    publishedDateTime: 2023-08-28T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
+    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
+    publishedDateTime: 2023-08-25T14:15:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 18
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/VMware-Explore-AI-Panel-BroussardWolfSilverman.jpg"
-        width: 806
-        height: 524
+      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
-    excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."
-    publishedDateTime: 2023-08-25T17:32:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/vmware-enhances-enterprise-ai-management-balancing-gpu-scarcity-cost-savings-vmwareexplore/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
 
 secured: "T0o0byK/MW6b0sJRAQ0sJRJ2rYeKhRNHZc4/GaCxmo2T2wPOT5Ymi+2FcOxwRZp50BR3S8jmUyEyxwSPyUxc+uiXLuxFIrJSORV/eZ705C2bO+IIgyk/hZtc4uS6rX9BCjclgJmFA6r09vegYc16M3TGoILRDc+fXMVWLTATCJLkHwf9VNwMzyIiDz5IPfI2AAEP0+t/7JWeY7wVqK2zBuJ8DFPHgGuRhjmZDuacGwMolHHLBZED0yFYnlA/lCPBxJWbZGnFqE7AjMIUlEn7cdF1SIT59a+1ELq7PER6B31isgxh6vOlKYiJyq0K3HYIHdUQykvOr25n46r4zzcuJCzt0VuXqj3ccWD6hjs6Lco=;XHVorQENxuz0SdVs8hoAWw=="
 ---

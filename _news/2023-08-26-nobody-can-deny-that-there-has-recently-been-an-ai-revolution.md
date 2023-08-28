@@ -116,6 +116,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "7EKzVacWKithSrcybRH4XcMUTUATzYsGiZ7Ba/TE4NH9g3FLSdbeh4mixCfHoJlqF1y8NXXSnR1s0uxU5XAancuD2qB/vnntmhYpRk99TR5niv1YYAz5VqS/jAX5rm2FAKdCzxzSzJ2jKmdHFCr4P83bqPTR9VlJTV4Hq/7RFBdtScsR3s4HAOUPJRCtL7781uqxyB3yvZYjhKmjuKDwOooQ8jyemT8ejSpKMCgCa6gIWTu6fw6tAv3PZFLteYmYaT+veFRJb8j8DNc6bzrd08pKoxIM07sA53xA5nd+Xc/hIg6fccqTVDBkgqEPZXS801VG+YO9+VBI/xqTwhmgBwTLz4E5DWEVW5lb12stldw=;gsNQ/eA9Y0q3XLlf6W714Q=="
 ---

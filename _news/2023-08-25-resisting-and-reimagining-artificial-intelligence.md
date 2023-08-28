@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning can help with DEI hiring"
+    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 34
   - title: "How Anastasia Gorban is reimagining the idea of morning pages with her AI-powered app"
     excerpt: "As someone who finds it difficult to stay concentrated and committed to doing a task every day, Anastasia wanted to build a simple app for completing morning pages."
     publishedDateTime: 2023-08-24T17:53:00Z

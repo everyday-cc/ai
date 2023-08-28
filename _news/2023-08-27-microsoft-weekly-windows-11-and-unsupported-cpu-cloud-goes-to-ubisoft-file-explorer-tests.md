@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupport
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
 type: article
 quality: 78
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 3584
         height: 2048
         isCached: true
+  - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
+    excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
+    publishedDateTime: 2023-08-28T13:13:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Expands-Partnership-with-Microsoft-to-Support-Companies-Adopting-Generative-AI-160210.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 28
 
 secured: "MzM91JXsl2B4G+KwITDhn3ioNqZ21CB6C+OX99bKY3/9VX7kFgN1OZ89xyPstuA0jzsLipRJO8CN8q1oqxii1UnjI3CjuvPoLbETve/Wl0NZTh46udMwoDF+JkbVYsyFJo4+gAPFCvvUpWCTi7MgNreXKtKaBta9eO7PmMo9Dg0Jj0ZcPZ4BuA1mmQs4Ik+SsO2dd5yc7u7QN/NfdlDDQhPoAZsFEi0J3pLHpLVyXzdI/vZPeDH2ZkOKna9N6G0PWCDA5sVFuoxYRxe245a0suReNzVBqHzz9DbrMC2yXXNB+YFWek8W0aALSU2MNZ1eW/6Hy3aoNeF3QSZZmKe596l+UUfCDS94FAwrx2vsykgQ6b+o2IljGaCoK8rQf3WJnsknaWkfB2foPrvprwPxX4VbO/x4GAtDLLQhaThJaJgAQdNQl6U5MlKXHOL5tqasHSRtjkwIwi8mHky0Y7quVIYV5Ww40VsNBFhorT3ef2RstwZK/Tvn8UUDnyeuCth+gxmALtAVjL/Lf4FkFDgCUw==;YHvXVKGq960QOJUsU3s4cQ=="
 ---

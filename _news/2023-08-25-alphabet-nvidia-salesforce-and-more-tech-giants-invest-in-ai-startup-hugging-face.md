@@ -18,109 +18,165 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales"
-    excerpt: "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season."
-    publishedDateTime: 2023-08-23T21:57:00Z
-    webUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/"
-    ampWebUrl: "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/"
+  - title: "For Nvidia, it’s AI or bust as it reports a record-breaking quarter"
+    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63e417d475ec314ca09be102/0x0.jpg?format=jpg&crop=3855,2170,x0,y191,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Hugging Face raises $235M from investors, including Salesforce and Nvidia"
-    excerpt: "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round."
-    publishedDateTime: 2023-08-24T19:36:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
-    ampWebUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
+  - title: "AI boom drives chip sales for Nvidia, which has substantial Triangle presence"
+    excerpt: "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company."
+    publishedDateTime: 2023-08-24T11:14:00Z
+    webUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 88
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602"
-        width: 1200
-        height: 602
+      - url: "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Salesforce Releases AI Acceptable Use Policy"
-    excerpt: "Salesforce's EVP and GM of Industry Clouds Jujhar Singh talks about the future of generative AI and the new policy."
-    publishedDateTime: 2023-08-24T22:26:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-ai-einstein-studio-interview/"
+  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
+    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
+    publishedDateTime: 2023-08-27T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
-        width: 1400
-        height: 906
-        isCached: true
-  - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
-    excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
-    publishedDateTime: 2023-08-25T11:23:00Z
-    webUrl: "https://www.forbesindia.com/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/indian-it-leaders-are-ready-to-embrace-generative-ai-but-also-have-concerns-salesforce-study/87773/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 48
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Aug/img_216853_opening_shutterstock_650850907_bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+      - url: "https://images.wsj.net/im-841956/social"
         width: 1280
-        height: 723
+        height: 640
         isCached: true
-  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
-    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
-    publishedDateTime: 2023-08-25T09:11:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+  - title: "Nvidia thinks AI boom is far from over as GPU sales drive big earnings win"
+    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
+    publishedDateTime: 2023-08-24T19:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 43
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 79
+  - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
+    excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
+    publishedDateTime: 2023-08-24T10:19:00Z
+    webUrl: "https://www.techspot.com/news/99903-ai-surge-propels-nvidia-revenue-staggering-135-billion.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-20-image-9.jpg"
+        width: 4167
+        height: 2688
         isCached: true
-  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
-    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
-    publishedDateTime: 2023-08-24T22:06:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+  - title: "Nvidia tops estimates and says sales will jump 170% this quarter, driven by demand for AI chips"
+    excerpt: "Revenue in the second quarter doubled from $6.7 billion a year earlier and increased 88% from the prior period."
+    publishedDateTime: 2023-08-24T03:54:00Z
+    webUrl: "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+  - title: "AMD: Strong Read From Nvidia's AI GPU Surge"
+    excerpt: "The Nvidia FQ2'24 earnings were never really about whether the GPU chip giant could hit the $ ... and so that's what we've been working on. Our AI engagements increased by more than seven times ..."
+    publishedDateTime: 2023-08-24T00:28:00Z
+    webUrl: "https://seekingalpha.com/article/4630716-amd-strong-read-from-nvidias-ai-gpu-surge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1468619897/image_1468619897.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1017
+        isCached: true
+  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
+    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
+    publishedDateTime: 2023-08-25T02:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
+    excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
+    publishedDateTime: 2023-08-24T01:01:00Z
+    webUrl: "https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
+    excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
+    publishedDateTime: 2023-08-25T01:50:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/nvidia-ceo-says-ai-boom-is-not-a-one-quarter-thing-599627"
+    type: article
+    provider:
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg"
+        width: 609
+        height: 457
+        isCached: true
+  - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
+    excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
+    publishedDateTime: 2023-08-24T00:13:00Z
+    webUrl: "https://siliconangle.com/2023/08/23/nvidias-stock-climbs-record-high-ai-boom-ignites-rapid-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia Effect Wanes, Hiking Hike Odds, Indexes Hit Resistance, AI Washout"
+    excerpt: "Plus, Boeing stubs its quality-control toe again and a lament about why the Treasury borrows so much money short term."
+    publishedDateTime: 2023-08-25T11:59:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/nvidia-effect-wanes-hiking-rate-hike-odds-hitting-resistance-ai-washout-16131812"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 16
 
 secured: "lz7YAl3pKoNfKWvqAhKsRta2rWeZL2guyXYln3QmUQ/N4rQglv0oUIWDbMtnfGWgJDxo9dGAXqBj3cFINa4y9QCaaunLVWROS1kGqPZrTxyRC+ePSsg8CL71t/BVCT5Cn53sV+j/Wk0pNw9Ff2VxVTPfGNY8YKqr7aY3yLZc3RMPz6E89NYkoGKrxdLxS3qJfQaB9dqpiMQYn6WybQ5Y3VC0b79aGeXCOCz+hmcVruU2dXht8QYRue/7gLhnd1xThHB68G4VmW6xgp4scjQku7RM1M/DKHGi9fnM5W5s7RJD9Q4GWzw1PFJpcGSLRSToE1fpgwZ0f12aK/McYvQAvdAGyD7OXKR43/krzvhvi96/RdwaIlfimGvCtlMy+VkSm/uAXD8/+gYVX4n7QihhLhK2+zhou8mQuz2S8kw29NHNqDqjJzy0OMeUjUkzXbmYV1nSIf8ccuheHOCq+Pj7UBfos0LFayADTW5NLCEO1BdVcHydcs1TeQWRcVJzqqiqkB160kMWInVCfv/5nutq4w==;T2yNW5PORenrZ49dYTpZ2w=="
 ---

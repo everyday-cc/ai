@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aw
 webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
 type: article
 quality: 54
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: datanami.com
@@ -25,112 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "HCLTech partners with AWS to drive GenAI adoption"
-    excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
-    publishedDateTime: 2023-08-24T04:16:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption/102999325"
+  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
+    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
+    publishedDateTime: 2023-08-28T15:47:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102999325,imgsize-71678,width-1200,height=765,overlay-etcio/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption.jpg"
-        width: 1200
-        height: 765
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Generative AI updates from AWS Summit 2023 NYC – About Amazon"
-    excerpt: "Vector embeddings allow machines to understand relationships across text, images, audio, and video content in a format that’s digestible for ML—making"
-    publishedDateTime: 2023-08-25T00:48:00Z
-    webUrl: "https://www.inferse.com/691335/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/"
+  - title: "AI, advanced analytics, Medicaid fraud take center stage at National Conference for Healthcare Payers"
+    excerpt: "Utilizing advanced data analytics and Artificial Intelligence (AI), Sandata Fraud Alert ... the District of Columbia Department of Health Care Finance Division of Program Integrity showcased its strategic collaboration with Sandata Technologies, the ..."
+    publishedDateTime: 2023-08-24T22:15:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53070395/ai-advanced-analytics-medicaid-fraud-take-center-stage-at-national-conference-for-healthcare-payers"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 54
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-3141.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
-    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
-    publishedDateTime: 2023-08-27T04:53:00Z
-    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 51
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
-    excerpt: "The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and readiness in the region."
-    publishedDateTime: 2023-08-24T11:22:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uae-government-partners-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-v2ohooho?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 46
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NWM1ODA3ZjItZmE1ZC00/0/1-jpg.jpeg?f=3%3A2"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "The UAE government partnership with MasterCard to accelerate adoption of artificial intelligence"
-    excerpt: "Dubai: The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase AI capabilities and readiness in the region With Artificial Intelligence (AI) playing an increasingly transformational role across society."
-    publishedDateTime: 2023-08-24T09:44:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFkOGU3NjItYzEyZC00/0/h-e-omarsultanalolamaduringmousigning-3-jpg.jpeg?f=3%3A2"
-        width: 826
-        height: 551
-        isCached: true
-  - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
-    excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
-    publishedDateTime: 2023-08-25T13:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Epic looks to accelerate generative AI offerings"
-    excerpt: "Epic and Microsoft are working together to integrate generative AI into EHR software to reduce the documentation burden on providers, and are piloting the tool."
-    publishedDateTime: 2023-08-23T20:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-looks-to-accelerate-generative-ai-offerings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/medicaid_fraud_1.64e7d1e26b2dd.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
-    excerpt: "(MENAFN- Weber Shandwick) Dubai, 24 August 2023: The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and ..."
-    publishedDateTime: 2023-08-27T12:35:00Z
-    webUrl: "https://menafn.com/1106968443/The-UAE-government-partners-with-Mastercard-to-accelerate-adoption-of-Artificial-Intelligence"
+  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
+    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
+    publishedDateTime: 2023-08-28T14:06:00Z
+    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
+    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 6
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 36
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "I9s0smjBNOAe9NGpN1eHT6YG6/YOPQvUZEUz3VtGQpIPqG8Zd7pbJjBEeQe77LT03sr//jTOOFMiZHjQR5k9/z5IsT6sOOYId48iZc7hd06aM6Jqd1L+88lbnT8KX5IDdP9fDAFVBzDYyUYosT1C4IZnDprTdtNFdgEP0brVHGbUS3fU2HohGHhZBobuDA/xku8JpkYTryu/7TYxEfUV6proYkndGLDRzFEg1h4WCcgRlDOjz13B6Zhg1jna7d6WymywtzjEpRUqbPvga9FtaOo8yRraLY5Jze47DIJm59SGfeAnJ9VVTiEkHlUIrD90l1yEltmkIsZlKGpXU5xHIeottu4mIm0Y6/nSPqcdUktFIPLiKPbJluy/muK5AIP05h0GNxql7DM1GZy1IP6ptUmSQRfNTigqv6Hnk8feNYULpGVYF9sRs5pVWbd9Q+dqNk1J+CPFhKovXMSwfrWIzEbkW+sptuIumlp3UAAZLnaZJVHVXdKse48lhDLkFyGwVDuyoHvtLaxUKdObkAfx5w==;60r4HqUUeLO2t7tBUw894A=="
 ---

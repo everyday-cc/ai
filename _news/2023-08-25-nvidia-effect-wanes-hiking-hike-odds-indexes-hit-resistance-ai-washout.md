@@ -96,15 +96,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 69
-  - title: "Your Evening Briefing: AI Chip Star Nvidia Lifts Broader Markets"
-    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
-    publishedDateTime: 2023-08-23T21:59:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-23/bloomberg-evening-briefing-ai-chip-star-nvidia-lifts-broader-markets"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "AMD: Strong Read From Nvidia's AI GPU Surge"
     excerpt: "The Nvidia FQ2'24 earnings were never really about whether the GPU chip giant could hit the $ ... and so that's what we've been working on. Our AI engagements increased by more than seven times ..."
     publishedDateTime: 2023-08-24T00:28:00Z
@@ -135,20 +126,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Nvidia Revenue Doubles Over A Year Due To Generative AI Demand"
-    excerpt: "Nvidia’s revenue doubled over a year in the second quarter, mainly due to strong demand driven by generative AI."
-    publishedDateTime: 2023-08-23T22:57:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-revenue-doubles-over-a-year-due-to-generative-ai-demand"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0282-185daea718be-c7b8fa459cbb-1000/jensen-huang-nvidia-2023.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
     excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
     publishedDateTime: 2023-08-24T01:01:00Z
@@ -162,20 +139,6 @@ related:
       - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "VMware and NVIDIA unlock generative AI for enterprises"
-    excerpt: "The NVIDIA L40S GPU enables up to 1.2x more generative AI inference performance and up to 1.7x more training performance compared with the NVIDIA A100 Tensor Core GPU. NVIDIA BlueField-3 DPUs accelerate, offload and isolate the tremendous compute load of ..."
-    publishedDateTime: 2023-08-23T20:50:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/cloud-security-solutions/press-release/53070236/vmware-vmware-and-nvidia-unlock-generative-ai-for-enterprises"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/OIF.64e66f2d1c942.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
     excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
@@ -205,15 +168,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia’s AI boom exceeds Wall Street’s lofty hopes"
-    excerpt: "The jump in sales lifted Nvidia’s after-tax profits to nearly $6.2bn, up from just over $2bn the year before. Pro forma earnings per share rose to $2.70, compared with Wall Street expectations of $2.02."
-    publishedDateTime: 2023-08-23T21:16:00Z
-    webUrl: "https://www.ft.com/content/4197702a-9749-4eca-912b-07cc4880c336"
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
 secured: "7PNdYQtpdXColw06aTxf8RJ+Fw2SJshn3kovUbxbwlLPbLMh9gKAzA9d/4payU/k3hIyYkTs3Ae9nQJv98V/l6UKvIhAxvqIWlCgou41ZWJK893UpYnBU07v55I3DC5x5ddv0zAsNDyO5HUAfWm78u9yYknFD4vxTP9mzcvRaq6Kb3nphV/mQRH+/hCB9kCInZ8WKslmNkKk0CAkmFomO5zBRvTyDQmXko3VnWgYoJOcQ+4WeBZRrvNcmAg4QY3T48b5zymzs1wBSXdOv7PSdNoGsGQ78db431akvaaeZHOVIdc7Kds3gA3Gf6mqjvRyC0qs2a+hxIPKlndogZwBc7cbYiXbCW0qlTF34f1z8A8wE4tpTz/TeJgc44nX4VDbP/VPP0p16v7mhfPtjXF2L9P2UgpQ8UMhwzrVy5XQcpoKWt5ZJfjCT7EUMGUxzRxMFOIBM0OOHfCL3/Rp5P1SBWU1D/G5GumD5HnRJaZGPP8Vqhkf0/mLzXuT2CuxQQupG6M4/6UxzAm0S7/RAr19DQ==;/zZntNpQDQQD15Ln+Vvx+w=="
 ---

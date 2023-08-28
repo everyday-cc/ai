@@ -25,6 +25,22 @@ images:
     height: 998
     isCached: true
 
+related:
+  - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
+    excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
+    publishedDateTime: 2023-08-28T15:19:00Z
+    webUrl: "https://www.techzine.eu/blogs/infrastructure/110605/store-your-ai-workloads-in-google-clouds-customized-cloud-storage-services/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-Cloud.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
 secured: "5tPdvhpa0bOz1IDiONQU71Qmla8DdPw7HJK/hGXBw2onp/D9WMeCMdl0Kq8yCAGds7cMm8UqT9S4ihXtEXkFOHidDnezobw48qUAT2daRjPaZNhtqFDPhdZtn6TyiF+jAZudnm9FtTg7FsePV+b29813Y+7ly3kdlEATKmH1HwerenryqeeYcQl5vS+X2Dsisq2RPdszIuTeS6lWuYpy7nT8LjtyvDMKWHqNVSeeRGIu3jpJZlX6I/Bz/lBbWxZFwuZt6WZnsq04MJjne52Q+0FuBhz1EBvdtXK0XkfrjmgBaRkH3XJybI9dNHEMsITUOXjbUWs6QwrqPWiXmlzs7udWwhHZB82uvWSADyDKMPizPTQT+aP719WItuUrqme1sLBDjPyL9sE/VUr5xEsWdtFdjpXVzOmn8UAizLUeuc0db9idYJavAT5TeJjTCXcJwQR3J5rc0FPa+2Un/Jfo4ZfHjvPGpgd1CRKlfk8FXNjRbTdbL5eKGZqu7b1bMEsK+0QGqSaj/8rmj3RRMRY2GA==;z/36yOqSLFHuKfdwePh+0w=="
 ---
 

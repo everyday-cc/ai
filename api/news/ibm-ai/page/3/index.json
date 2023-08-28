@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-02-how-conversational-ai-can-transform-it-support.md",
+      "title": "How conversational AI can transform IT support",
+      "excerpt": "There are two prominent problems in the IT support process: repetitiveness and availability. Here's how conversational AI can help address both.\nThe post How conversational AI can transform IT support appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/",
+      "originalUrl": "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/dsc09921.blog-lead-space-40x21-1-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-incident-management-vs-problem-management-whats-the-difference.md",
+      "title": "Incident management vs. problem management: What’s the difference?",
+      "excerpt": "incident and problem management are two important processes for issue and error control, maintaining uptime, and delivering a great service to customers.\nThe post Incident management vs. problem management: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "originalUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T08:18:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ibm-study-reveals-how-ai-automation-protect-enterprises-against-data-breaches.md",
+      "title": "IBM study reveals how AI, automation protect enterprises against data breaches",
+      "excerpt": "The more integrated AI, automation and threat intelligence are across tech stacks and SecOps teams, the stronger they make an enterprise against breaches. Follow-on benefits include greater cyber-resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/660202/ibm-study-reveals-how-ai-automation-protect-enterprises-against-data-breaches/",
+      "originalUrl": "https://www.inferse.com/660202/ibm-study-reveals-how-ai-automation-protect-enterprises-against-data-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-487.png",
+          "width": 702,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai.md",
       "title": "How foundation models and data stores unlock the business potential of generative AI",
       "excerpt": "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n",
@@ -1183,126 +1320,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
-      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
-      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ibm-watsonx-is-now-available-to-help-businesses-accelerate-and-scale-ai.md",
-      "title": "IBM watsonx is Now Available to Help Businesses Accelerate and Scale AI",
-      "excerpt": "IBM announced it is rolling out IBM watsonx—the enterprise-ready AI and data platform. watsonx comprises three products to help organizations accelerate and scale AI—the watsonx.ai studio for new foundation models, generative AI and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-watsonx-is-Now-Available-to-Help-Businesses-Accelerate-and-Scale-AI-159620.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-watsonx-is-Now-Available-to-Help-Businesses-Accelerate-and-Scale-AI-159620.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-exploring-the-ai-and-data-capabilities-of-watsonx.md",
-      "title": "Exploring the AI and data capabilities of watsonx",
-      "excerpt": "Discover the capabilities of watsonx, a new AI and data platform empowering enterprises to leverage their data and scale AI for business.\nThe post Exploring the AI and data capabilities of watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

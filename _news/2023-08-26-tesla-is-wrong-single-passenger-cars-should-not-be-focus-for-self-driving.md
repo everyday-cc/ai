@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 770
     isCached: true
-
-related:
-  - title: "Tesla using Full Self Driving ends up sunk in huge puddle"
-    excerpt: "The YouTube channel video is built on the footage captured by Ryan’s Tesla dashcam, and shows him passing one of those “FLOODED” signs one last time; approximately 180 metres past it, the car suddenly comes across a stretch of about 30 metres of highway submerged under still water."
-    publishedDateTime: 2023-08-23T20:00:00Z
-    webUrl: "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california"
-    ampWebUrl: "https://driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/crashes/tesla-model-3-full-self-driving-sinks-car-puddle-california/wcm/bcc15bd3-28c8-45e7-8e90-38dea8dd3570/amp/"
-    type: article
-    provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 74
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2023/08/tesla-model-3-FSD-sunk-puddle-Mono-City-Ryan-.png"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "AEYUJ3gXBFZKB/DI4uiIN7RiDUmSCqlYMVte7yVMm2NyY5fv6Tx3i120X16s2QeOdCVJgaM7Aux/lsPfE2meWnl8egJCvSgKD/9HtoaBdOCDzs1PiB06Oc04W2fi1OFBW+5ZOzcwSy9LsLn6+dILy++Y1cKMArNr43W2aVSuiPqI2tDABz/7wvhd56ZSfza1PqgNZmT1JHPm6/9ZPMwKwHdZ0NosJIAtWO5Ad1OAs06jh6i/m8Hu0/6R8CXVNmmyiFfy5vxowCv2Af1nbwsygFlIUwmctzHCZ+dkhbzH/hmBxaZ0lWJAhrb6nDvmiQ1l399TTM1P1q1tyBLga0V8BvJTVCUbiqM+CHqiG0K4ibIH7lvpUQTugyvoPAPJ8WcK2CLRtLVBuy30EPqchKIZXAYW8G+5I6R3pTD3xcLec9/aeKvlG+O1oVVS+9LqrLSELYug2xQWrYe5Iec84NFaiUIOi9t47MPob1k47+1u3aYUmYlnDujR+qyeVFe/y0weQaCuAsjn06EUUQ+/Lz41HA==;wJTutPwiB9vyaC4MGLzoqw=="
 ---

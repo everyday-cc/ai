@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Navigating the surge of artificial intelligence in higher education"
-    excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
-    publishedDateTime: 2023-08-23T21:26:00Z
-    webUrl: "https://dailyiowan.com/2023/08/23/navigating-the-surge-of-artificial-intelligence-in-higher-education/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 56
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/USEAI-front-1-e1692819996951.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "unVgvBwZIXfAe5YlWyMIWUZ7kHOnyO2mXKcEBPX7orjTUEj0YwyzgKp+lGKO+hGcMN/cxA5uP7idxuaEntVyNg3CtnUwrNQvefmAdGQn4eecvh1Jb6wHiMtwILO6pFKwwWhjK/GglKjQksWbyUFqB2vFkjSqStOZ3wv71BXEAuBgpF5YeP22nWluYDfCZeP30x5zdXzIWSelG1kh1rwoH7vcutttiYLFeHXp+k6O54zxScb3Pm9vgu1IsZ+t+UgZeXcnApYHwCh/9xtaIL0Hw2ZhvZd+03jYf6tGm1VL1tIcUIkbrkFmbpGGceM+tHCKQfV/Ky+XKk37qW4aeFkI0PUnA4J6ismPmpObROZQ2Eg=;zZGPysbLHdsXiC/h28RUZg=="
 ---

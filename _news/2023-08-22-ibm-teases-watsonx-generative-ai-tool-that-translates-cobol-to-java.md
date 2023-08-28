@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java"
-excerpt: "IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence-assisted offering in September, which, once it’s generally available, will give solution providers a way to quickly translate customers’ COBOL code on IBM Z into Java to modernize applications."
-publishedDateTime: 2023-08-22T13:18:00Z
-originalUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
-webUrl: "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+excerpt: "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ..."
+publishedDateTime: 2023-08-22T13:10:00Z
+originalUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
+webUrl: "https://www.crn.com/news/managed-services/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "rbFUopyf+hE6XFVPWYTGnqSmBaaI0RaACIilbpKBI90bOmbqaYV0eAk2pGYkvlSjlcUg8UMGF/xxhx8hRlu0TW8wmFRkJD1z2P8C/9MxrJz+tEW/ESvh7+nJRxmjwUj07ecHUzHLoOMlz/wmYLHkBpwr0VUKqyK8gtJYXPQn4MeIAIGkL3nEPhCLuqB/oI/aH+3rR2iRHFP5UdERkTN0y9MJm9k9ibWpuIW6J5hK9jPUZZdfUqfutmn0ln4vG2szPlv+HvEE20Vor1OUYVn7BTffWV2CzCpyxG9mxHiw/FTNxYeECa/r+xmvMtAHtnPX/Ii7DGusa0vc31SCCpgm7ss5/pZduOZQ0CkBdJ9jrSn+lKyU+o+549B2uOQhoIq1zjG33nQR/tIX9vGb4bN7kHXB+hIGl0Uxi/e2xhlMC2I1+mDstg/S39eNLNUydRRt6PdqShZSm0VeChZknEBBoekniEaKzNDeQ68U6hsTsb+WIKJ1O38p8BDhrL992NmOZxrVM+u5m3O8Uj/hZLsDOA==;wd+oVVWYU4P0g+YfbZd2sw=="
+secured: "4q0VAQsn6Q3N8T6qujsZJsY4vz4a6S3KQVDfBmtKO6V+UsWPu6UR6HRMg3IyDsaAGLSBsqfWDrmLwIArk5nQxB2ixXwF1XJDTxI826XM4SxZfuVK3uNTQUEEB3wNyEXVjvLxpo4WuNi9Zbk3b0WHgoE2NpZBJIILULpoEcURAk8fosxXVDWoyu/NZun9l3TNCzsAUlnedc3xNWQIaabeFP5d8LUwLVIE0ruyfu9BJyBicVIu4lJIty7OZYQFoVYP2sojk1UFvSwlVWEScUACeaooAr5Qj6R6ZOuU2mw0zn3rxxonrSgVTIGsE5vpU6NW6wga0ewK4Fa5UQJtz29tPcpKWhq1QXHjrrHipWINk2Y=;FKSnEW+6ms7d2HJG/OBrXA=="
 ---
 

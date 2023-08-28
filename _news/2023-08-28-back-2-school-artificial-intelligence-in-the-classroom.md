@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wgrz.com/amp/article/entertainment/television/programs/d
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: WGRZ
@@ -24,6 +24,26 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Back to school with AI: How parents and educators can ensure its ethical use in the classroom"
+    excerpt: "It's important to continue the conversation around ethics in tech, Narayan said, not only for how people use the technology, but also in how the AI itself is developed. \"Ethics are not necessarily ..."
+    publishedDateTime: 2023-08-24T15:56:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/back-school-ai-how-parents-educators-ensure-ethical-use-classroom"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 53
+  - title: "Georgia school district brings AI into K-12 classrooms"
+    excerpt: "A school district in Gwinnett County, Georgia, is pioneering an AI-driven curriculum, integrating artificial intelligence into all subjects from social studies to art. CBS News' Christina Ruffini looks at how teachers and students are embracing the technology in the classroom – and how teachers are addressing skepticism."
+    publishedDateTime: 2023-08-28T12:46:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-school-district-brings-ai-into-k-12-classrooms/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "IeMFyBaS2cKXthiv4FGmwc8xBaGxAvBqSZk5JBRVQfhv5mTrZOrSN9hthw3cuzeI+OtSKvw1Jh7RNpBwyCiVdwMSq+cegjLFv4SRFXaD4sjXL1BZMwMJyKp6bbkNDhhj3ZsZymGmbCf+gNDCfPt2as3Podf8ZwJGk3nlxsjLqKKy46xOxb9BNrf9zslHRpZ1/Ou/QZTTbO9nI7GkYZ2shU5D/YbReIYYvkVOS3QQbJSo4SVUm7u6g5hG/ZBz+il73nDdNhhz+jO04PHV7uz6nkA5U1/G4KncQhofSe9bT6Aw3/5GaQqbe9DOfyIqjeF3uZL1WLiQhwarh2fvGxdfQdkjGTBIaRwWWsKLrNEQRs8=;IfO+6WDBzx9HiUE+CPOcFA=="
 ---

@@ -116,6 +116,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "Narmh4PZJfSHVPIrc4ei+/YQ9VKsAtBRDVYcinrtaKvCZ/JaLu3lZ0NXCMBiUf5XbCYvi9sj+c53z3DB46upE8aL+2xEzSOArfTlPK+P/BumCyT6vOpHvu18df9lkPlO57us95tcR32OBzVmh/f3lYt5Tu0gJ3LJGziEvi0czVrAEyF0CIQ5LrmUNEZLngbQwoIH9rislcoMnkVToCiuL9lSZSi5ItHY8+PtyFkba5P/3ITr4vZlOlWNwoSlxXAdv8SujoPu/WZ3+mNhuqF9cwXPfEvyIxvtSq4DljxS/80KhqMdUkhvTyyyTLi0YEqeMtxGfBIBJfP+I9dFYDZ2MrDzJSYQDXL9rx/MojmEjuM=;MPIZ06vum5vqLUx2CiXklw=="
 ---

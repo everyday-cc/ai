@@ -7,7 +7,7 @@ originalUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-wit
 webUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-with-modern-analytics-1.aspx"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 976
     height: 400
     isCached: true
+
+related:
+  - title: "How Macmillan Publishers authored success using IBM Cognos Analytics"
+    excerpt: "Discover how Macmillan Publishers took on their data challenges with a new “modernized” approach to data analytics and business intelligence.\nThe post How Macmillan Publishers authored success using IBM Cognos Analytics appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-28T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "vdZuS0JUHCbJxiNdYuaDTpUIoRFgJgwxIv9Qws1V/AG40+py/yRbUaN0iECoGVNpP/wSYUHOJbPlCDUvh5VGFnyto4MJEe+vmqtxnanYXfGkGHTsJXxke7aZvCaJr/dKZoOy3SyrekWn6bOKh3mTEmaH9Gmhug9/xYJzO6YY8/+LcSRTk9JFqPmxcBJlyPKrDKq4CXWqjCC6BFy/excv854EQbAog8/t2dmNXuVLRZNyNrE91AHn5Thka+c5bioLTNnFppjOmDB/dRIbIet3wrBleW2AR6zmv4YwjR4ny8eH/EtLIUrf2NodNg4i6hl2kKqIOYFd65yET61B8kXucxHYEAt8HlAl2i1Q1GbD06KVFFDtdxEvhy93VKGqTtiQOK323sOfXZTxBek/KxNjda67ETsY8qYm1oB7iYOu5F9DgO5bAR1nwQpWlR3bZ04Y6VekI9RLOwdZDYpUPizErDfYOqJboB4PQCMxY4h/kYFX3I80U+PS6PPiBTuuntX+YDZmH1Ya4TYY0eUt/1rdUg==;LqYeb1z+mGnXlSpT/9q5cQ=="
 ---

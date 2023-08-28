@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the surge of artificial intelligence in higher education"
-    excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
-    publishedDateTime: 2023-08-23T21:26:00Z
-    webUrl: "https://dailyiowan.com/2023/08/23/navigating-the-surge-of-artificial-intelligence-in-higher-education/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 56
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/USEAI-front-1-e1692819996951.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Above the Fold: Artificial intelligence and higher education"
     excerpt: "Above the Fold is The Daily Iowan’s weekly deep-dive podcast into our story of the week. This episode details how professors are responding to AI technology. googletag.cmd.push(function() { googletag."
     publishedDateTime: 2023-08-24T04:36:00Z

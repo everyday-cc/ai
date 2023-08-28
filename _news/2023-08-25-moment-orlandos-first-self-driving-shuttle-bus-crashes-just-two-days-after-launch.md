@@ -26,6 +26,17 @@ images:
     height: 382
     isCached: true
 
+related:
+  - title: "Viral Video Shows Scary Self-Driving Shuttle EV Crash Days After Initial Launch"
+    excerpt: "A fully automated bus was involved in a collision in Orlando just days after being released onto city streets."
+    publishedDateTime: 2023-08-28T13:15:00Z
+    webUrl: "https://ijr.com/viral-video-shows-scary-self-driving-shuttle-ev-crash-days-initial-launch/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 0
+
 secured: "zLO+WODCOzz70uIx/SJzizOIrnkJwPCvYBouyXnZ84aMH9jVxS+ebNostkEx9CAYnbglzRnh2nLoSFy57YwTzSAu2BI4LW+ZcFRfnCnILkMebCzkOELIujtwCRhPjDQCZALEezpf8yu5wM8badvzbfNVfXlRKOzgI57s71N4WVTyPefN2Pwjmu9rkJVOQv6W8F0Mu0GVCPWQ7+ROGD5FbEU6GXej9j5sJ5osG+Fu3DLedhw+jKRKYreN1NCRaH+T5tRJ63mB9XCg7Z+iUTNe0qbUhmxkNJo6DALEfdNuLDkl20Kk9HXbzpxW1CJ/TsoI4TBgG4pVMjAjIYUY9vAFxxex5odj00IP+bZUsKg0gwE=;8Vnx4PdRYmi4JrRio/fyPQ=="
 ---
 

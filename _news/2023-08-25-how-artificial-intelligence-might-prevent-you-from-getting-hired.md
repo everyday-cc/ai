@@ -7,7 +7,7 @@ originalUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligen
 webUrl: "https://www.aclu.org/news/racial-justice/how-artificial-intelligence-might-prevent-you-from-getting-hired"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2800
     height: 1400
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Might Prevent You From Getting Hired"
-    excerpt: "If you applied for a new job in the last few years, chances are an artificial intelligence (AI ... law enforcement, and health care. Recent reports indicate that 70 percent of companies and 99 percent of Fortune 500 companies are already using AI-based ..."
-    publishedDateTime: 2023-08-23T21:34:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-might-prevent-you-from-getting-hired"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 39
-    images:
-      - url: "https://www.aclu.org/wp-content/uploads/2023/08/robot-choosing-employees-f.jpg"
-        width: 2800
-        height: 1400
-        isCached: true
 
 secured: "G/P725h2wn8cHbObYWQgGK7yB7soFxMT9JQS1ErYuzu8wex9HsVPBCbxpno0B0BqDv9fKZgPgXJj3S0pyCpsxXD8oIObPg77X7OUnz2tZLVJW5gNH6ky/D0XBJetVZXS0OdVz+3I5kbVfTDFNnJFpZNqL5G5ADRsFCAbnUad3xWV1dVWFGP7w+XpFEcXF1APhPPlIgn6RwLT5h0KQZE45UlwBWWvNy/ih5ZgNPMp7/D276fSxuxS+XA3F45nMiMG2EUAx16X92i0gCNTS6enrtqxkdd2qBVyXj+mbl3O0qKUmCClT8HWcezQijr0DTNm6YyTQaFHXAoj/sf9eLh4jY7xtLtM0gAG1HH9fmDGAZYcMdmGUOQz8GXTqhe4WXKFg9BqAtFVfXEOlhQ5lAoKwodBZG/8z7ivrf4YG0jdB0WklFwkjOAceBo4ja7UnRexbYe85PCG5mn65l5z1TWYWTpzSbxV/NpF2qOOpJ/mfneYRiEjBBK38on3TWz39XS2vDNd75PZom1xl0b6bo2RqQ==;jQtYUdWCoxyN2427stA3lg=="
 ---
