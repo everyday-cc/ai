@@ -119,15 +119,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "An AI-Powered Brain Implant Can Restore the Ability to Talk"
-    excerpt: "Patients with paralysis caused by stroke or ALS are robbed of their speech. A groundbreaking set of new brain implants seeks to change all that."
-    publishedDateTime: 2023-08-23T18:12:00Z
-    webUrl: "https://www.thedailybeast.com/an-ai-powered-brain-implant-can-restore-the-ability-to-talk"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "Q8lKIK3LQua+DR6Y293mjza7wuiCJu+4vDIwDdrKDPOfUf+JY8LmPbMRFMP6etW909rODais9q6RKFXZ7/XYdHc3G5n4CUSqxHsQADQYf9FBuP2q5wL/azRjF8QkglS11gxXXmAr7NN1Z6AwAtwB4bZoGToLxh3wrHQAfaZMdQ5uDKRbTSGon7aRdZcA7+12cQ0nz5mLtRZr5WmQxLcfifT4mhjLjOgngEltGTyV6WqTvNy4Ac1aHmfQol0QiALblxJ4aAJ/SeenEZgt0IrsPfQywWAGXLvU4M3JBdmtQuh2GS2G2qvFrK8/atmnEedgooqrEOsoqfbhvanK1hf5WpbIovR2IPP9TksA0f9DXHMhMUJXoqCZTdVZgysKG6mwvOD41TaqOVD+WXplw/4avTiSBBx/XMfWZVrP5TJsHiwOFzASc0myEz/Bnbx4rtnd+KWKaEZO1T796GQn5hbAKA5m7ccXEbUbkIt4XHOVjwky3+cjjhlqGsZycA0DUq8FFxLrtA81Pn+RsmsLDIYPXA==;ZgotJOUrDGD3ara7VpwoPQ=="
 ---

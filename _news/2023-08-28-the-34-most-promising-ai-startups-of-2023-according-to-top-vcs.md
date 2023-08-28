@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-28T09:00:00Z
 originalUrl: "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8"
 webUrl: "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Facebook AI
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+wFkhy4Nmc4XVi8CTNt/MTNkE+g2+42bM6yuBbOEyMPfb1wTz80OlJgMvjDzrrJyisuo9oISCpK+a146FuJOdDCkdOgo3QaWm7LOeDBECRsYmPqRcXSzJGo7XhsvKhmJrKL0YpyG0ZgzWkyPKo/dFMaGVOAeXc6s//ead2rcuSTLZSYsf4hc8znBkXHugwdsV8Pgf4VTIxGwfWjaviY8BhzjfS1qmCyFMp3rxAnhr3JS3nPh0V4otcXnQPNjfJPVGPKLkWb0/Krys/wQqhzHrswW6aL+gj4xMMjb0GMfZhjyyCK+8kUmfYnFvDg2wOj3gvdrKWUC/7l+rnUM02DNFXIl6zlcriKhpVjAdXMS8rA=;UaspFUP9iuSUZ4m+XKsStQ=="
+secured: "T3YjtzRlDXMzxCMVpawJgM8ItdAtKLCBP5PwI5gQMFEVgjvXCJbc7LHh8SW1RFk/TFl3U0t5lOcQ4oNf93zDa2NJtXD9Uit6Xt3F4JLnE+gan43MO910BIF+dxBiSEfuau/gvsSoW0lFZUW43FQCdh281N9Srb0rdEZv+Kw1hEsOR3JQEIRLXU6jDBubvJkdihg80Z/oNR2CzJeAl1DQYJoUk2K1PW4XKZHYh6FymkK+0ETbndP+hEUoVeQhAyhN34NKPFm9BZLByaV9YwlinY6xw4IGn3EyzbaNpAx+N+E6r9jOHmqx3FuF0oxkcH7Fs7Zhe71O6syz2mxm8B0imOdCYX/3KB31203uHNDxlqhCS7e2+5bm58wtlTokB5ciGYndfKh6diKGrs92/gXltxjeGQmMZsYdisvioB+Ww9X7h7XmCuHgcFLDC2NY7lTaJnnNb6L4SJ15HquMxS/+InxbjIPfx+MhxXMaOFcGcCYroRe05a73NR8YHUzw+swVwowWXEm5zfTK8bbqNmxMtQ==;Bo2DsrAGGE4/QrXG0+m0Vg=="
 ---
 

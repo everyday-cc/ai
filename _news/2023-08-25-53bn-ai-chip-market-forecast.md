@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI chip revenue to reach $53B in 2023"
-    excerpt: "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023."
-    publishedDateTime: 2023-08-23T23:34:00Z
-    webUrl: "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/"
+  - title: "US, China at each other's throats for lion's share of over $100b AI chip market"
+    excerpt: "Tremendous progress in artificial intelligence is leading to significant revenue generation due to increased demands in semiconductor production, which is expected to exceed $100 billion by"
+    publishedDateTime: 2023-08-28T11:38:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
+      name: The News International
+      domain: thenews.com.pk
+    quality: 70
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg"
-        width: 496
-        height: 315
-        isCached: true
-  - title: "Ai Chips Revenue To Hit $53Bn In 2023: Gartner"
-    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr"
-    publishedDateTime: 2023-08-28T03:55:00Z
-    webUrl: "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/27/DNE_16084image_story.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
-    excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
-    publishedDateTime: 2023-08-27T07:13:00Z
-    webUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
-        width: 376
-        height: 250
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-08-28/l_1104528_033804_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
 
 secured: "buigxmZM8FhStrEOo5kiJGgkGu6ZXFsF83rlvbRy6foct0amXW2OTT3L5Dr+127fOEHLZW3lFdnyIPlWhYkFd5EZFU3viZsHoMsXKUeAVe6MDIRa6yfiRCz5nez/ejWdvrfdh28Mjme13ZDukwQQ1Iig9yefjo2gijEUtmA+WVX1kt4PbHa8OXf5xPmrPlu8MByQ0r2I7dIV6FU6In4dU5+iKg/p9dNIMjLvkH0s9fwt6tIsL/GPjggFVSiAVe2PACitsUVK+XjwRtwXG6End4Mtzt9b68W51OLouKLvtxkF3aA2UY2ihA7KJZZWv0GxdxzuhzL8bgFrDnsHky7jWEq8IjrNv8ipLnCqlZR5aRc=;H84/pQq8H5jjyiqbOG9UFg=="

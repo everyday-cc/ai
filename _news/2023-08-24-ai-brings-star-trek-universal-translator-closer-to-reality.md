@@ -7,7 +7,7 @@ originalUrl: "https://virtualizationreview.com/articles/2023/08/23/meta-seamless
 webUrl: "https://virtualizationreview.com/articles/2023/08/23/meta-seamlessm4t.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 647
     height: 450
     isCached: true
-
-related:
-  - title: "You can demo Meta's AI-powered multilingual speech and text translator. Here's how"
-    excerpt: "The single-system approach of SeamlessM4T reduces errors and delays, Meta claims, increasing the efficiency and quality of the translation."
-    publishedDateTime: 2023-08-23T18:15:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-demo-metas-ai-powered-multilingual-speech-and-text-translator-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
 
 secured: "z9iprUkmqvXxOPguEN9LTT5Md6XykveMbCm+7CFOv6GPXfztRsUXLNMWc2/VR02CiYRDEeiu8Ptjei/Zcwfi8m1H41LAVI3mRv3E+/lceLgT4efIvQ/jI/Cz5rkL71LdObTxwUlPmfnzRVk3eUSdBnBkfPpJlV53/71D/2+kJrjhbOzF2BNMUt06betv+5ty09GUGr5tOPOOErnjFwEGm+6v2trtBFQOJS8CNhrbID8a8rIXWM3fwTEMdrAvWEv5Yxo0JHAuAn3vRuFqhTmdqBSreFOUv9h+u+5EkXQbY1dwd2rriX8hA4UwBMrHgTgaCdUw0uO1Ib89OZla4u5y9LogaVoUDV7GSbbob1pSWJd6tql2p52KmFZWQnxWZbZSmVWAJ9rL1I9/y6sLrD8FNvR9QSJWBn4VcYbeN3/3nTILuoMe76ZawBNw/QHG6q4SMrNStQEBcaJWrGX3Py9u8BMTaiOGmj0Xz4LTgzPunrxylmeyPXJ/7WtqXQ0X6oVDwvaYFTDR+0PqJSIb8kZUww==;autHJe7pQRwDCuvpZqdkjA=="
 ---

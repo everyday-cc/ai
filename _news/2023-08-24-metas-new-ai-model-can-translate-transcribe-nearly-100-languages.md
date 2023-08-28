@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Meta AI's new research project is a \"universal translator\" for 100 different languages"
-    excerpt: "Meta's new AI model holds the potential to underpin robust and efficient \"universal translation\" services in the future. Known as SeamlessM4T, this marks the first all-in-one"
-    publishedDateTime: 2023-08-23T18:17:00Z
-    webUrl: "https://www.techspot.com/news/99893-meta-ai-new-research-project-universal-translator-100.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 43
   - title: "Meta's new AI model can generate and explain code for you"
     excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
     publishedDateTime: 2023-08-25T12:30:00Z

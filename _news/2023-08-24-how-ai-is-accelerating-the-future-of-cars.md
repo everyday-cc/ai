@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "How To Honor Artists In The Age Of AI"
+    excerpt: "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you."
+    publishedDateTime: 2023-08-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 865
+        isCached: true
 
 secured: "W70oFcjtep//LyO6yE+hH2t3K702eheyZwiV9vTZRMZm8VUEBojYQmPFF+zYmfD/gwtiEFcBjr4DdGVSXmQQg0a3m9JxYPUg8wVP7/Iyb4oi3V13thmslAaJFsrvqRf05is2j4dzi1lCaj0qW2/IsSKDPz19TQxmqQ68bdaYJus0CxL+JT3OA1i3hjTAJReVAuFn8QDejE15GiN9bHH5bXoboMH3lFNTgv0dF1kIeYwFZw5fvmjD3Qy/drzxQAmdhwfvgk8+jpMyF1WV2HSeybwheCKEdyDHm+mxRuRkcsuyRq7EI7LPC71Wgdg2OCv/mHZMV0ef+aYwQZIoiNCfG+oLKf9CUxreIEapkj6BQPvXTWCvmxXBIqw6KuHjjQMeyckXPC/ononnS9TT1JzetcdKbWIlPle89h/rC7jTbILmJ1SAADskb5Ay7YnD1tXW1W1sWMxcmiaKStajEk4hN2eXWCuWPlASNVKshdy6650jR2NGb4+59B2enPgNgirYWp+kuZM7msj5/9aXGX4ILA==;IZOkRYRGiDIiiHw7G+TlJQ=="
 ---

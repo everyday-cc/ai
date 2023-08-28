@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-l
 webUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html"
 type: article
 quality: 78
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Closing the loop between artificial intelligence and robotic experiments"
-    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out."
-    publishedDateTime: 2023-08-23T18:26:00Z
-    webUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
-        width: 1280
-        height: 609
-        isCached: true
   - title: "Exploring AI and machine learning in modern bookkeeping"
     excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."
     publishedDateTime: 2023-08-25T14:53:00Z

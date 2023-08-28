@@ -39,20 +39,6 @@ related:
         width: 496
         height: 315
         isCached: true
-  - title: "$53bn AI chip market forecast"
-    excerpt: "ICs for AI  workloads will be a $53.4 billion market this year, says Gartner, which is 20.9% up y-o-y “The developments in generative AI and the"
-    publishedDateTime: 2023-08-25T05:25:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/53bn-ai-chip-market-forecast-2023-08/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2016/04/21230609/wafer-close-440.jpeg"
-        width: 440
-        height: 330
-        isCached: true
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
     excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
     publishedDateTime: 2023-08-27T07:13:00Z

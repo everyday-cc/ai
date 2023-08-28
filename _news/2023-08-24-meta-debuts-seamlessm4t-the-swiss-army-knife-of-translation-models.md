@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Meta unveils 'Seamless' speech-to-speech translator"
-    excerpt: "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ..."
-    publishedDateTime: 2023-08-23T17:27:00Z
-    webUrl: "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/"
+  - title: "Why Meta’s SeamlessM4T AI model is actually really exciting"
+    excerpt: "Meta has finally taken a huge step towards creating a universal translator with the reveal of its SeamlessM4T AI model."
+    publishedDateTime: 2023-08-26T19:10:00Z
+    webUrl: "https://bgr.com/tech/why-metas-seamlessm4t-ai-model-is-actually-really-exciting/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: BGR
+      domain: bgr.com
+    quality: 21
 
 secured: "vNPXakXQQJmBC73kCmDGTSfU7NJwrjB2Acs0WcotKB5NBCnlV0wmiNW3lvy9d76KlWq6Si6VN7Ofvxx3w5f4YcUJ+M0oz6Mh+uzsKwa+BcWqS9uBez91nmOGO4fI5cSX+wT5sq4A3F2fV1Nuj/sUJq/+5N7abT4VUXK9YakXJjhyym09dQ6dSDC7B7cszvxji6TuXzNPCTqGDWUsgrILDfPvvHR3m7WkaE52PsEdd4sJThVyVfLVfS3r5UzjIE9r4/zFfUCgA0QSf2G9zYcceDwkKNNlr7q3Wrz/T2wljr7hlJc4Im0Ncb9oCEzojAtEKvebV2MeMQ2PTusWwmr2/qS2bMrmQONiq8CxDwubWjr+tD7yOCIbriBrS7+4p4VY8M9/oPzBpTOTwoWTON4WIhyAYZdoFxo3qMarqpMZCY40rw7PEvXhuggLXS50022AZFu3vdHntmbL72tGORD8thBBL+NK0WXJXaEEkgalGq2+mXpCQ2n6HvFXcZFdQMkf1NWU13j8Cs3ckfjCtrOyJg==;kcUBVxM2pYQ9ypauOY5awQ=="
 ---

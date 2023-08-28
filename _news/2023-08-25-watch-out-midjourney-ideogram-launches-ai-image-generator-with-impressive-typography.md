@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/watch-out-midjourney-ideogram-launches-
 webUrl: "https://venturebeat.com/ai/watch-out-midjourney-ideogram-launches-ai-image-generator-with-impressive-typography/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ideogram introduces an AI image creator with typography"
+    excerpt: "Former Google Brain researchers have launched a new generative AI image startup called Ideogram with USD 16.5M in seed funding led by a16z & Index Ventures."
+    publishedDateTime: 2023-08-28T10:17:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ideogram-introduces-an-ai-image-creator-with-typography/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ideogram-introduces-an-ai-image-creator-with-typography/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ideogram-introduces-an-ai-image-creator-with-typography/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Ideogram-introduces-an-AI-image-creator-with-typography.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "15 Midjourney 5.2 styles to transform your AI art"
     excerpt: "Midjourney styles to transform your AI art generation adding extra creativity to your prompts with ease. The Midjourney style parameter is"
     publishedDateTime: 2023-08-25T13:40:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BizTimes
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Evers creates task force to study AI's affect on Wisconsin workforce"
-    excerpt: "MADISON, Wis. (AP) — Wisconsin became the latest state Wednesday to launch a task force to study the affects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
-    publishedDateTime: 2023-08-23T17:59:00Z
-    webUrl: "https://www.thehour.com/news/article/gov-evers-creates-task-force-to-study-ai-s-18324764.php"
-    type: article
-    provider:
-      name: The Hour
-      domain: thehour.com
-    quality: 16
   - title: "Gov. Evers creates task force to study AI's effect on Wisconsin workforce"
     excerpt: "Wisconsin has become the latest state to launch a task force to study the effects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
     publishedDateTime: 2023-08-24T11:59:00Z

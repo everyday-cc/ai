@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-r
 webUrl: "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "$53bn AI chip market forecast"
-    excerpt: "ICs for AI  workloads will be a $53.4 billion market this year, says Gartner, which is 20.9% up y-o-y “The developments in generative AI and the"
-    publishedDateTime: 2023-08-25T05:25:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/53bn-ai-chip-market-forecast-2023-08/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2016/04/21230609/wafer-close-440.jpeg"
-        width: 440
-        height: 330
-        isCached: true
   - title: "Ai Chips Revenue To Hit $53Bn In 2023: Gartner"
     excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr"
     publishedDateTime: 2023-08-28T03:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "An AI-Powered Brain Implant Can Restore the Ability to Talk"
-    excerpt: "Patients with paralysis caused by stroke or ALS are robbed of their speech. A groundbreaking set of new brain implants seeks to change all that."
-    publishedDateTime: 2023-08-23T18:12:00Z
-    webUrl: "https://www.thedailybeast.com/an-ai-powered-brain-implant-can-restore-the-ability-to-talk"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "SKGJ4RqB94tTzzKKDRlLbRu5a/+bLCsqaTm5F1yLH7rV14hlt3kL4WuS9X5GHoD/Sbe8Tv7k2RovqOAMj0gY6wcb3NGb7V7Wnep0f4k/B7KtVrICCrxlHDd9znlmgrZXY67LAvD6WSFWbGHjn5fz8y7mNmM2O2QpbQ9d/RKf/lSVLI3+s0TMfaVytWf3LuUzGeRcq0sassDKfdCN8vW4NmmL4gGdGrW7q5/EcsGXdRYNVIbDYtS3Wcw5SGTxtRzkgfJ3iw1GzFImA068T74kTP5CfEyXBgw92vGzOmk81R+rq2Owd0tG24jvli60qrBXm+JkEpeTrhH1i8R/syALFiGlb2HmiypseYZLtMzwglXKJWGOXFSNsLB63YyuJsR2FK9qwisXeSWIAF0HNBOBo35gBgprUxs38x3ck613L0QPldaVBhgPAfGwtciunvVATFXXYhZbIN1fHrqn/0D4+v95OoRhFd84W05zEITcjDqUGcUpLc4M6W6ZDlPc7qh3o9h9ZiqOt0EFhGR34x8wSA==;+K3/trjnPKrlIn4FWl9B5g=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
 excerpt: "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation."
 publishedDateTime: 2023-08-25T13:52:00Z
-originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=archive"
-webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=archive"
+originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile"
+webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile"
 ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 type: article
@@ -80,6 +80,6 @@ related:
       domain: theaustralian.com.au
     quality: 19
 
-secured: "KvhEhwfs8qu+hy500+4GyIvaxClqhh968nO1DBvYWvbxAj6FxcDk2LA3OkNZ7OHrU4t6ErJMJR7OFNVsZJ5AUKPWSunzx6EafEf0LG4s+GiwUmka/oHb+YlCqVBKo0tjUlIV92k9/v0QbgyafLass72tDH1Xbp0UFYKhCYKlfhXt6O29dadjXVLDDrF00yMFA0mJeDcnirvUO0G6n3r4ufhr7v10yyW9STdG6dv2kym7WrzhFhBltvih2DN0QAPFCTClZpu1mnMQjQzlDW2QsyCJmKWrmci/x+YHhq/t5D6jli8QLfWTXRj2lEJgF4m/Lub3C6o37eNahA1rMkuMEGQa/2AC/sFmXhOCk3sGCt8=;UMJM+SK4Mg2EqwlsVWax2A=="
+secured: "y0M6OLYcT6l3PPyOwH2HhkIZirs8ykidLnY9kPVbbnZx3I4VKBAbpW4zhwq/Z7mMrTqQu7jNBpeyGnKUdA0Erd07kiPNeXsckoXaNV1liZxHsXjiln9E33vz+IFqQCW7FcKJifOz5S7IvWnrs54cietVgJmRuoHu8sKMlqdxvZQmDMC3wglVcmOgdoJQqydffqpLbhlXsbMsWp47nBCtofnJA6yuFwTp0hOI0jxPJb+hUbus1FLo8cbmw94Xtmnzw7Nvi5NS8AsgRHQt+ltBnTcbJgTuOK719q+QwatpIHaUfzj1W0oi4g/Y0rSUOaKc6hSCqgSAedaRrZABdRWmOeTC0QLO6h6dApOIwpTl1nQ=;psX3av8eArIHtUdRFtD2Tg=="
 ---
 

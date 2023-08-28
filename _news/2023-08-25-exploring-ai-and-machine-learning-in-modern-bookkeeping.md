@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Closing the loop between artificial intelligence and robotic experiments"
-    excerpt: "The search for innovative materials will be greatly assisted by software that can suggest new experimental possibilities and also control the robotic systems that check them out."
-    publishedDateTime: 2023-08-23T18:26:00Z
-    webUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-loop-artificial-intelligence-robotic.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/closing-the-loop-betwe.jpg"
-        width: 1280
-        height: 609
-        isCached: true
 
 secured: "mYfcPO9e1rzVI6eF6QdD71fJyI07T2KwXFDILQZ/KKcTx2oiGamZC5E/MeESlu/7ZU98pWyGeR20/qVI+cIT8hp54ShdMen4NdcVYIbUaPKuqiNnMFs+Rq97CmpLMwZPLZfI9rFI8b+YkXG2NXu/kSSE0wq9fQkU5MSN9abHlXl6iAezO5yrk1nhrOTpp1xzmpGy8ggmVRImJfqQJqup1IjFKkLyTeoc+KPPpK3/pWEB7FPmEPgOUBYRx5+MnnLn4pbo84NmXxM/pDGi8YslhXNaEsget+7BhOzn/WlIDhXRGljVTAm8q/v+7/eLD/hy3oR82RC9k/MVDCap0uwdTOkYBxq2i7gvR+YioIwBKhXww60a1yDYsJkqJAAe8iRl5+cr6zJqbJZgtzj5A6+wqRU8OwFbdE6bucRW2nT3inFVVStKxDTZLJVWcedQny5APIg/fUDEFsnfEKZ9myBsOA2eaGC64wWjVgXXk66yg33IVpmWeOEsl7+PUwmPAjtTOIBwBAXKqmT4pDKIh1t2Lw==;2ZLkGvrtJbXB0m4LzyziMA=="
 ---

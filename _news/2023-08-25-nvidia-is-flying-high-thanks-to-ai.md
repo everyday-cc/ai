@@ -121,22 +121,6 @@ related:
         width: 1082
         height: 630
         isCached: true
-  - title: "Nvidia's rising star gets even brighter, stellar 2nd quarter propelled by sales of AI chips"
-    excerpt: "Computer chip maker Nvidia has rocketed into the constellation of Big Tech's brightest stars while riding the artificial intelligence craze that's fueling red-hot demand for its technology."
-    publishedDateTime: 2023-08-23T18:02:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-2q-23-earnings-stellar-quarter-propelled-ai-chip-sales/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 81
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/31/4f4ac8a0-f607-46f6-8e59-799bb7c3b10f/thumbnail/1200x630/b204a628a80efe9ec54a42cf269f3165/cbsn-fusion-ai-boom-helps-chipmaker-nvidia-rocket-in-value-thumbnail-2013502-640x360.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia surges after earnings crush, AI chip sales set for record gains"
     excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
     publishedDateTime: 2023-08-23T20:29:00Z
@@ -150,22 +134,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/b9/4b9afc09-3a02-5655-beed-e0bb8f64c40e/64e6796d516ce.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
         width: 620
         height: 326
-        isCached: true
-  - title: "Nvidia is dominating the AI chip race, but it's not the only AI play: Morning Brief"
-    excerpt: "Nvidia's results after the bell today are hotly anticipated. Other companies in the semiconductor ecosystem are trying to monetize new AI demand, but they're not yet coming close in magnitude."
-    publishedDateTime: 2023-08-23T18:54:00Z
-    webUrl: "https://www.aol.com/nvidia-dominating-ai-chip-race-100003548.html"
-    ampWebUrl: "https://www.aol.com/amphtml/nvidia-dominating-ai-chip-race-100003548.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/nvidia-dominating-ai-chip-race-100003548.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 68
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/.K45FEz5EXgehTdhLI0YuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5fea31115bd0fc6cdf12cc4c7150984e"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Nvidia rides the AI wave as profits, revenue rise"
     excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."

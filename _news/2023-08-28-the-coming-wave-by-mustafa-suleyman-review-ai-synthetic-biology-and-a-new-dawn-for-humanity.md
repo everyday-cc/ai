@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/books/2023/aug/28/the-coming-wave-by-mustaf
 ampWebUrl: "https://amp.theguardian.com/books/2023/aug/28/the-coming-wave-by-mustafa-suleyman-review-ai-synthetic-biology-and-a-new-dawn-for-humanity"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/aug/28/the-coming-wave-by-mustafa-suleyman-review-ai-synthetic-biology-and-a-new-dawn-for-humanity"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/5981ca818ac02ab101a518c1ea0fa5dd63462340/0_183_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=ef7aece77f6bdf5139745f55877d8424"
@@ -30,6 +31,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Feq0w7pfmy2MQo+Sahp/eIDZPzCZ5grIGMGc+xu/LKdM3G5MWnR3ayg2A+EgIY5o3rAUE17kGKsckiioxIuTYTjIe+kYNRJSRoJ6sb8XrIksYcjWhLJ4K7IYIYvZ41ztF5+bdvoi9I+7RSNXwI4LjHlGz0Zy4KXUcsqcANlNr87fkmq5dkcJqQtGwlMmXYvkDwhc7DtSQG2s3LO9A1xIh+fjs7BsLywpwDaSEqv+K9Ic+O7NcHr9URTKGSb6nbmnOTpb/WZXF7Q8O3QdvxkqlyHPSYhYsxNXJIdy0Gvhjmv/7rs2lj7BsRxf5Aq3aL51+j3pKPZNtalsW5TU1ig90NYSQzBSRsfDTWVwCz6HjDo=;tHMG52HD4DNSe8htOM5/Fg=="
+secured: "U3zTznC0G8wGJon9Ct6xuXiVqMSDrr6HEHCAuf4l5CxstnNfRWy2JEud/xQee1R/q/aEcEXJq5Ow6IUy835qw+7j94ahzCdiycfmX7PilsEDeLq8kEk1K6jn42hDQ6wZIK7gra6dLEY65HnTjXXmNeiPg3aFRQ0f+DPcujgzmiH7slL6zK0su87JUMstSGgWeUyXRA+/TCN9ZIkwGj+tiaxruQb8Hj8kCpYO6BtBlzoQOYug2sRPNl5W7dHs5ybYfzJvbIFNMwxAR7M59GV+Fak1zt5THZ2Weyrs1GcehFtun0yQ6VOv1HWys9OndH4sajILuXEfRJhMmJhId7Upn3galTo596iYvlMzgzdrobvVvMu3eAOWrUjj2Z3S4J0VjCAAR+rMwPVggdW6JzvLKvT/D84UV7AGWxZOf0rA90r/0FFhSDdO759gZk1XVaqiIaWduA7riD8uisWG+PjuYBE5Z8mk3+CVDspXwoIVaQH6g1/iPV9s3fObj6L+/djEHqDqXKjagkaKbaE5ROOiww==;k9XK2TByPfOKgBDXqC8kng=="
 ---
 

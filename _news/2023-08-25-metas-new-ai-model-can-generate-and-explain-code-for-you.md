@@ -69,15 +69,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Meta AI's new research project is a \"universal translator\" for 100 different languages"
-    excerpt: "Meta's new AI model holds the potential to underpin robust and efficient \"universal translation\" services in the future. Known as SeamlessM4T, this marks the first all-in-one"
-    publishedDateTime: 2023-08-23T18:17:00Z
-    webUrl: "https://www.techspot.com/news/99893-meta-ai-new-research-project-universal-translator-100.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 43
   - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
     excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
     publishedDateTime: 2023-08-28T09:51:00Z

@@ -116,15 +116,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
-  - title: "An AI-Powered Brain Implant Can Restore the Ability to Talk"
-    excerpt: "Patients with paralysis caused by stroke or ALS are robbed of their speech. A groundbreaking set of new brain implants seeks to change all that."
-    publishedDateTime: 2023-08-23T18:12:00Z
-    webUrl: "https://www.thedailybeast.com/an-ai-powered-brain-implant-can-restore-the-ability-to-talk"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "Narmh4PZJfSHVPIrc4ei+/YQ9VKsAtBRDVYcinrtaKvCZ/JaLu3lZ0NXCMBiUf5XbCYvi9sj+c53z3DB46upE8aL+2xEzSOArfTlPK+P/BumCyT6vOpHvu18df9lkPlO57us95tcR32OBzVmh/f3lYt5Tu0gJ3LJGziEvi0czVrAEyF0CIQ5LrmUNEZLngbQwoIH9rislcoMnkVToCiuL9lSZSi5ItHY8+PtyFkba5P/3ITr4vZlOlWNwoSlxXAdv8SujoPu/WZ3+mNhuqF9cwXPfEvyIxvtSq4DljxS/80KhqMdUkhvTyyyTLi0YEqeMtxGfBIBJfP+I9dFYDZ2MrDzJSYQDXL9rx/MojmEjuM=;MPIZ06vum5vqLUx2CiXklw=="
 ---

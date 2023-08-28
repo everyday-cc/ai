@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers see bias in self-driving software"
-    excerpt: "Autonomous vehicle software used to detect pedestrians is unable to correctly identify dark-skinned individuals as often as those who are light-skinned, according to researchers at King's College in London and Peking University in China."
-    publishedDateTime: 2023-08-23T18:30:00Z
-    webUrl: "https://techxplore.com/news/2023-08-bias-self-driving-software.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
   - title: "UNC Charlotte researchers talk impact of self-driving cars as ride-hailing service Cruise hits local streets"
     excerpt: "Cruise, a self-driving rideshare startup, announced last week it was testing its self-driving, all electric cars in Charlotte. UNC-Charlotte professors weighed in on what driverless cars could mean for the city."
     publishedDateTime: 2023-08-24T18:50:00Z
