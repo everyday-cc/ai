@@ -26,6 +26,62 @@ images:
     isCached: true
 
 related:
+  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
+    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
+    publishedDateTime: 2023-08-24T15:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "HCLTech partners with AWS to drive GenAI adoption"
+    excerpt: "Hcltech: The partnership demonstrates a shared commitment to exploring industry solutions leveraging AI advancements."
+    publishedDateTime: 2023-08-24T04:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption/102999325"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102999325,imgsize-71678,width-1200,height=765,overlay-etcio/artificial-intelligence/hcltech-partners-with-aws-to-drive-genai-adoption.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Generative AI updates from AWS Summit 2023 NYC – About Amazon"
+    excerpt: "Vector embeddings allow machines to understand relationships across text, images, audio, and video content in a format that’s digestible for ML—making"
+    publishedDateTime: 2023-08-25T00:48:00Z
+    webUrl: "https://www.inferse.com/691335/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 54
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-3141.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
+    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
+    publishedDateTime: 2023-08-27T04:53:00Z
+    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 51
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The UAE government partners with Mastercard to accelerate adoption of Artificial Intelligence"
     excerpt: "The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase Artificial Intelligence (AI) capabilities and readiness in the region."
     publishedDateTime: 2023-08-24T11:22:00Z

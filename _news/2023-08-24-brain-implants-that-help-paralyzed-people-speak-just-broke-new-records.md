@@ -70,20 +70,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Brain implants and AI help voiceless patients to speak up"
-    excerpt: "An AI-based brain-computer interface system that enabled a woman with severe paralysis to speak through a digital avatar."
-    publishedDateTime: 2023-08-23T14:59:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-implants-and-ai-help-voiceless-patients-to-speak-up"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/23/image/jpeg/yd1LkB2JVKvi2XUOZBPNfyPqw0sLHcUXtpHBdz24.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How artificial intelligence gave a paralyzed woman her voice back"
     excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
     publishedDateTime: 2023-08-25T17:18:00Z

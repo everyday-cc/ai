@@ -2,6 +2,246 @@
   "page": 181,
   "value": [
     {
+      "path": "_news/2023-05-03-godfather-of-ai-leaves-google-warns-of-techs-dangers.md",
+      "title": "‘Godfather of AI’ leaves Google, warns of tech’s dangers",
+      "excerpt": "But it’s the concerns of insiders in the AI research community that are attracting ... a top AI scientist at Facebook parent Meta, has taken a more optimistic approach. AP Technology Reporter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
+      "originalUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/xR0qjtUBey2hosBOwU9Xt-0_7jQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/627XNACR65DVZIYFW3WKTTTWHU.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kwtx-com.cdn.ampproject.org/c/s/www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
+      "publishedDateTime": "2023-05-02T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KWTX",
+        "domain": "kwtx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-artificial-intelligence-in-eye-care-a-trending-transformation.md",
+      "title": "Artificial Intelligence in Eye Care: A Trending Transformation",
+      "excerpt": "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
+      "publishedDateTime": "2023-05-02T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt.md",
+      "title": "New Chemix AI-Based EV Battery Development Reduces Or Eliminates Cobalt",
+      "excerpt": "Tech startup Chemix has unveiled an artificial intelligence-based platform for developing EV batteries much faster and require little to no scarce minerals such as cobalt or nickel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64500e643f9eca9f34961e4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
+      "publishedDateTime": "2023-05-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair.md",
+      "title": "Nvidia’s 20 Siggraph papers highlight generative AI, 3D characters and hair",
+      "excerpt": "Nvidia Graphics Research said it has 20 research papers debuting at SIGGRAPH, the big computer graphics conference coming in Los Angeles.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/NVIDIA-SIGGRAPH-Key-Visual.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
+      "publishedDateTime": "2023-05-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-your-secrets-are-not-so-safe-with-ai-chatbots-like-chatgpt.md",
+      "title": "Your secrets are not so safe with AI chatbots like ChatGPT",
+      "excerpt": "They are computer programs that use artificial intelligence and natural language processing to simulate human conversations. These conversational assistants can be accessed through various ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/your-secrets-not-so-safe-ai-chatbots-chatgpt",
+      "originalUrl": "https://www.foxnews.com/tech/your-secrets-not-so-safe-ai-chatbots-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77d19a5f-fb5b-4957-b241-fe16c55e1d2d/8c1b5843-3018-4003-b833-8e469b52c557/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/your-secrets-not-so-safe-ai-chatbots-chatgpt.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/your-secrets-not-so-safe-ai-chatbots-chatgpt.amp",
+      "publishedDateTime": "2023-05-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-dangers.md",
       "title": "AI pioneer quits Google to warn about dangers",
       "excerpt": "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'",
@@ -938,256 +1178,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-businesses-can-manage-user-generated-content-with-ai.md",
-      "title": "How Businesses Can Manage User-Generated Content With AI",
-      "excerpt": "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/",
-      "publishedDateTime": "2023-05-02T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-why-cios-are-so-obsessed-with-the-cloud.md",
-      "title": "Why CIOs Are So Obsessed With The Cloud",
-      "excerpt": "Benefits such as increased efficiency, flexibility, scalability and security make the cloud an attractive proposition for CIOs. Evolutions in cloud technology (like edge computing and more sustainable \"green\" cloud) are only likely to further its appeal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
-      "publishedDateTime": "2023-05-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners.md",
-      "title": "Would you listen to AI-run radio? This station tested it out on listeners",
-      "excerpt": "A radio station recently did an experiment where AI took over for 13 hours of programming, featuring 'voice clones' and scripts written by ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "originalUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3490e98efc0b11aafa2caff9d66f54d8310ea2d4/2023/05/01/87dcdeeb-84b6-4aa5-b972-37e3636b8aa3/robot-radio.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "publishedDateTime": "2023-05-02T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
-      "title": "Machine learning model sheds light on how brains recognize communication sounds",
-      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
-      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
-          "width": 1189,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
-      "publishedDateTime": "2023-05-02T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
-      "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
-      "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/tfZqZ41Q6rZthU8sCylUKUm5RM13/1682908073837-0.jpg",
-          "width": 336,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-24-can-ai-be-ethical-and-moral.md",
+      "title": "Can AI be ethical and moral?",
+      "excerpt": "Can machines or AI be moral agents, or artificial moral agents (AMAs)? A wide body of literature suggests that machines can, “in some sense, be ethical agents responsible for their actions,” or “autonomous moral agents”. File | Photo Credit: Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
+      "originalUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ag9b81/article67228761.ece/alternates/FREE_1200/2023-08-21T154416Z_2120929698_RC21P1AIHZZ0_RTRMADP_3_TECH-AI-JOBS.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
+      "publishedDateTime": "2023-08-23T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-ibm-taps-ai-to-translate-cobol-code-to-java.md",
+      "title": "IBM taps AI to translate COBOL code to Java",
+      "excerpt": "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
+      "publishedDateTime": "2023-08-23T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-meta-unveils-seamless-speech-to-speech-translator.md",
+      "title": "Meta unveils 'Seamless' speech-to-speech translator",
+      "excerpt": "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "originalUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
+      "publishedDateTime": "2023-08-23T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-facial-recognition-saw-through-man-who-stole-dead-brothers-identity.md",
+      "title": "Facial Recognition Saw Through Man Who Stole Dead Brother’s Identity",
+      "excerpt": "Guillermo Gonzalez died as an infant in 1939, but his brother Napoleon, now 86, used his identity for decades. He was convicted of fraud last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/23/us/oakImage-1692801408659/oakImage-1692801408659-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-google-introduces-11-new-security-features-for-workspace-some-ai-powered.md",
+      "title": "Google introduces 11 new security features for Workspace (some AI-powered)",
+      "excerpt": "Google announces a large set of cybersecurity improvements to its Workspace offerings. Some may even be for you and your company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "originalUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2cb48e3be8c9ebcf264ef952d5ed8b37b2f7bcfb/2023/08/23/5a28a83b-4ced-4cea-a909-2e1d6575be7f/umb-gettyimages-171590291.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
+      "publishedDateTime": "2023-08-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-twilio-expands-customerai-capabilities-with-generative-and-predictive-ai.md",
       "title": "Twilio expands CustomerAI capabilities with generative and predictive AI",
       "excerpt": "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns.",
@@ -10,7 +261,7 @@
       "originalUrl": "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -399,25 +650,34 @@
     },
     {
       "path": "_news/2023-08-23-hcltech-collaborates-with-aws-to-accelerate-genai-adoption.md",
-      "title": "HCLTech Collaborates With AWS to Accelerate GenAI Adoption",
-      "excerpt": "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally.",
+      "title": "HCLTech Collaborates With AWS To Accelerate GenAI Adoption",
+      "excerpt": "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/23/9869009.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/23/9869009.htm",
+      "webUrl": "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption",
+      "originalUrl": "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.hcltech.com/sites/default/files/images/1200x630A.png",
+          "width": 1201,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:05:00-07:00",
+      "publishedDateTime": "2023-08-23T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "HCL Technologies",
+        "domain": "hcltech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -955,238 +1215,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-sensors-in-the-forest-can-smell-a-wildfire-before-it-spreads.md",
-      "title": "AI sensors in the forest can smell a wildfire before it spreads",
-      "excerpt": "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "originalUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-software-roped-in-to-translate-mbbs-textbooks.md",
-      "title": "AI software roped in to translate MBBS textbooks",
-      "excerpt": "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "publishedDateTime": "2023-08-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
-      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
-      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-to-buy-openai-stock-a-guide.md",
-      "title": "How to Buy OpenAI Stock: A Guide",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF The Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ) is an exchange-traded fund that invests in companies associated with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
-      "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
-      "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e541aceddf72308ad8ae34/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
-      "publishedDateTime": "2023-08-22T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

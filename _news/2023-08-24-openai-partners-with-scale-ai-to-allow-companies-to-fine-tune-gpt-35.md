@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "A|I: The AI Times – Inside Meta and Google’s plans to attack OpenAI"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-08-23T13:17:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-inside-meta-and-googles-plans-to-attack-openai/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 19
 
 secured: "S7R8Dmn2WFJeOC2/KzmxMz+6Eyg7heY72vAMPRyBFkUtKf71ik2XA9QHQG40gT1iEv/ATHbFAHtGbGTQXwBJW6t5N891qyMNNYGN2jcl2V5911Xvql+AEUc2djMKcws5dnGS1QDAYL4kZSKA0EsMTu0kcSK7/ZLqojfnuKQ+2N2y8jTHIwj+NUjotz2whctgHTuT9c41M+K3rsAsgAaCfqq5uY9B9CJetyan0H0etMfb9oI6VsbC05qY+RZIFBDHWGRAZ33Bd3UN+wfo540KSzS26186H1865Xy8lnF+Cmp0Ao5I5T/pl8s8qb/i8xgM/0JkjszhPwF3jC1wmxmPqdE4vCBWtTUe96oNT+zf2Z8=;MdwLUahuAWSSQBL+0lQmOg=="
 ---

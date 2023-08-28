@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spend management fintech Ramp raises $300m following growth"
-    excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
-    publishedDateTime: 2023-08-23T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/43448dd6f0a8b8bafc7f342e4e09259e:5e8762bc7205758903985ac83204414a/ramp-founders-2.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
-    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
-    publishedDateTime: 2023-08-27T00:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
     excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
     publishedDateTime: 2023-08-23T19:21:00Z

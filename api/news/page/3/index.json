@@ -2,6 +2,238 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
+      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
+      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
+      "publishedDateTime": "2023-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
+      "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
+      "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "originalUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/08/Air-India-rebrainding-15-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "publishedDateTime": "2023-08-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-modular-secures-100m-to-build-tools-to-optimize-and-create-ai-models.md",
+      "title": "Modular secures $100M to build tools to optimize and create AI models",
+      "excerpt": "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
+      "publishedDateTime": "2023-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption.md",
+      "title": "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption",
+      "excerpt": "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/",
+      "originalUrl": "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png",
+          "width": 1893,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-35.md",
+      "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5",
+      "excerpt": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "publishedDateTime": "2023-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-coforge-launches-ai-platform-coforge-quasar.md",
       "title": "Coforge launches AI platform Coforge Quasar",
       "excerpt": "Coforge Limited, a digital services and solutions provider has launched Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities. Coforge Quasar comes pre-loaded with a set of 100+ APIs,",
@@ -105,7 +337,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -948,257 +1180,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-can-ai-be-ethical-and-moral.md",
-      "title": "Can AI be ethical and moral?",
-      "excerpt": "Can machines or AI be moral agents, or artificial moral agents (AMAs)? A wide body of literature suggests that machines can, “in some sense, be ethical agents responsible for their actions,” or “autonomous moral agents”. File | Photo Credit: Reuters",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
-      "originalUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/ag9b81/article67228761.ece/alternates/FREE_1200/2023-08-21T154416Z_2120929698_RC21P1AIHZZ0_RTRMADP_3_TECH-AI-JOBS.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/opinion/op-ed/can-ai-be-ethical-and-moral/article67227803.ece/amp/",
-      "publishedDateTime": "2023-08-23T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ibm-taps-ai-to-translate-cobol-code-to-java.md",
-      "title": "IBM taps AI to translate COBOL code to Java",
-      "excerpt": "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
-      "publishedDateTime": "2023-08-23T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-meta-unveils-seamless-speech-to-speech-translator.md",
-      "title": "Meta unveils 'Seamless' speech-to-speech translator",
-      "excerpt": "Meta, owner of Facebook, Instagram, and WhatsApp, on Tuesday unveiled its latest effort in machine translation, this one geared toward speech translation. The program, SeamlessM4T, surpasses existing models that are trained specifically for speech-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "originalUrl": "https://www.zdnet.com/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b35cf8d2822aafdbfc6266aaea9de006fb30a377/2023/08/23/3af83924-4ac6-44d2-a2db-78bb51020986/redbluegettyimages-954077242.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-seamless-speech-to-speech-translator/",
-      "publishedDateTime": "2023-08-23T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-facial-recognition-saw-through-man-who-stole-dead-brothers-identity.md",
-      "title": "Facial Recognition Saw Through Man Who Stole Dead Brother’s Identity",
-      "excerpt": "Guillermo Gonzalez died as an infant in 1939, but his brother Napoleon, now 86, used his identity for decades. He was convicted of fraud last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/23/us/oakImage-1692801408659/oakImage-1692801408659-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-google-introduces-11-new-security-features-for-workspace-some-ai-powered.md",
-      "title": "Google introduces 11 new security features for Workspace (some AI-powered)",
-      "excerpt": "Google announces a large set of cybersecurity improvements to its Workspace offerings. Some may even be for you and your company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "originalUrl": "https://www.zdnet.com/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2cb48e3be8c9ebcf264ef952d5ed8b37b2f7bcfb/2023/08/23/5a28a83b-4ced-4cea-a909-2e1d6575be7f/umb-gettyimages-171590291.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-11-new-security-features-for-workspace-some-ai-powered/",
-      "publishedDateTime": "2023-08-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -87,15 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Elite Unveils New Generative AI Time Entry Capability"
-    excerpt: "Elite, a leading provider of financial and practice management solutions to law firms and pioneer behind the legal industry's first cloud-native financial management solution, has launched a new time entry capability for users of 3E which leverages the industry-leading machine learning and generative AI capabilities available from Microsoft."
-    publishedDateTime: 2023-08-23T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-elite-unveils-new-generative-ai-time-entry-capability-/2023/08/23/9869125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "29T9mfk2wSOl19JSoVQ6vgaMQU+sbeeJGjNb3AihTLsURS+V0bjh8jqEUbacHf8mlTpkxE79+KvK19ucEuviMxS5gUBW9sxRtAFyRClJ1r6sMIuoPfkpDlUUAfw5nns/1nMXJGB7PusO8HGEpbyzfcuI2PtuskXC6C/g0GDmiQEsF+np5yOsb/zTHqihKuiHw5OF4qI4RGY+/pWYja9jnY6BLIeMbz2xYmgE6Exlmo+Z2/OD4/cdFO8hX2Z80agsjKHrJvuX+SaA4XnV+kK2sOwTXf6INrkq9syHal5uDRc9rgYZw4bHqa+dhVDDfpN4o/R83Ua6q1N0C+ojVoYTn7OLI4SBWEXXev+q4fFIlRM=;zH5ruwY9BkmwnTz/qka+Ew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-wit
 webUrl: "https://tdwi.org/articles/2023/08/24/adv-all-achieving-success-with-modern-analytics-1.aspx"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 976
     height: 400
     isCached: true
-
-related:
-  - title: "Data Analytics in Healthcare: Defining the Most Common Terms"
-    excerpt: "As data analytics becomes essential for healthcare organizations, stakeholders need to understand the basic vocabulary related to the process."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/data-analytics-in-healthcare-defining-the-most-common-terms"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-648272290.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "vdZuS0JUHCbJxiNdYuaDTpUIoRFgJgwxIv9Qws1V/AG40+py/yRbUaN0iECoGVNpP/wSYUHOJbPlCDUvh5VGFnyto4MJEe+vmqtxnanYXfGkGHTsJXxke7aZvCaJr/dKZoOy3SyrekWn6bOKh3mTEmaH9Gmhug9/xYJzO6YY8/+LcSRTk9JFqPmxcBJlyPKrDKq4CXWqjCC6BFy/excv854EQbAog8/t2dmNXuVLRZNyNrE91AHn5Thka+c5bioLTNnFppjOmDB/dRIbIet3wrBleW2AR6zmv4YwjR4ny8eH/EtLIUrf2NodNg4i6hl2kKqIOYFd65yET61B8kXucxHYEAt8HlAl2i1Q1GbD06KVFFDtdxEvhy93VKGqTtiQOK323sOfXZTxBek/KxNjda67ETsY8qYm1oB7iYOu5F9DgO5bAR1nwQpWlR3bZ04Y6VekI9RLOwdZDYpUPizErDfYOqJboB4PQCMxY4h/kYFX3I80U+PS6PPiBTuuntX+YDZmH1Ya4TYY0eUt/1rdUg==;LqYeb1z+mGnXlSpT/9q5cQ=="
 ---

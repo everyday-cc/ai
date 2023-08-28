@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-
 webUrl: "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Elite Unveils New Generative AI Time Entry Capability"
-    excerpt: "Elite, a leading provider of financial and practice management solutions to law firms and pioneer behind the legal industry's first cloud-native financial management solution, has launched a new time entry capability for users of 3E which leverages the industry-leading machine learning and generative AI capabilities available from Microsoft."
-    publishedDateTime: 2023-08-23T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-elite-unveils-new-generative-ai-time-entry-capability-/2023/08/23/9869125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "zL0cibAEzmxwQXf97SKa8o90GYn2l/hnwnI12IH/NRKXliIy1OmryE7exkjAs0QSdUWQdH+vS2k1ysEKMlaESYbj/tb64DwxbrHxxg+0flpBOTJKw8KsC/y2wX4zC6jTREF/WM/akmZEmCa3deBL/rfezcyXyGsXO2HyxgIDT4a2riey3LpLfD5gphC7yMM9EpnAucqtoDm3s4jMx6zW3aX0a2efddT5vawS5UIi9J/RxFrjKtvXpmPcZH1546muPYn5bmHvKgv8L5D882jT6COwkt4XD/iJ0ZVMx2sz85RFRKoUFd7ljatSRKupoN6JoQlqFrMgpDUn4qhmMDd9vslOSGXy5GRdOeUYADR3EY37JBWNFbCS3+FCnUeQHBBjsaZns6PmEZf3f4b5H8LnA3A7XVCzlttVT8OQXJTMjlVgnJk8bU4xtLTLyKiEf6kPbZZNTquyuZSVwL6ZFrYZ98rTPJfZ+7W2I6wPwuo7p2DQ4Nk9V9XIVBCLc53NLA1r6JD7KtOAbSXgzhYiga0qTQ==;DeK3gC4lerluWdP6tfPjZg=="
 ---

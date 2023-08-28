@@ -2,6 +2,85 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
+      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
+      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
+      "sourceUrl": null,
+      "webUrl": "https://thestarphoenix.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "originalUrl": "https://thestarphoenix.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The StarPhoenix",
+        "domain": "thestarphoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-financialbuzzcom-recruiters-implement-ai-powered-solutions-to-ease-processes.md",
+      "title": "FinancialBuzz.com: Recruiters Implement AI-Powered Solutions to Ease Processes",
+      "excerpt": "Inc. (AWS) to deliver artificial intelligence (AI) solutions designed to solve customers' critical business challenges across a variety of industries, including defense and intelligence as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58971879-financialbuzz-com-recruiters-implement-ai-powered-solutions-to-ease-processes-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58971879-financialbuzz-com-recruiters-implement-ai-powered-solutions-to-ease-processes-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
       "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
       "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
@@ -1277,92 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-best-coffee-and-espresso-makers-on-amazon.md",
-      "title": "The best coffee and espresso makers on Amazon",
-      "excerpt": "The experts at CBS Essentials have rounded up the best java makers at Amazon. These customer-loved kitchen devices all have a four-star rating or better and receive tons of positive reviews from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/19/52f39ac5-6097-4b81-8cdc-981e243374b6/thumbnail/1200x630/98d1ca3487b4140fde55a86b2cfff3e6/coffee-espresso-amazon-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
-      "publishedDateTime": "2023-04-20T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
-      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
-      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

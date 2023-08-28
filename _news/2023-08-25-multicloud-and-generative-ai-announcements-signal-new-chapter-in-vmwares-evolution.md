@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VMware Explore 2023 Extends Into Cloud Networking And Security"
-    excerpt: "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, covers cloud networking and security at VMware Explore 2023."
-    publishedDateTime: 2023-08-23T14:18:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e614ba8736287d194af6bb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 567
-        isCached: true
   - title: "Generative AI dominates VMware Explore news"
     excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
     publishedDateTime: 2023-08-25T14:32:00Z
@@ -85,6 +69,15 @@ related:
         width: 806
         height: 524
         isCached: true
+  - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
+    excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."
+    publishedDateTime: 2023-08-25T17:32:00Z
+    webUrl: "https://siliconangle.com/2023/08/25/vmware-enhances-enterprise-ai-management-balancing-gpu-scarcity-cost-savings-vmwareexplore/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
 
 secured: "MdWPhRdHGyNO28IarGrfNkd2iWJ+LcwsP3mg+4PB2SdO+5qb8HCPXfRPF+s8VDXub+QsGVEMvdXSIWLoOiacEtDMBCDheopOJow37EDvV8aQ8mSMTidVQAxPHU6COZLl+Xc8fad8RWXcZ2Z0w/YTyh/2AkeZPHjxvZl7378+bbumjFwyG1hSrAtLNO1/oxf6wKhI4Gex3X3IKM12Gw3k71kYzkly3qg2hRmcpdWrLVGCRFJh+0ineiImgcZbTXtS6Z11Q2V70TeY7ige+tG4HgQV4bne6xYwQ8y7gZUarh6Jmg3+FITDgaoO2X6JTrh5MPXEWCaK6rUtSZ+C14kFBLxtdY27nLTEQhnuGR+KlJnlaUKhqkhHxkir+5IkMit73aefQ5rjgg3rGD7TkZu8YGr43KNQbZkVwhrrbFSw4jVnT9dO46spGHzvVQSQc1Roq392hCkI4lx0EC4JFb9PInWlWnJSxH1HCSDNpJqviBs8gtcWSLLERHGSVIV6eEUxVRB3QJbLEawNDRgn5OjfFg==;OINi0pr4yEE4T4XBYvYwxg=="
 ---

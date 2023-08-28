@@ -23,146 +23,68 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
-    excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-23T13:27:48Z
-    webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
+  - title: "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal"
+    excerpt: "The fusion of AI and diversity in cybersecurity represents a significant shift in the narrative of this field."
+    publishedDateTime: 2023-08-25T16:01:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 105
-  - title: "Microsoft unveils blueprint for India on AI governance"
-    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
-    publishedDateTime: 2023-08-25T11:22:00Z
-    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
     images:
-      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
-        width: 670
-        height: 476
-        isCached: true
-  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
-    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
-    publishedDateTime: 2023-08-27T10:32:00Z
-    webUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 73
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png"
-        width: 1000
-        height: 715
-        isCached: true
-  - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
-    excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
-    publishedDateTime: 2023-08-24T09:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/google-microsoft-tools-behind-surge-in-deepfake-ai-porn"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "What's Going On With Microsoft Shares"
-    excerpt: "Microsoft Corp (NASDAQ: MSFT) shares are trading higher by 1.5% to $332.03 during Wednesday's after-hours session amid broader tech sector strength. Shares of several tech stocks are trading higher in sympathy with NVIDIA,"
-    publishedDateTime: 2023-08-23T23:49:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34015788/whats-going-on-with-microsoft-shares"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34015788"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34015788"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
-    excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
-    publishedDateTime: 2023-08-24T09:06:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpOMg2bgk7DLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/08/Mint-Inner-Circle-24Aug2023.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/43763dae5d3951cc7789a18bf6ab44f5ce2244b6/2023/08/25/e00132ca-59e5-4e83-9419-2ad192c4a927/maxresdefault.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
-    excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
-    publishedDateTime: 2023-08-25T17:53:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/25/robotic-automation.aspx"
+  - title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
+    excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion Windows users, 330 million Teams users). Security is also a $200 ..."
+    publishedDateTime: 2023-08-25T19:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+  - title: "Why generative AI is a double-edged sword for the cybersecurity sector"
+    excerpt: "Understanding the capabilities of generative AI and how to use it responsibly for cybersecurity will be critical as the technology grows."
+    publishedDateTime: 2023-08-27T17:10:00Z
+    webUrl: "https://venturebeat.com/security/why-generative-ai-is-a-double-edged-sword-for-the-cybersecurity-sector/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_line.jpg"
-        width: 644
-        height: 450
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_sword_splitting_a_computer_in_half_with_one_side_that_fa64ec31-5cfe-45c9-b364-2a849e6ac009.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft Discontinues Kinect, Again"
-    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
-    publishedDateTime: 2023-08-26T08:25:00Z
-    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+  - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
+    excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
+    publishedDateTime: 2023-08-25T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/artificial-intelligence-in-cybersecurity-unlocking-benefits-and-confronting-challenges/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+  - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
+    excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
+    publishedDateTime: 2023-08-25T05:51:00Z
+    webUrl: "https://news.uark.edu/articles/65992/university-startup-collaborates-on-2-2-million-ai-driven-cybersecurity-project"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 32
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
-        width: 803
-        height: 452
+      - url: "https://campusdata.uark.edu/resources/images/articles/2023-08-23_03-38-33-PMBastazo.jpg"
+        width: 900
+        height: 675
         isCached: true
-  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
-    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
-    publishedDateTime: 2023-08-26T19:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
-        width: 3584
-        height: 2048
-        isCached: true
-  - title: "MicroStrategy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy® Incorporated (Nasdaq: MSTR) (“MicroStrategy” or the “Company”), the largest independent publicly-traded analytics and business intellig"
-    publishedDateTime: 2023-08-23T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230823390236/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
-  - title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
-    excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://ehrintelligence.com/news/epic-expands-microsoft-partnership-for-ai-enhanced-clinical-workflows"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 34
 
 secured: "4V3tUMBAMa7w1BlJMvo2L7CQKuzth9f2oaM4kV24KyGoNYdBZS8XcLMUMtYaSY2u6pFKjfb4pkicy91QDguY31ar1DK5SG4lf4Xr8Kx6Rrd8hGW4ap6fMEAzTVgseWMfry26K5Qtiu2HvrvliAUQ+I/hemgv657pB3lVbb1j51ea/9XxLIi3KdYeJnX56hb95QXWzxGmqf52j9Nbicp/DN4gxubwPVfU8AU5hsSx4MgjPXqBSKfQD2F6wcWsG8o93Xydw7DK4QtT4MUt08sg4oL4Iyv/0IT/IIE9ROEYVAYlPxaVCi5Gzc2eYBZ+Q+I3q+jdaD+rwW3ItN1kDFwdzmxsaAmR6JPQ8+J9L+RKD/2WLSOxjXUMbPQdrnyHkLJzj4t/LfIT3zPP9jP0EaRclHgUuy6WwCQBqdT1MKRBLl4zCDwUY7aC8A3m66NDRiEKuV96QIZZnHXQcrXcdPe3sWiFXs7dNAAbFsZBBPLk1La6+PoD6UJI+Chap41tZVaN1UAfxQSlDXQbXdAZyEafYw==;b5jAWGjxN8POI18ErmNuYA=="
 ---

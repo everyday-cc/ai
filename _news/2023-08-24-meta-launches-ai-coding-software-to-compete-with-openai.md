@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A|I: The AI Times – Inside Meta and Google’s plans to attack OpenAI"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-08-23T13:17:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-inside-meta-and-googles-plans-to-attack-openai/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 19
 
 secured: "n1NQqqh/ofSil295fZadSpOVeeY2uYEThtZ1MmW8zdWtDdkONcWfgw8O+CqGJHgrS1euz/YOZxiDrNK+et2W1eQXM1jNC1PRfRREyIIcqL+pewt3gCbuv6aUq8VAqdA3670dP5a1MEtnM9GmA8tAUOry3rYy/TNV5//ATMbGLy9hf55oIj3BDjeg/aGbwFhVD7jgeDElodcaiMhj0hnTVE6V49XGkTv4OtdAioSqvTApU/tG5m4B4+EY3KBb5M2v4LLoYYtKnUPoozb/Y2wXQZfitvBSz+2HSjDobs96rZYsDuUd2EUUQN+rjx2fLlIyJc8uoE8UqjGCrZqzsArjnwipW3UoC4mPUTURvIE1a9MEhE8heSX6wcih1a9YriV/5kMGnokOFDJUmGX5NwhhQ9DKb2NAu7nxW9gG+mBKby8Jrv1aTefyU3xpL50Q0kPBGimUUGiUFoUaOP+LAuxVpOZRYgPRLrJazKPdSE7Qv11f1ch5UTc7He3yfgMC9dRuaZA6K7MhuHVtFY4FcgJEUA==;hIILRoP0MvB26RZGofOyRg=="
 ---

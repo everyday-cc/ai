@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Unlocking the potential of autonomous clinical research"
     excerpt: "Effective clinical research starts with thoughtful study design. Establishing strong protocols is essential to ensure that a trial is cost-effective, successful, and yields accurate results. AI and ML enable the production of an ideal and productive design which can be implemented with little to no manual input,"
     publishedDateTime: 2023-08-25T08:12:00Z

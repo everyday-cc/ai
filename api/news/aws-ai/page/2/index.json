@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-06-salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.md",
+      "title": "Salesforce Einstein Studio to help enterprises train generative AI models",
+      "excerpt": "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/",
+      "originalUrl": "https://www.reseller.co.nz/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-amazon-cloud-revenue-rises-12-topping-analysts-estimates.md",
+      "title": "Amazon cloud revenue rises 12%, topping analysts' estimates",
+      "excerpt": "During the second quarter AWS introduced Bedrock, a service that organizations can use to deploy generative artificial intelligence models that can compose impressive text and images in response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-amazon-surges-monness-crespi-hardt-sees-more-stable-aws.md",
       "title": "Amazon surges; Monness, Crespi, Hardt sees 'more stable' AWS",
       "excerpt": "Additionally, Amazon (AMZN) management highlighted the number of use cases it has for artificial intelligence, with Chief Financial Officer Brian Olsavsky saying, \"It is going to be at the heart of what we do.\" White pointed out that AWS has made a number ...",
@@ -1279,110 +1356,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-aws-is-ready-to-power-ai-agents-that-can-handle-busywork-instead-of-just-chatting.md",
-      "title": "AWS is ready to power AI agents that can handle busywork instead of just chatting",
-      "excerpt": "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
-      "originalUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ttBtmyVRGnR5dITVexFJJD6wnOk=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24812347/AWS_Summit_NY_2023_003.JPG",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio.md",
-      "title": "Use Stable Diffusion XL with Amazon SageMaker JumpStart in Amazon SageMaker Studio",
-      "excerpt": "Today we are excited to announce that Stable Diffusion XL 1.0 (SDXL 1.0) is available for customers through Amazon SageMaker JumpStart. SDXL 1.0 is the latest image generation model from Stability AI. SDXL 1.0 enhancements include native 1024-pixel image generation at a variety of aspect ratios. It’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/ml-15160-image018-share.jpg",
-          "width": 894,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:09:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

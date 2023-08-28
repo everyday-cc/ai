@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
+    excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
+    publishedDateTime: 2023-08-23T19:14:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-may-soon-give-windows-11-an-ai-revamp-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
     excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
     publishedDateTime: 2023-08-25T13:01:00Z
@@ -78,15 +87,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-    excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
-    publishedDateTime: 2023-08-23T13:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230821068264/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "77YtBYf9A4Pht/QtTZZPUS3x+6pNUBCT48EDGdjUfXHBKfH35dthkR/6zM5zzJLo9MDRgVKGxV0XNK3ga1EaHeF5lAGYM+1qTX6mr0x9HhY8XixuEs/Hhbli88ZhNFGNpPrSQ7Uhe17xwzl88UJMDGQyv769DGUlLbEG9M5sFiud4CqDQfc475gcnOW1DxDh9RieWhMwQ2gGw1sGmvOE7RF11mIfVOSuBpZYU4uYLsLqdZ9Ls+wwcth1/y+WPnqT9Kie0+BwleIeSvkdAExR347P7NMyEwKssKcpzwIW9cAalMVdFcqwJFTYs53//kDkCY/GUYeoCzOPUwrjkK1Y8wzzw8MdJevNHW7FptRpUdavF/HbAuMyBdyZrIW4d5G1kLrUqIlwCzJ0KlMiqlxaIZimcmwK0sCyVThDyWd8Q48s0Mu+xEeNWCNlLduqB/74HJaDFuK2T7+MdNwzWqRTMpzVSZGRuAk1tVirjnRy9m8Og+PiFBzFzg1dhIxcRg53e7YHRuZvhULGB/XDvamAgw==;riHCuUBrDRrbM9FRtz9Kfw=="
 ---

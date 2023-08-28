@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Spend management fintech Ramp raises $300m following growth"
-    excerpt: "Fintech Ramp raises $300m to revolutionise business finance with integrated tools, saving time, money & aiding growth. Learn how they're transforming CFOs' approach."
-    publishedDateTime: 2023-08-23T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/spend-management-fintech-ramp-raises-300m-to-fuel-growth"
+  - title: "Insurtechs launch Ethical AI in Insurance Consortium"
+    excerpt: "The founding members include three insurtechs that are focused on developing standards related to the use of AI within the insurance industry."
+    publishedDateTime: 2023-08-25T10:30:00Z
+    webUrl: "https://www.dig-in.com/news/insurtechs-launch-ethical-ai-in-insurance-consortium"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 54
     images:
-      - url: "https://assets.bizclikmedia.net/1200/43448dd6f0a8b8bafc7f342e4e09259e:5e8762bc7205758903985ac83204414a/ramp-founders-2.jpg.jpg"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/e3f9688/2147483647/strip/true/crop/8064x4234+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F75%2F54%2Fd8c617724d0eb8bfff7b86cb5fd8%2Fadobestock-593398149.jpeg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Fintech Ramp Announces $300M Series D to Support Business Expansion Efforts"
-    excerpt: "Acquired Cohere.io, an AI-powered customer support platform ... online lending, and other forms of Fintech. Join Crowdfund Insider for a freewebinar featuring two Regulation A(Reg A+) experts: Sally Outlaw ofWorthy and Etan Butler of Dalmore"
-    publishedDateTime: 2023-08-23T22:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211855-global-fintech-ramp-announces-300m-series-d-to-support-business-expansion-efforts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Money-Grant-Dollars-50-Cash-1024x855.jpeg"
-        width: 1024
-        height: 855
-        isCached: true
-  - title: "Arlington’s Sands Capital co-leads $300M fundraising round in New York fintech"
-    excerpt: "Funding for fintech companies fell to a six-year-low last quarter, but that doesn't mean some big deals aren't getting done — including a recent $300M round co-led by an Arlington firm."
-    publishedDateTime: 2023-08-23T19:21:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2023/08/23/sands-capital-investment-ramp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
 
 secured: "I1m1vmTSblAd33LFkDnMiALEyUX42MzQyAw1HqzqH9Namt4HW1v781uS3MDIzkE1VgQZzRbO9y/+Q9x4oxMKC49GubE5hdDGsSmXEPfTMk9Pbnb4PWz0fT6B1vaQdbI8QEQFjObAIgzl4opbew/ysOWgRWPTaZW2uzO/7RPwniN1IXco3e+lSL8XkscyAC5QNZX6TTkWU2BhrJWu2zhV02wmSvLpJueHa0xQeOXYVdTXyURk+/AD/+lAVOCvQXmmQoztxMOeL9kSUJS1IYZ+G+QXQYB8KWanMDyYDm+E6wwOSwpeeJgN9t6hxClc5rEOBkLnu4Poaa0UpgmU80KuQFCO3XtgQPDI2YvPaqZ8v44=;rLyjVIXhs5k4XxL+yzPBtQ=="
 ---

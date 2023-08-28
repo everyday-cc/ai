@@ -375,20 +375,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Nvidia shares up on hopes of strong results powering another AI rally"
-    excerpt: "As investors up their bets on the company that virtually makes all chips used in generative AI such as ChatGPT, its stock has surged 13% in the past week and tripled in value so far this year. \"A lot is riding on these numbers,"
-    publishedDateTime: 2023-08-23T14:19:00Z
-    webUrl: "https://www.aol.com/news/nvidia-shares-hopes-strong-results-111959275.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/dfa4268597051a0e7d6a179d41bf2266"
-        width: 800
-        height: 525
-        isCached: true
   - title: "Nvidia is the early winner in the AI gold rush"
     excerpt: "Accelerated computing and graphics chipmaker Nvidia announced its impressive second-quarter earnings for fiscal year 2024. The company reported a revenue of $13.51bn, which is more than double the revenue from the same quarter a year ago and an increase of 88% from the previous quarter."
     publishedDateTime: 2023-08-24T11:47:00Z
@@ -402,6 +388,20 @@ related:
       - url: "https://biz-file.com/c/2308/710028-842x438.jpg?7"
         width: 842
         height: 438
+        isCached: true
+  - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-08-28T07:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/elon-musk-said-bullish-things-for-nvidia-shares-that-all-data-centers-will-be-ai-centers.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 30
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-28-at-12.13.57-AM.jpg"
+        width: 1208
+        height: 584
         isCached: true
   - title: "Nvidia shares jump as chipmaker converts AI hype to stunning revenue surge"
     excerpt: "Nvidia once again confirmed its place as the market leader in AI chipmaking, while justifying much of the hype around the world's hottest technology."

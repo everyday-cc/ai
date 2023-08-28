@@ -85,15 +85,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
-    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
-    publishedDateTime: 2023-08-24T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 26
   - title: "AI startup Hugging Face valued at US$4.5 billion after latest funding round"
     excerpt: "ARTIFICIAL intelligence (AI) startup Hugging Face said on Thursday (Aug 23) that it was valued at US$4.5 billion in a US$235-million funding round backed by technology heavyweights, including Salesforce,"
     publishedDateTime: 2023-08-24T15:45:00Z

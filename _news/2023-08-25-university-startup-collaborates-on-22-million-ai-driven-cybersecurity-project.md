@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
+    excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
+    publishedDateTime: 2023-08-23T19:14:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-may-soon-give-windows-11-an-ai-revamp-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
     excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
     publishedDateTime: 2023-08-25T13:01:00Z
@@ -72,15 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "Deep Instinct Study Finds Significant Increase in Cybersecurity Attacks Fueled by Generative AI"
-    excerpt: "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) f"
-    publishedDateTime: 2023-08-23T13:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230821068264/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "KFnpkuGV5ni14BbGaBFXJZcTwhtNlVYSShe6BCwdKCRsPwUi+2FA+zcfNrKhZ0bV1/lobRtraLii1dhvQWms49ZeRMh8kyivP0SSQL98eAO4FqFvBmjq/JxybSLzCciCqhzH4Vlgvnu8ncljXkzzTSTDO3tQudfyjth/S1N++u1VoG1a5/wzU2Yk3J00Wbc+Fmdx+a72OQqLSUgLBLvRnSqKdYGAuK25Fhb6xanazmcZDcekHMvS7jqkYQqvj5gXMvX0QlFpxZs5XCHHdlPuOYR54cX7lH8OHAdy4OSmau2UmYPZd+pmN1S4FrCX/sacmk5inXJ+CNw0n1ujOh1kuuBGguDQN2zdU4jkm3lt924=;jm443j5HZiC0Jjmh7N9Nxg=="
 ---

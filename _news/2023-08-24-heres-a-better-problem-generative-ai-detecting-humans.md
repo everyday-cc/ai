@@ -86,15 +86,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Elite Unveils New Generative AI Time Entry Capability"
-    excerpt: "Elite, a leading provider of financial and practice management solutions to law firms and pioneer behind the legal industry's first cloud-native financial management solution, has launched a new time entry capability for users of 3E which leverages the industry-leading machine learning and generative AI capabilities available from Microsoft."
-    publishedDateTime: 2023-08-23T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-elite-unveils-new-generative-ai-time-entry-capability-/2023/08/23/9869125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "T0o0byK/MW6b0sJRAQ0sJRJ2rYeKhRNHZc4/GaCxmo2T2wPOT5Ymi+2FcOxwRZp50BR3S8jmUyEyxwSPyUxc+uiXLuxFIrJSORV/eZ705C2bO+IIgyk/hZtc4uS6rX9BCjclgJmFA6r09vegYc16M3TGoILRDc+fXMVWLTATCJLkHwf9VNwMzyIiDz5IPfI2AAEP0+t/7JWeY7wVqK2zBuJ8DFPHgGuRhjmZDuacGwMolHHLBZED0yFYnlA/lCPBxJWbZGnFqE7AjMIUlEn7cdF1SIT59a+1ELq7PER6B31isgxh6vOlKYiJyq0K3HYIHdUQykvOr25n46r4zzcuJCzt0VuXqj3ccWD6hjs6Lco=;XHVorQENxuz0SdVs8hoAWw=="
 ---

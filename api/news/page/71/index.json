@@ -2,6 +2,258 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage.md",
+      "title": "AI For Retailers: The Optimal Path To Tackle Rising Costs And Unlock Competitive Advantage",
+      "excerpt": "The case for AI adoption is becoming stronger given the range of benefits it can provide retailers, helping tackle their main challenges and secure structural advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a814e80494d0aee64c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/",
+      "publishedDateTime": "2023-07-10T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law.md",
+      "title": "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law",
+      "excerpt": "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-07-10T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-shaping-a-responsible-ai-powered-future-in-life-science.md",
+      "title": "Shaping A Responsible AI-Powered Future In Life Science",
+      "excerpt": "Our ethical commitment to harnessing AI's potential responsibly will be instrumental in realizing its promise of a healthier, more equitable future for all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a812fccab7d777f691cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "publishedDateTime": "2023-07-10T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks.md",
+      "title": "To Drive AI, Chip Makers Stack ‘Chiplets’ Like Lego Blocks",
+      "excerpt": "Some industry executives call the technology one of the most significant advances since the dawn of the integrated circuit more than 60 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks-6cee6ed0",
+      "originalUrl": "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks-6cee6ed0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812430/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-tsmc-records-high-sales-amid-increased-demand-for-ai-tools-and-chips.md",
+      "title": "TSMC Records High Sales amid Increased Demand for AI Tools and Chips",
+      "excerpt": "TSMC is also expanding a factory under construction in Arizona to develop better chips for iPhones and subsequently drive sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
+      "originalUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/tsmc-sales-ai-tools-chips.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
+      "publishedDateTime": "2023-07-10T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-snowflake-expands-partnership-with-microsoft.md",
       "title": "Snowflake expands partnership with Microsoft",
       "excerpt": "Additionally, to leverage the latest in AI innovation to build intelligent data products, both companies are committed to working toward enabling Snowflake customers to easily and securely leverage Azure OpenAI and Microsoft Cognitive Services with ...",
@@ -908,239 +1160,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu.md",
-      "title": "AI, machine learning being considered for inclusion in college curricula: CM Sukhu",
-      "excerpt": "Read more about AI, machine learning being considered for inclusion in college curricula: CM Sukhu on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
-      "originalUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_12_1951489.png?width=1280",
-          "width": 1280,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
-      "publishedDateTime": "2023-07-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
-      "originalUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness.md",
-      "title": "5 Artificial Intelligence apps you can use for your sports training and fitness",
-      "excerpt": "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
-      "publishedDateTime": "2023-07-09T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-how-does-chatgpt-decide-what-to-say-next-heres-a-quick-explainer.md",
-      "title": "How does ChatGPT decide what to say next? Here's a quick explainer.",
-      "excerpt": "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a852158ed31300199e1ff2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
-      "publishedDateTime": "2023-07-09T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-mark-zuckerberg-concealed-his-kids-faces-on-instagram-should-you.md",
-      "title": "Mark Zuckerberg concealed his kids’ faces on Instagram. Should you?",
-      "excerpt": "When Mark Zuckerberg shared a photo on Instagram of his family on July 4, two things stuck out: the billionaire CEO wore a striped souvenir cowboy hat, and the faces of his children were replaced with happy face emojis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230707152522-03-mark-zuckerberg-0524-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "publishedDateTime": "2023-07-09T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

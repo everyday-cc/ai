@@ -27,28 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys"
-    excerpt: "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-23T13:27:48Z
-    webUrl: "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/"
+  - title: "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests"
+    excerpt: "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ..."
+    publishedDateTime: 2023-08-27T14:34:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 105
-  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
-    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
-    publishedDateTime: 2023-08-27T10:32:00Z
-    webUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 73
+      name: Neowin
+      domain: neowin.net
+    quality: 78
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png"
-        width: 1000
-        height: 715
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
     excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
@@ -58,15 +51,6 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 64
-  - title: "Microsoft may soon give Windows 11 an AI revamp, according to reports"
-    excerpt: "Microsoft has made some big moves in AI over the last year, including partnering with ChatGPT-maker OpenAI and releasing its AI chatbot Bing Chat. Now, it looks like the company is expanding its AI efforts to Windows 11."
-    publishedDateTime: 2023-08-23T19:14:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-may-soon-give-windows-11-an-ai-revamp-according-to-reports/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
     quality: 64
   - title: "What's Going On With Microsoft Shares"
     excerpt: "Microsoft Corp (NASDAQ: MSFT) shares are trading higher by 1.5% to $332.03 during Wednesday's after-hours session amid broader tech sector strength. Shares of several tech stocks are trading higher in sympathy with NVIDIA,"
@@ -83,22 +67,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Mint Group achieves 2023-2024 Microsoft Business Applications Inner Circle award"
-    excerpt: "Mint Group is commited to pushing boundaries, fostering innovation and delivering value to its clients."
-    publishedDateTime: 2023-08-24T09:06:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpOMg2bgk7DLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2bgk7DLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/08/Mint-Inner-Circle-24Aug2023.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
@@ -151,15 +119,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 49
-  - title: "Epic Expands Microsoft Partnership for AI-Enhanced Clinical Workflows"
-    excerpt: "Through its collaboration with Microsoft, Epic aims to streamline clinical workflows across the care continuum using AI technology."
-    publishedDateTime: 2023-08-23T13:30:00Z
-    webUrl: "https://ehrintelligence.com/news/epic-expands-microsoft-partnership-for-ai-enhanced-clinical-workflows"
+  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
+    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
+    publishedDateTime: 2023-08-23T16:41:00Z
+    webUrl: "https://www.inferse.com/689258/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
     type: article
     provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
+      name: Inferse
+      domain: inferse.com
     quality: 34
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-2235.png"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "0E8QFK36xDCbQT0pPuRea/KyEocChScSVpGtPfH/NLJQeel5L8iMRJ3a7MsiIpvVxracUnFjstKi2i7pt43l2rWIgUP2MwjEJHui4VVCt4AghpIj4KKiEUTQn0VhivZlCDxl52Yi4oRSRbSDN9msQwLPfnC98ubHFdTqIz+36pdg8XtgJoPBR3iB6w6cBFbROwe6C9Eix1FsRrmyxOyXPZLssGTwWKX1o4OT1MCaxD9LlROBhp8FwaMS1hSOCN2cq87uh1U+TeSHefjeuy/AYaIcCwUuZyL0TwdUSW6wBRtISyTwh7Qge6A2CT94DUXzynPH3E/E8kscgN66BJqPNZ0kJbXzWxVMJQddrJwP2nA=;qvn+1mvcN5VYoJvIxFZ7JA=="
 ---

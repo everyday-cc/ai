@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kaspersky: Cyber Immunity key to secure the future with AI"
+    excerpt: "Global cybersecurity company’s 9th Cybersecurity Weekend probes into how AI will disrupt the world and how experts can set secure directives for a safer tomorrow Can AI outsmart humans? Is ChatGPT the beginning of our Doomsday?"
+    publishedDateTime: 2023-08-27T23:54:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3375150"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 39
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/Adrain-Hia-a6702b72.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence and USBs Drive 8% Rise in Cyber-Attacks"
     excerpt: "The report highlights the fusion of advanced artificial intelligence (AI) technology with traditional tools like USB devices used for disruptive cyber-attacks. It also uncovers a rise in ransomware attacks in the first half of 2023, introducing new ransomware groups to the scene."
     publishedDateTime: 2023-08-23T15:30:00Z
