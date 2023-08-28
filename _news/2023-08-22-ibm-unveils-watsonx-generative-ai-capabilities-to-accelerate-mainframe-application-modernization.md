@@ -1,8 +1,8 @@
 ---
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-excerpt: "IBM is designing this product to refactor, transform, and validate COBOL code to help speed time-to-value and augment skills for critical application modernization on IBM ZThe"
-publishedDateTime: 2023-08-22T04:01:00Z
+excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
+publishedDateTime: 2023-08-22T04:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
 webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
 ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "KJkeLYMgCmGXidQIyDU7kR5SsjGfYiShLo8tWjYUMXf67iYua0q7SIgmU/+61MGdql8hj9UHyCWMCayjlAB/Li2dF7dMl+pjuKl54mg47RhN6ZZleFnr+eOqT8UQuPFVxZeK0KYBQCXP8f6lDRHCQn+fe4LQJh/+TcC3p7RwNV+k694pok0nXC4qEtwTN0AU9FQt5rMPbLyTClzX3NLnMQeoXuaDmQhdhyDv68H43F8RvnMaw5tNMQATE3ttsKgqz/9BYOq3Pxg4TvwAFypLA5E8wE+XCTWwSS3HlVQYjlkatD9T/XoQdK++4ioZmN4Qd1EGIuN4pDnHGpr47K6dvar/7WR4Z9oTxP+TQGb6W+k=;qK8r1qXeHqUvfTXnn79EHg=="
+secured: "qYRCK3l+mxTpRq9FWhZURu/qRfEKjNM+6i2f55uMQo4cZrQoBKbxCTit5NVB9gDe4pcGAa0hp3R2m03qTOHU//z5WExm/D9r6UpQN02tp8Dy0U0yTvlqUMnkEYjt+Od6c5JNd17XMQDdvg5B95eRX3CVKAlJQSogIgVCvnRDidxnm8D2c4ohKSL50S9JjcY6GRAK+VSHYCb3+UJm/k8VJqg70yuxtHp5pYFByRoptbCfLEmMJIFvOKM5c6oHrDPUshG7hdxx0NcGpHxc+JosPrHB6QGp/01Btxs8G0CZKHKJBJZBFkCo2yLtZaLpQCD57UzHagfr7+hmD5AsiFyBUGsmXqx/uHo6y75HU1FsKSc=;i1U7rJb5/KuG9Pygp2yOLQ=="
 ---
 

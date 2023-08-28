@@ -38,7 +38,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
         width: 2667

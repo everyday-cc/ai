@@ -96,20 +96,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 69
-  - title: "AMD: Strong Read From Nvidia's AI GPU Surge"
-    excerpt: "The Nvidia FQ2'24 earnings were never really about whether the GPU chip giant could hit the $ ... and so that's what we've been working on. Our AI engagements increased by more than seven times ..."
-    publishedDateTime: 2023-08-24T00:28:00Z
-    webUrl: "https://seekingalpha.com/article/4630716-amd-strong-read-from-nvidias-ai-gpu-surge"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1468619897/image_1468619897.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1017
-        isCached: true
   - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
     excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
     publishedDateTime: 2023-08-25T02:56:00Z
@@ -126,20 +112,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "NVIDIA Rides AI Boom to Record-Setting Revenue"
-    excerpt: "With AI transforming entire industries, NVIDIA expects strong tailwinds ahead. The company forecasts revenue reaching approximately $16 billion next quarter, implying 57% annual growth. \"NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry,\" concluded Huang."
-    publishedDateTime: 2023-08-24T01:01:00Z
-    webUrl: "https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-Voyager-Headquarters-gID_7.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
     excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
     publishedDateTime: 2023-08-25T01:50:00Z
@@ -153,20 +125,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg"
         width: 609
         height: 457
-        isCached: true
-  - title: "Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth"
-    excerpt: "Nvidia’s rampant sales growth underscores the critical role it plays in the generative AI boom. OpenAI LP and ChatGPT ignited huge interest in a new generation of AI models that can create text, draw images and talk like humans and serve as assistants in multiple work scenarios."
-    publishedDateTime: 2023-08-24T00:13:00Z
-    webUrl: "https://siliconangle.com/2023/08/23/nvidias-stock-climbs-record-high-ai-boom-ignites-rapid-revenue-growth/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia Effect Wanes, Hiking Hike Odds, Indexes Hit Resistance, AI Washout"
     excerpt: "Plus, Boeing stubs its quality-control toe again and a lament about why the Treasury borrows so much money short term."

@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html"
 ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
@@ -44,6 +45,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "6hTFIB+Dmrq0DzBgWAlHC9UpDL8JuqHaX62twCnd/HvJvQUwjbRnH6yU+PVY5DuZMVSznkWPt+jHXXedVMRi+SSBZF9RXntZd6axyhtCaSvPm9sXv9RCdmCjP5y7EedtxxLtMTWP/Z9KMZC22NzhdDlFRBRJG2r2K/vJeQJkDdSujYkCa8DddNZLt6+YNyYMDTqLh+HbX2A5hXP40f0b9UZ9FegOE+/KbDQ/PdpylAxROKA7oGYqNNFMvUXJKvhFQ5KXsXeR7rYT9px7T/MbDXNBYkVX/yVodmQ0F7IBB+r5GDb0o5kw2rl/u8gkfDHyMITasrK+Y1EvxCl09p0yQcJb69WGKG8vCTQFclhUxyQ=;s5A72ozTP9S+S4Nm2kOqfA=="
+secured: "V9DTbHM4cUiRvL4nABIJeSa0HP7426Xep8V/Y3mIzBx19jocOCmAQpk5vAJudOClZjryGbxEgfKv8qfXM2E2O/xkqP/pP4QgMWOiv+DfVySqmzGZmHhckr8tOcvIUFPEy2xbGaVqk8ryklnJbJmsHswV86Q9FUtvgHhBsieksOW1/H0MoEr12iVMvJ2rKhBl2U6L+TJxMyCgW4FrO9bYnpyi4D6CRdkAvEmEYVYMcrLdk2aFAt1HQ0P0hs9GLA6H/m0NsBIPl6o9h9xnsbXisP6j5Tb0He6vkC1uVGRHl7oVTHei6Wq7oURQG89dwB8AZuo2SLedhyuqrhAzPjVtARUCcXCh/73OtE89AcqINkrdcSe6UqJI0aFx+ph6PPT4LAZ/eLmrq0vax52HJzSJo4PZNRc2Zijv/s2PKjM9+gDAoXcezuyIWe9fYNgZo2J7lsN9172GBGLqMqR8NxRt6kox+MHoIjm615Eim8kzuoshAi4Xjw6xZKWfb77P3fcZG3yUse7A0tbZW/QCxTxE1w==;PZcJKh/rYMtTkuoVxRUY9g=="
 ---
 

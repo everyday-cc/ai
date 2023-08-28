@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-w
 webUrl: "https://venturebeat.com/ai/koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "South Korea's Naver launches generative AI services"
-    excerpt: "Naver said its AI product, named HyperCLOVA X, will provide generative AI-driven searches for users as well as new customised services for enterprise clients. HyperCLOVA X has a suite of tools including chatbot application CLOVA X aimed at improving web search,"
-    publishedDateTime: 2023-08-24T01:04:00Z
-    webUrl: "https://www.aol.com/news/south-koreas-naver-launches-generative-010342053.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ada7bdeafee0743f71587baaf91210cf"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "uu6PKLepuU1vNZqDiunC1RX6ipnSuAcNdCTbENToG+1aT5/ahGMULeN4gRU5CPdx0ZqrwmAF/a5HJ9twm8+eisXdnvkVCfjCsxYeWtwkzHpU+s7G/XqfWKS8u/jcIhGamhNdaRQWw0qXin+tQJWVAmue537nHhY687ZUJ3YKDH6pXNdUjWMm9nnuuZSkGiqhRJpO81WrFJX0/X4AXmxu+vq9YWDvtrdsGr0g/JGTxnE27L5dj4erNPwdTpz+J7O2EP3rUHCgElYCuIjRy70rj//i3inczKQ0djocnsIfNfM3+BPS6CRJahV/U8W4ziH0VT4rRo/JY0A0g6nPF1/auZTxczaaTX5xu03LOZ7jdERUw+tVonrOFriTTeohKjuDXq4VRp2z2IohCh0l90BChWvan+fdDb3R854LrKCN7ufSRL4qLDarjBK3hxExk5tZz1l1raYihWxDBxfUIvKM09aSEbzlZkMbL11t7ctlCK9hauPSSqoBqoy+iFCC/LYKrtAQ0GfZbj0I38/yaxDBzQ==;cXGH0+xtIZQIWGH0i6nRGA=="
 ---

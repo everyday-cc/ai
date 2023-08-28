@@ -27,95 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must ..."
-    publishedDateTime: 2023-08-24T00:00:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+  - title: "AI chatbot aims to provide support for women with postpartum depression: 'A tool, not a replacement'"
+    excerpt: "With about one in eight women experiencing postpartum depression, amid a shortage of mental health providers, researchers at the University of Texas are looking to bridge the gap with an AI chatbot."
+    publishedDateTime: 2023-08-26T06:00:00Z
+    webUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement"
+    ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Fox News
+      domain: foxnews.com
+    quality: 72
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11bfcb2-a242-4eb4-ad93-18ee66256f28/f0d2fcae-a162-4bc0-826d-4409847dad26/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 798
+        height: 675
         isCached: true
-  - title: "Unlock the Full Potential of AI With 7 ChatGPT Courses for $29.99"
-    excerpt: "ChatGPT is capable of automating a wide variety of tasks within your business. Through step-by-step videos, this collection of courses shows you how."
-    publishedDateTime: 2023-08-24T09:23:00Z
-    webUrl: "https://www.techrepublic.com/article/2023-chatgpt-for-business-mastery-bundle/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08232023-2023-chatgpt-for-business-mastery-bundle.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
-    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
-    publishedDateTime: 2023-08-28T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
-    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
-    publishedDateTime: 2023-08-28T10:00:00Z
-    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
-    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
-    publishedDateTime: 2023-08-25T11:31:00Z
-    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 18
-  - title: "7 things you can do with Bing Chat AI but not ChatGPT"
-    excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
-    publishedDateTime: 2023-08-24T12:52:00Z
-    webUrl: "https://bgr.com/tech/7-things-you-can-do-with-bing-chat-ai-but-not-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
-  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
-    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 6
 
 secured: "cf4vjjteHKp0UQltVu+tJ2sd9YAzLgokDxIhbVr993duQbmo3BC2fAcve5+G6YZO3RqhDSRWqrv9evnagvymjnqbcWpYsZfuUhzkTZ8dTH0S8vb/ALPu+S9hQFjx32VMK8/rpPKwIqFyeK8esYc5dobNNOlwsNIkfqiXsHzhRmgPkVEb16QMwZ8f4qU7RPwvWg5pEX8pU2ACN0aP7U6C/C4Jvn+ToMMdTqZ8MXbyhmgsQod2gpi6GyRupKUGFBl0UeNDUYOGIzOEDZQ8W/UWJ8JqZxwTQdiRFS46VzLxbNRTPhcZkyonQhzg0g528mN90ApZhEeoIht7HkrSL4FmNX+T2PKWCx6JocuxyCoJaiE=;ikWzh26EvQTnTR4XKYh+LA=="
 ---

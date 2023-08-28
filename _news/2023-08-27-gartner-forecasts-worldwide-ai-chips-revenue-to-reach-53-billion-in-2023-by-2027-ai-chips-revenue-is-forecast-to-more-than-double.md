@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI chip revenue to reach $53B in 2023"
-    excerpt: "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023."
-    publishedDateTime: 2023-08-23T23:34:00Z
-    webUrl: "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg"
-        width: 496
-        height: 315
-        isCached: true
   - title: "Ai Chips Revenue To Hit $53Bn In 2023: Gartner"
     excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr"
     publishedDateTime: 2023-08-28T03:55:00Z

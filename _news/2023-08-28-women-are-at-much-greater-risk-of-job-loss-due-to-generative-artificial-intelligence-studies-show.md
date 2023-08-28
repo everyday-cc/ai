@@ -3,10 +3,10 @@ category: news
 title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
 excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
 publishedDateTime: 2023-08-28T12:46:00Z
-originalUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html"
-webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html"
+originalUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
+webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: bizjournals.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -30,6 +31,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "UsuvekfiDgURT5pAt9SFmmIqDxrN/rSeU7y1z1wxiN50354SbadzBuYH0qTQJpAXhYFbGv5hMJxc6hhUoOVCYLYSUytWzjpbpFgNXYaIeombz6Pn3xymRCn5J8PIukT2cHJTiELLnhrCLTQLpj0Vid5Yl+eNcU3o/y80aw0BUNsIW1qpN0mFNnW/SiKNGzY7g3hbLFeRrSKrMdiB79CnvC5KHmtKRgffCUe/wJzt90SJB1+EjupEfsDBqNHGXBGfYaSEDejPRC/XXY4DArYuR16/AyjZXUTVW6xJBSqPCRao7BoaVimPGxlfErQ8oiSQHRdwkAtHqmJJc8acuZ6OLhv0hT4WDXHsqZI6UG0iRFImGamP/RR5JyZHSM8DOvW4TAVSOzKc3tx2X6558ytNly+ULdHhVbOKaKl34AalSkcy43F365DiPLnWwANVhsPiNOPOH93AhncVbGjT8CuxYJJNDQGhFODmHj7xFfOFXKoZL6hvI9tE3SZGkNKNbRGpUSvNJOvdEiSZMHetNV5aWg==;RtsAxlFLl9RkUka/vUy++Q=="
+secured: "JqAutOWcAnZ9boPB54IVbpdLDRsbh6+Y8O3ls3mMBMjwhfv6+uM326JYJm4qVZCH2/5s9vwon9dNOU6jd3jNELn419S/M59YZNpPIdBkIGf4Idm5o4sosoHxWx8lQ5xIRJcwGA9NgWmRBZ8W6IPAnJE+BvTw6biwdirAERFnQHow0TH8qYvxuTb+v2sdC+IxFySM97mkoWvsi85eE7PYAPTE/J611SLhS70XV0B2HdxQV4oJYsawOThqaBQ8URbJC/GtBoqKw5oLveSrX6+SfHDiB/1pKO6P1/fV5qYw0L3W5kxmDORK2xnlWXSvhtzUVKzM3GSmgJZdWEwesWooFtRFeRCOldiFul+sZaiK1CTanrd6+G4BeFDUsNmaXBGmgOSD1TGucxWjS2sEmNwTLkwPym6K76ihl3S8bTdtEiEP2Sahxul2ltF7X4BRKuE/3gEeMqEpM1rqf9jQEER+xaz0jVA5V0sFy1l1XWmBZbK2l/YKGupCG2UxNuLyV+pY8P2KmO8TKHz5e2Uc3oP3iA==;PPBc1Kr6+I7aLHpk8vuQHA=="
 ---
 

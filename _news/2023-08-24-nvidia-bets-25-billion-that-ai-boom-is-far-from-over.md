@@ -192,15 +192,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 48
-  - title: "Nvidia surges as Q2 earnings crush forecasts, with AI chip sales set for record gains"
-    excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-24T00:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-crush-forecasts-with-ai-chip-sales-set-for-further-surge?ref=biztoc.com"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
   - title: "NVIDIA’s Earning Report Reveals Dominance in the AI Revolution"
     excerpt: "In recent years, AI has been the fulcrum of technological advancements, driving innovation and reshaping industries. NVIDIA, known for its prowess in graphics processing, stands tall as a testament to the vast financial and technological gains associated with the rise of AI."
     publishedDateTime: 2023-08-24T15:45:00Z

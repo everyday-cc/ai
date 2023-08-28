@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "\"Jio promises Artificial Intelligence to everyone, everywhere\": Mukesh Ambani at AGM"
+    excerpt: "Mukesh Ambani Chairman and Managing Director of Reliance Industries said on Monday that Jio Platforms wants to lead the effort in developing India-specific Art"
+    publishedDateTime: 2023-08-28T17:27:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273946560/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 30
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Reliance Chairman Mukesh Ambani Push Artificial Intelligence Plans: Jio Promises AI to Everyone, Everywhere in India"
     excerpt: "Ambani pledged the company's commitment to create up to 2,000 MW of AI-ready computing capacity, across both cloud and edge locations."
     publishedDateTime: 2023-08-28T11:31:00Z

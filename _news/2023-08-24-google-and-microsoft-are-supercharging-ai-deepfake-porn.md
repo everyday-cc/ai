@@ -55,22 +55,6 @@ related:
         width: 670
         height: 476
         isCached: true
-  - title: "What's Going On With Microsoft Shares"
-    excerpt: "Microsoft Corp (NASDAQ: MSFT) shares are trading higher by 1.5% to $332.03 during Wednesday's after-hours session amid broader tech sector strength. Shares of several tech stocks are trading higher in sympathy with NVIDIA,"
-    publishedDateTime: 2023-08-23T23:49:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34015788/whats-going-on-with-microsoft-shares"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34015788"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34015788"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/23/matrix-2953883_1.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z

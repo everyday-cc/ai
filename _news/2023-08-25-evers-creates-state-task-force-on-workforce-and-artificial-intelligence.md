@@ -9,8 +9,8 @@ ampWebUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BizTimes
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bipartisan Legislative Task Force Takes On Artificial Intelligence"
+    excerpt: "You'll get access to an ad-free website with a faster photo browser, free tickets to a host of events (including everything from Summerfest to the Florentine Opera), access to members-only tours, and a host of other benefits."
+    publishedDateTime: 2023-08-28T16:04:00Z
+    webUrl: "https://urbanmilwaukee.com/2023/08/28/bipartisan-legislative-task-force-takes-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 37
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2021/04/IMG_3110-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Gov. Evers creates task force to study AI's effect on Wisconsin workforce"
     excerpt: "Wisconsin has become the latest state to launch a task force to study the effects of artificial intelligence on the workforce, a growing area of concern among state leaders nationwide."
     publishedDateTime: 2023-08-24T11:59:00Z

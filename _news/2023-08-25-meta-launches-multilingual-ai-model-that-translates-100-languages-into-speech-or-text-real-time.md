@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Meta unveils AI model to translate, transcribe speech in many languages"
-    excerpt: "Tuesday saw the introduction by Facebook's parent company Meta Platforms of an AI model that can translate and transcribe speech in numerous language"
-    publishedDateTime: 2023-08-24T00:07:00Z
-    webUrl: "https://menafn.com/1106924475/Meta-unveils-AI-model-to-translate-transcribe-speech-in-many-languages"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_234.jpg"
-        width: 4000
-        height: 4000
-        isCached: true
   - title: "Meta's new AI model can generate and explain code for you"
     excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
     publishedDateTime: 2023-08-25T12:30:00Z

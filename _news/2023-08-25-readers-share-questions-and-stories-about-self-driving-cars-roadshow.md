@@ -7,7 +7,7 @@ originalUrl: "https://www.eastbaytimes.com/2023/08/25/readers-share-questions-an
 webUrl: "https://www.eastbaytimes.com/2023/08/25/readers-share-questions-and-stories-about-self-driving-cars-roadshow/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Paralyze Stop Self-Driving Cars"
+    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly ..."
+    publishedDateTime: 2023-08-28T17:34:00Z
+    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "GuwvPBN7fCUG5gq14vzdZobpHbaycZTPajyBmLMzZcb+Db3137NMLuFiHdEgrqGKsNS9M5NlGSbZBdgif6No0JoZ+UgYIDaC+2I5gZXyopRHTk4oi1AYfuo3YfoUkkdl+WnOE9dJHS6eVE/uQdRInbbAv/NVibNYsCJUG36FmbbQ4WKPa5NfoUJa6s634205mCU7E4uTtSxt3C21LC+4QOZIvi6IiTNxf3Vt3CTP6TSe0yboDT6SY9o+HIotW8W/OhkOP82GXowy9xhqugHBtlL0og/02XOC3TiANkjuOUkJKECAq+jOXbMAFWFEtlsJ4MxLrLEcKM1VfFNe/bpockxlurGYwqzO4SsOmjB2yiUmagjtdp8U4HBXWvv1hkaB0X0Tr9Jg/zlvujt8kpAuNT4tEPNp+x8zazF5GShnwnTR+IBF1dVX5NGcvQNNzTpKI3dbZgAhvzLrGtsm2nMQf+wlMJq1pY72TK6dZ7LMTVzO+hMp1c9XP5/OZT3EWFdU/pzMzquCSAipcZwIkGDkvA==;7kmknSMAVaD8D3tfiQq8ig=="
 ---

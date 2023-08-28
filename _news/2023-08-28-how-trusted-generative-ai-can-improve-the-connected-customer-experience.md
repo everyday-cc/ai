@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-trusted-generative-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
+    excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
+    publishedDateTime: 2023-08-28T16:10:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
     publishedDateTime: 2023-08-28T12:36:00Z
@@ -41,6 +55,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 14
 
-secured: "sS5uIsvc6AdSdsTUpH2Yx7oYn6L367bs+xOzEVosZJQPcZaC+e5kvpHzgm3ZIXhawxylZnIRPEMhwd/p2BnxrA/JIpYnFvj10+3VAo+GUQcDxpUHlp63mLonaFbDKD3oMJZ7OM/JWfuf4KIR9Ws5JfsoTSusVHd30llylFT/s2Wgx5sWYktKMRPDPv7ZmTxLgJMpUV+JLOO+wt2rNzxHSWLNuvnJRoMcV6pfMrRS2WGB8hHcbcdH+u2MsuN8UJ6+2xlDrsV5NsmvPiQe/KwUJIPpdUxYlboy0VXPMVB/KuEBTtBL2Na8F177XTXZEHwybllW9pZGZpx7Xu668srgUwQ/S7VyO6zBKTNqaqIQrSM=;gOVVQHlZMejvIt2zuCTZXA=="
+secured: "0oBDo+aOnz4i9qdCbYeJ/sUYNKuQWRkYC6984bqD/86C9wglVBrKcSetucmtVQEwQAkDTetJoC/rQkv2iI5Zn/WfNNbHYZkxoxETVsent+/h/aDXqEfDvcVobHA2cnNCWf3V940/TmK4GCyNyYB8cXdG+n9uK34GHnHeIldTHe5D5k5bx6YVUrYo7H40rEXpXyIqnQ6T5VlQ5lR/KWwwWlfltnhEnUhQcbSGE5iatIQHKCvi+0FbTUzEtyMz5e35oy88kZBtMw/aH2i0TK0PZftVdQ5eIuqFV/b+HmvBxqUoL6INga65CSUbVXZ3wDK7swojO97u6m33zKm8sglLUJn587MhUhRgidPwL1nA2QFEA93zWlbQVvx/syL4lg+pGRGVf/owXQy9ZYDFToCnLIEDuHMxrRciE6wsp6eI72rfgSyHFTN4AAhoRlesnCcgiVs4INq7rHA0eOaYPTgmFXryunWWlg/rDRAxwvODkduqW/5z5FiYK10RYGZbPUb6aI2JVqRUUQUPqxqLWMU/oQ==;y6giGvYLXavS7FiWGEhVOw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Prashanth-Shenoy-Krish-Prasad-VMware-VMware-Explore.jpg"
         width: 977
         height: 651
-        isCached: true
-  - title: "At VMware Explore, experts debate questions around AI bias and the future of data privacy"
-    excerpt: "At the VMware Explore conference in Las Vegas on Tuesday, the focus was on what artificial intelligence can do. Today, the company turned its attention to what AI should do."
-    publishedDateTime: 2023-08-23T23:41:00Z
-    webUrl: "https://siliconangle.com/2023/08/23/vmware-explore-experts-debate-questions-around-ai-bias-future-data-privacy/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/VMware-Explore-AI-Panel-BroussardWolfSilverman.jpg"
-        width: 806
-        height: 524
         isCached: true
   - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
     excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving robotaxis set to come to North Texas"
+    excerpt: "Cruise says its fleet of self-driving cars will be ready to pick up riders by early 2024."
+    publishedDateTime: 2023-08-28T15:40:00Z
+    webUrl: "https://www.kens5.com/article/traffic/driverless-self-dirving-robotaxis-dallas-north-texas-2024-cars/287-30bda8ce-1e23-4b63-a312-92cc9cc647da"
+    ampWebUrl: "https://www.kens5.com/amp/article/traffic/driverless-self-dirving-robotaxis-dallas-north-texas-2024-cars/287-30bda8ce-1e23-4b63-a312-92cc9cc647da"
+    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/traffic/driverless-self-dirving-robotaxis-dallas-north-texas-2024-cars/287-30bda8ce-1e23-4b63-a312-92cc9cc647da"
+    type: article
+    provider:
+      name: KENS
+      domain: kens5.com
+    quality: 44
+    images:
+      - url: "https://media.kens5.com/assets/WCNC/images/f0e6559f-f1a4-4253-a086-992ce8167903/f0e6559f-f1a4-4253-a086-992ce8167903_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "US Court Orders To Take 50 Percent Self-Driving Robotaxis Off The Road: Here's The Concerning Reason"
     excerpt: "California Department of Motor Vehicles (DMV) has initiated an investigation into a series of concerning incidents involving self-driving Cruise Robotaxis. In a recent road accident on Thrusday a self-driving Cruise Robotaxi collided with an emergency vehicle while crossing an intersection."
     publishedDateTime: 2023-08-25T09:49:00Z

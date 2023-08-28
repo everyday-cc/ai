@@ -61,15 +61,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "How artificial intelligence gave a paralyzed woman her voice back"
-    excerpt: "Researchers have developed a brain-computer interface (BCI) that has enabled a woman with severe paralysis from a brainstem stroke to speak through a digital avatar."
-    publishedDateTime: 2023-08-23T23:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230823122530.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Brain powered: control a computer with your thoughts"
     excerpt: "The dream of melding mind and machine to overcome the limitations of the ... Thirty years later, studies demonstrated that monkeys implanted with neural interfaces could control robotic prostheses with their minds. Then in 2004, US tetraplegic Matt Nagle ..."
     publishedDateTime: 2023-08-25T04:38:00Z

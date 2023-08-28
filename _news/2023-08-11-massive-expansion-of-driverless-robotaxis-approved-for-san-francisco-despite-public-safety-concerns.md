@@ -2,25 +2,25 @@
 category: news
 title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
 excerpt: "And get ready, Los Angeles: The industry is planning to push for driverless rides here as ... of multi-ton vehicles operated via artificial intelligence attempt to safely negotiate the hills ..."
-publishedDateTime: 2023-08-11T02:27:00Z
-originalUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
-webUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
+publishedDateTime: 2023-08-11T02:53:00Z
+originalUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
+webUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
 type: article
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
+    width: 840
+    height: 560
     isCached: true
 
-secured: "iYzyOfds1+CjpgxZqVo9g4mAGIYyidVg9V5HJ6jFwXxJ+7VAU6aiYOJgHpeYCv2e5wUiH57W+W7I6y15sg+ioikNgwL63WdLAl37F/qw0GIHMxGLoieR5Qrt3v+3wMtauoPuK8S1Tpl8dAJYLwecGPywoZDn9KUt9PXLEx+hgnTxgeJ0NpINKYrohrTwPvlHGfQGqqWJKVbAnJ4/7vqYTMhr8n+skf96uzEZOYaar4hNLUoKrhS+gzAEetGuFBfkQFAhE+P2fsAeUFVd62aMHgR7Z2z9VyCqgj/CxHKJk3d3/qWl1Cwgz7eGdswykDPRJzzoNGCZ5slot3YDdNIIyJlAxyHIG3fOTGljBdy5bZs=;a1Eos2Ly2htGfnCdPVDA0A=="
+secured: "tX1NtSBf3QOuG2onuOVC5wo59FXRbO7NjJitxdsh8ETlzo0AcrHgArjjAezWe8yjjrCEyv1lOkq6dJ9k0Uc1opDeerCBEUI8adcpE5l5xGBOV6VcyShM4UM9+5+kzIINexYrLICskK013U8EF50IhBhRPV6OZLJsPFDMnRsf7S0U3KVIUEFyr9MzVJ912YRNjdzwWflTuRPnItfbGr3iAY9KGRQ6jk8y/llP26q6lc8CT1G1fZzAO8VXR9zXKg1GBd1cwNM2MpUWvP7ze9+Z/Yhj1OBapGBjnvtbvA8gk3e7x2M/v+Uq1klv22ED9RWIvxlN8a9yyj46dCmeLrBAueWBNuHYvOQoMpps+vmb/jw=;2bQZH95tjgcVAMS6wS+k7w=="
 ---
 

@@ -205,15 +205,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia surges as Q2 earnings crush forecasts, with AI chip sales set for record gains"
-    excerpt: "Nvidia's AI market dominance transition into record profits for the chipmaker, which forecasted current quarter sales of $16 billion amid the global rush for its new technologies."
-    publishedDateTime: 2023-08-24T00:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-crush-forecasts-with-ai-chip-sales-set-for-further-surge?ref=biztoc.com"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
   - title: "Nvidia is the early winner in the AI gold rush"
     excerpt: "Accelerated computing and graphics chipmaker Nvidia announced its impressive second-quarter earnings for fiscal year 2024. The company reported a revenue of $13.51bn, which is more than double the revenue from the same quarter a year ago and an increase of 88% from the previous quarter."
     publishedDateTime: 2023-08-24T11:47:00Z

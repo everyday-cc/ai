@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
+    excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
+    publishedDateTime: 2023-08-28T16:10:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Rb3ORWGuIKsfjN8dbRqGXd4/8sVKqsNBSWHwnB7Z9i6XcOUI3sruWQVcMsXj6mC7UqzTWDFLG8+VwZFOmHEb1mFs2k4FIkaQVo7lZFLIQnL/oROVQBR+G0aLB8eGjO2Z4tRH++TablvxQaPc4PEag5q4ga5/8ONcwxWTmhYRjnCVFxBsCNCQYlS/0xDMebK7OBYo+Y7Cdm0YgiDcHDVI6K/SSx9x6HCMvmSnR16Da8vSCPeT+SE7yxIqJUOSkrwU4HTWIBwtj6ZhIfYQUA7AtNmFTElmFSv6J7O5DFfC2WRBBCcIjTpPvHF9wSG23StW7UY4suGZBUq6ht+d13i+Xb9TZfvXmgL1sHE9/6uC3Q3r0MKvD0H9y43RrMBwfza/qhz+AXymzEfiPpN1UhnkjS4U5Sgoj5AaMMKuiNJcxP9J2lQ5P0TvvUwxgvAZRKtkqLS1NvUr25ezYY0SI15IzyjRP6Nq89bB/bsf7DtFxMKfyChC30aFNVv3+/bPh2WfF7+hiijJTz3jxNW0Y5x8QA==;bMd2MFyHxG1A5y8KyRZkQw=="
 ---
