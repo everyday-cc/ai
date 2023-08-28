@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-r
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/"
 type: article
 quality: 85
-heat: 87
+heat: 85
 published: true
 
 provider:

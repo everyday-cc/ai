@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-inn
 webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
 type: article
 quality: 64
-heat: 104
+heat: 105
 published: true
 
 provider:

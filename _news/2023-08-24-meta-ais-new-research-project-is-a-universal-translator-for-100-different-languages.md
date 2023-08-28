@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Meta introduces AI system that can translate 100 different languages"
-    excerpt: "Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects,"
-    publishedDateTime: 2023-08-23T05:55:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-meta-introduces-ai-system-that-can-translate-100-different-languages-250191"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-meta-introduces-ai-system-that-can-translate-100-different-languages-250191/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-introduces-ai-system-that-can-translate-100-different-languages-250191/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 74
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Meta unveils AI model to translate, transcribe speech in many languages"
     excerpt: "Tuesday saw the introduction by Facebook's parent company Meta Platforms of an AI model that can translate and transcribe speech in numerous language"
     publishedDateTime: 2023-08-24T00:07:00Z
@@ -116,34 +100,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Meta announces AI language translation model SeamlessM4T"
-    excerpt: "and text-to-text translations for up to 100 languages depending on the task' MANILA, Philippines – Meta announced on Tuesday, August 22, it had come out with “the first all-in-one multilingual multimodal AI (artificial intelligence) translation and ..."
-    publishedDateTime: 2023-08-23T05:12:00Z
-    webUrl: "https://www.rappler.com/technology/innovations/meta-releases-ai-language-translation-model-seamlessm4t/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
-    images:
-      - url: "https://www.rappler.com/tachyon/2023/05/meta-reuters-may-2023-scaled.jpg?resize=257%2C257&crop=513px%2C0px%2C1785px%2C1785px"
-        width: 257
-        height: 257
-        isCached: true
-  - title: "Meta unveils AI system enabling translation in 100 diverse languages"
-    excerpt: "Los Angeles: Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects, TechCrunch reported."
-    publishedDateTime: 2023-08-23T06:00:00Z
-    webUrl: "https://telanganatoday.com/meta-unveils-ai-system-enabling-translation-in-100-diverse-languages"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 39
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Meta.png"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Meta's new AI model can generate and explain code for you"
     excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
     publishedDateTime: 2023-08-25T12:30:00Z
@@ -158,15 +114,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta releases new AI model for translation and transcription in dozens of languages"
-    excerpt: "With the hope of building a universal language translator, Meta on August 22 released a new AI model called SeamlessM4T that can perform translation and transcription services in dozens of languages. The model currently supports: Speech recognition for ..."
-    publishedDateTime: 2023-08-23T06:56:00Z
-    webUrl: "https://www.medianama.com/2023/08/223-meta-ai-model-seamlessm4t-transcription-translation/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 13
 
 secured: "fETwNQYYGyLvZlaaWJjWbeuWxCkdTXg4D4sgwWs+fvyeJOUUCixqH6/UNb8z0aoSPBDjRUj+9U0f4b7O7aETGk2YboUAY0Kg7he6o58LJ1vPDuCsR6wmUyGeOHkAsa+FxoH+ZlIlo/VFbM1Fzdym7o3kPeLss9NocfXJ/Te5AMwDmiR+nCFMsuY5v9emhvpPZaaqXhe4m5phRxXgvorLu4Qf1j+x95HDO2XulDgwj4XQuNAomAljaNaK1JXuUlP2gCvdQWyL4m6qMljRkb/9/JFNmHTzXyd+XrhNiv9nkMl7QdTnhEeYGrm7c113sR+++jx5vvQr9/u0+PgFqvMeZMtxULA4NbE17caPD99NeSCOH8ldpwgYVK1050ImUe0qk3twPsqmkwzprmkHYE53uQQNNlbk3uSepbnLXnBCOE9RJ9PLTMHTimz0xtqilJUbK55z4e7+WD5sDN2JfdyuCcBxjpOf2Ud64oX6ecQDTAc7FLzoDhE09NIHij7m+bX0VDqfXnLf9YheRnjND/ZSQA==;OcFCL/pOgZBJqlGlxCe1gg=="
 ---

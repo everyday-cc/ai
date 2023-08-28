@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 webUrl: "https://www.techrepublic.com/article/uk-ai-chips/"
 type: article
 quality: 86
-heat: 98
+heat: 96
 published: true
 
 provider:

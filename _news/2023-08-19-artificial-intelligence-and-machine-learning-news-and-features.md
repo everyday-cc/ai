@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-publishedDateTime: 2023-08-19T16:08:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
+publishedDateTime: 2023-08-19T10:19:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230827"
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230828"
     width: 1200
     height: 627
     isCached: true
 
-secured: "iV26eqq/dwp1uXyZ0sHBrqPio11BWBo2AqbLMx+Xq+uH690xqXinbeax6DkHG3KBDEl65R2bAEcICZ4u1k5vyR8BMMm3QI3MLbEWLYkeCXJeLaIBVmkt5AOgUm5NxL+V+CqI8QFc6rjwui70qpIpmcaiUE3FJ0LwIc6n/6HMFJ+Ki6kDYexOXRiwivx2a1NvHZKtgAa77+btfCAYHsn0Mr8MAG0ZsFBWgVHnLGMZYLEUkulJIghDLGkEaUexuEjb7zepNviWCqo0qYIL+m5hikZ8L1LpdgiZuCm254TZ10lqZjuFNzdsH5M1i8vp+qqoG8r6b1OA7h31BN0Ez3XNEecxq8I4s/iHJ0gVRpAdNZY=;He2pB8W1sj/w+mWA7PXhBA=="
+secured: "ok/8AfYhpxSUW7/j1Ilj7tzYQVv55x38/HBfsDro89G6Aarq5qGBBgwQMy0vM2XDoOLNZkUlkEkReTB9ZwZy4jSdSMJUZH6f3Af6q3aOgtcSDk/03XeQqNi0zeWvXF3+h1/okLq6UZ/5sQGrRKh5bgOgpAe8d47dIFfVVzQw0J5rZqXgAN+ljo/RkM7cTLMxCiOaQFKDBJbaGhhXwprqeQszi4W3wN5lfK9Njkjh1ofGIJF9FK9ydjO7S5yErwiXUQFOSzhxsUPrqk/3LReoA8I+UBzEl14keKMCqZ2RkkBydVEq4HL8b9iLqTwQ7Pm9aRBZ7+QMiry8rtSVTEKnyld7CqcXqF5Qo8MAdIg1BVY=;o0rfeMX7LdRvfgWuSm3Mmw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner
 webUrl: "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023"
-    excerpt: "By 2027, AI chips revenue is expected to be more than double the size of the market in 2023, reaching $119.4 billion. Many more industries and IT organizations will deploy systems that include AI chips as the use of AI-based workloads in the enterprise ..."
-    publishedDateTime: 2023-08-23T06:05:00Z
-    webUrl: "https://www.design-reuse.com/news/54641/worldwide-ai-chips-revenue-forecast.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 33
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
     excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
     publishedDateTime: 2023-08-27T07:13:00Z

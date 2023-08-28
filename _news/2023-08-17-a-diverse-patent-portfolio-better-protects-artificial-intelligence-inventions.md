@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/patent8_767.jpg"

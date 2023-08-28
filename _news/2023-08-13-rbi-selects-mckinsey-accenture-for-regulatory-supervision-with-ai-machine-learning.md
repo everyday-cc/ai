@@ -3,8 +3,8 @@ category: news
 title: "RBI Selects McKinsey, Accenture For Regulatory Supervision With AI, Machine Learning"
 excerpt: "The Reserve Bank has selected global consultancy firms McKinsey and Company India LLP and Accenture Solutions Pvt Ltd India to develop systems using artificial intelligence and machine learning for its supervisory functions."
 publishedDateTime: 2023-08-13T12:57:00Z
-originalUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning"
-webUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning"
+originalUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1"
+webUrl: "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 630
     isCached: true
 
-secured: "OLI891Tf6T8Y26dP8YsS0Bwb0+zMj6dTZryxDNxFepFlMWTnJOWn+3k5igappe3pWUJGmzrCFewpYqKxEV9qSvwUbsy38xUHYJtccZLJuWgEhaiSBoZCdTzveNsPkBB9+OkckNCyBY7uN7zq1ASRBT0VSOCsLTgiBTs3m0U9KhJQDLUS7xculnjDln4i/ekzLlo2kr1f4I8TyoP0XBCAP6c3dUx5vGMiJzlAhZMRTl783J2wwfsBoZGxv6+OlK9e74+AXu1bN6a4ya73kWEac2/i1mHDDMYvQNKY+yLvL7IdefYpBqw3R7b6mgPtsL52b+aOtpFp6lxHuyMlR7XhiKqJS/8OjBNOuyrFdOJs0b+ZYzDrkYmuOWa+PONVDswGXrVGGkr2QOHJBjmfvGtwys24+r+P66yIFIkTZFrSppMCcf7B2ET48kd2EyDkHQp0sM5QIOFYvrJi//6+gV/9vfA2qigwCg6qUd0Vf680QI/DV9yYZH+ccnl/Ce2KR5ljH+kSyEBNZyi7E6nckJIabg==;1Wwkgi7csy8w/Ygi0p/+pg=="
+secured: "YDvbeAhznExEdTES7LAPnc0yFIShSBfU6sBlTI284Ec2xf8KXevKXjhHPue3eUFGkPVj7Ah329aEafhZ61U3u04TfUgLhNdPbNndLzfLzwAZKM4EEdq+AC/vThZ0A7esscpS+83iEJnyUr4ZEWIl2+qbfGVpCSpsUNmPOxTX6oJjWc2QPoCFns3gnxBYWkeG33IuPYNecHqf22OUJ7dFthnS+NSA6a1b59O1rVwzP3xhkAd3+L3A2EX3wFzewZsNI5CYr7HrFkBYttFhM1Cm2gvJSBPuDtJcJt27FF/R01THnqgLFY7xY/ZFAQjB56tqxKpwlWYOfS/7/V/xkNcNCwDL1L1sCg8OMbxxP7h6OyE=;1hLSNPTEMBH9+dEzVBEksg=="
 ---
 

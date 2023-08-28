@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Analysis-Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles"
-    excerpt: "In one sign of AI's overall market boost, a Societe Generale analysis zeroing ... Nvidia shares have jumped nearly 12% since the start of last week, setting an all-time high on Tuesday before retreating. Such buildup in the shares, however, could make ..."
-    publishedDateTime: 2023-08-23T06:18:00Z
-    webUrl: "https://www.aol.com/news/analysis-investors-look-ai-darling-050434263.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 33
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9825dad5459689b518499cbb9c70339e"
-        width: 800
-        height: 525
-        isCached: true
   - title: "Nvidia’s AI boom exceeds Wall Street’s lofty hopes"
     excerpt: "The jump in sales lifted Nvidia’s after-tax profits to nearly $6.2bn, up from just over $2bn the year before. Pro forma earnings per share rose to $2.70, compared with Wall Street expectations of $2.02."
     publishedDateTime: 2023-08-23T21:16:00Z

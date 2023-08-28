@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 webUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI Brings the Robot Wingman to Aerial Combat"
+    excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
+    publishedDateTime: 2023-08-27T22:12:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "American military brings in artificial intelligence robot for aerial combat"
     excerpt: "And gaining and maintaining an edge in artificial intelligence is one element of an increasingly open race with China for technological superiority in national security"
     publishedDateTime: 2023-08-27T17:12:00Z

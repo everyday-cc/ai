@@ -42,20 +42,6 @@ related:
         height: 853
         isCached: true
   - title: "Navigating the surge of artificial intelligence in higher education"
-    excerpt: "With the increased presence of artificial intelligence on college campuses, UI professors across areas of study are adding a new section to their syllabi to implement AI into the classroom. ChatGPT, Chat Generative Pre-trained Transformer, is an AI chatbot ..."
-    publishedDateTime: 2023-08-23T05:18:00Z
-    webUrl: "https://dailyiowan.com/2023/08/23/artificial-learning-navigating-the-surge-of-artificial-intelligence-in-higher-education/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 56
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/08/AI-front-copy-1.jpg"
-        width: 2001
-        height: 1334
-        isCached: true
-  - title: "Navigating the surge of artificial intelligence in higher education"
     excerpt: "For an hour and 15 minutes twice a week, University of Iowa students file into the Seamans Center to talk about ChatGPT, its uses, and related ethical concerns in the course “Generative AI Tools: ChatGPT and Beyond."
     publishedDateTime: 2023-08-23T21:26:00Z
     webUrl: "https://dailyiowan.com/2023/08/23/navigating-the-surge-of-artificial-intelligence-in-higher-education/"

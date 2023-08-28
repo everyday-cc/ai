@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI-powered brain implants help paralyzed patients communicate faster than ever"
-excerpt: "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation."
+excerpt: "Paralysis had robbed the two women of their ability to speak. For one, the cause was amyotrophic lateral sclerosis, or ALS, a disease that affects the motor neurons. The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words."
 publishedDateTime: 2023-08-25T13:52:00Z
-originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile"
-webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile"
-ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
+originalUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com"
+webUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com"
+ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?ref=upstract.com&amp"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -84,16 +84,35 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Brain powered: control a computer with your thoughts"
-    excerpt: "The dream of melding mind and machine to overcome the limitations of the ... Thirty years later, studies demonstrated that monkeys implanted with neural interfaces could control robotic prostheses with their minds. Then in 2004, US tetraplegic Matt Nagle ..."
-    publishedDateTime: 2023-08-25T04:38:00Z
-    webUrl: "https://www.theaustralian.com.au/weekend-australian-magazine/brain-powered-control-a-computer-with-your-thoughts-using-synchrons-stentrode-technology/news-story/387d23813ba25510ae2472650c873ac3"
+  - title: "How artificial intelligence gave a paralyzed woman her voice back"
+    excerpt: "It took years of physical therapy before she could move her facial muscles ... For weeks, Ann worked with the team to train the system’s artificial intelligence algorithms to recognize her unique brain signals for speech. This involved repeating ..."
+    publishedDateTime: 2023-08-25T17:18:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/bravo3-ann-square.jpeg"
+        width: 700
+        height: 700
+        isCached: true
+  - title: "AI helped a stroke patient speak for the first time in 18 years"
+    excerpt: "A stroke patient was finally given the chance to speak again thanks to an AI brain implant that allowed her to power a digital avatar."
+    publishedDateTime: 2023-08-23T22:54:00Z
+    webUrl: "https://bgr.com/science/ai-helped-a-stroke-patient-speak-for-the-first-time-in-18-years/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/11/neuralink-brain-implant.jpg?quality=82&strip=all"
+        width: 1600
+        height: 1067
+        isCached: true
 
-secured: "tLtYH1CFj2A1sJcxeX0HzlvsnClK9N0y34fz6jA5BGIg3Z/rfU0j7fd3OKU+Pr5Nf16CfVsnGmKhhUighdOT6bKzw9EvyENWwCSDEw/UGPXKN1Pg5EiErMGpKAaUI5QjLhu84n+LVa135QDSjpkzmz7FAzoSLlqfYYohtDbklyzddRb7mWcFAA/KeMpSri+sGkpEN0AMtBpsBV7AydkxabSVVkLOMgYZjW9l6+E9L3/olW2hjTXtYhOOmjZI8ojvVP959UMmNbQ5lJo5V4SJnUfksg57ZqhXyITCyLYAl2Xp6pp4Sk98kulDadGt6nrY+j79uLyf0BimVS28TKHtFw6NfXxiZeWaV7tdqXXZhn0=;6iioOUY/+2UpVD4i8DSZ0w=="
+secured: "FliZ/gJl510maY8Zte5/Cd8vH3veb2mkZxxSDOfYSxC9qttdLoF/t1h9adrAcG26GyfrKT2VQFSMvxwlNUD58Xgepu/ORhj5XDv5zJRizdaycTGuV7C0FmMGKWd6a9u70g/DEVZsMj84zNZtmTq1rZwyzDuMmSEyJ3F5DbcJgpnkPizBIhnmPNpvcLGhMOEt9cuhOgUsKykV3RCqCItyGM6RpLo/Peu1eaJGwIfX87oLC7WDnYHrmYNM/k9sB4XX8jSs78+bppEYYc/RNG1mVT1z329nldlDUl0Cmwmd2aZqRFwshSA0MRy7ZE6px6SAEF83jcsPL7drh+EyyTcr71BGgCW3PzR0chMIJnNdJAE=;Gc4d1gIjrkliGH1S1bZY1g=="
 ---
 

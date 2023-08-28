@@ -1,29 +1,29 @@
 ---
 category: news
 title: "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover"
-excerpt: "The research suggests security systems within voice recognition software, frequently used to protect people's bank accounts and other sensitive information, aren't entirely safe from would-be thieves."
-publishedDateTime: 2023-08-24T15:30:00Z
-originalUrl: "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html"
-webUrl: "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html"
+excerpt: "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ..."
+publishedDateTime: 2023-08-24T15:31:00Z
+originalUrl: "https://lacrossetribune.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_45fc0ef1-89bf-5e47-9d37-5269cc3c6ff8.html"
+webUrl: "https://lacrossetribune.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_45fc0ef1-89bf-5e47-9d37-5269cc3c6ff8.html"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: La Crosse Tribune
+  domain: lacrossetribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/ab/5abc588e-41f3-11ee-9bce-4fa93f74193d/64e6ae349c49c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/5f/45fc0ef1-89bf-5e47-9d37-5269cc3c6ff8/64e7753e1428d.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "Cjo5ljWp6HOh5j72lBqYGP8b222fKeQ/3LDjEY0uUx3FcARxKhe+4/MWLRICZPFqa0JA6WZJjyKqHGIUjlFNnRGNTCpSr/rzfw77/+0CshqmQL4eERXoWXqW7qKq9KiWGG4Q3uXAdf2/YlfX7ufEi6glJyLrE6DmNednbJ8o1NxuvPOFvDIKiLhXYEkhplA1peoGcfdb3hdga1R/zAWnbP/NxugI8L1yu0XGQbiT4J7QM+5aZu6ZUDpdt5uO8D8vWvPeWlHzjqODY1MFXa3YbLMXLtMVL3MUYP3tx2BDq6eAvjDe9Wdr6KPh+/Ztgh39BC4HvtBtha1uIIeWmrx206R4IkOrwibJF0h82CTdceY=;9rYPNcrdGA4T+rvZ8UXdnw=="
+secured: "gH91Mr96FZWXvNH4on7IqGTc13OADyx4Nx8yLIB2YWo7Sj0WVvJ59F3CXy2HZV1hDJFIm8JC6irzREpwiKF3uERAcrf/fqunx6t5xYh1DQ2UfKYmqW/vnkGRHVRVnCSBdwSnug9AAWQYYzi5YAuK3xBgAMw57X6Da4yKtUDGmbmSYcdWpF6fSqWGj6W/zcaapYCNLiXl0NF0YlSLRygqWZlZuIiiO0OJSBYUEEfisLSqH1HW7tepPDz4ATNTlBuwr0c3MA/ZKIR/OH9PS6AE6I9vNCRMUfm3cr56pZggkn58NVumb3ef5pvzCf59pUKja/Ox3lgcmxdocM/UC+PMYiH2/O3RqXhVvdDSvTGP2S8=;r6kNx6xe0AQTnUyR+51iIw=="
 ---
 

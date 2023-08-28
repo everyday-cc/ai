@@ -1,22 +1,28 @@
 ---
 category: news
-title: "HCLTech Collaborates With AWS to Accelerate GenAI Adoption"
-excerpt: "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
-publishedDateTime: 2023-08-23T13:05:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/23/9869009.htm"
+title: "HCLTech Collaborates With AWS To Accelerate GenAI Adoption"
+excerpt: "Aims to empower enterprises to harness the power of AWS’s advanced GenAI portfolio while demonstrating a shared commitment to leverage AI advancements"
+publishedDateTime: 2023-08-23T12:00:00Z
+originalUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
+webUrl: "https://www.hcltech.com/press-releases/hcltech-collaborates-aws-accelerate-genai-adoption"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: HCL Technologies
+  domain: hcltech.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.hcltech.com/sites/default/files/images/1200x630A.png"
+    width: 1201
+    height: 631
+    isCached: true
 
 related:
   - title: "HCLTech partners with AWS to drive GenAI adoption"
@@ -64,6 +70,6 @@ related:
         height: 765
         isCached: true
 
-secured: "SoxjtH5IoKFr5NXXQ8sk3xfKhPklRKmbV1DNcGTwncaJxWEf+aECczMabPHdchhR8irGBSZkaEG23xiqwZK7mTPRKeHIUJHMQLgr/IyUEZoYFvJ8DVZXLUZBKP4WQBlFeywYCNXRTu8O4DqwPQUjf6qc/eeQsA3lELkacZRpkaD2xrHgstmnL43kba/EIZSnI7tm3bwx5ddimuFHkdCZSTmLjOlgV9y0eQaN2HusdgAh0+dnB9kHhqItROHgu53HZdzvGR+HyQJx5iMOBF6h60mWdUbrPAbXNEwbKvbd1meIxnxcu2Ghblewo/hgeYHxveQKA7gtEsjPCUDuwG5V5HDl/YShrm3MyaJYSmTeQ/M=;/9jFF5vMfzIF/01rCp3DNg=="
+secured: "aM5B6QzO9Zpz9krLWgTkqWjMQZMagWe3j79QtN/tmK4x/DC4VBhRo4CEhCRMJDnSUEYJI3QGVQvngRjZVZV6rCRfezI+pJAqu28Z1eNO6VH9kuvetooHIQ6wIiJFPvqWQSpB9IG1PAv+R2Q3WixnLJYFxc4MNB+y43ppi4QrTQV9v4S7TLVqImVXmYbD3h3OANkdl6VYBJSlqFcvm0A491uZYiOIlptqr3A4gteGaM+JYhJDe+sgf4+o2MxrPSFmw1iSXvPPm+nZQfPACPbgFcQ2k4wFIFNsvU3id7urH+XNItZI9Prv+fhqDtlW+qq6m/E3AGro/gk3aJiWukVtHQtzc0qQ2rxYCFLX6hb/9QM=;wvMgldZ5Wsb6CCaXf2KkSA=="
 ---
 
