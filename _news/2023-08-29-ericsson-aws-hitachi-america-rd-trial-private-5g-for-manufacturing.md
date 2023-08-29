@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipm
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
 type: article
 quality: 59
-heat: 79
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,24 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
+    excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
+    publishedDateTime: 2023-08-29T16:15:00Z
+    webUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
+  - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
+    excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
+    publishedDateTime: 2023-08-29T14:33:00Z
+    webUrl: "https://www.rcrwireless.com/20230829/industry-4-0/hitachi-demos-machine-vision-on-edge-5g-at-us-autoplant-with-ericsson-aws"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 18
   - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Hitachi Astemo Americas, Inc. manufactures and markets engine management, electric powertrain and integrated vehicle controls for major automotive manufacturers worldwide, adhering to ISO/TS:16949:2009 industry standards. For more information, visit https://am.hitachiastemo.com/."
     publishedDateTime: 2023-08-29T15:41:00Z
@@ -51,6 +69,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 13
+  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
+    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential"
+    publishedDateTime: 2023-08-29T17:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969520-ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 13
 
 secured: "UB2kQyQGh0wynoi6RUwVl0a7J4Xoiadnl0yJOko3O6G/UPU60Bp2LoS3FnQ1Zbs7n5wddBmhhSp8iwfAPpjwt6N2dJwbFLvbkBxe3DAXpd5jheaCfCgR7Wo34Nc0lS4+hOfp17hgNrlhq8xgQKche+hKMc94rIVSz2QU2koPuuRDeJWK/WW4ztiAVbPAV5jMHWonZUpb8JccSYHKCm08qS0d6cM87wP0zeAYPSjz743Dy0HzF1cyw+Mw3cdagz9Dcf/FxUPq3p9WQi/spd8EVRgqI5bWZTOK0FusWLj5VJlg8I/5f4HveZWMAQiCTRGq/WXHQ7KAi1jIlOfrzY61Z0v06t4FQMJj9+hoQoxrsO0lpVbcy5WovrbuRytjQLdt8DJ7YSQFdS4WpozIrh+au/pQQbVy49DmN5I5ZE45s16WrH0vSzFbx7em1zKTR2jq20rMJzFpJvNCHXgARiRLkF2zjZYed3YZa2i6Cp0utvrEf9wI6w0RovbYb692cKTB0pIMEX1dz89rfTdz7KOshA==;7EQy2MaNM6pktORdMsjcWg=="

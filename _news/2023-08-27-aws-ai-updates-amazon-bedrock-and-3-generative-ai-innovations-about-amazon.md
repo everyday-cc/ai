@@ -50,6 +50,20 @@ related:
       name: Google
       domain: blog.google
     quality: 86
+  - title: "Google Applies Generative AI Tools to Cloud Security"
+    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
+        width: 1400
+        height: 957
+        isCached: true
   - title: "Indian IT leaders are ready to embrace generative AI but also have concerns: Salesforce study"
     excerpt: "However, leaders are proceeding with caution, with 82 percent also expressing concern about generative AI’s ethics. “There are concerns and the issues are real,” said Arundhati Bhattacharya, Salesforce India’s CEO and chairperson. “Bias ..."
     publishedDateTime: 2023-08-25T11:23:00Z
@@ -118,6 +132,15 @@ related:
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
     publishedDateTime: 2023-08-29T15:56:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-softserve-launches-generative-ai-lab-/2023/08/29/9871692.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "SoftServe Launches Generative AI Lab"
+    excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
+    publishedDateTime: 2023-08-29T17:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871692.htm"
     type: article
     provider:
       name: TMCnet

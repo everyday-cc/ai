@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-l
 webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is teaming up with one legacy automaker to bring AI to cars"
+    excerpt: "He covers AI companies, safety and ethics extensively. As an offshoot of his tech beat, Ian also covers Elon Musk and his many companies, namely SpaceX and Tesla."
+    publishedDateTime: 2023-08-29T16:35:00Z
+    webUrl: "https://www.thestreet.com/automotive/google-is-teaming-up-with-one-legacy-automaker-to-bring-ai-to-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "mYfcPO9e1rzVI6eF6QdD71fJyI07T2KwXFDILQZ/KKcTx2oiGamZC5E/MeESlu/7ZU98pWyGeR20/qVI+cIT8hp54ShdMen4NdcVYIbUaPKuqiNnMFs+Rq97CmpLMwZPLZfI9rFI8b+YkXG2NXu/kSSE0wq9fQkU5MSN9abHlXl6iAezO5yrk1nhrOTpp1xzmpGy8ggmVRImJfqQJqup1IjFKkLyTeoc+KPPpK3/pWEB7FPmEPgOUBYRx5+MnnLn4pbo84NmXxM/pDGi8YslhXNaEsget+7BhOzn/WlIDhXRGljVTAm8q/v+7/eLD/hy3oR82RC9k/MVDCap0uwdTOkYBxq2i7gvR+YioIwBKhXww60a1yDYsJkqJAAe8iRl5+cr6zJqbJZgtzj5A6+wqRU8OwFbdE6bucRW2nT3inFVVStKxDTZLJVWcedQny5APIg/fUDEFsnfEKZ9myBsOA2eaGC64wWjVgXXk66yg33IVpmWeOEsl7+PUwmPAjtTOIBwBAXKqmT4pDKIh1t2Lw==;2ZLkGvrtJbXB0m4LzyziMA=="
 ---

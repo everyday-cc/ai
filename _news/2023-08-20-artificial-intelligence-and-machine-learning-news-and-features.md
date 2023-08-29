@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "Neuroscientists are hoping that lessons from neuroscience can help the next generation of artificial intelligence overcome some particularly difficult barriers. Given the brain's complexity, it's no surprise that deep neural networks (DNN), computing ..."
-publishedDateTime: 2023-08-19T22:24:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/184"
+excerpt: "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ..."
+publishedDateTime: 2023-08-19T23:08:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
+webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "uwicMVUyQQpC5cmLCfhz6XhYCjGQq7uLZfWnajG4ibuQ7y693oclWXFl2ftBiz+/GHBI6UaLfBgHm+B44EgugcUs1xLdkkWqwo3yVBX1eQT6jCxezqOk7uTTdOBuTwIkkxNAS15/j1j/RPXaE0XUIfblaTJSJt1hXtZc/rd8i7/eJT17WBw4dTuexjvSHdboDQE3JET25xBxrIWWuge/6r1KaUTvE9oz+E73KA//8w3KIVGU4d6klrpoD7wafkYXgKtIVVxdTaBmT1D2sXmNERsqOllpwuVVwL4JZiMvpIxul3uND7Bw16xI9PDYplJ42gq21f7Lzhhr94h8gfjnra4biZI3hkMjZTvNZ5jHAAk=;kJbmaBcieI/QFFMfLm/FWg=="
+secured: "8GDb7YF3eWzzjjtOz+DgbF0ovkkJVbuEUVnEK0LNeItOwvAjcBATdD/W85lHT6fhUNQqEzgK27hdxphtcdVF/N7giCi1bdSM77NOaO2SlqhZnpSBC1nnuADUCBerHlwCUgHU6DPoVRiIeerr9sm1DO8flqTKsHgjezJF/3y4CHd0FIftvV8Ar9zL1QVRcpv126Jk5dsrdJHkEdeeoLiSspDf1CrmVeuT8TnDsM+aC42I3GDg4AAnSglTWpOEMNtIlTlaNn0mdledzOQakVlA9wa3rSFXSFHYNw4biZwM0F0OhVRgG5vuC1a6rE/1PEQEOFHvGLmZy3LeMcXfrQjfmmNYlJrVvqkbiu1Ry7VreHg=;GN4UHzhin82aaIf66+t39Q=="
 ---
 

@@ -105,6 +105,22 @@ related:
         width: 1198
         height: 672
         isCached: true
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
+    publishedDateTime: 2023-08-29T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Flipping The Script On AI By Using Prompt Engineering Techniques To Have Generative AI Ask You Questions And Get Even Better Answers Out Of The AI"
     excerpt: "An important and quite underused prompt engineering technique involves invoking a flipped interaction with generative AI. I explain what this is and how to gain from it."
     publishedDateTime: 2023-08-25T11:00:00Z
@@ -171,20 +187,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
         width: 500
         height: 281
-        isCached: true
-  - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
-    excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
-    publishedDateTime: 2023-08-24T23:37:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regulations-2366808/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."

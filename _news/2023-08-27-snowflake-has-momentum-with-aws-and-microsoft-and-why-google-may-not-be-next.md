@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests"
-    excerpt: "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ..."
-    publishedDateTime: 2023-08-27T14:34:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
+  - title: "Microsoft officially adds Bing AI chatbot to Google Chrome"
+    excerpt: "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser."
+    publishedDateTime: 2023-08-29T17:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 78
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
+    publishedDateTime: 2023-08-29T14:55:00Z
+    webUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Microsoft unveils blueprint for India on AI governance"
     excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
@@ -69,6 +85,22 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 69
+  - title: "AI chatbot aims to provide support for women with postpartum depression"
+    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
+    publishedDateTime: 2023-08-26T18:10:00Z
+    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
+    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z
@@ -83,29 +115,29 @@ related:
         width: 644
         height: 450
         isCached: true
-  - title: "Microsoft Discontinues Kinect, Again"
-    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
-    publishedDateTime: 2023-08-26T08:25:00Z
-    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
+  - title: "Microsoft partners with universities to allow the use of generative AI in school"
+    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
+    publishedDateTime: 2023-08-29T04:50:00Z
+    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 54
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 49
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
-        width: 803
-        height: 452
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Microsoft being GPU constrained is potential risk, UBS says"
-    excerpt: "Investment firm UBS said on Tuesday that the risk for software companies such as Microsoft (NASDAQ:MSFT) of being GPU constrained is a \"reality\" and could impact their abilities to generate AI revenue streams next year. \"Microsoft and others are facing a ..."
-    publishedDateTime: 2023-08-29T12:40:00Z
-    webUrl: "https://seekingalpha.com/news/4006989-microsoft-gpu-constrained-potential-risk-ubs"
+  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
+    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
+    publishedDateTime: 2023-08-28T10:00:00Z
+    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 51
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
     excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
     publishedDateTime: 2023-08-29T14:44:00Z
@@ -124,6 +156,15 @@ related:
       name: dbta
       domain: dbta.com
     quality: 28
+  - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
+    excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
+    publishedDateTime: 2023-08-29T13:28:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34087069/google-collaborates-with-nvidia-in-ai-expansion-a-strategic-play-against-titans-microsoft-openai-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "Veky0xVlcouaIBTEUpEo5ur2BWuH6ep2s5M8frs33F5V1Q9thVH8hxa603eJW+wBiQt6W8orvUdRccTUPEscBhFWW2hHO40DbtFN1Pm5jtAJRGe+mvOL3FHYr7hR+QjLvTDL826OPyff2r23CW0hknXzow+Zs5as7sw7QXU5x1JKkp6P4VGcGzoSCt66m97Zz52PwOcBhDshNYYmk3JLI0KGaxmQJp5QLic8VpUqRepj6+9qzZFOssb7P+uotz3WHeBpoSOEH1J5UKkQEE2xHpMC8n0jGhmA5qLG2xjnXR3ry8VqdIi1tUYcPOTaaeBLRvTX63EC326x0TirAT/TeH3fvf1HcRMXLmOJD7mqQ3aF4iNoiN8fddvA3f2h95qo3AjYhdtPxksB9Dah35/4KxclGuj7ia2ETQX1MnRAjbIFaohtkPLA3uw55lheQ1zV1FfbSc77Hhi/DECPFetIfGpmGJPNOxkKFjR5wGjTu5wL0dIheM6PFuRwKebZfQo7Dcs3SMui+iYKDBuwOAS9Jw==;MebtcIRV6pon7omdhVZqoA=="
 ---

@@ -31,20 +31,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Meta’s latest AI tool is built for coders"
-    excerpt: "Following its other releases, Meta has taken a step further into the world of AI tools with a new one built just for coding."
-    publishedDateTime: 2023-08-25T01:10:00Z
-    webUrl: "https://bgr.com/tech/metas-latest-ai-tool-is-built-for-coders/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
-        width: 2584
-        height: 1672
-        isCached: true
 
 secured: "dxysho+Z941L5FmtamI8z7Jiwa+3I0YPpTUFU4OQtZWV6AfRy98IdB+V+0M5dfV2/9H9PIVa838xaF2UUDtMKiu4h3aZ1RVU91zWkTlminZgH8BssnVM+KnkPZxYG3sEJn3oSLhmfCpovnCZDfR6BjP0pVlP3/uwmNEBJrLABTLEgas3RiVPX4JwsTKero4d0raakTo2c9m2px9HBtaoyQ/coc7CjM9t0j1ETIIndWnSKYvvAFMXd+9MyY05ACfnfzn2RdcZhIvgwwfEkCnGCAN1YNhgpRN8cZdDXxmDKGyjXvzvidmC/WpnhHw1Nr38nFukLyp9eahP2tcRUBT7Umf/HMcpUgGOHPo1Cj+XAf/vndQ+YsTN/3KcKf2kuUuouySZQ9Yse32CE006F3c03Hv0s1+eUQ6p7PtJmlhrc71L5jfaqk4bIoI04UD9Z9tRxpCkd8DXe4jRkAI4+pGGlNhHQnjyauWbnKfpOgMFiJ1VcAPgMMSTCSiCMJZquW6WOBOvCsWlkgXHDKGiBSSebA==;W31X4OiB9pqF/JH6jGPiPg=="
 ---

@@ -43,6 +43,24 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
+    excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
+    publishedDateTime: 2023-08-29T16:15:00Z
+    webUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
+  - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
+    excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
+    publishedDateTime: 2023-08-29T14:33:00Z
+    webUrl: "https://www.rcrwireless.com/20230829/industry-4-0/hitachi-demos-machine-vision-on-edge-5g-at-us-autoplant-with-ericsson-aws"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 18
   - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Hitachi Astemo Americas, Inc. manufactures and markets engine management, electric powertrain and integrated vehicle controls for major automotive manufacturers worldwide, adhering to ISO/TS:16949:2009 industry standards. For more information, visit https://am.hitachiastemo.com/."
     publishedDateTime: 2023-08-29T15:41:00Z
@@ -51,6 +69,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 13
+  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
+    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential"
+    publishedDateTime: 2023-08-29T17:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969520-ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 13
 
 secured: "En/qezoHFESUZAby/imRvx6Xul3rsX46ChGchG1ksOplUYtuAo765ekWwLDIerWxE7a2DJwWGjAz863EQjKqxboBx97FVVaKjdAfegemA74nTvgFeyzZQOzl6y9/WQzb9opmYc66DNluoC2mUy7LdauyJo5+/836I9AjIymTlkBWCAHdE+SPDNLnRLC0m+BrITWufXL32Usr+Cmmp5cz5rBMnOC8DblbVsCWuXAeIGU11i8UtFPHKpC3tpQyq7asL36cIZ9MKWVImrQo//AthmNb8TuugNrVHxxTJq9OJkKu4EifdnYrN3WT4DFe8bxbWLW4Z7CMP0rrzKC5pchtBDlZ5vfCRMkuhM0SEdcyQOb2/DjPAxnZOeFEaOcNtoMAtVdHxwhXJu1G+1RyABSefsaX1diOYJ+DkN478jSHaCQ7Pavw6PFxyVFWd+xvZ61j0AT0bmvldtENkTlmENGAw+KDhfZIqF72lmMGUmkWMXzRCtSIqTAwQVKLT28EPbKakQb/rTlpPbmwjIZkL774LQ==;5KBW34krr8H1XxW25WDVGg=="

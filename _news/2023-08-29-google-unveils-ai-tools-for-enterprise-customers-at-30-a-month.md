@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Google unveils enterprise AI tools, new AI chip"
-    excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
-    publishedDateTime: 2023-08-29T12:23:00Z
-    webUrl: "https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/"
+  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
+    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
+    publishedDateTime: 2023-08-28T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
+    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
+    publishedDateTime: 2023-08-25T16:52:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
 
 secured: "9Uczjlwlz9CacznN4dt8WE4IsE0Z9LqbR5g2mruG17HVssuy4SHU3uStNmkHcuk6uIroaXu+TgANm8M+38HHZmeLzChZuB+A8KTAvB+ddX3jOKPVJ8qbKjZMj58H0utjSaHfonq1rGmG54W1MqNlXfUnVaYv+bqvMk1GtrazrjGH5OgKQL5uVeKXFM4LqDzrIxtfspPaWf+VrvT9zmKO6hZmODJBXg7if/fc/1++X2Nuiy/g4tnYExUDJjfkEmoagcRWtEuB+2c8Y4n+93iFopW/+zvUkRsKN4pygyhsWFc3S69t5o+9EWWpCl1SJeZ1I9X2q1o/qsoXQsBhYiyJZLPrhAuMzi8S4LbCVxe6O4Y=;6KlnukCn8ERGz0NmcWnSiw=="
 ---

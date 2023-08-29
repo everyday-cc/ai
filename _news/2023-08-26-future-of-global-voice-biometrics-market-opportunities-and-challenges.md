@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1298
         isCached: true
+  - title: "Veridas Voice Biometrics on Genesys AppFoundry"
+    excerpt: "As a 100% proprietary solution, Veridas Voice Biometric revolutionizes call center authentication with real-time voice recognition. Swift and secure, and powered by top-class NIST-rated algorithms, Veridas replaces lengthy knowledge-based verification ..."
+    publishedDateTime: 2023-08-29T15:54:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/voice-recognition-solutions/product/53070749/veridas-veridas-voice-biometrics-on-genesys-appfoundry"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/abandon_the_obsolote_embrace_the_new_voice_biometrics_e1646236662192.64ee12e86a9dd.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WbmyPmEpbDNsZUyd0Y9ub6RmB2ZYemixoMUqh/do8pwKOHT0AvHmqVJi57AhX52aqhoWvXlCtTWhPgZY8QaZ8Ea4qqS9P6jdZa70V71d4L4ZeoIFdQJYvXNIP+aeYVEtJk2ngwSaA+WK5LG9R2nr+D4UGBvh7QXfT6wEpjGnE8L/o2HPbWy/YXlt9rAjC3Y8mj3ndykX+a8QZPQFu5EKO9AZFT/H9MuXxS8bcelTXHbgk7cL1bywa2bGlWqgANwSD/jWi2hzDQ3Cz2GyFwvPZei0gZvGRMRUINu3ILO3YEN78Th5JWJQChEP0VvFLGj7+T5jLpadmPHEExkJuJdWJRq6ySMjMJDVCsn1yH87/QA=;8K5r0pxNrtF9N0aSiXXMaA=="
 ---

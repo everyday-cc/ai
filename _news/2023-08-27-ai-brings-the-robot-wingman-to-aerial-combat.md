@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 webUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

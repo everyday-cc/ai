@@ -72,19 +72,19 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
-    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
-    publishedDateTime: 2023-08-27T00:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
+  - title: "Sales intelligence startup Apollo now worth $1.6B after $100M round"
+    excerpt: "The Series D round was led by Bain Capital Ventures at a $1.6 billion valuation. That’s up from the $900 million Apollo was reportedly worth after its last raise, a $110 million investment announced in early 2022. Returning backers Sequoia Capital, Tribe Capital, and Nexus Venture Partners also contributed to the company’s latest round."
+    publishedDateTime: 2023-08-29T17:38:00Z
+    webUrl: "https://siliconangle.com/2023/08/29/sales-intelligence-startup-apollo-now-worth-1-6b-100m-round/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
-        width: 1280
-        height: 960
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Apollo.png"
+        width: 931
+        height: 522
         isCached: true
 
 secured: "bqj8uQ+969lHBLLrKZWSFfTndPCUPYIRH9dihbSOhh3i7H7NpCYykCc6Ti+cEVBgv59j6MfejqRtjXXhH/T+/SZLSM9mHoVn1icGd+aC7+a6C23UAeppFW3XC0+qdzZQHWcBXsmWy98dEpUbfCqTToerWiTXUQrGJIp/q5JkbudujPerIf5XwOyL9SmWel4K8f910fZ4ePR1YXevhTLuvKNFI0k/CEx2PI1rhbKckmFVhVQfulPCxkr3LvI9SBdG5kmyGhHyM63T8/2DlmgEOg+jI+L5ejR6QDG0Js8xYACHsJCjXvu++KREnr1T1c02u4CxBpLwjD9bH1ZVp09vM6KAIAxy0S1cr3Wh8LB80L0=;jsWKOh9q3SKFPZaI/6q/mg=="

@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
-secured: "inTfXrZk76kdX7nakwzgjKLeV9OqHSCwkttWnFwsfpeNK4u39PrSY8bV9fY4rnv1tXLcWTzFNRRhhrvmT+WJJMECAwaPQFHsuL3Y3tee9NcBLjBMjPeIBo0KAsCxdYgAuB6+C/85d1a0HP/YB49GShy5GVr0D1JNWQTyP5swzH8g3gwy/v/ckMQWo+7bO4k+pbntx5GbvnnLLmkHgQU6xdjK5NdwODCPsHEM5THlHimXO5zMcKOcC7ED7ckzulgXsy+CZ8b/RrsqbJfO4oYPSw32UAK+y/2bZDk/aBytxYCun2/a/XAVop8WzPoq16KdxCS1NGLqIg6G0ATTEgR4N5zyyNgV4L2eb8aPOZFD6QI=;R2rlEeetyebm2wacKdMHHw=="
+related:
+  - title: "Connecting the dots: VMware’s approach to bridging AI and application development"
+    excerpt: "an initiative simplifying the incorporation of AI models by Spring developers, gives developers access to a variety of starters and templates for rapid integration with both open-source and Azure AI models. “One of the things we focused on for this ..."
+    publishedDateTime: 2023-08-29T16:40:00Z
+    webUrl: "https://siliconangle.com/2023/08/29/connecting-dots-vmwares-approach-bridging-ai-application-development-vmwareexplore-vmwareexplore/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Betty-Junod-and-Ryan-Morgan-VMware-Explore-August-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "FqPkgH106+LRvHXqd+8LUFvS51EJCL9dzvM79Io80495Z7GH7T43BPZR01+vXGC0o2fHN+KdQ3TZGyKHjNJxdHDd6s0XBoxxEECdwuCuhhrlfFzPan0MOvv6OgsjX6xly/BbZEhKeKggMmEDR1bb+cbBcOXTI4B0sQKbfnPR4vhmGnlVzbmZTXNlC7BAZYCcfOTYCpWmlW75QyqFy7Lexgi6pr3mCtvb6pP37195FLXiIPQrAJxqxj5SgDFQKhtXPVB9pOSsJ7XUL6/7FjBPTXgqJBvSCEJ9fTq7uzou9pSAxdXdlCj8/PfySempqgYqpy82/ozxAR6ol0wKyoHyf7eUbKDlcMRDCeFJcRQ2dFHVDNvZOSegtEUJSB+/gmvXyzNZr9kC4/pof9UIPwIEazEWAeM0PNauf2pMD1/zB02VK8/4ECW8P1u8SEdRf0hyupy2BtTeax6nf0E07hNfRvJrVI/O/GVqJ3w0r9UDldDw6rC5LtEF4HobDmnYvZHIHaFAVWTcp04NNcIWB0BWTQ==;L/aiNZ4XwCckyb8Xjb9FEw=="
 ---
 

@@ -49,6 +49,20 @@ related:
       name: Google
       domain: blog.google
     quality: 86
+  - title: "Google Applies Generative AI Tools to Cloud Security"
+    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
+        width: 1400
+        height: 957
+        isCached: true
   - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
     excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
     publishedDateTime: 2023-08-27T04:53:00Z
@@ -122,6 +136,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "SoftServe Launches Generative AI Lab"
+    excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
+    publishedDateTime: 2023-08-29T17:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871692.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
     excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
     publishedDateTime: 2023-08-25T14:15:00Z
@@ -137,6 +160,6 @@ related:
         height: 576
         isCached: true
 
-secured: "r6TI5Hbie+4Y4QX2zU9tJByYHRpwd+M6CXQxZOo87xvoF2OO7FnsrAkideAwLaI6ZAEzYheAAqw7iRVEPyA+SkIJQmIjGwGRIhhE1SAY6ObduDiG7MA6Kj7x8AiJCJ0xA3MXoXnA2w69yiSARqWX+hC37pmSUu91jvf7GZS1z7GKPcUilPKWsa+0bBtbV02arX2i2Z2UsLCu3Od/ESOxzo31Qi+zVgkfO4EVNZ+Rsw6rhdR2t3e6dpOPou5eynVUs0Pt3klaZwvxdqW0IcV6MIWMmC/dxzVJoyNbCE6P3X0TeaHXrs2qnJRtkkujaIwIRyZi01hZObZ8C9HZiAhaR6nMyz/AWrevi9ATInFPOHM=;HPLzM4t5izj9Po6i/sJdMg=="
+secured: "vrDrROy9rAUmchTLQuvy/qTu3YiTpqKfAm5iHwmgYBpeSOi5NBouIIa4+vQAaUCAXQPaAZGLtGCBeFJjqr9QJ9S/0I09WAYfOBrqCxfGtHFOnE8i0z1Q+1j+OgDjaXsTAmfMBd928esY8x1dgae4WNTjj05QuIdaVStblV3kk0umvIk5H2r70vXFRVl+omYijeO3hoW5RNLe9nszmz7wAMMs6E5i3VXh1eyiFexxsOSB2wIhtzx6XtR+cjveOiktV7rp29IsYgTRu+Pv6RMaEZ/7tm///rso/xVrQ57+HcJhR8FTCqWrNckCXLqXnvHC1viPqXdGRIV2X06m0pk9619GJ6ybmm+MYgvA/fYAa1Ya3FCgVsits/jZj2qMJ0p0Je6bAHQ+60aVA2aUgEHSOLydKIA8e+QZ0xbcwwumoYRBr/D+k5aMTczgKrX3Vt63e2Il3juLTbVycqqmhylx4xXWYvnSKFHrBFlkJY627mGlZWmSKN8wumh1318SYmDsKHriRDggxyaEzo0Uj8Vhjg==;jnUD7PRFdyYQUdeBG4c9UA=="
 ---
 

@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "UBS upgrades this stock it says can jump another 20% on AI excitement"
-    excerpt: "\"We believe GPU supply constraints could be enough to drive outsized performance in Oracle shares.\" Shares of Oracle have popped nearly 43% this year, boosted by investors' views that the company is an AI beneficiary. Shares are up 2.7% in premarket ..."
-    publishedDateTime: 2023-08-29T11:16:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/oracle-gets-upgrade-from-ubs-says-stock-can-jump-another-20percent-on-ai-excitement.html"
+  - title: "Oracle’s stock wins an upgrade, as Wall Street may be underestimating its AI advantage"
+    excerpt: "“We could be sitting in front of 6-12 months of GPU shortage noise and we haven’t even seen the $2 [billion] in AI start-up commitments convert to OCI usage.” He added that he had been skeptical “about the existence and certainly sustainability of ..."
+    publishedDateTime: 2023-08-29T15:17:00Z
+    webUrl: "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://images.mktw.net/im-798898/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Oracle Bull Says Software Giant Sharpening Its AI Edge"
+    excerpt: "One Oracle Corp (NYSE: ORCL) analyst is turning positive as he sees the software company sharpening its edge in cloud on the back of G"
+    publishedDateTime: 2023-08-29T16:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-bull-says-software-giant-sharpening-its-ai-edge-1032590130"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270422-1689175399072-gettyimages-1536923688-dscf5880_kqgdguqw.jpeg?v=1693307724&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/29/25884333143_6ec0cf343b_k.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "0FGk18e6tp7G06/W3pj1cVe4PM6Gj6+ie+JTJGjuGs0QUuX/+WmMoUg8Rwh86GUJuIKBeFyPLl1SY3gs8+DB3M5oDvaB8TfZT36NS0NGazPqIxJjRns6skbUSfKkvNnomrxTzft8WFfPrMY+L+Lhm/2gVig5XgoPPoAsPYkrpbrziXML2LqcXo9S76RVyJNp/wAV2o3/gCfhNQGbtgIzEITGvOWfM+3/qDm4gbyHVPwhEQeimyk4WHOPxJbK+yqyLvhLhpGKn/JbOnTgbYZBDUp5P3VdpZZ43RA+hXsJ3/j9VKS7ZWRbvJ2uGXbM6HSflDLepp6axAxXcuOu3AYU+zQsxRhHrWgMAt4HSaGJFaw=;FIPOe9x5SxDVHutkqFPMlg=="

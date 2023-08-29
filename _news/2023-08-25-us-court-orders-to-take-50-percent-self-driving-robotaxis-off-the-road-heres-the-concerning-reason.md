@@ -59,6 +59,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "San Francisco, not Boston, has emerged as a hub for self-driving cars. Maybe we’re fine with that."
+    excerpt: "“They’re flooding the streets now,” she said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous vehicles sat parked in a staging area in San Francisco. (Justin ..."
+    publishedDateTime: 2023-08-29T17:01:00Z
+    webUrl: "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 10
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/IXrHFemj_ODoBVw6-nPcvYAth68=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DCI2Q7ASH6CPFIJBGIFD5KDSGA.jpg"
+        width: 506
+        height: 322
+        isCached: true
 
 secured: "nBrQpkYrH/jwabcSgYpbiT4cdhqH2MELKp6IKYIl7z46p5u+MqxupM7/BJDafAGIHYiMsRZWCPFj9rVhTwlC8t+yiEr4AEM94b0J8z2wW5cJaGAdTLHZFeyRMRxyHnt4JW4HKuARiI7mItPeiWUraspIYWOcefyptfziCxxxQs6ucsrxz0XhFmiv/8/T6QlRsOg7oFJgeGX1YS04Zf1CV3v1Rn/BifVZHBcInC5IXUIBSNTcAWhKPuBceB6/2aR0i+Qwlo4YIqAso1uOy/zQn/qn/s6ZY1jKXIGfx5laOZ0ZXXNvsmVUvy+gYldUWCgY2hUH/Bg1tIr0f9zx2deZeT1s8+tGzd7iNMKdeI9DgRA=;qjrLZCnQ6ZZitaMmqa0YUQ=="
 ---

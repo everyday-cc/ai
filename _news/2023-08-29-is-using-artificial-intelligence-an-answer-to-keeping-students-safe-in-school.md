@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Google is teaming up with one legacy automaker to bring AI to cars"
+    excerpt: "He covers AI companies, safety and ethics extensively. As an offshoot of his tech beat, Ian also covers Elon Musk and his many companies, namely SpaceX and Tesla."
+    publishedDateTime: 2023-08-29T16:35:00Z
+    webUrl: "https://www.thestreet.com/automotive/google-is-teaming-up-with-one-legacy-automaker-to-bring-ai-to-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "SDh8Yj1d6Kpt9ErK+j/hky5sdcJBkUC4pZxpshLWNMD/4jFWIZD+BDSdmeBZsU/CrE9YF7zqICeCvsQzRPBlJslXkCrfGtPfpJ27MG2Qe1AfdXAet7tBhCZ+l1IOSnR7IK62Wyp87eHAfIYrUsnOMVCoAdFR+BpTYmS4CUh0EGmQqsLs63md3a5/r2K/FsziNUR0mQeiirYw4/uS2t0FUUgCUufe412HjYM7GGEURDem8s1CY6xZBgMjjjAgomZrbYO32zhb1yI73mOM93+XQNqvoOav1hxVBMMdMWzrRotyvI6n7XJPasA6xBlKEroT9YA/vGgVGGmQ2tddqzV9EzhfXYd+IgZ+wMvGsLGcBR4hB75VjLfS+snzS2udOASUwgNT9/gTbC4Hmv6FjPNGJaN2YGzxDXqWyYvV/lLKcLqx1LiD45ENM/71bjHN3Z6wla7e8NmJq9PmvKp361I6Yr6GKFJywmTsXyMpmy1XO/1PAXLtLdOaVMAHllI3Yh0lnp8WXFlUYKyRtz95WCkCaw==;GcivVWbszqVuS760LCy1sw=="
 ---

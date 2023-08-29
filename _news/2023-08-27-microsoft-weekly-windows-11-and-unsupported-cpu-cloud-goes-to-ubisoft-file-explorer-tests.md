@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupport
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
 type: article
 quality: 78
-heat: 158
+heat: 98
 published: true
 
 provider:
@@ -31,47 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils blueprint for India on AI governance"
-    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
-    publishedDateTime: 2023-08-25T11:22:00Z
-    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
-    images:
-      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
-        width: 670
-        height: 476
-        isCached: true
-  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
-    publishedDateTime: 2023-08-29T11:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
-  - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
-    excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
-    publishedDateTime: 2023-08-25T17:53:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/25/robotic-automation.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_line.jpg"
-        width: 644
-        height: 450
-        isCached: true
   - title: "Microsoft Discontinues Kinect, Again"
     excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
     publishedDateTime: 2023-08-26T08:25:00Z
@@ -86,20 +45,6 @@ related:
         width: 803
         height: 452
         isCached: true
-  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
-    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
-    publishedDateTime: 2023-08-26T19:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
-        width: 3584
-        height: 2048
-        isCached: true
   - title: "Microsoft being GPU constrained is potential risk, UBS says"
     excerpt: "Investment firm UBS said on Tuesday that the risk for software companies such as Microsoft (NASDAQ:MSFT) of being GPU constrained is a \"reality\" and could impact their abilities to generate AI revenue streams next year. \"Microsoft and others are facing a ..."
     publishedDateTime: 2023-08-29T12:40:00Z
@@ -109,24 +54,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 51
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
-    publishedDateTime: 2023-08-29T14:44:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
-  - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
-    excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
-    publishedDateTime: 2023-08-28T13:13:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Expands-Partnership-with-Microsoft-to-Support-Companies-Adopting-Generative-AI-160210.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 28
 
 secured: "MzM91JXsl2B4G+KwITDhn3ioNqZ21CB6C+OX99bKY3/9VX7kFgN1OZ89xyPstuA0jzsLipRJO8CN8q1oqxii1UnjI3CjuvPoLbETve/Wl0NZTh46udMwoDF+JkbVYsyFJo4+gAPFCvvUpWCTi7MgNreXKtKaBta9eO7PmMo9Dg0Jj0ZcPZ4BuA1mmQs4Ik+SsO2dd5yc7u7QN/NfdlDDQhPoAZsFEi0J3pLHpLVyXzdI/vZPeDH2ZkOKna9N6G0PWCDA5sVFuoxYRxe245a0suReNzVBqHzz9DbrMC2yXXNB+YFWek8W0aALSU2MNZ1eW/6Hy3aoNeF3QSZZmKe596l+UUfCDS94FAwrx2vsykgQ6b+o2IljGaCoK8rQf3WJnsknaWkfB2foPrvprwPxX4VbO/x4GAtDLLQhaThJaJgAQdNQl6U5MlKXHOL5tqasHSRtjkwIwi8mHky0Y7quVIYV5Ww40VsNBFhorT3ef2RstwZK/Tvn8UUDnyeuCth+gxmALtAVjL/Lf4FkFDgCUw==;YHvXVKGq960QOJUsU3s4cQ=="
 ---
