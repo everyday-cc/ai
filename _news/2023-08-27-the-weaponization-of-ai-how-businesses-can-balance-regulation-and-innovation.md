@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-inn
 webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition"
-    excerpt: "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ..."
-    publishedDateTime: 2023-08-24T17:32:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article278561999.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
   - title: "New NLRB Rules Favor Mandatory Union Recognition & Limit Employee Voting in Secret-Ballot Elections"
     excerpt: "Voluntary Recognition Demands and ‘Card Check’ Review Employers ... [8] And the General Counsel has announced new limits on employers’ free speech rights, such as captive-audience speeches and other employer communications most often occurring ..."
     publishedDateTime: 2023-08-28T19:42:00Z

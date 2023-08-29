@@ -59,17 +59,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Are self-driving cars kosher? San Francisco rabbis weigh in as robotaxis flood the city’s streets"
-    excerpt: "(J. The Jewish News of Northern California via JTA) — Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ..."
-    publishedDateTime: 2023-08-24T19:03:00Z
-    webUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/"
-    ampWebUrl: "https://forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/558649/are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in-as-robotaxis-flood-the-citys-streets/?amp=1"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 11
 
 secured: "nBrQpkYrH/jwabcSgYpbiT4cdhqH2MELKp6IKYIl7z46p5u+MqxupM7/BJDafAGIHYiMsRZWCPFj9rVhTwlC8t+yiEr4AEM94b0J8z2wW5cJaGAdTLHZFeyRMRxyHnt4JW4HKuARiI7mItPeiWUraspIYWOcefyptfziCxxxQs6ucsrxz0XhFmiv/8/T6QlRsOg7oFJgeGX1YS04Zf1CV3v1Rn/BifVZHBcInC5IXUIBSNTcAWhKPuBceB6/2aR0i+Qwlo4YIqAso1uOy/zQn/qn/s6ZY1jKXIGfx5laOZ0ZXXNvsmVUvy+gYldUWCgY2hUH/Bg1tIr0f9zx2deZeT1s8+tGzd7iNMKdeI9DgRA=;qjrLZCnQ6ZZitaMmqa0YUQ=="
 ---

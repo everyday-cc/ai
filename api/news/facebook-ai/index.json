@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-exclusive-metas-canada-news-ban-fails-to-dent-facebook-usage.md",
+      "title": "Exclusive: Meta's Canada news ban fails to dent Facebook usage",
+      "excerpt": "NEW YORK, Aug 29 (Reuters) - Meta's (META.O) decision to block news links in Canada this month has had almost no impact on Canadians' usage of Facebook, data from independent ... Another analytics firm, Data.ai, likewise told Reuters that its data was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/metas-canada-news-ban-fails-dent-facebook-usage-2023-08-29/",
+      "originalUrl": "https://www.reuters.com/technology/metas-canada-news-ban-fails-dent-facebook-usage-2023-08-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/dvBSGAtNakvARlaYP1z2Bi7vG1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VVBVAT2BA5JXJLO7ENAGF65YWA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
       "title": "The 34 most promising AI startups of 2023, according to top VCs",
       "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
@@ -1406,58 +1458,6 @@
         "name": "WDBJ",
         "domain": "wdbj7.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-conversational-ai-to-fuel-contact-center-market-to-16-growth.md",
-      "title": "Conversational AI to Fuel Contact Center Market to 16% Growth",
-      "excerpt": "Gartner predicts a 16% growth in conversational AI thanks to the booming contact center tech market, the advent of virtual assistants and as-a-service models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg",
-          "width": 1400,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

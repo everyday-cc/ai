@@ -26,17 +26,6 @@ images:
     height: 393
     isCached: true
 
-related:
-  - title: "UNC Charlotte researchers talk impact of self-driving cars as ride-hailing service Cruise hits local streets"
-    excerpt: "Cruise, a self-driving rideshare startup, announced last week it was testing its self-driving, all electric cars in Charlotte. UNC-Charlotte professors weighed in on what driverless cars could mean for the city."
-    publishedDateTime: 2023-08-24T18:50:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/08/24/unc-charlotte-self-driving-cars-rideshare-cruise.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-
 secured: "0HqYC19A8As5Y0PK2UkocZYeQEpKPTpd60KVjI7CgUl9iJXqQ1wxHV1yzSguN0TEHXpu4pvSS3xKdYyuv9URInhXS0k9jUxiDWdMvxi7oMCMZPstqaBawAm8SinZJeW2ocC5CTtljYZEEsDUDHU3BYW9CZ6ZgYu6hsGxdHnmtoqPt7fJXXm0ju6LRmtGPbmNpipH4wP61sBfThIYpgI+8YymviycZyL+cNGtW/vdbiaZpmNtuPxzHuigqaSuV+KdYvbLq66riyBEVPIDl0WIjB87IeQRYYWFw8wESGrPqQrPk0g6lAiTKAPewlySnoOXRdjquuj5PohU4JfD64zuQRLEcGNzp6DC59PHhR0xzQO8cRRZrgZ3wWJVZ5zx4nUYrQP+hRcCEskrqR+WJSxPm0S93h9Yl9RcWhPpY0aDGFh8HRy2OQeahYH5GTfu0O9Z/5Z0SBt0fr6av1e18A7sy1oVCG3664fD3Fy7pnShnYpmhNQ8DnArgCBq06z5E/vRtuCwrGOisKgy4oeGIBTAhQ==;zACMJ0n8Fp1rFbdT20ZXlg=="
 ---
 

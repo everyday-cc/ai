@@ -89,6 +89,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Salesforce research finds business buyer and consumer trust levels in AI decline despite the generative hype cycle"
+    excerpt: "That human validation aspect is cited by 52% of respondents as a factor that can increase customer trust in AI, along with more customer control (49%), third-party ethics reviews (39%) and additional government oversight (36%). But the main thing that ..."
+    publishedDateTime: 2023-08-29T10:28:00Z
+    webUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative"
+    ampWebUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 37
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "LAFk3wE5UKmqFIPKwajfdBEWZysIqiKPYknzDMZXcZujdvh2Kgp6rD3KbHCbY7R/jD+Mg5eri0bhVOh9aoj7D1OfetvEmIv5o1GAQIVQL6B0TCAZzzEjm27XQyIicv2RyBPmH2QOOKaH0Iep4ugADPFWu6L/zmYC7NGWhJs3tzKJPfkMY+5ATFekpM0kkRsCk+jJA5uSbHy20G0DqcI7LMzCIK6gKILuWROqVzpvHoRW8qKFfIhnevhqhvrNX6nFypn1AvoKKRDtYrbtj5duteXocsD6GQbN3xQsNqE7Gndr0N6glE4utSCZjBB4bhICTWGGtdDjW/deFaxVpeNtCBv3OILX+C6xtYmOjqKG9Kc=;vCGYNYj3UBNptmyo8UXqTA=="
 ---

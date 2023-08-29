@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
+    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
+    publishedDateTime: 2023-08-29T11:58:00Z
+    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Nvidia: A Moat In AI GPU Technology"
     excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
     publishedDateTime: 2023-08-25T13:40:00Z
@@ -103,15 +117,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia Sparks Rally in AI ETFs"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics & Artificial Intelligence Thematic Index, which seeks investment in companies that stand to benefit from the ..."
-    publishedDateTime: 2023-08-24T17:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-sparks-rally-in-ai-etfs"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
     excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
     publishedDateTime: 2023-08-26T11:00:00Z
@@ -129,6 +134,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-08-29T09:52:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."

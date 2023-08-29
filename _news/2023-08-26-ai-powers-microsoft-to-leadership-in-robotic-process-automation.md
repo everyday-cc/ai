@@ -57,6 +57,17 @@ related:
         width: 670
         height: 476
         isCached: true
+  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
+    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
+    publishedDateTime: 2023-08-29T11:18:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 69
   - title: "Microsoft Discontinues Kinect, Again"
     excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
     publishedDateTime: 2023-08-26T08:25:00Z

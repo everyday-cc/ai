@@ -82,6 +82,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Revolutionary Ai Startup, Promptora, Secures Significant Seed Funding, Valued At $1 Million"
+    excerpt: "Promptora, a trailblazing AI startup, has achieved a remarkable feat by raising an undisclosed amount in seed funding within a mere two months, valuing the company at an impressive $1 million. This rapid influx of capital speaks volumes about the ..."
+    publishedDateTime: 2023-08-29T10:41:00Z
+    webUrl: "https://menafn.com/1106978860/Revolutionary-Ai-Startup-Promptora-Secures-Significant-Seed-Funding-Valued-At-1-Million"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/29/I_7ac7bimage_story.png"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "I1m1vmTSblAd33LFkDnMiALEyUX42MzQyAw1HqzqH9Namt4HW1v781uS3MDIzkE1VgQZzRbO9y/+Q9x4oxMKC49GubE5hdDGsSmXEPfTMk9Pbnb4PWz0fT6B1vaQdbI8QEQFjObAIgzl4opbew/ysOWgRWPTaZW2uzO/7RPwniN1IXco3e+lSL8XkscyAC5QNZX6TTkWU2BhrJWu2zhV02wmSvLpJueHa0xQeOXYVdTXyURk+/AD/+lAVOCvQXmmQoztxMOeL9kSUJS1IYZ+G+QXQYB8KWanMDyYDm+E6wwOSwpeeJgN9t6hxClc5rEOBkLnu4Poaa0UpgmU80KuQFCO3XtgQPDI2YvPaqZ8v44=;rLyjVIXhs5k4XxL+yzPBtQ=="
 ---

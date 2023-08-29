@@ -77,6 +77,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Salesforce research finds business buyer and consumer trust levels in AI decline despite the generative hype cycle"
+    excerpt: "That human validation aspect is cited by 52% of respondents as a factor that can increase customer trust in AI, along with more customer control (49%), third-party ethics reviews (39%) and additional government oversight (36%). But the main thing that ..."
+    publishedDateTime: 2023-08-29T10:28:00Z
+    webUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative"
+    ampWebUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 37
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
     excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
     publishedDateTime: 2023-08-25T14:15:00Z

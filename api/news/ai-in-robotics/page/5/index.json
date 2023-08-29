@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-26-marc-raibert-on-the-future-of-robotics.md",
+      "title": "Marc Raibert on the future of robotics",
+      "excerpt": "In this episode, we replay the keynote fireside chat between Steve Crowe and Marc Raibert from the 2023 Robotics Summit & Expo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
+      "originalUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
       "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
       "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
@@ -1340,59 +1383,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-insight-race-towards-autonomous-ai-agents-grips-silicon-valley.md",
-      "title": "Insight: Race towards 'autonomous' AI agents grips Silicon Valley",
-      "excerpt": "Around a decade after virtual assistants like Siri and Alexa burst onto the scene, a new wave of AI helpers with greater autonomy is raising the stakes, powered by the latest version of the technology behind ChatGPT and its rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "originalUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

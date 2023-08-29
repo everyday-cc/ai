@@ -301,6 +301,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-27-this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring.md",
+      "title": "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring",
+      "excerpt": "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
+      "originalUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-841956/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
       "title": "Nvidia: The chip maker that became an AI superpower",
       "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ...",
@@ -309,7 +361,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1412,58 +1464,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
-      "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
-      "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-18-image-19.jpg",
-          "width": 2000,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

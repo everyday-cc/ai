@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.md",
+      "title": "Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win",
+      "excerpt": "Microsoft has a suite of AI cloud tools called Azure AI that allow companies to use their own data for AI and build their own machine-learning tools. Many companies, including the NBA, CarMax, H&R Block, and others, are already doing it. Even though we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "originalUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rock-em-sock-em-robots_fight_battle_ai_csa-images_getty-100786545-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "publishedDateTime": "2023-08-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment.md",
       "title": "LTIMindtree partners CAST AI to help businesses optimise cloud investment",
       "excerpt": "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings.",
@@ -211,7 +254,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -360,7 +403,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -443,6 +486,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response.md",
+      "title": "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response",
+      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities. Get up-to-the-minute news sent straight to your device.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html",
+      "originalUrl": "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/75/97569110-432c-5224-9829-a0106a4365bb/64e624d4280ea.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -653,8 +739,8 @@
       "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
       "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
       "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/press-releases/article278479764.html",
-      "originalUrl": "https://www.sacbee.com/press-releases/article278479764.html",
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -664,11 +750,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T05:16:00-07:00",
+      "publishedDateTime": "2023-08-22T06:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1369,93 +1455,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-search-dominance.md",
-      "title": "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance",
-      "excerpt": "The new Bing with an AI chatbot is called “cute, but not a game changer.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-sweet-smell-of-success-simple-fragrance-method-produces-major-memory-boost.md",
-      "title": "Sweet smell of success: Simple fragrance method produces major memory boost",
-      "excerpt": "Participants in this study reaped a 226% increase in cognitive capacity compared to the control group. The researchers say the finding transforms the long-known tie between smell and memory into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

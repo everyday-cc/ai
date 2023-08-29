@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-17-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-search-dominance.md",
+      "title": "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance",
+      "excerpt": "The new Bing with an AI chatbot is called “cute, but not a game changer.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
+      "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-sweet-smell-of-success-simple-fragrance-method-produces-major-memory-boost.md",
+      "title": "Sweet smell of success: Simple fragrance method produces major memory boost",
+      "excerpt": "Participants in this study reaped a 226% increase in cognitive capacity compared to the control group. The researchers say the finding transforms the long-known tie between smell and memory into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
       "title": "The Future of Finance: AI Meets Tokenization",
       "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
@@ -1329,102 +1416,6 @@
       "provider": {
         "name": "Bleeping Computer",
         "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-23b-loan.md",
-      "title": "CoreWeave, which provides cloud infrastructure for AI training, secures $2.3B loan",
-      "excerpt": "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
-      "originalUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
-      "publishedDateTime": "2023-08-03T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-jambojet-adds-one-new-aircraft-amid-growing-demand.md",
-      "title": "Jambojet adds one new aircraft amid growing demand",
-      "excerpt": "Low-cost airline Jambojet has added a new aircraft to its fleet to meet the growing demand for air travel. The addition brings its Kenya breaking news | Kenya news today |",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/business/2023/08/jambojet-adds-one-new-aircraft-amid-growing-demand/",
-      "originalUrl": "https://www.capitalfm.co.ke/business/2023/08/jambojet-adds-one-new-aircraft-amid-growing-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/business/files/2023/08/075_porzycki-twitterx230801_npkUg-e1690871014484-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
         "images": null,
         "publishers": null,
         "authors": null

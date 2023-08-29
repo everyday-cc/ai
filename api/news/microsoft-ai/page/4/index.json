@@ -2,6 +2,104 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-26-microsoft-reports-201b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
+      "title": "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'",
+      "excerpt": "Analysts polled by FactSet Research had been looking for revenue of $55.49 billion. CEO Satya Nadella said the company remains focused on “leading the new AI platform shift,\" though its push to ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "publishedDateTime": "2023-07-25T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft.md",
+      "title": "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft",
+      "excerpt": "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 518,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bda85455c7bf468d9a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/",
+      "publishedDateTime": "2023-07-25T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.md",
       "title": "Teradata acquires Stemma to boost AI-based data search for analytics",
       "excerpt": "Stemma offers integrations with data warehouses, business intelligence tools, collaboration software and security tools.",
@@ -1340,102 +1438,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
-      "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
-      "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107271734-1689340892876-gettyimages-1246453963-raa-openaida230122_npUgT.jpeg?v=1689657468",
-          "width": 594,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
-      "publishedDateTime": "2023-07-17T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
-      "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
-      "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

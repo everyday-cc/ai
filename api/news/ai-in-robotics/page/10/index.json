@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-leaders-have-an-incentive-for-us-to-believe-robots-can-kill-us.md",
+      "title": "AI Leaders Have an Incentive for Us to Believe Robots Can Kill Us",
+      "excerpt": "Onstage, leaders in the field kept repeating one idea: that AI, and the people building it, are very important. “This is unquestionably going to be the most radical transformation of our lifetimes,” said Mustafa Suleyman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRGjUocpN1o0/v1/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-parkview-dekalb-introduces-robotic-surgery-program.md",
       "title": "Parkview DeKalb introduces robotic surgery program",
       "excerpt": "AUBURN — Parkview DeKalb Hospital has entered a new era in patient care in launching a robotic surgery program using the da Vinci Surgical System.",
@@ -1321,54 +1373,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
-      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
-      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "publishedDateTime": "2023-06-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

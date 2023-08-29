@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition"
-    excerpt: "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ..."
-    publishedDateTime: 2023-08-24T17:32:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article278561999.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
 
 secured: "PqgxTk3T27ie3x798MKLcDcn5aZeZTo3eg59t5FXcQHwSc8ATHlZJYcTnje4h7wzU2Tyy+Ta9E4X4T3PJT3euIYNH7PhtG3fVrA2FIHyKXnUHMWRFBHcHnhcJQh4svTGFHArZai6jAchn0uOO8zg526E7EUhcieYL5iPP5tea/j+Ixg46y4m6hRcVsivZTRDcawq1cKtT53Kp6VDU82oTV1tPbEkmMwBA/PteJlAQebMrNOJtTQGR2AbBtb4lVVyiLzHxbBrkcEFnXB3JyjvW7ollIiHN4nlHTPD5Fr4rXmX4+sZl//drHRTr8JkI1YkRNVKZRmTPKX4huN7S+mkUCoHb+tH/GnJ3MGIWjEKik0=;7lNZcR0SqxrJf0Zq+jCkog=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-st
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Revolutionary Ai Startup, Promptora, Secures Significant Seed Funding, Valued At $1 Million"
+    excerpt: "Promptora, a trailblazing AI startup, has achieved a remarkable feat by raising an undisclosed amount in seed funding within a mere two months, valuing the company at an impressive $1 million. This rapid influx of capital speaks volumes about the ..."
+    publishedDateTime: 2023-08-29T10:41:00Z
+    webUrl: "https://menafn.com/1106978860/Revolutionary-Ai-Startup-Promptora-Secures-Significant-Seed-Funding-Valued-At-1-Million"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/29/I_7ac7bimage_story.png"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "8hLReDgDvkkZ1ZycPA4eGXObybn/0fivw3GYm6fB0Zifesocr3CeOs7LX+E31XKKnV8EtDfzage2+bnSdcI/PaMlgj9AY9MC0jr3o1aI+w1A8pl1z0fCmWVc1hDv4Dhd3+FgrpiMdutFtKbg6BcxueDA2tRwHSyqQHk5ohiq5x3iEXdyGz6V0VmrerT+OIggEQ+cdC5cxVY0y4EOdRcCeK/qtPdRtppY/f1ITZxmQDCIn+CHFhViQTUort4Hgiu7lAv6NbRmPRv9hTaTk69oZk9ZM7L+QaIFQlEY/eakOU5C0Tm+dqbG//MGs7M7c3YIpPC2jI1SmPxIqYLITFOWFNk4Gxux5sBIND0isfcd+hI=;JNFdASU3UGapJAGIvNC/5Q=="

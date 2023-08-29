@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
-excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion Windows users, 330 million Teams users). Security is also a $200 ..."
-publishedDateTime: 2023-08-25T19:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
-webUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
+excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ..."
+publishedDateTime: 2023-08-25T18:59:00Z
+originalUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu"
+webUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu"
+ampWebUrl: "https://www.benzinga.com/amp/content/34045380"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380"
 type: article
-quality: 77
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop"
+    width: 799
+    height: 533
+    isCached: true
 
 related:
   - title: "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal"
@@ -101,6 +105,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "u4lm1kiiVlKKAf5H5RKiziXkW5tESgYP+1nPk90D63uVJDgtgF7hoKOzInYqvjVJDswtwJ3QpPSZDiung8KVDHvG165OfqXWzgwLPZL9uDiZQ9BZ3srgPtPyYs0J0mb7Ezs0RFMwqByngr2gvUyHyYugV07TGxKCra9NXwbHlbVg/aBRltBgjDQLyoh1u87k03gk+7RVp2+3iNv5EQAwBQH02ad05tBXqfjnkL0ID4kF8gz1fSmMs3Hk5vSgAn7wG9O7KSSodUZw17jV8e1y/aeu0IciUMDZZj7LYo8R4TrdF3fFudjH3cn9CFuSW/C0m2GtPtcoTI6m+YK3/1O8LEyLuI0bhxjH6G/5VqCb5n6K8C3LFL9OMyGLQx8zQ+TmPeJQ7mGJCAJil/v5fdcrdUVKU+4EiaWnQq33uhyOlAXmSWq/e95TgD6FIWVkoKzNFWWumkJmfftFdnPHjWT4tJuOa8ofB16RlbODP77beld0WnbRZeR7BaggAA5w7WGT45Uk3Pn6P/WX4KeCx8ZH7Q==;bZOrvV5zhfuVCxUA4OKUAg=="
+secured: "KweJDT0tJRj29qen+8tUjMvi1vNUUhL6PdAtUTcUtcgk/aAI+hN8KrnnyJ4jXqNAaU/kKMAUbOZdaz1LNMJ/MSM7twRRBC7W/7hKsiZmdGi6pVjiYscr3OWwwrVDWgHgfH30J4JNMDn5PjXhLcci3D2mJ4lDGH0EAF5MI1ERNo1vHz8LMQ3cokfejIgr3Ei8IHc46QzCNOuqsOIBEqRIlm5s39wQxYz+2PiC9A6PVTOiUSB/eLBNtlr7DjWWG41YRcUrLwzuyCt2oT8BKOrFJTepVcGd6mgEP+prQKPdmXmfWymGEpZ0CFdF+UKSno6dCN3WkegZItpK8qjfgrP/KcuJQXWqDfcgnAy1aL7CnpI=;/1zCNO0MqotStnVqyt2wdQ=="
 ---
 

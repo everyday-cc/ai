@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/worlds-first-ai-safety-summ
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/worlds-first-ai-safety-summit-to-be-held-at-bletchley-park-home-of-wwii-codebreakers/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "UK government to hold world’s first summit on artificial intelligence safety in November"
-    excerpt: "The UK government has announced the UK AI Safety Summit will be held at Bletchley Park in November, where international governments, leading AI companies and experts in research will unite for crucial talks,"
-    publishedDateTime: 2023-08-24T18:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2570147-uk-government-to-hold-worlds-first-summit-on-artificial-intelligence-safety-in-november"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 10
 
 secured: "V495iPKzK56/fWVA1J0UiwtbLYtt+waeNiIEeFsufsrajzyHGtM3QyOBr7hYPd7wHNnDYgxue5SGHRK6mUbXPf0iQzo1fvuWd/3R0deQDcMLCoIs+zu3MFLbqQq3lxe2gQcN5ujz93M5Qu0adqQ403zemEV5cqG3t4kY9SJV9EZE+c7D3NoV2D0hz1QcRXzowx/++o1xgriPNi2vNnyq5Y5B3S/+VrGSzjcjQmUboYDxGs4920QX2GQhitgZH0eAb1FqH1BmPRYaiv0ZLVn631Lt2bHwdsmYwOvws8KB5ofd9NBNgOR6n7XBKj6B37WXC0wBHwZDiUXqCcV4pANVg6s7nJ36wmKbZAou36dikRSoWRMhwKUVzNDry7GQ6B6KxvGYWB3eJKWPyKJHCQC3a3Q/R9Uv3cYpcWro6tXJ73re+SwYQHgsSMZ7IIr6cTyQumvDPEQL3Jc5yXbUd6ypaOFSQFq1HQMZbuZZf2Ges5o5EcINmzuw6nfDfj6rEBRnq2FvrHRViKJD0AoEi2XZpA==;zj7PORck6iE1TR/yUJ2ToA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-inve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
 type: article
 quality: 88
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
         width: 1400
         height: 906
+        isCached: true
+  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
+    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
+    publishedDateTime: 2023-08-25T02:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
@@ -114,6 +130,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
   - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
     excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
     publishedDateTime: 2023-08-24T22:06:00Z

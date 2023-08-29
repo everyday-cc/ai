@@ -34,20 +34,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 59
-  - title: "Twilio Segment Unveils CustomerAI Predictions Tool in Partnership with Amazon SageMaker"
-    excerpt: "Dubbed CustomerAI Predictions, the tool aids marketers in making accurate forecasts regarding the behaviour of specific customer segments."
-    publishedDateTime: 2023-08-24T17:25:00Z
-    webUrl: "https://analyticsindiamag.com/twilio-segment-unveils-customerai-predictions-tool-in-partnership-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 46
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/TwilioRincon©Blitz_03EDIT.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
     excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
     publishedDateTime: 2023-08-28T01:08:00Z

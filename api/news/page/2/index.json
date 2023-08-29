@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-28-dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires.md",
+      "title": "Don’t Sleep on These 3 Robotics Stocks That Will Mint Millionaires",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Among the long-term investment themes, robotics stocks are worth considering",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market.md",
+      "title": "US, China at each other's throats for lion's share of over $100b AI chip market",
+      "excerpt": "Tremendous progress in artificial intelligence is leading to significant revenue generation due to increased demands in semiconductor production, which is expected to exceed $100 billion by",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "originalUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-08-28/l_1104528_033804_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "publishedDateTime": "2023-08-28T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
+      "title": "The 34 most promising AI startups of 2023, according to top VCs",
+      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
       "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
       "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
@@ -354,7 +494,7 @@
       "originalUrl": "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -405,7 +545,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -445,6 +585,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring.md",
+      "title": "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring",
+      "excerpt": "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
+      "originalUrl": "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-841956/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -584,48 +776,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos.md",
-      "title": "Samsung funds Irreverent Labs, a startup that creates AI videos",
-      "excerpt": "Samsung Electronics Co., Ltd. has invested in Irreverent Labs Inc., that develops artificial intelligence models for the generation of video content.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Samsung-funds-Irreverent-Labs-a-startup-that-creates-AI-videos.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/",
-      "publishedDateTime": "2023-08-27T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -878,7 +1028,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1076,143 +1226,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication.md",
-      "title": "Nearly 40% of workers think generative AI can help with workplace communication",
-      "excerpt": "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/",
-      "originalUrl": "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/",
-      "publishedDateTime": "2023-08-25T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-how-will-ai-impact-outdoor-adventure-education.md",
-      "title": "How will AI impact outdoor adventure education?",
-      "excerpt": "Educators working in the dynamic Adventure Education and Outdoor Learning (AEOL) field are trained to assess risks and respond. But are they ready for the fast-emerging impacts of AI?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.html",
-      "originalUrl": "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-out.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp",
-      "publishedDateTime": "2023-08-25T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
-      "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
-      "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045931",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931",
-      "publishedDateTime": "2023-08-25T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
       "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
       "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
@@ -1288,58 +1341,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-artificial-intelligence-is-changing-the-world-and-your-business.md",
-      "title": "Artificial Intelligence Is Changing The World And Your Business",
-      "excerpt": "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "publishedDateTime": "2023-07-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

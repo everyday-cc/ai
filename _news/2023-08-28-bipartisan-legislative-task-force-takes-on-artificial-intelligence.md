@@ -7,7 +7,7 @@ originalUrl: "https://urbanmilwaukee.com/2023/08/28/bipartisan-legislative-task-
 webUrl: "https://urbanmilwaukee.com/2023/08/28/bipartisan-legislative-task-force-takes-on-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Evers creates state task force on workforce and artificial intelligence"
-    excerpt: "Wisconsin now has a task force dedicated to examining how artificial intelligence is impacting the state’s labor market."
-    publishedDateTime: 2023-08-24T17:07:00Z
-    webUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/"
-    ampWebUrl: "https://biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/evers-creates-state-task-force-on-workforce-and-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: BizTimes
-      domain: biztimes.com
-    quality: 57
-    images:
-      - url: "https://assets.biztimes.com/uploads/2019/07/SR-Health-Care-Wisconsin-State-Capitol.jpg"
-        width: 1280
-        height: 820
-        isCached: true
 
 secured: "5nbhupfI9wNC+sn29jE6bMJKP0hiR6r4Fvdogr4OYx9out7ggXyKExMft39Umo/cw5sj8J69h1gDdOY7OnC5/RezlDp0AddiRukUxZdTdSKGMPuiJqynVx2sUwBFDhNd+WQxxRPdOKd+S9HsX4jWWl5f+ike4KtZFPj5mjzfqO4pXfSOUCFqzV9B7duKNFHJX1OuE4MRJSXE21/r5beYiv7qlcxKdS7OEXc8P1qQtPSpR66i+NjCggIcDuM76ek3lY23ZfrUaxKewkdW+Jj7NhNj7/ciZh+9gI7jYgefiy0m6+Z7drZaHjQl74+Mf4JIRB790lBoxey8hhPS5W3r2p65TE4l0mL5e+FEsUEMOzY=;kW47HAcaVQI+IZngxO0+LA=="
 ---

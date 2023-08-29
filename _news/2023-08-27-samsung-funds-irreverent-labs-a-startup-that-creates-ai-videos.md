@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: enterprisetalk
@@ -40,15 +40,6 @@ related:
         width: 2500
         height: 1403
         isCached: true
-  - title: "Samsung invests in AI video generation startup Irreverent Labs"
-    excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
-    publishedDateTime: 2023-08-24T17:48:00Z
-    webUrl: "https://siliconangle.com/2023/08/24/samsung-invests-ai-video-generation-startup-irreverent-labs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "u4ZKr+voPzQ2PdFoWF7YcLRs4t4dDOlNU+0yIZ35100jpixJLTp2CwQ+1MeYZaEZaptHHlo4M0hSN2Y9G6BCquDXaj09Wl6gCMEW9PdQxU510YcPfNWTA+m1lglMwzCaYnVvPLzXIDqxBaK5b7TA2br7knoTCKtfij0HDW6yz1xkaRv4UgTiTRXyCRzfiy01xupfVb5l87QwIsSsbb2aWQYMjDvfpmwCr86Az83nQoWodctXSobJGvlPuTroYW4QzHx3yq1A/rHbkujNdlgB0J1evlZCvkMnmd11l0y6OD6e8fl8CsdJBd4AYY4MZQVwaaambAc6DtZvssXMubf+VWPLJOIZgXeAU5KtVTfKyi8=;21NIzn2+Qeze71wFYMvSCg=="
 ---

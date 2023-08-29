@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupport
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 670
         height: 476
         isCached: true
+  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
+    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
+    publishedDateTime: 2023-08-29T11:18:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 69
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z

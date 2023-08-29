@@ -48,6 +48,22 @@ related:
         width: 1400
         height: 906
         isCached: true
+  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
+    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
+    publishedDateTime: 2023-08-25T02:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
     publishedDateTime: 2023-08-25T10:34:00Z
@@ -117,6 +133,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in AI startup Hugging Face"
+    excerpt: "The round also makes Hugging Face the sixth best-funded AI startup, just behind Bay Area-based startups Open AI, Anthropic, Inflection AI and Adept as well as Toronto-based Cohere. Marc Benioff, CEO of Salesforce, posted on X that he was thrilled his San ..."
+    publishedDateTime: 2023-08-24T21:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
 secured: "ZmE1HHuMrqxBWyFLzykRRkamwHNfDtGAkt+sVJjiiVMjIv/t7PZYURxP8I8oQDrl+UXsHVaePNEFSTcKeHOc4rbZJAvojF3Q9W/ShXhftCl87581rpDwwzpSMM/66evFVucSpJVlfKENK8LNRpxDPKFbz5ZGRsNapy+qPsjnDH1e8OI/Y6VHuYfviB/cjxDZe1hGAz45a0vaOUaJZ6NH9qzLf0RKmMyd5LmbzC/RrPWK3eQfCeWLwSZnKtH9/cl1r2jpbawsk7TYSHk7uU6Fzx5tloxh4P5prUI8+/aEPeJA893x7TOCqA7ue+wUbLpo+wCTd5bpzIy2UfDAbwzo3WIqCmYleyjIvQfOcD+wlZnh7ynZTmHeNOJp/20invPTyF+zU+MKu/oX1XkyotZPg/D+hKXCVSCOW91QsdTFtbm6IEwqBLIedYe55QmWnBTdHMbUlgUS/7B075Zy+e5zDl2EUhehusu0C3yl8V9B76ZoDOsgbMcIcX5qTCgt1L2e/AdBSFZ5FHa5b3CzBkuY/w==;PasU04TZqhMOGPAlJAlWzg=="
 ---

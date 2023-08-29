@@ -2,6 +2,223 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-07-07-volkswagen-will-test-its-driverless-vehicles-in-austin.md",
+      "title": "Volkswagen will test its driverless vehicles in Austin",
+      "excerpt": "Ten electric, driverless ID. Buzz vans will hit the streets of Austin this year, with the first two being let loose this month, the company said. The test is the first time VW has deployed…",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/volkswagen-test-driverless-vehicles-austin-231004412.html",
+      "originalUrl": "https://www.aol.com/lifestyle/volkswagen-test-driverless-vehicles-austin-231004412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-enhanced-ai-security-on-the-horizon-with-nvidia-and-intel-collaboration.md",
+      "title": "Enhanced AI security on the horizon with Nvidia and Intel collaboration",
+      "excerpt": "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/",
+      "originalUrl": "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg",
+          "width": 910,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-all-symbols-in-tensorflow-decision-forests.md",
+      "title": "All symbols in TensorFlow Decision Forests",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Humanoid robots take questions at a Geneva news conference",
+      "excerpt": "inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence. The nine robots were seated and posed upright along with some of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-learning-the-language-of-molecules-to-predict-their-properties.md",
+      "title": "Learning the language of molecules to predict their properties",
+      "excerpt": "Guo's co-authors include MIT-IBM Watson AI Lab research staff members Veronika Thost, Payel Das, and Jie Chen; recent MIT graduates Samuel Song '23 and Adithya Balachandran '23; and senior author ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230707153847.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230707153847.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-robot-can-detect-gas-pipe-leaks.md",
       "title": "Robot Can Detect Gas Pipe Leaks",
       "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
@@ -951,249 +1168,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
-      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
-      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay.md",
-      "title": "Beware Technophobia Spreading Amid AI Fears And Calls For Delay",
-      "excerpt": "ChatGPT is the fastest new technology to reach 100 million users. Artificial intelligence has brought hope and fears— as well as calls for a pause.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ada9e812a0cb2f0daedd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-go-medias-ai-innovation-is-off-to-a-rocky-start.md",
-      "title": "G/O Media’s AI ‘innovation’ is off to a rocky start",
-      "excerpt": "Last week, G/O Media leadership had news for staffers at the many publications the company owns: AI-generated articles were just around the corner. “We are both a leading technology company and an editorial organization that covers technology in world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots",
-      "originalUrl": "https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/gapqdOPrQE7L6x3iMxFcfg-6SjI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition.md",
-      "title": "Musk praises Chinese artificial intelligence as Tesla faces tough competition",
-      "excerpt": "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbtnews",
-        "domain": "cbtnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications.md",
-      "title": "Integrate SaaS platforms with Amazon SageMaker to enable ML-powered applications",
-      "excerpt": "Amazon SageMaker is an end-to-end machine learning (ML) platform with wide-ranging features to ingest, transform, and measure bias in data, and train, deploy, and manage models in production with best-in-class compute and services such as Amazon SageMaker Data Wrangler, Amazon SageMaker Studio, Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/ML-14213-Arch-3-979x630.jpg",
-          "width": 979,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:17:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

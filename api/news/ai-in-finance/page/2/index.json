@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-02-investing-in-ai-with-john-cassidy.md",
+      "title": "Investing In AI, With John Cassidy",
+      "excerpt": "John Cassidy is a Partner at Kindred Capital, a UK-based venture capital firm. Before he became an investment professional, he co-founded CCG.ai, a precision oncology company which he sold to Dante Labs in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/amp/",
+      "publishedDateTime": "2023-08-02T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-why-is-the-machine-learning-chips-market-expected-to-grow-by-usd-2227652-million.md",
       "title": "Why is the Machine Learning Chips Market Expected to Grow by USD 22,276.52 Million?",
       "excerpt": "In a recent report by Technavio, the machine learning chips market is projected to experience remarkable growth, expanding by USD 22,276.52 million from 2022 to 2027, with a compound annual growth rate (CAGR) of 30.",
@@ -1267,41 +1319,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
-      "title": "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws",
-      "excerpt": "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
-      "originalUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

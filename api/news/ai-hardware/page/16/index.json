@@ -2,6 +2,65 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-21-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "These are true artificial intelligence stocks and include those ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "Microsoft AI",
+        "IBM AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
       "title": "CXL For Accelerated AI Workloads",
       "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
@@ -1321,58 +1380,6 @@
         "name": "This is Money",
         "domain": "thisismoney.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
-      "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
-      "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1681490885",
-          "width": 2949,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "publishedDateTime": "2023-04-14T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

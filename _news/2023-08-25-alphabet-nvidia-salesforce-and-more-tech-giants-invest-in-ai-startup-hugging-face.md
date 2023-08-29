@@ -18,45 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "For Nvidia, it’s AI or bust as it reports a record-breaking quarter"
-    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
-    publishedDateTime: 2023-08-24T19:03:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/amp/"
+  - title: "Hugging Face raises $235M from investors, including Salesforce and Nvidia"
+    excerpt: "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round."
+    publishedDateTime: 2023-08-24T19:36:00Z
+    webUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
+    ampWebUrl: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602"
+        width: 1200
+        height: 602
         isCached: true
-  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
-    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
-    publishedDateTime: 2023-08-27T14:00:00Z
-    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
+  - title: "Salesforce Releases AI Acceptable Use Policy"
+    excerpt: "Salesforce's EVP and GM of Industry Clouds Jujhar Singh talks about the future of generative AI and the new policy."
+    publishedDateTime: 2023-08-24T22:26:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-ai-einstein-studio-interview/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-841956/social"
-        width: 1280
-        height: 640
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08242023-salesforce-ai-einstein-studio-interview.jpg"
+        width: 1400
+        height: 906
         isCached: true
-  - title: "Nvidia thinks AI boom is far from over as GPU sales drive big earnings win"
-    excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
-    publishedDateTime: 2023-08-24T19:03:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 79
   - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
     excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
     publishedDateTime: 2023-08-25T02:56:00Z
@@ -73,29 +64,84 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
-    excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
-    publishedDateTime: 2023-08-25T01:50:00Z
-    webUrl: "https://www.digitalnationaus.com.au/news/nvidia-ceo-says-ai-boom-is-not-a-one-quarter-thing-599627"
+  - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
+    excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
+    publishedDateTime: 2023-08-25T10:34:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-an-open-source-ai-startup-receives-usd-235m-in-funding-from-tech-giants/amp/"
     type: article
     provider:
-      name: digitalnationaus
-      domain: digitalnationaus.com.au
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Hugging-Face-an-open-source-AI-startup-receives-USD-235M-in-funding-from-tech-giants.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
+    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
+    publishedDateTime: 2023-08-28T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
+    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
+    publishedDateTime: 2023-08-25T09:11:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 43
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tech giants back $235M round for open-source AI startup Hugging Face"
+    excerpt: "The first offering is called AutoTrain. According to Hugging Face, users can upload a training dataset to AutoTrain and have it automatically find the most suitable open-source AI model for their project. After selecting a neural network, the service trains it on the user-provided dataset."
+    publishedDateTime: 2023-08-24T21:25:00Z
+    webUrl: "https://siliconangle.com/2023/08/24/tech-giants-back-235m-round-open-source-ai-startup-hugging-face/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg"
-        width: 609
-        height: 457
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-2.png"
+        width: 850
+        height: 476
         isCached: true
-  - title: "Nvidia Effect Wanes, Hiking Hike Odds, Indexes Hit Resistance, AI Washout"
-    excerpt: "Plus, Boeing stubs its quality-control toe again and a lament about why the Treasury borrows so much money short term."
-    publishedDateTime: 2023-08-25T11:59:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/stocks/nvidia-effect-wanes-hiking-rate-hike-odds-hitting-resistance-ai-washout-16131812"
+  - title: "Tech giants pump $235m into AI start-up Hugging Face"
+    excerpt: "The new financing valued the AI start-up at $4.5bn. The New York-based company has built a platform where members of the machine learning community can collaborate and host their AI models and code, in a similar style to GitHub. The start-up hosts various ..."
+    publishedDateTime: 2023-08-25T08:05:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/hugging-face-series-d-funding-salesforce-google-amd"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 16
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_623128503_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Alphabet, Nvidia, Salesforce and more tech giants invest in New York AI startup Hugging Face"
+    excerpt: "Besides Mountain View-based Alphabet, the parent company of Google LLC, and Santa Clara-based Nvidia — each of which is the exclusive club of being a trillion-dollar company — others joining in the Series D round for Hugging Face Inc. include three semiconductor giants: Intel Corp, Advanced Micro Devices Inc. and Qualcomm Technologies Inc.."
+    publishedDateTime: 2023-08-24T22:06:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/08/24/alphabet-amazon-nvidia-salesforce-hugging-face.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "lz7YAl3pKoNfKWvqAhKsRta2rWeZL2guyXYln3QmUQ/N4rQglv0oUIWDbMtnfGWgJDxo9dGAXqBj3cFINa4y9QCaaunLVWROS1kGqPZrTxyRC+ePSsg8CL71t/BVCT5Cn53sV+j/Wk0pNw9Ff2VxVTPfGNY8YKqr7aY3yLZc3RMPz6E89NYkoGKrxdLxS3qJfQaB9dqpiMQYn6WybQ5Y3VC0b79aGeXCOCz+hmcVruU2dXht8QYRue/7gLhnd1xThHB68G4VmW6xgp4scjQku7RM1M/DKHGi9fnM5W5s7RJD9Q4GWzw1PFJpcGSLRSToE1fpgwZ0f12aK/McYvQAvdAGyD7OXKR43/krzvhvi96/RdwaIlfimGvCtlMy+VkSm/uAXD8/+gYVX4n7QihhLhK2+zhou8mQuz2S8kw29NHNqDqjJzy0OMeUjUkzXbmYV1nSIf8ccuheHOCq+Pj7UBfos0LFayADTW5NLCEO1BdVcHydcs1TeQWRcVJzqqiqkB160kMWInVCfv/5nutq4w==;T2yNW5PORenrZ49dYTpZ2w=="
 ---

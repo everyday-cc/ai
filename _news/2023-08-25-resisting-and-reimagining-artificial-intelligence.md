@@ -48,29 +48,6 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
-  - title: "How Anastasia Gorban is reimagining the idea of morning pages with her AI-powered app"
-    excerpt: "As someone who finds it difficult to stay concentrated and committed to doing a task every day, Anastasia wanted to build a simple app for completing morning pages."
-    publishedDateTime: 2023-08-24T17:53:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/24/how-anastasia-gorban-is-reimagining-the-idea-of-morning-pages-with-her-ai-powered-app/70670586007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/24/USAT/70670592007-image-1-3.jpg?auto=webp&crop=1552,876,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "It’s not too late to reimagine AI’s role in the world"
-    excerpt: "Published on August 23, 2023"
-    publishedDateTime: 2023-08-24T18:37:00Z
-    webUrl: "https://ash.harvard.edu/it’s-not-too-late-reimagine-ai’s-role-world?admin_panel=1"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
 
 secured: "xIBQijM5ckigZLfW8/hGsxd4XLBKs9y5DJYHn66Dr7NVQw7rvBoP8T7C2rqHCV9u/O0/F8EwagjM/zjmF+EVrQtfptDEnqn2IiOHbnDmQiT3+8KlCGrQ/NKrhu89/hyu5lXriTn7EETFDWfd8rKlXVDtYFYJqUUUsz4j6tlm+3dVnVl5sh9phDGxPF5IfwsEtHPXtaZMZ62Klv37xXcqoxvoA5zj9PQ8OYALy/Epmz0ktTl/iMfL2rT1EdrNV56Wfuj31lv0jjKl1LtoIUlc2Fz5kgVn0DPvPDHQV0CHCC+67BXoDF8Bw+7nc4hsDUuRSPnyaYivDAB7osASD08mBHSy+7DOkbW3V/v+KHAkdXu0IUVJgNUzeHO6bmSNUA5H9OP3JIsrFlv2bwGgWa0rEiOJ56D9CMjsIOsuGH6S2Txu3sUokpVkwB4NGx9PMlgwfdZ1M6DDeXd7g2m/5qtzhV4Ya/cCs8AI53uNdSQWD2wwga1SRUXEDt3YIgFTpWvmfRiHy+rK9oqfQPEXlLorgQ==;Mw18RmcIwzu1iA6x2iuwfQ=="
 ---

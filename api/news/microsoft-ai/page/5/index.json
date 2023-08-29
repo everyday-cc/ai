@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
+      "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
+      "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107271734-1689340892876-gettyimages-1246453963-raa-openaida230122_npUgT.jpeg?v=1689657468",
+          "width": 594,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "publishedDateTime": "2023-07-17T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
+      "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
+      "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-thetaray-earns-microsoft-cloud-solution-provider-status.md",
       "title": "ThetaRay Earns Microsoft Cloud Solution Provider Status",
       "excerpt": "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace.",
@@ -1241,94 +1337,6 @@
         "IBM AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
-      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
-      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "publishedDateTime": "2023-07-01T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
-      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
-      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
-      "publishedDateTime": "2023-07-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
       ]
     }
   ],
