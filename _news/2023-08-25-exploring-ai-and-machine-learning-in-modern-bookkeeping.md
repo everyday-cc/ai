@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "We're buying a new chip stock and looking to exit another to expand our AI exposure"
-    excerpt: "Our plan to offset the initiation is to soon exit one of our Club semis that has a murkier near-term line of sight in AI."
-    publishedDateTime: 2023-08-24T13:24:00Z
-    webUrl: "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html"
+  - title: "Exploring The Benefits Of EXplainable Artificial Intelligence (XAI) In The Realm Of Marketing"
+    excerpt: "In the ever-evolving landscape of artificial intelligence (AI) and machine learning, the concept of eXplainable Artificial Intelligence (XAI) has emerged as a pivotal development. XAI is the practice of making AI systems more transparent,"
+    publishedDateTime: 2023-08-25T11:58:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/25/exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107197030-1676850083877-gettyimages-1459193203-nasdaqstockreadytopastq4expectations005.jpeg?v=1692890083&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 68
 
 secured: "mYfcPO9e1rzVI6eF6QdD71fJyI07T2KwXFDILQZ/KKcTx2oiGamZC5E/MeESlu/7ZU98pWyGeR20/qVI+cIT8hp54ShdMen4NdcVYIbUaPKuqiNnMFs+Rq97CmpLMwZPLZfI9rFI8b+YkXG2NXu/kSSE0wq9fQkU5MSN9abHlXl6iAezO5yrk1nhrOTpp1xzmpGy8ggmVRImJfqQJqup1IjFKkLyTeoc+KPPpK3/pWEB7FPmEPgOUBYRx5+MnnLn4pbo84NmXxM/pDGi8YslhXNaEsget+7BhOzn/WlIDhXRGljVTAm8q/v+7/eLD/hy3oR82RC9k/MVDCap0uwdTOkYBxq2i7gvR+YioIwBKhXww60a1yDYsJkqJAAe8iRl5+cr6zJqbJZgtzj5A6+wqRU8OwFbdE6bucRW2nT3inFVVStKxDTZLJVWcedQny5APIg/fUDEFsnfEKZ9myBsOA2eaGC64wWjVgXXk66yg33IVpmWeOEsl7+PUwmPAjtTOIBwBAXKqmT4pDKIh1t2Lw==;2ZLkGvrtJbXB0m4LzyziMA=="
 ---

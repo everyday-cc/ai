@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-off
 webUrl: "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft partners with universities to allow the use of generative AI in school"
+    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
+    publishedDateTime: 2023-08-29T04:50:00Z
+    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 49
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
     excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
     publishedDateTime: 2023-08-24T19:10:00Z

@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_18_1300036679-1.jpg"
+    width: 2400
+    height: 1350
+    isCached: true
 
 related:
   - title: "Applying the lessons of open source to generative AI"
@@ -235,6 +242,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "nCCYZIU/W/7Gs+ym42KPzLcen3YD43OFYC2RprvmdPkzf6oRRbTkAadUTsGV9US8CEKyLjjvvm6KwtGw6/ADp7K4EUe6nXqqU8VKq/GW6ChfIK+nLX/mTDm0oDlk6h+7TURShklctUnnezAYh9e3r7jtI720nqH+mnAsPTFhFjkGKexVMUrtchNL4rO5w0Q2EO6DUrrBZg2OZoJ3tXS84MFvjzoDnwA8Z/6uapxaH7bRcl0J5xCg7eN1PmnNVNwQCS09TeZcdXDRpTfc8LRZ5k51rgvvbfNb77LSXvI4fzK8jh1bhbMhvfQUOr4BhSAr2rULfXL2MZzf4oc9Vg+Rh1n+iPDdwgzfQkBVW+pWYHmGQCr4c9OjCI1zdPvpUzU5OfS/mgTYwePrwnupuyWPpQIOg0/msQM4BS3ymCXLSnQUmeg3yoRu8AkwOG38w35xIBcUJZO6MDBUf0xuu4cWuYUuC0ceBG2p8PLlJObczs9pd9Bcwrtf9BLciXm+u6Jf3DkARWJZEl+XOJ2gfd3rmw==;rX9y3WbZwEuP4oJBpIuvuw=="
+secured: "+uvN2t1sP6s3cU6+T1pn0d3iqeKvwnYIJ/IimqLJLzsFHtEi5JvoEsBM7+cIFbuA8bmaNuyMeN/eCQ0Rnf1dTi4Tny64S/eJ9D76faFassOJz78hEfT5GdSIx5CsRX58UcjMUDCc5JkZ9nUaRid/U4TNto+f7UQYHkHX7jwRUqbx5xlPZNFclyyf7HOENPWJuR125KJmlHt9XK92pRRrnw1kDzRlAzlo0/sM+iYZmsxKhNyy4ACzkFHJd1aL8BViD0Zbq44jwa3mL0v9CIh8CgbwM3r/eXRgDaSGIF7Jk8yIdwfU5akaQePu5dfc9DTglpjiTLOP4X/buamSKuzmUamNptFJrctTaizVSD7EDNs=;6Vy6stsTcj+wxkTtHOUgtg=="
 ---
 

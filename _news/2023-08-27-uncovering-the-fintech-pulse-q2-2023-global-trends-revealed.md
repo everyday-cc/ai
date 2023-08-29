@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Gov’ts, Fintech centres aim to revive tech sector globally"
+    excerpt: "HONG KONG, August 23rd – Ecosystems in East and West to promote startups and investments in AI, Web3, and crypto currencies in East and West have taken measures to add new life in a sector that has been facing headwinds from risk aversion and rising inflation rates, data compiled by The EDGE™Global AI & Web3 Investment Summit shows."
+    publishedDateTime: 2023-08-29T05:26:00Z
+    webUrl: "https://nftstudio24.com/govts-fintech-centres-aim-to-revive-tech-sector-globally/"
+    type: article
+    provider:
+      name: nftstudio24
+      domain: nftstudio24.com
+    quality: 39
+    images:
+      - url: "https://nftstudio24.com/wp-content/uploads/2023/08/Govts-Fintech-centres-aim-to-revive-tech-sector-globally.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "ESRG4PVVBIGkWq8QZ6vf7wnykqiY+cYY5KisZslR/7h6VR5UYpfgxu7CuFbm5VmtpEWKMbCN8fcIRi9yCg4IIGHUr83R30MPAHBdxxY2wZ3LwB47L8+PcWofx6IdLOntgXFWDJHCSnkP6M4H2gWUWeOd6BplfSQ9MrwDaU7fuw5PkgF6Kym6HoZUa4Nl1vVq9NY3ykI7BlHJ2c+1uNxLdwrzeJYYCFq4YEgqk3QOHe70P8h1pOHGy6LwhQBesEdfSpTDzVNRx6B88ugWgg2CutRNefNbZfpIsjdfOW+TPsRbaoqcd6c0d6gifS41SgS3KYmdId8eXSq6s7PjkVLDClzbSkEtpVJeQ1/f6PPAWZo=;eumzcfYDe4MZUtTwp17N9w=="
 ---
 

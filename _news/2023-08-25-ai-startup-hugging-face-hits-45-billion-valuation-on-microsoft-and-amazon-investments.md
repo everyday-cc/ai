@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 715
         isCached: true
+  - title: "Microsoft partners with universities to allow the use of generative AI in school"
+    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
+    publishedDateTime: 2023-08-29T04:50:00Z
+    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 49
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "b5QsnyhyRbOhqRE7kJ5qrFU7mQ4zBB+QDxxeIddGZ9TMmHYiwopTx4mYtPefFeGY+GUqyAVkev21IW0PlBZSwfZQwISTUcc74VGeFlUVPz/HXdMp7l3//34Ry/ez+vUiTPCpzrqWUURljAJkQWrOXIHUQLoGh1jxPTNP4FHkfAiYsUCkCDA61vU24E9j5IfHyxgUy8VgYbEDxB53QYSQCahsD4y4YxKd4MC07F3qHQpJ3PVIZLi4cC4LUswFu1edFr4Z+ppMhsJLSHZgjVkj+RZ/V4RnPWADwipZYV0dHJWBhrTOkaa347utc6ac0ikYFdr5iTE0aCjUfFaeHnTwHlXIEWZYCZvJahTTHwVQxrvmsQsxZC2g2NChk98Jwfdf7lbbXqzMn17x+iBCmCwwp7imRQjBJvunMDM7OSE7sO5GOzgpCd61sW7hOIGHnLcu0oEQRaj870QZxC+nsNGa+yRNPPxBLKfxNu1y1aFjj1zLoG4X9ZKzlPho70Wy23BR1qT/q+UKjWhUsDBdVHi5Qw==;RvCTRK3wZM10iOSdxaUrZw=="
 ---

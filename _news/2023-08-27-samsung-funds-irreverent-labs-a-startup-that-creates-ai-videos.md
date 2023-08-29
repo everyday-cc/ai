@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next"
-    excerpt: "Among them is a Bellevue, Washington–based startup called Irreverent Labs, whose AI technology enables anyone to create a ... one that had developed a robot cockfighting game called MechaFightClub that used non-fungible tokens (NFTs)."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
   - title: "Samsung invests in AI startup Irreverent Labs"
     excerpt: "Samsung is investing an undisclosed amount in Seattle-based American AI startup Irreverent Labs. The South Korean tech giant is said to be particularly"
     publishedDateTime: 2023-08-25T14:10:00Z

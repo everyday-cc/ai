@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-inn
 webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
 type: article
 quality: 64
-heat: 106
+heat: 94
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition"
-    excerpt: "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs, and exceptional benefits. The company’s commitment to open communication,"
-    publishedDateTime: 2023-08-24T13:22:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article278561999.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 0
   - title: "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition"
     excerpt: "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ..."
     publishedDateTime: 2023-08-24T17:32:00Z

@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI And The Evolution Of Customer Experiences"
-    excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
-    publishedDateTime: 2023-08-24T13:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/ai-and-the-evolution-of-customer-experiences/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
     publishedDateTime: 2023-08-28T12:26:00Z

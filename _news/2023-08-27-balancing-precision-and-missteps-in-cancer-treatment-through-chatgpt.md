@@ -19,47 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
-    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
-    publishedDateTime: 2023-08-28T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
+  - title: "ChatGPT Incorrect in 1/3 of Cases When Recommending Guidelines-Based Cancer Treatments"
+    excerpt: "With ChatGPT now at patients’ fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network guidelines."
+    publishedDateTime: 2023-08-24T15:29:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 16
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378135/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135-640x360.jpg?cb=20230824"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
-    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
-    publishedDateTime: 2023-08-25T11:31:00Z
-    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
+  - title: "ChatGPT 3.5 provides inappropriate cancer treatment recommendations in one-third of cases, study shows"
+    excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers from Brigham and Women's Hospital, a founding member of the Mass General Brigham healthcare system,"
+    publishedDateTime: 2023-08-25T13:47:00Z
+    webUrl: "https://www.news-medical.net/news/20230825/ChatGPT-35-provides-inappropriate-cancer-treatment-recommendations-in-one-third-of-cases-study-shows.aspx"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 18
-  - title: "AI Eye: Get better results being nice to ChatGPT, AI fake child porn debate, Amazon’s AI reviews"
-    excerpt: "There's a very good reason to be nice to ChatGPT, Wired fires up fake AI child porn debate, AI job losses hope, how companies use AI today."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://cointelegraph.com/magazine/ai-eye-better-results-being-nice-to-chatgpt-ai-fake-child-porn-debate-amazons-ai-reviews/"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 6
+      name: News Medical
+      domain: news-medical.net
+    quality: 0
 
 secured: "ru/No3/zawqGR0V9obboF80KhVjIH+WC8AZrkkmKEQnyCacohWjFUPl7MukzCJi7V6COGwYOcRzVfXreOe5JG6D9Yn5Ek1UulyzYjz1pOPnVhnbz1Z8X90whTZDuRce7/7fHnWd8EFKgMl1hhxRSqAA5gajbSQV2xSm6UaH7cO2K+keOHKBWCdE1GJXKvl9SgtQIovSMp21LnWAa02hMKA21pY1k06Wq0ChPCXQzZ5k2cjpON0HGkfWwYVdTqEslunsK9+vIfg3YK8hUKr6mCSby8mBCDsCODU9AKXUYADMELnUQ9TOFc0WdDba+mslWmy/60LDUkI91ztzIxfdpxf4X11D++p1K0uSK0xAxnKk=;3gnL4Kl1XusxYfmYsEiTeA=="
 ---

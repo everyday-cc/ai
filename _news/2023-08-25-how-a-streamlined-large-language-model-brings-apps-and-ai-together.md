@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Meta’s new Code Llama large language model is optimized for programming tasks"
-    excerpt: "Meta developed Code Llama by training the original Llama 2 neural network on a large dataset of code samples ... A token is a basic unit of information in artificial intelligence projects that usually comprises a few letters or numbers."
-    publishedDateTime: 2023-08-24T13:39:00Z
-    webUrl: "https://siliconangle.com/2023/08/24/metas-new-code-llama-large-language-model-optimized-programming-tasks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 1
-
 secured: "laXJ81NlfGqR8xRhMzWz1+5szmgHCrNn/ClDza2TbhNHaskaDuKd3Q5fyTbAgoz1C4aluxMGCU3R0ASLNz8C9yab8lT0bGAWkC41QECymBdX2RXHx/kaFW5v9G0NaehrollwayIR90Td2rQ9Ccem2xairrD6IJDEDmwZ6KZ2zGw2ocRg9U/O8XR1HzBorFntitC0s19wFKHbc3r/sqVesjLtK/7SixmrKB9KW2YS/Wg5D+22TsI1dgdhDcrKc4Vzyg9A0akXD+nVsj9GuzOEbHQo/CyFEZ0ZXFFRK8HP3CpJHcV1FaM1ENq5vo/kgM+GzQx7xIsgU68lJX1ZyOZ3JasC0wWhbMZavj2Gk9C+dTQ=;T6+RM8pkfm0/cjnRcknMdA=="
 ---
 

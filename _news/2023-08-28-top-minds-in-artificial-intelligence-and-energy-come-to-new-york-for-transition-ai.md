@@ -82,15 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI And The Evolution Of Customer Experiences"
-    excerpt: "AI offers a range of benefits for the e-commerce experience ... As businesses prepare for tomorrow’s e-commerce, they must invest time and resources into connection. Start by taking stock of your data because that customer view is what fuels the ..."
-    publishedDateTime: 2023-08-24T13:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/ai-and-the-evolution-of-customer-experiences/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "QFCsdrmBQMo0TrdRSySNDA3I9SRhCpMUQEjFTf6C+JKBN18BWNJcSCi7nOh3ZJsPlQ9u3VsYlnjE5m5OiPqh+N0Q8bwuWL77O+sjAA/O5snarmp6sLbRbvuB0rF0d8an1X6WhlvKj8XsrwnX+wXH15f6v7D/h3N4628mrn5BtmMJlBZiJizJDmQspe8gbYXbqNlYSqI2ciDFhLiyi9x1osCb3inS0qGK0neGZgvqPh/xmjY2N2x64jcH0bo51qpZCWYogAsn6IhjhacwHRG3P8cQRbJg5jnpkR1JUgNeaAAYrZqUEa9KmdM1CvyaWcqwZGlVedovqKXk3HwNcIhQadEchA3UUKrFzYjjNkXp1iNcIwv4oJHCXRlmIP2V52moHE3F2pFp+k/9iF47Sc1zkphVVYiJrnVGKSOmr216gIHYkBZmYmKZGax0lIX/oyv663yHn7RomDVSA1w10y3Vcd2sHKM9eSBpQh7h3Tmo+2WGa6ksv3Z6hsGaamxFg8gJZ2FKMgUrlgkxgwdFSbyAWQ==;U8QL8zNSeMzgKXiGzVkoFg=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 1033
     isCached: true
 
-related:
-  - title: "Humanoid Robot Can Fly a Plane Just By Reading the Manual"
-    excerpt: "Using natural language processing and AI, PIBOT can perform takeoff, landing, cruise, and taxi tasks without any modifications to the plane itself."
-    publishedDateTime: 2023-08-24T14:00:00Z
-    webUrl: "https://www.extremetech.com/aerospace/humanoid-robot-can-fly-a-plane-just-by-reading-the-manual"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 21
-
 secured: "IMCgq+5CKW41xm5m6d3KXxISLwKv4OzHxxUSoxDlEqxs7cTbdEQ7fTRKRRLTc+kzNjvZHyUUUYE+h5JyYCuXSJc+mYbPRlTujMWkhpqB2lwhE9tt9BVa2Q8FzMZTv08B9UEguLG0APkJflkgJt81Z9lu0/EdEMgTx+nWXafVwxXW7s2dIwiovB65l8eyZqU2ZeWQf2AsmX4kUQZ4gO5CYO4Rf27CbMtY6I8PGd9owHgso910fZNoP9JRBbsK2QW2XZqHj6ykY4jyaElkPwj1FTIECswcPeyJA0yWlxarMjmB8swlZZg3KCqPwqSIezYoOpCT8dOSR8XKeY7To1/xrBONTz/m/iW0s6d37PFAn1Y3P+v88G+YzdJwihCwozh8TveK4spw5wwULHBkMLilNyCLpLP0NlOidw4adwx173OpcgP1p8xzAaj2mVa3oiMpUg0MgveyQODz3F7N+9oeWtSTeyd70iBCFVHTk3v1qf6WVZM/Jaqv6dAA8BMu3MnkJVppBmXVJAh3+DcR9gDSbQ==;kHkGb5UIu0ZVUouDH7oXCw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intellig
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: infotechlead
@@ -26,46 +26,16 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5"
-    excerpt: "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ..."
-    publishedDateTime: 2023-08-24T14:58:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/"
-    ampWebUrl: "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/"
+  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
+    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
+    publishedDateTime: 2023-08-28T12:11:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft partners with universities to allow the use of generative AI in school"
-    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
-    publishedDateTime: 2023-08-29T04:50:00Z
-    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 49
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Meta Launches AI Coding Software to Compete With OpenAI"
-    excerpt: "Meta Platforms Inc. launched a new artificial intelligence coding tool in the social media company’s latest bid to compete with Microsoft Corp.-backed OpenAI and Alphabet Inc.’s Google."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/meta-launches-ai-coding-software-to-compete-with-openai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
 
-secured: "aqFx8uXlef0fl+OvwEwCLfqrcH2m6cUGrH+XbiByO4C+ZJR1/GsALy3dMk4xE/ouoUG5TDgYCeXaxrC3reFpiX1O1OR4YLVcY9I9nmvqnwi0JznIfjObhXyb5sYCQ7Gl1l+TX0e0BhOj0VRL/osgYTeJLy6SAS9yEAKR+ajGvM0QMbp3OJsZCVntkFcy8MkdMKRHjSnK3uCcTXDKnfEE3TYYvwLwgd3xYnpCa+2JyBhGQw2fgFB1j54tCbhhA4dctDdzZOFKz2fsvKBadQHeVIB2LdgOl5ngbP06beYjPAMkxFuG5goKLUA4IcnAEsbH0BMIDtF3IDMAcYH2aPliy63CV4krl/4VTlsPgp8XkKU=;J2U+Aj74EMVsFwg6U9ZF5g=="
+secured: "pbRhWZpQqsIS+IN6HOyy1BqTBk+E4DLHzRmf/ZFqpBtIIZVBNR0nz4lmqFLjAt/Zd4uilai1FYtI/Tqxzq4aYZE3/AGFQ0JJi2o3BR3zUAxY/XykRGFazk7U5Glt/GC3uepR58f6NorUlQor3XytoY7ziQfabc4g2wUWaZjzyTh5I9BfzCcHfi8pvWjTLYVHdrTqq6TvPo4m2jyATdFUvLJguVuqoDoxMe8pwjqTr/JdTXKwPzQrosD3MGSMKO0PHOpqH24lqRb+cvJHaj5IeUG2j74gmjGlowiSg7hvD2OfTjAV623v5m9SfdsYzHIIAGZaksj4GMQuBig9eLtvg7AikvRAot8CswRYFxN8BX4MdqMtfiCHj9cpQn0f1hRkYQS7mh63sBFUBSQUJbfsdu1FXPJdT1JUkiilLBa9EFRw9Kul7aZ7he4+BISthsIzVjJWOGQzxH2BoWx7YuPISaclB/hh8RLyMR8ch5JygYE4UzTenh6cyO3uRFDX2h17b6qpKc0pItYjdjH5tanbYg==;bZaeUCHKxoGjyHPkRLYxDA=="
 ---
 

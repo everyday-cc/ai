@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-trusted-generative-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
+    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
+    publishedDateTime: 2023-08-29T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
     publishedDateTime: 2023-08-28T12:36:00Z

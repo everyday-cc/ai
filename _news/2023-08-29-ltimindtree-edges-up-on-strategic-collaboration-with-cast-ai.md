@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/business/markets/ltimindtree-edg
 webUrl: "https://www.moneycontrol.com/news/business/markets/ltimindtree-edges-up-on-strategic-collaboration-with-cast-ai-11274961.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "LTIMindtree partners CAST AI to help businesses optimise cloud investment"
+    excerpt: "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings."
+    publishedDateTime: 2023-08-29T06:01:00Z
+    webUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/"
+    ampWebUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/1-250.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "LTIMindtree’s shares up on collaboration with CAST AI"
     excerpt: "LTIMindtree Ltd.’s shares were up by 0.5 per cent after the company unveiled a collaboration with CAST AI, a SaaS company specialising in automated cost optimisation for cloud-native applications hosted on Google Cloud, AWS, and Microsoft Azure."
     publishedDateTime: 2023-08-29T04:37:00Z
@@ -57,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "TT3jenus+3D9oa/xKamA2GSiCo/oL15cF3kL1vQhr6UiX4lKT3/Tb3ze4KC6mhecQLuHD/AjtpjQrI9Kx5ieBpvD3Epb+mCzTqKFxohNWP3qhxjK7WiF+JJQmC7rH8YHhka1bskEMwkbqhINyV0LIOH4SWhb8rnHO4aoV0aKP55P312BfcJTWzHIjrIRWyFAX6x9x9DHI5wnHHAExM1GDxEq6AMliKAxjslTR0sElDJsSB8v7J7Ay9h4UXSIH/DB3r9EiquZrVAJvOQLerEB/ErOuh/wRXXEnaC4/jfAAk7BRX9mHmKmoeOnRzumRfPttO6dejcPCBWulia/hUQeBi24mNyamYK5TWoz4PYBbFI=;3Yrhg2K+ft6CU5BAppx5wQ=="
+secured: "s+kyD63mbPvpKsl2BwCbs0CkvS7MOS+BFtZQpxsfoqIW+5CGuRmmPoGEP11WDshknzCgLNxDy+UKK55wqP0P6I8/Nakxxk3l11yl6jdi75Ud7Olzr9RtD1GycVExEEM1yltYhLhDSXSmhwooQX+0NuvoUr9V5h8QzPTizdKe0j5debkQfDwoC7P/D/DIQXQQ7SH8/g6OIV5ekd0cSk6zm5hAuinv8Y82oPqS3NjLe9PqA4sMNIfcWWZB2WLXsmmJurvGC2AdI9p3D8O7lZeMEE4Y9viydqXJWJ6BLNO0bp21x8He7z3VeO2INq4bxjvoA/+m2VXF9x/aNW0mTy6jcnn0OBnTy5Nh/Ahe1eRSgZ9DBazRDEpCtiDMWRXEVyHsjSsmLPxsjMoW7yS96ZKq76xNx0GbyTIA21pTJz1bYwfxOhwAlcbQMCJkElq3jxNfS1u5Z2QcU6DyhzBtFQ8y3gtsZa2QO0PpOY0/5Y7cffcju8KTn4Vi0CidpG3rGMXT3bn7BkpulHVZziU5NvWjAw==;OSSpWHY9MLwgVZp1gA+bdg=="
 ---
 

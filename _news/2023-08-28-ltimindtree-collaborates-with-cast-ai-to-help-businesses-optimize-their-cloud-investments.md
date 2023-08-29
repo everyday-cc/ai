@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "LTIMindtree partners CAST AI to help businesses optimise cloud investment"
+    excerpt: "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings."
+    publishedDateTime: 2023-08-29T06:01:00Z
+    webUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/"
+    ampWebUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/1-250.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "LTIMindtree edges up on strategic collaboration with Cast AI"
     excerpt: "The partnership with CAST AI has enabled us to offer discrete services to our customers aligned with their business goals and objectives."
     publishedDateTime: 2023-08-29T05:02:00Z

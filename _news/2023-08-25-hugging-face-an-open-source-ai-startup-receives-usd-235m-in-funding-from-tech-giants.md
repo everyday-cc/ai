@@ -56,22 +56,6 @@ related:
         width: 1400
         height: 906
         isCached: true
-  - title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
-    excerpt: "(Reuters) - AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce, Alphabet's Google and Nvidia. The latest round of funding outlines the rapidly ..."
-    publishedDateTime: 2023-08-24T14:10:00Z
-    webUrl: "https://www.aol.com/ai-startup-hugging-face-valued-140155500.html"
-    ampWebUrl: "https://www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-startup-hugging-face-valued-140155500.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 56
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Salesforce survey flags AI trust gap between enterprises and customers"
     excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
     publishedDateTime: 2023-08-28T13:26:00Z

@@ -40,15 +40,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next"
-    excerpt: "Among them is a Bellevue, Washington–based startup called Irreverent Labs, whose AI technology enables anyone to create a ... one that had developed a robot cockfighting game called MechaFightClub that used non-fungible tokens (NFTs)."
-    publishedDateTime: 2023-08-24T13:31:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
   - title: "Samsung invests in AI video generation startup Irreverent Labs"
     excerpt: "Samsung Electronics Co. Ltd. has invested in Irreverent Labs Inc., a Seattle startup that develops artificial intelligence models for generating video content."
     publishedDateTime: 2023-08-24T17:48:00Z

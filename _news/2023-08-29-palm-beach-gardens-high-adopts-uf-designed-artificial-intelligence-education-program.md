@@ -2,22 +2,22 @@
 category: news
 title: "Palm Beach Gardens High adopts UF-designed artificial intelligence education program"
 excerpt: "While other district schools of all levels offer computer science, technology, coding, e-sports and information technology classes, Gardens' artificial intelligence program is the first of its kind in Palm Beach County. School started Aug. 10. Ruzycki and ..."
-publishedDateTime: 2023-08-28T22:16:00Z
-originalUrl: "https://www.indystar.com/story/news/education/2023/08/24/palm-beach-county-school-offers-university-of-florida-ai-courses/70651725007/"
-webUrl: "https://www.indystar.com/story/news/education/2023/08/24/palm-beach-county-school-offers-university-of-florida-ai-courses/70651725007/"
+publishedDateTime: 2023-08-29T05:57:00Z
+originalUrl: "https://www.cincinnati.com/story/news/education/2023/08/24/palm-beach-county-school-offers-university-of-florida-ai-courses/70651725007/"
+webUrl: "https://www.cincinnati.com/story/news/education/2023/08/24/palm-beach-county-school-offers-university-of-florida-ai-courses/70651725007/"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: The Indianapolis Star
-  domain: indystar.com
+  name: The Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - AI
   - AI in Education
 
-secured: "Us3n6sjqwwhhPwiSmcbUFfj1MFL1beRHgX+VB8pi6v6xNhxmDrc4e+kej8c2Dtg7pU2DDZ1oXNfDFYZfNlAuGv90f7YBCVsAoVB7a09Cphn5Ub0UEXpPxrBx+/+RNO4yL0Ta4lwmeE7I+vHJMfjQCwhg3T8JocMUcxKUCIerBD8ZRW/EcUZJMC69dyksIKVqH9eLYtY6etQKLhUcJHfTWIO/lD3GpW2ewclscd1uwcDg0o1wJ0BN2K0PYpEUWXphZcnMNpMw1s5Wv+9VKoG+HmmDkScV4YCqStGSB0VZSpvxvzjxhtvnrdOLl802rcsu4Y6Pwaqju9xQlFt122qoN8Bnk0UdNfzHwPHFKpJbAD0=;dD23StXBRSg/QofnIhpgfw=="
+secured: "Rexv5G9Q66b5hHDqeUK353RV5Ec3vMuWg6IcITPpu1bL00MfLuHhTfZCLQZXsPdMXjn34P3ybbtUvCC1curiSEKQV052hycG0qCLWnkjE9Z+4Cdbvx4ShwMhOaUBn0row4gu84FgctgLQczKcg4LCSv02VObRTwQeMYm2zY31PXWs/sMgdXKNWypplz46XN7wqZANjdBcedgZYFrUh5yGTu34Vb7TXPLYCIgbt+KbZ0ioXuo/76q8O1xtgkQ9kAu9xdz87Ur8LygYFR8KNOACxt9TwhDxrVg0tznn5NsMLtVuiujbVwTX3TLUt/hbdv9VCtpAFdtx98brFJ2e3lco9fBOct6pTtvfJEeMs3bp+n+mMe1xC6V97CZ5WLtp20y2dnXO13Sw1nifXrOH08gANeNwN6hqEY/dSWGTxTASLLGAGXrtfmiAVlvFQJkligAjLTRgFLg9EKXFHL0XOpBkD9GFIya4WeLVeRqVdtqZmab3eRwjdMuUqprd2iDhCp+Aq2bcDAd0KXEXlScKDlOzg==;IpEQr6PTYCRcO2ZMO9Wu1g=="
 ---
 
