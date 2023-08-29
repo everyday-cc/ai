@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "How AI Is Accelerating the Future of Cars"
-    excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"
-    publishedDateTime: 2023-08-24T08:24:00Z
-    webUrl: "https://www.criticalhit.net/gaming/how-ai-is-accelerating-the-future-of-cars/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 39
-    images:
-      - url: "https://media.criticalhit.net/2023/08/ai-future-of-cars-1024x525.jpg"
-        width: 1024
-        height: 525
         isCached: true
 
 secured: "P95W8AVVQcnIYk7U3XMKiirrSVKTlZWp3x7iJLfSsvFrg5K6SFwTIJi7F710x6Dy7VnzPtHm76qmQDXhKWZfESHkNEuAx/6fSXVCcfksL5n23vtc6ibD9zbAZfzHgQriint8/Wrc/Y5cO7yRwIcPNTBXJeBiJ+nA4XICGD7kSgnfS2Jr77aUf76/IltD6ZBvKtaD/ND+bTok9ITNAZu1qAR3at9ptFvHGGpdq8j4HQyf3M19/aqhK9qgwcDtILkPMovfMUl8XeWFf71+GGRTldOiIRHOBnTD37Rz2QhgXdhDwYjzu+r5U1ZKuBEvDSL9/RJozaV4afRUUuIESY6dMo/nz6Mp2uzqwE/ZFCcn7so=;D76OygUwjLCevLwJ4BGgEA=="

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "\"Jio promises Artificial Intelligence to everyone, everywhere\": Mukesh Ambani at AGM"
-    excerpt: "Mukesh Ambani Chairman and Managing Director of Reliance Industries said on Monday that Jio Platforms wants to lead the effort in developing India-specific Art"
-    publishedDateTime: 2023-08-28T17:27:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273946560/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm"
+  - title: "“Jio promises Artificial Intelligence to everyone, everywhere”: Mukesh Ambani at AGM"
+    excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries' 46th Annual General Meeting."
+    publishedDateTime: 2023-08-29T01:40:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 30
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 50
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/29/1600x900/uhj_1693218921426_1693273020884.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Reliance Chairman Mukesh Ambani Push Artificial Intelligence Plans: Jio Promises AI to Everyone, Everywhere in India"
     excerpt: "Ambani pledged the company's commitment to create up to 2,000 MW of AI-ready computing capacity, across both cloud and edge locations."

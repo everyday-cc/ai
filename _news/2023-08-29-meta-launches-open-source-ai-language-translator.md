@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-28T23:15:00Z
 originalUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
 webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
@@ -25,60 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s new AI model can translate & transcribe nearly 100 languages"
-    excerpt: "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it."
-    publishedDateTime: 2023-08-24T07:28:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
+  - title: "The Myth of ‘Open Source’ AI"
+    excerpt: "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways."
+    publishedDateTime: 2023-08-24T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-myth-of-open-source-ai/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 89
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg"
-        width: 1200
-        height: 667
+      - url: "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
-    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
-    publishedDateTime: 2023-08-25T09:07:00Z
-    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
-    type: article
-    provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 44
-    images:
-      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Meta's new AI model can generate and explain code for you"
-    excerpt: "Meta is releasing Code Llama for both research and commercial use under the same community license as Llama 2."
-    publishedDateTime: 2023-08-25T12:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/metas-new-ai-model-can-generate-and-explain-codes-for-you"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/25/image/jpeg/gfuOrbssFsY5eaQBKxkjjPGM5IMQkiJLtmNwW133.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
-    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
-    publishedDateTime: 2023-08-28T09:51:00Z
-    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
 
-secured: "3v/46nWi6a/2fWC2jK/1Cm6pgpSy09h7AUmTLUws4XaWff/bKCoPKAuWyNumzpKMWe0ObeH0VnubMYdNOPZKNORLJA9bDn4tUO16l1OPEuceCjFjOuLpSFc72ovyR6MQmWtfisUfC7socOKcVqGLN1f1+PzzAiSNydtDcQyZdioKOJW2ceg24ZPi9mSJltrjwZ6b7C51dDNdZkwzjikjT5hzVvlOKqe9r0wbyqtvSyoSEBTigK2dRX1dW6yV5DTirO0h4u6hFakqhPJbzULdechXs63L37XM6ift9QBAdCJqjs3dVIbOlDVg/56GoF1GcJoXvtJgtr2jYno7ZC8sOM0mpmz26/Mz2HIt42mArfw=;/xg4y0RI37Ryx3dtWqCREQ=="
+secured: "0t+yuhDGn5esaq5RvTO9J2ZE+XEO0R5v+mmW9QEsuvAeL2R3+uWZYvMo3w11LTjWEuwE1MCGne5rp+ZHHbBzmX2XS5bgVfFG0dC4SgAZS9rGiLFsa6/GfaB4swWQcNaBJE5Vd8WZJ6GT5Mha/Y2GoVu3P/HhU+8ebew8rBl3yNvC0f/WL+0nOn2qOKSL4pfTiiMqnCsIAGamEEUGItIyu/NA8s73fgWCpIEeP1M2/I4Upo/76oRWTDem6Z4qdD9yxNAAprtAuLgmxlHAuCIy0A2jH+qO9FkStInExfLvV/n8ydG9TFL4O3E484AS4mD+N0pYwoElMo1Mfq0NAtZVyrDVrQcjvt8V1eB2RH4GM4PNG4ZA0AnFYm/8YZM1m3VEml9zSiZ04KRcKIDQdykcuBf5yIt9a6nFS1jhDLlTGiBcJ9IRl+kXOVkX+BoczTV2D5FDZ0anbcMpLq6YXyfIpsQAiUChbeqIjHUBeJUPupoKQbzRLm5VHiPNyO7bA82dk55aNc/Fnr1E9OZRc6l3yg==;kYT2Jud4/tqrwdSJk9/xMw=="
 ---
 

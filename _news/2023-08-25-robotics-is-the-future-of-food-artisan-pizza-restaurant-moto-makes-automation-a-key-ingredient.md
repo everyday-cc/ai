@@ -2,9 +2,9 @@
 category: news
 title: "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient"
 excerpt: "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives."
-publishedDateTime: 2023-08-25T15:17:00Z
-originalUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-rtisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
-webUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-rtisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
+publishedDateTime: 2023-08-25T15:18:00Z
+originalUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
+webUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
 type: article
 quality: 71
 heat: 71
@@ -28,6 +28,6 @@ images:
     height: 1583
     isCached: true
 
-secured: "CamJW6abthgwOf+Uipw1iwdwFpWhVGGT1N5ip7CG2HmwbNn7hcXuoWZQYliHb6XVF5sqtK1eUHMkDY+9xdUVRdUBtYOSKBOmh7KhGgxItEAW82gCv7X73iJsV70Beu1q9d75suXU1UMBxRK/Vur+TwouAtAea2IiWab1JHQd5cydZo4JXFHhwZJz+5D5q+DrAEYyKQevcQrgGiv00RpCX/IQNQsPYNNmZCHNstGwUFAMZ809CgQxvCQimtpWW6miQrTsdvUhOYRhAE30zb6IypDG9n3XtSe+AdP9iKAZzlR0yX2gWI0wCVRbY6Vjm63oOjjC/f36qD/+fhmX9DTad0uewjgUeiLozT/jQ02hz1U=;yjwiWtfrSIgEkSshRMvCfg=="
+secured: "XOdnm38hbf36MVe55QFKsqyspaSeariNb30vQcTl7/ipLYm15UwPJxupuZzCEWwFgVKDSfJUAERq+zll/ma3cWjdv+mY9d7wZfocyYCr9o1j5FwNX2Pv+GoZzKECIFC9qX25oqcouiZGQJm8aDSTuZqGYuPqDzHpgxlJsbBq17jJ1EfSNM5k4wHpWNclC7GMUDYD6dzSuG2zw5zfuuuc4HFNG+3Xo75TScLgn4h4Lr/1YvQPSySx2xRI0xWmbgN9bm57mNF1bMrX9jRs0AiDl1PIjyTvFIGikkz4mFFiz/QuXbw5mjD5b30eRHYGA6xIv8KHLcmhpgu67jbqmZSu+ELxRH8rPZGEqJ+O0o8/1YQ=;JO7X4Wq0veJ9YNhwZQS+Ng=="
 ---
 

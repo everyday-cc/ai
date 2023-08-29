@@ -25,59 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s new AI model can translate & transcribe nearly 100 languages"
-    excerpt: "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it."
-    publishedDateTime: 2023-08-24T07:28:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
+  - title: "10X coders beware: Meta’s new AI model boosts coding and debugging for free"
+    excerpt: "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more."
+    publishedDateTime: 2023-08-25T21:14:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 89
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg"
-        width: 1200
-        height: 667
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/code_llamas_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
-    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
-    publishedDateTime: 2023-08-25T09:07:00Z
-    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
+  - title: "Meta introduces Code Llama, an AI tool aimed at faster coding and debugging"
+    excerpt: "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more."
+    publishedDateTime: 2023-08-25T21:14:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/"
     type: article
     provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 44
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
-        width: 1000
-        height: 525
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/code_llamas_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Meta launches open-source AI language translator"
-    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
-    publishedDateTime: 2023-08-28T23:15:00Z
-    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
-    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
-    publishedDateTime: 2023-08-28T09:51:00Z
-    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
 
 secured: "eyW6tPzcVO/nW9r0NeqXmcC+y0V+/Fod0l79+4bMX0LzDxp3+lxjpzkrNGw24SD5HBUsXUmTxHE1pwZYTqW7nnHaLzJS52JA/mPwYvk2xI0l35svyC7vG9cB21WfvI+OVw71rxMnG0wByW8IWt27/GqOACBUGevB05Yabr3O+mVu0FA2I8We6hEzlvktRV8qizYJ7AOr91mjidB53iNP4fi/bkXnhTrkeGf7mq5RypTOmHauELyMxg0CCtY3J6y+tQdyDIxH5Cg2ahkbLkgFmTr1U2aMxuZ3ZCf0Rv/+IskQUHbCuL8JzIAEHiUOb/ejN8+04h/yNSJ/9tEfApjbT6cUOywH+CXiW5jCwozu84tNfBb/hvl3TZsef00VdD5kUjHmYtfe6qa4OMEiSBHxbg15bk+V+yx52VGMWDv/O1/3zj+YV7BBL47RzdBi5EA6Jm7tiq0iAwQStXLNFbYES7WdVk9mcSpg7md4czNGwQjZ6lXVC5w+wYzE9xHzdFPe7CZbPdQd3xiDEN5QNq9uUQ==;YR7DMXUmOiAiSMt6/bUscg=="
 ---

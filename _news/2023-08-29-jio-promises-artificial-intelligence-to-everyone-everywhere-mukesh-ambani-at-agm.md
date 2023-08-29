@@ -1,26 +1,28 @@
 ---
 category: news
-title: "\"Jio promises Artificial Intelligence to everyone, everywhere\": Mukesh Ambani at AGM"
-excerpt: "Mukesh Ambani Chairman and Managing Director of Reliance Industries said on Monday that Jio Platforms wants to lead the effort in developing India-specific Art"
-publishedDateTime: 2023-08-28T17:27:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273946560/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm"
-webUrl: "https://www.bignewsnetwork.com/news/273946560/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm"
+title: "“Jio promises Artificial Intelligence to everyone, everywhere”: Mukesh Ambani at AGM"
+excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries' 46th Annual General Meeting."
+publishedDateTime: 2023-08-29T01:40:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
 type: article
-quality: 30
-heat: 30
-published: false
+quality: 50
+heat: 70
+published: true
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://images.hindustantimes.com/tech/img/2023/08/29/1600x900/uhj_1693218921426_1693273020884.png"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -43,6 +45,6 @@ related:
       domain: indiatimes.com
     quality: 2
 
-secured: "OI2Xs9eqVAgcO2B3CVwrklr0oIqIxmU2cM7hCWun/tkNs8c0/ayRuc+r2Kx1rsKGZvEFKKjkNZIlpRmz1NAulhTxVoXy4ak2ShLMDP7E5xyiPFz4hWjBdo302HzfMUWbUUYufhZ0363dIcO+pa7tLDVfD+9HHP0fPv7Jp/eq1oa6Ly/rIhkUZm8XvBDFgPwEAGWshuJrRUR8UdyY3vSwG5QqEqF7qruLN3W4GSb2uVYxZTDL3+/ibFz4qsxXVruqZx/WLlCv6S7IjrTkKs4lWjKlRGIbsKUlUTc5CX3oQh3kFdVCi31Hud6yOksrMzpGlEaEhZGEcsxUOM8pGrx1nUHQGpVdnKqDEpYTFRzlfXc=;WAq+B6lGCikPog6sFMxB2g=="
+secured: "tXdgv85DBp0cKDnzb2vJiSPctX6UwSmUXbz/+EKOm1OnFQqbejOovIBJJE9Di1HEWySBfOTjWjykuLPOz6KfHXfWoAFS0HNsi11begBvAdvvB8z/YNqOwkrE77FwXqo6w/f+904KBOmMfVoNBVy5DzBx1+zkifNka+3tajnOXDIwAWTRQhFxWdADEnHKwX5PT4od5y6gVQmpa/G1C2SSHObQ3sbv6TeDZFgQTxpeoNyrjDVJr086wiGr2gOU5DYuUHjhqLzyiKCGOvZCVE7emWU86K4nGZ6msmFbhdBZinlIuJhYF00Eze8BgLE6VWfNheI/Ix6Di+FruXO4Tct85kOxJGoHJjVvVNX4XLDVKnI=;amlX9eDpeAHK/cTuhpdZig=="
 ---
 

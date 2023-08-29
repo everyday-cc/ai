@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 306
     isCached: true
 
-secured: "fXi6VunZCDM8+WPP21xFnXlq6wB2gc2BxJGVyladY3cNJpjQb8AtpkvbjXPCvGztlKaLVGBTk/aN85kpjtxskTYw6uzjo9Gbw/fJJ4pCDJ0HhL6b1hLE4ka+SvXv3CMgO08aL94FGb11GrtUMKyHWU0MovEV3PllB/o8i797mX4ckYX3iEwYyuVXy0qVcdgnZMOEmZIHlpZXQq4QWIaO8WeimeJChqg+Fc4w2U8K7tYY0ucstpfnhpfqY2wrVTZfvq6c3WbFuwGshXhw7DvdSqooP2nmuXTU47Mcnw8eiEYN3t8eL47PuxrujELs/t+4GXEQ+/9mTIf5BFn7tGHPvPYYnrm8Ya2ud3lzF0rcW7A=;xtB0GQQBsrPMbP4upVz4yA=="
+secured: "p7ektveSYyGp4lIb8Dj3qIYPYaRDRcNzPcpm+LfEgd51Ev9LGIyefl2ydNXNE7EtEXAVvgr9gbkPikM+TzbbOw+odfLa2C8HAMWcH7C1eMuyJnuz669HiPUF/SXzBc51nvkcUxa9ANBNgieKVvWtuW5fVnGNAr579bEO+PA4PQtMmTVvUyRzFO7f8PLwN9Ipsdf1/jgkGXRvVYQqbrP0WAuTQH4xb5R5BinjQo5jINRFr6kU0Bv1GS0fxw03YJautedApjR4/EA8j35eTlOnT9j9PbyR7Az4UhaZHbNkfnRkoaYgcGB9HH+yTOOBUhzUT9ZuUmB6OlS9uOh5Nl9CW3vnD5Ad/T18Esvh63ttnOPt5MbtcMh/hLW4NR73Qyhh+AsUMmHYSYuq3p06ashnG9rehO8yayRDyuzI6q8Xo+2KnDc92Rag8ZpB16WcgCBpYTcJ1PzevHHji8zsO2fJ5U0DRuoGrPNgDgOMOBOLP+2qMlXVCXOqy+8yNJSuxOjjuWJwmBRQKpOFOr1ryG8veA==;OUxlO1n4a5k3VrZwARDLgg=="
 ---
 

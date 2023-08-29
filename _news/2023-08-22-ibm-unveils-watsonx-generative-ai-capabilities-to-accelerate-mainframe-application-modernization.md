@@ -2,25 +2,27 @@
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
 excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-publishedDateTime: 2023-08-22T08:06:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+publishedDateTime: 2023-08-22T04:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "hzlJKH48bBew4fRpoyU0X4o/ZPheXkK7gmHMzXFEeKoZp5zG7pwuCpzjfALmTIOfZS4sK2cnGuG4i5YlN+1I61sZcoRjZ6+yTYYU2J5MUYv5Q4qtEgZbQp9NzGTx5Qlq+gOM5n2htpsl0+sJ0u0FhsCdyIaXSBWiFgVUmn+3rsLdQHQnY860GHFTeaOVMEunscB0NcE457c5NcrWYUOKIcQI3bPTNEqMdf+vbP3HIaq4SOgm2qUmqc1xenAxeYDSaMhCvBiM/lMFZjDVjDKpowsJpuSc0H6gq/kYfytGS6PTA+I5L4JOI/ojHTY67Jp3G0fnanIbqgd9zo3WM15ezjOH7gI3OiwlFQgbmPAA4gw=;5E/42I9NXlBkV7nMsLk1bQ=="
+secured: "1vNcs/hYqX17vmqKXls4j/w4GxzvmK0Q7yMQCM/r2EoHtX4nb22qN+8xNjH+dsmDwVdXsc0zDbj8IjLtMnLneBU5G2Va6UeXPEfA7HfK8pcX4cs82uVtX63jv059Pg1PPYM1UAMPDKhcKjEy+R9EgbFmciCRvi/Q57rKOSD6HYOebmoD1hARCMgszl+6l529NGHV0OtMf2wzjgqHWsQBal11ClIqmCPEO4zVXIxiVl6uJLemkapaD+raA4d3bqw9tce1q1yTWrTrYHzQKO9gfhsRic9OyNPlhmddYOSERkoUsAaf9Mnh0ZOIbMUFJMuSJ+uB2/Gg90qI9AH0DTklluw3JGx0mxk40K9XpyH50cM=;8iKTd7PAUFG9Ril6neCDdw=="
 ---
 
