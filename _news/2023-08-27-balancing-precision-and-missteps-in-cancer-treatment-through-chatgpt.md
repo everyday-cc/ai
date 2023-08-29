@@ -7,7 +7,7 @@ originalUrl: "https://www.medindia.net/news/balancing-precision-and-missteps-in-
 webUrl: "https://www.medindia.net/news/balancing-precision-and-missteps-in-cancer-treatment-through-chatgpt-213252-1.htm"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT Incorrect in 1/3 of Cases When Recommending Guidelines-Based Cancer Treatments"
-    excerpt: "With ChatGPT now at patients’ fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network guidelines."
-    publishedDateTime: 2023-08-24T15:29:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 16
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378135/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135-640x360.jpg?cb=20230824"
-        width: 640
-        height: 360
-        isCached: true
   - title: "ChatGPT 3.5 provides inappropriate cancer treatment recommendations in one-third of cases, study shows"
     excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers from Brigham and Women's Hospital, a founding member of the Mass General Brigham healthcare system,"
     publishedDateTime: 2023-08-25T13:47:00Z

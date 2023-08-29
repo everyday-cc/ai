@@ -2,6 +2,99 @@
   "page": 192,
   "value": [
     {
+      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
+      "title": "How ERP is breaking down silos and driving sustainable change",
+      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-how-ai-can-empower-not-replace-your-team.md",
+      "title": "How AI Can Empower, Not Replace, Your Team",
+      "excerpt": "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/",
+      "publishedDateTime": "2023-04-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-spotify-ceo-daniel-ek-argues-ai-could-be-potentially-huge-for-creativity.md",
       "title": "Spotify CEO Daniel Ek Argues AI Could Be 'Potentially Huge For Creativity'",
       "excerpt": "Ek, who co-founded the streaming giant, also acknowledged that he's \"very familiar\" with the \"scary parts\" of artificial intelligence.",
@@ -1111,92 +1204,6 @@
       "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
       "publishedDateTime": "2023-04-26T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-opinion-ai-research-needs-to-be-reined-in.md",
-      "title": "Opinion | AI research needs to be reined in",
-      "excerpt": "AI is dangerously unregulated as a research field, in a way few other fields are able ... This hype and market trend leads to companies with questionable track records, such as Facebook and Twitter, to cut corners in pursuit of profits.",
-      "sourceUrl": null,
-      "webUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
-      "originalUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailyiowan.com/wp-content/uploads/2023/03/ChatGPTBrainstrorming-900x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Univeristy of Iowa Daily Iowan",
-        "domain": "dailyiowan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-best-small-kitchen-appliance-deals-at-amazon.md",
-      "title": "Best small kitchen appliance deals at Amazon",
-      "excerpt": "Amazon's not the only place you'll find great deals on small kitchen appliances today. Way Day 2023 has arrived! But don't delay -- Way Day 2023 only lasts through April 27. These coveted kitchen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/05/05/027b22c8-d67f-4e1e-92d2-2520dfcbdefb/thumbnail/1200x630/dabab5ca4c47e730f305e03a1201de75/kitchen-appliances-amazon-prime.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "publishedDateTime": "2023-04-26T15:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

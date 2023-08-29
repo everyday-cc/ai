@@ -26,50 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modular secures $100M to build tools to optimize and create AI models"
-    excerpt: "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ..."
-    publishedDateTime: 2023-08-24T15:45:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/"
-    ampWebUrl: "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
-    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
-    publishedDateTime: 2023-08-24T15:09:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-modular-raises-100-mln-general-catalyst-led-funding-2023-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
-        width: 5500
-        height: 3668
-        isCached: true
-  - title: "Modular looks to boost AI mojo with $100M funding raise"
-    excerpt: "AI deployment across different types of hardware is complex. Modular aims to help solve that problem in a big way."
-    publishedDateTime: 2023-08-24T15:45:00Z
-    webUrl: "https://venturebeat.com/ai/modular-looks-to-boost-ai-mojo-with-100m-funding-raise/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/image1-11.png?w=1200&strip=all"
-        width: 1199
-        height: 1262
-        isCached: true
   - title: "AI startup Modular raises $100 million in General Catalyst-led funding"
     excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
     publishedDateTime: 2023-08-25T02:10:00Z
@@ -86,15 +42,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding"
-    excerpt: "AI Startup Modular Raises $100 Million in General Catalyst-Led Funding (Reuters) - AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing ..."
-    publishedDateTime: 2023-08-24T16:19:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-24/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
     excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
     publishedDateTime: 2023-08-24T19:45:00Z
@@ -104,19 +51,35 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Modular nabs $100M for its AI programming language and inference engine"
-    excerpt: "Developers usually write AI models in the Python programming language. It has a relatively simple, concise syntax that allows a neural network to be implemented with less effort than in other languages. But that simplicity comes at the cost of performance: Programs written in Python can be slow."
-    publishedDateTime: 2023-08-24T21:21:00Z
-    webUrl: "https://siliconangle.com/2023/08/24/modular-nabs-100m-ai-programming-language-inference-engine/"
+  - title: "Onto Innovation Announces Over $100 Million in Orders for Systems Supporting Advanced Packaging for AI"
+    excerpt: "The orders are from leading logic and memory manufacturers for heterogeneous integrated (HI) packages that combine a graphics processor (GPU) and numerous high bandwidth memory (HBM) devices to create an AI GPU in a single package. The Company expects ..."
+    publishedDateTime: 2023-08-28T21:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b34079153/onto-innovation-announces-over-100-million-in-orders-for-systems-supporting-advanced-packaging-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34079153"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34079153"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
+    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
+    publishedDateTime: 2023-08-27T00:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/code.png"
-        width: 718
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "ZRMr7FYQHRyiAH4cp5zQkKR6ayktfUm5K1bVZw/Ug/2UhueWvGAMT6kqsJ0+PJXnyqj/hxcgqv60XDzyJE37c0iXQfzKHMlfg4J/+QqiBtZOoaaXGv9ZWaqpH5z4nyLMUDSS/Nj9ulGkXCxV1rueE40LzV0JXzJVKtplTK7jz/RcGrxlSR1OCOFXDwfmTzuf4JbZLQUXfCGfdtySgtSCQC+wWDREZig8HMkeIjTujkDEVcMfYsrfk0FgnN5J4J78Tq75cWiLCY+OTgC9tiK5pEImZ878idxY5Nd0aJWRQiDmjylWQJZcYdidgOMGIIwU73fjpMnYp+NdDRTVpk7D4pgYJGT+MT9D5ExHmMItCWs=;+KduDtnBJEhoxLj9Qs+Vcw=="

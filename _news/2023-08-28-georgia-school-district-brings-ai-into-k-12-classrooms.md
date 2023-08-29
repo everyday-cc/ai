@@ -34,15 +34,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Back to school with AI: How parents and educators can ensure its ethical use in the classroom"
-    excerpt: "It's important to continue the conversation around ethics in tech, Narayan said, not only for how people use the technology, but also in how the AI itself is developed. \"Ethics are not necessarily ..."
-    publishedDateTime: 2023-08-24T15:56:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/back-school-ai-how-parents-educators-ensure-ethical-use-classroom"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 53
 
 secured: "KbfOQj2iI48rEfvlOj9b4JNrU+Zd1sHviLb98hXV65bdjLP+vt73XvoLElu6ImZjowknoJEERfoDW7ia7DUtQMwr9LgqhYtjKnyjXizesSeQHOI0V1l3Pw9zI4m7Itdx3OHZU98KDJOLFJSU3OXQmIjMPkrTIA6+rfINo3y0HmJvF7+A0PpALr8HdPDFX4vvRxGMnqcfCFZM+cNKZ+AYgrmmYYxT6Ds4RTYxbylaWKlf1N6SmheDA7rCHd+Wud7CMV/um04UAOnlD8S+Fdb+S8At2Lw53pBQwcEfRiJlBWBYBBz6tnBXs0FGe1SyvcbTLv6Smuhxdo6bz43grXDZEPNEpz0QREuaBShg6tFYwFS7154GXsyZqQfmuNsTa03GDAYh5a9TDWI329zxSwuO+PiXBl77dZJg+IJCrty+b/yIBKVO84l3qb2kwl3MoYY+++xl6WHeIYc3wiZ83Jovf6ueyZenIIHWx45vTPmgsm9Urk4p7HHc7pTil8YftIr5rtp+KypihBlkbW4ESATIJA==;TGVSa5cFaVof5PNfBWyZLA=="
 ---

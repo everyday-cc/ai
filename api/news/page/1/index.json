@@ -53,7 +53,7 @@
       "originalUrl": "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -95,7 +95,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -388,7 +388,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -639,7 +639,7 @@
       "originalUrl": "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -690,7 +690,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -889,7 +889,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1017,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1048,48 +1048,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-back-2-school-artificial-intelligence-in-the-classroom.md",
-      "title": "Back 2 School: Artificial intelligence in the classroom",
-      "excerpt": "BUFFALO, N.Y. — When students to back to school, an innovative companion will be by their side: artificial intelligence. Ready or not- the AI revolution is here, and it is crucial that teachers and parents know about it. Chat GPT is a popular AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "originalUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wgrz.com/assets/WGRZ/images/4524abf6-93e0-42a4-a7ef-b3f3f28ed061/4524abf6-93e0-42a4-a7ef-b3f3f28ed061_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "publishedDateTime": "2023-08-28T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGRZ",
-        "domain": "wgrz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1176,6 +1134,60 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
+      "title": "The 34 most promising AI startups of 2023, according to top VCs",
+      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
       ]
     }
   ],

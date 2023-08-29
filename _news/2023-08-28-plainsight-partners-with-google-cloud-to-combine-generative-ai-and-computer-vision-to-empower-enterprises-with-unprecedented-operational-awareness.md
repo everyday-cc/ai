@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
-    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
-    publishedDateTime: 2023-08-24T15:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "AI, advanced analytics, Medicaid fraud take center stage at National Conference for Healthcare Payers"
     excerpt: "Utilizing advanced data analytics and Artificial Intelligence (AI), Sandata Fraud Alert ... the District of Columbia Department of Health Care Finance Division of Program Integrity showcased its strategic collaboration with Sandata Technologies, the ..."
     publishedDateTime: 2023-08-24T22:15:00Z

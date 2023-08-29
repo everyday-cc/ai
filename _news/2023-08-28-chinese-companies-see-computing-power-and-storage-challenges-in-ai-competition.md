@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Comment: How contracts and AI can help companies tackle climate change in their supply chains"
-    excerpt: "Governments globally continue to introduce new regulations in an effort to motivate companies to decarbonise their supply chains. In 2019 the UK became the first G7 economy to pass legislation in support of reaching net zero emissions by 2050,"
-    publishedDateTime: 2023-08-24T15:03:00Z
-    webUrl: "https://www.reuters.com/sustainability/sustainable-finance-reporting/comment-how-contracts-ai-can-help-companies-tackle-climate-change-their-supply-2023-08-24/"
+  - title: "Chinese students risk losing degrees if caught using artificial intelligence to write papers"
+    excerpt: "Draft laws being considered by the country’s top legislative body address the use of the technology for the first time."
+    publishedDateTime: 2023-08-28T13:52:00Z
+    webUrl: "https://www.scmp.com/news/china/science/article/3232605/chinese-students-risk-losing-degrees-if-caught-using-artificial-intelligence-write-papers"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 56
-    images:
-      - url: "https://www.reuters.com/resizer/L4XGfkZ-e6rRnFKVCCoH352nSVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X4O3DQRRUBPLVJSK5N3YHVQBQQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: scmp.com
+      domain: scmp.com
+    quality: 38
 
 secured: "M+C1vUgA90r0SI+28fmsg9D2rIcNBxAJf/ytVQtm+5++Gk9GiGKgAjSApCBYN+zz0ARiuupref/1GrC9aDBtM9pqqjrzfbCQP0r5IY+Tau4wH7pBIBWV4NzBUDGJapVxirR5yA0zHzekzgYC0LcJqef0F7aTjHt1vWacySeGaywHNJd89SO71shx581aSlIvdM82YlvcUFMygbj58Lc2NyEBfYAonGhQt37a6bVM+OhKqHfiQOr0Jik5o62iNNLBzi67GccA5nz2izER9d6i0Vza+fBkWbbyt8fY1Zlw7qozd99cAxzdu1vYo229n3Q0/430QMnsSAd7oyQ4aHY7RqFgxkgWfTiX4CWZmABkork/NeeBO16pdUL4iSO424uLlVAW4fe2F5rro8rvrDUzzoUShGywsb9H5ddWdhM2LB+btAllziFfNDoEV0916kvsuIXhRyPD5N6irDc/39YUk/1dqDk6fZ/5FDdj3996jcqOpWuTsjoTvYU8DIgTjIu9xxIsePqypEsJlKdqJoi7FA==;rdx6QJEyV1qbs4ZcTdY5Jw=="
 ---

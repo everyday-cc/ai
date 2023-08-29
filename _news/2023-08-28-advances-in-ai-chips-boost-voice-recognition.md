@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "V9DTbHM4cUiRvL4nABIJeSa0HP7426Xep8V/Y3mIzBx19jocOCmAQpk5vAJudOClZjryGbxEgfKv8qfXM2E2O/xkqP/pP4QgMWOiv+DfVySqmzGZmHhckr8tOcvIUFPEy2xbGaVqk8ryklnJbJmsHswV86Q9FUtvgHhBsieksOW1/H0MoEr12iVMvJ2rKhBl2U6L+TJxMyCgW4FrO9bYnpyi4D6CRdkAvEmEYVYMcrLdk2aFAt1HQ0P0hs9GLA6H/m0NsBIPl6o9h9xnsbXisP6j5Tb0He6vkC1uVGRHl7oVTHei6Wq7oURQG89dwB8AZuo2SLedhyuqrhAzPjVtARUCcXCh/73OtE89AcqINkrdcSe6UqJI0aFx+ph6PPT4LAZ/eLmrq0vax52HJzSJo4PZNRc2Zijv/s2PKjM9+gDAoXcezuyIWe9fYNgZo2J7lsN9172GBGLqMqR8NxRt6kox+MHoIjm615Eim8kzuoshAi4Xjw6xZKWfb77P3fcZG3yUse7A0tbZW/QCxTxE1w==;PZcJKh/rYMtTkuoVxRUY9g=="
 ---

@@ -44,15 +44,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "IBM's New Analogue Chip Boosts AI Energy Efficiency"
-    excerpt: "A new breakthrough in tech may have just solved artificial intelligence’s energy problems. AI requires a massive and growing amount of"
-    publishedDateTime: 2023-08-24T16:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibms-new-analogue-chip-boosts-ai-energy-efficiency-1032581350"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Teachers turn to AI to make workload more manageable, chart lesson plans"
     excerpt: "Droves of teachers are turning to artificial intelligence, saying the technology keeps their workload manageable, especially as they chart the course for a new school year."
     publishedDateTime: 2023-08-27T12:20:00Z

@@ -3,10 +3,10 @@ category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
 excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
 publishedDateTime: 2023-08-22T04:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "ZIAULhUt/qh+UUcfUspeItNnMFirdq2DDZRjsY+R4ZU0P/Unbk3ya+zn/EqHu8/cVgHGxrCffQd3BL4Z243ljYMBE5WeOMy+8gumkmdcQU3nPT2VM8+0G4XPKBNFLFwOA591A3aGcsTBIDHBn+w9dTgVzBnufoEfJOhLPuFXBQwVi2tjiX4uuJIPchOL41YiOSAn16Ybvfx9uraw4QLjfOQvt/o+eVHgDnKwL95X011RxDnA7fg32HKwFSz5PVi+YVFUqACPEtDh3Eag/o7DTXB0UlINOsiu74ht3AZxHk14YNnvnEGVnYisluWxLgBrrl+LPPG+0iv6rKpzXAJdZJ2aGj5Fqe+fXp+ZPqbcBcg=;wU8CnwZ2KnCikG+nTPzrvA=="
+secured: "KPzTcFP3UgU+yLp8s5ePGTohzPODFVwNibzOSsFqWBBCWV6bOvCQ9r9s/QrIaucqp4+3n8XI1hqkPAqc90w5NLYlvyXh/ewS8NhwWVFc8ooMS0c8vW2ixSZi/mA7qOu+1WYLx2maCL8q7k+lUIN1nsb4C0zP+KIjpiDt8V925Dp+kFpw+kPg6E3qu44+6jp46+YUJyJjYeSA2aCVy1D9kZlWg9O+L6/ODPWqLtI5Cq5XmgrH77lQURqOurZ/76gU00D0C85gegsxRHWPFXhbJUYryGxzgAW1fyE5Zu0gkfvQJd5A6cCgF3+RIsNAtxH1g50Z9hKR1KH5/blzhLrUeT5tY3L3YL+t4XWe92MDoZU=;af0Xay/NriDgO9xxQy+bmw=="
 ---
 

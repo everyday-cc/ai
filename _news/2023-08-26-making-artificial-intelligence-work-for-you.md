@@ -40,20 +40,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Use AI for Barbie-Style Marketing Magic"
-    excerpt: "There are numerous powerful generative AI text-to-image systems. Some of the more popular ones include DALLE, Adobe FireFly, Midjourney, Canva and Stable Diffusion. They can create realistic photos and images, illustrations, cartoons, logos and text effects. Some of these systems even allow for editing. All this is done using prompts."
-    publishedDateTime: 2023-08-24T17:05:00Z
-    webUrl: "https://www.inc.com/tom-taulli/use-ai-for-barbie-style-marketing-magic.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546218422_533366_oq6rpt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pentagon to use artificial intelligence for airspace monitoring near Washington"
     excerpt: "Following what it describes as a successful 18-month prototype demonstration, the Pentagon now plans to field an airspace monitoring system developed by Teleidoscope that uses artificial intelligence to deliver upgraded visual recognition,"
     publishedDateTime: 2023-08-28T21:06:00Z

@@ -30,63 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Revolution Will Be Powered By Energy"
-    excerpt: "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,"
-    publishedDateTime: 2023-08-24T16:25:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
+  - title: "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact"
+    excerpt: "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons."
+    publishedDateTime: 2023-08-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626161fe4b1eadb6e1e58f6e/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "AI's multi-view wave is coming, and it will be powerful"
-    excerpt: "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\"."
-    publishedDateTime: 2023-08-25T14:39:00Z
-    webUrl: "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-26T18:20:00Z
+    webUrl: "https://gizmodo.com/here-are-the-top-ai-stories-you-missed-this-week-1850763767"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nobody can deny that there has recently been an AI revolution."
-    excerpt: "Peter Singer, an Australian moral philosopher and professor at Princeton, took a utilitarian stance and argued for the recognition of moral standing in most non-human animals on the grounds that they have interests in avoiding pain and experiencing pleasure. Of course, Singer’s arguments didn’t address contemporary Ais."
-    publishedDateTime: 2023-08-26T00:30:00Z
-    webUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/cats-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
 
 secured: "Q8lKIK3LQua+DR6Y293mjza7wuiCJu+4vDIwDdrKDPOfUf+JY8LmPbMRFMP6etW909rODais9q6RKFXZ7/XYdHc3G5n4CUSqxHsQADQYf9FBuP2q5wL/azRjF8QkglS11gxXXmAr7NN1Z6AwAtwB4bZoGToLxh3wrHQAfaZMdQ5uDKRbTSGon7aRdZcA7+12cQ0nz5mLtRZr5WmQxLcfifT4mhjLjOgngEltGTyV6WqTvNy4Ac1aHmfQol0QiALblxJ4aAJ/SeenEZgt0IrsPfQywWAGXLvU4M3JBdmtQuh2GS2G2qvFrK8/atmnEedgooqrEOsoqfbhvanK1hf5WpbIovR2IPP9TksA0f9DXHMhMUJXoqCZTdVZgysKG6mwvOD41TaqOVD+WXplw/4avTiSBBx/XMfWZVrP5TJsHiwOFzASc0myEz/Bnbx4rtnd+KWKaEZO1T796GQn5hbAKA5m7ccXEbUbkIt4XHOVjwky3+cjjhlqGsZycA0DUq8FFxLrtA81Pn+RsmsLDIYPXA==;ZgotJOUrDGD3ara7VpwoPQ=="
 ---

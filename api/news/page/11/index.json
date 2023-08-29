@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-08-18-fantasy-football-meets-artificial-intelligence-as-gridiron-ais-technology-helps-fans-quarterback-their-team.md",
+      "title": "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team",
+      "excerpt": "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team",
+      "originalUrl": "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1200/675/AP21301594731187.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fantasy-football-meets-artificial-intelligence-gridiron-ais-technology-helps-fans-quarterback-team.amp",
+      "publishedDateTime": "2023-08-18T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-where-ai-comes-in-handy-and-where-it-doesnt.md",
+      "title": "Where AI Comes In Handy (And Where It Doesn’t)",
+      "excerpt": "We are still in the early days of the AI revolution. Many organizations are still playing around with this technology and figuring out how to work it into their operations. Teams are starting to determine what today’s large language models (LLMs) do well and where they come up short.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
+      "publishedDateTime": "2023-08-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients.md",
       "title": "McKinsey launches a generative AI chatbot to bring its knowledge to clients",
       "excerpt": "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information.",
@@ -1102,101 +1205,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-unlock-true-kubernetes-cost-savings-without-losing-precious-sleep-over-performance-risks.md",
-      "title": "Unlock true Kubernetes cost savings without losing precious sleep over performance risks",
-      "excerpt": "IBM Turbonomic optimizes your Kubernetes environment through container rightsizing, pod suspension and provisioning, pod moves and cluster scaling actions.\nThe post Unlock true Kubernetes cost savings without losing precious sleep over performance risks appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-cost-savings/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-cost-savings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T11:46:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-the-scientist-behind-ibm-watson-has-raised-60-million-for-his-ai-startup-in-new-york.md",
-      "title": "The scientist behind IBM Watson has raised $60 million for his AI startup in New York",
-      "excerpt": "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945",
-          "width": 2766,
-          "height": 1844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "publishedDateTime": "2023-08-17T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

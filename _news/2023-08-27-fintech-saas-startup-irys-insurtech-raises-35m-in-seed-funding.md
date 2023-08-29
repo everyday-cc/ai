@@ -25,19 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "Insurtechs launch Ethical AI in Insurance Consortium"
-    excerpt: "The founding members include three insurtechs that are focused on developing standards related to the use of AI within the insurance industry."
-    publishedDateTime: 2023-08-25T10:30:00Z
-    webUrl: "https://www.dig-in.com/news/insurtechs-launch-ethical-ai-in-insurance-consortium"
+  - title: "AI startup Modular raises $100 million in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-25T02:10:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 54
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/e3f9688/2147483647/strip/true/crop/8064x4234+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F75%2F54%2Fd8c617724d0eb8bfff7b86cb5fd8%2Fadobestock-593398149.jpeg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103038882,imgsize-22970,width-1200,height=765,overlay-ettelecom/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.jpg"
         width: 1200
-        height: 630
+        height: 765
+        isCached: true
+  - title: "AI Startup Modular Secures $100 mn in VC Funding to Revolutionize AI Development"
+    excerpt: "Modular, a forward-thinking AI startup, has successfully raised $100 million in a recent funding round, spearheaded by prominent venture capital firm General Catalyst. Existing investors, including Google Ventures, SV Angel, Greylock, and Factory ..."
+    publishedDateTime: 2023-08-25T04:02:00Z
+    webUrl: "https://infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203"
+    ampWebUrl: "https://infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-modular-secures-100-mn-in-vc-funding-to-revolutionize-ai-development-80203?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 52
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2022/04/VC-funding-for-tech.jpg"
+        width: 640
+        height: 409
+        isCached: true
+  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
+    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
+    publishedDateTime: 2023-08-24T19:45:00Z
+    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Onto Innovation Announces Over $100 Million in Orders for Systems Supporting Advanced Packaging for AI"
+    excerpt: "The orders are from leading logic and memory manufacturers for heterogeneous integrated (HI) packages that combine a graphics processor (GPU) and numerous high bandwidth memory (HBM) devices to create an AI GPU in a single package. The Company expects ..."
+    publishedDateTime: 2023-08-28T21:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b34079153/onto-innovation-announces-over-100-million-in-orders-for-systems-supporting-advanced-packaging-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34079153"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34079153"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "I1m1vmTSblAd33LFkDnMiALEyUX42MzQyAw1HqzqH9Namt4HW1v781uS3MDIzkE1VgQZzRbO9y/+Q9x4oxMKC49GubE5hdDGsSmXEPfTMk9Pbnb4PWz0fT6B1vaQdbI8QEQFjObAIgzl4opbew/ysOWgRWPTaZW2uzO/7RPwniN1IXco3e+lSL8XkscyAC5QNZX6TTkWU2BhrJWu2zhV02wmSvLpJueHa0xQeOXYVdTXyURk+/AD/+lAVOCvQXmmQoztxMOeL9kSUJS1IYZ+G+QXQYB8KWanMDyYDm+E6wwOSwpeeJgN9t6hxClc5rEOBkLnu4Poaa0UpgmU80KuQFCO3XtgQPDI2YvPaqZ8v44=;rLyjVIXhs5k4XxL+yzPBtQ=="

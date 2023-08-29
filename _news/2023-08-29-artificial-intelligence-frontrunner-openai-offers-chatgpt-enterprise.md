@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intellig
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
 type: article
 quality: 72
-heat: 82
+heat: 84
 published: true
 
 provider:

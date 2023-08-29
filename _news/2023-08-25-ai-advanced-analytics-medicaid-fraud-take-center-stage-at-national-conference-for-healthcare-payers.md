@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "HCLTech Collaborates with AWS to Accelerate Generative AI Adoption"
-    excerpt: "NEW YORK and NOIDA, India, Aug. 24, 2023 — HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally."
-    publishedDateTime: 2023-08-24T15:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/hcltech-collaborates-with-aws-to-accelerate-generative-ai-adoption/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
     excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
     publishedDateTime: 2023-08-28T14:06:00Z

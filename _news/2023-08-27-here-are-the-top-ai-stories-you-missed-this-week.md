@@ -39,19 +39,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How contractors can make sure they say what they mean when using artificial intelligence to write proposals"
-    excerpt: "It takes a lot of thought to buy artificial intelligence. Contractors trying to sell the stuff, need to put some careful thinking into their proposals and not rush through them."
-    publishedDateTime: 2023-08-24T15:31:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/08/how-contractors-can-make-sure-they-say-what-they-mean-when-using-artificial-intelligence-to-write-proposals/"
+  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
+    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
+    publishedDateTime: 2023-08-25T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
+    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982-e1683568374410.jpg"
-        width: 1841
-        height: 1241
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
+        width: 1200
+        height: 562
         isCached: true
 
 secured: "FX5LfazpxMu6u4cyJE5Y08z7tBc0PHKzLVy98hwkd15goqyQA761gdVvWPC2Byv6lZiQOBLJK5glkNO5zuBiFigQEfYiCmqs1+UduEKt+056V02oyklLGy+XT1PgqkcOEmfCKtlA9IM78RvBO/dHRj5eh9yN5jpTs6R3vlFXFp4BGJ3FUIVAHguutapVxWtavXWj5El1exVXyw1EUTfV7EcOfPIJpaY8aIaPKV6DqXg7geVSmyupTXINf5E1gtOMr7dCb4dVSedTfF095ICepetU8qVADtkBuPabLJ2rYTaWQ0kDJuqvul/QIMMlk9YbwopcnBXVprObb69rFBetLVSG/seodcvN7zg8pvf8Auo=;f+NKCaJk5JBuGtj2Gsb/xA=="

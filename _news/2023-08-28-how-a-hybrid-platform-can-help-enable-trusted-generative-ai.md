@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to use AI to improve your life"
+    excerpt: "Artificial intelligence (AI) is not a new phenomenon – but it is often misunderstood, and we need to remove a lot of the myths and biases that surround the technology. This is the word from Lee-Anne James,"
+    publishedDateTime: 2023-08-29T08:28:00Z
+    webUrl: "https://it-online.co.za/2023/08/29/how-to-use-ai-to-improve-your-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/lee-anne-james.jpg"
+        width: 1075
+        height: 614
+        isCached: true
   - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
     excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
     publishedDateTime: 2023-08-28T20:29:00Z

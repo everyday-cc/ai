@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT Incorrect in 1/3 of Cases When Recommending Guidelines-Based Cancer Treatments"
-    excerpt: "With ChatGPT now at patients’ fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network guidelines."
-    publishedDateTime: 2023-08-24T15:29:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 16
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378135/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135-640x360.jpg?cb=20230824"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
     excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
     publishedDateTime: 2023-08-26T18:27:00Z

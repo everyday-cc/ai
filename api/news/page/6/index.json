@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-23-the-evolving-role-of-cios-and-ctos-in-the-ai-economy.md",
+      "title": "The Evolving Role Of CIOs And CTOs In The AI Economy",
+      "excerpt": "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f11b1322a16ba0007e2bb80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/the-evolving-role-of-cios-and-ctos-in-the-ai-economy/amp/",
+      "publishedDateTime": "2023-08-23T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-does-artificial-intelligence-threaten-programmers.md",
+      "title": "Does Artificial Intelligence Threaten Programmers?",
+      "excerpt": "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "publishedDateTime": "2023-08-23T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
       "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
       "excerpt": "Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday. \"When asked what regulations need to be in place,\" she said, \"I say the number one thing that would safeguard us from unsafe uses of AI is curbing the power ...",
@@ -1095,109 +1198,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-chip-designer-arm-looks-to-ride-the-ai-boom-with-the-biggest-us-ipo-since-2021.md",
-      "title": "Chip designer Arm looks to ride the AI boom with the biggest US IPO since 2021",
-      "excerpt": "Arm's planned IPO, which hopes to raise up to $10 billion, is set to be the largest US listing since Rivian fetched over $12 billion in October 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e4811fbd98a600197ba266?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow.md",
-      "title": "Meet Relume, the bootstrapped AI web builder that wants to supercharge Figma and Webflow",
-      "excerpt": "Relume has amassed some 54,000 users to date, 10,000 of whom signed up following the AI feature launch two weeks ago. The platform, which is the brainchild of a small team of seven who hail from the likes of design giant Canva and early-stage startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-22-at-4.10.33-PM.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
-      "publishedDateTime": "2023-08-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

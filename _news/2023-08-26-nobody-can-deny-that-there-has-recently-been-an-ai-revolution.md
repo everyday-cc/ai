@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-syste
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,65 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The AI Revolution Will Be Powered By Energy"
-    excerpt: "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,"
-    publishedDateTime: 2023-08-24T16:25:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI's multi-view wave is coming, and it will be powerful"
-    excerpt: "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\"."
-    publishedDateTime: 2023-08-25T14:39:00Z
-    webUrl: "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
-    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
-    publishedDateTime: 2023-08-25T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
-    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
 
 secured: "7EKzVacWKithSrcybRH4XcMUTUATzYsGiZ7Ba/TE4NH9g3FLSdbeh4mixCfHoJlqF1y8NXXSnR1s0uxU5XAancuD2qB/vnntmhYpRk99TR5niv1YYAz5VqS/jAX5rm2FAKdCzxzSzJ2jKmdHFCr4P83bqPTR9VlJTV4Hq/7RFBdtScsR3s4HAOUPJRCtL7781uqxyB3yvZYjhKmjuKDwOooQ8jyemT8ejSpKMCgCa6gIWTu6fw6tAv3PZFLteYmYaT+veFRJb8j8DNc6bzrd08pKoxIM07sA53xA5nd+Xc/hIg6fccqTVDBkgqEPZXS801VG+YO9+VBI/xqTwhmgBwTLz4E5DWEVW5lb12stldw=;gsNQ/eA9Y0q3XLlf6W714Q=="
 ---

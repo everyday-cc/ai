@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wgrz.com/amp/article/entertainment/television/programs/d
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WGRZ
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Back to school with AI: How parents and educators can ensure its ethical use in the classroom"
-    excerpt: "It's important to continue the conversation around ethics in tech, Narayan said, not only for how people use the technology, but also in how the AI itself is developed. \"Ethics are not necessarily ..."
-    publishedDateTime: 2023-08-24T15:56:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/back-school-ai-how-parents-educators-ensure-ethical-use-classroom"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 53
   - title: "Georgia school district brings AI into K-12 classrooms"
     excerpt: "A school district in Gwinnett County, Georgia, is pioneering an AI-driven curriculum, integrating artificial intelligence into all subjects from social studies to art. CBS News' Christina Ruffini looks at how teachers and students are embracing the technology in the classroom – and how teachers are addressing skepticism."
     publishedDateTime: 2023-08-28T12:46:00Z

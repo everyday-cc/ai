@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UP Fintech reports two-year high 2023 Q2 results"
+    excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
+    publishedDateTime: 2023-08-29T08:10:00Z
+    webUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-2023-q2-results"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 24
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1767.jpg?h=7de12b8a&itok=XobXNegz"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "fkJgGml5Btm4vnwLayKuk+orTCcZCi1UGE7HSn92CB5ttQWKS7+tlgRwBQwjh+5XEJHgcPpGyqBz6XKe05hFFapRWXDqjTmgs6t96uVcgCws22bh41ja7El1XmVW96QUNCeVYdcPVMMOir0onGTcSyzgNYahjfQVEKvhqh9OnrYGZcT5G56dL+RAXxmdbTMNCxwxIQ8/mlZ75mAkMvXpV7PshnDtd6UF1LbN3DXlThTPcbhprDlmA4lVrYSpZjb5CsSZULTQFrQGJ+0ZYQnjOWrZjLeiE0hObsRqNi1eXo8XlimwdO8GSHum5cQMPBL7wIn7c28HUPUBqc3KdFw4GWpY2O+63ihMQaCRv08fCPs=;c23/d2G0A1wT39q0gkMQVw=="
 ---

@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
+    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
+    publishedDateTime: 2023-08-25T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
+    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "Here Are the Top AI Stories You Missed This Week"
     excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
     publishedDateTime: 2023-08-26T18:20:00Z
@@ -39,20 +55,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 49
-  - title: "How contractors can make sure they say what they mean when using artificial intelligence to write proposals"
-    excerpt: "It takes a lot of thought to buy artificial intelligence. Contractors trying to sell the stuff, need to put some careful thinking into their proposals and not rush through them."
-    publishedDateTime: 2023-08-24T15:31:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/08/how-contractors-can-make-sure-they-say-what-they-mean-when-using-artificial-intelligence-to-write-proposals/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 21
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982-e1683568374410.jpg"
-        width: 1841
-        height: 1241
-        isCached: true
 
 secured: "0kgE34Wpc5Zsrm9OpAJdkkCJeRK7bzQT9azwPHs3xsd13HNM7tjGas5v5NWK1Dlig4QoRnHauMEs+DO0u8MkQAMn4AZpNqzL4wGkfhob7YLFyVmTh/y60KQUyrWQplbr+dk4uY1GD/SuMwsWtOV7KqygiSTLYqiU53SVSTuWnr7OYCu+sXVtLycGOdu3abM60LK/u7r9+NoZC7tXgdLfJJ2dSWhzdTuDHWVu++HqGZAlh14kR7pqXz/4AV8IsZ6lMVOqGC+wRs8ji7QJsm6EEuD2DVxMiKIDs0QbSBB7bwSDQnQzvZNlBAvzXRDt81IkUYLHqY08ES5F+hPMQ8SkxlHFQub+RGty6IP9BQf2acg=;TruSe1EtCEbO6/f7cn55ow=="
 ---

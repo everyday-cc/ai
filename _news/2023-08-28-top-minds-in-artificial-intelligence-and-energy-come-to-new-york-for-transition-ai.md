@@ -18,69 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "The AI Revolution Will Be Powered By Energy"
-    excerpt: "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,"
-    publishedDateTime: 2023-08-24T16:25:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/"
+  - title: "Advances in AI, chips boost voice recognition"
+    excerpt: "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss."
+    publishedDateTime: 2023-08-28T13:41:00Z
+    webUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
+        width: 2667
+        height: 4000
         isCached: true
-  - title: "AI's multi-view wave is coming, and it will be powerful"
-    excerpt: "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\"."
-    publishedDateTime: 2023-08-25T14:39:00Z
-    webUrl: "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/"
+  - title: "AI's big winner in the chips"
+    excerpt: "After the early buzz about artificial intelligence centered on ChatGPT and similar chatbots that could quickly generate stories, art and songs upon request, the biggest winner in the technological shi"
+    publishedDateTime: 2023-08-29T07:09:00Z
+    webUrl: "https://richmond.com/ais-big-winner-in-the-chips/article_580c673d-07f5-5bfd-83aa-59964f942fb4.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Richmond
+      domain: richmond.com
+    quality: 54
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
-    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
-    publishedDateTime: 2023-08-25T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
-    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "Nobody can deny that there has recently been an AI revolution."
-    excerpt: "Peter Singer, an Australian moral philosopher and professor at Princeton, took a utilitarian stance and argued for the recognition of moral standing in most non-human animals on the grounds that they have interests in avoiding pain and experiencing pleasure. Of course, Singer’s arguments didn’t address contemporary Ais."
-    publishedDateTime: 2023-08-26T00:30:00Z
-    webUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/cats-4.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "QFCsdrmBQMo0TrdRSySNDA3I9SRhCpMUQEjFTf6C+JKBN18BWNJcSCi7nOh3ZJsPlQ9u3VsYlnjE5m5OiPqh+N0Q8bwuWL77O+sjAA/O5snarmp6sLbRbvuB0rF0d8an1X6WhlvKj8XsrwnX+wXH15f6v7D/h3N4628mrn5BtmMJlBZiJizJDmQspe8gbYXbqNlYSqI2ciDFhLiyi9x1osCb3inS0qGK0neGZgvqPh/xmjY2N2x64jcH0bo51qpZCWYogAsn6IhjhacwHRG3P8cQRbJg5jnpkR1JUgNeaAAYrZqUEa9KmdM1CvyaWcqwZGlVedovqKXk3HwNcIhQadEchA3UUKrFzYjjNkXp1iNcIwv4oJHCXRlmIP2V52moHE3F2pFp+k/9iF47Sc1zkphVVYiJrnVGKSOmr216gIHYkBZmYmKZGax0lIX/oyv663yHn7RomDVSA1w10y3Vcd2sHKM9eSBpQh7h3Tmo+2WGa6ksv3Z6hsGaamxFg8gJZ2FKMgUrlgkxgwdFSbyAWQ==;U8QL8zNSeMzgKXiGzVkoFg=="

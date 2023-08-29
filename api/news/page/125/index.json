@@ -2,6 +2,75 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
+      "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
+      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years.md",
+      "title": "1 AI ETF Poised to Outperform the Market Over the Next 5 Years",
+      "excerpt": "Many sector-tracking ETFs tie their stock choices to a market index. The Global X Robotics & Artificial Intelligence ETF is no exception, aiming to match the performance of the Indxx Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years",
+      "originalUrl": "https://www.nasdaq.com/articles/1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-landing-ai-releases-sdk-to-accelerate-computer-vision-development.md",
       "title": "Landing AI Releases SDK to Accelerate Computer Vision Development",
       "excerpt": "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete",
@@ -1046,102 +1115,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-tsa-expands-controversial-facial-recognition-program.md",
-      "title": "TSA expands controversial facial recognition program",
-      "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/tsa-facial-recognition-program-airports-expands/",
-      "originalUrl": "https://www.cbsnews.com/news/tsa-facial-recognition-program-airports-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/05/3affcfd9-5415-4c0a-ad36-c70430eb2c34/thumbnail/1200x630/c0e2aa04e10814ca6a8433e8cf5505e3/facial.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/",
-      "publishedDateTime": "2023-06-05T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "Microsoft has come out with a new integration that will allow Snowflake and AWS S3 users to bring their data to its Azure Machine Learning (ML) service for AI model training and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-05T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

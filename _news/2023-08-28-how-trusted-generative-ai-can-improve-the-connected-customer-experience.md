@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-trusted-generative-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to use AI to improve your life"
+    excerpt: "Artificial intelligence (AI) is not a new phenomenon – but it is often misunderstood, and we need to remove a lot of the myths and biases that surround the technology. This is the word from Lee-Anne James,"
+    publishedDateTime: 2023-08-29T08:28:00Z
+    webUrl: "https://it-online.co.za/2023/08/29/how-to-use-ai-to-improve-your-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/lee-anne-james.jpg"
+        width: 1075
+        height: 614
+        isCached: true
   - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
     excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
     publishedDateTime: 2023-08-28T16:10:00Z

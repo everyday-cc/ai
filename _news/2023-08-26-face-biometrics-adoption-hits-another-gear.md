@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202308/face-biometrics-adoption-hi
 webUrl: "https://www.biometricupdate.com/202308/face-biometrics-adoption-hits-another-gear"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ROC.ai hires senior researcher to meet growing biometrics demand"
-    excerpt: "Rank One Computing (ROC.ai) has announced the addition of senior scientist Garrick Brazil to its Research and Development team."
-    publishedDateTime: 2023-08-24T15:18:00Z
-    webUrl: "https://www.biometricupdate.com/202308/roc-ai-hires-senior-researcher-to-meet-growing-biometrics-demand"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Future of Global Voice Biometrics Market: Opportunities and Challenges"
     excerpt: "The Global Voice Biometrics Market is all set to achieve a Compounded Annual Growth Rate (CAGR) of approximately 23.48 during the period 2023-2028, a"
     publishedDateTime: 2023-08-25T21:47:00Z

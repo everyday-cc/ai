@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cipia uses computer vision AI to empower driver-monitoring technology"
-excerpt: "Driver monitoring has become a critical focus of automotive safety systems as distracted driving remains the primary cause of car accidents. Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI."
-publishedDateTime: 2023-08-22T05:48:00Z
-originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
-webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html?chid=10"
+excerpt: "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ..."
+publishedDateTime: 2023-08-22T06:22:00Z
+originalUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
+webUrl: "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "mUfmq5AKJS2NgLo1hImbrwqMzZ+NiwRzPnMuC9PeI9rqFEl4AgGy7BX596j36xw0LKCNgseKFkgvwtX3LRnKeDS9aTOiYiXDCNEAw/djvIre/6nJot3VIMrvl7Z1nNKe5HWfnn0IlJ64HTvSMsmoMFSAxerJJJVa5yMao4K/ENy0OpBP86MgNrc3MGXZAfUf5ynSIJq1xtU8+Vl8x2Wxmu+B/0I1yK6IjB+uiTlmZkBXV6GfFPg0JNUBJH1wmUeTkyFLEXuXdli4JG23cW1t0MSrN7eQgPvmyKidk/oSwJUXBqlWvr9S8X7gt59wW3kIp2mvzHtnrjnNJtHhp8urwEmsipDKxxLGe54WCGQTJOU=;gLKAMSoY7XbHm36vElRnnA=="
+secured: "Qy+Y7FozRQ1f6HblYIKXJq0V1g65P3PTscr0DM6/XdBxyd2gbTI7Fn2H/vvf2H5xHfqfYiyWrzjvp9TL3ySOuMwNeDCuIUg1ntFVhjhkWxvzBK4N/MFJx0qmRrXFVUaP/+xqD5++Ge9Foe3r7V5+19ICNYZlhPMCy43aDU1BUTDzzX88OBUW79jBnAUQwod1FXMDotjvCHGTQ0jeDy3AnqDs+yRAI+ruJ/vBHBvLHbR3wHUxqLoUQWUSq9S000OlcAwChlP+9Wumd5Iv+EmzZoIE8VE6vcrXBmFEY/AAxTJbv9GK7x0HDmurA+qQajHQnNnQxcjneu7K69kJSwDjBMACgePv/ynj2eK+iFByLd0=;Lt+WH74ZJlXFvoscR+wQiQ=="
 ---
 

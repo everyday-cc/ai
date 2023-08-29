@@ -2,6 +2,92 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
+      "title": "AI Industrial Robotics - Denmark",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Humanoid robots take questions at a Geneva news conference",
+      "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-08T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-im-a-gen-zer-who-uses-ai-to-improve-my-work-as-a-content-creator-and-beat-writers-block.md",
       "title": "I'm a Gen Zer who uses AI to improve my work as a content creator and beat writer's block",
       "excerpt": "Morgan Young is a content creator who uses AI to build her brand. She says generative AI helps her brainstorm and create catchy content.",
@@ -1076,91 +1162,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-scientists-build-a-system-that-can-generate-ai-models-for-biology-research.md",
-      "title": "Scientists build a system that can generate AI models for biology research",
-      "excerpt": "Automated machine-learning (AutoML) systems are still in a relatively nascent stage of development, with current usage primarily focused on image and text recognition, but largely unused in subfields of biology, points out first co-author and Jameel Clinic ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/scientists-build-a-sys.jpg",
-          "width": 900,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
-      "publishedDateTime": "2023-07-07T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
-      "title": "What is a knowledge worker and what do they do?",
-      "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T06:55:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-de
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
