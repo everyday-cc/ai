@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
+      "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 691,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "publishedDateTime": "2023-08-28T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-vmware-explore-2023-recap-its-all-about-your-data.md",
+      "title": "VMware Explore 2023 Recap: It’s All About Your Data",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares interesting announcements and his takeaways from VMware Explore 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed19ff84e76c4fc0d8ae1f/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "publishedDateTime": "2023-08-28T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-technology-shares-increase-amid-ai-enthusiasm-tech-roundup.md",
       "title": "Technology Shares Increase Amid AI Enthusiasm -- Tech Roundup",
       "excerpt": "Shares of technology companies climbed amid more buzz around AI technology. OpenAI is launching a business version of its ChatGPT tool, putting",
@@ -303,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -604,7 +709,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -816,7 +921,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -859,7 +964,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -956,7 +1061,7 @@
       "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1090,109 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-bofa-names-its-5-favorite-ai-linked-stocks-giving-one-30-upside.md",
-      "title": "BofA names its 5 favorite AI-linked stocks — giving one 30% upside",
-      "excerpt": "Artificial intelligence is still taking Wall Street by storm, and BofA says it continues \"to see benefits for semis as AI investment ramps.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107286646-1692102538403-gettyimages-1589438908-caustic_01_v07_0004.jpeg?v=1693181476&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai.md",
-      "title": "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI",
-      "excerpt": "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64eba97becb16c5423c6d0b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2023-08-27T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

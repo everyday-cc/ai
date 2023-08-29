@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 865
+        isCached: true
+  - title: "Talking the AI Talk"
+    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
+    publishedDateTime: 2023-08-28T23:40:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
+        width: 1200
+        height: 625
         isCached: true
   - title: "How AI Is Accelerating the Future of Cars"
     excerpt: "The remarkable advancements in Artificial Intelligence (AI) are ushering in a new era of autonomous vehicles that operate without human interference. By"

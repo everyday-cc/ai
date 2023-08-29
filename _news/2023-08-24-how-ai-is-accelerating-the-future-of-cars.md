@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 865
         isCached: true
+  - title: "Talking the AI Talk"
+    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
+    publishedDateTime: 2023-08-28T23:40:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
 
 secured: "W70oFcjtep//LyO6yE+hH2t3K702eheyZwiV9vTZRMZm8VUEBojYQmPFF+zYmfD/gwtiEFcBjr4DdGVSXmQQg0a3m9JxYPUg8wVP7/Iyb4oi3V13thmslAaJFsrvqRf05is2j4dzi1lCaj0qW2/IsSKDPz19TQxmqQ68bdaYJus0CxL+JT3OA1i3hjTAJReVAuFn8QDejE15GiN9bHH5bXoboMH3lFNTgv0dF1kIeYwFZw5fvmjD3Qy/drzxQAmdhwfvgk8+jpMyF1WV2HSeybwheCKEdyDHm+mxRuRkcsuyRq7EI7LPC71Wgdg2OCv/mHZMV0ef+aYwQZIoiNCfG+oLKf9CUxreIEapkj6BQPvXTWCvmxXBIqw6KuHjjQMeyckXPC/ononnS9TT1JzetcdKbWIlPle89h/rC7jTbILmJ1SAADskb5Ay7YnD1tXW1W1sWMxcmiaKStajEk4hN2eXWCuWPlASNVKshdy6650jR2NGb4+59B2enPgNgirYWp+kuZM7msj5/9aXGX4ILA==;IZOkRYRGiDIiiHw7G+TlJQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
 type: article
 quality: 72
-heat: 84
+heat: 82
 published: true
 
 provider:

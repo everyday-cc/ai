@@ -3,10 +3,10 @@ category: news
 title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
 excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
 publishedDateTime: 2023-08-28T12:46:00Z
-originalUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html"
-webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html"
+originalUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
+webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "In reversal because of AI, office jobs are now more at risk"
@@ -30,6 +31,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "X+UCHiyo1n10MM8RG5b1ClzUlQMVKpGbpiY2DOHDL6Tj3zSYIhrWzIEEUidP+hM0eVRc6xgG1aeKQ6y8kjxtcqBdDf3KaxgntmajNMvb2RUUiff7PzRvFLYdOif7uUhidXlw3XQK6PttmCv9sTYgRD3QnMKnrMVew6VUZtiq8tyr/BUeWdZFkzKAokAXX6ZltiKQt5BFeMGYgfvZQc9IRctJIspsLhWeUnIb1vhglafhPLieLslSFpDxaeQ7szY1irMVfjj+RYeDCoi+jxNB9aCkiPVF6EeC091lNiYYC+SEXevAJJcpvOZZjS+LwDDhM0Pu/RDtS4rUySgJo+epIBxfnhppf5rxz5xxCK9lM9iALo5BjatrBLMzeWK9TSxDuZMtPzqlyxBmgBNLwVoAq7U4OlHgRGUdOFYyqQ5Aru2GDneUBgipkXETUMXuF8Yunj1t1m94OHNDkjGSyKD/QppRVp++HXDM9d6PdK9RJ/urf8a1pR3ctadaXOfLDGYSZZ6EJiDKYixuo+zbEwXNlA==;kmqlTJism1DqK2rnAJyY+Q=="
+secured: "E8kfJ7cq9ELFr6nSLo/ttgeDCKgoUxbV/tGzAIbPimxTmtkTjb8jfnrAJV/aHf8dlolo57cbKUXVHUnIeNxyTEMLAWLvcGV5js5+bKHu1YNfZWLUjGFy/8TKrzx50ku0gR3/nFuL48F7HE8KH3ww4kIbvZmMJgAHkbzOnRfqUqrNd3ZhJg54uI9mm4HwI42UBBn60nItTOoK6vewC3dX5U8Hl/eI7NDKnNsztCWVo0jEjpuliB4Zqi92GfwoLOTHPgIiPM/8pdbQzmNAZpFdWKOP/vTpBbYnFHakJlfEDWYtzccyrQ6F0bdNYReG3V+6uaHpmpIg+okR2tbFbpAZ5wnlczwgQfwEEa5UGqKHl9xl9UiV5dZVFDTbjaYU1DUqaYLneKozvueCQOxR/QRNGmsdyvv61yBr9mfeqKobq2y/bHAaEss5oGbOl2D7P1DXJQpEV1t6qaIgUOF9Me6RtUwVGibcTLpt1KoKayb+9GKpijKft4v3ELPEgd5DSlxc7WNBT+lSCVIkzqZ0t/pMJw==;/ss9GvY+aSo2xWI+PLE9ag=="
 ---
 

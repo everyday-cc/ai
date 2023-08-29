@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorr
 webUrl: "https://www.technologynetworks.com/informatics/news/chatgpt-incorrect-in-13-of-cases-when-recommending-guidelines-based-cancer-treatments-378135"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT shows limited ability to recommend guidelines-based cancer treatments"
-    excerpt: "The emergence of artificial intelligence tools in health has been groundbreaking ... without mention of another therapy modality. Notably, complete agreement in scoring only occurred in 62% of cases, underscoring both the complexity of the NCCN guidelines ..."
-    publishedDateTime: 2023-08-24T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-5.jpg"
-        width: 1920
-        height: 1358
-        isCached: true
   - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
     excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
     publishedDateTime: 2023-08-26T18:27:00Z

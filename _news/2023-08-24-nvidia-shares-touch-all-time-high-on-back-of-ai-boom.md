@@ -34,22 +34,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial intelligence chip giant Nvidia sees sales more than double"
-    excerpt: "Technology giant Nvidia says its sales have hit a record after more than doubling as demand for its artificial intelligence (AI) chips soars. The company says revenue jumped to above $13.5bn (£10.6bn) for the three months to the end of June. Nvidia also expects sales to soar further in the current quarter and plans to buy back $25bn of its stock."
-    publishedDateTime: 2023-08-24T06:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66601716?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66601716.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66601716.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13EFA/production/_130885618_gettyimages-1258278958.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
     excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
     publishedDateTime: 2023-08-27T16:24:00Z
@@ -93,22 +77,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Nvidia rides the AI wave as profits, revenue rise"
-    excerpt: "Generative AI is a type of artificial intelligence that can create new content, such as images, text, or music. This is done by training a neural network on a large dataset of existing content. The neural network then learns to identify patterns and ..."
-    publishedDateTime: 2023-08-24T05:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/articleshow/103009472.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-rides-the-ai-wave-as-profits-revenue-rise/amp_articleshow/103009472.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103009472/103009472.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Nvidia: A Moat In AI GPU Technology"
     excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."

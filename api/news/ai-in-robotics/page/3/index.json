@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-08-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
+      "title": "San Francisco drives tech; will it drive away robot taxis?",
+      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-ai-industrial-robotics-cis.md",
       "title": "AI Industrial Robotics - CIS",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$58m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$142m ...",
@@ -1251,50 +1304,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-a-computer-visionbased-teleoperation-system-that-can-be-applied-to-different-robots.md",
-      "title": "A computer vision–based teleoperation system that can be applied to different robots",
-      "excerpt": "Recent advances in the fields of robotics and artificial intelligence (AI) have opened exciting new avenues for teleoperation, the remote control of robots to complete tasks in a distant location. This could,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-computer-vision-base.jpg",
-          "width": 1999,
-          "height": 1159,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "publishedDateTime": "2023-08-01T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

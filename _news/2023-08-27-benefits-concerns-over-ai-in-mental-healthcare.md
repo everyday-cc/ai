@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
 type: article
 quality: 74
-heat: 85
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Genomics and Healthcare: The bigger picture"
+    excerpt: "In recent times, affordable high-throughput DNA sequencing has ignited a revolution in digital biology, and more genomics programmes around the world are gaining traction. This advancement has resulted in a paradigm shift in which medicine has become personalised,"
+    publishedDateTime: 2023-08-28T23:30:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/ai-in-genomics-and-healthcare-the-bigger-picture/103145569"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103145569,imgsize-107726,width-1200,height=765,overlay-ethealth/industry/ai-in-genomics-and-healthcare-the-bigger-picture.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Rep. Waters Expresses Concern Over AI Usage in Housing"
     excerpt: "In her letter, Rep. Waters notes that many online platforms rely on algorithms, as well as machine learning, to scale up their business services that help advertise housing, determine home values through Automated Valuation Models (AVMs), and make loan pricing decisions."
     publishedDateTime: 2023-08-28T20:24:00Z

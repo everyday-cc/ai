@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

@@ -24,47 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing the Potential of Artificial Intelligence in Enhancing Internet Security"
-    excerpt: "Welcome to the forefront of internet security advancement. In a world where the pace of cyber threats is rapidly escalating, the time has come to embrace the capabilities of Artificial Intelligence (AI) and utilize it as our ultimate defense against online hazards."
-    publishedDateTime: 2023-08-24T14:27:00Z
-    webUrl: "https://techbullion.com/unleashing-the-potential-of-artificial-intelligence-in-enhancing-internet-security/"
+  - title: "Pentagon to use artificial intelligence for airspace monitoring near Washington"
+    excerpt: "Following what it describes as a successful 18-month prototype demonstration, the Pentagon now plans to field an airspace monitoring system developed by Teleidoscope that uses artificial intelligence to deliver upgraded visual recognition,"
+    publishedDateTime: 2023-08-28T21:06:00Z
+    webUrl: "https://www.flightglobal.com/defence/pentagon-to-use-artificial-intelligence-for-airspace-monitoring-near-washington/154716.article"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Flightglobal
+      domain: flightglobal.com
     quality: 48
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-24T152658.286.png"
-        width: 800
-        height: 400
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/4/8/5/96485_dcafromair_769938.jpg"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Cloud giants eye a potential windfall in AI at the network edge"
-    excerpt: "Oracle Corp.’s Roving Edge Infrastructure, a ruggedized, portable and scalable cloud-compatible server node that the company introduced in 2021, has since been outfitted with graphics processing units for processing of AI workloads without network connectivity. Oracle declined to comment for this article."
-    publishedDateTime: 2023-08-28T00:08:00Z
-    webUrl: "https://siliconangle.com/2023/08/27/cloud-giants-eye-potential-windfall-ai-network-edge/"
+  - title: "MLK’s iconic “I Have a Dream” speech was one of the stars of the March on Washington"
+    excerpt: "The last part of the speech took less time to deliver than it takes to boil an egg, but “I Have A Dream” is one of American history’s most famous orations and most inspiring."
+    publishedDateTime: 2023-08-24T10:03:00Z
+    webUrl: "https://thegrio.com/2023/08/24/mlks-iconic-i-have-a-dream-speech-was-one-of-the-stars-of-the-march-on-washington/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: The Grio
+      domain: thegrio.com
+    quality: 17
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/data-globalization-hand-finger-business-world-network-edge-computing-intelligence.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Unlocking the potential of autonomous clinical research"
-    excerpt: "Effective clinical research starts with thoughtful study design. Establishing strong protocols is essential to ensure that a trial is cost-effective, successful, and yields accurate results. AI and ML enable the production of an ideal and productive design which can be implemented with little to no manual input,"
-    publishedDateTime: 2023-08-25T08:12:00Z
-    webUrl: "https://pharmaphorum.com/digital/unlocking-potential-autonomous-clinical-research"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 24
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-08/AI-life%2C-work%2C-and-social.jpg"
-        width: 1600
-        height: 900
+      - url: "https://thegrio.com/wp-content/uploads/2023/08/AP23234801845861.jpg"
+        width: 1818
+        height: 1440
         isCached: true
 
 secured: "gUEWShyHUzG6YU7HrzIyQjUg5xaTvv6oQQTI/RaP99Sgby0L8EUGY1+h4aOVjYTFMD8ZAdjOcqMv7BNz+I+bNSYMRc7ZU/4avkeAqGaNIdCD7ARibuT2fFlqeaUkpZLedXIcf+S5WlG+K5bjex0ecElSV7B1FkeQKmjyxAzJdXgfyV5bi0LkuZXGteinHkxA4NUGKg5/fF7uIoI/kPBDM3dGoUrFlXrCdmLPXKQs1HGQWTSgX5c3L7I0PhftbOaehpiaE0bMJnQDlJExuLDeQeT3UQSmXy3rEwSVZogQ5uJWmFTw8hzgvU+X3zGmAd1rC0v7ePJiWSGQv84sBT2jGm+aiKvAMB9710lb/9XKtAU=;yPpZOygWPzrBO4xzz3FslQ=="

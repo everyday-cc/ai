@@ -2,6 +2,159 @@
   "page": 173,
   "value": [
     {
+      "path": "_news/2023-05-08-should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai.md",
+      "title": "Should We Be Worried About AI? I Thought Not, Until I Asked An AI",
+      "excerpt": "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
+      "publishedDateTime": "2023-05-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-ai-tools-can-help-musicians-unlock-creativity-and-reach-fans.md",
+      "title": "AI Tools Can Help Musicians Unlock Creativity And Reach Fans",
+      "excerpt": "AI is a game changer for music. It's intuitive, adaptive, suggestive and big-data-powered, and everything from workflow to strategic analysis is set to evolve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64555ccda625265f03e31892/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-hollywoods-screenwriters-are-right-to-fear-ai.md",
+      "title": "Hollywood’s Screenwriters Are Right to Fear AI",
+      "excerpt": "The Writers Guild of America’s demands for guardrails on artificial intelligence are a smart move—and the stakes are higher than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645594d6da92561daff9397d/master/pass/Hollywood%E2%80%99s-Screenwriters-Are-Right-to-Fear-AI-Culture-GettyImages-108903032.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-how-4-startups-are-using-ai-to-solve-climate-change-challenges.md",
       "title": "How 4 startups are using AI to solve climate change challenges",
       "excerpt": "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere.",
@@ -1067,146 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-a-curious-persons-guide-to-artificial-intelligence.md",
-      "title": "A curious person’s guide to artificial intelligence",
-      "excerpt": "Artificial intelligence is everywhere. And the recent explosion of new AI technologies and tools has introduced many new terms that you need to know to understand it. The technology fuels virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FLWVKOHAO5EGHMIHQ4FXQF7NHU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
-      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
-      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75476733.cms",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
-      "title": "A mayday call for artificial intelligence",
-      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-07T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

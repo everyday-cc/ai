@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/f16efa0/2147483647/strip/true/crop/397x223+0+34/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F98%2F221338c34e3a82cfa70032781e1c%2Falex-ai-cover-photo-cropped.jpg"

@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-28-bofa-names-its-5-favorite-ai-linked-stocks-giving-one-30-upside.md",
+      "title": "BofA names its 5 favorite AI-linked stocks — giving one 30% upside",
+      "excerpt": "Artificial intelligence is still taking Wall Street by storm, and BofA says it continues \"to see benefits for semis as AI investment ramps.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/28/bofa-names-its-top-five-favorite-ai-linked-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107286646-1692102538403-gettyimages-1589438908-caustic_01_v07_0004.jpeg?v=1693181476&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai.md",
+      "title": "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI",
+      "excerpt": "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64eba97becb16c5423c6d0b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/",
+      "publishedDateTime": "2023-08-27T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-can-ai-increase-diversity-on-tech-teams-the-jury-is-out.md",
       "title": "Can AI Increase Diversity On Tech Teams? The Jury Is Out",
       "excerpt": "Can AI reduce the diversity gap in technology teams? Experts weigh on the possibility of AI changing how corporations champion diversity in the hiring process.",
@@ -396,7 +499,7 @@
       "originalUrl": "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -491,7 +594,7 @@
       "originalUrl": "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -585,7 +688,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1080,21 +1183,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-25-for-ai-does-company-size-matter.md",
-      "title": "For AI, Does Company Size Matter?",
-      "excerpt": "AI is rapidly becoming more accessible and applicable to all organizations, regardless of their size and resources.",
+      "path": "_news/2023-08-25-robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient.md",
+      "title": "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/",
+      "webUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-rtisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
+      "originalUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-rtisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8c26ab32f934a403b0612/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 711,
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/moto1-1.jpeg",
+          "width": 2000,
+          "height": 1583,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1102,16 +1205,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/amp/",
-      "publishedDateTime": "2023-08-25T08:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1127,100 +1230,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-generative-ai-dominates-vmware-explore-news.md",
-      "title": "Generative AI dominates VMware Explore news",
-      "excerpt": "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html",
-      "originalUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html",
-      "publishedDateTime": "2023-08-25T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-the-ai-tech-in-the-new-tempo-move-really-does-enhance-your-home-workout.md",
-      "title": "The AI tech in the new Tempo Move really does enhance your home workout",
-      "excerpt": "Unlike a lot of Americans, I’ve been a home gym enthusiast since before the pandemic. After moving to a small mountain town with few gyms and even fewer childcare options, I knew I needed to come up with something that worked for me at home.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
-      "originalUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/tempo-move-2023-lead-cnnu.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
-      "publishedDateTime": "2023-08-25T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

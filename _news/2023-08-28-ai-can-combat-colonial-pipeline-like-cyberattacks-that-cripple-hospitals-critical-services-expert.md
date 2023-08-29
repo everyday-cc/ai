@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cybe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

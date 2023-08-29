@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT shows limited ability to recommend guidelines-based cancer treatments"
-    excerpt: "The emergence of artificial intelligence tools in health has been groundbreaking ... without mention of another therapy modality. Notably, complete agreement in scoring only occurred in 62% of cases, underscoring both the complexity of the NCCN guidelines ..."
-    publishedDateTime: 2023-08-24T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-chatgpt-limited-ability-guidelines-based-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-5.jpg"
-        width: 1920
-        height: 1358
-        isCached: true
   - title: "ChatGPT Incorrect in 1/3 of Cases When Recommending Guidelines-Based Cancer Treatments"
     excerpt: "With ChatGPT now at patients’ fingertips, researchers assessed how consistently the artificial intelligence chatbot provides recommendations for cancer treatment that align with National Comprehensive Cancer Network guidelines."
     publishedDateTime: 2023-08-24T15:29:00Z

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "kTlBfdrbS/hqcX/Gs+2HMUBaZcvxPF0i14xH0aMGydf+DfQ5ISOJZ7GRYdi4jPrdn/i/zTs1DCC9bqp/bGiK2AwccB+sivdaYQAp4zynDb8/CDeCO8p5glLz+wgMohxKG9r4m/czAmbOu0WApnrv2l5wNOvbR9Ou7jHMzmx45bNznoNip3H2Olg+E4+vB8aJ0t5BAQAWAOHiRIMPwUnAFSeE0jec55IBEGiQlrAW/ruqM1u+YEbVSDYcRnoUA/zl7VGtqgOZdtGzEP8DihdoX6zaBWDnWV/rnAOLimhkIoKlPgY1xj/lywjHjQK/gn1LFGKB80E1jVBZ+JMFCV60rWJUDlVe8fD1DTjDqsSMB91jxUCsOCjQ1w0+FXmjSSBn1wLf6YL/6KO0Au67iAn8GvdPS7joPCtih4VHQl4vXB1i+45jcWn62kWvZYD8MIDPdMMBwfpLEHJ1hS9YmBRLOkUnBjk+DvaDzWFR/Y8TRHH6ib5ggyFOSVGKG02+giF9xNoUG0le4QprgRRptkiTFg==;m9ua50fYooVUucnrPotGqg=="
 ---

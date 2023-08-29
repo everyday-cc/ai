@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "MLK’s iconic “I Have a Dream” speech was one of the stars of the March on Washington"
     excerpt: "The last part of the speech took less time to deliver than it takes to boil an egg, but “I Have A Dream” is one of American history’s most famous orations and most inspiring."
     publishedDateTime: 2023-08-24T10:03:00Z

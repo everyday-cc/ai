@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/25/image/jpeg/gfuOrbssFsY5eaQBKxkjjPGM5IMQkiJLtmNwW133.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Meta launches open-source AI language translator"
+    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
+    publishedDateTime: 2023-08-28T23:15:00Z
+    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
     excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."

@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
+      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
+      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "publishedDateTime": "2023-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-how-to-buy-openai-stock-a-guide.md",
+      "title": "How to Buy OpenAI Stock: A Guide",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF The Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ) is an exchange-traded fund that invests in companies associated with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
+      "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
+      "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e541aceddf72308ad8ae34/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 977,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
+      "publishedDateTime": "2023-08-22T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ai-robots-poised-to-take-over-english-language-instruction-for-young-students.md",
       "title": "AI Robots Poised to Take Over English Language Instruction for Young Students",
       "excerpt": "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language.",
@@ -1048,135 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java.md",
-      "title": "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java",
-      "excerpt": "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java",
-      "originalUrl": "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-move-over-faang-these-brilliant-artificial-intelligence-ai-stocks-are-laying-the-groundwork-of-the-future-and-could-soon-skyrocket-as-a-result.md",
-      "title": "Move Over FAANG: These Brilliant Artificial Intelligence (AI) Stocks Are Laying the Groundwork of the Future, And Could Soon Skyrocket as a Result",
-      "excerpt": "The generative AI market could still expand at a compound annual growth rate (CAGR) of 34% from 2023 to 2032, according to Allied Market Research ... and spokeswoman for Facebook and sister ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/22/move-over-faang-these-brilliant-artificial-intelli/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/22/move-over-faang-these-brilliant-artificial-intelli/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/744803/ai-robots-office.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-leanix-partners-with-microsoft-to-bring-generative-ai-to-enterprise-architecture.md",
-      "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
-      "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/press-releases/article278479764.html",
-      "originalUrl": "https://www.sacbee.com/press-releases/article278479764.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

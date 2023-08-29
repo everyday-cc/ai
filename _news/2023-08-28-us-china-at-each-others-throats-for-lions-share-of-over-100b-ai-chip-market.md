@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1104528-us-china-at-each-others-throa
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market"
 type: article
 quality: 70
-heat: 80
+heat: 81
 published: true
 
 provider:

@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-25T14:32:00Z
-    webUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html"
-    ampWebUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-27T21:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
-        width: 473
-        height: 315
-        isCached: true
-  - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
-    excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."
-    publishedDateTime: 2023-08-25T17:32:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/vmware-enhances-enterprise-ai-management-balancing-gpu-scarcity-cost-savings-vmwareexplore/"
+  - title: "Cloud giants eye a potential windfall in AI at the network edge"
+    excerpt: "Oracle Corp.’s Roving Edge Infrastructure, a ruggedized, portable and scalable cloud-compatible server node that the company introduced in 2021, has since been outfitted with graphics processing units for processing of AI workloads without network connectivity. Oracle declined to comment for this article."
+    publishedDateTime: 2023-08-28T00:08:00Z
+    webUrl: "https://siliconangle.com/2023/08/27/cloud-giants-eye-potential-windfall-ai-network-edge/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 27
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/data-globalization-hand-finger-business-world-network-edge-computing-intelligence.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "MdWPhRdHGyNO28IarGrfNkd2iWJ+LcwsP3mg+4PB2SdO+5qb8HCPXfRPF+s8VDXub+QsGVEMvdXSIWLoOiacEtDMBCDheopOJow37EDvV8aQ8mSMTidVQAxPHU6COZLl+Xc8fad8RWXcZ2Z0w/YTyh/2AkeZPHjxvZl7378+bbumjFwyG1hSrAtLNO1/oxf6wKhI4Gex3X3IKM12Gw3k71kYzkly3qg2hRmcpdWrLVGCRFJh+0ineiImgcZbTXtS6Z11Q2V70TeY7ige+tG4HgQV4bne6xYwQ8y7gZUarh6Jmg3+FITDgaoO2X6JTrh5MPXEWCaK6rUtSZ+C14kFBLxtdY27nLTEQhnuGR+KlJnlaUKhqkhHxkir+5IkMit73aefQ5rjgg3rGD7TkZu8YGr43KNQbZkVwhrrbFSw4jVnT9dO46spGHzvVQSQc1Roq392hCkI4lx0EC4JFb9PInWlWnJSxH1HCSDNpJqviBs8gtcWSLLERHGSVIV6eEUxVRB3QJbLEawNDRgn5OjfFg==;OINi0pr4yEE4T4XBYvYwxg=="
 ---

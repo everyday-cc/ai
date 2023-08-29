@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
+      "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 691,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "publishedDateTime": "2023-08-28T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-vmware-explore-2023-recap-its-all-about-your-data.md",
+      "title": "VMware Explore 2023 Recap: It’s All About Your Data",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares interesting announcements and his takeaways from VMware Explore 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed19ff84e76c4fc0d8ae1f/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "publishedDateTime": "2023-08-28T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-nutanix-introduces-a-turnkey-generative-ai-solution-stack.md",
       "title": "Nutanix Introduces A Turnkey Generative AI Solution Stack",
       "excerpt": "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production.",
@@ -201,49 +306,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-generative-ai-dominates-vmware-explore-news.md",
-      "title": "Generative AI dominates VMware Explore news",
-      "excerpt": "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html",
-      "originalUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html",
-      "publishedDateTime": "2023-08-25T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1394,41 +1456,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
-      "title": "The Future of Finance: AI Meets Tokenization",
-      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

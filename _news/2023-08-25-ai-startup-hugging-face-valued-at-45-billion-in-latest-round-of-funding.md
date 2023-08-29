@@ -2,25 +2,25 @@
 category: news
 title: "AI startup Hugging Face valued at $4.5 billion in latest round of funding"
 excerpt: "The latest round of funding outlines the rapidly growing adoption of artificial intelligence (AI), which has been hailed by many as the next frontier of technology and has attracted some of the biggest investors in Silicon Valley."
-publishedDateTime: 2023-08-25T06:04:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding-11256281.html"
-webUrl: "https://www.moneycontrol.com/news/world/ai-startup-hugging-face-valued-at-4-5-billion-in-latest-round-of-funding-11256281.html"
+publishedDateTime: 2023-08-24T17:01:00Z
+originalUrl: "https://www.aol.com/news/ai-startup-hugging-face-valued-140155500.html"
+webUrl: "https://www.aol.com/news/ai-startup-hugging-face-valued-140155500.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/01/dollar-finance-BBO-770x433.jpg"
-    width: 770
-    height: 433
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: businesstimes.com.sg
     quality: 15
 
-secured: "l5A8YR2nMTsJnOHP+ca+L/sqTYEqmUKlesWJNRxKbWeQkGwTYAvCJd21cTxCENItuW3NKaIMNzfM0R3HaKY1nVNYarmlt9LS/NoyAnUxLxoDyszwbmjlePUempm4X/xOOhiIMMgKlAUY05SH9qlQJHvWEnUoVn5UI0V1GMN6piqlCwMQH7IPltrVpxX2wWdiFCCrGSMBZHv0KSUlTU74rsSLM6l31troi8xA/+N0lS5OhHveDLF+TkEX34mz6KEC8t3iZW6arOeg9d0L0gA/YgbbVkFDR4lDsKL+DkXIiMU04215zkQv7tk9Y6s12v1djGnCMH0brcQx1ouA/Hh/3TlZTK24BEki7pDFESvmRuo=;/p/UnBmaFEj8YQhCKzPymA=="
+secured: "UI4dFG+N7uljfTutiglINvGIuncKs0mq3Tq4NFThUOKM9mj8wYDlNKpVyLZk4vihce/+8TnVybyGgRaOq27AtvoqY7/bFKVZpXBLEVczwbVTs0b63Af9yQGakx7NEAQmhBSO99x6/XTf9EZWmEipR+78AnkSoC9tWxQDaP296PujdAGfHxditAogHNjvVgStvTQ/UfRBaR5/i3KoK/6vL+nr/rcczY8nbsz4EX3RlpgEdhjVQXB6CNZpJM+kReOUdKgKRde61WXS3brbk/OF21jGcDHJXdrkSIxb+l15B+iAfj725ABznYnaCfra6UX0PaERC7XI2hv1rX1h528qbf8v8H2DzXlHm5pB/07lsgs=;wSBbmg/T2k7g6kWMo3mmew=="
 ---
 

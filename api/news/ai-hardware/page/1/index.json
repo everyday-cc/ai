@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
+      "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 691,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "publishedDateTime": "2023-08-28T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-academia-vs-industry-ai-showdown.md",
       "title": "Academia Vs. Industry: AI Showdown",
       "excerpt": "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ...",
@@ -115,7 +168,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -159,7 +212,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -256,7 +309,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -657,7 +710,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1394,58 +1447,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.md",
-      "title": "Buy this chip stock to ride a 'wave of AI-led growth,' according to B. Riley Securities",
-      "excerpt": "Moderating inventory headwinds and a reacceleration in hyperscale spending should propel this chip stock into its next growth wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

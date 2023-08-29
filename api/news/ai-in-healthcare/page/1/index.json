@@ -10,7 +10,7 @@
       "originalUrl": "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -139,6 +139,40 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-chatgpt-shows-limited-ability-to-recommend-guidelines-based-cancer-treatments.md",
+      "title": "ChatGPT shows limited ability to recommend guidelines-based cancer treatments",
+      "excerpt": "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients’ fingertips, researchers from Brigham and Women’s Hospital, a founding member of the Mass General Brigham healthcare system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/999410",
+      "originalUrl": "https://www.eurekalert.org/news-releases/999410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1329,49 +1363,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence.md",
-      "title": "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence",
-      "excerpt": "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, /CNW/ -- Clarivate Plc (NYSE:CLVT), a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33654108",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33654108",
-      "publishedDateTime": "2023-08-09T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
