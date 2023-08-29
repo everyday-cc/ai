@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
-publishedDateTime: 2023-08-19T16:08:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
-webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
+publishedDateTime: 2023-08-19T10:19:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "l+bTEFyehZ0LHKc2N6pMvtoPvmu5ZLuvzX+YvgNbknVMwBUXvneBBbgwG/otLHN1nCBzaziYeU0WckDCbWCQUJGG2NF2gyo7WOTk7nkQChOT8nxuMUKaVGN7rplZwO2PwR7TXyxHNf6z8QggbT384Fp9OD8CIDp1SnkcOzguPDvC9ccmdeWu7Vz2MGPje/Noyy/DnlfhDNTZJL9Ym8jmAvd2A9j0Qxg2P+AUJr5LUDkEITG4UdlrShAFZd/Mlvb9FD2dKUTqrozzGBJi+RwHdmOEZ4uXCvvXRDEwvTkLfAKWdW1AE/A9hrVTTOS17MonXZ2RfF4kmXmm3VzjtsM96hLipLiKh0pzzD3f+p1rQ9A=;STxzDae8ztdifUpVr4uTVg=="
+secured: "cAPsInucrDYlM3sfhcY8fbcoDcJT1Fo3Y4it5vIXzjjElql+HqM/Jsci1UypYyxWSHoc1lqzu1AL8iYqUPuEVbrAks7ZpbYO3+0GEKCzpQTbN5hbQdW1oU1/yB/Y8raAu7vUHRurT0KejLxWuDcSju/npceBWsWNq1kFRqMFPu9k7JvTnyS5pwGnVUBXke0zDawW+kPA3LsVHcC+F5JZ8FH1KcbinhAhtHRscuOY4ZGYokGWpsfnVUjmYd2TTkjjWCCLvTeTm6RGlsxZz90sH1DLttdW+e3fBrCZ7wVqiaENq+keGaadUc2wpR9u+eiZJEYODk0hiajy97mm2RY1CNeaBr9/W/O2AbXnKu1p18o=;TTTXg7mGb6qeZiFazcUnUQ=="
 ---
 

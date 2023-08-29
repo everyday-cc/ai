@@ -3,10 +3,10 @@ category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
 excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
 publishedDateTime: 2023-08-22T04:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-ampWebUrl: "https://www.benzinga.com/amp/content/33976429"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/33976425"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "1vNcs/hYqX17vmqKXls4j/w4GxzvmK0Q7yMQCM/r2EoHtX4nb22qN+8xNjH+dsmDwVdXsc0zDbj8IjLtMnLneBU5G2Va6UeXPEfA7HfK8pcX4cs82uVtX63jv059Pg1PPYM1UAMPDKhcKjEy+R9EgbFmciCRvi/Q57rKOSD6HYOebmoD1hARCMgszl+6l529NGHV0OtMf2wzjgqHWsQBal11ClIqmCPEO4zVXIxiVl6uJLemkapaD+raA4d3bqw9tce1q1yTWrTrYHzQKO9gfhsRic9OyNPlhmddYOSERkoUsAaf9Mnh0ZOIbMUFJMuSJ+uB2/Gg90qI9AH0DTklluw3JGx0mxk40K9XpyH50cM=;8iKTd7PAUFG9Ril6neCDdw=="
+secured: "WQjRHd7i32nVKiklmF0Wol+TcIT41TYPjESd6eRLCRNmcDhvc8L2Nk4HrEb+aMjQB6bujsfGe8OlQl3UDN5wiYVnyRKr4gl8ShHtSwP5kutAix9rV1tcD9tcyKc8AHKqMzWd4HXj2V4wo91arCHI/63e9lEhUIC4Fxc8cg2H2elGeZNWTC1d00/Hw9i5VOSnlr1tqCNjeIGjMePuf55SmBkdq7+9pwX++3fjRaI5HIJS7KioOsFYbr1s51SOZZbFgFBT93nCLPo/Vg5ZRp+KRoqUkz7PHN91TbNgg4AGMihhJErFfCowY64dbjjpQK3odjyMzQaKaaOaEBW74Nhd/ixPFYiaGqPqD/PurK57a1U=;LY4uNTUZhZ2DAk6YUYl3UA=="
 ---
 

@@ -26,21 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Creating Ethical Guardrails For AI In E-Commerce"
-    excerpt: "In order for AI to make sense and successfully scale, we must go into it with our eyes wide open to its risks to consumers."
-    publishedDateTime: 2023-08-24T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/"
+  - title: "How to use AI for marketing without sounding like a robot"
+    excerpt: "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling."
+    publishedDateTime: 2023-08-27T16:59:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e6082831949b445a23ba77/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 720
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Use AI for Barbie-Style Marketing Magic"
+    excerpt: "There are numerous powerful generative AI text-to-image systems. Some of the more popular ones include DALLE, Adobe FireFly, Midjourney, Canva and Stable Diffusion. They can create realistic photos and images, illustrations, cartoons, logos and text effects. Some of these systems even allow for editing. All this is done using prompts."
+    publishedDateTime: 2023-08-24T17:05:00Z
+    webUrl: "https://www.inc.com/tom-taulli/use-ai-for-barbie-style-marketing-magic.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546218422_533366_oq6rpt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Pentagon to use artificial intelligence for airspace monitoring near Washington"
+    excerpt: "Following what it describes as a successful 18-month prototype demonstration, the Pentagon now plans to field an airspace monitoring system developed by Teleidoscope that uses artificial intelligence to deliver upgraded visual recognition,"
+    publishedDateTime: 2023-08-28T21:06:00Z
+    webUrl: "https://www.flightglobal.com/defence/pentagon-to-use-artificial-intelligence-for-airspace-monitoring-near-washington/154716.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 48
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/4/8/5/96485_dcafromair_769938.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "E2gI8wzW5uwVyeDBm8a+stbSRi9tWMvcuS2gcD0VQhbRAs2iZD/i3iaEH2C3/ZRpzw5Qze+TOkFkT78eyVkvwbylEoU/AMycjPa8odLTehuLMvQJ9GNI1mUeJvIZpqvFFVDu5YVhzsJZY0vy6VJ8b7snllWuPekiBi61tnycWW22ylsd/VSbwvdo0tmVcZStYI9I4XacsD/UpEUe3z/twAyDE+5RWsLTjY5SnQmrKx8rZ1I3Mw9tCeEkpC+N/XfH7lnBZdl+WllAMyEZRAEYMRrxzNRjB8RvMqryunct0A9FjVz8PqcuL4/y3UJZSF8+O6NsDPiG4eteTVR88bo9g7f0up9TrXOd4ZGTaRhHYVA7LVsX40jlMu3aacdez9TRjtHPAp3AG7SDj1dGh8q8R00YSiekdGjXcyX9MTJoJl54njY4yfJYQUi3hwZ34iokpQ1IxPfUVOUSoz0+0OMCzozIFa8plxt5Zyir8VaLkZRL1pLJta11tZpW7si5vIOjljx/lkvV63ga96Ki+8GNAw==;5JJFpwAl3+xSqEmBcyemQw=="

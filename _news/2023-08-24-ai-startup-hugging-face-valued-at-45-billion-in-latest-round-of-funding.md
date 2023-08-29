@@ -56,20 +56,6 @@ related:
         width: 1400
         height: 906
         isCached: true
-  - title: "AI startup Hugging Face valued at $4.5 bln in latest round of funding"
-    excerpt: "AI startup Hugging Face said on Thursday it was valued at $4.5 billion in a $235-million funding round backed by technology heavyweights, including Salesforce , Alphabet's Google and Nvidia ."
-    publishedDateTime: 2023-08-24T13:01:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-hugging-face-valued-45-bln-latest-round-funding-2023-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EOWERMPEV5J7TKN5QJB3EGHPCM.jpg"
-        width: 5500
-        height: 3668
-        isCached: true
   - title: "Hugging Face, an open-source AI startup, receives USD 235M in funding from tech giants"
     excerpt: "Hugging Face Inc., a startup that runs a platform for hosting open-source AI projects, recently revealed that it has raised USD 235 million in funding."
     publishedDateTime: 2023-08-25T10:34:00Z

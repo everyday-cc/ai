@@ -34,22 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI boom drives chip sales for Nvidia, which has substantial Triangle presence"
-    excerpt: "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company."
-    publishedDateTime: 2023-08-24T11:14:00Z
-    webUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 88
-    images:
-      - url: "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
     excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
     publishedDateTime: 2023-08-27T14:00:00Z

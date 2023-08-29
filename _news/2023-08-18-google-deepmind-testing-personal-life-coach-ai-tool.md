@@ -3,8 +3,8 @@ category: news
 title: "Google DeepMind testing ‘personal life coach’ AI tool"
 excerpt: "DeepMind, the tech firm’s artificial intelligence arm, has announced it is testing a new tool that could soon become a “personal life coach”. The project will use generative AI to perform at ..."
 publishedDateTime: 2023-08-17T21:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia"
-webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia"
+originalUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "DsACaWSTnQeZA1EliFSZQmaqgATXb3laLHAoVR8cEIN/Ky4dWfV/hgcCRYdDVg35wlb2h9PFWDh8jdob6Wo7hdaHc1WRNz99YIvJ6gO8XoHDtT7PUxwRG/hZL+LWjd423eegdbvOGWc0um5gfawX04phj7ZgX5PXRAPGMMeje0Za7Hlpg6Nnze+Brp1RaWSYs+rQ5vF1TQRSFW8iAnl9T230RaJ7uC/SRhBUJrQgI+3gCPoz3vTFyOIQtL11CE1aQ486v/lxwzPduuPEX4wHJN2idwptze089EF0miATPw+5zTIIwQ4FDqzG1jaegJzMoGpo4G7v6ZcBQWUxLLCiLysO5cztZKWO5Qo7Hy2+gXQ=;Z6wXTzerJJBxhK151LceDw=="
+secured: "6jWGMQU2b62NU9gzmcLRLgCzBy9Kahsk+my729/0rTQ/6dwCwi8U3mkL7YW6s+uOiGKzSfX6eTSoZN5CmelojCkkC034o/Ce2cPduRI+025f7vGHbjdkfqHabT5FsxuK27iVRw6rHL+A3NT9d8Nxe9WQZY4Wfl8M0fVUGczItvd3iaA8aIkafpTnqFALQTEJqsh/8dLR2G1zMK9dXe4T4iRWqz8aGkKMazuxORBRsc+kW6jumDwPp0Nq9vlu+5MVVDcYZ41wnkdFE1BHqMy5YgOad0dcU7zJeAyn6lSqURXhc1K6wL6q4+7NThjBh51KUFkVWqoTxTtvyanEPcrEGLn/vP1Qq2ecdmBevNpZSXA=;DzeP63HnI7z9YdzYsOovWQ=="
 ---
 

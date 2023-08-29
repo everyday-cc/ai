@@ -51,15 +51,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 18
-  - title: "7 things you can do with Bing Chat AI but not ChatGPT"
-    excerpt: "Bing Chat is based on OpenAI's GPT-4 tech, but it can be much better than ChatGPT - here's what it can do better."
-    publishedDateTime: 2023-08-24T12:52:00Z
-    webUrl: "https://bgr.com/tech/7-things-you-can-do-with-bing-chat-ai-but-not-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
   - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
     excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
     publishedDateTime: 2023-08-26T18:27:00Z

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "“Jio promises Artificial Intelligence to everyone, everywhere”: Mukesh Ambani at AGM"
-excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries' 46th Annual General Meeting."
-publishedDateTime: 2023-08-29T01:40:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+title: "Jio promises Artificial Intelligence to everyone, everywhere: Mukesh Ambani at AGM"
+excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries 46th Annual General Meeting."
+publishedDateTime: 2023-08-29T05:20:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20230828/4113255.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20230828/4113255.html"
 type: article
-quality: 50
-heat: 70
-published: true
+quality: 11
+heat: 11
+published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-
-images:
-  - url: "https://images.hindustantimes.com/tech/img/2023/08/29/1600x900/uhj_1693218921426_1693273020884.png"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Reliance Chairman Mukesh Ambani Push Artificial Intelligence Plans: Jio Promises AI to Everyone, Everywhere in India"
@@ -45,6 +37,6 @@ related:
       domain: indiatimes.com
     quality: 2
 
-secured: "tXdgv85DBp0cKDnzb2vJiSPctX6UwSmUXbz/+EKOm1OnFQqbejOovIBJJE9Di1HEWySBfOTjWjykuLPOz6KfHXfWoAFS0HNsi11begBvAdvvB8z/YNqOwkrE77FwXqo6w/f+904KBOmMfVoNBVy5DzBx1+zkifNka+3tajnOXDIwAWTRQhFxWdADEnHKwX5PT4od5y6gVQmpa/G1C2SSHObQ3sbv6TeDZFgQTxpeoNyrjDVJr086wiGr2gOU5DYuUHjhqLzyiKCGOvZCVE7emWU86K4nGZ6msmFbhdBZinlIuJhYF00Eze8BgLE6VWfNheI/Ix6Di+FruXO4Tct85kOxJGoHJjVvVNX4XLDVKnI=;amlX9eDpeAHK/cTuhpdZig=="
+secured: "LxKf25U2ajhPNz/xZjmGMQzCDkQjS4TRs9ua31mdck5bn9rUcJ2TPTGFQh/fZyT/gy1+kLFL5pvLECIU8NBummbUmji2hXfjXBNn9U+DfVyRhwxaQ9vYN+BuOabxlBTbIj4IC3K6scjdWqtzYLFFYVAwlUXe9+j7KN528LUxE2XjaND6dhyCF4SaHeEXQGTUhWKcNitPkdSB3MTwrBb6GydHozWcrDxC+O+E5JSoPph1hszOLAJVOR/qvhmjYPQOWnlONVjng2LSKtvpe9WjOdvej0MJdVmPBCSuxU1R/wsCGy3PUIszYhkYl5pNyK+Z6OX0Ys+ILCFIt+VSLftJvE/meznbyEdc/NMH6h1dc7Q=;I7cwcA6HynMHese+wa09hQ=="
 ---
 

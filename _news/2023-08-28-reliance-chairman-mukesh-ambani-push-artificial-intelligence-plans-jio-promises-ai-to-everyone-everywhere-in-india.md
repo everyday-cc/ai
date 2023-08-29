@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "“Jio promises Artificial Intelligence to everyone, everywhere”: Mukesh Ambani at AGM"
-    excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries' 46th Annual General Meeting."
-    publishedDateTime: 2023-08-29T01:40:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
+  - title: "Jio promises Artificial Intelligence to everyone, everywhere: Mukesh Ambani at AGM"
+    excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries 46th Annual General Meeting."
+    publishedDateTime: 2023-08-29T05:20:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230828/4113255.html"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 50
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/29/1600x900/uhj_1693218921426_1693273020884.png"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
   - title: "Baron Capital raises Swiggy, Pine Labs valuation; Jio to bring AI to everyone, everywhere: Mukesh Ambani"
     excerpt: "US-based asset management firm Baron Capital has marked up the valuation of Swiggy and Pine Labs while slashing the valuation of edtech major Byjus by almost half. This comes at a time when several Indian startups have faced valuation markdowns in the past few months."
     publishedDateTime: 2023-08-28T13:16:00Z

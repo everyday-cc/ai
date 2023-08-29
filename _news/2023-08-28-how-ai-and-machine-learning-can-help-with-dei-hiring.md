@@ -33,6 +33,20 @@ related:
         width: 1448
         height: 762
         isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "How Anastasia Gorban is reimagining the idea of morning pages with her AI-powered app"
     excerpt: "As someone who finds it difficult to stay concentrated and committed to doing a task every day, Anastasia wanted to build a simple app for completing morning pages."
     publishedDateTime: 2023-08-24T17:53:00Z
@@ -56,15 +70,6 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 19
-  - title: "The most recent neuroimaging procedures and machine learning approaches for the prediction of Alzheimer’s progression"
-    excerpt: "Researchers examined recent studies exploring neuroimaging modalities aided by advanced machine learning (ML) algorithms."
-    publishedDateTime: 2023-08-24T12:01:00Z
-    webUrl: "https://www.news-medical.net/news/20230824/The-most-recent-neuroimaging-procedures-and-machine-learning-approaches-for-the-prediction-of-Alzheimere28099s-progression.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 0
 
 secured: "i+b7qkzxR9kRu8FdXv86/bFAjtkGeH+FazEhbFEj/QP5nzzimt+Qww/+C/ROWk6k0J88EezRH/wUn5qzfAu+T890ss9on7sA5+jEY9NN2IifFTp7tYgmVCJNM5tTgUCQ/I+E402h3zi4NTgthCPjui1rgCfd9MJo7+CnptCyHyaOOl2/gaMUd6Df5Y3OBh5vvPnrEStY4DNnF0akdYC3BysYM7YkfAAWHQeoDAU0mWDZBbvR3Ngc0ZHSoVV9YSsaLSgKTp/aEweKC5qr6piXL5r2M/pnJzpNMJ/zG2n5NTrsnNAzkgdcvmHQdUwn7AXUWnF4gNtNE3M2a2MGF4Vzaeo787hkLmlLouRO+1FAFAdBB8jy1EOfMkuhux6W0Tv+fMPRindR6J2t5Sq4YULRoDDhhOBWIdfDtXg1EH2Hr08s8K8iBG4YbtgVW1tLHIoZWlqnjimQAqv57sl/YvTTDApRcWVqdFX7nrVr9VrFtJJD9TyPApyE7FSxYQDxWAvIyKk3zUG1DmEvKh3nEJ8qUw==;KNZyxiMZdOZ4tvjtsZJ+JA=="
 ---

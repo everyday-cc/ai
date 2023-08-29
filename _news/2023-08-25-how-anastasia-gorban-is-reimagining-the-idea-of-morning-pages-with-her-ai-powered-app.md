@@ -38,6 +38,20 @@ related:
         width: 1448
         height: 762
         isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "How AI and machine learning can help with DEI hiring"
     excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
     publishedDateTime: 2023-08-28T13:01:00Z
@@ -56,15 +70,6 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 19
-  - title: "The most recent neuroimaging procedures and machine learning approaches for the prediction of Alzheimer’s progression"
-    excerpt: "Researchers examined recent studies exploring neuroimaging modalities aided by advanced machine learning (ML) algorithms."
-    publishedDateTime: 2023-08-24T12:01:00Z
-    webUrl: "https://www.news-medical.net/news/20230824/The-most-recent-neuroimaging-procedures-and-machine-learning-approaches-for-the-prediction-of-Alzheimere28099s-progression.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 0
 
 secured: "CWaQjzH9eDQdbYTUo00CgzppGxC1iLQmRdb3id/OUC1zh7dz33/VwLOAd+G/9KCMnOkXPJaeyGs0StQ9uC48ySYWraihJfm8q3UpOoPnuvXHbXBqBDueIZIl1H39pdFgU6MsGMwP3BJbCS9Rcw8kOpfWmjAyaaAV50H0ZFPNR4IZ9Yghw+HqcP9BNtxHd21Gid5iMQO++0Wy92p+kKE90NeF9EttZqGZVQYssoK9UsNTLY+WKX7B08gl40sh3oXsv49EQa2e71RK9QKo9om21Qft12EhHpbMh0fqQQtgTl/MJBPH/CGx1ONMg6oL2fG/KXdQDJshK0aW6fwjdl6AFVPEPGwm9dWQCCzK38n3XwM=;xzyDs8jLvncZwS0mwKBEng=="
 ---

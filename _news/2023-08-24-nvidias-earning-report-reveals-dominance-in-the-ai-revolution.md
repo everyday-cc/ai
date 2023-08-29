@@ -114,15 +114,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia sales hit record high as AI chip demand soars"
-    excerpt: "Artificial intelligence chip giant Nvidia has seen its revenue double in the last quarter due to surging demands for AI technology. The company’s stock surged by nearly 10 per cent in after-hours trading on Wednesday after it posted a sales growth of 101 per cent year-over-year to $13."
-    publishedDateTime: 2023-08-24T12:34:00Z
-    webUrl: "https://www.aol.com/news/nvidia-sales-hit-record-high-093548911.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
   - title: "Nvidia Sparks Rally in AI ETFs"
     excerpt: "Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics & Artificial Intelligence Thematic Index, which seeks investment in companies that stand to benefit from the ..."
     publishedDateTime: 2023-08-24T17:49:00Z
@@ -141,20 +132,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 48
-  - title: "Nvidia is the early winner in the AI gold rush"
-    excerpt: "Accelerated computing and graphics chipmaker Nvidia announced its impressive second-quarter earnings for fiscal year 2024. The company reported a revenue of $13.51bn, which is more than double the revenue from the same quarter a year ago and an increase of 88% from the previous quarter."
-    publishedDateTime: 2023-08-24T11:47:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/664/241301.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 39
-    images:
-      - url: "https://biz-file.com/c/2308/710028-842x438.jpg?7"
-        width: 842
-        height: 438
-        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
     publishedDateTime: 2023-08-28T13:01:00Z

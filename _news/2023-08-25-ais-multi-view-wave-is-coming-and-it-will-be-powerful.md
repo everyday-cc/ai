@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Embracing The AI Robotic Revolution: Balancing Innovation, Workforce And Ethics"
-    excerpt: "In the last few decades, the world has witnessed an unprecedented surge in the development and integration of robotics across various industries. These technological advancements have brought about transformative changes in industrial automation, medical surgeries, elderly care and the remarkable rise of humanoid robots."
-    publishedDateTime: 2023-08-24T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/24/embracing-the-ai-robotic-revolution-balancing-innovation-workforce-and-ethics/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
   - title: "Nobody can deny that there has recently been an AI revolution."
     excerpt: "Peter Singer, an Australian moral philosopher and professor at Princeton, took a utilitarian stance and argued for the recognition of moral standing in most non-human animals on the grounds that they have interests in avoiding pain and experiencing pleasure. Of course, Singer’s arguments didn’t address contemporary Ais."
     publishedDateTime: 2023-08-26T00:30:00Z
@@ -97,15 +88,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Irreverent Labs, backed by Samsung Next, set to revolutionize video content creation with AI"
-    excerpt: "Irreverent Labs announced today that it had received a strategic investment from Samsung Next, the venture capital arm of the South Korean tech giant."
-    publishedDateTime: 2023-08-24T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/irreverent-labs-backed-by-samsung-next-set-to-revolutionize-video-content-creation-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
     publishedDateTime: 2023-08-28T12:26:00Z

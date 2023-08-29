@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence frontrunner OpenAI offers ChatGPT Enterprise"
+    excerpt: "Artificial intelligence frontrunner, OpenAI, announced on Monday its latest offering, ChatGPT Enterprise, designed to cater specifically to the needs of large businesses. This move marks a significant convergence of services between OpenAI and its ..."
+    publishedDateTime: 2023-08-29T05:32:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 72
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
+        width: 640
+        height: 390
+        isCached: true
+  - title: "Microsoft partners with universities to allow the use of generative AI in school"
+    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
+    publishedDateTime: 2023-08-29T04:50:00Z
+    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 49
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Meta Launches AI Coding Software to Compete With OpenAI"
     excerpt: "Meta Platforms Inc. launched a new artificial intelligence coding tool in the social media company’s latest bid to compete with Microsoft Corp.-backed OpenAI and Alphabet Inc.’s Google."
     publishedDateTime: 2023-08-24T13:31:00Z

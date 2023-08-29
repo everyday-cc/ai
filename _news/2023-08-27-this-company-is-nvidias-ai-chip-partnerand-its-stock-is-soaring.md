@@ -45,22 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI boom drives chip sales for Nvidia, which has substantial Triangle presence"
-    excerpt: "Nvidia’s stock jumped as much as 9% in after-hours trading Wednesday after it posted year-over-year sales growth of 101%, to $13.5 billion for the three months ended in July — a new record for the company."
-    publishedDateTime: 2023-08-24T11:14:00Z
-    webUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/24/ai-boom-drives-chip-sales-for-nvidia-which-has-substantial-triangle-presence/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 88
-    images:
-      - url: "https://wraltechwire1.wpenginepowered.com/wp-content/uploads/2023/01/Fenton.jpeg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Nvidia thinks AI boom is far from over as GPU sales drive big earnings win"
     excerpt: "On top of Wednesday's news that Nvidia earnings have performed far better than expected, Reuters reports that Nvidia CEO Jensen Huang expects the AI boom to last well into next year. As a testament to this outlook,"
     publishedDateTime: 2023-08-24T19:03:00Z

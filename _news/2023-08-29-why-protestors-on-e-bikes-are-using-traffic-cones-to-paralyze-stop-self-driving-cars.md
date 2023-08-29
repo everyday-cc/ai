@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-ve
 webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Stop Self-Driving Cars"
+    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly complex machine but also what kind of trouble these self-driving vehicles might be getting into on active roadways."
+    publishedDateTime: 2023-08-28T17:11:00Z
+    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 22
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Readers share questions and stories about self-driving cars: Roadshow"
     excerpt: "1. Getting off southbound Shoreline east to Central Expressway north, midday, light traffic. On the blind downhill exit, I am shocked to suddenly see a row of stopped cars on the long “return” ramp, requiring emergency braking. A Waymo at the front won’t accelerate/merge with light expressway traffic, as a human driver would."
     publishedDateTime: 2023-08-25T13:05:00Z
