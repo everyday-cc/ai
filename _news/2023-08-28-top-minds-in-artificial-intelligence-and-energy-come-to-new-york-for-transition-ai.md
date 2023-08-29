@@ -18,35 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Advances in AI, chips boost voice recognition"
-    excerpt: "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss."
-    publishedDateTime: 2023-08-28T13:41:00Z
-    webUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
+  - title: "Ethics And Transparency In AI-Powered Political Advertising"
+    excerpt: "Love it or hate it, there’s no question AI is emerging as a powerful tool in every arena, and advertising is no exception. As we rapidly head toward the 2024 election year, I’m deeply aware of the advantages AI offers political campaigns through audience targeting and campaign optimization."
+    publishedDateTime: 2023-08-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/25/ethics-and-transparency-in-ai-powered-political-advertising/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
-        width: 2667
-        height: 4000
-        isCached: true
-  - title: "AI's big winner in the chips"
-    excerpt: "After the early buzz about artificial intelligence centered on ChatGPT and similar chatbots that could quickly generate stories, art and songs upon request, the biggest winner in the technological shi"
-    publishedDateTime: 2023-08-29T07:09:00Z
-    webUrl: "https://richmond.com/ais-big-winner-in-the-chips/article_580c673d-07f5-5bfd-83aa-59964f942fb4.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642ece0e8e78bdcf295a2d72/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "QFCsdrmBQMo0TrdRSySNDA3I9SRhCpMUQEjFTf6C+JKBN18BWNJcSCi7nOh3ZJsPlQ9u3VsYlnjE5m5OiPqh+N0Q8bwuWL77O+sjAA/O5snarmp6sLbRbvuB0rF0d8an1X6WhlvKj8XsrwnX+wXH15f6v7D/h3N4628mrn5BtmMJlBZiJizJDmQspe8gbYXbqNlYSqI2ciDFhLiyi9x1osCb3inS0qGK0neGZgvqPh/xmjY2N2x64jcH0bo51qpZCWYogAsn6IhjhacwHRG3P8cQRbJg5jnpkR1JUgNeaAAYrZqUEa9KmdM1CvyaWcqwZGlVedovqKXk3HwNcIhQadEchA3UUKrFzYjjNkXp1iNcIwv4oJHCXRlmIP2V52moHE3F2pFp+k/9iF47Sc1zkphVVYiJrnVGKSOmr216gIHYkBZmYmKZGax0lIX/oyv663yHn7RomDVSA1w10y3Vcd2sHKM9eSBpQh7h3Tmo+2WGa6ksv3Z6hsGaamxFg8gJZ2FKMgUrlgkxgwdFSbyAWQ==;U8QL8zNSeMzgKXiGzVkoFg=="

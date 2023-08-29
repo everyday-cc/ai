@@ -1,0 +1,29 @@
+---
+category: news
+title: "Pioneering technological research in our Computer Science Department"
+excerpt: "Our Computer Science Department is one of the top ranked in the UK and we are at the forefront of next generation innovation.  Our research projects are having a world-changing impact. Our research is paving the way on new technological development that allows cars to be driven autonomously on public roads."
+publishedDateTime: 2023-08-29T15:21:00Z
+originalUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-technological-research-in-our-computer-science-department/"
+webUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-technological-research-in-our-computer-science-department/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: dur.ac.uk
+  domain: dur.ac.uk
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://i3.ytimg.com/vi/qDWpEnYxZDk/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "mdrbA+9WaKSktzv7CtvAaFJjs9V8XHhBDmHn7A4TCs4GJ1CHlW45e7Fqn4pMIkLFL2NGHrdG3hnKqxgXfc+CcXpihwyWQCP7q1d0G81oXYqTev1n0e2QtAPHv8/sgRoWVSNuox7RNz8B0Q4ONnEl80KmJFO7Qj8dnoc6CoCFZEfbis9uftO1O/DSmqa8FinMaxDb8fD/yjpSIT13728FvDdtvCwmSjNPirgaRSKLQbOdXq15EKVgJb74+PGXQEyV6++uZFw3fkxWcnDcdYWIy9cgN958c/DCvpYBfQc5Hjtn7hJnrZWmhZeYn+xPvCrvDS5z0NNaYsgFTe9dvVHJ4kecHTSOxW7sCeWJUcdyYAE=;dW0w/W9Qn+j6QbVu8yOWRA=="
+---
+

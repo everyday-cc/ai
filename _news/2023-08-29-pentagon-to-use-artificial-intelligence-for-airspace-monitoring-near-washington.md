@@ -38,20 +38,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Making Artificial Intelligence Work for You"
-    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
-    publishedDateTime: 2023-08-25T23:29:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 41
-    images:
-      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
-        width: 447
-        height: 559
-        isCached: true
 
 secured: "StR673WxYMEv4p/o7Hs+RmxFxsv2EmxnWBjSpbycIocvlPvVnIpCLaFa2qK4+2Oja6RcWPeR8KOQQdqQeRFIm3uZwQGUmaguWeIroXoMLCDdc04G+oCK1EgFqrbFn/MoKf3MaEJRcU9/pYURZXsgpGR9TUYEi0MdDqWR/GVWla/zSCMYwQ8lsa1MEnzK+TVc4dfNHfKQPml8hjXpyRFuyIcwvJElghUM+rj7SFWKvW27XOVMwcrzJ0WSSSMKqxkfNBz/075s7AbgNCrnlRx3uWB3dQftP1fn0lGGkIQ3epCjnymmECNh2zCgkPLhZPsIuYb4/qdjO8RE0mo6T73SRo72SPPSpGbFgLBvNnny3IU=;PFFmCijuSmpCesowxB2Yzw=="
 ---

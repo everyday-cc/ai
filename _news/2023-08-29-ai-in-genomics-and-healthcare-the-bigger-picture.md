@@ -41,6 +41,38 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
+    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
+    publishedDateTime: 2023-08-29T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
+    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
+    publishedDateTime: 2023-08-29T13:00:00Z
+    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
+  - title: "AI voice overs are taking over digital media"
+    excerpt: "with advanced speech recognition technology. When combined with a video upscaler to ensure maximum visual impact, the potential is almost endless."
+    publishedDateTime: 2023-08-29T15:41:00Z
+    webUrl: "https://bismarcktribune.com/life-entertainment/ai-voice-overs-are-taking-over-digital-media/article_b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9.html"
+    type: article
+    provider:
+      name: The Bismarck Tribune
+      domain: bismarcktribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/05/b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9/64ee0f658f866.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rep. Waters Expresses Concern Over AI Usage in Housing"
     excerpt: "In her letter, Rep. Waters notes that many online platforms rely on algorithms, as well as machine learning, to scale up their business services that help advertise housing, determine home values through Automated Valuation Models (AVMs), and make loan pricing decisions."
     publishedDateTime: 2023-08-28T20:24:00Z

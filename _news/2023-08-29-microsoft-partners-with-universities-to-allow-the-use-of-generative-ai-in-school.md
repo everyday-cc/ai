@@ -39,15 +39,24 @@ related:
         width: 1000
         height: 715
         isCached: true
-  - title: "AI startup Hugging Face hits $4.5 billion valuation on Microsoft and Amazon investments"
-    excerpt: "Several tech giants have invested in the AI tech startup that provides a platform for sharing code and models."
-    publishedDateTime: 2023-08-24T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/136785/hugging-face-ai-microsoft-amazon-investment"
+  - title: "Microsoft signs new partnership with AI and data analytics startup"
+    excerpt: "WASHINGTON — Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence ... Synthetaic’s AI product — the Rapid Automatic Image Categorization (RAIC) tool ..."
+    publishedDateTime: 2023-08-29T13:30:00Z
+    webUrl: "https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 26
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 34
+  - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
+    excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
+    publishedDateTime: 2023-08-29T13:28:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34087069/google-collaborates-with-nvidia-in-ai-expansion-a-strategic-play-against-titans-microsoft-openai-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "omanjgxUCB6SxB2FMHOxemZjTsRBGW9HnJXJwRkM3McfIG9e4p/OK25vsfSEcYhfDpAq1Wojxc943e2fugywMIPJtdL6wH3VYIxwIdMTWATJQl44UuWadbo2yRrmIWpB6e9aY8VTAAxgaL1Zj9UNSD5dJYB66qVAf+weAy9kVG/bDEY77YXFfMq448qkL1S8k2XdwnMhaAl9fOGw1Mf/dwWyHuVJwMhM22mfZ+bnuCy05TkiIlNz6r14joeECwbS872MmFwk19daYw3sGo3aXkpwF8KbOKmzMHYHzhRM2jXSpEtOqhs77J3M8KrNU6i0G4/CKyrnlOXZDVlD+qSboWmIXIHqL9mvBV7YpaIDLfsQiDEujrTwH+dLeKXuR7IZDdySJTajNpU09oGNdls6lnSycDlGHwu3jPTMq/A/EqY05V0mFtQOPSm0J58rlA185GMfiupPFfAfZTzuBhuVIgOHqAePyPuDeUFAz6IIkhQTobr1kSDY65kSv39mL/PppEvYV6mad/LVcnp6zrWd6w==;yO3ysBpMk6TKONu/Youq8w=="
 ---

@@ -1,52 +1,29 @@
 ---
 category: news
 title: "AI chatbot aims to provide support for women with postpartum depression: 'A tool, not a replacement'"
-excerpt: "With about one in eight women experiencing postpartum depression, amid a shortage of mental health providers, researchers at the University of Texas are looking to bridge the gap with an AI chatbot."
-publishedDateTime: 2023-08-26T06:00:00Z
-originalUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement"
-webUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement"
-ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
+excerpt: "With about one in eight women experiencing postpartum depression, amid a shortage of mental health providers, researchers at the University of Texas are looking to bridge the gap with an"
+publishedDateTime: 2023-08-26T02:01:00Z
+originalUrl: "https://www.foxbangor.com/news/national/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression-a-tool-not-a/article_6369059c-5527-5ab5-b1c4-2c0df27e0ad8.html"
+webUrl: "https://www.foxbangor.com/news/national/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression-a-tool-not-a/article_6369059c-5527-5ab5-b1c4-2c0df27e0ad8.html"
 type: article
-quality: 72
-heat: 82
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: foxbangor
+  domain: foxbangor.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11bfcb2-a242-4eb4-ad93-18ee66256f28/f0d2fcae-a162-4bc0-826d-4409847dad26/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.chicago2.vip.townnews.com/foxbangor.com/content/tncms/custom/image/25485082-29fc-11ed-8535-b7d822eb3744.png?resize=600%2C378"
+    width: 600
+    height: 378
     isCached: true
 
-related:
-  - title: "AI chatbot aims to provide support for women with postpartum depression"
-    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
-    publishedDateTime: 2023-08-26T18:10:00Z
-    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
-    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-
-secured: "IMKVWAHBRk3FZD6rYsrTN2xhBATVhjHN/58qJ5yk14qOApPHufudYku30WQjDsCfTRoSfWvmVDGmrH4Gtv76hACCAquYLEM+DA09kTkYn4qVtC5+wffdR0ThG3XuaVCCUdTsSSbc27NxsBX0ZDk5PFwVULtlDRLybto/KCa/tQBrcJvDjLUeBEpXPDnh6Et7D6vnFSTQCjhN14lBCb603pASJw0OH3QNGr2Bto8f2GRV4wDQM3ePrBuE3kByg6L0gtJExIRB3ddyI+QoTYXdTEdIsBGjc6KOWMTlg1aqmuBwKlFTw3JgwBx9t+DzWVtK8hqP6kKkMFJamaYDny2wFCRk20sw90+ghoUFNe51rcJUOQuOVoht1L01QK5O+wHwzRwJWCtMgPCVqfQ30n9TtIkPNfEt2jC7kIoCUnRZEA20E/p02TwYawjA0iTz3NI85l917TdjMgGOA8Q0KTkUsN8lL7YAxd1plGE2R1QUYGGXCde7AesxDuoVVcxNqdDJL43uJtsbr4nhSyUmcH7HyQ==;uaN8VOdPDMmUr/IyISK76A=="
+secured: "qQFF89tPRkYJVFgLrVRJ6S3Gt+qjaZfWtN2lfcNo39Kv/Yy/MvdLQ96y2lmy0KMqdjbvEHVwUrBeioykJUneiSpFR81aexbAG79dDio9csiE5NLalaaxC6b6G0JjpFF8RJaRRQ8fI0A6AeIyMM1kvGx1dB4lB3aJf/dB8K1aYL62yklh4p2FKXs9sRmUkL05lQYUUhHct6W9uSf3BdDthkf0f1JUdt3aKzP/GKPp/V94belC/8xrasU6Q586/1qZC5x+uuEf8n7mOtcGU2HNZCf628GtLqxjUpN627EwEsa7p0SYCWGFFcM9YDJTi8H3ocFi6L6GZmsw+Yh8apdlxZQ37i7JVqMBF9pa/F/gixs=;rN/DGvydCLnnZbBwgetk8A=="
 ---
 

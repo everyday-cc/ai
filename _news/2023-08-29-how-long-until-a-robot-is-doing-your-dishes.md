@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-66288309.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66288309.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "How long until a robot is doing your chores?"
-    excerpt: "Mr Rose is unwilling to put a time frame on when a robot might be in your house, doing your laundry or cleaning the bathroom. But others I have spoken to in the sector say it could be within ten years. Dozens of other firms around the world are working on the technology. In the UK, Dyson is investing in AI and robotics aimed at household chores."
-    publishedDateTime: 2023-08-28T23:37:00Z
-    webUrl: "https://www.bbc.com/news/business-66288309?at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=55B723C0-45FC-11EE-8A40-0B0DFE754D29&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_bbc_team=editorial"
-    ampWebUrl: "https://www.bbc.com/news/business-66288309.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66288309.amp"
+    excerpt: "It is working on the Optimus humanoid robot, which Mr Musk says could be on sale to the public in a few years' time. We will see whether that turns out be the case. What we can say now is that leaps forward in artificial intelligence mean the development ..."
+    publishedDateTime: 2023-08-29T10:28:00Z
+    webUrl: "https://www.aol.com/long-until-robot-doing-dishes-233726398.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2671/production/_130514890_03-sanctuaryai-phoenix-waistupheadshot-notarender.jpg"
-        width: 1024
-        height: 576
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/5eff393020af4000fc2bbdaf68b5d670"
+        width: 976
+        height: 549
         isCached: true
 
 secured: "q5Z0W9p55EgQB50yZZ/muRtR5GPxiUK+tXbXrC2qsluopIErU9nct3H/j8HEnxJidlcKCUOdUvJelVJKOzW1bcXDsk1kkKHPza6EiRPd+e1LtxH42hgMzFwCYEqE5E7XoTdNMK2pal1jzdhUVCo72dZuvMPrp+qwBRRuHENJ5LaJ9eSH1uStU8PkZ5e3enWLDK0tVnqKPHzE4cQw7mB2IYDiEagetEPFuC0R8RAWC+YnAVYiH0WpSIsc4nhrdUxIhVCi3ixzc/Mi211l/OBuSwcLRGE+hOmFpS+uoj7w2eaFHjNYruAvQGGxDKU0WLAF1U07R0xoBP5AXarrXYpoOSjAbMA40+ivXkPngz8W9crjUbuMuS1sg/Vq/kGmHwtgfXwRGGV0ou14rGr4BOT7p4LGw/48nWSI6a5SIbUkPxiriR32vJQ4og5LKHl0gg2OhE0jl5upcSsTUc2tuza+sssw+6mAOtR4i9FTMI/lYdbYIQN/F+xWi5URk7AsPZy8l5a+KBnA8Wu9QlfvuytU8A==;hUECRwYOnarZ++4G60jvxQ=="

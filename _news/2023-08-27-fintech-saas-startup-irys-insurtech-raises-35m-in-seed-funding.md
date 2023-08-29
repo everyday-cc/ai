@@ -57,15 +57,6 @@ related:
         width: 640
         height: 409
         isCached: true
-  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
-    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
-    publishedDateTime: 2023-08-24T19:45:00Z
-    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Onto Innovation Announces Over $100 Million in Orders for Systems Supporting Advanced Packaging for AI"
     excerpt: "The orders are from leading logic and memory manufacturers for heterogeneous integrated (HI) packages that combine a graphics processor (GPU) and numerous high bandwidth memory (HBM) devices to create an AI GPU in a single package. The Company expects ..."
     publishedDateTime: 2023-08-28T21:33:00Z
@@ -97,6 +88,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "I1m1vmTSblAd33LFkDnMiALEyUX42MzQyAw1HqzqH9Namt4HW1v781uS3MDIzkE1VgQZzRbO9y/+Q9x4oxMKC49GubE5hdDGsSmXEPfTMk9Pbnb4PWz0fT6B1vaQdbI8QEQFjObAIgzl4opbew/ysOWgRWPTaZW2uzO/7RPwniN1IXco3e+lSL8XkscyAC5QNZX6TTkWU2BhrJWu2zhV02wmSvLpJueHa0xQeOXYVdTXyURk+/AD/+lAVOCvQXmmQoztxMOeL9kSUJS1IYZ+G+QXQYB8KWanMDyYDm+E6wwOSwpeeJgN9t6hxClc5rEOBkLnu4Poaa0UpgmU80KuQFCO3XtgQPDI2YvPaqZ8v44=;rLyjVIXhs5k4XxL+yzPBtQ=="
+secured: "PISs9yQnE6v8lV1m6xXnk4TYTZX+PVuZ4AGlOgspQNTlANsKM8whDbahplN8wC790eXMe4udAR/BgM24gzfBKuk5FY6WqHOEqpHM/H1GSAEnOJ+MziDHXzBCHCx4nB3NcK2KiabCPqIs+UD328FXlv86bN8Eeejh638AGBlcmfVB3GYe1D3VM0P6za7zxe6ptPVLT9/5XJbfUp8MjG32upfrt9pFcN85UiVoKZkR5cEpTQHpJsJltwj4qbNvP3/dAN07yfT9xL1xyY+/OZR2+/tj+T9ifeD43m0lAAuDFPjp0R2XeR3iOR/a06jgRZRrWc8wzXuPlsaKROHFDlA4oBVwI4/QcKYDQgf/7cZs6rUbROvTPW9V5GsF0Rl8EZJBpiGCE9k4NeY9hqO5EiZg3c9z/g2oDdi1LFj7Xea7AnoY/a+EUJw0zTt5YcSD98+9mUvOEdxIWE/SW6s5i4qOFv1QxPRJCyZ1hM8HLk79fJbR4b+WrQGUGji6FroZ6WixYvMQWsXpP6sBeSP+g40p5A==;DoPiUoCT0+gANXz7zNqVcw=="
 ---
 

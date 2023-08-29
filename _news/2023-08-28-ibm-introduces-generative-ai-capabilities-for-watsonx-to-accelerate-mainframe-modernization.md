@@ -49,20 +49,6 @@ related:
         width: 640
         height: 359
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-08-25T16:23:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 34
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Generative AI Report: Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
     excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
     publishedDateTime: 2023-08-28T19:07:00Z

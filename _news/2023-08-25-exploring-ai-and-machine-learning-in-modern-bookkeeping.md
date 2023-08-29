@@ -7,8 +7,8 @@ originalUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-l
 webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Accounting Today
@@ -25,15 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring The Benefits Of EXplainable Artificial Intelligence (XAI) In The Realm Of Marketing"
-    excerpt: "In the ever-evolving landscape of artificial intelligence (AI) and machine learning, the concept of eXplainable Artificial Intelligence (XAI) has emerged as a pivotal development. XAI is the practice of making AI systems more transparent,"
-    publishedDateTime: 2023-08-25T11:58:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/25/exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing/"
+  - title: "Resisting and reimagining Artificial Intelligence"
+    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
+    publishedDateTime: 2023-08-25T09:02:00Z
+    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: ei-ie
+      domain: ei-ie.org
+    quality: 39
+    images:
+      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
+        width: 1448
+        height: 762
+        isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Is using Artificial Intelligence an answer to keeping students safe in school?"
+    excerpt: "Is that enough? Artificial intelligence has been added as an extra layer of security at a number of school divisions across the country. They’ve partnered with companies like Actuate, Omnilert, and ZeroEyes. Rob Huberty, the Chief Operations Officer of ..."
+    publishedDateTime: 2023-08-29T09:54:00Z
+    webUrl: "https://www.wtkr.com/news/is-using-artificial-intelligence-an-answer-to-keeping-students-safe-in-school"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 33
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/63a738f/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2Fc6%2Fcd40205d4276836147184f1fb3c8%2Fthumbnail-ai-security-fs.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mYfcPO9e1rzVI6eF6QdD71fJyI07T2KwXFDILQZ/KKcTx2oiGamZC5E/MeESlu/7ZU98pWyGeR20/qVI+cIT8hp54ShdMen4NdcVYIbUaPKuqiNnMFs+Rq97CmpLMwZPLZfI9rFI8b+YkXG2NXu/kSSE0wq9fQkU5MSN9abHlXl6iAezO5yrk1nhrOTpp1xzmpGy8ggmVRImJfqQJqup1IjFKkLyTeoc+KPPpK3/pWEB7FPmEPgOUBYRx5+MnnLn4pbo84NmXxM/pDGi8YslhXNaEsget+7BhOzn/WlIDhXRGljVTAm8q/v+7/eLD/hy3oR82RC9k/MVDCap0uwdTOkYBxq2i7gvR+YioIwBKhXww60a1yDYsJkqJAAe8iRl5+cr6zJqbJZgtzj5A6+wqRU8OwFbdE6bucRW2nT3inFVVStKxDTZLJVWcedQny5APIg/fUDEFsnfEKZ9myBsOA2eaGC64wWjVgXXk66yg33IVpmWeOEsl7+PUwmPAjtTOIBwBAXKqmT4pDKIh1t2Lw==;2ZLkGvrtJbXB0m4LzyziMA=="
 ---

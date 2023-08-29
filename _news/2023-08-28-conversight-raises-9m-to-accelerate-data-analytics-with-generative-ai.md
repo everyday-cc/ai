@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, advanced analytics, Medicaid fraud take center stage at National Conference for Healthcare Payers"
-    excerpt: "Utilizing advanced data analytics and Artificial Intelligence (AI), Sandata Fraud Alert ... the District of Columbia Department of Health Care Finance Division of Program Integrity showcased its strategic collaboration with Sandata Technologies, the ..."
-    publishedDateTime: 2023-08-24T22:15:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53070395/ai-advanced-analytics-medicaid-fraud-take-center-stage-at-national-conference-for-healthcare-payers"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/medicaid_fraud_1.64e7d1e26b2dd.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
     excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
     publishedDateTime: 2023-08-28T14:06:00Z
@@ -57,6 +43,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Rockset Raises $44 Million in Funding to Power Search, Analytics, and AI Applications"
+    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Recommendation engines to ..."
+    publishedDateTime: 2023-08-29T13:08:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/rockset-raises-44-million-in-funding-to-power-search-analytics-and-ai-applications/article_fbf6b376-67cb-541d-b955-a8df48cf3c8a.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "jCiWCLD36zHANiAEM6XbGc2kL8lKERWwaK8AscvgJ5coVcwLyC/WinCVhPafLUsDQVqZR0YnrHh5KJoXUHii5VDCKngVOeT6Ui0Q2mCPQ9QktiZjryOpiS1nNBwdm4VoQzzPJS62TptZKxnmgpHlI9EIhUX5fPAwkMvfZlnsYetZYOhq722dL8Es3tNV9khHNyet4aoY0T5CStMcfeZB356RXE4IZPZXrhVifU/7HBDenkjLxGpVFwP0x4NQUclm59t0uDukdrrgzhLPEzzVft/zBUtsSpND/ISuzFY8Zhq9zLtpkemMtfvXsiogFEcvhNZrdy8FJ4+eJRza9X6bLvSUqsd/KX093OZdMEO31l2xVy/04oRs3RtViBiUjTUN5rnqXl9Wcx0allMwBrYAz1GCmX0Grfwda3jPBcThdodDAnVrBENXkSPyc4cuocBuQHi+w3JJpX8LL+Zof11tFBq+gMRyU2AN8YPY6YB7s0ObCabTcBKB6gmfrSVMbvFuZdqL/V2dlcZjr+SV0nF5vQ==;MtVqbUlT/FiXkjUk7ZdEXQ=="

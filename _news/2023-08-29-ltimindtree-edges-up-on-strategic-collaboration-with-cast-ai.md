@@ -53,17 +53,6 @@ related:
       domain: thehindubusinessline.com
     quality: 39
   - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "Business Wire India LTIMindtree [NSE: LTIM, BSE: 540005], a global technology consulting and digital solutions company"
-    publishedDateTime: 2023-08-29T04:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 30
-  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
     excerpt: "This collaboration brings together LTIMindtree's Infinity platform, with CAST AI's cloud cost optimization platform to provide enterprises with a complete view of their cloud portfolio. This combined offering will empower organizations to optimize Kubernetes management and costs in a single or multi-cloud environments,"
     publishedDateTime: 2023-08-28T14:15:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-ltimindtree-collaborates-with-cast-ai-help-businesses-optimize-/2023/08/28/9870785.htm"
@@ -71,6 +60,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 10
+  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
+    excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
+    publishedDateTime: 2023-08-29T13:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ltimindtree-collaborates-with-cast-ai-to-help-businesses-optimize-their-cloud-investments/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 10
 
 secured: "s+kyD63mbPvpKsl2BwCbs0CkvS7MOS+BFtZQpxsfoqIW+5CGuRmmPoGEP11WDshknzCgLNxDy+UKK55wqP0P6I8/Nakxxk3l11yl6jdi75Ud7Olzr9RtD1GycVExEEM1yltYhLhDSXSmhwooQX+0NuvoUr9V5h8QzPTizdKe0j5debkQfDwoC7P/D/DIQXQQ7SH8/g6OIV5ekd0cSk6zm5hAuinv8Y82oPqS3NjLe9PqA4sMNIfcWWZB2WLXsmmJurvGC2AdI9p3D8O7lZeMEE4Y9viydqXJWJ6BLNO0bp21x8He7z3VeO2INq4bxjvoA/+m2VXF9x/aNW0mTy6jcnn0OBnTy5Nh/Ahe1eRSgZ9DBazRDEpCtiDMWRXEVyHsjSsmLPxsjMoW7yS96ZKq76xNx0GbyTIA21pTJz1bYwfxOhwAlcbQMCJkElq3jxNfS1u5Z2QcU6DyhzBtFQ8y3gtsZa2QO0PpOY0/5Y7cffcju8KTn4Vi0CidpG3rGMXT3bn7BkpulHVZziU5NvWjAw==;OSSpWHY9MLwgVZp1gA+bdg=="

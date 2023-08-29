@@ -41,19 +41,19 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "AI, advanced analytics, Medicaid fraud take center stage at National Conference for Healthcare Payers"
-    excerpt: "Utilizing advanced data analytics and Artificial Intelligence (AI), Sandata Fraud Alert ... the District of Columbia Department of Health Care Finance Division of Program Integrity showcased its strategic collaboration with Sandata Technologies, the ..."
-    publishedDateTime: 2023-08-24T22:15:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53070395/ai-advanced-analytics-medicaid-fraud-take-center-stage-at-national-conference-for-healthcare-payers"
+  - title: "Rockset Raises $44 Million in Funding to Power Search, Analytics, and AI Applications"
+    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Recommendation engines to ..."
+    publishedDateTime: 2023-08-29T13:08:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/rockset-raises-44-million-in-funding-to-power-search-analytics-and-ai-applications/article_fbf6b376-67cb-541d-b955-a8df48cf3c8a.html"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 32
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/medicaid_fraud_1.64e7d1e26b2dd.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "TPJWWZ76HpAMpyzJYrZnuoR0M3z74NT1laU+5tb8z15NGxQ/+3+Vi0v13h7Ps5PDWQgAt4wdD58J1UkhrX//JRU4FUcQ64zYgwoNztaZUkZQnx7PExyneZDTFOlhtTBQdakIJw3yqahaC1B+14MBaFU+SPfD9slmhs8Cz+Pe/8q2ljtUVIrITjsfAUcI2BGRYg3Qfu5khAGR+apfGMQdowXnO9VOzkeyV7WQCLadMxyXKH5yjLhEkrXxSTkx1rbOpEyBTDKlKJyzOTOyT3KYip6hv6zsoI3sZGwxnOO9jcCXUDPNwRp/7zvcucnhJtc72g0/C3/Kjkyl1wn6jp/JlV72p7JKZSClO7+6WREPoD64ZcuxYjmoeQFnhZfCmKJTa0/eU9c9SwDUfU4E9APR2Lff9zCAP7MB8AMSPDGCD4pxV1AIqOBNBr8PVusJi3HCph3lFNfNipD4DrB0A8W8YmOhfZNFEXoDYj6XQrqBExlXdwSTPNd1y9qZR1va/Dq9BOinvzEyTp9QfFi/StVJoA==;2ZdnWB3Y3ltY9/I11mIL3A=="

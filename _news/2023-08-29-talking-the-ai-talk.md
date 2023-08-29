@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "14 AI Jobs Of The Future – NOW"
-    excerpt: "Don’t look now, but the future is here, and with it come the jobs of the future. In fact, more of the future is already behind us – in terms of jobs – than we realize."
-    publishedDateTime: 2023-08-24T22:06:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/24/14-ai-jobs-of-the-future--now/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643aedc551ee8eed2ea00895/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 708
-        isCached: true
   - title: "How To Honor Artists In The Age Of AI"
     excerpt: "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you."
     publishedDateTime: 2023-08-28T11:00:00Z

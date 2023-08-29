@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-st
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 640
         height: 409
         isCached: true
-  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
-    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
-    publishedDateTime: 2023-08-24T19:45:00Z
-    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Onto Innovation Announces Over $100 Million in Orders for Systems Supporting Advanced Packaging for AI"
     excerpt: "The orders are from leading logic and memory manufacturers for heterogeneous integrated (HI) packages that combine a graphics processor (GPU) and numerous high bandwidth memory (HBM) devices to create an AI GPU in a single package. The Company expects ..."
     publishedDateTime: 2023-08-28T21:33:00Z

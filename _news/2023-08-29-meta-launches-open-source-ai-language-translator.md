@@ -26,45 +26,56 @@ images:
     isCached: true
 
 related:
-  - title: "Meta introduces SeamlessM4T AI system to help you translate 100 languages"
-    excerpt: "unlike traditional language translation tools, which have issues with limited language coverage, the SeamlessM4T open-source AI model effortlessly handles speech-to-text and text-to-text ..."
-    publishedDateTime: 2023-08-25T12:10:00Z
-    webUrl: "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp"
+  - title: "Finance Transformation With AI And Open Banking"
+    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
+    publishedDateTime: 2023-08-29T13:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+  - title: "Making Artificial Intelligence Work for You"
+    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
+    publishedDateTime: 2023-08-25T23:29:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 41
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/Meta-logo-image-103.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
+        width: 447
+        height: 559
         isCached: true
-  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
-    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
-    publishedDateTime: 2023-08-25T09:07:00Z
-    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
+  - title: "How AI and machine learning can help with DEI hiring"
+    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
     type: article
     provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 44
-    images:
-      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Why Meta’s SeamlessM4T AI model is actually really exciting"
-    excerpt: "Meta has finally taken a huge step towards creating a universal translator with the reveal of its SeamlessM4T AI model."
-    publishedDateTime: 2023-08-26T19:10:00Z
-    webUrl: "https://bgr.com/tech/why-metas-seamlessm4t-ai-model-is-actually-really-exciting/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 21
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 34
 
 secured: "0t+yuhDGn5esaq5RvTO9J2ZE+XEO0R5v+mmW9QEsuvAeL2R3+uWZYvMo3w11LTjWEuwE1MCGne5rp+ZHHbBzmX2XS5bgVfFG0dC4SgAZS9rGiLFsa6/GfaB4swWQcNaBJE5Vd8WZJ6GT5Mha/Y2GoVu3P/HhU+8ebew8rBl3yNvC0f/WL+0nOn2qOKSL4pfTiiMqnCsIAGamEEUGItIyu/NA8s73fgWCpIEeP1M2/I4Upo/76oRWTDem6Z4qdD9yxNAAprtAuLgmxlHAuCIy0A2jH+qO9FkStInExfLvV/n8ydG9TFL4O3E484AS4mD+N0pYwoElMo1Mfq0NAtZVyrDVrQcjvt8V1eB2RH4GM4PNG4ZA0AnFYm/8YZM1m3VEml9zSiZ04KRcKIDQdykcuBf5yIt9a6nFS1jhDLlTGiBcJ9IRl+kXOVkX+BoczTV2D5FDZ0anbcMpLq6YXyfIpsQAiUChbeqIjHUBeJUPupoKQbzRLm5VHiPNyO7bA82dk55aNc/Fnr1E9OZRc6l3yg==;kYT2Jud4/tqrwdSJk9/xMw=="
 ---

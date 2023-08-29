@@ -23,17 +23,6 @@ images:
     height: 549
     isCached: true
 
-related:
-  - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
-    excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
-    publishedDateTime: 2023-08-28T21:25:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/999255"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 5
-
 secured: "e2uCe4dj35Am2Ezm8NNg+JENNu0Jn6RR7FJ+i5nAkQ+bmNdaI7K42v7mSXZmHvPdY2f0XQuZb91PgwzQjq9WV4DyrzwpXkoQXjNSI5AhjJZMAlDQ9PhjC05Av4ker3NbgGHA2UvrUXf1t9YQw4IgOXQMQwBzfDsN0MsphIgryh1N2HrJBiQx8RwA3yHzzRP8bC3iUqAMTZIsL5H1JIIlTwcQwLkp2lf4Ju5DnAMocyF3b/FoiWBGTaz7k/TKV9m50YJWi97Ovd4mUep990FzM8SFgZMyjYETatnAX+G7wJUBcrg9yqK2pdUC8UwcUbp9WMeOXCH2XI5HDnL4E9E1DPOvvV++Mg+ad7Edq0q6e52NQvDAQb6M/TbPiV31APw51MM78St8CURKdo1NRxj4Tt+rzn3RFaZBvTjv8oSKCECat1HA4ZNEq/bYZ8ooJ6xeNed5MJMsp/kBpEr1+rf5eCUiQpBvnBH62QHbIpyAywBuR/cqxAKfxL8xl+2fVkpNigQUWepWvqZ9xgyU3pjFgg==;9s9cqGrRSn+RmMuHIl/LBw=="
 ---
 

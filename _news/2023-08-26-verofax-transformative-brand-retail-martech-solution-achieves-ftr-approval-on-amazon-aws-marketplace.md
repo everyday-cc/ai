@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aws Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace"
-    excerpt: "leveraging the unparalleled capabilities of AWS. Verofax specializes in brand-customer direct engagement by transforming products into powerful marketing tools. With patented technologies such as computer vision, Artificial Intelligence (AI), and product ..."
-    publishedDateTime: 2023-08-24T19:23:00Z
-    webUrl: "https://menafn.com/1106938604/Aws-Approves-And-Lists-Verofax-Martech-Solution-For-Brands-Retail-On-Global-Marketplace"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/24/M_b50bfimage_story.jpg"
-        width: 650
-        height: 328
-        isCached: true
   - title: "Amazon Web Services: Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
     excerpt: "DUBAI, Aug 25, 2023 - (JCN Newswire) - Verofax, an award-winning Brand & Retail Martech solution provider, has been awarded AWS' Full Technical Review ... technologies such as computer vision, Artificial Intelligence (AI) and product digitization, Verofax ..."
     publishedDateTime: 2023-08-25T15:38:00Z
@@ -64,6 +50,20 @@ related:
     quality: 38
     images:
       - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
+        width: 650
+        height: 328
+        isCached: true
+  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
+    excerpt: "Verofax wins The Artificial Intelligence Award at the Rocket Fuel Startup Competition during LEAP 2023 in Riyadh, Feb 21, 2023."
+    publishedDateTime: 2023-08-29T14:55:00Z
+    webUrl: "https://newsmaker.com.au/news/388603/verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace"
+    type: article
+    provider:
+      name: News Maker
+      domain: newsmaker.com.au
+    quality: 38
+    images:
+      - url: "https://photos.acnnewswire.com/tr:n-650/Verofax08232023.jpg"
         width: 650
         height: 328
         isCached: true

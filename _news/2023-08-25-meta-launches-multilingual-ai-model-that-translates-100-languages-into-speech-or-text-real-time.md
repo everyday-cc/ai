@@ -42,20 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta launches open-source AI language translator"
-    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
-    publishedDateTime: 2023-08-28T23:15:00Z
-    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 41
-    images:
-      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Why Meta’s SeamlessM4T AI model is actually really exciting"
     excerpt: "Meta has finally taken a huge step towards creating a universal translator with the reveal of its SeamlessM4T AI model."
     publishedDateTime: 2023-08-26T19:10:00Z

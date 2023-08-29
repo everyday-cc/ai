@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Haven't reached the point where AI can be allowed to run amok: Salesforce India CEO Arundhati Bhattacharya"
-    excerpt: "Bhattacharya, who joined the US's cloud-based service provider as its India chief executive officer in 2020, said that there's a lot of research going on to ensure that Generative AI can be used for better and more involved use cases."
-    publishedDateTime: 2023-08-25T15:16:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-havent-reached-the-point-where-ai-can-be-allowed-to-run-amok-salesforce-india-ceo-arundhati-bhattacharya-250680"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-havent-reached-the-point-where-ai-can-be-allowed-to-run-amok-salesforce-india-ceo-arundhati-bhattacharya-250680/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-havent-reached-the-point-where-ai-can-be-allowed-to-run-amok-salesforce-india-ceo-arundhati-bhattacharya-250680/amp"
+  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
+    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
+    publishedDateTime: 2023-08-28T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 41
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2023/08/25/257915-arundhatisalesforce.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "C+nmRe88lNUSrg7SzMF5kiYs0dJbfSPkxWUG4/PLHHHrxYDrRp4mAnzZ/UMRL+DJbKeK6IDuD8rgZHD7/UT5SEADOdre2S0oH3ZvtEEkt9UpBdP8kpPsDqGFDYyLLiy3/0IQLVsPtpg4ET8Fp5SLTrfHysQa0tyELL95ESNxQ1fIZh9QOprBfv0QL9+DT5ojVTEDeWUenjY7iUtAEGW19LNVNEdneTO0WaK94W59k9YCHN6IUnqLsz+n7C7iQ4j3T4bE46yufEwVlLhBWHEugHoYSY17ffE/k7q5wE8a79vT1hbe8DtuwHMOg2FIUmTtO2fJLNBGIiEvwPyCh+SWHuX9lCYp29ATwe4g6Cj8828=;at0I/xJrEB9gUT3UIcU1HQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
+    excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
+    publishedDateTime: 2023-08-29T14:58:00Z
+    webUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/"
+    ampWebUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-uy2nyfww9-1693318939415.jpg?quality=75&strip=all&1693304575&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
     excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
     publishedDateTime: 2023-08-26T17:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/new-nlrb-rules-favor-mandatory-u
 webUrl: "https://www.jdsupra.com/legalnews/new-nlrb-rules-favor-mandatory-union-5060677/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,36 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
-
-related:
-  - title: "The weaponization of AI: How businesses can balance regulation and innovation"
-    excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
-    publishedDateTime: 2023-08-27T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
-        width: 1198
-        height: 672
-        isCached: true
-  - title: "China Enacts Groundbreaking Regulations To Vet Generative AI — Will Other Nations Follow Suit?"
-    excerpt: "promoting innovation and combining law-based governance,” it also imposed these regulations to ensure that generative AI services “abide by laws and administrative regulations” and “respect social morality and ethics.” With regard to IP rights ..."
-    publishedDateTime: 2023-08-24T23:37:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/china-enacts-groundbreaking-regulations-2366808/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "PqgxTk3T27ie3x798MKLcDcn5aZeZTo3eg59t5FXcQHwSc8ATHlZJYcTnje4h7wzU2Tyy+Ta9E4X4T3PJT3euIYNH7PhtG3fVrA2FIHyKXnUHMWRFBHcHnhcJQh4svTGFHArZai6jAchn0uOO8zg526E7EUhcieYL5iPP5tea/j+Ixg46y4m6hRcVsivZTRDcawq1cKtT53Kp6VDU82oTV1tPbEkmMwBA/PteJlAQebMrNOJtTQGR2AbBtb4lVVyiLzHxbBrkcEFnXB3JyjvW7ollIiHN4nlHTPD5Fr4rXmX4+sZl//drHRTr8JkI1YkRNVKZRmTPKX4huN7S+mkUCoHb+tH/GnJ3MGIWjEKik0=;7lNZcR0SqxrJf0Zq+jCkog=="
 ---

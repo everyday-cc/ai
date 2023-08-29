@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipm
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: telecom.economictimes.indiatimes
@@ -43,7 +43,16 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
+    excerpt: "Hitachi Astemo Americas, Inc. manufactures and markets engine management, electric powertrain and integrated vehicle controls for major automotive manufacturers worldwide, adhering to ISO/TS:16949:2009 industry standards. For more information, visit https://am.hitachiastemo.com/."
+    publishedDateTime: 2023-08-29T15:41:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871336.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
-secured: "tzv5JTZEz5LovacHy4LhpZGdrXMQueeXh7wFH1Nenjvb5roD1rLOHQl+38WJaCkcsZiv18matKJiCBiQBrkekI7sDoOE8o0szgPu8mDiMkaDXiAlGrQTBdl+kXjaT+TwO28OmnWG1o2OMUPXenApJ99195dqqGJlMCr/rGu8fd2PQ8hvesBvbT9JGrgT4U1tBfIjq8csaEgNnVqeCz3wew951+Z7mscGILOZE7/Qsv7/Grj70S8/o/6H/xtkPhTkzlTlY4uRpV3TZ/9QOHdPBfWNleeexUyGsu12ZG1L49XxBu2efq+E7M75YSWKMetW0hX8Z2GiZt1PlpC5vaHqyaH/Q29ttFFxFTmWi2t1F68=;7Nu5Fd9lz5Ug3kFjqsAZPg=="
+secured: "UB2kQyQGh0wynoi6RUwVl0a7J4Xoiadnl0yJOko3O6G/UPU60Bp2LoS3FnQ1Zbs7n5wddBmhhSp8iwfAPpjwt6N2dJwbFLvbkBxe3DAXpd5jheaCfCgR7Wo34Nc0lS4+hOfp17hgNrlhq8xgQKche+hKMc94rIVSz2QU2koPuuRDeJWK/WW4ztiAVbPAV5jMHWonZUpb8JccSYHKCm08qS0d6cM87wP0zeAYPSjz743Dy0HzF1cyw+Mw3cdagz9Dcf/FxUPq3p9WQi/spd8EVRgqI5bWZTOK0FusWLj5VJlg8I/5f4HveZWMAQiCTRGq/WXHQ7KAi1jIlOfrzY61Z0v06t4FQMJj9+hoQoxrsO0lpVbcy5WovrbuRytjQLdt8DJ7YSQFdS4WpozIrh+au/pQQbVy49DmN5I5ZE45s16WrH0vSzFbx7em1zKTR2jq20rMJzFpJvNCHXgARiRLkF2zjZYed3YZa2i6Cp0utvrEf9wI6w0RovbYb692cKTB0pIMEX1dz89rfTdz7KOshA==;7EQy2MaNM6pktORdMsjcWg=="
 ---
 

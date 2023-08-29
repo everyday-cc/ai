@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it-leaders-expect-generative-ai-have-a-big/458054"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,31 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Nearly 40% of workers think generative AI can help with workplace communication"
-    excerpt: "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier."
-    publishedDateTime: 2023-08-25T17:44:00Z
-    webUrl: "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
+  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
+    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
+    publishedDateTime: 2023-08-25T09:11:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 43
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Meta's free generative AI tool will help you write code"
-    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
-    publishedDateTime: 2023-08-25T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
 
 secured: "OB2UEfddWFky2DTPECMiYbEzaMcDZOsyOsYb7ERmK+sLe6gAJnb/dJWp5mB7MtzemsOwj/oLVnKcgmVP2h+mowi/A4fazkdInQD5Nl7TJRi52e/e97kH6OKMOvn1uvQrcOyQ55Mydw24V5v9Lqi8iRACWSwYGRHT+fm57FWFOpf0hUwyPFPcUnS3kbOwvKiO3Sk94i9vdXF4WgqOFkjOUdgSz3yJNz4fSa2Vpb6pN6Ay3vjmrJnNNZUv6lj9FDiG6C2xFp/01OMvVxyvUBCfho5eAzRtXETdLis9mmjIdNPL37o4ljxQT9njTAm7goHsXZ51JB1Bs5/jNk8oOsUXHR03H9bEux/3Pl2kKvMrdkw=;UvNnu02BtOf82DP9h3pbrg=="
 ---

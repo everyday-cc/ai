@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intellig
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
 type: article
 quality: 72
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 640
     height: 390
     isCached: true
-
-related:
-  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
-    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
-    publishedDateTime: 2023-08-28T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "pbRhWZpQqsIS+IN6HOyy1BqTBk+E4DLHzRmf/ZFqpBtIIZVBNR0nz4lmqFLjAt/Zd4uilai1FYtI/Tqxzq4aYZE3/AGFQ0JJi2o3BR3zUAxY/XykRGFazk7U5Glt/GC3uepR58f6NorUlQor3XytoY7ziQfabc4g2wUWaZjzyTh5I9BfzCcHfi8pvWjTLYVHdrTqq6TvPo4m2jyATdFUvLJguVuqoDoxMe8pwjqTr/JdTXKwPzQrosD3MGSMKO0PHOpqH24lqRb+cvJHaj5IeUG2j74gmjGlowiSg7hvD2OfTjAV623v5m9SfdsYzHIIAGZaksj4GMQuBig9eLtvg7AikvRAot8CswRYFxN8BX4MdqMtfiCHj9cpQn0f1hRkYQS7mh63sBFUBSQUJbfsdu1FXPJdT1JUkiilLBa9EFRw9Kul7aZ7he4+BISthsIzVjJWOGQzxH2BoWx7YuPISaclB/hh8RLyMR8ch5JygYE4UzTenh6cyO3uRFDX2h17b6qpKc0pItYjdjH5tanbYg==;bZaeUCHKxoGjyHPkRLYxDA=="
 ---

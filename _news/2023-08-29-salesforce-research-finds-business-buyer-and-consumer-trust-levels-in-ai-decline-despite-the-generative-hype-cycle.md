@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-cons
 ampWebUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
@@ -43,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How 3 healthcare organizations are using generative AI"
+    excerpt: "We’re introducing Google Cloud healthcare customers using Med-PaLM 2 and other generative AI solutions."
+    publishedDateTime: 2023-08-29T12:00:00Z
+    webUrl: "https://blog.google/technology/health/cloud-next-generative-ai-health/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 86
   - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
     excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
     publishedDateTime: 2023-08-27T04:53:00Z
@@ -91,6 +101,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Using artificial intelligence to write a business plan"
+    excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
+    publishedDateTime: 2023-08-29T15:20:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/24537-using-artificial-intelligence-to-write-a-business-plan"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 37
+    images:
+      - url: "https://www.foodbusinessnews.net/ext/resources/2023/08/29/AI_Lead-AdSt-Tierney.jpg?height=635&t=1693322208&width=1200"
+        width: 953
+        height: 635
+        isCached: true
+  - title: "SoftServe Launches Generative AI Lab"
+    excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
+    publishedDateTime: 2023-08-29T15:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-softserve-launches-generative-ai-lab-/2023/08/29/9871692.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
     excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
     publishedDateTime: 2023-08-25T14:15:00Z
@@ -106,6 +139,6 @@ related:
         height: 576
         isCached: true
 
-secured: "9dKwW8CBE+MH7BZwzmj298RXKbDeD7EokxJ9xIn4MChr9KWUHOJqnA0au3t+ygYZQKaiT2k4WBplf9KtrMAgN7FEVU4CGp5OW0gaaP5TL4ZRq1wcfjmi1+wWvA9VGVbEYM2hiV3UeN/c2nvgLl1MfxXSQWznzEcOyL87DyAgQ4kWut35dB1x3X6AwxNI8T3aZT4t19/x9LGLB5m43wGmjYhtmUHeI+Dn2O0Txo/1Z5bmpWzRuKhSPJ2+2QpQfwxKrlxAmXwy9d1BbXQH/pKJYubuPRf6c/mn5OC0j8QI3ugqB0VveicFQvR9nk3mvDcrb4gMttzHd6JCS3pNAqZF774qMIu7LlFCW1IoboB6gOk=;qubFFbd2FrTw0ziH3OxBqQ=="
+secured: "ojDi82QLqHFiJwqGKuz3A/qhR3+CqyJMszy+mClK6rgvY/PoZk9G16h3B/x/JvkUyUc87wJod2ZuXV8P5KhkloyvisZhDKyyGwbKp820fKHXn/UvhGfCx/iFHacVrQR7iKpVeZxv4U/g1JUuv7ckXvCiWjzc5jyxvF/5fwfdJ85cpbmtqMDX4zOwc8FI+POCUYTUntI8UlKhvnEfRZvH73wvtzogw27yrZA1233SpG0SZBKmSDzZf7GJoqCqeKknRf5vySQ+tTK63nWF5BfDb1215nGh2tX+oWqcilNLXIyuR5tVSfVPuZPQYjU2yL1k3tgIxTliYnrI7M9TSDm2QEZXXxsrabULmd71TvtLYCVfHnkNrQ1m58N07rrZcgU9NzeiA1+32gl6t/tyzq3evs/MtEHBhcSMuWxfVVOgoVmfhBobVn6Qs/VAP8Pj/FqwICqCE4Q4x2FUJ20ftRxzoXsPmSbXYbQuvfvyYd5rrKGfa6NtvrKk9uUYjGAxACmN6qSNodmaCSSzeXppnxqnug==;v7G2oqdaaAitmYV8WinhuQ=="
 ---
 

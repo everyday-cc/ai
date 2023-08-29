@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Jio promises Artificial Intelligence to everyone, everywhere: Mukesh Ambani at AGM"
-    excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries 46th Annual General Meeting."
-    publishedDateTime: 2023-08-29T05:20:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230828/4113255.html"
+  - title: "“Jio promises Artificial Intelligence to everyone, everywhere”: Mukesh Ambani at AGM"
+    excerpt: "\"Seven years ago, Jio promised broadband connectivity to everyone, everywhere. We have delivered. Today Jio promises AI to everyone, everywhere. And we shall deliver,\" Mukesh Ambani said at Reliance Industries' 46th Annual General Meeting."
+    publishedDateTime: 2023-08-29T13:10:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/jio-promises-artificial-intelligence-to-everyone-everywhere-mukesh-ambani-at-agm-71693247418418.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 11
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 10
   - title: "Reliance Chairman Mukesh Ambani Push Artificial Intelligence Plans: Jio Promises AI to Everyone, Everywhere in India"
     excerpt: "Ambani pledged the company's commitment to create up to 2,000 MW of AI-ready computing capacity, across both cloud and edge locations."
     publishedDateTime: 2023-08-28T11:31:00Z

@@ -27,22 +27,72 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbot aims to provide support for women with postpartum depression: 'A tool, not a replacement'"
-    excerpt: "With about one in eight women experiencing postpartum depression, amid a shortage of mental health providers, researchers at the University of Texas are looking to bridge the gap with an AI chatbot."
-    publishedDateTime: 2023-08-26T06:00:00Z
-    webUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement"
-    ampWebUrl: "https://www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-chatbot-aims-provide-support-women-postpartum-depression-tool-not-replacement.amp"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
+    publishedDateTime: 2023-08-29T14:55:00Z
+    webUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 72
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11bfcb2-a242-4eb4-ad93-18ee66256f28/f0d2fcae-a162-4bc0-826d-4409847dad26/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
-        height: 675
+        height: 798
         isCached: true
+  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
+    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
+    publishedDateTime: 2023-08-28T12:11:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
+    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
+    publishedDateTime: 2023-08-28T10:00:00Z
+    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
+    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
+    publishedDateTime: 2023-08-26T18:54:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Nervous About ChatGPT? Try ChatGPT With a Hammer"
+    excerpt: "An LLM can generate code much faster than any human programmer, so it can manipulate the systems and services of your computer with ease ... generative AI sudden access to millions of APIs—as Microsoft plans to—could be a little like letting a toddler ..."
+    publishedDateTime: 2023-08-29T12:00:00Z
+    webUrl: "https://www.wired.com/story/does-chatgpt-make-you-nervous-try-chatgpt-with-a-hammer/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
+  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
+    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
+    publishedDateTime: 2023-08-25T11:31:00Z
+    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 18
 
 secured: "cf4vjjteHKp0UQltVu+tJ2sd9YAzLgokDxIhbVr993duQbmo3BC2fAcve5+G6YZO3RqhDSRWqrv9evnagvymjnqbcWpYsZfuUhzkTZ8dTH0S8vb/ALPu+S9hQFjx32VMK8/rpPKwIqFyeK8esYc5dobNNOlwsNIkfqiXsHzhRmgPkVEb16QMwZ8f4qU7RPwvWg5pEX8pU2ACN0aP7U6C/C4Jvn+ToMMdTqZ8MXbyhmgsQod2gpi6GyRupKUGFBl0UeNDUYOGIzOEDZQ8W/UWJ8JqZxwTQdiRFS46VzLxbNRTPhcZkyonQhzg0g528mN90ApZhEeoIht7HkrSL4FmNX+T2PKWCx6JocuxyCoJaiE=;ikWzh26EvQTnTR4XKYh+LA=="
 ---

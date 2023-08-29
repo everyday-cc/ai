@@ -65,20 +65,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Nvidia is flying high thanks to AI"
-    excerpt: "Nvidia is benefiting from being a company in the right place at the right time, where its GPU chips are in high demand to run large language models and other AI-fueled workloads. That in turn is driving Nvidia’s astonishing growth this quarter."
-    publishedDateTime: 2023-08-24T21:07:00Z
-    webUrl: "https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Nvidia: A Moat In AI GPU Technology"
     excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
     publishedDateTime: 2023-08-25T13:40:00Z

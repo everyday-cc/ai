@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud"
+    excerpt: "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers."
+    publishedDateTime: 2023-08-29T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/63b242168e371cf2ef4ae64a90a33d552ba837c4/2023/08/29/268d1250-ced6-490a-9d7c-3f353a068be7/gettyimages-1236886242.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why generative AI is a double-edged sword for the cybersecurity sector"
     excerpt: "Understanding the capabilities of generative AI and how to use it responsibly for cybersecurity will be critical as the technology grows."
     publishedDateTime: 2023-08-27T17:10:00Z
@@ -105,6 +121,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "KweJDT0tJRj29qen+8tUjMvi1vNUUhL6PdAtUTcUtcgk/aAI+hN8KrnnyJ4jXqNAaU/kKMAUbOZdaz1LNMJ/MSM7twRRBC7W/7hKsiZmdGi6pVjiYscr3OWwwrVDWgHgfH30J4JNMDn5PjXhLcci3D2mJ4lDGH0EAF5MI1ERNo1vHz8LMQ3cokfejIgr3Ei8IHc46QzCNOuqsOIBEqRIlm5s39wQxYz+2PiC9A6PVTOiUSB/eLBNtlr7DjWWG41YRcUrLwzuyCt2oT8BKOrFJTepVcGd6mgEP+prQKPdmXmfWymGEpZ0CFdF+UKSno6dCN3WkegZItpK8qjfgrP/KcuJQXWqDfcgnAy1aL7CnpI=;/1zCNO0MqotStnVqyt2wdQ=="
+secured: "Znmy1Y++PzOz506ilokYkFzGnbc0uxPClPpYuEOWbxU32M66f9ma3k86yMlKTT0DCitdBdtqtyeFaneKUP1nwmEooR5oUXsMwEz2dg6P+ZZ9oxhqHGhsOjr0u9YfKfOlPKXCEHFPWsVr39zyhE7mwNt8p0hyMXFySD2OZGSJnvBYs5B79cLUAYYoOBRnjIDR8WnNMBSNPeN01idiNbU2Ur1/GPY/ts/vl73zH6uiVrCSTqpt8WJ1VpJsGbksLAFjQ8rXxZrB4YgJPdJpNGqinDu7mH/bStAlxdrMQaE5MWlANm2BAnPz0yxVNMTDdGknFucX/VcXbfNCfIZcOnCx1z0JsIeHBL1p806GyUcl7+w=;CUkUrtmIgChLDvvxtkBL8g=="
 ---
 

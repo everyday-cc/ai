@@ -95,6 +95,24 @@ related:
         width: 3584
         height: 2048
         isCached: true
+  - title: "Microsoft being GPU constrained is potential risk, UBS says"
+    excerpt: "Investment firm UBS said on Tuesday that the risk for software companies such as Microsoft (NASDAQ:MSFT) of being GPU constrained is a \"reality\" and could impact their abilities to generate AI revenue streams next year. \"Microsoft and others are facing a ..."
+    publishedDateTime: 2023-08-29T12:40:00Z
+    webUrl: "https://seekingalpha.com/news/4006989-microsoft-gpu-constrained-potential-risk-ubs"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
+  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
+    excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
+    publishedDateTime: 2023-08-29T14:44:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z

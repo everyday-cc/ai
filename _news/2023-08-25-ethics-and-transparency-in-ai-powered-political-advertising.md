@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/25/ethics
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/25/ethics-and-transparency-in-ai-powered-political-advertising/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -29,22 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Responsible AI Transparency: What To Disclose About Your AI Systems"
-    excerpt: "However, in the competitive landscape of the ongoing AI race, companies often hesitate to disclose extensive information to protect trade secrets and avoid legal repercussions. As such, striking a balance between transparency and safeguarding trade secrets poses a significant challenge for AI companies."
-    publishedDateTime: 2023-08-24T20:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/"
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7bacbba84c9a5903b0612/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 788
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "5SFAjMjlSlt8BnC/vx89cjo5luolEh5WRY3biupmooM2fJJI080A6RhFRjehkmXn/M6DaNP2vTAh7TVpDOsFMh2Cy6nZKRuieBYMOcTa/anx0DprRlVicVd8kd8pbKCDf/G3HP6zkEFsdsckzJRcs+qZWL1ksjK18uourSMezpVF6FK+1iZf8mq6/wRLwqfXhbC/eSTiK9roWXen9IuEv5J0DE2jRIJB3FlR22uwlDwxyP9TN5nnFlBGn5I/NfSj4WKCU/j472pZEflIlJVFyj72P8mypHzjo7ZCT88tYbnSannKuesNHxI9c8QhCnMcRiL3d7UxD1SMbS+kRCJjt3sDTsNPRb/dJU5G+uv49XfFFX1WhqxOTTNfdCA7zs0eA7mVh/bdpAVlEOAmsI70FUfjoi/Dp7OdKjH0wec5vE4S/I7hTZhRmvum9nDWEkRXxlgI6wfg4xeFeL3NNNyl4DAoXQEafI5skH7vmq9Y7WF6JHkkxySlAS3DRk6jOnuuNvCFu+jpt7nM4Dyu/LCjBg==;LP32ZVsE9lGTxRbs+pwOGA=="
 ---

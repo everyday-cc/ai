@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-de
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Meta's free generative AI tool will help you write code"
+    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
+    publishedDateTime: 2023-08-25T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "Meta’s latest AI tool is built for coders"
+    excerpt: "Following its other releases, Meta has taken a step further into the world of AI tools with a new one built just for coding."
+    publishedDateTime: 2023-08-25T01:10:00Z
+    webUrl: "https://bgr.com/tech/metas-latest-ai-tool-is-built-for-coders/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
 
 secured: "kkQ3YhXRuX8ikpnhN7NVi38sEswyY+00m7Z9d5KcJQb0wsznd/iM4DuU5o4ECIjuD2L2PKmOD1UbZqLA4MmX6Qxn2Yk+tW/f2yKu7pjWSQP2A9vft4bl/QayS+cy2J17t+75bgxk0DitXTh+xhktwoNP0L/9AAMZh4f+1mPDKrGkTzwQxDZv8mYlVHfQCPSNR/31YbCFG70RADbq1P+mbP1qhBYf7xVoSLBnFg7okdSrPGhHQ0Sa9S9sk9BhgkUmW2uYeTlsNd2DXaZLtHSz929sbkaqOKKXenkAVehF4vZ8tEsu2A/TXbm2Pbz6YtNM3N5FmnH/7tIxJTXfFW44cfY3pL+YfBfIn0gv82380aUJdCICO6eAZ2zIePMV/Mv+XldTn9IVmZNr9A5gPFrPHv0YE5hv4BLiLeK1s+Hm7A0wpRn44z0E1Pzt1P6ZC7mgvIPJYnwG5/1gjC6tR+LLJqVPzGaRZeS7IgB4I9gsdvoDbsxlRH6DawGGbEo8LFZAABuMJPG7WcCRG6Oa1BqfUQ==;sXeVmTKUb4L4jkRfpGr27w=="
 ---

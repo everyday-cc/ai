@@ -7,7 +7,7 @@ originalUrl: "https://www.wtkr.com/news/is-using-artificial-intelligence-an-answ
 webUrl: "https://www.wtkr.com/news/is-using-artificial-intelligence-an-answer-to-keeping-students-safe-in-school"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     height: 630
     isCached: true
 
-secured: "TKVhwXwqb9IqaOwBhs2JVu/0/6DFBiIynKT4e6qC6Lj1zgQ2KeBadZ0X7GbTsWZG6KpwOuYaxeLtqlDq9y5/hRl1NlWa1mHtJ8KvGAAq8BApwBS8aLUWrgK+oBGFYOOmbGR3gUMLfjaxiULyaTLTeSM+BZIIMqkUd3YO3YHAttU4GJmpX5s+fVID0P5Pqr+d6uXYfcya8XfO9QEItA4fio/r5jTIyeAfy2fUKzhES6MmkI14dFXIeg4YdXx3svVNbAMyieVTypDp+3NrOwxAXMVpRhlwWQ6Bbagx+UcElCIoG0w9ZkUJjuTIIK4ZfTF6vfVvfRCs8Z7mrJhNbHhrYJJFzgUBAms5UwlMB7dipzM=;krOe0/Yj8/a9ygLrdmLaLw=="
+related:
+  - title: "Exploring AI and machine learning in modern bookkeeping"
+    excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."
+    publishedDateTime: 2023-08-25T14:53:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13a22f7/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F39%2Fec%2F39ca587340b0bbc003c71583cdd2%2Fartificial-intelligence-ten.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Resisting and reimagining Artificial Intelligence"
+    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
+    publishedDateTime: 2023-08-25T09:02:00Z
+    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
+    type: article
+    provider:
+      name: ei-ie
+      domain: ei-ie.org
+    quality: 39
+    images:
+      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
+        width: 1448
+        height: 762
+        isCached: true
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
+
+secured: "SDh8Yj1d6Kpt9ErK+j/hky5sdcJBkUC4pZxpshLWNMD/4jFWIZD+BDSdmeBZsU/CrE9YF7zqICeCvsQzRPBlJslXkCrfGtPfpJ27MG2Qe1AfdXAet7tBhCZ+l1IOSnR7IK62Wyp87eHAfIYrUsnOMVCoAdFR+BpTYmS4CUh0EGmQqsLs63md3a5/r2K/FsziNUR0mQeiirYw4/uS2t0FUUgCUufe412HjYM7GGEURDem8s1CY6xZBgMjjjAgomZrbYO32zhb1yI73mOM93+XQNqvoOav1hxVBMMdMWzrRotyvI6n7XJPasA6xBlKEroT9YA/vGgVGGmQ2tddqzV9EzhfXYd+IgZ+wMvGsLGcBR4hB75VjLfS+snzS2udOASUwgNT9/gTbC4Hmv6FjPNGJaN2YGzxDXqWyYvV/lLKcLqx1LiD45ENM/71bjHN3Z6wla7e8NmJq9PmvKp361I6Yr6GKFJywmTsXyMpmy1XO/1PAXLtLdOaVMAHllI3Yh0lnp8WXFlUYKyRtz95WCkCaw==;GcivVWbszqVuS760LCy1sw=="
 ---
 

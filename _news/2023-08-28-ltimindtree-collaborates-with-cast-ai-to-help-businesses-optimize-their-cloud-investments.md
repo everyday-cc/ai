@@ -61,16 +61,14 @@ related:
       domain: thehindubusinessline.com
     quality: 39
   - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "Business Wire India LTIMindtree [NSE: LTIM, BSE: 540005], a global technology consulting and digital solutions company"
-    publishedDateTime: 2023-08-29T04:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/29/dcm5-ltimindtree.amp.html"
+    excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
+    publishedDateTime: 2023-08-29T13:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ltimindtree-collaborates-with-cast-ai-to-help-businesses-optimize-their-cloud-investments/"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 30
+      name: datanami.com
+      domain: datanami.com
+    quality: 10
 
 secured: "2UUWjmVd+nKdf7rPdJ3/KV1XUZOEQwVYz4Q6g5qD8BANgAbaCnEOuKYyxS0f5aQUZoV/tnMgmSufCCqi5Y+y9F7JAI5GZRTPwRiL/ylq+/ge1IMjJwXKiW4P57whuw2E/xQi9+Evxb79DBGpema2Je8u6Xu799/NJNaZGlD5d71lVdd5xtFeGLZcf/TxJwoSirr9Xfy/ocCzh2L/8MjviLzh3H8Ewb4s+wQDynqOI+ygWA+nSGYdrz/h/4pY5zo6s7F8jSgUjdEGtTcolIUNGlchszKY7E/K796TBnpz7pCVY0IrcNuQEIhNpM0rQu0QmMK8unbBNkjKQBTkRiG74+HOkmGoVZs+ucCaChVzXYo=;zxfKiZQXrsib1ZO0mhFK6w=="
 ---

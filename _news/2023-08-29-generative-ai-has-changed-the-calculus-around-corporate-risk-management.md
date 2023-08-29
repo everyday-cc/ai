@@ -49,43 +49,15 @@ related:
         width: 1075
         height: 614
         isCached: true
-  - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
-    excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
-    publishedDateTime: 2023-08-28T16:10:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai"
+  - title: "Google expands generative AI model Med-PaLM to more health customers"
+    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
+    publishedDateTime: 2023-08-29T12:12:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
-    excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
-    publishedDateTime: 2023-08-28T20:29:00Z
-    webUrl: "https://www.heritage.org/technology/commentary/ai-generated-child-pornography-fuels-the-child-sex-exploitation-industry"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 36
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
-    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
-    publishedDateTime: 2023-08-28T12:36:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 14
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 19
 
 secured: "0YqXHwD3zne72CFCCVtD2XxG4qC3V5d+hkxjp0KwdvrBq9MKOm9ydM9TlRYSXFmvGRW7MqeZyIWKU9RqotKJXDYdbIUp3tUvRd6uuxIYQPgMRp/jr4r017Wfwz6GpeGkkDzul2hj3noaWMxiCG7pYqCpVALN0EqmSr4wrz/xHSEV9P6TsFpyiQiDm5gDD9ctfUQL6PelBbeqORNa3XD8V07NFdptxiJg3hUeA4a475U7hFTlC0bZYzxKuIEtojEkQjAov1XT3itr6udry+hRw7GSPbAza0nP/DY2CsmvxUmM1XamQLyxGm0ieRe1kc2DUfy5juxBaIqOzc18ptL0yL9M2u1Jb7v1HRTh3rSOUko=;/7Rhkda4jS+5um1BV57R+Q=="
 ---

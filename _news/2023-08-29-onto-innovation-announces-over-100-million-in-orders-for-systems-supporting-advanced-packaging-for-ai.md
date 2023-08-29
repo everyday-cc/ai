@@ -59,15 +59,6 @@ related:
         width: 640
         height: 409
         isCached: true
-  - title: "AI startup Modular raises $100 mln in General Catalyst-led funding"
-    excerpt: "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,"
-    publishedDateTime: 2023-08-24T19:45:00Z
-    webUrl: "https://www.reuters.com/article/modular-funding-idUSL4N3A44NI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
     excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
     publishedDateTime: 2023-08-27T00:47:00Z

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring AI and machine learning in modern bookkeeping"
+    excerpt: "In an era where technological advancements redefine our day-to-day activities, artificial intelligence and machine learning have emerged as transformative forces in various sectors. One industry experiencing this sea change is accounting, particularly in ..."
+    publishedDateTime: 2023-08-25T14:53:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13a22f7/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F39%2Fec%2F39ca587340b0bbc003c71583cdd2%2Fartificial-intelligence-ten.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Resisting and reimagining Artificial Intelligence"
     excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
     publishedDateTime: 2023-08-25T09:02:00Z
@@ -38,15 +52,20 @@ related:
         width: 1448
         height: 762
         isCached: true
-  - title: "How AI and machine learning can help with DEI hiring"
-    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
+  - title: "Is using Artificial Intelligence an answer to keeping students safe in school?"
+    excerpt: "Is that enough? Artificial intelligence has been added as an extra layer of security at a number of school divisions across the country. They’ve partnered with companies like Actuate, Omnilert, and ZeroEyes. Rob Huberty, the Chief Operations Officer of ..."
+    publishedDateTime: 2023-08-29T09:54:00Z
+    webUrl: "https://www.wtkr.com/news/is-using-artificial-intelligence-an-answer-to-keeping-students-safe-in-school"
     type: article
     provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 34
+      name: WTKR
+      domain: wtkr.com
+    quality: 33
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/63a738f/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2Fc6%2Fcd40205d4276836147184f1fb3c8%2Fthumbnail-ai-security-fs.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gUEWShyHUzG6YU7HrzIyQjUg5xaTvv6oQQTI/RaP99Sgby0L8EUGY1+h4aOVjYTFMD8ZAdjOcqMv7BNz+I+bNSYMRc7ZU/4avkeAqGaNIdCD7ARibuT2fFlqeaUkpZLedXIcf+S5WlG+K5bjex0ecElSV7B1FkeQKmjyxAzJdXgfyV5bi0LkuZXGteinHkxA4NUGKg5/fF7uIoI/kPBDM3dGoUrFlXrCdmLPXKQs1HGQWTSgX5c3L7I0PhftbOaehpiaE0bMJnQDlJExuLDeQeT3UQSmXy3rEwSVZogQ5uJWmFTw8hzgvU+X3zGmAd1rC0v7ePJiWSGQv84sBT2jGm+aiKvAMB9710lb/9XKtAU=;yPpZOygWPzrBO4xzz3FslQ=="
 ---

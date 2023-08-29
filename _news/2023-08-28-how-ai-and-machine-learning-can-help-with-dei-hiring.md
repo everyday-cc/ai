@@ -19,33 +19,60 @@ topics:
   - AI
 
 related:
-  - title: "Resisting and reimagining Artificial Intelligence"
-    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
-    publishedDateTime: 2023-08-25T09:02:00Z
-    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
+  - title: "Finance Transformation With AI And Open Banking"
+    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
+    publishedDateTime: 2023-08-29T13:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
     type: article
     provider:
-      name: ei-ie
-      domain: ei-ie.org
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+  - title: "Making Artificial Intelligence Work for You"
+    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
+    publishedDateTime: 2023-08-25T23:29:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 41
     images:
-      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
-        width: 1448
-        height: 762
+      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
+        width: 447
+        height: 559
         isCached: true
-  - title: "5 astonishing uses of AI happening right now"
-    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
-    publishedDateTime: 2023-08-28T07:00:00Z
-    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
+  - title: "Meta launches open-source AI language translator"
+    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
+    publishedDateTime: 2023-08-28T23:15:00Z
+    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 41
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
-        width: 1200
-        height: 677
+      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "i+b7qkzxR9kRu8FdXv86/bFAjtkGeH+FazEhbFEj/QP5nzzimt+Qww/+C/ROWk6k0J88EezRH/wUn5qzfAu+T890ss9on7sA5+jEY9NN2IifFTp7tYgmVCJNM5tTgUCQ/I+E402h3zi4NTgthCPjui1rgCfd9MJo7+CnptCyHyaOOl2/gaMUd6Df5Y3OBh5vvPnrEStY4DNnF0akdYC3BysYM7YkfAAWHQeoDAU0mWDZBbvR3Ngc0ZHSoVV9YSsaLSgKTp/aEweKC5qr6piXL5r2M/pnJzpNMJ/zG2n5NTrsnNAzkgdcvmHQdUwn7AXUWnF4gNtNE3M2a2MGF4Vzaeo787hkLmlLouRO+1FAFAdBB8jy1EOfMkuhux6W0Tv+fMPRindR6J2t5Sq4YULRoDDhhOBWIdfDtXg1EH2Hr08s8K8iBG4YbtgVW1tLHIoZWlqnjimQAqv57sl/YvTTDApRcWVqdFX7nrVr9VrFtJJD9TyPApyE7FSxYQDxWAvIyKk3zUG1DmEvKh3nEJ8qUw==;KNZyxiMZdOZ4tvjtsZJ+JA=="

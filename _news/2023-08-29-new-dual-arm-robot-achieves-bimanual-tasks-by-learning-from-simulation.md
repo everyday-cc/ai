@@ -7,7 +7,7 @@ originalUrl: "https://robohub.org/new-dual-arm-robot-achieves-bimanual-tasks-by-
 webUrl: "https://robohub.org/new-dual-arm-robot-achieves-bimanual-tasks-by-learning-from-simulation/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 425
     height: 283
     isCached: true
-
-related:
-  - title: "New dual-arm robot achieves bimanual tasks by learning from simulation"
-    excerpt: "An innovative bimanual robot displays tactile sensitivity close to human-level dexterity using AI to inform its actions."
-    publishedDateTime: 2023-08-24T19:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230824003859.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "DrNar+xoiy6YTjk052bY89nsGWvrJChUbOCU+yK3W1maG6n0AixtsoF1evWzUO6kik7LQ6jO0KkskwfdIAKB0D9JPYs5rFrimQuTYfkJN5KmPFHbBnyvRLcOFlAyMC/1/u3W0qAbH1V/KCwgEx1jT/TOeadVcYZjV21q944HzfUKxfOu4qgaChK+blgiVbXD7pRsSBMtEI8S0asBNUVND+uBnbXZM4KVe2xMU9TOhaZdbv6ZGG2To9kag1EdXGZpkGyfkx/I0GjvNG4K8I9D1XRwTmqzIpFz2zqNPAL8XBAzQhPXXb2YfVLnNJe23KkmJ881wjvCuF2s0XsSQIJFvuj4vO/Qia5WdqpzFenfCsNxKOrXNIOZ8x/4001azGc0cMoFYAcBeSBxqe0FnsrhMrNRTPTbxnlMlF44YNNFxGyWG+SrkHOw41/VD9EwclzkWdscSUstw8pKkn1wDA/9FMX5qv+dYmf2PBP11L+o3XcOOgVn3lBgysY6aeJVerVs70CvtvEufRJjIDilp7IwwA==;cUNabcva7vYCSecooRWfhg=="
 ---

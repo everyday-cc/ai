@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
+    excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
+    publishedDateTime: 2023-08-29T15:12:00Z
+    webUrl: "https://britcham.org.sg/news/pursuing-fintech-growth-southeast-asia-4-trends-radar-2"
+    type: article
+    provider:
+      name: britcham.org.sg
+      domain: britcham.org.sg
+    quality: 24
+    images:
+      - url: "https://britcham.org.sg/sites/default/files/inline-images/pursuing-fintech-growth-in-southeast-asia-4-trends-on-the-radar-content-1.jpg"
+        width: 770
+        height: 550
+        isCached: true
   - title: "UP Fintech reports two-year high 2023 Q2 results"
     excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
     publishedDateTime: 2023-08-29T08:10:00Z
@@ -55,6 +69,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
+    excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
+    publishedDateTime: 2023-08-29T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "fkJgGml5Btm4vnwLayKuk+orTCcZCi1UGE7HSn92CB5ttQWKS7+tlgRwBQwjh+5XEJHgcPpGyqBz6XKe05hFFapRWXDqjTmgs6t96uVcgCws22bh41ja7El1XmVW96QUNCeVYdcPVMMOir0onGTcSyzgNYahjfQVEKvhqh9OnrYGZcT5G56dL+RAXxmdbTMNCxwxIQ8/mlZ75mAkMvXpV7PshnDtd6UF1LbN3DXlThTPcbhprDlmA4lVrYSpZjb5CsSZULTQFrQGJ+0ZYQnjOWrZjLeiE0hObsRqNi1eXo8XlimwdO8GSHum5cQMPBL7wIn7c28HUPUBqc3KdFw4GWpY2O+63ihMQaCRv08fCPs=;c23/d2G0A1wT39q0gkMQVw=="
 ---
