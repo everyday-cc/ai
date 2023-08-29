@@ -56,22 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
-    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
-    publishedDateTime: 2023-08-25T02:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Nvidia, RA Capital invest in new Boston AI drug discovery company"
     excerpt: "However, this isn’t the first life sciences company with an eye for AI that the chipmaker has funded. In July, Nvidia invested $50 million in drug discovery firm Recursion Pharmaceuticals Inc. The startup’s stock soared 80% following the announcement."
     publishedDateTime: 2023-08-29T10:04:00Z

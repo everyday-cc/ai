@@ -24,6 +24,17 @@ images:
     height: 774
     isCached: true
 
+related:
+  - title: "Did the AI train derail?"
+    excerpt: "GAI is a variant of a field of systems programming known as Natural Language Processing (NLP), which includes systems such as text generators, customer service chatbots, media conversion and manipulation applications, emulation of biological systems, etc."
+    publishedDateTime: 2023-08-29T19:11:00Z
+    webUrl: "https://www.apc.org/en/news/did-ai-train-derail"
+    type: article
+    provider:
+      name: APC
+      domain: apc.org
+    quality: 19
+
 secured: "Tlnj1FDH4g+STe7vKSRe+C+RK3TI5oHIyEt3k6ox/MZCdbkko7kjk1jgFL8yvZvnTwmtzSEOlQYAgqhYv82P33qJreUYXK6ILsfgDlQDdDKQBEzE+ThlInqirRptf1ijas2FSw16MTGNBjvUygbZVUCgQH0aUAGUxV1rrOydnxWw36PAbFaFpOJkRqgwlOFlSnOn9N1KHCzVitJjqmaXBGq4l1HusFXdc/vFO5vixC10xV6yZK+D8mtjA+irf47cWat9R6z9ilVhLGzREEfaMz+b1ike04c8uhkEylBcbioPZNgMm8jZiXm92P2M0J8tUBlh2QqsC87bAWNZgTFKvpI1yOfZ3wo7EyXq6BGimrjafzXatOF0r7cDj1CVMr6wQ2C3RecLdgHsafkCmoTj8epDc99VP/ml/3n+9qWc26p5hJcbWVCKZH15W4bIcYH8J0luxQajrfR5lemEW46O9yd2PflqY5Fx677RDknWGTUgVahdgkhHqRCP3ofCGKOp3hlv/pGnLZgVuJPEg9uKqQ==;TfvC33Fst7WCTGlGaRf/eQ=="
 ---
 

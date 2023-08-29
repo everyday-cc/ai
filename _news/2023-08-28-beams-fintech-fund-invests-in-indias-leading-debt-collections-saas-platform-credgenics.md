@@ -26,6 +26,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "India's debt resolution fintech Credgenics gets $50m boost"
+    excerpt: "Indian fintech Credgenics, which offers a SaaS-based debt collection and resolution platform, has received an additional US$50m in investment"
+    publishedDateTime: 2023-08-29T14:59:00Z
+    webUrl: "https://fintechmagazine.com/articles/indias-debt-resolution-fintech-credgenics-gets-50m-boost"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
+
 secured: "WyljMLnZFiD8bmunNph67SiGAIQGJwJeCZcUEQhEWCFQoM/I/rCHbg9kj1SOkxUNwPFp+hIdd09zIkJDXrdNNPQR9//IqVxSkPadC2i0UkIQbjkVtKl8hIg9T5BddgYlTX6Lca+fTT8e5rguPg+kXULVXeJJ7YLlzDTBbF5/KEZys46jF3lQPD4+kNWpJ5fyCu3d2peK9RUVwmiZUz3YPzb13WhXHghTLWp1S5ezhFbKQoOQzJbujcMwzJPwXyPr3szffXvdYPafRUAKNqy2Yvza7LBbd2OfgtQbj4fMf6zyonpJGeCEuF25V0t13dGhfJrZPTBzRaBYRmqXgSLTCfNd1JodE7lix3XgV7ihr3M=;DeU8pB5vPISP2wkAHjxFGA=="
 ---
 

@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Nvidia's stock closes at record after Google AI partnership"
+    excerpt: "Nvidia shares rose 4.2% Tuesday to close at a record, after the chipmaker announced a partnership with Google that could expand distribution of its artificial intelligence technology."
+    publishedDateTime: 2023-08-29T18:45:00Z
+    webUrl: "https://www.cnbc.com/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107247790-1685417777216-gettyimages-1258274369-TAIWAN-COMPUTER-NVIDIA-29052023-10.jpeg?v=1693340834"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
     excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
     publishedDateTime: 2023-08-29T11:58:00Z

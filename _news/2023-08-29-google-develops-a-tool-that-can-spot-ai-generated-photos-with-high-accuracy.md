@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -36,6 +36,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
+  - title: "Google may have found a way to identify some AI-generated images"
+    excerpt: "The process relies heavily on Google DeepMind, but Google says it isn’t a “foolproof” tool that can identify “extreme image manipulation.” The reason it isn’t a foolproof system, though, is because it relies on the use of Google’s own Imagen ..."
+    publishedDateTime: 2023-08-29T19:29:00Z
+    webUrl: "https://bgr.com/tech/google-may-have-found-a-way-to-identify-some-ai-generated-images/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
+        width: 3120
+        height: 2080
+        isCached: true
 
 secured: "vsjTN+tzB3rplpR9pFYlAoIut3Cy7VWXT/dy4A2Q9XJEU+Qi5qA1+NW95beB4t4eNG9U8OXQ7q/9C1E0YyTrSNTGZrLRB8OCBMt2H55I/ZYvMNWq/CN5hKh5tMCPFAG/ENy+lQ5S26yHuMx6zzcqFJ2+BvXNTQLCDUVmqV0MSONK9O+irDokjzvdZva1LZQDorf8KVffqN5YrRLLNnsLlX20XgIU4AjLxGm4Gjx49g//iF4AimC6gM5Q88Jnig+8PD8BhfyUeZk7jfJluwlantKdi1mVSjrjcUNQbNT3F5jUMWSODariVmulJ4dEF4HQcLxL/o9eYRuLiRW8y0K2AlUIzDmp3f9+EMPSBtbTWT8=;C04/uMPyoAUHxio5V/w0Fg=="
 ---

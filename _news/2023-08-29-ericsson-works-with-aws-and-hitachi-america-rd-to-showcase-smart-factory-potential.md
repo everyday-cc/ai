@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-excerpt: "Hitachi Astemo Americas, Inc. manufactures and markets engine management, electric powertrain and integrated vehicle controls for major automotive manufacturers worldwide, adhering to ISO/TS:16949:2009 industry standards. For more information, visit https://am.hitachiastemo.com/."
-publishedDateTime: 2023-08-29T15:41:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/29/9871336.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/29/9871336.htm"
+excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential f"
+publishedDateTime: 2023-08-29T11:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34085717/ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34085717/ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -79,6 +79,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "/iMKk7Z5kT8wBnxNqmY/YUKNk//HvOM3klRYBl/WaMxCy/DivoUTAxVmwSlJ7HZ/oEr0P0U9LHeBR54QBenmmqxyW68eoTTDYdVEDdWs51Xm0JAEwwCrr8DYMRItiOJjj4mkOkYj3LXGv4D1BCs0cFVGtBjFBAuD0wOmKAddj+MJdXml4FrpyYZwNLgVzT5PORAPBykUY2bBZ02GHvBMemLBVn7zqm9P8ztSZ4Zb5OWWys/jAf7aozZjK+fW7uMBUSBjbXX+CY5H/di4Xw1UkRxahoTXzW4bZYY5UXaRt+nA4uo00R07HEUaDHMetkINFOE90DV9enJGrHRpVBZJ5IcXlox0rNHJggMXrw41QqI=;vN4twqncjCllpJuW4BPORg=="
+secured: "/0RzUZMU4386DEP0YjxUMQP2yteAUZxhGh338xifGIEW305gprXFUla+d11+ZUZt9DOy8fXq0cuM0LOWEz7r+s3HOhoDVqk6OX6jAdGNjK0izb7T3fWTfrjoV0XEANhLAYJbEhsFJxAjJjzMzrG4mEBnXzauncTUyMOVNYRiVHq3GJihvjDc1ycq2fmIoLf1vvznYY7gGcMObJzASnG4YsFKlq6fVx663uBrki4nZby8l+Z29gB1dfsGANQ2VYsTBZ04+btVp5X5jFEX2EDOwKsClUYlLjVwKbjZ+ICdqRWJOjG/qtPB3HxhqIz6DpRr2W/HsQB5XWUn8vM+qglhg8ejWQ9j2KQSZ49t3JxnyPU=;uQ8ZG4g5Z9wGjlitfbVmcA=="
 ---
 

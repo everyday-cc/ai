@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-28T14:02:00Z
 originalUrl: "https://www.medicalnewstoday.com/articles/two-studies-demonstrate-the-benefits-and-limitations-of-artificial-intelligence-in-colonoscopy"
 webUrl: "https://www.medicalnewstoday.com/articles/two-studies-demonstrate-the-benefits-and-limitations-of-artificial-intelligence-in-colonoscopy"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/colonoscopy-screening-732x549-thumbnail.jpg"

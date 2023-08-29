@@ -43,15 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Brain powered: control a computer with your thoughts"
-    excerpt: "The dream of melding mind and machine to overcome the limitations of the ... Thirty years later, studies demonstrated that monkeys implanted with neural interfaces could control robotic prostheses with their minds. Then in 2004, US tetraplegic Matt Nagle ..."
-    publishedDateTime: 2023-08-25T04:38:00Z
-    webUrl: "https://www.theaustralian.com.au/weekend-australian-magazine/brain-powered-control-a-computer-with-your-thoughts-using-synchrons-stentrode-technology/news-story/387d23813ba25510ae2472650c873ac3"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "bR4vYKWwjqk7NY93qoYMcPHHzt1BfI6oPgQzp+/4ksz35vIE55NSU3UNJoIxkqv1FhY17Uz0DTPuwdoWveIueTjtvbJkh8Vyyp3F19lXQVGfDjl6rY48nHrwIWx5CPTrTE5oBI8yjr+KKQ4gKj/rhCkbkGsH4WKbXYbiSLlgMigr7DHXYqY7JL3r9OkNGeHstkB/6/BuIk08H9KC0PSDHMurKWTKa3GUTk8cgqw/oXc6zOYOGcOiuZ5fX/aEba2ENCHEfg3P2cMBNkGS7S0UOn+UpaxC4fYuD2MwHYyYXubqOXsyQAVHF8nJwEEVbyJQ3isggE1dkrS0WZ3UmNmi8ytPlwTosRBoruQFllCe9y6bJXBz51f+JUqeGo2uaZMZ19i582mGpMpv9Ojk1+/znzBwybOkLTLXwimsV+mxFhLLIr7BdkrJWW0mTLZh8lzLLuJzXUdj5V35n5n4AziNKaN7foGnSvjpBRxv+MqRAfY5XdNhMqRu6VWLrc2RvP85sLTW3pXgb7+EvVxdlfm7+A==;QRC6g+aJaR1/xyX9EE1u1A=="
 ---

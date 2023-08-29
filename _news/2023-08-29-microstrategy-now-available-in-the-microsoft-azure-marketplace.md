@@ -69,6 +69,15 @@ related:
         width: 670
         height: 476
         isCached: true
+  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
+    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
+    publishedDateTime: 2023-08-29T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "AI chatbot aims to provide support for women with postpartum depression"
     excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
     publishedDateTime: 2023-08-26T18:10:00Z
@@ -140,6 +149,15 @@ related:
     excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
     publishedDateTime: 2023-08-29T14:44:00Z
     webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
+  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
+    excerpt: "Corporate Gmail users will be able to pay $30 a month per person to be able to use Google's AI tools for their businesses."
+    publishedDateTime: 2023-08-29T19:11:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
     type: article
     provider:
       name: The Business Journals

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34045931"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "PD Editorial: Tap the brakes on driverless cars"
+    excerpt: "It was both proof of concept and an opportunity for the innovators in the space to gather real world data and to train their artificial intelligence models ... but it might not be long before driverless taxis cruise around Wine Country."
+    publishedDateTime: 2023-08-29T21:19:00Z
+    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-tap-the-brakes-on-driverless-cars/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=e078950e-faa8-56a7-a15a-e8b6ef691a1d&type=primary&q=72&width=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "JWC67KxhyelgIy+0YC3komqvFNoILmbtN5etPYIee4sR0WWI8Utptqe0aZdE2LRbAJaT+6W0FI9OPfom7Yl3yDrSVHkNZup+b3FzqYAHxo4rWbia6YQ+6O3GP7pOKg/FCvtYZGnDF1idh2e2H+C8C+N2+abdVli6AOyYagq+YE3+iHctyeLZHoRuBx9oN3ImxQUMV+cI1apWa4E+NVZzDi2rgI9ZM0VY+2iWYJYN7ne0PfOjtzGjzeNjKEZVnJq+M1D610+21JhPyWeKSu/J13ObTkvRVNKpcB/hpJxixnDqddR6JvShbFgO42yGL5zvvJTa/XrYlME+Qw0TPhIgL8xxtAmUOJ/Or7krvzenPrs=;hL597JHRU+ytaRwmrC0m6g=="
 ---

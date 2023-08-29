@@ -2,9 +2,9 @@
 category: news
 title: "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response"
 excerpt: "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities. Get up-to-the-minute news sent straight to your device."
-publishedDateTime: 2023-08-23T15:52:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
-webUrl: "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html"
+publishedDateTime: 2023-08-23T15:48:00Z
+originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
+webUrl: "https://www.stltoday.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_97569110-432c-5224-9829-a0106a4365bb.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Te/503v+KkGbQPws8VO+drgRnESw47XSztjb2Q7Sj7+kdEWX94JupbCMjEaQ+iDXUNUWHyNa2pg8Xuz7BiqJAAUPQTD2McOlPYekEvTs/zr+/ylGnZflobpXVsT8T4rAaTwoFOtEE9B3cISKqlrglzClKQtBL6tJVAwLk8PcJxgaRijGEWG/TWJ66DavEvNTxCXCuipobt84vMU3lcn7mV+fjZJLICeAtwBumfJqxAqVznFULZsTVbqFPjLDuk2t10oA0qaiLJ1Yv2sH3dDtcv7aOw7ar9Nsqqxs1Rx8ziChLv6ozwETK2/lvvzfjgEdTWhqiVABs8NRW8n5KmuaxThDM3VVYlTxHDcdkU2Wx/nTHtVY8HlY6bugH9v4PhSVFgtCXfFIejnMmPqH+62roRgMhvmcYm2t25qIJQpOfaF9lPWnzfrhgiy6kGtuvNItBX9gc3q5f020RBrcP7C4TjpQ8qVu3H6XglJP5FSlw+YQbMUQnv8MU8S18QjUaxlYftte8qWd497V5mwmDJIAEw==;CwEbkbCyaTftBUPXBL3sIQ=="
+secured: "oxgb58Q4eeoPcRAd3l4Po1Okj1tYw1daG+9zd96njAb6a7E6umToLeIunOKeKf9SZx5sSi5lIEy0quY1brbPmlv5yVPA3N1tqsxKdso1qyXzXLegNtgIHZPhT72S5CG+v/eeqQ5WYh3SIdWeYdGXU/wC8rqvBu0YsFE1p7IxjGPTRTVN8d6VCS4LoPaRZE08BvTL0XxQoZ27hBJ0iFJog2WuKYc3wSOCO1PQwGf75wu9aHr75pZNKgsaElj4o+qxLzO4zUENgOk9cUawzjmD7AdWpUh+ooEMVwT55Z11C02kpZtQKpbs+tjT9oieduJdBdXVUNdz3Uj7siH9Hc6SMDe9ETG80NIMnk+gm+RBx1k=;8JjhCYy49kbl0RQr7anqlQ=="
 ---
 

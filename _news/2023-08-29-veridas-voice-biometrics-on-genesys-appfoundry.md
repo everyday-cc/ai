@@ -53,7 +53,44 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "NFL’s Tennessee Titans and Verizon to use face biometrics for fan access control"
+    excerpt: "Face biometrics for fan entry are coming to Nissan Stadium, home of the NFL's Tennessee Titans, in partnership with Verizon, which works with Wicket."
+    publishedDateTime: 2023-08-29T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202308/nfls-tennessee-titans-and-verizon-to-use-face-biometrics-for-fan-access-control"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/28212609/Events-biometric-ticketing-crowds-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
+  - title: "Id R&D Ranks First In Speaker Recognition Challenge, Highlighting Strength Of Voice Biometrics For Frictionless Security"
+    excerpt: "The first-place finish in VoxCeleb 2023 demonstrates the best-in-class performance of IDVoice® for securing conversational speech without passphrase"
+    publishedDateTime: 2023-08-29T21:25:00Z
+    webUrl: "https://menafn.com/1106982153/Id-RD-Ranks-First-In-Speaker-Recognition-Challenge-Highlighting-Strength-Of-Voice-Biometrics-For-Frictionless-Security"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?612612"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "ID R&D takes top spot in international voice biometrics accuracy challenge"
+    excerpt: "The challenge is organized by researchers at Oxford University, the Korea Advanced Institute of Science and Technology, Carnegie Mellon University and AWS."
+    publishedDateTime: 2023-08-29T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202308/id-rd-takes-top-spot-in-international-voice-biometrics-accuracy-challenge"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 2
 
-secured: "2iqbA0p8vKwHz4PauagnITMF0yokQ0ob4EQbrl2GwfktjTnPAnfPxs8t8RK+pBtuKaxIVbaRvI6OYj4IFCoUP6ERAy9qOauLLfzhic4oJ1iWMLkJxgdLmC9f7Wlr72WEvIvYNEmtebZARuCMkUIRll9pY/WWDxCrEDSLF1EOMCw2UuRPBHUN28Pau9NL1byLS/8XEQ8V/fVw6j0XkS63zeQbFaYjHIvGF5yZs5H/x4LHgkl5U3Jccj7i3F7WWht3GS61tOE+8YrdGLMKMaeOdAZ7eIxp0zOrd02HodzKbrQKPHf2fagn9fCeeeJ45Zy8MfPwyrAhIsLyms756KKn/tCzQfoif1jWvk5yhszkbZI=;oaa++CtMi8OHwJn6EPD3kw=="
+secured: "VNrXAm+j9QVMUh7lNOx83QmUmGLVlnNjVGTw3EkZpG2iN9UWM1OPSxp3v/4QZjvZ9MZlLgfiwXkpLzr9XMpIAqTid1ve8Y2URPfS08ql5SbauqzAK7vA2s6n/qm4conWXK1tnOoWVtOsrJnGP0dCO7u6/4QyCMirL2+YtrTHIoKFkeUYmF9AILNH3SMvFWlK1tJoXZ+XdOuADDygPk8ilCtUEFWfZmuf+ThE9f6VGOq8DfgrSTTfh/reOBkY+K5YXlgyqOTRA0bItJy33g2lj7AXu8QF61JER/JCoHWN4ZUlLosxlQkiSIXAkLIJNSME9hhgv/koUuE/g9JZXvZvSh10oPsZXgExE00gvNwDGqebUMZYtr8sq/cpkq4eZ0KBg4q5V6MAD94sZmzNQU5w3SAZU0q3IAkuuvzVUDjvpXdrlxg/K1GOEDf13qfrGcZqWINQOhatZOLY/rjg+kDtssj+ykMr34lifPSymyauCrHGZyJjRtjX6AdgHNrG763in5ZokckmGNL+V5o8lKWYOA==;xB1WiTwe/x4g+u90JW4ZJw=="
 ---
 

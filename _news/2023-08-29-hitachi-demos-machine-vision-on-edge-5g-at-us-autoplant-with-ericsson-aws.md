@@ -62,13 +62,13 @@ related:
       domain: telecoms.com
     quality: 19
   - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-    excerpt: "Hitachi Astemo Americas, Inc. manufactures and markets engine management, electric powertrain and integrated vehicle controls for major automotive manufacturers worldwide, adhering to ISO/TS:16949:2009 industry standards. For more information, visit https://am.hitachiastemo.com/."
-    publishedDateTime: 2023-08-29T15:41:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871336.htm"
+    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential f"
+    publishedDateTime: 2023-08-29T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34085717/ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 13
   - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential"

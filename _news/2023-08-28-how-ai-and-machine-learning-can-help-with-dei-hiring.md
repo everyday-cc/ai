@@ -90,6 +90,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Embuing AI with Ethics"
+    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
+    publishedDateTime: 2023-08-29T19:32:00Z
+    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 36
 
 secured: "i+b7qkzxR9kRu8FdXv86/bFAjtkGeH+FazEhbFEj/QP5nzzimt+Qww/+C/ROWk6k0J88EezRH/wUn5qzfAu+T890ss9on7sA5+jEY9NN2IifFTp7tYgmVCJNM5tTgUCQ/I+E402h3zi4NTgthCPjui1rgCfd9MJo7+CnptCyHyaOOl2/gaMUd6Df5Y3OBh5vvPnrEStY4DNnF0akdYC3BysYM7YkfAAWHQeoDAU0mWDZBbvR3Ngc0ZHSoVV9YSsaLSgKTp/aEweKC5qr6piXL5r2M/pnJzpNMJ/zG2n5NTrsnNAzkgdcvmHQdUwn7AXUWnF4gNtNE3M2a2MGF4Vzaeo787hkLmlLouRO+1FAFAdBB8jy1EOfMkuhux6W0Tv+fMPRindR6J2t5Sq4YULRoDDhhOBWIdfDtXg1EH2Hr08s8K8iBG4YbtgVW1tLHIoZWlqnjimQAqv57sl/YvTTDApRcWVqdFX7nrVr9VrFtJJD9TyPApyE7FSxYQDxWAvIyKk3zUG1DmEvKh3nEJ8qUw==;KNZyxiMZdOZ4tvjtsZJ+JA=="
 ---

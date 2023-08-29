@@ -152,6 +152,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
+  - title: "Q&A: Uncovering the labor exploitation that powers AI"
+    excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."
+    publishedDateTime: 2023-08-29T20:07:00Z
+    webUrl: "https://www.cjr.org/tow_center/qa-uncovering-the-labor-exploitation-that-powers-ai.php"
+    type: article
+    provider:
+      name: cjr.org
+      domain: cjr.org
+    quality: 39
+    images:
+      - url: "https://www.cjr.org/wp-content/uploads/2023/08/02892_Hieronymus_van_Aeken_51945890521-800x431.jpg?311942"
+        width: 800
+        height: 431
+        isCached: true
   - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
     excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
     publishedDateTime: 2023-08-28T20:29:00Z

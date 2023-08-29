@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     height: 600
     isCached: true
 
-secured: "8oK0fQxgPmmZUn61gCYHXfeyB5fq34WEjdfYjzeYN5+ZD1ZN5gYAst4mikwqoEhmXBuYoKo1UiB2VOderQLgzy11+V0PpA7Pv9Ei5A8bY7Gs+LuToL67I9VmFNAulDUawrVr7nfQXyFFx7z/pDW8IAuSg9rH3w7SMBPTpOm+urDAEwDtZOzpgPhHWlnVv7jBqG0Pih02LaKD9tFQUCQ4xzJ/puKcFuH0urXWCOnNeegBWDmbDhHejD/W5/f2WufR1aw2VGBZHZzPWVrFWoFnivzDCyTiRbiRd0cjtqz/2MgtsN5qHqNcr1od89Zz/sS4XJm8Lzk1x3O4tOn1Qc/jGGNVmsSDmTICqWnCHwmynJk=;CfiLeEdHGVx9sG5lJE/72g=="
+related:
+  - title: "Artificial intelligence frontrunner OpenAI offers ChatGPT Enterprise"
+    excerpt: "Artificial intelligence frontrunner, OpenAI, announced on Monday its latest offering, ChatGPT Enterprise, designed to cater specifically to the needs of large businesses. This move marks a significant convergence of services between OpenAI and its ..."
+    publishedDateTime: 2023-08-29T05:32:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 72
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
+        width: 640
+        height: 390
+        isCached: true
+  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
+    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
+    publishedDateTime: 2023-08-26T18:54:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "/PoIxkcLYSjprboifGcYaUqar4KExPU6kSQv06ElGiSW2ptr9jMzFLKr94CfNxi6TmACr/9soVypegwjWBBRPgO2MzflDNdXld2LENqBrT11pEmae3g8nNXG9Q09y6+5SulNInmB1p8oUTEM9sDN6mDtwPwZTxDS2Fcfa7EChgovSYpgejhmleVyHUlFm9FTknv/8Bq2TkB0aCBzFYdu/N5TZ318ulEkRlhetUCf/dufCn2Edz2ULwAd8kLLW0K1K0XC71yduEdWjBGF90iDngiDaMqfSvIduZgSh3bqU+NOevm4bwuEGRyy1iyy6oLEZeVS/FHElzxXC3P3V+ROx9omvrRaz5BXCAMAnF7lmHXNQuZq2Agu6Fk3bElkmdzZlgMtGCWeqsfgRRixb2sX1whYaJVp6LESfbYBcOjGiBMBa9mlCflQmQSjq/tC8mK6ZivJWdhh3m9HBt/3r/Xa2LPfz02tJa/w37/syH1y0RafoXRfTC0GArG63noLD6scdFxfGJ5HzO+jHVoI3+V07w==;YYbfoOF7euoitFKDpc+Fbg=="
 ---
 

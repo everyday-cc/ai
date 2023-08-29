@@ -2,6 +2,41 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report.md",
+      "title": "Microsoft is developing its own AI chip to power ChatGPT: Report",
+      "excerpt": "Microsoft is reportedly joining the likes of Amazon, Google and Meta in developing its own in-house AI chips to fight the rising costs of Nvidia GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
+      "originalUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
       "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
       "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
@@ -1308,40 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-social-and-medical-factors-may-explain-cognitive-impact-of-delayed-craniosynostosis-surgery.md",
-      "title": "Social and medical factors may explain cognitive impact of delayed craniosynostosis surgery",
-      "excerpt": "For infants with the skull deformity craniosynostosis, head reshaping surgery after age 12 months has long been linked to impaired cognitive and language development. Now a new study suggests that the difference in developmental outcomes may reflect a range of other patient characteristics and clinical factors affecting age at surgery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/984569",
-      "originalUrl": "https://www.eurekalert.org/news-releases/984569",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

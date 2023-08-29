@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI-generated selfies are coming to Snapchat. What to know before you opt in"
+    excerpt: "Snapchat Dreams turns your selfies into AI-generated portraits for an additional price -- and it's not just monetary."
+    publishedDateTime: 2023-08-29T20:39:00Z
+    webUrl: "https://www.zdnet.com/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d98bec50c24db78b56c4b6891df29baa08086da6/2023/08/29/a239a3ff-c40f-4220-9b6a-96b52309c09f/gettyimages-1563115246.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapchat's new 'Dreams' feature uses generative AI to remix users' selfies"
     excerpt: "Snapchat has added a new generative AI feature to its app. Called “Dreams,” it’s in some ways similar to the company’s signature AR effects, known as lenses. But instead of real-time camera-based effects, the feature uses generative AI to remix users’ selfies into “fantastical images that transform their persona into new identities.”"
     publishedDateTime: 2023-08-29T15:57:00Z

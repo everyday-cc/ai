@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Brazil robot helps farmers scout, spray and protect crops, developer says"
-excerpt: "SAO PAULO (Reuters) - Brazilian agriculture startup Solinftec plans to accelerate deliveries of its farming robot in Brazil and in the United ... The machine, powered by artificial intelligence, includes a \"hunter\" feature that eliminates insects using ..."
+excerpt: "The machine, powered by artificial intelligence, includes a \"hunter\" feature that eliminates insects using light beams and electrical shocks, Hernandez said. \"If the robot can wander 24 hours, all year round on the property, it can understand and act on ..."
 publishedDateTime: 2023-08-29T17:45:00Z
 originalUrl: "https://www.aol.com/news/brazil-robot-helps-farmers-scout-173341552.html"
 webUrl: "https://www.aol.com/news/brazil-robot-helps-farmers-scout-173341552.html"
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "NSQaetNr8lYQIk9MUhZDVzdHOK4uZd4WfJlVcC4mx7V8yrxdlh+xdMFKTb5RGHuU8RUwHk6T0m2qVQc/BWUNiuKnyAvnt3TlCGTAiop4nRJsYBp6j/4p4bDKuoZJhecT1cKwtRk66M8yY7JkaSyN+97HS//32xoQ437BE5WFu+zgEJYjhaWHbEvzKoX0wyOnfLDpvG+tWKgX2myGYcPWAq4XWUybRiouBaBkrz2+5E40smaojzyNRCqRyLpVxOXGXfGTR5Ozx06RjYa5y+lcApMX6vGi93q7R6Isyd/EiGZZlV/9DjSFIWFmqZ3sA1ex/qZcXUte0aoQCLDbJ/TAYR0zMU7a4Og2cxGX16EU9CQ=;HdqGzHS3Cziah+XfbFoaZQ=="
+secured: "g0JAU+uaI9xiKa5kZMK4LKJAl+JzjBpD6WkB/o8d2jmFsb0qbveOx4HmbU6+Duk+AE6ADGOHG3DbIN/Ax4afsSEyDKrNpO39qdse4eNopZ/1/Vkgp0PTV/N+BLHedTHxlPcymfSkzdruLUUXFvG9fCtnMJK3kCJopAtJLfNgURVK2dz9KQPrKEV9jzxqSsvK0+V9fqV4j1tGgOwtTlYAzsFPt8s1AkB6JL7DYTHiG8LN5tqrHErgSTLpSVRn0AfSKkAXYIbipqSgUaws2ZSk22HCyfufQJr7bZy0Wb4/k/2G2pmNFhewmFQPKIBt53buFNXY+kcLjGL2QtPQkAT179KmQTvQJJVzk+XZGVyl438=;MMqxUh1swrMHh1/IIiS9nQ=="
 ---
 

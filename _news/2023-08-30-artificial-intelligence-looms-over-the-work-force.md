@@ -1,0 +1,23 @@
+---
+category: news
+title: "Artificial Intelligence Looms Over The Work Force"
+excerpt: "After all, as technology has advanced, many tasks that were once executed by human hands have become automated."
+publishedDateTime: 2023-08-29T17:48:00Z
+originalUrl: "https://www.oakdaleleader.com/opinion/artificial-intelligence-looms-over-work-force/"
+webUrl: "https://www.oakdaleleader.com/opinion/artificial-intelligence-looms-over-work-force/"
+type: article
+quality: 19
+heat: 19
+published: false
+
+provider:
+  name: Oakdale Leader
+  domain: oakdaleleader.com
+
+topics:
+  - AI in Autos
+  - AI
+
+secured: "/eTnlHE6P0/N7aaE+IFi7hR3+LQGUnWrm47+d4tj0RGqdHVEvmLhnWuYZaw/5V+t+EebEnbJxuJi9yoHntTdVMbOs9mpKpymVqMhHzvHseSoPtO6o8OB2yOe7F0s3xst1dC6YUd7Q7G5CW/Vl07nQBch6BI6mFq4rXX2Xp1GxlxgGplXnnAP87FiP20al72T3ca6HBPHCdG24Zh3gadpiCafG/fcx9fEG08FODybiTM38Lbd44o9M+20SV8mUwt5YWFIHyckw5/SMmlNFCzA/lx7pGqJzyDK/XO53GAr4fiPfordQJlO/ui2rAY22JNT3RuvtNn52/GGxds/Eam8bLjcwMM0zuAS1POwn/llcUrIk8q1g9XNMvL7wrW8oXIwUPP2R9TpeT5e7jwfLqa83dlh/i80UfcUHtR7FcUQh3sBEgaSHFqOCEXYsIrySf9l4qPBJf360+mFaYmrOaJATmP8mRjsnex6xkMAeApF4LNxfkT1xZmwPLrYZB9hatUNsYC5QMmYyNquUwpeOl6Dgw==;Psx7Aum02Qc1Qf0q1fsLWA=="
+---
+

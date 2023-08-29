@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intell
 webUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.wsj.net/im-841956/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
-    excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
-    publishedDateTime: 2023-08-25T02:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/articleshow/103035002.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-amazon-intel-nvidia-and-other-tech-giants-invest-in-ai-startup-hugging-face/amp_articleshow/103035002.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103034999/103034999.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
     excerpt: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."

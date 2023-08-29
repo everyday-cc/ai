@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Google wants an invisible digital watermark to bring transparency to AI art"
+    excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
+    publishedDateTime: 2023-08-29T17:20:00Z
+    webUrl: "https://www.engadget.com/google-wants-an-invisible-digital-watermark-to-bring-transparency-to-ai-art-164551794.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
 
 secured: "GVCUyU9X6A0C5f7KB/ehT4+W/7ns6KazbHXMoPXIoFkf2+bxE12qM62qq5LbHtW0iCxnc/1C2YmTW7jHbA0HY7N2tAfgfylADr8DQgODF+pwh/2re4ZcdZtzw42UZmPnxwJEHmT8TSp7CAdlBfpejmSEDziVV1Jv1w2vt37mlOsjA1rD7v0J9gdOYCpv8qSW2wt+JHwUlGh3Kof+5D7klAy02z3AULCVg89mrr6TrWGuF1j7GGK25PPKXMkiTyLVt1byaWOM+4IdaJhA6DXaPtXhhmmvedZUkk9SK/3Fyzse7WfZ9XMjJvi6uYMzbdoQ8nHkHnS8BfynSvBLKLLji55phhHw/QJVd19NCJCEf4SVQlJjBH2W5XuumU584ZZ4ybUDixxUiNEiTJuknwPDaDpwE82WvEOfpaj9mwZ7CcFwNjmeIOn6L+2GFmFCgITzPQI0QsFgOKA6xnhCMjiSaTQfQDcCjcOOPaR78OiO0sW/yWT21qVPUr/bT15ut74tAPnkE5Ng8uEeLVRpHnqbxQ==;QrQqUHy+Pxn4Q6KacRgTNw=="
 ---

@@ -1,0 +1,62 @@
+---
+category: news
+title: "AI in focus: Here's what to look for when Salesforce and Broadcom report earnings"
+excerpt: "When these two tech firms release earnings, Wall Street will be looking to see if their respective bets on artificial intelligence are starting to pay off."
+publishedDateTime: 2023-08-29T16:29:00Z
+originalUrl: "https://www.cnbc.com/2023/08/29/ai-in-focus-heres-what-to-look-for-when-salesforce-broadcom-report.html"
+webUrl: "https://www.cnbc.com/2023/08/29/ai-in-focus-heres-what-to-look-for-when-salesforce-broadcom-report.html"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
+    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
+    publishedDateTime: 2023-08-28T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
+    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
+    publishedDateTime: 2023-08-25T16:52:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
+  - title: "Google’s Duet AI now available for Workspace enterprise customers"
+    excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
+    publishedDateTime: 2023-08-29T19:07:00Z
+    webUrl: "https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
+
+secured: "jg1ZBANSVo4V922hfaBLOq4JJJa5Iw0giviWqNadQc//cH/43r/5EJ2v3WVVstA1ij7DstC+v9JJ059rjFpsBrY8XCPZ2taXiJVfzcj8Emn4RX5C2CqYXuvgNWqd//y9tJJAQPJZasLoETAf0Q9Ky0T2DIUxw4NSjs3ZyKipDBVpc4HMHljLX24aTqggUX7lyEewOh7BvX0hrrVC3qBQk/Ph8EaXa6tpEpq1kG9LoktaYUegLggW1fopudDZsqOY7+TAKfQ4NVpFa7UeKCOxc4+f577JRSbLnBVKhARwusDEPSpCrTffWTc+YRzwOtWz8iTTUDKS5hFpc65ob9LOkrQp3/xDnRaNB44q2HkcVOiDrT/c5q90a39iffYnvsoNaoXkeYTejdMb1WUE7s24gqEJs30h8orpzM6OacfT2XWtrwm5ouucChMshj0EIsbO/icHv9l9LHSfBWqxjM5A77bM91tPt/XsLNfCecBycpS6elO60t3I4Z9nEGVkQqbk2UD6JxXbvSMI/C92DY5ogA==;NjYLyP49Xj8ccaLg1TrpHw=="
+---
+

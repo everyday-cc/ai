@@ -25,30 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
-    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
-    publishedDateTime: 2023-08-28T13:26:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
+  - title: "Google’s $30-per-month “Duet” AI will craft awkward emails, images for you"
+    excerpt: "Duet is not just one thing—instead, it's a blanket brand name for a multitude of different AI capabilities and probably should have been called \"Google Kitchen Sink.\" It likely represents several distinct AI systems behind the scenes."
+    publishedDateTime: 2023-08-29T20:27:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/google_duet_robot_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google's AI feature in Gmail and productivity apps will cost big businesses $30 a month per user"
+    excerpt: "Google and Microsoft will be charging the same amount for artificial intelligence tools that augment productivity products used by businesses"
+    publishedDateTime: 2023-08-29T10:00:00Z
+    webUrl: "https://www.cnbc.com/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107292883-1693248781109-gettyimages-1529851494-ALLEN__CO_2023.jpeg?v=1693310402"
+        width: 4000
+        height: 2662
+        isCached: true
+  - title: "Google stock rises as it says it will charge $30 for enterprise AI service"
+    excerpt: "The most intriguing news out of the show is that Google is pricing its AI-powered Duet AI in Workspace at $30 per user per month. That’s the same price Microsoft is charging for its Microsoft 365 Copilot."
+    publishedDateTime: 2023-08-29T20:05:00Z
+    webUrl: "https://www.aol.com/finance/google-shares-rise-says-charge-170422161.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/aFpPKPC6NiBdSuGLQM9f7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/aol_yahoo_finance_433/b710f8b1b7967011b94151a71764005f"
+        width: 1200
+        height: 686
         isCached: true
 
 secured: "9Uczjlwlz9CacznN4dt8WE4IsE0Z9LqbR5g2mruG17HVssuy4SHU3uStNmkHcuk6uIroaXu+TgANm8M+38HHZmeLzChZuB+A8KTAvB+ddX3jOKPVJ8qbKjZMj58H0utjSaHfonq1rGmG54W1MqNlXfUnVaYv+bqvMk1GtrazrjGH5OgKQL5uVeKXFM4LqDzrIxtfspPaWf+VrvT9zmKO6hZmODJBXg7if/fc/1++X2Nuiy/g4tnYExUDJjfkEmoagcRWtEuB+2c8Y4n+93iFopW/+zvUkRsKN4pygyhsWFc3S69t5o+9EWWpCl1SJeZ1I9X2q1o/qsoXQsBhYiyJZLPrhAuMzi8S4LbCVxe6O4Y=;6KlnukCn8ERGz0NmcWnSiw=="

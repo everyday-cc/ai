@@ -43,20 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Speech Accessibility Project needs more participants with Parkinson's"
-    excerpt: "The Speech Accessibility Project is almost halfway through its first phase of gathering voice recordings from people with Parkinson's."
-    publishedDateTime: 2023-08-25T02:57:00Z
-    webUrl: "https://www.news-medical.net/news/20230824/Speech-Accessibility-Project-needs-more-participants-with-Parkinsons.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "r8CRhForM842cGdEupphDxbYlq22RceyihvO75aJfLdG0S+574TS4T4hhJ3wOpfY9t4vj6KBAUCLFDUNRKesR8pzAoNAVTBl48XtyJZerho7OX5tfIEGkfdd+INgDvA5qEfgXwF18txpfEw8FIRK3hdmm5gQxinSlHUo45JYF7yDbf6NWKQEP7d+ZauyvIw736F1+fjkl1o2c8EOaQRqSgF4QLmW7O1qIh/UqZA7zmcSrjILO17jaNwpw3tCr6b5jEX4udxpgq2+XUWuq4RDuN9rdgKoXkPq2LkZ2qSD01a+9mOl5pNfMLwTYpuNSEQfw2MMDaV6gMZZAtg/aTWtrwxK5VEOKTjh0fHDMgL3yHQ=;tChOwKt5u340/p1PDQiHwA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/snapchats-new-dreams-feature-uses-generat
 webUrl: "https://www.engadget.com/snapchats-new-dreams-feature-uses-generative-ai-to-remix-users-selfies-130038172.html"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-generated selfies are coming to Snapchat. What to know before you opt in"
+    excerpt: "Snapchat Dreams turns your selfies into AI-generated portraits for an additional price -- and it's not just monetary."
+    publishedDateTime: 2023-08-29T20:39:00Z
+    webUrl: "https://www.zdnet.com/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d98bec50c24db78b56c4b6891df29baa08086da6/2023/08/29/a239a3ff-c40f-4220-9b6a-96b52309c09f/gettyimages-1563115246.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapchat launches a new AI selfie feature called ‘Dreams’"
     excerpt: "With a few selfies, you can create a personalized Generative AI model and start checking out your Dreams. Users will get the first pack of Dreams, which includes eight images, for free. Afterwards, users can purchase additional packs for $1. Soon ..."
     publishedDateTime: 2023-08-29T13:45:00Z

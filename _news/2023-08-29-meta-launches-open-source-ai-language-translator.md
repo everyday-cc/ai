@@ -83,6 +83,15 @@ related:
         width: 447
         height: 559
         isCached: true
+  - title: "Embuing AI with Ethics"
+    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
+    publishedDateTime: 2023-08-29T19:32:00Z
+    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 36
   - title: "How AI and machine learning can help with DEI hiring"
     excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
     publishedDateTime: 2023-08-28T13:01:00Z

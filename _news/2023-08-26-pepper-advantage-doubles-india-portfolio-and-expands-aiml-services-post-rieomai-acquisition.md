@@ -95,6 +95,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 18
+  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
+    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
+    publishedDateTime: 2023-08-29T19:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "9X8Qu8xSOPjcMbyDRWpX93SL9ghgpuzAFU/EheYeDDPmWLp2hrN9CeGcFpvdeja4Ea+j4cYalwybvBhU7fuQrcfUXQttk5mClXrUg4mOHjdfEzKF/1//DOSFvlfWLpgxPxcty2J+6yrNX7qrmEfwlOyXIAotkmDnzJeeXMAWakFjvvb/4Pp1N8e/8EpTLjksruIA3wAg25Lbvv1zGJpKnf7Liku5rt6CkfwGDLtZBcS5TVHUzdBgWyjqL1poyJVMfA1Y2pBkbmfRPUfcD6tI4o0fzQs2CYcAmuUAjmhqp8SeZDJzlmXmswqYJPVliCQlV1Pkw/afmY5TBWHgcJMRCc6vhOs+bhUEWoqUcA9KWAPsrxUhrfcempRTmicaJHJiTI9cABF3RdpwNZW+mRa0D7PnYKS8y2sfSY7zz1c69u9zBfki9Sv59GTSswETBYzYGoEgnPDPG8HSCylHrbp6WO/GGB0YY4lmr3fxP82hi2thl1CvgyhkBN5hnFwtklsyVjE9E6OVDThVGu6myjMSjg==;2cDrzuY/9lmLMrpGK5kS1w=="
 ---

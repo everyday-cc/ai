@@ -75,6 +75,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
+  - title: "Money Is Pouring Into AI."
+    excerpt: "All told, generative AI and machine learning start-ups raised about $39.4 billion this year, with $19.4 billion of that in the second quarter, according to PitchBook’s second-quarter Artificial Intelligence & Machine Learning Report. Though money has ..."
+    publishedDateTime: 2023-08-29T19:34:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 17
 
 secured: "gUEWShyHUzG6YU7HrzIyQjUg5xaTvv6oQQTI/RaP99Sgby0L8EUGY1+h4aOVjYTFMD8ZAdjOcqMv7BNz+I+bNSYMRc7ZU/4avkeAqGaNIdCD7ARibuT2fFlqeaUkpZLedXIcf+S5WlG+K5bjex0ecElSV7B1FkeQKmjyxAzJdXgfyV5bi0LkuZXGteinHkxA4NUGKg5/fF7uIoI/kPBDM3dGoUrFlXrCdmLPXKQs1HGQWTSgX5c3L7I0PhftbOaehpiaE0bMJnQDlJExuLDeQeT3UQSmXy3rEwSVZogQ5uJWmFTw8hzgvU+X3zGmAd1rC0v7ePJiWSGQv84sBT2jGm+aiKvAMB9710lb/9XKtAU=;yPpZOygWPzrBO4xzz3FslQ=="
 ---

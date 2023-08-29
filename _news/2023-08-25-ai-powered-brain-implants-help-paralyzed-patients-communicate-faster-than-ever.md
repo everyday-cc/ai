@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-hel
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Brain powered: control a computer with your thoughts"
-    excerpt: "The dream of melding mind and machine to overcome the limitations of the ... Thirty years later, studies demonstrated that monkeys implanted with neural interfaces could control robotic prostheses with their minds. Then in 2004, US tetraplegic Matt Nagle ..."
-    publishedDateTime: 2023-08-25T04:38:00Z
-    webUrl: "https://www.theaustralian.com.au/weekend-australian-magazine/brain-powered-control-a-computer-with-your-thoughts-using-synchrons-stentrode-technology/news-story/387d23813ba25510ae2472650c873ac3"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "y0M6OLYcT6l3PPyOwH2HhkIZirs8ykidLnY9kPVbbnZx3I4VKBAbpW4zhwq/Z7mMrTqQu7jNBpeyGnKUdA0Erd07kiPNeXsckoXaNV1liZxHsXjiln9E33vz+IFqQCW7FcKJifOz5S7IvWnrs54cietVgJmRuoHu8sKMlqdxvZQmDMC3wglVcmOgdoJQqydffqpLbhlXsbMsWp47nBCtofnJA6yuFwTp0hOI0jxPJb+hUbus1FLo8cbmw94Xtmnzw7Nvi5NS8AsgRHQt+ltBnTcbJgTuOK719q+QwatpIHaUfzj1W0oi4g/Y0rSUOaKc6hSCqgSAedaRrZABdRWmOeTC0QLO6h6dApOIwpTl1nQ=;psX3av8eArIHtUdRFtD2Tg=="
 ---

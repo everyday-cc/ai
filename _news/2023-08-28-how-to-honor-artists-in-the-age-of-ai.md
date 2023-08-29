@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tax And The Future Of Artificial Intelligence"
+    excerpt: "John McGowan of HubSync discusses artificial intelligence and its role in the tax field. This transcript has been edited for length and clarity. David D. Stewart: Welcome to the podcast. I'm David Stewart, editor in chief of Tax Notes Today International. This week: Friend or foe?"
+    publishedDateTime: 2023-08-29T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee492b71e0e620574af6bd/0x0.jpg?format=jpg&width=1200"
+        width: 1190
+        height: 793
+        isCached: true
   - title: "Talking the AI Talk"
     excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
     publishedDateTime: 2023-08-28T23:40:00Z

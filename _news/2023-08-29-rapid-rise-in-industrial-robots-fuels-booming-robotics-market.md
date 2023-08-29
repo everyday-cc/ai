@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fue
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 69
+  - title: "Not just “messing with a robot”: GA school district brings AI into classrooms"
+    excerpt: "The emergence of artificial intelligence has raised questions about its impact on creativity and critical thinking. While some schools are banning the use of AI in classrooms, one school district in Gwinnett County,"
+    publishedDateTime: 2023-08-29T19:19:00Z
+    webUrl: "https://www.wsbradio.com/news/local/not-just-messing-with-robot-ga-school-district-brings-ai-into-classrooms/ZJEVF4T5Q5HOZN7W5DXY22JAKM/"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 31
 
 secured: "6z3v71QsI3kBiVIh7ZG6PcRv/MYf4ggBSMPSitKzOV3aU5glEkr0iau2mU2WHVEyPlMacb4ydMO3OaIk3vtFxuQzlAHF1G5KDUf1MgSrnPYCIZoZRTQ9V0lRTp2h0LS8JNlYqvZ7F5iKE0zOQuxKHcCbetrbGMyPKApn2d5nwC+McmR1/EQwMjjmzMXtNEYt0N7GhubWq0d15bmV4VoiL1QPff+k+ckqSB23/yVzTVJOY4YLx1W7uBCQL8EMx2PF4OksTIsd4UzD5mRC30urlNQVnjcgVIc02+RyrTqtVe6wunflk6dKcNDokWBnPj6U0YZOaI3OONsV7Oc8L/L9ynLutfpnCQkEsdCpps9yzhvXGjfZFBYj2IHgVgpmeTz5I4LyyHcPClOA2PQZG+KIUTV8BqqtKkycHv0399Zfj6Yy3Kp7r3S4izbRINcMaZbkAtkcyyX/aHms72bRhJ8pykGj31EXQyHxL+QMAV6oqefM7XjIIntAYQPvLtnXPX4yXS/UHGnLaeVQ0UAvZPv75g==;ShWMCbQCC9gMGTfcduPA3g=="
 ---

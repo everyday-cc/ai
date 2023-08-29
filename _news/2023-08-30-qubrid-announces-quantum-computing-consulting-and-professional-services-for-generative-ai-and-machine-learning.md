@@ -139,6 +139,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
+  - title: "Q&A: Uncovering the labor exploitation that powers AI"
+    excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."
+    publishedDateTime: 2023-08-29T20:07:00Z
+    webUrl: "https://www.cjr.org/tow_center/qa-uncovering-the-labor-exploitation-that-powers-ai.php"
+    type: article
+    provider:
+      name: cjr.org
+      domain: cjr.org
+    quality: 39
+    images:
+      - url: "https://www.cjr.org/wp-content/uploads/2023/08/02892_Hieronymus_van_Aeken_51945890521-800x431.jpg?311942"
+        width: 800
+        height: 431
+        isCached: true
   - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
     excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
     publishedDateTime: 2023-08-28T16:10:00Z

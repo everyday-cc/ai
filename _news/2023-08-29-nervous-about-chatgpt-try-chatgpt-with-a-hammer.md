@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened"
+    excerpt: "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration."
+    publishedDateTime: 2023-08-29T20:42:00Z
+    webUrl: "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How this simple ChatGPT prompt tweak can help refine your AI-generated content"
     excerpt: "For example, you can ask ChatGPT to output content in a way that a five-year-old would understand. Although that description isn't specifically a tone, it will simplify the response to align better with your needs if your needs include explaining something to a child."
     publishedDateTime: 2023-08-29T16:33:00Z
@@ -39,63 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence frontrunner OpenAI offers ChatGPT Enterprise"
-    excerpt: "Artificial intelligence frontrunner, OpenAI, announced on Monday its latest offering, ChatGPT Enterprise, designed to cater specifically to the needs of large businesses. This move marks a significant convergence of services between OpenAI and its ..."
-    publishedDateTime: 2023-08-29T05:32:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 72
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
-        width: 640
-        height: 390
-        isCached: true
-  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
-    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
-    publishedDateTime: 2023-08-28T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Human Intelligence: ZoomInfo's AI guru on ChatGPT's promise and limits"
-    excerpt: "He joined ZoomInfo when the Vancouver company bought the AI startup where he was vice president of product and engineering. It was a $575 million deal that brought Chorus.ai into ZoomInfo and created the basis for some new AI-based tools by ZI with capabilities such as meeting summaries or proposed emails for follow-ups or action items."
-    publishedDateTime: 2023-08-25T17:49:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/inno-insights/2023/08/25/human-intelligence-zoominfo-cpo-ai-promise.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Meta Introduces Code Llama: A New AI-powered Coding Tool to Rival ChatGPT"
-    excerpt: "Code Llama holds the promise to transform coding tasks, merging natural language processing and coding capabilities. This innovative tool uses both code and natural language prompts to generate code, carry out discussions about code, and even provide debugging and code completion support."
-    publishedDateTime: 2023-08-25T11:31:00Z
-    webUrl: "https://techreport.com/news/meta-introduces-code-llama-a-new-ai-powered-coding-tool-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 18
   - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
     excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
     publishedDateTime: 2023-08-26T18:27:00Z
@@ -105,15 +64,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 4
-  - title: "ChatGPT 3.5 provides inappropriate cancer treatment recommendations in one-third of cases, study shows"
-    excerpt: "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients' fingertips, researchers from Brigham and Women's Hospital, a founding member of the Mass General Brigham healthcare system,"
-    publishedDateTime: 2023-08-25T13:47:00Z
-    webUrl: "https://www.news-medical.net/news/20230825/ChatGPT-35-provides-inappropriate-cancer-treatment-recommendations-in-one-third-of-cases-study-shows.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 0
 
 secured: "vZ9nOVp+La4+6S/gl1K5Jeg4cNnmvJWIksv8f5rU3vHKxXELs8w5hLf0+OuMjhlltxvNqPKZitEauKXZO4pFsoOm5nS9xXhiCSVHTyokwkC9xnZp7JqTr1UCSTS/sqwvt0BHrtDapp/02gHnJ6lPsiAMWXtPoBlTdbQhTfZTPczkEt8AgZdpTsXzlNkwrEULJuzpq2FQNQi61LjLU6cGxfx3T3ly0jA1boRFoKISXDs2dWSZom84jL8HJAQaTiTgTDtTI7fishdZKWZWXfH8mwOvUjFjlDrXj68ffakwSDS+Stokcy2fkIsBpbzC016kMSh/4rKq+spltrm1IZowaHTlaoW7URZDfnzaIuB3/RtZhZg/gAT+EdKygsCQkxM+7BXXRsl+ivcIbWFKFkokpOeCcaht+1G6nplGAgUMfwLLjMufBf6FslM9A3V2ff7bkH1P0MiorFjC7trx/Tg6IDmARMzeE0dzLgn5PCbc6Q7V1YECgr+UMaIzXSeAeHepZbp9bZAzVnYwllFCod3XLw==;O2KXEwONcczNyaVn1aIrjw=="
 ---

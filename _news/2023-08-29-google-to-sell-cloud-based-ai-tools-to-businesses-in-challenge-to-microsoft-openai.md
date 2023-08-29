@@ -79,6 +79,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 69
+  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
+    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
+    publishedDateTime: 2023-08-29T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "AI chatbot aims to provide support for women with postpartum depression"
     excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
     publishedDateTime: 2023-08-26T18:10:00Z
@@ -146,6 +155,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
+    excerpt: "Corporate Gmail users will be able to pay $30 a month per person to be able to use Google's AI tools for their businesses."
+    publishedDateTime: 2023-08-29T19:11:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z
