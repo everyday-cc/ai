@@ -67,20 +67,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 79
-  - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
-    excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
-    publishedDateTime: 2023-08-24T10:19:00Z
-    webUrl: "https://www.techspot.com/news/99903-ai-surge-propels-nvidia-revenue-staggering-135-billion.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-20-image-9.jpg"
-        width: 4167
-        height: 2688
-        isCached: true
   - title: "Google, Amazon, Intel, Nvidia and other tech giants invest in AI startup Hugging Face"
     excerpt: "Tech giants including Google, Amazon, Nvidia, Salesforce, AMD, Intel, IBM, and Qualcomm have invested in AI startup Hugging Face. The company, which d"
     publishedDateTime: 2023-08-25T02:56:00Z

@@ -57,15 +57,6 @@ related:
         width: 670
         height: 476
         isCached: true
-  - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
-    excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
-    publishedDateTime: 2023-08-24T09:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/google-microsoft-tools-behind-surge-in-deepfake-ai-porn"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
     excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
     publishedDateTime: 2023-08-25T17:53:00Z

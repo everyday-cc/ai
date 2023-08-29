@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-hel
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain Implants That Help Paralyzed People Speak Just Broke New Records"
-    excerpt: "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately."
-    publishedDateTime: 2023-08-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How AI-powered brain implants are helping an ALS patient communicate"
     excerpt: "A brain-interface system that translates neural activity to speech is helping a person with ALS who cannot speak traditionally."
     publishedDateTime: 2023-08-25T22:00:00Z

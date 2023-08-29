@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-07-22-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
+      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
+      "excerpt": "Microsoft’s Vector Search feature through Azure Cognitive Search uses machine learning to capture the meaning and context of unstructured data, including images and text, to make search faster. Liam Cavanagh, a principal group product manager of Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-exploring-the-role-of-machine-learning-in-curriculum-design-and-development.md",
       "title": "Exploring the role of machine learning in curriculum design and development",
       "excerpt": "With statistics coming into the picture, its more glorified avatar, “Machine Learning,” finds a natural application in this context. Here we derive insights from recent research in this domain.",
@@ -1149,58 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
-      "title": "Here Are the Actual Mechanics Behind Powering AI",
-      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

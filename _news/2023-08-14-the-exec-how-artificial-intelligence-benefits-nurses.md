@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/AI%20Nursing.jpg"

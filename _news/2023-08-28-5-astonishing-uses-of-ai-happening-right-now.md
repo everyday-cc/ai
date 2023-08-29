@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "MLK’s iconic “I Have a Dream” speech was one of the stars of the March on Washington"
-    excerpt: "The last part of the speech took less time to deliver than it takes to boil an egg, but “I Have A Dream” is one of American history’s most famous orations and most inspiring."
-    publishedDateTime: 2023-08-24T10:03:00Z
-    webUrl: "https://thegrio.com/2023/08/24/mlks-iconic-i-have-a-dream-speech-was-one-of-the-stars-of-the-march-on-washington/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 17
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/08/AP23234801845861.jpg"
-        width: 1818
-        height: 1440
-        isCached: true
 
 secured: "gUEWShyHUzG6YU7HrzIyQjUg5xaTvv6oQQTI/RaP99Sgby0L8EUGY1+h4aOVjYTFMD8ZAdjOcqMv7BNz+I+bNSYMRc7ZU/4avkeAqGaNIdCD7ARibuT2fFlqeaUkpZLedXIcf+S5WlG+K5bjex0ecElSV7B1FkeQKmjyxAzJdXgfyV5bi0LkuZXGteinHkxA4NUGKg5/fF7uIoI/kPBDM3dGoUrFlXrCdmLPXKQs1HGQWTSgX5c3L7I0PhftbOaehpiaE0bMJnQDlJExuLDeQeT3UQSmXy3rEwSVZogQ5uJWmFTw8hzgvU+X3zGmAd1rC0v7ePJiWSGQv84sBT2jGm+aiKvAMB9710lb/9XKtAU=;yPpZOygWPzrBO4xzz3FslQ=="
 ---

@@ -81,20 +81,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 79
-  - title: "AI surge propels Nvidia's revenue to a staggering $13.5 billion"
-    excerpt: "Nvidia's revenue for Q2 FY2024 came in at a massive $13.5 billion, marking a 101% increase compared to the same period one year earlier. Most of"
-    publishedDateTime: 2023-08-24T10:19:00Z
-    webUrl: "https://www.techspot.com/news/99903-ai-surge-propels-nvidia-revenue-staggering-135-billion.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-20-image-9.jpg"
-        width: 4167
-        height: 2688
-        isCached: true
   - title: "Nvidia CEO says AI boom is \"not a one quarter thing\""
     excerpt: "Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism."
     publishedDateTime: 2023-08-25T01:50:00Z

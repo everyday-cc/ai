@@ -2,6 +2,48 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-06-13-going-big-on-ai-123rf-launches-artificial-intelligence-powered-search-and-image-generation-simultaneously.md",
+      "title": "Going Big on AI, 123RF Launches Artificial Intelligence Powered Search and Image Generation Simultaneously",
+      "excerpt": "Revolutionizing Stock Content Discovery with Innovative, User-centric Search and Image Generation Technology. 123RF, a global pioneer in the stock content industry, is announcing the introduction of i",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32820890/going-big-on-ai-123rf-launches-artificial-intelligence-powered-search-and-image-generation-simult",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32820890/going-big-on-ai-123rf-launches-artificial-intelligence-powered-search-and-image-generation-simult",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32820890",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32820890",
+      "publishedDateTime": "2023-06-12T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-ai-how-good-is-good-enough.md",
       "title": "AI: How Good Is Good Enough?",
       "excerpt": "Many business leaders today are excited by the idea of implementing AI solutions that will replace humans in customer-facing roles. But, there are roadblocks.",
@@ -1148,49 +1190,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-syntiant-analog-deep-learning-chips.md",
-      "title": "Syntiant: Analog Deep Learning Chips",
-      "excerpt": "The chip they’ll be building is an inference accelerator designed to run deep-learning processes 50x more efficiently than traditional stored-program architectures, according to the company. The processor uses custom analog neural networks to optimize ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/syntiant-analog-deep-learning-chips/",
-      "originalUrl": "https://semiengineering.com/syntiant-analog-deep-learning-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-8.39.02-AM-258x300.png",
-          "width": 258,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

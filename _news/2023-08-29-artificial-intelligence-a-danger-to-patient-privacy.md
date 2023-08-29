@@ -8,8 +8,8 @@ webUrl: "https://securityboulevard.com/2023/08/artificial-intelligence-a-danger-
 ampWebUrl: "https://securityboulevard.com/2023/08/artificial-intelligence-a-danger-to-patient-privacy/amp/"
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/08/artificial-intelligence-a-danger-to-patient-privacy/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"

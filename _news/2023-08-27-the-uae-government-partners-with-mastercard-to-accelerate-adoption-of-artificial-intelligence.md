@@ -34,22 +34,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "The UAE government partnership with MasterCard to accelerate adoption of artificial intelligence"
-    excerpt: "Dubai: The UAE’s Artificial intelligence, Digital Economy and Remote Work Applications Office and Mastercard today signed a Memorandum of Understanding to increase AI capabilities and readiness in the region With Artificial Intelligence (AI) playing an increasingly transformational role across society."
-    publishedDateTime: 2023-08-24T09:44:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/the-uae-government-partnership-with-mastercard-to-accelerate-adoption-of-artificial-intelligence-apd2jqpl?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFkOGU3NjItYzEyZC00/0/h-e-omarsultanalolamaduringmousigning-3-jpg.jpeg?f=3%3A2"
-        width: 826
-        height: 551
-        isCached: true
 
 secured: "wZUxj4Cv5OU75rP7LCQ4N8n81ubXNTSaC340JDAz0IukPyhtSO8GwvjK+DgZDBns0RjtKeZql5WxESTvT9JyOePPG1PToEPE8GpbCrgbXnQtg9n+xCHWC81t1M9jzOoGh7mCLkpooAesqzONvGc5K1fU80YIv84p6CctxYjGlUxePSwEwdfAb4Bv4IT3rN05oSc1a0kGuRFZy4BUhIkZV4Jyxd+PuJYiCMvOSP87CMBT22ovh3xrQeqsdfm6ysnIb4ExWoK6xosMelzIyYtat4PVmLb9tRmstZR9LrCacecotoUqBw3WptAq2EpD/NFLUOx9r1XtlfGhfl78AdAE5Xvfes4K2Q1mNqcUHjEqk8pcRWVqvIrnu9bvhpnNqPs2LUf9OQm2OeKwNYvjKgc2Yawu3ngTvv6+ryjZhfNSZs+7HM/JmodGdZ3LFia90p/jPk7Ges2kxp79fVtyBjYRNs+GFt5X3NAH9h98oEr/sAmn1h8RHp6TWQ17SfBWFnMg0kkbCeKT9KIh+o2xiHJpgQ==;kJ27up4Uzf4Xt0x1OP+NJg=="
 ---

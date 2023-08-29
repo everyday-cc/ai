@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power"
-    excerpt: "Trimming profits, delaying launches, begging friends. Companies are going to extreme lengths to make do with shortages of GPUs, the chips at the heart of generative AI programs."
-    publishedDateTime: 2023-08-24T09:59:00Z
-    webUrl: "https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
-    images:
-      - url: "https://media.wired.com/photos/64e6438c5c3b7918a8e75f80/191:100/w_1280,c_limit/Nvidia-GPU-Chip-Shortage-Gen-AI-Business-1258367086.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Nvidia: A Moat In AI GPU Technology"
     excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
     publishedDateTime: 2023-08-25T13:40:00Z

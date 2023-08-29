@@ -1,20 +1,28 @@
 ---
 category: news
 title: "A Guide to Fintech ETF Investing"
-excerpt: "According to ResearchAndMarkets.com, AI in the fintech market will witness a remarkable CAGR of 23.6% from 2023 to 2028. Significant factors contributing to this expansion include the rising ..."
-publishedDateTime: 2023-08-22T20:22:00Z
-originalUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing"
-webUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing"
+excerpt: "Ark Fintech Innovation ETF employs an active strategy and has a basket of 31 securities. The fund has amassed an asset base of $913.26 million and charges an annual fee of 0.75%. ARKF has major allocations to the North American region with a share of 76.37% of the funds. It has invested around 61.73% in large-cap securities."
+publishedDateTime: 2023-08-23T15:38:00Z
+originalUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+webUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/"
+ampWebUrl: "https://247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/?amp=1"
+cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/08/23/a-guide-to-fintech-etf-investing/?amp=1"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: 24/7 Wall St
+  domain: 247wallst.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "XpiFTtddQ/mUCAc5GWpuxTHptpS5xryqaCPHU4xKJPTriBmt3U5+Exq6z4TZjeXmsmxYkH8u7uE7w42BYLarin5MYA9tmLyzmJTQENr2AlbJKH6Tp62pYaX1Bl4PCKQVdNJIl0zwlnSBtEYWym2UoqPZ5NRMLp0ls6bRzQz3a4LX2z+IUSoErCCjjRjAhs10I3Sn+ynHXA+hBQvmegGzWnCZRku6InZLQgn0+Wam1LB1sfU6NBm78zP2K2h8jJ4+kLqSNyHd9XEdBrAK74APQws7mMcbJ6WsRkI6r2/PDLAdBHHMGyvRG498qSMPOZ2e6pRHPhn+2xP/wnP4NgbFcr2UEjItdRb520WZ9p8hfVo=;tmXHZnVRNwfH2bJNjC1G6w=="
+images:
+  - url: "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry14-hQk.jpg?w=400"
+    width: 400
+    height: 224
+    isCached: true
+
+secured: "VGEBK7GtfA5u8mcFriStTdXOsWej2qpOQKjQ69EA/tIDNuCvJlXJnkFo2QDWBCLi9Cpw3V1MdUz+Cb76cPc95WXSuhEYNHbww6pyysDgyqjGDxXRs5PPb7tHw9MP7cNb58AX/bwwIT6/Abuo0ODzkJAMv2D4nBzV6aIF14paKA3T3F2K0WD8RMkwJ0QfMtIdhhK4N0UhrX/2dMaF1v4YjkhjrOUtIdHCxMrRXdHJI+eut6fiahsWIm0UemwTYejMkxYZ4h3a7jkMIzyuKdRasCSV4ahr1OvqDaCoOYlQdmEZ9+DYtupPKPTPBL0p06NbJyc8vxKY4sHf72STxVBOQyq4HVAVWWm9DPtsldKlEtg=;3yxxmSfZ42pq0Ygr2ZaAcA=="
 ---
 

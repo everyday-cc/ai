@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-07-18-intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps.md",
+      "title": "Intel Capital invests in Figure as humanoid robot takes first steps",
+      "excerpt": "Intel Capital invests $9 million in AI's autonomous humanoid robot, Figure 01, boosting growth and commercialization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/",
+      "originalUrl": "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/figure-robot-featured.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-vb-transform-innovation-showcase-winner-arize-ai.md",
       "title": "VB Transform Innovation Showcase winner: Arize AI",
       "excerpt": "VentureBeat Transform's Innovation Awards honored Arize AI, an ML observability platform that uses AI to troubleshoot AI.",
@@ -1100,49 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-computer-vision-new-zealand.md",
-      "title": "Computer Vision - New Zealand",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$133.00m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.71%, resulting in a market volume of US$307.40m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

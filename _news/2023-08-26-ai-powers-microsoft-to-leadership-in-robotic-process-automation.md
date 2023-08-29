@@ -57,15 +57,6 @@ related:
         width: 670
         height: 476
         isCached: true
-  - title: "Google and Microsoft Are Supercharging AI Deepfake Porn"
-    excerpt: "To stay up and running, deepfake creators rely on products and services from Google, Apple, Amazon, CloudFlare and Microsoft"
-    publishedDateTime: 2023-08-24T09:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-24/google-microsoft-tools-behind-surge-in-deepfake-ai-porn"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Microsoft Discontinues Kinect, Again"
     excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
     publishedDateTime: 2023-08-26T08:25:00Z

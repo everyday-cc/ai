@@ -33,15 +33,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
-    excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
-    publishedDateTime: 2023-08-26T18:27:00Z
-    webUrl: "https://www.medindia.net/news/balancing-precision-and-missteps-in-cancer-treatment-through-chatgpt-213252-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 4
 
 secured: "jWO6CI53+EGBEKf9Uvh29kGRaCJVtL6nkHQx15Vp3jJhOYS7/Udlqne1nXMPFwKGSOFX92CFT+A7kVDHKxkIwmZIFqObU4UUy+33kltV144rXO0tl1bDzU+76F+FtiKbEF5dTnqYAwdPCHHUp6HyBb/AFv3NxWFhhN4bVeTRl9j1gISV6ZRHv7xd3N5VaJntIJTh4+ltLhjRCJLQY/rRInBaf1HlLn7zzkw+3+19oOQxSGqmC5cXZb4P4yZmcHEKU8Agslz9e8iffBN3CuWgdfeKehK0XO2EqPZUfyIqbAJcXvYpdk9lXxjhaiAzS7xWPVbgpq9DO5sUKXbC5JAyVxNP9QH7J0Dl4+jmj4sduCE=;pCJx9LpAdWZEiYvin+OSuw=="
 ---

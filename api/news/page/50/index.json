@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
+      "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
+      "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9210/174576_ayozat1.jpg",
+          "width": 560,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
       "title": "TONIX PHARMACEUTICALS HOLDING CORP",
       "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
@@ -1157,40 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-global-ai-in-fintech-markets-2023-2028-growing-demand-for-process-automation-propels-ai-in-fintech.md",
-      "title": "Global AI in Fintech Markets, 2023-2028: Growing Demand for Process Automation Propels AI in Fintech",
-      "excerpt": "DUBLIN, July 24, 2023 /PRNewswire/ -- The \"Global AI in Fintech Market (2023-2028) by Component, Application, Deployment Mode, and Geography, Competitive Analysis, Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/07/24/9853108.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/07/24/9853108.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Brain Implants That Help Paralyzed People Speak Just Broke New Records"
-    excerpt: "Two new studies show that AI-powered devices can help paralyzed people communicate faster and more accurately."
-    publishedDateTime: 2023-08-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64e64bd0ceee2d4f86c325ec/191:100/w_1280,c_limit/lede-science-ucsf-bci-1.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Brain powered: control a computer with your thoughts"
     excerpt: "The dream of melding mind and machine to overcome the limitations of the ... Thirty years later, studies demonstrated that monkeys implanted with neural interfaces could control robotic prostheses with their minds. Then in 2004, US tetraplegic Matt Nagle ..."
     publishedDateTime: 2023-08-25T04:38:00Z
