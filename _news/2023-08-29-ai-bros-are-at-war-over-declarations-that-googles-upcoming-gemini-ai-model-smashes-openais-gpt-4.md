@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
 type: article
 quality: 75
-heat: 95
+heat: 96
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-an
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -28,32 +28,34 @@ images:
 
 related:
   - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
-    excerpt: "Google makes public a new version of its custom-built AI chips, unveils an enterprise-scale tool to watermark and identify images generated with AI - plus tools for security and its office suite"
-    publishedDateTime: 2023-08-30T02:28:00Z
-    webUrl: "https://www.rappler.com/technology/google-enterprise-artificial-intelligence-tools-new-chip/"
+    excerpt: "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ..."
+    publishedDateTime: 2023-08-30T11:23:00Z
+    webUrl: "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 69
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 89
     images:
-      - url: "https://www.rappler.com/tachyon/2023/05/google-ai-reuters-may-2023-scaled.jpg"
-        width: 2560
-        height: 1840
-        isCached: true
-  - title: "Google shows off what’s next for Vertex AI, foundation models"
-    excerpt: "Google announced enhancements and new capabilities across its Vertex AI platform, including developer tooling and foundation models."
-    publishedDateTime: 2023-08-29T15:45:00Z
-    webUrl: "https://venturebeat.com/ai/google-shows-off-whats-next-for-vertex-ai-foundation-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Vertex-AI.jpeg?w=1200&strip=all"
-        width: 1200
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg"
+        width: 900
         height: 600
+        isCached: true
+  - title: "Alphabet Focuses on Efficiency with New AI Chip"
+    excerpt: "GPUs are most the commonly used processors to support AI workloads, but custom AI chips like Google's TPUs are an alternative. While Google's processors can't match Nvidia's for raw power, its latest offering, the TPU v5e, greatly improves performance per ..."
+    publishedDateTime: 2023-08-30T10:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/30/alphabet-focuses-on-efficiency-with-new-ai-chip/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/745894/gettyimages-1425155625.jpg"
+        width: 2235
+        height: 1341
         isCached: true
   - title: "Google unveils enterprise AI tools, new AI chip"
     excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
@@ -64,31 +66,64 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
-    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
-    publishedDateTime: 2023-08-28T14:06:00Z
-    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
-    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
+    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
+    publishedDateTime: 2023-08-29T12:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 36
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
-    excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."
-    publishedDateTime: 2023-08-25T17:32:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/vmware-enhances-enterprise-ai-management-balancing-gpu-scarcity-cost-savings-vmwareexplore/"
+  - title: "Google unveils AI tools for enterprise customers at $30 a month"
+    excerpt: "Its Tuesday announcement was made at the Google Next conference in San Francisco, where the company also unveiled a new version of its custom-built AI chips and a tool to watermark and identify images generated by AI. Google's new tools include \"Duet AI in ..."
+    publishedDateTime: 2023-08-29T15:34:00Z
+    webUrl: "https://www.aol.com/news/google-unveils-ai-tools-enterprise-120340142.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bd022e7c55284817070ee927b5c2aaa1"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Google Cloud unveils new TPUs in race to optimize AI hardware"
+    excerpt: "The new generation chips are optimized to handle the growing volume of generative AI model training and inference workloads."
+    publishedDateTime: 2023-08-29T21:51:00Z
+    webUrl: "https://www.ciodive.com/news/Google-Cloud-TPU-GPU-generative-AI/692190/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jQsKs4zwVTwOWuBHkZu_vHMYHsWa_MH43ZgGGLHsjvk/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNTE5MTMxODdfZHlmRGpxWi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Google stock rises as it says it will charge $30 for enterprise AI service"
+    excerpt: "The most intriguing news out of the show is that Google is pricing its AI-powered Duet AI in Workspace at $30 per user per month. That’s the same price Microsoft is charging for its Microsoft 365 Copilot."
+    publishedDateTime: 2023-08-29T20:05:00Z
+    webUrl: "https://www.aol.com/finance/google-shares-rise-says-charge-170422161.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/aFpPKPC6NiBdSuGLQM9f7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/aol_yahoo_finance_433/b710f8b1b7967011b94151a71764005f"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Google’s Duet AI now available for Workspace enterprise customers"
     excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
     publishedDateTime: 2023-08-29T19:07:00Z

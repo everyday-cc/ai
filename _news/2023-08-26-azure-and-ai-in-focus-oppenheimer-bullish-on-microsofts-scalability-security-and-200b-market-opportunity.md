@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppe
 ampWebUrl: "https://www.benzinga.com/amp/content/34045380"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +24,6 @@ images:
     height: 533
     isCached: true
 
-secured: "9ejIiCbE3ksYG6tQUxvFBytiLQzG8/Yco9aaEDRvQdHYp1s+pjPWlzFs/yVJr8Fzdxkx0IQ4PllzPDjW5EvU8fhh17mz/ztF9zYf2uS3MNZl6BtgCw4JmqJEQOhw//LX9UBwhlCwhCwXD52SareAviFARS3mCjHhwBYtosM0Te1B9GmGH+8HAuq2nkCQJcpIh6j4q5FqTIWlS56Y/zOETqtDfr+UXnHzN/pYQDOb//9KNgwEmIPrny3UAWwkGJV0P0XIpbIqopeQtSZnPD6p6my7AYqsy/gktxo0wuqpnexNVW1U7vYNyG09VgGZoMlkpwSRCxvzn++DYmrIhTHEFO0hsLdAFibpQ8Fr4JrMs9I=;XAuX2Gy62NcTooDcJ3qQgg=="
+secured: "oyTat4vdERVwc98FIiyXo+XJoHGtlkfrM+8YSxF2gKOsqKu8YswXvP4/pGrxaA85rJ1+alQcXVuU+crd44xB7hmFLv+qDm0hr8qc2PZysyJvdccNpgVlYgBAgqo4J8MyX6hS9Jvvuy/N08QROSKDAVEpzBEv7I0y01LzP7LeF22csTD9KiRdE3yANZoY3n5zc+Bja1M8y6A0Ym+vjkoeXmka1mZ4xftwV/5RTLL/NRMe6qZbFqEPCENxviPmbYbohI+YbRdrFdI3z9k03se6mVhkMvwJN1Jyq2HsldcxUDI60eMDiZvG4CR0/pj8nfYIdgYGUsVapF9xlNTjAwTJYkir4PGIaJl2xSVSHnvYJ/I=;BwMjOiH4YBs7G9MbmOELkA=="
 ---
 

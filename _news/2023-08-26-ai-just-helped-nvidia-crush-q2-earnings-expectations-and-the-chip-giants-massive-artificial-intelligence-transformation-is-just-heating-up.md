@@ -29,22 +29,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
-  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
-    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
-    publishedDateTime: 2023-08-29T12:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Making Artificial Intelligence Work for You"
     excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
     publishedDateTime: 2023-08-25T23:29:00Z
@@ -91,15 +84,6 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
 
 secured: "h1qa48zSg5z//SzrF2C5nTXSo9Hn/97BoEEiDZ//3hkH3R4G9qja76xu7Jtsz/bJecpkpUTbp92cAcXKqqN8XUr/0AVdxFYBBnkkSP5lWPmROqvyAjxOdY+g/v67zssX32sMszUYIss6fTuKF1u3Sj+EZEI2j2LIQCVkWqmYla2V5JUlscBZ4DplbMkNz9XCfxLg3ymcJvMiMkTHe507E2hXrB1NZWb293S5ItKXH3bxYU4VEDhNNtapV4okRjP66yj1QNF7GrLFayS4mkMGLmGbZ0K+2kM+XpQ2X2RaXMHyeT/h38z+2lit8+svcfMDrzFQew9fPUeEGAnfn6w/5TTRURKxrxMhH+vqKpUc7q2Kq8Z8BXVLYvhW33LhQlXO621jPUnOFp4p6ayKgyR7Oa3+HEI9aTHW17oLwwftuREiJtfOKeJ644zDtJXvjGoBXuO9McqQVx4L7nz+Dwz8lBZFvQ/ZCWVeLVHEbIBdu5/dhsE1hHQjlZgVqAgQH5h53K9RUVhVpfkvwH3iRzFZXA==;waxKO8vxOg81M8m7WxAnCA=="
 ---

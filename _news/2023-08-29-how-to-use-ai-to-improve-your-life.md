@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prompt Engineering Boosted Via Are-You-Sure AI Self-Reflective Self-Improvement Techniques That Greatly Improve Generative AI Answers"
+    excerpt: "Digging Into AI Self-Reflection And AI Self-Improvement Let’s start by identifying the very important precept that the words that you use and the sequencing of those words make a huge difference when it comes to the nature of your prompts and how the ..."
+    publishedDateTime: 2023-08-30T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/30/prompt-engineering-boosted-via-are-you-sure-ai-self-reflective-self-improvement-techniques-that-greatly-improve-generative-ai-answers/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/30/prompt-engineering-boosted-via-are-you-sure-ai-self-reflective-self-improvement-techniques-that-greatly-improve-generative-ai-answers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/30/prompt-engineering-boosted-via-are-you-sure-ai-self-reflective-self-improvement-techniques-that-greatly-improve-generative-ai-answers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64afa028f9d9641ac09b8924/0x0.jpg?format=jpg&crop=2103,1402,x206,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
     excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
     publishedDateTime: 2023-08-29T05:00:00Z

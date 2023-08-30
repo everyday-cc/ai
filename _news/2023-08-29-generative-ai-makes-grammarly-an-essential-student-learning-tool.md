@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

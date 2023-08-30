@@ -29,22 +29,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
-  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
-    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
-    publishedDateTime: 2023-08-29T12:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
     excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
     publishedDateTime: 2023-08-26T10:20:00Z
@@ -91,15 +84,6 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
 
 secured: "Reu1HvT6sdYzNISaoCMXDxPYlhuwk8F08THriqYQK4mvNebexF24Rm1uvHRjKhqxxqY/pDdd0XcnYbnukmmlWjh21dITi+13fP64c2rWYVEu//KyvF/I4RgPrW03ZEmdkwC/u625Etheu2TcRBRm5VCb8PapQPfEPRAIczFcmkP+LCVe9ceN+TbQvpZSEARJ/42LQDElvfAO4UEZUNUW0CLEOZBXUxJWumq9FFrbWadWPieD1ykiGjApNYD9IPN23NCtMX3ZQGsmDoOtIimOKQ2mQYFulkwd8x/P0MADnf7SvCdH8zRLJrFMIR5ZThpR3lZq7wG5E7BdMP5juqWrGZrLDN+bSTbAit2B5FZv73+vKsGchy0ix4xdaWfMj5UX2yUTd4LGKdIFKoTf6h92sUK01tnEBSYgtjc2e871kiUqz2CDYllPqt1rsT/gDCDWJzr6X8slwbJYW4T75npgKnx1UwgHm0+ulyV7Df/LkPO+4Q1XtoiRVIsLcCPxwG7/o0bK0+CERWyZViqcTMoj4w==;qmG/4o+c8UEAxYFcMNJq3g=="
 ---

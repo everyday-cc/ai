@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ..."
-publishedDateTime: 2023-08-19T23:08:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
+excerpt: "Researchers at the University of Surrey have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain. A team has designed an artificial intelligence platform to ..."
+publishedDateTime: 2023-08-20T12:38:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/82"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/82"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230829"
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230830"
     width: 1200
     height: 627
     isCached: true
 
-secured: "8GDb7YF3eWzzjjtOz+DgbF0ovkkJVbuEUVnEK0LNeItOwvAjcBATdD/W85lHT6fhUNQqEzgK27hdxphtcdVF/N7giCi1bdSM77NOaO2SlqhZnpSBC1nnuADUCBerHlwCUgHU6DPoVRiIeerr9sm1DO8flqTKsHgjezJF/3y4CHd0FIftvV8Ar9zL1QVRcpv126Jk5dsrdJHkEdeeoLiSspDf1CrmVeuT8TnDsM+aC42I3GDg4AAnSglTWpOEMNtIlTlaNn0mdledzOQakVlA9wa3rSFXSFHYNw4biZwM0F0OhVRgG5vuC1a6rE/1PEQEOFHvGLmZy3LeMcXfrQjfmmNYlJrVvqkbiu1Ry7VreHg=;GN4UHzhin82aaIf66+t39Q=="
+secured: "Gu7annyvFtiozhzzPUlFaoBIITlb4ngC2B1BFNeiWjdaGIIamHsQd610zG9FTG3u2HPrbE7X8BgmfYemEIR6tGGrACxl1sflDe9b1S8VICeR3i2FJcwSbEJcnmKmgBZ70orJ0BkurvIwcTEodhptab0ClF9GaZEhlIbl1CLeiBl09jrQyHgnA2gMCarR2AOlPhY0iaixsT42YnhKOMAGjbUBENkA6mRCh1gj18anp7VyDPiw7nSUnNpV2UvwmGAALjY+a3n+cbB5vSr6yQnEfZpEOztkZ4gRcldsKdvXU3Gx5FaF9vWp+oN92ZAqgEAd38PXicOqXe6Az/gB5DDQcjcG2w1lVFuSdV3vhKVofx0=;XD9ih8ZZ4hDxKeajS1hjPA=="
 ---
 

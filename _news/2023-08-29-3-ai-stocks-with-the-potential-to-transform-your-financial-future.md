@@ -23,144 +23,70 @@ topics:
   - AI
 
 related:
-  - title: "Tax And The Future Of Artificial Intelligence"
-    excerpt: "John McGowan of HubSync discusses artificial intelligence and its role in the tax field. This transcript has been edited for length and clarity. David D. Stewart: Welcome to the podcast. I'm David Stewart, editor in chief of Tax Notes Today International. This week: Friend or foe?"
-    publishedDateTime: 2023-08-29T19:43:00Z
-    webUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
+  - title: "Finance Transformation With AI And Open Banking"
+    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
+    publishedDateTime: 2023-08-29T13:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 81
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+  - title: "Making Artificial Intelligence Work for You"
+    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
+    publishedDateTime: 2023-08-25T23:29:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee492b71e0e620574af6bd/0x0.jpg?format=jpg&width=1200"
-        width: 1190
-        height: 793
+      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
+        width: 447
+        height: 559
         isCached: true
-  - title: "How To Honor Artists In The Age Of AI"
-    excerpt: "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you."
-    publishedDateTime: 2023-08-28T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
+  - title: "Meta launches open-source AI language translator"
+    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
+    publishedDateTime: 2023-08-28T23:15:00Z
+    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 865
+      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
+        width: 620
+        height: 349
         isCached: true
-  - title: "Talking the AI Talk"
-    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
-    publishedDateTime: 2023-08-28T23:40:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+  - title: "Embuing AI with Ethics"
+    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
+    publishedDateTime: 2023-08-29T19:32:00Z
+    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
-  - title: "How AI Could Ruin or Revive Our Culture of Learning"
-    excerpt: "As an assistant professor of psychology studying motivation and learning in children, I get immediate, enthusiastic, and sometimes urgent questions. Brett, a senior lecturer in the math department, almost always gets the same response: “Oh,"
-    publishedDateTime: 2023-08-29T19:08:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+      name: acm.org
+      domain: acm.org
+    quality: 36
+  - title: "How AI and machine learning can help with DEI hiring"
+    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/mini_mathperson.png.jpg?itok=guPnOR1Y"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
-    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
-    publishedDateTime: 2023-08-29T09:48:00Z
-    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 54
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
-        width: 925
-        height: 521
-        isCached: true
-  - title: "Here Are the Top AI Stories You Missed This Week"
-    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
-    publishedDateTime: 2023-08-26T18:20:00Z
-    webUrl: "https://gizmodo.com/here-are-the-top-ai-stories-you-missed-this-week-1850763767"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 49
-  - title: "Kaspersky: Cyber Immunity key to secure the future with AI"
-    excerpt: "Global cybersecurity company’s 9th Cybersecurity Weekend probes into how AI will disrupt the world and how experts can set secure directives for a safer tomorrow Can AI outsmart humans? Is ChatGPT the beginning of our Doomsday?"
-    publishedDateTime: 2023-08-27T23:54:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3375150"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 39
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/Adrain-Hia-a6702b72.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "What does a future with AI look like?"
-    excerpt: "The 2022-23 academic year proved to be a pivotal period for artificial intelligence. In particular ... dirty bomb — in mere seconds has raised concerns around the ethics and ramifications of using the tool, even as it becomes integrated at breakneck ..."
-    publishedDateTime: 2023-08-28T10:15:00Z
-    webUrl: "https://dailytrojan.com/2023/08/28/ai-and-the-future/"
-    type: article
-    provider:
-      name: Daily Trojan
-      domain: dailytrojan.com
-    quality: 39
-    images:
-      - url: "https://dailytrojan.com/wp-content/uploads/2023/08/0413-1030x685.jpg"
-        width: 1030
-        height: 685
-        isCached: true
-  - title: "On the road to becoming net-zero and AI-driven"
-    excerpt: "Guests of hospitality company Ascott can now turn to Cubby — the company’s new AI-powered chatbot — to get personalised itineraries. Itineraries can be customised and amended according to the destinations selected, length of stay and travel preferences among other criteria."
-    publishedDateTime: 2023-08-29T02:01:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/road-becoming-net-zero-and-ai-driven"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/road-becoming-net-zero-and-ai-driven"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/road-becoming-net-zero-and-ai-driven"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
-  - title: "The role of AI in the future of work: 10 ways to future-proof your startup"
-    excerpt: "Try and grasp the potential by experimenting with AI tools and solutions that may benefit your business. Start small if required, but definitely start. Your team members are chatting with ChatGPT and thinking about how to do more work in less time."
-    publishedDateTime: 2023-08-30T06:00:00Z
-    webUrl: "https://startups.co.uk/analysis/ai-future-proof/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 35
-    images:
-      - url: "https://images.startups.co.uk/wp-content/uploads/2018/06/25095401/Future-proof-small-business.jpg"
-        width: 640
-        height: 390
-        isCached: true
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 34
 
 secured: "ENJl5VqC4F/EH0O7NCMEAijePe5sr+iKBGUKj9IgVAlzfFRnRU9C15as8EB0H/TyBnis0cJmIDmHDrx4uMSj/wzzsb/Vo83GyDOBjX8Yb7bOHdwM35XwJEMaY9PVUa6DR3rYBxcjNDVQ0qlz3DLzeFmzLEFj7tlYGoSRcHp4lM78rZ/pS9oLPrSInOROOeih/Qks8dm+c5CQHcH3XElCGa+gOZs1uW6JAhT50INFEwv6mDIY23m91hhgX9FRsVVk4ntVIeWzDWJ6e3nQ8G8P6Vvlir7E8cxA7cWXywAxFDq7/gsyS7lu7yPhbV0s5D72ktFqS78dl76BRwN9RZNW4PpuP0fQFyOjjmwtlGJVjyk=;aCJea7Txls9lZVpv4/APkQ=="
 ---

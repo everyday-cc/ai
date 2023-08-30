@@ -27,79 +27,112 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Transformation With AI And Open Banking"
-    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
-    publishedDateTime: 2023-08-29T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
+  - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
+    excerpt: "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ..."
+    publishedDateTime: 2023-08-30T11:23:00Z
+    webUrl: "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
-    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
-    publishedDateTime: 2023-08-26T10:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
-  - title: "Making Artificial Intelligence Work for You"
-    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
-    publishedDateTime: 2023-08-25T23:29:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 41
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 89
     images:
-      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
-        width: 447
-        height: 559
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Meta launches open-source AI language translator"
-    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
-    publishedDateTime: 2023-08-28T23:15:00Z
-    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
+  - title: "Alphabet Focuses on Efficiency with New AI Chip"
+    excerpt: "GPUs are most the commonly used processors to support AI workloads, but custom AI chips like Google's TPUs are an alternative. While Google's processors can't match Nvidia's for raw power, its latest offering, the TPU v5e, greatly improves performance per ..."
+    publishedDateTime: 2023-08-30T10:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/30/alphabet-focuses-on-efficiency-with-new-ai-chip/"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 41
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
     images:
-      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://g.foolcdn.com/editorial/images/745894/gettyimages-1425155625.jpg"
+        width: 2235
+        height: 1341
         isCached: true
-  - title: "Embuing AI with Ethics"
-    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
-    publishedDateTime: 2023-08-29T19:32:00Z
-    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
+  - title: "Google introduces new AI chip and enhanced tools for enterprise AI solutions"
+    excerpt: "Google introduces new AI technologies and collaborations at the Google Next conference, focusing on accessibility for large enterprises. Announcements include new clients adopting Google's cloud software,"
+    publishedDateTime: 2023-08-30T01:17:00Z
+    webUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions-11693356902647.html"
+    ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
-  - title: "How AI and machine learning can help with DEI hiring"
-    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/30/600x338/GOOGLE-NEXT-AI-0_1693358010798_1693358041456.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Google unveils enterprise AI tools, new AI chip"
+    excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
+    publishedDateTime: 2023-08-29T12:23:00Z
+    webUrl: "https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/"
     type: article
     provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 34
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "Google unveils AI tools for enterprise customers at $30 a month"
+    excerpt: "Its Tuesday announcement was made at the Google Next conference in San Francisco, where the company also unveiled a new version of its custom-built AI chips and a tool to watermark and identify images generated by AI. Google's new tools include \"Duet AI in ..."
+    publishedDateTime: 2023-08-29T15:34:00Z
+    webUrl: "https://www.aol.com/news/google-unveils-ai-tools-enterprise-120340142.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bd022e7c55284817070ee927b5c2aaa1"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Google Cloud unveils new TPUs in race to optimize AI hardware"
+    excerpt: "The new generation chips are optimized to handle the growing volume of generative AI model training and inference workloads."
+    publishedDateTime: 2023-08-29T21:51:00Z
+    webUrl: "https://www.ciodive.com/news/Google-Cloud-TPU-GPU-generative-AI/692190/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jQsKs4zwVTwOWuBHkZu_vHMYHsWa_MH43ZgGGLHsjvk/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNTE5MTMxODdfZHlmRGpxWi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Google stock rises as it says it will charge $30 for enterprise AI service"
+    excerpt: "The most intriguing news out of the show is that Google is pricing its AI-powered Duet AI in Workspace at $30 per user per month. That’s the same price Microsoft is charging for its Microsoft 365 Copilot."
+    publishedDateTime: 2023-08-29T20:05:00Z
+    webUrl: "https://www.aol.com/finance/google-shares-rise-says-charge-170422161.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/aFpPKPC6NiBdSuGLQM9f7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/aol_yahoo_finance_433/b710f8b1b7967011b94151a71764005f"
+        width: 1200
+        height: 686
+        isCached: true
+  - title: "Google’s Duet AI now available for Workspace enterprise customers"
+    excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
+    publishedDateTime: 2023-08-29T19:07:00Z
+    webUrl: "https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "msOWlgCqVa0w7gErlRL9E4WT3vGjmz5OOEqiorcho6Taf7CjfCWcfL9wuZOMHQO/ppaC1EmixsFOGlIPrbedj45KnI4CROou31AuYLj6V7qTfwU2Ws7MtLsAPOmH4JVvgLuZL7g2LaprcwyZq7i5l0mpAQIxhSqWUnVo9+vx8FZIo5wmqPEi76nw4ncdohusxRHJORVnN1zRQGIKf4hUVGyy2cRIc7PVvKpg9e2a+O8h3vEVj1CpZzmR+8KGOKeRSseqovYTmpzw4TSs+Fs/Pu3UwZRzCyzwWWlBsj7+AEjEyFpCn53E2t7I2A7OaTlzZDFfTCbIHjakk6tmKLVD0oIpwYSj+63cOAaSUoFIafc=;K4LogfB/MW52hH8lUvymaw=="
 ---

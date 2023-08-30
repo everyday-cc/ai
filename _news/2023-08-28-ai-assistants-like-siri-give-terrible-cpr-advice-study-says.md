@@ -23,6 +23,22 @@ images:
     height: 833
     isCached: true
 
+related:
+  - title: "Can AI-based voice assistants provide effective CPR advice in an emergency?"
+    excerpt: "The findings indicate that onlookers must prioritize contacting emergency medical services over utilizing a voice assistant, especially since bystanders might not identify a cardiac arrest patient. Even dispatchers may find this recognition difficult ..."
+    publishedDateTime: 2023-08-30T11:56:00Z
+    webUrl: "https://www.news-medical.net/news/20230830/Can-AI-based-voice-assistants-provide-effective-CPR-advice-in-an-emergency.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 37
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_757622_16933881281555883.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
+
 secured: "rRBdwx9zj302ktkQda9bm9I9fJz9bkSKH8ry2G7c0cznghf0oLxgds45i/nWFTltBxlh/8l9DFkV3p/V30zV2YuowclLvPmBRWvYXo+7sBHjR2qzHnW9ejNG6kA3jYsrqxgIOD1onn3Z+RxujiZSI58KqAad8pERzNvTqdTNE5GEzmkusQ2DubBpN2mkZqRFUDeCRHaXcxY3FqxXskuOLdQqXs0uEHSPh3ls/RyPss7a2RATejCVQ3d5koKTnNYl+dWB04qDatfYhejPw6noJcWNw26IzvC3yxRIaLA32elcXTqZfvCzTOtpAzVv6I+Fb8I/aRviTOasNeuAwYfgpi19qHw/LBXKuRT3fuVdGPUo0jTcCq8AJbC9ywlHzeCSrEyn+l4yN2xGLANAk1TOlwzqV53aYZhlNZQCSWYYA00oaEsc9Tbv4zQrHw67ngou9TG5E6e8T/cBniSdPownPrWj3DYUHXdSElQKpm+jALCm6ZvX6U00TBejM7yMNq7KnpBqURY4Ch8Ybay9/eTvDg==;NGMdQno766ypH2B4s/5H4w=="
 ---
 

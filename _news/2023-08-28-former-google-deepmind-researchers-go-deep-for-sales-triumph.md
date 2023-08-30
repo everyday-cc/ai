@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
+    excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
+    publishedDateTime: 2023-08-30T11:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/64e8aba55a7de407785e3bd5_Copy-of-header-1-p-1080.png"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
     excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
     publishedDateTime: 2023-08-30T02:00:00Z

@@ -25,22 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Advances in AI, chips boost voice recognition"
-    excerpt: "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss."
-    publishedDateTime: 2023-08-28T13:41:00Z
-    webUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
+  - title: "How To Honor Artists In The Age Of AI"
+    excerpt: "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you."
+    publishedDateTime: 2023-08-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
-        width: 2667
-        height: 4000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 865
         isCached: true
+  - title: "Talking the AI Talk"
+    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
+    publishedDateTime: 2023-08-28T23:40:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+  - title: "The evolution of photography in the age of artificial intelligence"
+    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
+    publishedDateTime: 2023-08-29T19:15:00Z
+    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "OGD0kLmAXraWVJWJen0lBeECFksITHjckHPQ+SfX+F4Pw5wQ9jaotaMoLmAYacjEEWNeALmb6+omKssLuVAp6atzTvxJf9cAmExMTdPYw5sDmN+O//EHzQcVEv5tw9BNI3ptB3i4iWvAtaq3PyD7fLj/cg6P/90v/D4/c+F4fX4skCCPWaODkfNP6bR5lInLuflaJdodDYZ5yYBPY3hMWtVAKErBTmDNA/GPtaXdJnX35rkjNDRetYxHUXGbiLf4N5k7RRriWFyFf4q71TV30cZwVi29t7NluWAIY1e6LXKle+rCn9DpS9sLvkY7K5H4Skh7+Eqdqs2EeCZ7WYycABfshJJps3Auxf8TxMirOHYYZ63CRIQONTim2XYZdQJVt5Gw4nVaN/5mUKOlzexVyZYUtxt3AU3XbJgp4xD7q9BIHpFO+kFx6/QJXK9dBL484oUj6HyMNEkc/uy6ZCXCRl2Yv46GrbGZm5fl2pM/mzc90KeM0bW/jTuvA0cJz9iME+EepuxC+j8EcmWXRNtcgQ==;vUDOD1Auzf715PDk4utk9w=="
 ---

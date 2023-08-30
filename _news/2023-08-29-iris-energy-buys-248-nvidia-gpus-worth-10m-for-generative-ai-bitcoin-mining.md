@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/nvidia-iris-energy-buys-nvidia-gpus
 webUrl: "https://cointelegraph.com/news/nvidia-iris-energy-buys-nvidia-gpus-worth-10-m-for-generative-ai"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month"
+    excerpt: "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ..."
+    publishedDateTime: 2023-08-29T12:01:00Z
+    webUrl: "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/"
+    ampWebUrl: "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 92
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-908368194.jpg?resize=1200,640"
+        width: 1200
+        height: 640
+        isCached: true
 
 secured: "/9VA7MW8E0TWhJzaaCt2g0rnt3Wu5eYCMX+cYUypJVuzR5faE+WK5D+EuZXipFbPQMSeZyNc9bt+SGKvn/gJAqqtg0vSjkMjPCiJpyIpLXAA2Z0sVACKmiqPdxObplhcG/M9816NNrZ5bDu4OcLGD3obenESSQp6+Wn5iwd6835LhEm9dh+DUeMlgsQcIUUYenmWU7z03yBEjyyZSFPhpDIuPZckMym76dII5/Q/scv8pNyaWAHhIJTbOfdpRZ15CrmXOZCzR2/7DpdJ/GpHRZUJ2dhDzjeQDv5m/ye0ir9AXk/32F3Dky5nR/DUHvS5dpsSsDHhFH7YuhM+yElrvdA9fFqmHTS1SKq6BHdcwOA=;l30KF+N4xhDhkpInsPpdjg=="
 ---

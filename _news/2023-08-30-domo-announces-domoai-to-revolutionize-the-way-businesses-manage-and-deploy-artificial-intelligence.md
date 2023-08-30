@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence"
-excerpt: "Domo.AI builds upon the company’s leading ML and data science (DS) functionality such as Jupyter Workspace and AutoML features. Domo’s AI Service Layer, announced earlier this summer, is now generally available (GA). With so much demand for scalable ..."
-publishedDateTime: 2023-08-29T21:32:00Z
-originalUrl: "https://www.01net.it/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/"
-webUrl: "https://www.01net.it/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/"
+excerpt: "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth."
+publishedDateTime: 2023-08-29T22:02:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/29/9871996.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/29/9871996.htm"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "5c6FXMhIUki/viS+9PspaJpjh/jPa4n1FtObrDY+Ps89pGYs3aFmfqqLFxaK8bwTA56nPI4Yb+km+T+YCAzrVMFOcR0xTXyyDx1y1te8kmVMaL7cKpMsk/cuXOzGvFvVe2ax66r/w/xgztLmOXYke+CPd98/RtWjJtX2R3I4udtcUVXolJqZSda3knTsXYEeBprfa55+3iXQepAGRTv+9bzsqPVZDSivnfjhsQnBh630O3PMeyAgc63vTjxGLtZZHvGRaN03KyZ1X6MGHhzMgOZ8eD6xILnh/vTRKPbHs3P++GjSUD0ni9k7gVTOQZkmYaskBmNK+D5VstKOFeAV33sIRP44AYhntzvxib1hVEb0bFNQ8OAqGz4jq1dJaFDbeX4wzcarHXjUfMo5EMAg56KtVVcbRHSJfZLYMsgtduvGVyIa1qgfmoeofypS8W10IIDAyPrWyUOOf7n9R2+pmKIjmT3Dw7mQBPwEzalYnYkjBS1Fwj/PqZImqUv6kE7/BeYv5woc8MUJqLBSQHMvLg==;KLbqwok4sJHY3WtIPKpBUA=="
+secured: "X8MpYT8IkfHE9a6PJoqrSM7WisEgdQ9UhjzoEuBUSRAi3ioP8buDXPKag0a0ywHonAR97MmH9+IYIrlF6sGcz4VJpaxAV9w1hMRPUQFlGt3EqKCHlqLpkZtcfz8eFABzOqAOC7AVtHu9FaXj/oWFBu/mYw/LhlOIZU/9LKgurp3rKChwZL9svTg+0D1EbOdevBFUEjQ1yWjHCmdxJN250Ge1SoPraq24XguN141Zm2x2fDBJFoTTlw4nq3oxo4oAe/jU+brIDNVRr9OC7sWbEO7U32IpO/JA47voZpNKHgKa9dtf9dd7AdKwwBnyb1XK40UsQtCK/8uRPc7Gc0rvZFQ2PCt177pLJwRIU+vE5kY=;Gy2BUL8cLS3tgVsK2WM5dg=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "AI analysis finds younger AFib patients benefit from MRI-guided ablation treatments"
-    excerpt: "Younger atrial fibrillation (AFib) patients are most likely to benefit from more personalized, MRI-guided ablation treatments to correct irregular heart rhythms, according to a new artificial intelligence-guided analysis of results from the DECAAF II trial,"
-    publishedDateTime: 2023-08-25T18:12:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-ai-analysis-younger-afib-patients.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 13
-
 secured: "+nPoOnmIj4Vilu5dQEZpR09zCp0eTVnnAuxq3Wj8XJqRGBzP3MNsfGt6VoRxkh/2S2rLDqSZ7HySxwBG+MsLwl1h4JVnhxR2gK8dUt108oeXOzqGKQUJs0SsbSSGKrFLbCUav477TgsX8PqgZYLm1arw7RjUUCDcKzmETeJ0DOsbklww6Jj9WxtAu6HWzCVZFfnFcdmHoD/TK1wtLR9n2BP8eGJyHEMhfmqJ/nphq41CRg+j+QiBvADw2mIK75lGhAP80vcPskiFGltz6Gw981KelE8FA8X6E8JUxp/haQaJT34XvgvKIf+ZcH3bnmeBHWMtN4KoBIayXSq0BzcGu+TeOU+JK0RQ9xcFEvzCY2A=;15if+H3tsv/CQdtY9KkQWQ=="
 ---
 

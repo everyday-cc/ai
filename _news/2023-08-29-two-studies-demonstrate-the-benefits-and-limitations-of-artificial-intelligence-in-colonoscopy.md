@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nearly 40% of workers think generative AI can help with workplace communication"
-    excerpt: "Moreover, the survey found that the workers believe AI will help enhance and expand human communication in the workplace, with 38.5% of workers stating that they are confident that AI will make digital communications easier."
-    publishedDateTime: 2023-08-25T17:44:00Z
-    webUrl: "https://www.zdnet.com/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nearly-40-of-workers-think-generative-ai-can-help-with-workplace-communication/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a8a4fec66082a9f97624a7fbfff7bd9289047643/2023/08/25/3773b862-ce3f-4167-9036-64d6bb9216ab/gettyimages-1440468708.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What’s new in Data & AI: Extend the reach of AI with data connectors and integrations"
     excerpt: "With a unified, intelligent data platform, organizations save on integration costs, improve their security posture, and enable more advanced AI capabilities. \nThe post What’s new in Data &amp; AI: Extend the reach of AI with data connectors and integrations appeared first on Azure Blog.\n"
     publishedDateTime: 2023-08-29T15:00:00Z
@@ -170,15 +154,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 14
-  - title: "Use of Artificial Intelligence in Calling Activity Presents TCPA Compliance Considerations"
-    excerpt: "Artificial Intelligence (AI) is in the spotlight, and there are many eager to adopt such technology. For businesses that have incorporated or are seeking to incorporate AI into their processes, applicable legal restrictions and regulations are a consideration."
-    publishedDateTime: 2023-08-25T18:42:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/use-of-artificial-intelligence-in-4398815/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 7
 
 secured: "8zKA0ysDPyLmnqf70wZ4vfBEqqSYe0pymmW6dLpIZkK5kS0ypacxczBeu4+5fBbJdAl8zbU6zkp0Rj22jx6PR0s0QOXxTqH+q/tmh2083SHTfP1qwMzaNppCVIOguaz5JXzxD/3upUr4oj36rAHwut1qKXDzg9g2V5a35l0scwNnoTlPHnhr/X0b4YAaOvPV6rAKxC0XYhTfNpGh8wxHe3NOrQAY/8Ehj2e7iaJI1YXlFiOrc9LaiB36VVJHjAxDRRMnQ14+wMBi57Rymn6XSDgAL5x33bBtd09WpMypS1uxArVJKR5/uLgOVMDoEplM5+M9HP8x+wD8aAPQnQavocgSe4Y1l26CybisdymfXQ4=;PTk2IMNJSdV9YToZpy3eWQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -24,22 +24,15 @@ topics:
   - AI in Finance
 
 related:
-  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
-    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
-    publishedDateTime: 2023-08-29T12:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
     excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
     publishedDateTime: 2023-08-26T10:20:00Z
@@ -95,15 +88,6 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
 
 secured: "UchVfmlHAjzeC+sQtxNJUjSHCmBAEXanrYKlB0DJ/ZC/eX6WYX59UPZuSv2bPSCKHCmHK7l+cufUyqtS1iZJxmw79PIJFPwI6ROWsowxu+9AvSAFSFxGcC0K7h2VihbV1RIqnqZ4Bf/resWj9V8ymiQXeP20EvpE6ETSSCLhzRNmktd0+2j0MIJm780INlqPxurKBmXOhCBRM4CbUaED0IQvqgq14J780Tl1dqrU/118/fAyrx8Saaq1fn4KXPEa+Uc5ICUl2/el3iOvGS6TGTI8dVxvIBr8ewnYGB+ueZ3gBixboibjwR0I1J8k/dOJYZ4DOOqSCxCmsBhIsfPHGqHroJ4fdrON+BbTXFpBLGHXqoQZqYgCt80NAXIWStMJNf2YIYu84yU8YEKHU50o4B2HlGhyF4SfaJIsy5VXK3MqaJCM0xgnhHskOJMktFB8qM4QVXt0dtdYfDxoI0Yz4IqJKNE1mqvFzWZDs74v9h9BVxMsvVnT7rMqavgDwwXsEvyFCQULCgDAyDGh5PX7Uw==;TFixVPudMEv25vQbwlqGHA=="
 ---

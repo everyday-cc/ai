@@ -103,19 +103,19 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI Powers Microsoft to Leadership in Robotic Process Automation"
-    excerpt: "Microsoft's big bet on advanced AI is paying off in many ways, including propelling the company into the leadership rank of a research report on robotic process automation (RPA)."
-    publishedDateTime: 2023-08-25T17:53:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/08/25/robotic-automation.aspx"
+  - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
+    excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
+    publishedDateTime: 2023-08-30T10:00:00Z
+    webUrl: "https://www.govconwire.com/2023/08/synthetaic-microsoft-enter-into-ai-data-cloud-partnership/"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 56
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_line.jpg"
-        width: 644
-        height: 450
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-203.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft partners with universities to allow the use of generative AI in school"
     excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."

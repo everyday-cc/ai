@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipm
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/5G-private-network-for-smart-factory-environment.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
+    excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
+    publishedDateTime: 2023-08-30T10:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-5g-machine-vision-system-for-hitachi-car-factory/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/camera-with-industrial-sensors-in.2e16d0ba.fill-1200x630.png"
+        width: 899
+        height: 472
         isCached: true
   - title: "Ericsson demos 5G capabilities at US EV factory with AWS, Hitachi America"
     excerpt: "The real-time video was fed across Ericsson’s 5G platform to an AWS Snowball Edge device running Hitachi video analytics software infused with ML and artificial intelligence. According to reports, the three companies were able to inspect 24 assemble ..."

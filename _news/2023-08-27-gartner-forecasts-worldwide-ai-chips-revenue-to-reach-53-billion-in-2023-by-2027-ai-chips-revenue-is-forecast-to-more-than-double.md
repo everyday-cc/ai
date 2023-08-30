@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Over Half of Software Engineering Leadership Roles to Demand Expertise in Generative AI by 2025, says Gartner"
+    excerpt: "As such, SWELs are advised to collaborate with or establish AI ethics committees to formulate policies that guide responsible usage of generative AI tools in design and development. SWELs play a pivotal role in identifying and mitigating the ethical risks ..."
+    publishedDateTime: 2023-08-30T09:33:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 40
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2017/08/Engineering-student.jpg"
+        width: 599
+        height: 420
+        isCached: true
 
 secured: "lvgQJ0wuwgXP/2pdrnZXN0Cfkzn1PLjWqEIieZKyiGtm3cTuMksqjmjA8jhCfhcF8kjVGdWOp+GPCEb+wx8pQR+zoZlYBwEbLbsqFQ7vDGYblgJxNhz0o6L3PUc9vq+aLjIQXAOQGpj2KsXWtCBDVLbGePHwhY1KJ4TjcxH483KFTBWsAREUpeEk8WCAOa9BEH9R2RWwfBPzwHShj/VHlY7CNVP1uuK8xJPJUrRP1HO8z+nhJAVe9JKkFcN+J/4HpEWEN9PQNaB4pBGYpxrI2xIbpjOO/jIPH3snq571s1cQ7cbn8T5ni+Jo6Ns8l1PVDDdcbnvG4ffVOe6m6lo6kqAduvOh6aQA2835ea7TKXs=;IiKaRbmENKPGTPuFIG3q3g=="
 ---

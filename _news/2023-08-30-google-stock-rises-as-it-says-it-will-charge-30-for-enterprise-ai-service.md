@@ -25,37 +25,76 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s $30-per-month “Duet” AI will craft awkward emails, images for you"
-    excerpt: "Duet is not just one thing—instead, it's a blanket brand name for a multitude of different AI capabilities and probably should have been called \"Google Kitchen Sink.\" It likely represents several distinct AI systems behind the scenes."
-    publishedDateTime: 2023-08-29T20:27:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/"
+  - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
+    excerpt: "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ..."
+    publishedDateTime: 2023-08-30T11:23:00Z
+    webUrl: "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 89
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/google_duet_robot_3-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Google's AI feature in Gmail and productivity apps will cost big businesses $30 a month per user"
-    excerpt: "Google and Microsoft will be charging the same amount for artificial intelligence tools that augment productivity products used by businesses"
-    publishedDateTime: 2023-08-29T10:00:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/29/google-will-charge-enterprises-30-a-month-for-duet-ai-in-workspace.html"
+  - title: "Alphabet Focuses on Efficiency with New AI Chip"
+    excerpt: "GPUs are most the commonly used processors to support AI workloads, but custom AI chips like Google's TPUs are an alternative. While Google's processors can't match Nvidia's for raw power, its latest offering, the TPU v5e, greatly improves performance per ..."
+    publishedDateTime: 2023-08-30T10:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/30/alphabet-focuses-on-efficiency-with-new-ai-chip/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107292883-1693248781109-gettyimages-1529851494-ALLEN__CO_2023.jpeg?v=1693310402"
-        width: 4000
-        height: 2662
+      - url: "https://g.foolcdn.com/editorial/images/745894/gettyimages-1425155625.jpg"
+        width: 2235
+        height: 1341
+        isCached: true
+  - title: "Google introduces new AI chip and enhanced tools for enterprise AI solutions"
+    excerpt: "Google introduces new AI technologies and collaborations at the Google Next conference, focusing on accessibility for large enterprises. Announcements include new clients adopting Google's cloud software,"
+    publishedDateTime: 2023-08-30T01:17:00Z
+    webUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions-11693356902647.html"
+    ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/30/600x338/GOOGLE-NEXT-AI-0_1693358010798_1693358041456.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Google unveils enterprise AI tools, new AI chip"
+    excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
+    publishedDateTime: 2023-08-29T12:23:00Z
+    webUrl: "https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
+    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
+    publishedDateTime: 2023-08-29T12:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Google unveils AI tools for enterprise customers at $30 a month"
     excerpt: "Its Tuesday announcement was made at the Google Next conference in San Francisco, where the company also unveiled a new version of its custom-built AI chips and a tool to watermark and identify images generated by AI. Google's new tools include \"Duet AI in ..."
@@ -71,6 +110,29 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google Cloud unveils new TPUs in race to optimize AI hardware"
+    excerpt: "The new generation chips are optimized to handle the growing volume of generative AI model training and inference workloads."
+    publishedDateTime: 2023-08-29T21:51:00Z
+    webUrl: "https://www.ciodive.com/news/Google-Cloud-TPU-GPU-generative-AI/692190/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jQsKs4zwVTwOWuBHkZu_vHMYHsWa_MH43ZgGGLHsjvk/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNTE5MTMxODdfZHlmRGpxWi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Google’s Duet AI now available for Workspace enterprise customers"
+    excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
+    publishedDateTime: 2023-08-29T19:07:00Z
+    webUrl: "https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "EV/hgYdGdD9cuw2+8sl28hmCSFe5F+N5Rd1x4OCwKAc7n+SH/v/x+IPLnx52kvXsWTUNYySYwtCFfeyaCcUOFMj6YxQHZGCfAX2Dxz1rFaB6d1Si53RY/1W/YQE/vg19L5ONGExr+lhbNbTzds3S8f8hbIHFXY2bCjGRiP+Vc3j/0SAWl2jKIK3en/LM/5jMUm2Sr5cHL/pvSqhVXTOKJjO3LBh0AR1dm8gKhn9GEFhUskFyFVzJynBidROTUeVF3x17qwrQV4bLNAgVHZJtckus5vk9dFNrHng3ba4AL0telytRKKHgXjnfIbhVzesLeC4i/CB2lvGtP4y/YL76qY57956NHyanT0MRoP6D6cYOxqDPiMGBKi4q88Wou1HVE+qFXFfYJd2IPXOp8ZwcAejFCO3OX7ntIP0aO7Pf2qZZU9RsdUin5UZazj9pip/jGAcIWEXd2foz3sp9/xVAakmNX8RdTL/fihNgGV0POoGZ2nB+tkE9MTv4d8xOcJjri1u7bdQAPtr7dkOIT2XrLg==;yofBkR4ijs+jCbpHGwptbQ=="
 ---

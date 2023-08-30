@@ -57,6 +57,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
+    excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
+    publishedDateTime: 2023-08-30T10:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-5g-machine-vision-system-for-hitachi-car-factory/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/camera-with-industrial-sensors-in.2e16d0ba.fill-1200x630.png"
+        width: 899
+        height: 472
+        isCached: true
   - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
     excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
     publishedDateTime: 2023-08-29T16:15:00Z
