@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Resisting and reimagining Artificial Intelligence"
-    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
-    publishedDateTime: 2023-08-25T09:02:00Z
-    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
-    type: article
-    provider:
-      name: ei-ie
-      domain: ei-ie.org
-    quality: 39
-    images:
-      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
-        width: 1448
-        height: 762
-        isCached: true
   - title: "Is using Artificial Intelligence an answer to keeping students safe in school?"
     excerpt: "Is that enough? Artificial intelligence has been added as an extra layer of security at a number of school divisions across the country. They’ve partnered with companies like Actuate, Omnilert, and ZeroEyes. Rob Huberty, the Chief Operations Officer of ..."
     publishedDateTime: 2023-08-29T09:54:00Z

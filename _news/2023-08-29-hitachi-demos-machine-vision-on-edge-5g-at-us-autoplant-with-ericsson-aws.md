@@ -52,6 +52,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Ericsson demos 5G capabilities at US EV factory with AWS, Hitachi America"
+    excerpt: "The real-time video was fed across Ericsson’s 5G platform to an AWS Snowball Edge device running Hitachi video analytics software infused with ML and artificial intelligence. According to reports, the three companies were able to inspect 24 assemble ..."
+    publishedDateTime: 2023-08-29T23:50:00Z
+    webUrl: "https://itwire.com/your-it-news/5g/ericsson-demos-5g-capabilities-at-us-ev-factory-with-aws,-hitachi-america.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 38
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/9b688e14dbdeff21a5dcbf08b420f837_L.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
     excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
     publishedDateTime: 2023-08-29T16:15:00Z

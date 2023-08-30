@@ -100,18 +100,18 @@ related:
         height: 316
         isCached: true
   - title: "UP Fintech Reports Two-year High 2023 Q2 Results"
-    excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech's global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits  (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
-    publishedDateTime: 2023-08-29T21:13:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU202308/S00426.htm"
+    excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech’s global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
+    publishedDateTime: 2023-08-29T23:06:00Z
+    webUrl: "https://business.scoop.co.nz/2023/08/30/up-fintech-reports-two-year-high-2023-q2-results/"
     type: article
     provider:
       name: Scoop
       domain: scoop.co.nz
     quality: 24
     images:
-      - url: "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
-        width: 800
-        height: 800
+      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
     excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."

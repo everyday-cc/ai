@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
-excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
-publishedDateTime: 2023-08-29T16:15:00Z
-originalUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
-webUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
+title: "Ericsson demos 5G capabilities at US EV factory with AWS, Hitachi America"
+excerpt: "The real-time video was fed across Ericsson’s 5G platform to an AWS Snowball Edge device running Hitachi video analytics software infused with ML and artificial intelligence. According to reports, the three companies were able to inspect 24 assemble ..."
+publishedDateTime: 2023-08-29T23:50:00Z
+originalUrl: "https://itwire.com/your-it-news/5g/ericsson-demos-5g-capabilities-at-us-ev-factory-with-aws,-hitachi-america.html"
+webUrl: "https://itwire.com/your-it-news/5g/ericsson-demos-5g-capabilities-at-us-ev-factory-with-aws,-hitachi-america.html"
 type: article
-quality: 19
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Telecoms
-  domain: telecoms.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://itwire.com/media/k2/items/cache/9b688e14dbdeff21a5dcbf08b420f837_L.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Ericsson, AWS, Hitachi America R&D trial private 5G for manufacturing"
@@ -51,20 +57,15 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Ericsson demos 5G capabilities at US EV factory with AWS, Hitachi America"
-    excerpt: "The real-time video was fed across Ericsson’s 5G platform to an AWS Snowball Edge device running Hitachi video analytics software infused with ML and artificial intelligence. According to reports, the three companies were able to inspect 24 assemble ..."
-    publishedDateTime: 2023-08-29T23:50:00Z
-    webUrl: "https://itwire.com/your-it-news/5g/ericsson-demos-5g-capabilities-at-us-ev-factory-with-aws,-hitachi-america.html"
+  - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
+    excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
+    publishedDateTime: 2023-08-29T16:15:00Z
+    webUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 38
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/9b688e14dbdeff21a5dcbf08b420f837_L.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
   - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
     excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
     publishedDateTime: 2023-08-29T14:33:00Z
@@ -93,6 +94,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "1qxXKEq2+7EK7eRKsHr3GdHptrRl3cfTdZtmwwQIpU/AM511vaZTtRUoR2yZc13/GcI1j2C+DCi0BidDgokG3mrNvfu21bYoFMhXhQ+jz+ofCpCtPmqmXczterDPN8fU4nrA1L7F6HQdzalGQqaR1ak0/NFW9m1Gyi+qlQ9BjpyUyhlJI2e8QVR0Q7as+v6lIFCM/BIIOLBbYVgIyvFcoeGBNgcdvRXJqiElh2g2wQOzyYjL+uaBUzr02ZRosrkXrX6xhON3OrjpDYEfQfy7l5JRJh91/x95Jx1Z2Nva3v02nW6tIyJo8G9gvO1HtUBoDvLTxNBaX88bIqd6YBq1ctcXd7pomDl5niN8/8md14xTUNfiesynjWe6AQPKh1f0HSMLrSzOicnee3Y8MJA6EiqASVz+RhssF+g0xdVfcmbbeyoaUKQJZxFhjJQNsIWk9UhGho1NUkkZY5//nAhTk/PI+UayXoo4WXDMxKq8zWKUtQWglU9vWS1KVlS13OVNtY4z4YPrlLgL2e4InqpL9Q==;6i91OObJO55rPdY1LXc2xQ=="
+secured: "JykiqHUwfTnDmKzUL6cxgW9S0bwQ1HXP7Ku5QBDXKbW9+RaPD4J/VgO6Et7dH0KJwhewa1ASolzK1x/T1i11Zuwx7T+G+iIlpiEKMpYzTn0Rz3WJmzCtn87BxVK490snK3ej2eQOqkBHl/t9P7k0RCllCZdmocT/MgHFIibcP0gr0RRnQsBEYpKXeF5qocWzuI4dbv+sivM4ghhEncvBXxIw/OqaGjZbCHS3l4HicLuTHJDrxSyp11gErjfESa+1Eae3N137X9rd3WrBzuSAazgisTwdHTjs2ScfLNGGftyAq7SJ5XrmKlciY3D7nGQiGc8G2SMHPQka+tj5ZsTQqJeL0LgLMg4WOvuIilp98Hs=;eM4FVdvHibi/vsQJYqtOnQ=="
 ---
 

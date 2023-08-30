@@ -46,6 +46,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 69
+  - title: "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market"
+    excerpt: "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ..."
+    publishedDateTime: 2023-08-30T01:32:00Z
+    webUrl: "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 60
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?507904"
+        width: 284
+        height: 250
+        isCached: true
   - title: "Revolutionizing Industries: Commercial Robots Market 2023 to 2031 - Increasing Investments Drives Growth"
     excerpt: "The global commercial robots market, valued at $15.2 billion in 2021, is anticipated to achieve remarkable growth, projecting an estimated value of $85.2 billion by 2031, exhibiting a robust Compound Annual Growth Rate (CAGR) of 20.0% from 2022 to 2031."
     publishedDateTime: 2023-08-29T23:22:00Z

@@ -2,25 +2,25 @@
 category: news
 title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
 excerpt: "And get ready, Los Angeles: The industry is planning to push for driverless rides here as ... of multi-ton vehicles operated via artificial intelligence attempt to safely negotiate the hills ..."
-publishedDateTime: 2023-08-11T02:27:00Z
-originalUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
-webUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
+publishedDateTime: 2023-08-11T02:53:00Z
+originalUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
+webUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
 type: article
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
+    width: 840
+    height: 560
     isCached: true
 
-secured: "55LANhmb07SCmfM6jnzd9YFe8JEZtfzdV8B4RNB01am9dIC7i41ALJ8YcyicTnb4aFs8Nw8Wk7LSoa+/F6Fa6WoZzy3znV9rtZBanCzML++RAeAisslgyJL4A+dktaErHUFywQP9wWwKusdiLOOVVV/PaodgrsaWwPgAE9wAywYNxnychknB8ltN85iTwk23OmD4ROpKfD8iFvsD1ywRi8xwGssAJqb5DzP+9V1jUNIqJccBwTiiMTEG8BOa9V9JiV/GJrxa+ctD4AaSPF2MF4CNVGhB0Ac2fgnYx1HY9D0lyI+hASKKdPry77/fbs2OjRraZA+iqQNjQhq4rZUMdzlUKVQQzn9hZXDjuT/oh00=;55oDgx5Pu2kDxIxJXbKf1Q=="
+secured: "TGItnxFiuWFu9PF+zXtB3b3xmeRBAcH3VKdpbtj+sjIluLuZc1y8YEbDlvcWa9bF1/Ffvy54QWtmEenXWP0HrDS8dVZ6SBg71qjGdnoymjj4UMuzUkLcAw2pMGhruJsHomG5DpO7HZvhHCvg6mH71SmljzyLAZgj4B/7ddwNMXtPHHDwejzFixWdwb7iMcz8hLEw9fHlLSMUdHpNB8zNxfQHwr1EBlYbWNpOlf7ZbXPu1AjdLq2AJIdnI0QJyepM+KwmHXclOaE/yfM9XKPZY+KavTXltpsvk2P0uNoY7evFsJD8hGxw2JQ/ZqXhSS2VPJtVuuOoA9DfKq6/fyDIwKQXT2lcPvlqfxTK+5JnYXA=;CWC8U3idwEhMFbsIPq0V/Q=="
 ---
 

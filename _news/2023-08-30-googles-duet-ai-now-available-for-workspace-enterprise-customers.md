@@ -18,40 +18,70 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
-    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
-    publishedDateTime: 2023-08-28T13:26:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
+  - title: "Google introduces new AI chip and enhanced tools for enterprise AI solutions"
+    excerpt: "Google introduces new AI technologies and collaborations at the Google Next conference, focusing on accessibility for large enterprises. Announcements include new clients adopting Google's cloud software,"
+    publishedDateTime: 2023-08-30T01:17:00Z
+    webUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions-11693356902647.html"
+    ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/30/600x338/GOOGLE-NEXT-AI-0_1693358010798_1693358041456.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Google shows off what’s next for Vertex AI, foundation models"
+    excerpt: "Google announced enhancements and new capabilities across its Vertex AI platform, including developer tooling and foundation models."
+    publishedDateTime: 2023-08-29T15:45:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-whats-next-for-vertex-ai-foundation-models/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
+    quality: 67
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Vertex-AI.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "AI in focus: Here's what to look for when Salesforce and Broadcom report earnings"
-    excerpt: "When these two tech firms release earnings, Wall Street will be looking to see if their respective bets on artificial intelligence are starting to pay off."
-    publishedDateTime: 2023-08-29T16:29:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/ai-in-focus-heres-what-to-look-for-when-salesforce-broadcom-report.html"
+  - title: "Google unveils enterprise AI tools, new AI chip"
+    excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
+    publishedDateTime: 2023-08-29T12:23:00Z
+    webUrl: "https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 42
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
+    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
+    publishedDateTime: 2023-08-28T14:06:00Z
+    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
+    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 36
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "VMware enhances enterprise AI management by balancing GPU scarcity with cost savings"
+    excerpt: "Cloud spend is a board-level enterprise concern, as companies assess the net benefits they’re enjoying against the expenditure invested."
+    publishedDateTime: 2023-08-25T17:32:00Z
+    webUrl: "https://siliconangle.com/2023/08/25/vmware-enhances-enterprise-ai-management-balancing-gpu-scarcity-cost-savings-vmwareexplore/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
 
 secured: "6fF80HQyNt8z1cN9yJLqwE7ccsgTn986nhFrDDahW+ARX7jVqhQe9NPET92qGAxRnSoPviQhoMpo45EF6NiOBTtipRTSlW7b+UeIBcZ3GzzmYjtU9gQO7YBUPksalRYBHXTHt9lmSK61KSoR0wDPjX/ssZ4SAfRcInIp4ePfcfeotwLSikgXY1zwZrgnQSFZhJI3i72PU9qSbHXIwAnrxX+HWkIZFnQDyhcJSP+3AreS7qLB9kdVp50UTNGUFK83Wl0JMd78Jq2HHOmdJdAGnt1v64MCiqO8B2VuwMCgThiuETnEhLf43B6Kk+w2wR16TL429PhXOJL/bb6wREHMpM2T8JtzsxevXUfufG9yH8oLwb37UCU8SNFpijhOoE1Xqk0aFKLexZ8Cqq3kq56R1fKnvEWKDbMjYYCrXOSVnILkOGlq4BBkJh9IvRNY7NbHaJCOchJI/ulnoM/5qEyCX1ZrfvIsn9ZVYFZhRLG2FK5Br43Q0p8zAg+gpdNqy1Ioam9ixvouU89woKfOBebWzw==;aDRIp6qCQKp8eOKkugI7KA=="
 ---

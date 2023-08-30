@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-l
 webUrl: "https://www.accountingtoday.com/opinion/exploring-ai-and-machine-learning-in-modern-bookkeeping"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Resisting and reimagining Artificial Intelligence"
-    excerpt: "GPT, Education International member organisations might well groan at having to read yet another post about Artificial Intelligence and education. However, unfortunately AI is not a topic that educators can afford to completely tune out from."
-    publishedDateTime: 2023-08-25T09:02:00Z
-    webUrl: "https://www.ei-ie.org/en/item/27927:resisting-and-reimagining-artificial-intelligence"
-    type: article
-    provider:
-      name: ei-ie
-      domain: ei-ie.org
-    quality: 39
-    images:
-      - url: "https://www.ei-ie.org/image/AtBPXvrjRSaDXBlFc67dkWKUPL6V37oK9nKHd4UE.jpg/lead.jpg"
-        width: 1448
-        height: 762
-        isCached: true
   - title: "5 astonishing uses of AI happening right now"
     excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
     publishedDateTime: 2023-08-28T07:00:00Z

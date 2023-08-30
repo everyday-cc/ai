@@ -7,7 +7,7 @@ originalUrl: "https://www.thaipr.net/en/it_en/3375150"
 webUrl: "https://www.thaipr.net/en/it_en/3375150"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI is changing the cyber arms race"
-    excerpt: "Similarly, while many in the industry try to build regulations, attackers are neither concerned with, nor bound by, regulations, and are going to take every"
-    publishedDateTime: 2023-08-25T08:03:00Z
-    webUrl: "https://techcentral.co.za/ai-is-changing-the-cyber-arms-race-arcpro/230509/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/08/artificial-intelligence-ai-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "JMITiP8UWU2mEhRTzZlHijFCloD5+p3MYpkWGYoPuTtQ5Jw9zlH/V/lBdAfxndfnlrRNmlgNF/SCeMN0yOH+bo/va5QkbBnRsYZ6qxmAl8TJmNkuOsIm90gvlH7Ut9p/vVf2xgZIdKWk+TmuzzDmLlsA4pgh0qaJ0MwTOdl38Z7vZHYMI/D1jGXzV/Weg4titvHsWKTONPZJExib3YtHzK/kdUYB6YqE0oT8jl8ASFr9i615Zm+99GHeo0sFp7ldZKsWQ/rfRO2MbFUyqT9r5Q0fPTT0YAAolBK+8u9mic/3JVBCgMZeQDVMj8OAw4T9UH587xdiXi3yDjTryrpzv8euDKOhe2AluCiTnXvTbMI=;QHD93aZYixbmqMeRH6HkQw=="
 ---

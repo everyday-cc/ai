@@ -37,6 +37,20 @@ related:
         width: 640
         height: 343
         isCached: true
+  - title: "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market"
+    excerpt: "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ..."
+    publishedDateTime: 2023-08-30T01:32:00Z
+    webUrl: "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 60
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?507904"
+        width: 284
+        height: 250
+        isCached: true
   - title: "Not just “messing with a robot”: GA school district brings AI into classrooms"
     excerpt: "The emergence of artificial intelligence has raised questions about its impact on creativity and critical thinking. While some schools are banning the use of AI in classrooms, one school district in Gwinnett County,"
     publishedDateTime: 2023-08-29T19:19:00Z

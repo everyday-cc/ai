@@ -1,22 +1,28 @@
 ---
 category: news
 title: "State Rep. Steve Doyle named vice chair of artificial intelligence task force"
-excerpt: "State Rep. Steve Doyle, D-Onalaska, has been appointed vice chairman of the recently announced Speaker’s Task Force on Artificial Intelligence. The task force was created to study the transformative potential of artificial intelligence while ensuring its ..."
-publishedDateTime: 2023-08-29T19:01:00Z
-originalUrl: "https://chippewa.com/news/local/state-rep-steve-doyle-named-vice-chair-of-artificial-intelligence-task-force/article_9d60e677-1904-5be9-bc78-9389bdf185b2.html"
-webUrl: "https://chippewa.com/news/local/state-rep-steve-doyle-named-vice-chair-of-artificial-intelligence-task-force/article_9d60e677-1904-5be9-bc78-9389bdf185b2.html"
+excerpt: "Onalaska, has been appointed vice chairman of the recently announced Speaker’s Task Force on Artificial Intelligence. The task force was created to study the transformative potential"
+publishedDateTime: 2023-08-29T19:00:00Z
+originalUrl: "https://lacrossetribune.com/news/local/state-rep-steve-doyle-named-vice-chair-of-artificial-intelligence-task-force/article_fc824670-4698-11ee-8a6c-bb0939d5c50b.html"
+webUrl: "https://lacrossetribune.com/news/local/state-rep-steve-doyle-named-vice-chair-of-artificial-intelligence-task-force/article_fc824670-4698-11ee-8a6c-bb0939d5c50b.html"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Chippewa Herald
-  domain: chippewa.com
+  name: La Crosse Tribune
+  domain: lacrossetribune.com
 
 topics:
   - AI
 
-secured: "wxlMF+TfJuoKiXZFCQIFPkczkwIIQLp1d0inPbsZD5K6r2RG0IgByUW7dTXl+Ph/9S4uBy27gjyVb/kR4vC2Uef3rHKVp/cGg1+N4dhnJLJp7z20yNS15yrKGL1xjpxRxcW2LYUiexRndHjBpVDHx8vlUGe/F24GCMiTgX+XW9qsYOs0jP2nhUtkqtnk+kpXI7yUniaYxNtBl6LQnWLorkKi74gTr7f81yuo/kNiPnrWcs770VQIki7mQ/o0v12sXvIz4WHvgS5MzJLVoH1PliznRnX6FXqHheqDBmDgX9k+rHk/mUMPPMN82fvKRS3UXq/BjfB0M+AZnNN+WEp7/PYWJa9MnuN1qtPpJ8U+Rec+X61e88E0krrv0/tTV37Aw6RhMy2phO1wC71cnPuIwj7RVvaYBOizjUnhpensGDYEJhNJ4+eT2gEg8oJJA1k15j8Hbun+khP0DlGIPHE5P3N2Ulc0bdX1PhGDIFDqLj52UXPWThzuKIu4TZha/2ot3Q/YVkGy6XJoaE7bidja4w==;FR3KA+IrxH8PKHIFoJLgbg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/f/c8/fc824670-4698-11ee-8a6c-bb0939d5c50b/64ee38e78b015.preview.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "bqWp6xTqzZX0mgCMRwhbjhTj4IEJUK2dWcRp1Z7NxZA1mtpxJ5Pzi0jIt6EIgYLWdYdCGplCAAlhXEJlyvnIrRboyKmJU2z3+3AZ9oRa4UIsfrvXxjWbl4MOOlze7y+8YKuI4TzHeMgEBbXlRmqlZR0A5QK58hS0dHypbb1AZfRBqlXc7NUChTigEL7AqbcqSIsHS0QZJWCBRDBF5bwMsvcIH37ZV2uhzE3erN20EYXAZNVRXe9onLc7GXdRo6m7sjfNWKF24o7Yi/bTaOJAD9m1Q0En52qwLqs/FHQNvfm+yT1OsNEce/yvHrvS8BOyhNa2keplPRQL/QWowQZ8Bkpsmr7+I4aIAeBQhi8krvk=;JenBG5w6gcV7Sl0rm2XIbA=="
 ---
 

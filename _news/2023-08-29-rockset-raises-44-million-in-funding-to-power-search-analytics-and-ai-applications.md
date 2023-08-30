@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
-    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
-    publishedDateTime: 2023-08-28T14:06:00Z
-    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
-    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 36
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "JNegHEzK16YiMBjK4x+NvF3ZpnUjWUo63pAKH5hkFpHUn7wQ55mZQolYiqAX6zJaVJ4APFZxndavDG0RBu4lhPqiaA4CBwnDtTTj4jj2Z40QFMmNWWyya2WkRayUWgIPJmpk8gZTuKU3W7J43+7vQOvMfcG20qG+kyuTY4lzRhG9gNJL1sjxcW1Yt5z6IMTw2AbAWLXq6sq2tn5jqCNWDwyLc2tmAuswYi1kuNVdqkqQoVwWs42iJY4C85ANP+xLl5kEXSdb16PhmphQZlgFjdBmXQUl/mdi94irRUT/NC3JG02ZZPcmLQ/nPqIQXBIwnfXdto2swG8y4cVXObIoGv6sYjnQrvn8zINjCtGoSk4=;2/kvJZ83D6T5CMNoNXQF5A=="
 ---

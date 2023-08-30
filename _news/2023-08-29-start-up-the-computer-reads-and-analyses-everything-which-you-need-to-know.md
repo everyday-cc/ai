@@ -7,7 +7,7 @@ originalUrl: "https://www.hbvl.be/cnt/dmf20230829_92792446"
 webUrl: "https://www.hbvl.be/cnt/dmf20230829_92792446"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 629
     height: 420
     isCached: true
+
+related:
+  - title: "Everything you need to know about the Voice referendum Yes case"
+    excerpt: "After Indigenous leaders rejected the form of recognition proposed by Howard – which they deemed symbolic and weak – a group of Indigenous leaders came up with the idea of a Voice. The Voice would be an advisory body that gives ideas and feedback to ..."
+    publishedDateTime: 2023-08-30T01:45:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/everything-you-need-to-know-about-the-voice-referendum-yes-case-20230828-p5e044.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/everything-you-need-to-know-about-the-voice-referendum-yes-case-20230828-p5e044.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/everything-you-need-to-know-about-the-voice-referendum-yes-case-20230828-p5e044.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
 
 secured: "iFuH7VxW8bAZ8lCz+iavBp8fHf1ZUTt6kpFnqN4JCK2+qeOsU0DFCEEAoXqPwvduZukX3v+GvhjX7Wr7uhHTin4qFnPwhk9BxabHH3hLkx8iPP8q73ggQXci/5+WgiyIC8yVR/b5yVYN2LKTQMG1E3Jcf56/sGuf2DU6lwDMY4ZAN+J+q617X1pJyNOazYN2GDCdLWomdVKY/96fNHLhpjeyeOBKwQ4qFSHRwrXHaV1nND1q0uL7LiaGNKYzTrNG61g/M1rVsBEro+kzX1XBYHXHOeuc2zIVK3qpYqNlZ6gUFRBvAiGhNNq47f535TRg72w+5mx4QHFuPCj+LaFP645YfUbeAMj0YsbLzcUFTAM=;8KvG2Pmtbvax+N49o3ZGZQ=="
 ---

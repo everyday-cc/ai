@@ -48,15 +48,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
-  - title: "Google’s Duet AI now available for Workspace enterprise customers"
-    excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
-    publishedDateTime: 2023-08-29T19:07:00Z
-    webUrl: "https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "FeWdgSpwfq//NLSWLnLn9qegEFQKfdJfIZUWJUenrLSyngOBrW3kg9z5CH5rUWulib7azEfiDg7AXo0wxW/XJflRHqimZG8WCYIqsfvLKkyf9krBkjYVkEamNH1mbMMGUghBXU0aI1QGnt4URrzcD03CqHJ4Go/ed8iAotbFXDLg50UlFcce4QxrPnCMabn1UXc7AdoxRmjcXItnrRp1OTJK6bfHMlcXsyXZM99u1qn4OSFtmkFIX9/ftcKHztg2mzyZQBDiYxiDZ0k80uo1vRxb55hrcZk3c+cZ4EB6IGZ5msPr/9rtj0JRBvSoDLo/8gMDwYy45aOn90Aj4MgPIiY9+Ob+ryzem3Rz1Q+ffkssdO/Q3gK2kjwQZ4EHDJPqM9gtnZV5YRRzrhdoPEatn4FezG1AAOWI3qfN8tb85VxwxTfdyhgbHoP8XNVlwtc7UVP6TFVrnBgqm+Rduxss1oc51CR7wHl3yPsthOmyDqqipstxi9HYchBwjl1/i5+rRFv5zGF290PjggSNvmVeRw==;kWwu7tQcM4VckHsAlv31dA=="
 ---
