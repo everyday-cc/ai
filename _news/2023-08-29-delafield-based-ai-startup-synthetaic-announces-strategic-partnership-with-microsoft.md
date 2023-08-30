@@ -9,7 +9,7 @@ ampWebUrl: "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Incantio Announces Partnership with APM Music"
+    excerpt: "Incantio, a music technology startup, is excited to announce a new partnership with ... I am pleased to announce a new partnership with Seattle-based Incantio, an AI company whose founder is coming into the tech space after a long career in the music ..."
+    publishedDateTime: 2023-08-30T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34121382/ai-startup-incantio-announces-partnership-with-apm-music"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
   - title: "Elemental Cognition Announces Strategic AI Partnership with Google Cloud To Accelerate Time to ..."
     excerpt: "EC was founded in 2015 by Dr. David Ferrucci, the renowned AI researcher and inventor of IBM’s breakthrough Watson technology, to create the next wave of AI. Visit us at https://www.ec.ai."
     publishedDateTime: 2023-08-29T12:38:00Z

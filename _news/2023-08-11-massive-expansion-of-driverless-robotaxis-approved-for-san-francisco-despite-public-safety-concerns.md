@@ -2,25 +2,19 @@
 category: news
 title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
 excerpt: "And get ready, Los Angeles: The industry is planning to push for driverless rides here as ... of multi-ton vehicles operated via artificial intelligence attempt to safely negotiate the hills ..."
-publishedDateTime: 2023-08-11T02:53:00Z
-originalUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
-webUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
+publishedDateTime: 2023-08-11T02:27:00Z
+originalUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
+webUrl: "https://www.latimes.com/business/story/2023-08-10/cpuc-vote-on-robotaxi"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
-    width: 840
-    height: 560
-    isCached: true
-
-secured: "/RLE7I2RC7OS16q/MPaDQ89n/uhqqlnw8KOKOqTlAV+psO9zZI7Jdn+qy9OVHml9l8Pl05PY4aWHlAY/KMmThQiHd9poHGTCjw1zllB6WI3hM7RNXzG7QP/k3MnRbVMNNJUN4ll2fA6lzYKC6xFdnDAtHQEtfjqOiufNHRrV51AuuqQ7azO5BZyKqsEFwcdn7aPWjNaQSlaWMpwRYNP8HcyGVjmlLMYHuucw16PBGMXwAGqxatK3ILSQ8fInmjwXhct/Q8tW3iZ+AiBarKY8u/P/1nIkZ/Be0uZ03++4Z1xRVui6XVZt24XL17nN88SPmlqEYw3+NHyR7XOOMGv2mcAb6GkQBzYvSis/KxyIJQ0=;xquaXdSkbiLCYjbjhS4aSQ=="
+secured: "JS7pRwRSpnZKAfM2R/Gc83lfWVFxqonkORn288GWOc3/wgawusVarSn6zwFeAd5Yj3k4G9fMDsFl2a4e1fhVhhAkHa/ItpvV69T+YQ6BTeYO9920RZ3gb+m/7G2hewHOyijPdN4QHgo13EPFlZWdB+l1sLpcWyRHK5cvAj+dmIFK0lhmWXMQcWLxN6Vf+fVupG5m2fdL3q8w79jezYur7HCPekIBLrzSiDYeUkzKGYJHh/+x3c8crlt6+p7tiwhGEHH3KFm3L+afVzS1DGfw8Ob2XXESgDFZHofgH/bH470oXW6lHy+Fei2HIPawBC0FzO6KX8gVfss/ZlLKHwBFpxpqbXMD0wbDrdYQiECA0jU=;/C/z+TIgjl96muj+KX0M/w=="
 ---
 

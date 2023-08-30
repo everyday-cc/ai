@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
-      "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
-      "excerpt": "Video analytics platform vendor, VisualCortex, joins Axis Communications at ASIAL's Security Exhibition & Conference 2023 to showcase its people and vehicle computer vision solutions SYDNEY, Aug. 24,",
+      "path": "_news/2023-08-31-home-office-eyeing-expansion-of-orwellian-facial-recognition.md",
+      "title": "Home Office eyeing expansion of 'Orwellian' facial recognition",
+      "excerpt": "The Home Office insists it wants to \"strike the right balance between public safety and individual privacy rights\" and has issued a call to companies to suggest ways of using it.",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-exhibit-asial-2023-axis-communications",
-      "originalUrl": "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-exhibit-asial-2023-axis-communications",
+      "webUrl": "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942",
+      "originalUrl": "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1498.jpg?h=7de12b8a&itok=qu7B4VPj",
-          "width": 600,
-          "height": 316,
+          "url": "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,47 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T21:19:00-07:00",
+      "ampWebUrl": "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942",
+      "publishedDateTime": "2023-08-30T10:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
+      "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
+      "excerpt": "VisualCortex is offering conference delegates and Axis clients the chance to win a complimentary computer vision Proof-of-Concept (POC). Applicants can follow the link below to su",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -356,6 +390,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
+      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
+      "excerpt": "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study",
+      "originalUrl": "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-phillies-fans-can-now-use-facial-recognition-to-enter-citizens-bank-park.md",
       "title": "Phillies fans can now use facial recognition to enter Citizens Bank Park",
       "excerpt": "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ...",
@@ -389,49 +457,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
-      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
-      "excerpt": "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/",
-      "originalUrl": "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp",
-      "publishedDateTime": "2023-08-21T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -799,6 +824,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-15-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
+      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
+      "excerpt": "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
       "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
       "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
@@ -889,10 +948,10 @@
     {
       "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
       "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
+      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "webUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -902,11 +961,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:10:00-07:00",
+      "publishedDateTime": "2023-08-14T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1209,92 +1268,6 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-real-estate-computer-vision-leader-restbai-named-2023-innovation-award-winner-for-technology.md",
-      "title": "Real estate computer vision leader Restb.ai named 2023 Innovation Award Winner for Technology",
-      "excerpt": "LAS VEGAS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Restb.ai, a global leader in computer vision and artificial intelligence (AI) solutions for the real estate industry, was named the 2023 Inman Innovator Award Winner for Top Technology, besting hundreds of nominations of leading technology firms.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/680d4129-1a79-4cf7-a00c-970eceb3e11b",
-          "width": 2701,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "AI in Computer Vision Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12 Percentage during the forecast period, reaching USD 14367.51 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33707994",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33707994",
-      "publishedDateTime": "2023-08-10T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

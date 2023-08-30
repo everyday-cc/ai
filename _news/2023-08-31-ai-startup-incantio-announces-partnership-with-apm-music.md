@@ -1,0 +1,49 @@
+---
+category: news
+title: "AI Startup Incantio Announces Partnership with APM Music"
+excerpt: "Incantio, a music technology startup, is excited to announce a new partnership with ... I am pleased to announce a new partnership with Seattle-based Incantio, an AI company whose founder is coming into the tech space after a long career in the music ..."
+publishedDateTime: 2023-08-30T17:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34121382/ai-startup-incantio-announces-partnership-with-apm-music"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34121382/ai-startup-incantio-announces-partnership-with-apm-music"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI
+
+related:
+  - title: "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft"
+    excerpt: "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft."
+    publishedDateTime: 2023-08-29T16:44:00Z
+    webUrl: "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/"
+    ampWebUrl: "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp"
+    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp"
+    type: article
+    provider:
+      name: BizTimes
+      domain: biztimes.com
+    quality: 67
+    images:
+      - url: "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elemental Cognition Announces Strategic AI Partnership with Google Cloud To Accelerate Time to ..."
+    excerpt: "EC was founded in 2015 by Dr. David Ferrucci, the renowned AI researcher and inventor of IBM’s breakthrough Watson technology, to create the next wave of AI. Visit us at https://www.ec.ai."
+    publishedDateTime: 2023-08-29T12:38:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/elemental-cognition-announces-strategic-ai-partnership-with-google-cloud-to-accelerate-time-to/article_c076d70a-d4b1-5ea3-a918-21d7dc8356c3.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 5
+
+secured: "3NCQuqjcDvZ8m/tWYQjNYuIjI50Ks4Ol6C2OKD4Iiww6F8afWuV2m0q9VmNp5t6vCcOQLQNwXmwscwPqmZm2ON0mMzjVTxZ+asv/Kuez/PIF4g2LU0mKc/2zw5+szubVFSxQXn/+LHG2+9pd3S3AlKe0DpqfH3wIvzwHk52B6yjOE7gtLnftlHKh+Se6wJFtYkJX/y/GrHGlkHxz9YnReG/W7Eopp10U6mK9+V4CZmgGA+xaPZtGzVTLXPw3Br7QU/KU7ZRuMQqAdwy27okS7OC4v5fIJC8hj0WC7hN/7rrthcxn5rDA5DFSqCqzm0dMCCXdNb7G4zxgAAXmENbQD2ZTbGBM7lcYXh3TVqJrN1I=;+8jNVj8e8MUrhBenPbBhcQ=="
+---
+

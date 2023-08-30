@@ -53,6 +53,29 @@ related:
         width: 3120
         height: 2080
         isCached: true
+  - title: "Google will put invisible watermarks on AI-generated images"
+    excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
+    publishedDateTime: 2023-08-30T11:12:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-deepmind-synthid-invisible-watermarks-ai-images"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/30/image/jpeg/OUpPbytf2tHxTuVDS8BzOv4YkAN1BBT5R0TaWbM8.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google made an invisible watermark for AI-generated images"
+    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
+    publishedDateTime: 2023-08-30T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "0zPU1uys0gcZiqjHYaISapgKWz+K2mKB2lYeYNsGS2uZQQBgUhZ2512BLGLYaNAH7OrA5Um3xWQ2mGol3w8CIQOGYoLqD/TuRhycdyHdQbdUCimafKCC/C0R40s7w873+yrodTcGGEpHAxeHTX6JK7yT/6kn3q007iDL9rbxdhYreVRroCxDVo1GlL5t1o8cSC9jJzvoq8OH8Qeii6VEQeMv6SXvSlf0ftXNjDo9bfRBT3RjS9XSwVZvpTXSsfdYCmPb6PeH0hvKY7tP7xYVsPSvXaJhGWYrEQBeEQf0a6AJPIZ+Nf69gGoEdGLRyLV+8tSoOCIOH9Gl3HiYshvfTqDUDjzVyRaHD4BRLAHwuOgxQ1NbdTZr+hTHI4c+4Aihzigch2pbkGogMrd3Pu2iTbTGsAR3dy8yU+h3afIvgQNN0vnt4FzVpkvJxvp959T3YkzJPTw52BasojZAOK+CE1jTHx0rmm5AlGNMTdzDfuQgfz00exudrzt+v8IQbCgfdXMXn7GwNlddCqSjyGB/yw==;ANBH37lxDqugh28gz3NxsA=="
 ---

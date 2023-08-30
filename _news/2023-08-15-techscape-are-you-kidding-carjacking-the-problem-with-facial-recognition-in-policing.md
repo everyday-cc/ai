@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/d741c78be9e7d04826982a112970eaabef4cbad3/658_1211_1274_764/master/1274.jpg?width=620&quality=85&auto=format&fit=max&s=9150caaad972a2fdc4230a221c7702d5"

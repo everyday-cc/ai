@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
+    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
+    publishedDateTime: 2023-08-30T02:32:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
     publishedDateTime: 2023-08-30T07:18:00Z
@@ -108,15 +124,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
-    publishedDateTime: 2023-08-30T13:25:00Z
-    webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
-    type: article
-    provider:
-      name: The Vindicator
-      domain: vindy.com
-    quality: 0
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
     excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
     publishedDateTime: 2023-08-30T08:48:00Z

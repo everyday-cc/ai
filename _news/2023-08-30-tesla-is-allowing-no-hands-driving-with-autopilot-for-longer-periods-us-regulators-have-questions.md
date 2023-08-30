@@ -60,22 +60,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T17:43:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 45
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/ea64f09e-29c2-4027-ada3-a7f00df3e713/ea64f09e-29c2-4027-ada3-a7f00df3e713_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T15:10:00Z
@@ -90,6 +74,24 @@ related:
         width: 1461
         height: 834
         isCached: true
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-30T18:47:00Z
+    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 11
+  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
+    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
+    publishedDateTime: 2023-08-30T18:44:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 5
 
 secured: "Wl97hc/4nwAsUAkEPmwSr/1o7Qq60JCpuamUS9pW0mMjy3pWcNp006WfbxkDKfIzqsP9G6wBK8yZw1dlL9Qgz9DTXTBOdAhMP1Vmo8yGPD+xSviayoFRT9RVmq9Gl4P/V5gQZawq4dkswXBo0psSCVtDmWNHrEfx2PSp3XS7bR5NZ+uxRf1mqLrmb2+1cL+TG+cmpIxQb+bItzvdffdEBOVjm4AfnrfFCgs8TvqBZ0aI3G2x1FcfzYm/rIhuslm3/5001uCMV9iPSaDnVahGEZoDuowcYDEH7nbUUTGoHRvbwEiyF47BygGo5D+9PHodZP/JzU7u90YaExSpdnn4+Wqfw6mJQKlapv+yjop3aIDgCBW7DybcOoTWgmuojqIGvjSDLsPpFr8mwJg7NPWG5rLXCazXR7+phHoglqEC51o/hYyc7J+4rqqzblNs5PQ/CMOjb+118fzlVQDVFHK8IQ3mfHtE16rcxggQK/bE+6RkW0gaRHmSc+sgbOIJynNXwudrdQA5+S6mIIquLaPuRQ==;ArB7UpVDuE+AMVRoo3M8DA=="
 ---

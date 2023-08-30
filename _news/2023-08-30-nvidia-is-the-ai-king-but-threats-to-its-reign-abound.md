@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Faces More Restrictions on AI Chip Sales, This Time in the Middle East"
+    excerpt: "The US government notifies Nvidia it'll need a license to sell certain A100 and H100 GPUs to a larger range of customers outside of China."
+    publishedDateTime: 2023-08-30T21:48:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 98
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/035zuqPRihn1GhHajRQJuiL-1.fit_lim.size_1200x630.v1693429053.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
     excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
     publishedDateTime: 2023-08-27T16:24:00Z
@@ -57,20 +71,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia"
-    excerpt: "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ..."
-    publishedDateTime: 2023-08-29T13:14:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/745445/group-of-three-with-laptop.jpg"
-        width: 4000
-        height: 2250
-        isCached: true
   - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
     excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
     publishedDateTime: 2023-08-27T14:00:00Z
@@ -85,35 +85,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How AI Could Ruin or Revive Our Culture of Learning"
-    excerpt: "As an assistant professor of psychology studying motivation and learning in children, I get immediate, enthusiastic, and sometimes urgent questions. Brett, a senior lecturer in the math department, almost always gets the same response: “Oh,"
-    publishedDateTime: 2023-08-29T19:08:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
+    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
+    publishedDateTime: 2023-08-29T11:58:00Z
+    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/mini_mathperson.png.jpg?itok=guPnOR1Y"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "This megacap tech hitting a 52-week high is proving to be the next big AI play after Nvidia"
-    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
-    publishedDateTime: 2023-08-30T15:06:00Z
-    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-a-52-week-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
     excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
@@ -191,6 +175,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
+  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
+    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
+    publishedDateTime: 2023-08-30T21:40:00Z
+    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
+        width: 800
+        height: 533
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
     publishedDateTime: 2023-08-28T13:01:00Z
@@ -223,6 +221,24 @@ related:
         width: 1208
         height: 584
         isCached: true
+  - title: "US restricts exports of some Nvidia chips to certain Middle East countries -filing"
+    excerpt: "The U.S. government has imposed restrictions on some Nvidia artificial intelligence chip exports to certain countries in the Middle East, the company said in a regulatory filing this week. One year ago Nvidia said U."
+    publishedDateTime: 2023-08-30T19:08:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2576488-us-restricts-exports-of-some-nvidia-chips-to-certain-middle-east-countries--filing"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 28
+  - title: "Nvidia, RA Capital invest in new Boston AI drug discovery company"
+    excerpt: "However, this isn’t the first life sciences company with an eye for AI that the chipmaker has funded. In July, Nvidia invested $50 million in drug discovery firm Recursion Pharmaceuticals Inc. The startup’s stock soared 80% following the announcement."
+    publishedDateTime: 2023-08-29T10:04:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/08/29/superluminal-launch-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
     publishedDateTime: 2023-08-29T19:46:00Z

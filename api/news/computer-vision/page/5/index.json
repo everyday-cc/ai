@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
+      "title": "Musicians revolt against facial recognition technology",
+      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
+          "width": 620,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
+      "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
+      "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-the-tsa-will-use-facial-recognition-in-over-400-airports.md",
       "title": "The TSA will use facial recognition in over 400 airports",
       "excerpt": "The Transportation Security Administration (TSA) will expand its facial recognition program to around 430 US airports over the next several years following what it calls “extremely promising ...",
@@ -1306,92 +1392,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-best-handwriting-recognition-apps.md",
-      "title": "Best Handwriting Recognition Apps",
-      "excerpt": "Handwriting recognition software allows computers and mobile devices to replace traditional notepads. The best handwriting recognition apps can instantly upload your notes to the cloud for secure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080320/1554238700-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
-      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
-      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
-      "publishedDateTime": "2023-06-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

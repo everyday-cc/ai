@@ -39,6 +39,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "US military plans to unleash thousands of autonomous war robots over next two years"
+    excerpt: "The United States military plans to start using thousands of autonomous weapons systems in the next two years in a bid to counter China's growing power, US Deputy Secretary of Defense Kathleen Hicks announced in a speech on Monday."
+    publishedDateTime: 2023-08-30T19:30:00Z
+    webUrl: "https://techxplore.com/news/2023-08-military-unleash-thousands-autonomous-war.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 13
 
 secured: "I48Lp5BSgiNQDeH4m5erz3EjmyhqpcByAny83F+jB5T+VNZ3BW38VTEypcvUc/N4F8MsIHod0CCccMG9MadN5vbNrEmkMY3/rdlWyBepl4pa28r5O0P0gVfbJ6f9I5FPLa9t3UVRkNwj6QTtesWxMo480DWe1RVMIPaSvP/T+m/prFB+0N+bf0Jm4iap+sFRY6CX9rcdxfbF7gWVI0bVY59S66IQ5dbFTrkwoRqDbBWxc83dIqK7mSGdeE1pgRdt9lumgSMUI5M2DzD1a1+frS16MA6jkmFoC5/BX6NICFM4kpTk8itFsyJPfRMAIaHq3vk76RVC5u9526w/PcXJYdVJXBNT5rZfBWxHMrtf72M=;bekhBC3ry+3DVXjcGqnFiQ=="
 ---

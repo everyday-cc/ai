@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK invests £13 million in groundbreaking healthcare AI projects"
+    excerpt: "The UK is making strides in health analysis by earmarking £13 million to fund groundbreaking healthcare AI technologies"
+    publishedDateTime: 2023-08-30T09:07:00Z
+    webUrl: "https://www.openaccessgovernment.org/uk-invests-13-million-in-groundbreaking-healthcare-ai-projects/165714/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 34
 
 secured: "wjZ8kkSE4Mfd6eYgfNNkHbOT7BpFvS3BAZI9qRekrwmgz/vs+Sgno4QZCRBNpnfRIGl4SLIocpijyzj4qoK/LNW1SezQweQal/qrvRq62g6sl6qMOyjXNE1D09jpkgH2bVGjRPwGkIeY60NIj4+F3GU1yEHBCjIqqfy5IrKgGzPh/j5uaY4UbezhFORoKSDqK88D5T91svqCtciN01i2ceX0rqnVnIWTCjbiPbJDeICcRWlXzkZJ5TpcilkvTRmwe1sBNnE3ts0Exye+JZ12lcjbmHzpY+pX6CaAlPVYJpl6gKfG4NPaFuv6bmZJPe9SJrLDm4HmBgiaKlxJhydu0wBMUhrqbu8ZMUZYsif7/wg=;sD3QUjJiAyLFbabfNcj8VQ=="
 ---

@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Google Introduces New Ai Chip And Enhanced Tools For Enterprise Ai Solutions"
+    excerpt: "At the Google Next conference held in San Francisco, a range of new artificial intelligence technologies and collaborations were introduced with a"
+    publishedDateTime: 2023-08-30T19:25:00Z
+    webUrl: "https://menafn.com/1106987368/Google-Introduces-New-Ai-Chip-And-Enhanced-Tools-For-Enterprise-Ai-Solutions"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
 
 secured: "6fF80HQyNt8z1cN9yJLqwE7ccsgTn986nhFrDDahW+ARX7jVqhQe9NPET92qGAxRnSoPviQhoMpo45EF6NiOBTtipRTSlW7b+UeIBcZ3GzzmYjtU9gQO7YBUPksalRYBHXTHt9lmSK61KSoR0wDPjX/ssZ4SAfRcInIp4ePfcfeotwLSikgXY1zwZrgnQSFZhJI3i72PU9qSbHXIwAnrxX+HWkIZFnQDyhcJSP+3AreS7qLB9kdVp50UTNGUFK83Wl0JMd78Jq2HHOmdJdAGnt1v64MCiqO8B2VuwMCgThiuETnEhLf43B6Kk+w2wR16TL429PhXOJL/bb6wREHMpM2T8JtzsxevXUfufG9yH8oLwb37UCU8SNFpijhOoE1Xqk0aFKLexZ8Cqq3kq56R1fKnvEWKDbMjYYCrXOSVnILkOGlq4BBkJh9IvRNY7NbHaJCOchJI/ulnoM/5qEyCX1ZrfvIsn9ZVYFZhRLG2FK5Br43Q0p8zAg+gpdNqy1Ioam9ixvouU89woKfOBebWzw==;aDRIp6qCQKp8eOKkugI7KA=="
 ---

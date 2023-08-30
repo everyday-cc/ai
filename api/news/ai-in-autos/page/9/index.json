@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
+      "title": "Elon Musk Gives Google a Driving Test",
+      "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
+      "originalUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
       "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
       "excerpt": "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ...",
@@ -1353,40 +1387,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

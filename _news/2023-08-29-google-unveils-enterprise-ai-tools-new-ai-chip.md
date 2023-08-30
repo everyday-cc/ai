@@ -127,6 +127,15 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Google Introduces New Ai Chip And Enhanced Tools For Enterprise Ai Solutions"
+    excerpt: "At the Google Next conference held in San Francisco, a range of new artificial intelligence technologies and collaborations were introduced with a"
+    publishedDateTime: 2023-08-30T19:25:00Z
+    webUrl: "https://menafn.com/1106987368/Google-Introduces-New-Ai-Chip-And-Enhanced-Tools-For-Enterprise-Ai-Solutions"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
   - title: "Google’s Duet AI now available for Workspace enterprise customers"
     excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
     publishedDateTime: 2023-08-29T19:07:00Z

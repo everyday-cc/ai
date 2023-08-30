@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-publishedDateTime: 2023-08-30T17:43:00Z
-originalUrl: "https://www.whas11.com/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-webUrl: "https://www.whas11.com/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
+excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
+publishedDateTime: 2023-08-30T18:44:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
+webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: WHAS11 News
-  domain: whas11.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.whas11.com/assets/CCT/images/ea64f09e-29c2-4027-ada3-a7f00df3e713/ea64f09e-29c2-4027-ada3-a7f00df3e713_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving"
@@ -82,6 +74,15 @@ related:
         width: 1461
         height: 834
         isCached: true
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-30T18:47:00Z
+    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 11
   - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T13:49:00Z
@@ -92,6 +93,6 @@ related:
       domain: wspa.com
     quality: 5
 
-secured: "zGgEh0Y8LIqXICjqv1kYdWqx678w4B1crQnPmLabdMRPzehAoUKfKldk/aP7Rmw2yf4lZ4NpwdeNAtrHn7nw0ioQTf7piG2sJ2J5cxaBM9l0XrrP/ZEMA3Jha+EQxj7ykpE2JlAiYFZOgO6fWlKoJBjUWt8v7dgAzZHFGpRBNlvP0FVIiHfCmVSOaUGWHthDbY9+O6iRZllxmahWysaZzXXPUbPRqLMA14my+ybRJDPMi+EeO2UMI34lRZPv05WYHfSpPOl0Pa2HMZEYlTCYIxYYv7YieknzYp6UOM+UqjBaNOv8vSVFH3XaiWwh5bywF+2UzMqvF8TSdIWP5CEAYL4B0SM1+E+SheeacBwf9Yo=;e8bfW/vTN0N8fL9o6GQ5EA=="
+secured: "+fvQAWuuOj1em9Rx5v7KVpbXdShHFbE7RE1Nh3lrKK2iA1gKNKt1STjbMQpMidxNY3Z/vPs7RvbVE7QhAz3NOLxIU1bC4Yy87d00Iv0bMHlrHN3jzJ0/aSwQmbtWYEHR/Ue+A7F0NaFmX6HUYkOevLBgYXPMzzbzN18mInELwm/UDUKWon26a9NscoSxtnd1gXX7MOCrCgMIMfgvOlKI1T05801S9BbTfqZzADLtIlqRR7OXGpIYeruvulRHkzJuRvpxdmcF/iNg/wdYgaQuUbLTUZ2I+BteaTdvs72fYeR+wbvgH/q0HrA/zNyWiRIMN5yuXQ1wgDzFHzaJdwWnVjwF2ZHuGn60cGxkhGiRzWVYT5sGrxX7JOQrkCqt52oAalYPHnmrwjabhlntErzp5A7PcYUHfplSMUazeqrvstUTwkj9Di7l1ruEGs8U5iTPe1a54xspjSGotN/eXioX9A/2xFG85P5e3CNSiLHB2eGjSIwjxxU+69XfG+PbpZvzL0J0X+Xm7ustFrE7/YdAEw==;bDfMz0E9kuIFD6zSZ9OIwg=="
 ---
 

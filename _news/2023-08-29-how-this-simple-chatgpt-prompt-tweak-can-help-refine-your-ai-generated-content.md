@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened"
-    excerpt: "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration."
-    publishedDateTime: 2023-08-29T20:42:00Z
-    webUrl: "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/"
+  - title: "How to use Claude AI (and how it's different from ChatGPT)"
+    excerpt: "The Claude AI chatbot is trained on the latest real-time data and is accessible through Slack. Here's what else you need to know."
+    publishedDateTime: 2023-08-30T20:31:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 85
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/be7b18f7d66f3a2675ca79cd4a5948999b093312/2023/08/30/950b5064-6d1b-4dfe-a250-10df6189607c/silo-gettyimages-1348371250.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -55,15 +55,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
-  - title: "Balancing Precision and Missteps in Cancer Treatment Through ChatGPT"
-    excerpt: "Within ChatGPT's responses, accurate and erroneous recommendations for evidence-based cancer treatments are entwined around 33%, presenting a challenge in distinguishing errors."
-    publishedDateTime: 2023-08-26T18:27:00Z
-    webUrl: "https://www.medindia.net/news/balancing-precision-and-missteps-in-cancer-treatment-through-chatgpt-213252-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 4
 
 secured: "zMsBVB2L7KKkp8zTIlimDKc6WoSRcnu3DcI5ZrS9qTeJsRbvhXDOx8BQl9y3UbRgljZqYUWPqaF5AD/b7jLeb28/gnxCsvpdQR9bI5NQ+GjLN9XZcZvrqQu1LEhuEJy33gwX7heaiHVE0qJuWTTZ/YoT3WN8A8vTsM3w1jKi4tjXi5r9HrEJj65qYe8KMJHicXXj029usl32pr6dYnsnYKqJaYLFOV2iXSbqVc7JRNcYtSsoPmVFA6BMrq82b2DtB3TKIcyh4bJneYYEk28GwqxRtXYlCLonbdoyGgLg66bFPYh5J3M3z4YiCo1qaSC58N9LwShHn7qNZgqKpMJh8RJTTy8eZ9bhVwzjliNW6ZMaHYM+deDvkV/wqyt/EzTBaemRmYzV/eV/RqziRlaA9A3u7A6k617VX155SI9AErpC1i4BqqtnpVJqLOmHK/F2wnBlXVfRW0Z2eTY/8C3tfd4GFS7VChVnCQJl0Rp0i4elAC17H1lrJM7ceCWLzpxuyZA9ojZGgCDyxNHtBU+/tw==;NQJSpWuT+LgVeGZV+ck3jw=="
 ---

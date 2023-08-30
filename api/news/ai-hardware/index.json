@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle-east.md",
+      "title": "Nvidia Faces More Restrictions on AI Chip Sales, This Time in the Middle East",
+      "excerpt": "The US government notifies Nvidia it'll need a license to sell certain A100 and H100 GPUs to a larger range of customers outside of China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
+      "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/035zuqPRihn1GhHajRQJuiL-1.fit_lim.size_1200x630.v1693429053.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
+      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-samsung-gets-into-food-with-ai-powered-recipe-planning-app.md",
       "title": "Samsung Gets Into Food With AI-Powered Recipe-Planning App",
       "excerpt": "I've been with PCMag since October 2017, covering a wide range of topics, including consumer electronics, cybersecurity, social media, networking, and gaming. Prior to working at PCMag, I was a foreign correspondent in Beijing for over five years, covering ...",
@@ -62,7 +159,7 @@
       "originalUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -356,7 +453,7 @@
       "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -452,6 +549,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-better-artificial-intelligence-ai-stock-amazon-vs-nvidia.md",
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia",
+      "excerpt": "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/745445/group-of-three-with-laptop.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-rockset-to-boost-real-time-database-for-ai-era-with-44m-raise.md",
       "title": "Rockset to boost real-time database for AI era with $44M raise",
       "excerpt": "Rockset finds that applications need real-time indexing on vector embeddings as well as on traditional databases.",
@@ -512,7 +662,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -852,102 +1002,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-chips-revenue-to-hit-53bn-in-2023-gartner.md",
-      "title": "Ai Chips Revenue To Hit $53Bn In 2023: Gartner",
-      "excerpt": "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner",
-      "originalUrl": "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-08/27/DNE_16084image_story.jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-why-generative-ai-could-grow-after-bad-nvidia-earnings.md",
-      "title": "Why Generative AI Could Grow After Bad Nvidia Earnings",
-      "excerpt": "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/",
-      "publishedDateTime": "2023-08-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1444,59 +1498,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-nvidias-earnings-wednesday-will-be-a-big-test-for-ai-bulls.md",
-      "title": "Nvidia's earnings Wednesday will be a big test for AI bulls",
-      "excerpt": "Nvidia reports second-quarter earnings on Wednesday against a backdrop of elevated expectations driven by a surge of interest in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104887925-1635881993219-niv.jpg?v=1692822734",
-          "width": 1521,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "publishedDateTime": "2023-08-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

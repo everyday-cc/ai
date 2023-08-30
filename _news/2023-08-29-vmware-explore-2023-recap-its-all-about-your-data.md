@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 936
     height: 445
     isCached: true
-
-related:
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-27T21:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
-        width: 473
-        height: 315
-        isCached: true
 
 secured: "NzGbbr0HsLaaDg1cAIMWkRy7LZIrKDlD15925nN9rpAoBxdyGPDRZDaHjLe6AHkGBTEHvVZy5Cm4/rHFtCOcfgEmZy9ZSqHUaRYMyyxL/6ASOxSoJ7VlDX/sADsYqoOE0FvYydM5DabHJ/gDJc2dI6QVadV28upTpsgN9+2xnJSmH6dcvkynyw6BevH2rekEM0RNsq4kWXqun5aBymMHZOmrTww6CU+pewzk6bsat9rNB0EaAEi91e3WyYWVjnFCNp56AgCr55SWi8kjuSG5t+Fzmu71AiDZ4ytwW9bx3o+ifxRtGlxyYSVSonaC9anqpTmV4Wvy6M47MiEXwjwrSOxDIaXAwpq+CeCQ47aymmhppCcp5Grm5mfoR1ZT9HdBgFMVyFVz22OM7mAVsk9AT90pAPgyqs2wc/gyoi4fsOLSjzaUVNA3SnskXgAxene/fKzvTnj+J4T8z+78piv22P8gKz1z8gQ8bz4PbGKktkg5wyDqoyA7bN1f6QiLohEdirCnEjGtN6of60nGDLrDEw==;zySr2NdVCoDqQQzmFjCSVg=="
 ---

@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Meta's Canada news ban fails to dent Facebook usage"
-    excerpt: "NEW YORK, Aug 29 (Reuters) - Meta's (META.O) decision to block news links in Canada this month has had almost no impact on Canadians' usage of Facebook, data from independent ... Another analytics firm, Data.ai, likewise told Reuters that its data was ..."
-    publishedDateTime: 2023-08-29T10:15:00Z
-    webUrl: "https://www.reuters.com/technology/metas-canada-news-ban-fails-dent-facebook-usage-2023-08-29/"
+  - title: "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)"
+    excerpt: "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access."
+    publishedDateTime: 2023-08-30T20:54:00Z
+    webUrl: "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
     images:
-      - url: "https://www.reuters.com/resizer/dvBSGAtNakvARlaYP1z2Bi7vG1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VVBVAT2BA5JXJLO7ENAGF65YWA.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/48c567f49e420edb1979845fbb456cb51687ad53/2023/08/30/90d378df-0391-438f-87d0-617e8a43591a/gettyimages-1581627315.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
   - title: "Meta’s news ban fails to dent Facebook usage"
     excerpt: "Meta’s decision to block news links in Canada this month has had almost no impact on Canadians’ usage of Facebook, data from independent ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change ..."
@@ -57,6 +59,24 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
+    excerpt: "A blundering Welsh police force posted a translation of an anti-drink-warning saying: \"You will be loved throughout the day\" thanks to an AI blunder. The computer-generated Facebook posts were lost in translation after the force used a computer-generated ..."
+    publishedDateTime: 2023-08-29T13:35:00Z
+    webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 12
+  - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
+    excerpt: "Dyfed-Powys Police used an AI tool to create the Facebook posts and now people have called for the force to use a Welsh speaker instead of relying on a computer Dyfed-Powys Police used an AI tool to create the Facebook posts (WalesOnline/ Rob Browne) A ..."
+    publishedDateTime: 2023-08-29T18:57:00Z
+    webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 12
 
 secured: "+wCsE4mfAxamc2UdJ2ENDH8fV7LypduYultlx5Y6NtOJ6i+M6Zw/c8Rt615eya5Sa1qQF5gKfaiP0wGCfjHUqzC+tufrsi79ygf1uF/FiVeiNJ3Lhy5hOm1baK58VVGctdn8MYfLjU5OzTB4iBAHZxFGyf6xEw4JBQu0Nsr++45LpaCok8Au+wKn0eVZcEjpzPaYN37EKXc65JnO6MRJNg7jHEjFYsIvZjpiceISUD7ZsVZWdrtny8i5yZjy8DGYrNqWD7rgwcV7F9rntrs/EpVGMRtnkWt3LNDv+IOJEGTuhlAWelWsmKdgksqRG9gc4J95YdBaApz8KVWCtKT4bAo4XUHc8R5Db6xP/KXco0c=;/hzyVJK+CkGvNLmqmIJd9g=="
 ---

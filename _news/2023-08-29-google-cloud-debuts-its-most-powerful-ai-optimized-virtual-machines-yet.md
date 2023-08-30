@@ -167,7 +167,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 33
+    quality: 35
   - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
     excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
     publishedDateTime: 2023-08-29T14:44:00Z
@@ -188,8 +188,8 @@ related:
     quality: 30
   - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
     excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T18:37:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
+    publishedDateTime: 2023-08-27T19:33:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
     type: article
     provider:
       name: The Globe and Mail

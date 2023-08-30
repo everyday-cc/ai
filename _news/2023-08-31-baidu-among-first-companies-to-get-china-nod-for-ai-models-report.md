@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/4007626-baidu-among-first-companies-
 webUrl: "https://seekingalpha.com/news/4007626-baidu-among-first-companies-to-get-china-nod-for-ai-models"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Baidu among first to win China approval for AI models- Bloomberg News"
+    excerpt: "China will approve the first batch of generative artificial intelligence services for public rollout as soon as this week, with tech giant Baidu expected to be among the first to win consent, Bloomberg News reported on Wednesday."
+    publishedDateTime: 2023-08-30T15:10:00Z
+    webUrl: "https://www.reuters.com/technology/baidu-among-first-win-china-approval-ai-models-bloomberg-news-2023-08-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "GUzHTKYEMaWMhlHJxGAA6fIbh7239JChyuANTC20UA6s9fxK8aYIxETnC7cIp+NNZZlVANEMgfElcxhmzkz7gXO7bcNUEF3hvZFtinCULvtyL924afmPUT9VaWmfQk0K+dzb1IZd780ZFacl2i/UpQ9PUfRq78DZ5pc+/qR6BL/hkCrU3FGb6thOutvOqwYJfQe6qGRZCnv6w7gM4Es23vUUad1Hgq5IvSeNsDy/tHeGm2llRa7y6wnQP5HVlDoE5okjEig+A1kl1HHKWHAeOT6HFFrsgbMRcFTxIE9XhZA/GpsIXTvb+1m1O979qkv14RAwKkDE4B1tBMq56f1v3qQPkpVvR0bB8HcgHEJKYJA=;8GKI/IicrgFhh0sy/7vTIw=="
 ---

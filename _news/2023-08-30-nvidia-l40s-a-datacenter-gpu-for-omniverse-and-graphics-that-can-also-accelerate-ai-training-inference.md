@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 640
         isCached: true
-  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
-    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
-    publishedDateTime: 2023-08-29T11:58:00Z
-    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Iris Energy buys 248 Nvidia GPUs worth $10M for generative AI & Bitcoin mining"
     excerpt: "Iris Energy has bought 248 Nvidia GPUs valued at $10 million to explore generative AI computing alongside its core Bitcoin mining operations."
     publishedDateTime: 2023-08-29T14:26:00Z
@@ -76,6 +62,6 @@ related:
         height: 773
         isCached: true
 
-secured: "CqmHRa1UP6lDpgedzUcJLsmOQGsPdR7sky9g7mtlalQE2rrlwRcawj7nbXS6ip/MOXleyAhSb4CI0XcVGTpExS0FFE6lOmeQOd+McnT+gx1h47BYoLxrPx+Wp7OP7ukx6lmoDLJhrtgfQObWun2B+/xR/E/Euw2t+yeTzT2qtg21ud5un99bYrxPcGm8VUq8CL6zly9v63P2SCfmWUyd830TR0WZn8jyFQocBzANq4LM98gXIHmmLbzYOSedVHkIZNukadCKweWu0+OB4i6z3e7XuIRr4ELEzvFJXYBO0l5gHzAZ30N48sxikWRIsbLpuYxsVSvko2qnI5X9huPfzq4DSioqXVj7sPfCEZ3NaCI=;rbLIL3ubYX2MJilNU7ggZw=="
+secured: "IL8fn+KTImLp8IiNZi8FFYmz9Gq+Yo/V5pW4RjNnXteBNmk7KrSsnBqSwSf3kvopdXaTj7p1PdFaSSXeNGXdJDCD+ou8SDWA7+xQTXaR4BGksL52HB/vrgX9qYr5T+wI1cgu0JmfVEuRvTJrUx7bsta3rnUKRYRpS4Ttqjodbby3K/WRICFYsAyHUrQy8rupmbL3wh2nE0zPKg+HSbVq2DkbteMoeNMm5dRWVeeaYRwaDZ4Bs2A/aXv2tNdrxHq/z+khuqoj+7YLJ0G+sD4mC/TzhXH/I+Fsa+nadYZ96kChIFGkwtNDMi8duS5QSzC3TR3zh5Ni0GN/OdPjzlNfrKYmo5eRUaTEgq+T8EKTvxp9OwCXzgstizc+d+jZd8riZsay4xT/WTyxA9lcUf/WaP4AkjCkJ/m8n99fFLOQpB6c0O5/Jo7cmBmIPUR8haNicQDH2lbL+HQBJD50dgZUDdCyy01Sou1QNOCyWXZ4BsjFZhkUvqQYd/PrYOzxNcTqRaK7CxIWSj/dHJZWzurGSg==;Gvx5Pgv0gSNwO8dC2m7R8w=="
 ---
 

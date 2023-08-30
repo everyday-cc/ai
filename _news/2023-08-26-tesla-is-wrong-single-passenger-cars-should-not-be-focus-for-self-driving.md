@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T17:43:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-drivers-using-no-hands-driving-autopilot-for-longer-nhtsa-raises-safety-concerns/507-eef13905-d594-4318-893c-30e27a413689"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 45
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/ea64f09e-29c2-4027-ada3-a7f00df3e713/ea64f09e-29c2-4027-ada3-a7f00df3e713_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T15:10:00Z
@@ -86,6 +70,15 @@ related:
         width: 1461
         height: 834
         isCached: true
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-30T18:47:00Z
+    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 11
   - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T13:49:00Z
@@ -94,6 +87,15 @@ related:
     provider:
       name: WSPA
       domain: wspa.com
+    quality: 5
+  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
+    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
+    publishedDateTime: 2023-08-30T18:44:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 5
 
 secured: "AEYUJ3gXBFZKB/DI4uiIN7RiDUmSCqlYMVte7yVMm2NyY5fv6Tx3i120X16s2QeOdCVJgaM7Aux/lsPfE2meWnl8egJCvSgKD/9HtoaBdOCDzs1PiB06Oc04W2fi1OFBW+5ZOzcwSy9LsLn6+dILy++Y1cKMArNr43W2aVSuiPqI2tDABz/7wvhd56ZSfza1PqgNZmT1JHPm6/9ZPMwKwHdZ0NosJIAtWO5Ad1OAs06jh6i/m8Hu0/6R8CXVNmmyiFfy5vxowCv2Af1nbwsygFlIUwmctzHCZ+dkhbzH/hmBxaZ0lWJAhrb6nDvmiQ1l399TTM1P1q1tyBLga0V8BvJTVCUbiqM+CHqiG0K4ibIH7lvpUQTugyvoPAPJ8WcK2CLRtLVBuy30EPqchKIZXAYW8G+5I6R3pTD3xcLec9/aeKvlG+O1oVVS+9LqrLSELYug2xQWrYe5Iec84NFaiUIOi9t47MPob1k47+1u3aYUmYlnDujR+qyeVFe/y0weQaCuAsjn06EUUQ+/Lz41HA==;wJTutPwiB9vyaC4MGLzoqw=="

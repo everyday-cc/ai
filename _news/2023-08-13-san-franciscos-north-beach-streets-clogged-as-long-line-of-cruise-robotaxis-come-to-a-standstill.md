@@ -1,45 +1,20 @@
 ---
 category: news
-title: "San Francisco's North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
-excerpt: "Just one day after state officials approved massive robotaxi expansion in San Francisco, a long line of the driverless cars come to a standstill and clog traffic in North Beach neighborhood."
-publishedDateTime: 2023-08-12T23:20:00Z
-originalUrl: "https://www.aol.com/news/san-franciscos-north-beach-streets-202029654.html"
-webUrl: "https://www.aol.com/news/san-franciscos-north-beach-streets-202029654.html"
+title: "San Francisco’s North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
+excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in ... programmed with artificial intelligence software, sat unresponsive. In one video, zeroing in on a robotaxi ..."
+publishedDateTime: 2023-08-12T20:20:00Z
+originalUrl: "https://www.latimes.com/california/story/2023-08-12/cruise-robotaxis-come-to-a-standstill"
+webUrl: "https://www.latimes.com/california/story/2023-08-12/cruise-robotaxis-come-to-a-standstill"
 type: article
-quality: 11
-heat: -1
-published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/e7220c3a960d4097dcf9a402eb9c8268"
-    width: 840
-    height: 560
-    isCached: true
-
-related:
-  - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
-    excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
-    publishedDateTime: 2023-08-13T04:04:00Z
-    webUrl: "https://www.havasunews.com/nation/san-francisco-s-north-beach-streets-clogged-as-line-of-cruise-robotaxis-come-to-a/article_76d6ff14-398e-11ee-9d84-67a94dcfb030.html"
-    type: article
-    provider:
-      name: Havasu News
-      domain: havasunews.com
-    quality: 13
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/58/b58bbad8-398e-11ee-9f97-9f987ba4074c/64d85710435f9.image.jpg?crop=1766%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "fpN6TX/YOVgfeR92YlPZj4OMnf44Rdieze/n5eBkZjXLS6ZhiK4MsI355yDwQ+O0pQVRivfZ917x2jwK07l4Pot+nWAMIAgFYvG+hZwid/fKk+ZXt2xfZAnzy6DCycAplpq5pw9S7DHyp/P+uuSa54aStrfA8dT+MNr/4wi5XrgxZ737H0phiPr1AqeIcvP/Y/wnUfBsuV13MiD6BMv+dP/W1fJ+5LEx4RWqKVYYyN/oATFCMqFxlGsozBzLdBgolsPpp7JsPx9+uq2Srgdfy3jUlTTbtmQU4wFNEDbkMtWqNHm2OXHGtA8Yk9mjPxG2W7jdpzCbOR+5EJLcS12gi0CDnISLkF85Dna7S7rCbm7iVz2VSMb2MW8ZEoq/DEPapY/d3c/gzuFCgYWny5Rbkmt5fwaAGSlk8IQuun+rPxNYg+MGD1ccikWBmLASUPZ+6VyWqxiQE80tGdu+W6PKGV1Yq/H5WWl+qGpMKo2qfTyWcTNoTncncEHaBXrCFYPdzTq1mwlkL8w4JWAGuCPMbg==;CFhteBTBaFX0cCxdoHb44w=="
+secured: "jn6xNvD64/7KLSQgfhNNrX1BN/JPb9UAEL3OlGvf9B76DD6W9rU8CknaQJY399f4J2faZfDtfNQJDEBXAvF5hu3zy+J68HiFtuTlOoraKgeHVzEfJw4yIAtF8b+7j95VHIjqwV4yvomLSU3ohpfmKJelDGYW7O/fj5wl5qM+1whpTCJLdQ1J39Wa+R+a11bV8QWFOaCpntKTjLgxk88uG+bfOhpcIoPCjzbhvCH1JbVZhCC5Ih5416cIke7VFYzwSaPqsN6kZbEsnlnXqdqDy9G3LOm4pwz4dVQxNO75uyggAlx5+CylywXKecn2z5pQb1pAKufPdM61N+RC8w5DgZcRXUBw5kFhqPzEgCX5khM=;rFscIa3R39nwGN1PGOl9Fg=="
 ---
 

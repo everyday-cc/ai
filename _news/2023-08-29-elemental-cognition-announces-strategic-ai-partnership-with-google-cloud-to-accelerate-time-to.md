@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Startup Incantio Announces Partnership with APM Music"
+    excerpt: "Incantio, a music technology startup, is excited to announce a new partnership with ... I am pleased to announce a new partnership with Seattle-based Incantio, an AI company whose founder is coming into the tech space after a long career in the music ..."
+    publishedDateTime: 2023-08-30T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34121382/ai-startup-incantio-announces-partnership-with-apm-music"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "tEcjFMI662wgBP1XhpwnfHnO5AipHtMJ0+y+0ShFfOTjIQ7PfBpLbvBzr6EkxjdaA0n9NmuUxOPL9Ok9/IH/7znNdTik3tNeeh/POj1qWXSdJoNOCOMuHK61Fy9coZSyHxPa+jNwe3yNATriiCgO/4hBJLVRwrJ8mQVcvzhvYTIHxLOndygSvLiwICTzxG/itVXU3yWxvywLdhEp6m96BOqbOixPjmJCgUz98jLyguJ/wbEg5yqtnXkNtLNQsJF/MYgttqkVRaxHviPkF3oOkDjJ5n9A5ShUkx+Pq/9yeMynsc/q+2xA7n0KEA1EoiIhcAG+4m9WtYzcAZdT+1k7irupKU4b3mup/evvzh1DppQ=;6DK+/uwwVruqX7+aj+93ag=="
 ---

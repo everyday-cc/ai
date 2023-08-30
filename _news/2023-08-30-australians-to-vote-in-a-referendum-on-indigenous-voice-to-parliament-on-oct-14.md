@@ -65,6 +65,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
+    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
+    publishedDateTime: 2023-08-30T02:32:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
     publishedDateTime: 2023-08-30T07:18:00Z
@@ -116,15 +132,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
-    publishedDateTime: 2023-08-30T13:25:00Z
-    webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
-    type: article
-    provider:
-      name: The Vindicator
-      domain: vindy.com
-    quality: 0
 
 secured: "iI7HeD5r4kPsAAKHMaqqGsj4iDl+2Yz5kV3Z9MlWAKxbmjJd4h9MqfaXQeEsVt3Prti1NrIQNZpVUCnJC8WRfbPJc4mx4R0qDX8QQDT2wcXpHubjHx/C7EL0yfEiAjxV0kUvps4/Z7B1NjscyECjD1pLc61/ZMxmQ0upsfnWI7M5TvCLwjBUVq4+Di70tVNy0JXFiYogZ4ng3LulZL0waXdsfehVKrIcb4LPH743e8NAmg6UZHksT8unjfXmuPKJAd7RO3Y2YuWpl92kWIrNwePrXQI8PArULcXUdK4oBxcAjBmgf/D0X9H7WWfeBf6DEnx6X2qJRtZxegDpxnaWU8O9n/q7blEQwB/jqaIllk85OQbyFdHA3pas4BAJ4RqUfGHX0aZrJjvWiaYYZhg59KZBajrkiHvYSw3Tur5kfSdhkVGW508I7+JamAY4TbhfsvNEwHwTzutXPpvfR8E4+njuycQ4k++2xhKERM/Pdn6XPiR4tNYWHeVsWtIL7WAshan9ZOfivOR4YsQ/inElvQ==;vx/po7bmmT8jpEkwno7Uqg=="
 ---

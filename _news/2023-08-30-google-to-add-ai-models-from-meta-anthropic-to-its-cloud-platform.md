@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Google to add AI models from Meta, Anthropic to its cloud platform"
+    excerpt: "Alphabet Inc.'s Google is adding artificial intelligence tools from companies including Meta Platforms Inc. and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
+    publishedDateTime: 2023-08-30T18:49:00Z
+    webUrl: "https://techxplore.com/news/2023-08-google-ai-meta-anthropic-cloud.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 21
+
 secured: "ylcHQuMZUMPmrOOHTeUAfciVR2XVKGq7RfiqJz+Yb12WSrEW2skZZcu651cMQQ0oXThi2/4G8S0/bAHfF/T4AeaoJfuaLWthqJO72hzEuG62xGFRT2J6N95nEJ359TvLmzneBq1zEtyP2cjZOxijRVDWKYtDTQznc3rb2ZxwSh/de2NglBh6XbvsUjOgRbwzJBtMCuq0O/TFwh4ob8MMZF+Fs8FENIZEfPy/5nHbNduzJA2LIugJfTxSi661RPRUmjVbgh4S5n6xOSqr6UWoELW9tDhzKLKAo3zjGEUD0DYYtgrrW8P47bV9zgt/aqfoCPWOMHnWWgXdGjgQ7uFJcT+a3eCDG/n27lEj5BCjFbI=;KTRsrUwt/ksiWClgD9C7OQ=="
 ---
 

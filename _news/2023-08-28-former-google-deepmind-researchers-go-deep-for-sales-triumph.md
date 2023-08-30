@@ -100,6 +100,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
+    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
+    publishedDateTime: 2023-08-30T19:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
     excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
     publishedDateTime: 2023-08-29T12:02:00Z
@@ -109,6 +118,24 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 33
+  - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
+    excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
+    publishedDateTime: 2023-08-30T16:52:00Z
+    webUrl: "https://siliconangle.com/2023/08/30/google-deepmind-unveils-tool-watermark-detect-ai-generated-images/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+  - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
+    excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
+    publishedDateTime: 2023-08-30T19:02:00Z
+    webUrl: "https://techreport.com/news/google-deepmind-introduces-synthid-a-watermarking-tool-for-ai-generated-images/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
 
 secured: "q+purN9ROwsqnoogUTQuu5MxSNFCHkoBaAhKQPqJLbsICco1KvFFiERAglGIwS+LUPHgEY+i0IacjSEVryDGaWJ7O7lmWEsIRNgVjbckzazEzHKenLnWpD8SAs1tbW5c+XdoOQUb7AnJ7LGHm8HAfq4jMcr70s19G03dyVY8SsrZ6hEjeIv1aa26yMLp1BU4nndhqCxl+H1MiLkiOgn516jHo9hDHmarjz6q7TZQfxY5vVD17qihG4lGoohqPXX6pEDBxXmZaKJIBV0x0TFH4hcrpXVAUyhDSwnHgQ7900GC7tgoD0Yq7Bc1KdRr8PtIK8le+oTYhCEhiiOLzTurj9KacTjOPTVOhq07P76ObAHH4aCcYrcRgC6DzpAR7yCaxFhovxJchcY30Ityo51iT01AMD0XYcH2iuJgT6SVcT5DpkZ7MP/mrSmjE5Ef1vHjCwXSIfn9PG1Yaw00LHEa+NORIHdoRUtz+pF0BFPEA+wDEJytFOgE2WinVe3S+j7E7uKPmmitZEziMdP+Q2VYQw==;WxEZcavIXhrgwCiCJtuHww=="
 ---

@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Chips Revenue To Hit $53Bn In 2023: Gartner"
-    excerpt: "Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4bn revenue opportunity for the semiconductor industr"
-    publishedDateTime: 2023-08-28T03:55:00Z
-    webUrl: "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner"
+  - title: "A new role emerges for software leaders: Overseeing generative AI"
+    excerpt: "Most software leaders will manage generative AI efforts by 2025, Gartner predicts. This has implications for their roles well beyond application development."
+    publishedDateTime: 2023-08-30T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/27/DNE_16084image_story.jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/ae8ee1007cd4508dc9e65f6cab3479980a6c23c1/2023/08/30/9c93be2f-7e9b-4997-bcea-4a067819ec5e/double-gettyimages-621856560.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
-    excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
-    publishedDateTime: 2023-08-27T07:13:00Z
-    webUrl: "https://menafn.com/1106966210/Gartner-Forecasts-Worldwide-AI-Chips-Revenue-to-Reach-53-Billion-in-2023-By-2027-AI-Chips-Revenue-Is-Forecast-to-More-Than-Double"
+  - title: "Generative AI dominates VMware Explore news"
+    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
+    publishedDateTime: 2023-08-27T21:35:00Z
+    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?342175"
-        width: 376
-        height: 250
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "Ei64p33RAUK4iMUuaM919gNwvEf8bI9qlqPgeLg0z48cL1+yP7Bs3OpLFU22+tyukczYnBiVhRYKzRdjBx1LYDU89hQ0F9T/QuA9jn6RmP0bJ61IbCfM4X9zKL+d9+jtMmSCJhlxuXfQcPye3Fvz+vqHii/cE8eP+lUFuNtz8TdqZGDrKkPiOxO7mddMOX8xGYWZx4VNWJrK2MlgtC3mcJWmCrwxXn5U7W8q/OnRhBmvLwcmFRpdV7Ut37izo5y1pb4yiIBgPzyFMXvQ3zpKuA+3v2OlL2BBkx2F1jetL5/soXZUujt3xwVIGPsDoS6qmZQC1K0uCLD0wmly42YE7xG+/+2BqtLYdqo4ZIydbMiTNaMBjoQMZk4uxFChOfLFc1HsStjju+RROMk5KPIiBgSmibBF8s89OR91i1uit1MTSF9mYf6FhpF+BMIxwNfh2yT/uWxNDzRFM+iPlZ6iD391RHUF0pLuD+9oj4qyXnNQVgM+u45EpER8zseRsqeo+2vqd/7wNc/6IvlG7t/5LA==;c2cfaZL/6+MiDlioL0K+OA=="

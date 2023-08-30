@@ -107,6 +107,33 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
+    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
+    publishedDateTime: 2023-08-30T19:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
+    excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
+    publishedDateTime: 2023-08-30T16:52:00Z
+    webUrl: "https://siliconangle.com/2023/08/30/google-deepmind-unveils-tool-watermark-detect-ai-generated-images/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+  - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
+    excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
+    publishedDateTime: 2023-08-30T19:02:00Z
+    webUrl: "https://techreport.com/news/google-deepmind-introduces-synthid-a-watermarking-tool-for-ai-generated-images/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
 
 secured: "jMJwDPZEKQgJBnlpYbOo9Wn+7LMFDeiweBTQ0ZLrdBxtfYYnfYKcSsx7fai/+JVEGS+C4RIVtUIrfFavZJ9QyljJ8P+K7yLr7DseBFkaDPdpkUDE7IAKAQiAtI9s1EtWz/jQwjUdsRS9vj+15jsoxPnBYI5EMrZXnz/sX4fbhYsCX5TkkvJ5ez+EQKsT9dzuw8o3jwpMU9lzGIFk1U80yOOAHvJqBufpYET6nRHmntJbXtzGHrQ1cTOKPLpgiU2Eh9HAKdYGQOn6Wjs1i1E/5KQ6Yg3qS8xV3yidzjGS8W3qk9VYK8UNA2mC02ljXAhxUHIUeKdfimS5qaHGu4dGZ2LDBEaE1mA1qfQuqbRdrh65ereS7eiMyONFiA4pac9GQyuC435Ri/E3qd1amugu+pLhvkx4Soh7MhZQwvSdUW5ngXUjMQA/Cm8D4xZp7NjyaSYk7SzWBhkXyKWeKCy4FTkAxW49O0y95VVsjj5X0isag6l3QGwUC/KQviklqFT3/DZKoG+ueKJHnImIAyqYNw==;oyLBJmTpDBYvexpNP2XyRA=="
 ---

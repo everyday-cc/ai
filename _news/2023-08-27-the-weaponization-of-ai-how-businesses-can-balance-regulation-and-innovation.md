@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The US Copyright Office just took a big step toward new rules for generative AI"
+    excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
+    publishedDateTime: 2023-08-30T21:02:00Z
+    webUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What’s new in Data & AI: Extend the reach of AI with data connectors and integrations"
     excerpt: "With a unified, intelligent data platform, organizations save on integration costs, improve their security posture, and enable more advanced AI capabilities. \nThe post What’s new in Data &amp; AI: Extend the reach of AI with data connectors and integrations appeared first on Azure Blog.\n"
     publishedDateTime: 2023-08-29T15:00:00Z

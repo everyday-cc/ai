@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
-publishedDateTime: 2023-08-30T13:25:00Z
-originalUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
-webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
+excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
+publishedDateTime: 2023-08-30T02:32:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+webUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
 type: article
-quality: 0
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: The Vindicator
-  domain: vindy.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
@@ -126,6 +134,6 @@ related:
       domain: aol.com
     quality: 0
 
-secured: "RvU2nzO8oT4mRA4iHrvknCoQM6Dgga3+6D8jqRcS9I+1aIYQVSs9d/Tw1F4z9vL29r8Ab7dpxMKW8FGag+ORPg1Ss7SwA8jGjm8vN9DS6ZI9BjJasRHGJ8K6PXfv3Lj64B1nC4T7P/iz9QLvjF96fJymldkFzjgmEDUhyfKPYNiTMG4z8yosl8jb6dBKN4uBUZNBg1sHxgrffFOY3Mx8KfSA7slI9fkRI4Iy9z+jnaEYS7ob8dschfBST9ePs6qcjuCb+vAYHglwwG2448vYeP03Suk6ivT9MCoKYoOvinmGOExrWJuPaFVWEVKODRWzxkqcBgfZvb3vfxrjI/DOklGGCf+ei4N4S4sHgE1qonB+aWhqe6BWf+/HRKYgD3tBbWQFeOljk1ZehkT+QMrblF37cTZ3JQpA2RZCZrYVfmAl+A4zTNnI1Bkat8z2R6PoNNjP1F9e7+rd0OMjUwjiKlL41/NlDUCBs4zxEIkNVYUEgqj8MtOvdMDyVgQ/EtjFSk8tOlmiIvGp+vjNCj1oMQ==;bhKbEcBGFqKZ7J+AJm9mkg=="
+secured: "yOSgRk6YDllbbbSryAh3MQuhcLkPEWSV9XvyvcpEtw6Tj4kmDSp0OTzgiKwBWRGZyu4CB7VekOQIH4tlrFvEYJVHT0uaMs2OmobYtN2TQJk35Ic/bqQVMaLqCTjifQXrG7kvCloZJlE12/GCfPUvELGzFRI/WIwbAa881oa6m49mLSTS4fKsjXZkFohR/ZJRpEr0y/N60G1Z+XA4ca+YwRSfcckQM6RJwz445lDYeEw+nv9+wZKqI3JXfZciKrClwOevPwqO1FfNdJmJAarKzXskWaKAMQ9DDWpoDad6OVWJdP4iDomrl3FzNTdlwlH1l1YnA1YOByiTlNqzPXcy6jyfWdTNt8nApEhky3E321c=;Di8cTM4yCXwOo6TAdd+uhQ=="
 ---
 

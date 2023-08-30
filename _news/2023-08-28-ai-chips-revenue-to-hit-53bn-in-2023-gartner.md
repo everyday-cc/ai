@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023
 webUrl: "https://menafn.com/1106972349/Ai-Chips-Revenue-To-Hit-53Bn-In-2023-Gartner"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Mena FN
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Over Half of Software Engineering Leadership Roles to Demand Expertise in Generative AI by 2025, says Gartner"
-    excerpt: "As such, SWELs are advised to collaborate with or establish AI ethics committees to formulate policies that guide responsible usage of generative AI tools in design and development. SWELs play a pivotal role in identifying and mitigating the ethical risks ..."
-    publishedDateTime: 2023-08-30T09:33:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/over-half-of-software-engineering-leadership-roles-to-demand-expertise-in-generative-ai-by-2025-says-gartner-80288?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 40
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2017/08/Engineering-student.jpg"
-        width: 599
-        height: 420
-        isCached: true
   - title: "Gartner Forecasts Worldwide AI Chips Revenue to Reach $53 Billion in 2023 By 2027, AI Chips Revenue Is Forecast to More Than Double"
     excerpt: "Dubai, United Arab Emirates, August 24, 2023 — Semiconductors designed to execute artificial intelligence (AI) workloads will represent a $53.4 billion revenue opportunity for the semiconductor industry in 2023,"
     publishedDateTime: 2023-08-27T07:13:00Z

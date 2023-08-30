@@ -116,6 +116,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft enters partnership to build AI for large datasets"
+    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
+    publishedDateTime: 2023-08-30T19:58:00Z
+    webUrl: "https://washingtontechnology.com/companies/2023/08/microsoft-enters-partnership-build-ai-large-datasets/389873/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 54
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
     excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
     publishedDateTime: 2023-08-26T19:22:00Z

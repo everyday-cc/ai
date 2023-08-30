@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
     quality: 85
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64eba97becb16c5423c6d0b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The US Copyright Office just took a big step toward new rules for generative AI"
+    excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
+    publishedDateTime: 2023-08-30T21:02:00Z
+    webUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -64,6 +64,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "UK invests £13 million in groundbreaking healthcare AI projects"
+    excerpt: "The UK is making strides in health analysis by earmarking £13 million to fund groundbreaking healthcare AI technologies"
+    publishedDateTime: 2023-08-30T09:07:00Z
+    webUrl: "https://www.openaccessgovernment.org/uk-invests-13-million-in-groundbreaking-healthcare-ai-projects/165714/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 34
 
 secured: "jhjIpOFMLDyuY6timUNNJlruppxYPhfafqj3ho7A9OjjuxComIRma/siJ+w/RyQ8Ii+vjsDRBneOijWCsU6YedyPa6BAMlp5wFF3fcOgCEUkO2lOtSI66apUgrhyXTRSv3f6UJmXPOBFa0vhmutoXksQ4du8HkUCzDbakwGhnQgNxADhh/hPGLPPLy3mXCw4uGlA0YGjIcIXcrEMrU4n40I7GdboqWKoUzCtgRVTfEbCq8c/cvSa2Kqkp69VAGZ2/TwJeQh3fpfGaxSdwAAI7NjO/riiEoxPYO+f/NKnqFMZWSnGHewox+ZVVWTKIktURwnQwHxDMtLOkBSjuhzokY3Ek9wYQBP0ryylTv9gDmA4LaeCjmFpfn8N2JPPZrCH6bA9mzGAhASraHQ0TDyiwatbyLMzrjaKqfaJq31E/+lpu28xFnhgyQtTEkG50XzDcEfZj2NWkmK/DdeBlN2qvSxR51YzOcUloHE/MXbD+iYFp1X8WZoZHI/jhDaZCBOTtahRjdBDrcRcJK3JUxAahA==;mzlnNV4aRwKVxdw0nc8Z0Q=="
 ---

@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK invests £13 million in groundbreaking healthcare AI projects"
+    excerpt: "The UK is making strides in health analysis by earmarking £13 million to fund groundbreaking healthcare AI technologies"
+    publishedDateTime: 2023-08-30T09:07:00Z
+    webUrl: "https://www.openaccessgovernment.org/uk-invests-13-million-in-groundbreaking-healthcare-ai-projects/165714/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 34
 
 secured: "eKjM3gPfPuH+QNc1lpI0f0S6IVrP02yo31K8XGrMEjRea3ZT3LZhSshSiv4ub0DLArF9S9hGF+CYg8aBhhGI5zPtXzA4LyL4IAQ8n7V6BvMv7mQhZGJYLja1l6jP89SB4NG6SmheWqrgiIUyq/w884T5S5cob3hpdLapBIzxKR/DhZu/EJnsCytXi6xlcvI6MYB1KNdTEEZSsIAOKFIKxE+5/Bkhd5Grhezuw9/3Kc9shToEK2lrq3rutJGSVPK2YE+K1gfGg0NkmV1i59hJGKohIikHKrpE38QdvU1hjhTfg2a87l9HKPbwO/PL8sBlHGAyDPkrnn4R2MGU+J4Gf3eztStxe2myMrXbXIOGE1I=;GRKkHT522jknxdrPL9aP6A=="
 ---
