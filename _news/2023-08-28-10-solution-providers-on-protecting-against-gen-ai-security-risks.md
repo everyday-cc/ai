@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/events/10-solution-providers-on-protecting-aga
 webUrl: "https://www.crn.com/events/10-solution-providers-on-protecting-against-gen-ai-security-risks"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 610
     height: 457
     isCached: true
-
-related:
-  - title: "Global tech leaders say AI can free up people for more productive jobs, warn against risks"
-    excerpt: "Speaking at B20 Summit India 2023 organised by CII, IBM chairman and chief executive officer Arvind Krishna said AI can free up people for more productive work and reduce cost for businesses."
-    publishedDateTime: 2023-08-25T13:24:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/global-tech-leaders-say-ai-can-free-up-people-for-more-productive-jobs-warn-against-risks/103066796"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 9
 
 secured: "YeicLsHi6q8cNiG0mioZnwffhTlDMZFe2PQJ9z6Uq2ZIzRtdDLvgvmjxrShYjFx1WWohbzEpkgzOfK65uvVfcHPHFbLsZUwSUdjZO3IYhj696cRfnDNZ7AnFGiJ5TmQbywMpunq7Os5N7DqViDgSaAdN+Y0XpSG1pmSodVTGhJH8gEdUfOaf7B6dUpbDmJG72BTCxaoQl2s9eLECp9saYFwP3jGdWwLh5/wnjNJaA0+UmfbuKfb4hOK+FXks62YvK4DBVF90ugbJqyrVwO5fj6bG/U7g9ePEkwBlTUAaAxoq7KoDfBpgk9gGsHWJ7ZS0Oqufay3tl7nSyhVb1TmoYITd8Id90mt/Wvq1BPaz5BuxsAufOSDqgKNsOlqodzR5Q0Korfngd9VyddwDFLt64Ko52j5gXsxIxvNKe9DAjGAFYQhkr9PWvQP+2gwHi0CJUQCzRfRNMDIV9NvQivJpcdOcHUjVExFvIHeRAJrt1g6efITbEbhQq+UdiyHW8i0EnekLPE9EF8rn0XuAsyvwbg==;nlcYaw2Ipchcskbc1BXr7g=="
 ---

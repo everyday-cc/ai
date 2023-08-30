@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "IIM Kashipur introduces digital empowerment and interdisciplinary learning"
-    excerpt: "IIM Kashipur, a leading Indian management institute, is dedicated to Digital Empowerment and Capacity Building through the National Education Policy for working professionals."
-    publishedDateTime: 2023-08-25T13:44:00Z
-    webUrl: "https://www.thehansindia.com/hans/education-careers/iim-kashipur-introduces-digital-empowerment-and-interdisciplinary-learning-818158"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 2
-
 secured: "kJsgUqW43t+1/Pq1hnc1SFzPgUPAq7HQUFBFCwZhlySwA8+JIoS0n8o1iwWTQpuCBGjgiQCb/p0EdkdzmbJtstsAji0fePb0ODBtJAi3kBYE8CWXK8btMFOxUJ7wSWEPvzDfyKhE4Njle+Q31YzdqHwjUP8yzFAmihju/xoucBzMgLelmRBn8y671XHkRvhHp+lJqMPYaoqBZZrlhDhQp9hJFvDCn0rXUcJwC6Xut8XsWIi1b9o8KZttLSvb8rrvDXwmmSzwmOSZcML1Pp5zh1KGp8pejYBEjdW0K9gj835nPq1UfOfFxVzeB5r2+sBbesC3Yq7KrEOkJmzo/w+whq3FX1IA9if17CHbQfhcI1k=;9H0x57J552U2+j9uUWwHQg=="
 ---
 

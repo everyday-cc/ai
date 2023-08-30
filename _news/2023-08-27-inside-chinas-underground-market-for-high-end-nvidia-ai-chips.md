@@ -87,20 +87,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Nvidia: A Moat In AI GPU Technology"
-    excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
-    publishedDateTime: 2023-08-25T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4631108-nvidia-a-moat-in-ai-gpu-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423708201/image_1423708201.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
     excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
     publishedDateTime: 2023-08-26T11:07:00Z

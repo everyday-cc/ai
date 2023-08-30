@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
-  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
-    publishedDateTime: 2023-08-28T23:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
     excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
     publishedDateTime: 2023-08-26T10:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In reversal because of AI, office jobs are now more at risk"
-    excerpt: "Technology disruption typically affected blue-collar occupations. Now white-collar workers may feel the brunt of changes."
-    publishedDateTime: 2023-08-25T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/"
-    ampWebUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "The evolution of photography in the age of artificial intelligence"
     excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
     publishedDateTime: 2023-08-29T19:15:00Z

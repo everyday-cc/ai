@@ -50,17 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In reversal because of AI, office jobs are now more at risk"
-    excerpt: "Technology disruption typically affected blue-collar occupations. Now white-collar workers may feel the brunt of changes."
-    publishedDateTime: 2023-08-25T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/"
-    ampWebUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "fUG7g749vJtOssVdDgr2jd1ayWrdd8N7GeCI+opmgUSHl+M1ppunYjiK4bqHWePUKUial9Tl7VqL3LYB5ci1zTNGKV+HNCkvmJGJpPou80G5ZpNIfQuKqNBS/k/oBCivnWniN+1mXUUGk7QpFUSxZxvOASP+ii+zXyHqnphJ2Wle/D/mwixTsbmfv9JYdstjbrvheqP2BZTU5RUB7fMdBlY5vOYbzmzWG+PNy3EyLsA+z4xrnyzi+gZ7wKvTx/waYU6UNLR2sbvH9UBzekpAcpKNPUlLVs3t0eBm+PBMJHOuzSoeWKQfKwWm8k9KZ5814lA76zlVjDpSvLTY+ZF9ueMPg5kKc0uv965g3EMN+BOWdZ4NlIW4X6PWwZ1Utj37o2tzkIBU8hOVdufnMpKM1qi3CTjZVBZZM4iTPhXaH/9q/oX0Go9Q5+oYYZtI426dnXo5q9IUlYyiAOd+E7BmWbmGdxLVXjkIonYcwDKoU9mYVylA1rFtsdaojyycG2aP53E9g0L6dtJ7YP9dKb/SZg==;MP/CMkl8D2LmNSE5pPiIaw=="
 ---

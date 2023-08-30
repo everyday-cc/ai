@@ -41,22 +41,6 @@ related:
         width: 936
         height: 445
         isCached: true
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-25T14:32:00Z
-    webUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.html"
-    ampWebUrl: "https://www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3705431/generative-ai-dominates-vmware-explore-news.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/vmware-explore-2023-100945172-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "KjgfLDT3jB9TT8edN+fi5IF68tGJh3KhXsHymBqklTzdiWrVI01yuNIffzk8YqzqbAgvjYH4W9u/mlCXQEjb5934flZ4gP1BcK83zithx/bSxnGCMCpSf7bWu/CZrU3L7hBYVt1T6EQDJ+iLtKupgDB3DKcFhuGHg1rVKb7SjyHiGdmMCuqdtwd0KonCYHErMRQuNgWw9r0WFXmzBmu/O9XxTaVpXNKptUrNwZ6ML/9RVoQcRHPCJtnDNELtILXAzGOhol2Dcsck/KBKylD4i0aHPC4IAYvPaukqYnm/rKphBNNmXEr/Jj2TawY1u0ET8mnJtmeAi6aaT4Gr4YqkNFkmK/6lr+ShqxqtZc6HOCM=;rbdf/GKNehH1YYRDNLXp5Q=="
 ---

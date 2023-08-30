@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/samsung-funds-irreverent-labs-a-startup-that-creates-ai-videos/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "Samsung invests in AI startup Irreverent Labs"
-    excerpt: "Samsung is investing an undisclosed amount in Seattle-based American AI startup Irreverent Labs. The South Korean tech giant is said to be particularly"
-    publishedDateTime: 2023-08-25T14:10:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/110559/samsung-invests-in-ai-startup-irreverent-labs/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/12/samsung.jpg"
-        width: 2500
-        height: 1403
-        isCached: true
 
 secured: "u4ZKr+voPzQ2PdFoWF7YcLRs4t4dDOlNU+0yIZ35100jpixJLTp2CwQ+1MeYZaEZaptHHlo4M0hSN2Y9G6BCquDXaj09Wl6gCMEW9PdQxU510YcPfNWTA+m1lglMwzCaYnVvPLzXIDqxBaK5b7TA2br7knoTCKtfij0HDW6yz1xkaRv4UgTiTRXyCRzfiy01xupfVb5l87QwIsSsbb2aWQYMjDvfpmwCr86Az83nQoWodctXSobJGvlPuTroYW4QzHx3yq1A/rHbkujNdlgB0J1evlZCvkMnmd11l0y6OD6e8fl8CsdJBd4AYY4MZQVwaaambAc6DtZvssXMubf+VWPLJOIZgXeAU5KtVTfKyi8=;21NIzn2+Qeze71wFYMvSCg=="
 ---

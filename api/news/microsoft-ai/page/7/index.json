@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-27-snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud.md",
+      "title": "Snowflake expands Microsoft partnership to bring generative AI to its data cloud",
+      "excerpt": "and leverage integrations with Azure OpenAI and Microsoft Cognitive Services.” Also read: Snowflake’s stock advances toward best winning streak in 19 months The cloud-based data-management ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "originalUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-572807/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "publishedDateTime": "2023-06-27T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-microsofts-latest-small-language-model-outperforms-chatgpt-with-a-fraction-of-parameters.md",
       "title": "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters",
       "excerpt": "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model",
@@ -1306,49 +1358,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-tdra-launches-initiative-to-optimise-fednet-with-ai-services.md",
-      "title": "TDRA Launches Initiative To Optimise Fednet With AI Services",
-      "excerpt": "Commenting on this development, Majed Sultan Al Mesmar, TDRA Director-General, said,“AI services on AI-supported FedNet are a great step in the digital transformation process, and an important element in enhancing the ability of government entities to provide easy and fast services to all customers,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
-      "originalUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/18/ENA(_0a521image_story.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

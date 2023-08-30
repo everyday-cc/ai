@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Multicloud and generative AI announcements signal new chapter in VMware’s evolution"
-    excerpt: "Part of VMware’s message is that in the new reality that encompasses generative AI for the enterprise and a desire to operate in multiple clouds, finding people with the skillset to handle a diverse infrastructure can be a challenge. The company is focused on making this a simpler proposition for customers."
-    publishedDateTime: 2023-08-25T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/multicloud-and-generative-ai-announcements-signal-new-chapter-in-vmwares-evolution-vmwareexplore/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Prashanth-Shenoy-Krish-Prasad-VMware-VMware-Explore.jpg"
-        width: 977
-        height: 651
-        isCached: true
 
 secured: "yWdJiunGLpN6w/pY02YHO0Kd6W86kZKZlClZeHScmyZUY7WZemxDq2RVvnbvsWvjNC2sLqZRbcdfNp2S+kvP3/f/nS3YnMBWIE/ZElZEdlKj0KbNFhsMWEcbKfl6A0mxdHLCdRdzjfeWAxFZotp8DNuh9/KAen6EfnmW4yJtUMKTBGQHV+0QFwv9zR8VFw6i/4RCPUZuy506ekrfB59AYuoak9KG8HYNnqBNHe2d6/rWVEI69AuB63JntJrmShobEGDOu3jNmdTc+iS7mGT7boajB+FALxvV/sk6tOEa4Rbp81jah6mRV9DmQd3V+i0yXNh+ymxAoeazKu4kbyL3yM0zSDZSYuQfQ9tkaPJoamc=;9LfaX5CqbdNST0CUcDW/xA=="
 ---

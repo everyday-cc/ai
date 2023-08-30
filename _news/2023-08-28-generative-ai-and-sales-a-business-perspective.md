@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
-    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
-    publishedDateTime: 2023-08-25T14:15:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 18
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "0fCdBkNOO6eX+1pwOdiSFh2HxPXFNxtGA+EdDdy/M2iiNxUpfSURiRJjOLC9ktyNLBTsY6JQxkXnjTXI2uR7dVaVqtKLSfK0FR8Gm0BcWaB+Xl8ew/ipXqCO74ZMTn5EZfTK/g9i52IK9sd2qy3dE9yPucRLBiy+zWlaPgkRpS18dLtHxrNx8OQcCpzCNvNwRSGAvJ3CxSlbAazP2pAIz5ecFejdvT35QTdgAa42Zv19gy3Ju6QPEsG8sN4pYWxKnO9XJ1CWUR/O/KuiG2TRLe/bR1rNLYQz3WohN7jthSm987JU8vMON4MLbebzYn/QRGAIQp6rz6waJkwVM9BLXW5uEfTyLl6yQ7VM6oOj1vO0hJGBCWcVo9HPdBKCUA0RFc5ZBtnapFztX1m3u0sfvz0Ib3vgQCHrPNV4/0IiPAiA3vLVQt8ckkGVRjFZXqSVfKNNgLT1syrHZCEEiZ32O5j1PAxg5fUqqrwu9zTGJr9aHZkVfOIItzmuWXGVHu0Z8RxXzC9aUqYmJdxyjsPBkg==;DLVwkfMT6iwYxRIhj32Esw=="
 ---

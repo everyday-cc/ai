@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Multicloud and generative AI announcements signal new chapter in VMware’s evolution"
-    excerpt: "Part of VMware’s message is that in the new reality that encompasses generative AI for the enterprise and a desire to operate in multiple clouds, finding people with the skillset to handle a diverse infrastructure can be a challenge. The company is focused on making this a simpler proposition for customers."
-    publishedDateTime: 2023-08-25T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/08/25/multicloud-and-generative-ai-announcements-signal-new-chapter-in-vmwares-evolution-vmwareexplore/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Prashanth-Shenoy-Krish-Prasad-VMware-VMware-Explore.jpg"
-        width: 977
-        height: 651
-        isCached: true
   - title: "Unlocking the Potential: 3 Things to Know About Generative AI as a Partner for Today’s Legal Teams"
     excerpt: "Legal technology providers, from e-discovery to legal research, are developing products that start with secure generative AI platforms like Microsoft Azure OpenAI and then use their own data to “tune” it to better reflect the nuances of legal work."
     publishedDateTime: 2023-08-29T13:53:00Z

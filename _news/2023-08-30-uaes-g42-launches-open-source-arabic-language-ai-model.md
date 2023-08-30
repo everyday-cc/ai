@@ -1,31 +1,27 @@
 ---
 category: news
 title: "UAE's G42 launches open source Arabic language AI model"
-excerpt: "Aug 30 (Reuters) - A group of engineers, researchers and a Silicon Valley-based chip company collaborated to release advanced Arabic language software that can power generative AI applications. The new large language model called Jais contains 13 billion ..."
-publishedDateTime: 2023-08-30T05:40:00Z
-originalUrl: "https://www.reuters.com/technology/uaes-g42-launches-open-source-arabic-language-ai-model-2023-08-30/"
-webUrl: "https://www.reuters.com/technology/uaes-g42-launches-open-source-arabic-language-ai-model-2023-08-30/"
+excerpt: "(Reuters) - A group of engineers, researchers and a Silicon Valley-based chip company collaborated to release advanced Arabic language software that can power generative AI applications. The new large language model called Jais contains 13 billion ..."
+publishedDateTime: 2023-08-30T06:06:00Z
+originalUrl: "https://www.aol.com/news/uaes-g42-launches-open-source-053441294.html"
+webUrl: "https://www.aol.com/news/uaes-g42-launches-open-source-053441294.html"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/X5pL8idXd2QUZ7gHGHLPx8BhwiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WM6BYDFNLFKEBGC54T2SBWZMVY.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media.zenfs.com/en/aol_reuters_29/ee1ee32ee8fcd61a15a1a915cce01619"
+    width: 800
+    height: 418
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "hs0bGSz4agDTAwk0wF3+4p/ltFGagALXQCwefgtelIQi5xzur0hQZFIOIA3NFZVuXBZVdcp0CFxIM/EQR3LGigFWboqsqbeL7tHNTiQY2Yd6WKzqCZGQ414jVqkCZHfS3yUAqH0m4f1UodHeC59h7fLIAkPkZYhJmHCxWiTjQP37X9nI/UDpqa3WSqLKf88fw7tQkNjZa+JRTshsbXjzNg+SJ2YsRfa7cI+IhGLL9xYbUeyHYVVtsJowqaikugMHDVOV7RnqGVLY8zKksrR31WG8C1lJclF0xMkFZw6tCtcuvg5Y+g3lPT1ylPNl427iTGLrDYEXYOdax/7SMXmFH0pFOJwBAvvNdUtPsif/QUo=;KZwdFX+dootLgv6/2BiI4Q=="
+secured: "/n3vkG4qAXPMLDkxPLhP4hgm1faaK/FRNU2qsl4dfZasoBO2U0Nw87x1UfTCw9CJH1/FJmYnsXoLYFRdXojCC/HV3VRIRaanbbkjJyu09kZMn/cZK+B2QhbxNLAObwog2Rx24tK35NpKP2a8VMVSqFyorJ6aylj+IRUvHQYlnZIuI9C+uFh/b+E4PPfP5xIrjInzqzycm1zksYqhhXx757WV2XuucVK9SM1rmwxXIS3U9fozW8XwnpbkpiHGst1R3jBg8f3ubJqRS7p2rtGXs60Y4CNsjUTtR0GdPtGQaxQiaB33iEptzpW8ZXQLG3WRwMisXxgPrvT957znZXIekjQwQHx7vLMZ1DUPWx7JlGA=;sI4OFkRDSkDvRHPBRRwP+g=="
 ---
 

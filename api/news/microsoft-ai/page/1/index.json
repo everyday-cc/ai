@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-30-tax-and-the-future-of-artificial-intelligence.md",
+      "title": "Tax And The Future Of Artificial Intelligence",
+      "excerpt": "John McGowan of HubSync discusses artificial intelligence and its role in the tax field. This transcript has been edited for length and clarity. David D. Stewart: Welcome to the podcast. I'm David Stewart, editor in chief of Tax Notes Today International. This week: Friend or foe?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee492b71e0e620574af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1190,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-08-29T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-microsoft-officially-adds-bing-ai-chatbot-to-google-chrome.md",
       "title": "Microsoft officially adds Bing AI chatbot to Google Chrome",
       "excerpt": "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -340,7 +392,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1402,40 +1454,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up.md",
-      "title": "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up",
-      "excerpt": "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up",
-      "originalUrl": "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33910068",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068",
-      "publishedDateTime": "2023-08-18T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

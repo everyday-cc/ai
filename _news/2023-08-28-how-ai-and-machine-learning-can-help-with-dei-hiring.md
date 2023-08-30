@@ -28,15 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
-  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
-    publishedDateTime: 2023-08-28T23:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
     excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
     publishedDateTime: 2023-08-29T12:20:00Z

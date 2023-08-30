@@ -129,20 +129,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Work Activities in Agriculture, Retail Trade, and Wholesale Have the Potential to be Transformed by Generative AI"
-    excerpt: "Responsibilities for the use of artificial intelligence in general have been regulated in electronic system operator regulations. While specifically related to generative artificial intelligence, the government is currently reviewing ethical guidelines."
-    publishedDateTime: 2023-08-25T14:15:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/08/25/en-aktivitas-kerja-di-pertanian-perdagangan-eceran-dan-grosir-berpotensi-ditransformasikan-ai-generatif?open_from=Section_English"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 18
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/qFSW7Mhm1PA2k2bqmQbbUT0Wn-s=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F25%2F65600979-5135-4598-8a82-44f495816b36_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "vrDrROy9rAUmchTLQuvy/qTu3YiTpqKfAm5iHwmgYBpeSOi5NBouIIa4+vQAaUCAXQPaAZGLtGCBeFJjqr9QJ9S/0I09WAYfOBrqCxfGtHFOnE8i0z1Q+1j+OgDjaXsTAmfMBd928esY8x1dgae4WNTjj05QuIdaVStblV3kk0umvIk5H2r70vXFRVl+omYijeO3hoW5RNLe9nszmz7wAMMs6E5i3VXh1eyiFexxsOSB2wIhtzx6XtR+cjveOiktV7rp29IsYgTRu+Pv6RMaEZ/7tm///rso/xVrQ57+HcJhR8FTCqWrNckCXLqXnvHC1viPqXdGRIV2X06m0pk9619GJ6ybmm+MYgvA/fYAa1Ya3FCgVsits/jZj2qMJ0p0Je6bAHQ+60aVA2aUgEHSOLydKIA8e+QZ0xbcwwumoYRBr/D+k5aMTczgKrX3Vt63e2Il3juLTbVycqqmhylx4xXWYvnSKFHrBFlkJY627mGlZWmSKN8wumh1318SYmDsKHriRDggxyaEzo0Uj8Vhjg==;jnUD7PRFdyYQUdeBG4c9UA=="
 ---

@@ -2,28 +2,28 @@
 category: news
 title: "Brazil robot helps farmers scout, spray and protect crops, developer says"
 excerpt: "Brazilian agriculture startup Solinftec plans to accelerate deliveries of its farming robot in Brazil and in the United States, CEO Britaldo Hernandez said in an interview, in a sign of growing demand for \"precision agriculture\" tools in two of the world's largest food producers."
-publishedDateTime: 2023-08-30T05:33:00Z
-originalUrl: "https://www.channelnewsasia.com/business/brazil-robot-helps-farmers-scout-spray-and-protect-crops-developer-says-3733081"
-webUrl: "https://www.channelnewsasia.com/business/brazil-robot-helps-farmers-scout-spray-and-protect-crops-developer-says-3733081"
+publishedDateTime: 2023-08-29T20:19:00Z
+originalUrl: "https://www.aol.com/news/brazil-robot-helps-farmers-scout-173341552.html"
+webUrl: "https://www.aol.com/news/brazil-robot-helps-farmers-scout-173341552.html"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--RotwSd7o--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-29t173341z_1_lynxmpej7s0rc_rtroptp_3_brazil-agriculture.jpg?itok=r1iVk5XX"
-    width: 1200
-    height: 676
+  - url: "https://media.zenfs.com/en/aol_reuters_29/9645ee4318fa5925e7c18931f58df69c"
+    width: 800
+    height: 400
     isCached: true
 
-secured: "fXW18sDb9q9buRv/wa10Nb0XhUG+345G8xdJ2VWOMXw/MR9WtN8EsmwLPN8t9XLMk1cz6rKcCCQOM2bxCbajGrUhWt6hjFkStYzIjAfisj53qUeExWNLOcbJNBfpthV2ZjihwhjupMazXce93QG5tzpiRcMcMViGcfkrbvJ30OtL8vZ/LRid9dcAv4u2h579HC0S8wXi0hB0XfZd+6LxmNYt8kkUZfsT03QSHoanxA1MQMlirbDNwNRk/17zXJWntlQSXmC2LBiTuigG3vnchDllAbFqu1zKJ687WCojkHgihE3xn4Qfv0edjINXJwaCNky/snMFPJZcPz/Vjhnt/HTRZqeR35MT/zzKdmoRzPk=;mQGMxr6lctVfALAftjPAew=="
+secured: "j8n7cMRLXnYdg8iVy/tsEqeQD85jmaB2sgl55Ip2xPrG7V6UmIdDA7Grr0qPDIYiPv5lcMsw39MzxD99frrzUlII5s574Q3idw3JN9ORaV4kZuNPvHne0fAj0LXob7qP3sU/AWiBC7JSkgSGCoQgDovXCeZwnoIN4vEEL3kIroCnPrQIadyMUHtX1tjiOMELv1mrN2PEMB0wQED4fhXm3TgulXLy0D7rdAUfwjU3WP67NzV4vuoWdqFbrj8+ZlHi5eMtRpQtskqj7ZuDb+MZEu1ERr86USby3vf/z32R3FYzzH4R5EdwqFh8t5SagzjY5AxObKPDaaPmrXL/430HyHLRbXzqrlQi+O4iE7cu46U=;ijj9f2kSqrSIePrs0sphjA=="
 ---
 

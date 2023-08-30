@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
+    excerpt: "It means nothing changes,” Albanese told 400 Voice supporters in the city of Adelaide. “Voting ‘no’ closes the door on this opportunity to move forward. I say today, don’t close the door on constitutional recognition, don’t close the door on ..."
+    publishedDateTime: 2023-08-30T06:09:00Z
+    webUrl: "https://www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 44
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14157329-a917389ab96245a7b6cd5b9e1eb6e1a7.jpg"
+        width: 760
+        height: 508
+        isCached: true
   - title: "Australians to Vote in October on Creating an Indigenous ‘Voice’ in Parliament: What to Know"
     excerpt: "Australians will vote on Oct. 14 in a referendum over whether to enshrine in the constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
     publishedDateTime: 2023-08-30T03:30:00Z
@@ -55,22 +71,52 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
-    publishedDateTime: 2023-08-30T02:32:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
+    publishedDateTime: 2023-08-30T07:18:00Z
+    webUrl: "https://www.aol.com/news/voice-referendum-australias-voice-parliament-041838760.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 30
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0f9a98c041f5fc27109c8cb19dfb70e2"
+        width: 976
+        height: 549
         isCached: true
+  - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
+    excerpt: "Advocates such as Pat Anderson, one of the architects of the Uluru statement, say enshrining the Voice in the country’s constitution would provide official recognition for “the First Peoples of this beautiful continent of ours.” A poll in April ..."
+    publishedDateTime: 2023-08-30T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/08/30/explainer-what-s-australia-s-plan-for-an-indigenous-voice-referendum/d1eebdd6-4700-11ee-b76b-0b6e5e92090d_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FNDOYCHAAI65N3LBNXF5EQJBU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
+    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
+    publishedDateTime: 2023-08-28T09:51:00Z
+    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
+  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
+    excerpt: "CANBERRA, Australia (AP) — Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+    publishedDateTime: 2023-08-30T07:27:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-are-voting-on-creating-an-indigenous-18337456.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "6Nm5ccER3WPw2ayzFO2mHCnkVlGffYgLKgPIDNM6PmoFALPGBB9cT9+x1KLuUfXIU7qxF2pW1Cw5xJGZFz/zDw1EZB3fuCrl93rhOJNV7xRTJnPHmNn0scZNmYh7pllFDMHCKVg6HL0tu4/W9kqRLmtOOUW+O6mBGXYqrdA2QecriQ5H8gDTNiHVVeY3I5Cf267x39BLqK+dMlSSwQilYmIR56tUVFEOaQRwlbS1pHranPul24cfaz+xgJBvyikyFs6IJWgf9HwuZWxRCp5yVAKmP2CUlFAp8onB5oUqwO+nIcbFIip3uqVM7QmYWjhmogO5QkvoUAg9UpgQ6udayMfFSj5ZIXXeFVEG7hWb0y0BdjfZw8S/IFlG3B1gfyBi2zr0SS9v2uIj8XK7KpvZvoxWSGDE6eO7O9k8JUje3+/zX9zxNI/otqZMFn0cCNyr5XAZyY+81S+QI4Pyg39TIBFQhX+d4rUbQRMLenflfKide7mch42JfR+OMZGxDMD0154GjMKU6J/0nPQ5/EGf0A==;v0w3QQQwcELXIsgCqyIs5A=="
 ---

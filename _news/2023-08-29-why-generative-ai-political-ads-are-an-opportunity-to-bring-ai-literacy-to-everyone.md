@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Why A Deliberate Approach To The Generative AI Gold Rush Starts With Your End-To-End"
-    excerpt: "It’s difficult to read the headlines every day about the wonders of generative AI and its potential to transform businesses. That’s why it’s important to start now—it takes time to create true visibility into all the systems spanning an organization."
-    publishedDateTime: 2023-08-25T13:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/why-a-deliberate-approach-to-the-generative-ai-gold-rush-starts-with-your-end-to-end/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
 
 secured: "pkoOUhfSTlD9urN59LXdFJxjTHXn78GNdNRoWH0CnvUaNpWzv8CZ5Rt5Udfe1Y3aPUq78vUuY1ANtRqm/mwPBVCrZJAOcdg/3vZByWxM3PIsUuvKZTY2ceIItfyO5UOSTnaiIsPwnHRH2sZHeJBywie5FnN5vJDwArb0CmGTbD55PHe5Tyx0aiXbojXY0qa/9ybBA6nmH01uFaJwac5P7v2JiSSHSjrSwaHswjF1/rv/6pEpYKHoiy4n2tDPjd/LwwrKE1xhfquLmQkDy805iZpxb3UlQXb5phf39rT3PLmMmaRuIqfwh/sNxRP0i9hpSGSBu5DOO49vRvgof44HnY9qkaKWvF6Di0wyqCeZBN8=;/0MCcXHGcEsO/tEBJQMCZg=="
 ---

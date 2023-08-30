@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65675027.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "Nvidia: A Moat In AI GPU Technology"
-    excerpt: "Nvidia’s vision is to power the era of AI and the metaverse, where virtual collaboration, simulation, and creativity are seamless and immersive. The company is a leader in GPU manufacturing ..."
-    publishedDateTime: 2023-08-25T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4631108-nvidia-a-moat-in-ai-gpu-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423708201/image_1423708201.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
         isCached: true
   - title: "Inside China’s underground market for high-end Nvidia AI chips"
     excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
