@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-syste
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "6 Ways AI Can Revolutionize Digital Forensics"
-    excerpt: "Artificial intelligence tools can automate the analysis of logs, video, and other important but tedious aspects of investigations."
-    publishedDateTime: 2023-08-29T22:57:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics"
+  - title: "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others"
+    excerpt: "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably."
+    publishedDateTime: 2023-08-25T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/"
+    ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc95e39a2bb031549/64ee7720367256112eaccd06/forensicsclass-dpa_picture_alliance-alamy.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 562
         isCached: true
+  - title: "In reversal because of AI, office jobs are now more at risk"
+    excerpt: "Technology disruption typically affected blue-collar occupations. Now white-collar workers may feel the brunt of changes."
+    publishedDateTime: 2023-08-25T15:00:00Z
+    webUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/"
+    ampWebUrl: "https://www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/in-reversal-because-of-ai-office-jobs-are-now-more-at-risk/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "The evolution of photography in the age of artificial intelligence"
+    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
+    publishedDateTime: 2023-08-29T19:15:00Z
+    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "7EKzVacWKithSrcybRH4XcMUTUATzYsGiZ7Ba/TE4NH9g3FLSdbeh4mixCfHoJlqF1y8NXXSnR1s0uxU5XAancuD2qB/vnntmhYpRk99TR5niv1YYAz5VqS/jAX5rm2FAKdCzxzSzJ2jKmdHFCr4P83bqPTR9VlJTV4Hq/7RFBdtScsR3s4HAOUPJRCtL7781uqxyB3yvZYjhKmjuKDwOooQ8jyemT8ejSpKMCgCa6gIWTu6fw6tAv3PZFLteYmYaT+veFRJb8j8DNc6bzrd08pKoxIM07sA53xA5nd+Xc/hIg6fccqTVDBkgqEPZXS801VG+YO9+VBI/xqTwhmgBwTLz4E5DWEVW5lb12stldw=;gsNQ/eA9Y0q3XLlf6W714Q=="
 ---

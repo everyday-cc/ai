@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-superglue-benchmark-challenges-natural-language-processing-tasks.md",
       "title": "SuperGLUE benchmark challenges natural language processing tasks",
       "excerpt": "Artificial intelligence researchers want to advance natural language processing with the release of SuperGLUE. SuperGLUE builds off of the previous General Language Understanding Evaluation (GLUE ...",
@@ -1374,40 +1429,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029.md",
-      "title": "Intelligent Speech Recognition Software Market Latest Trends, Demands and Advancements 2023 to 2029",
-      "excerpt": "The Global Intelligent Speech Recognition Software Market report focuses on an comprehensive analysis of the current and future prospects of the Intelligent Speech Recognition Software industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

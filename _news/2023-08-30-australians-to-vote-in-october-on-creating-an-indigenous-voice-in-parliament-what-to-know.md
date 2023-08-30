@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How an Aboriginal ‘Voice to Parliament’ Could Be Australia’s Brexit Moment"
-    excerpt: "Longtime racial tensions are hindering a push to add an advisory body for Indigenous people’s issues to the Constitution, an Aboriginal activist says."
-    publishedDateTime: 2023-08-25T12:31:00Z
-    webUrl: "https://www.nytimes.com/2023/08/25/world/australia/how-an-aboriginal-voice-to-parliament-could-be-australias-brexit-moment.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 32
   - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
     excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
     publishedDateTime: 2023-08-29T21:15:00Z
@@ -85,6 +76,6 @@ related:
         height: 668
         isCached: true
 
-secured: "w1DYsosAhl54nIE+0Vi6hjJ8jIN495Kiz86BCULQC1Y45LCwnuOV+nBRqbQTh+kf44dWhbz+6wgv9q9xq2E/XbhYA/yQMgnr0ccpmbPj+gHQ2X8KxndfciRZvlZTgmBBCFn23JARcz44rexFBsR4TR4YCoqel5C/XmcsjP3FvsQ3mTRoeNoDP7NvOGTgii30Hco6ugXBwT/Cf8WJGfdMlvBzKu2tWH3FomnyuPSvXWuDcIO5wNjWqkW7yWSVFnoSxw8USlsCJWjuPMZyG+qkePIJ0rXTPg5Qio6BbPFCEYQGC7kCQouTH4GHzE15wDT2Kzs5HmI9ATS2a9CxmgwR7926lf8I9j1bQpJgiMN6xX4=;AGP3ntqk2qe0QdCeuxBWyg=="
+secured: "Z6bB8m2PSV6X62aTQDZK+BsR6t6xcGw6EJJRzmlZ+ATCtHwA1wadsK4CNOtDqq7wt+V5+VPtnpe5Gf88KGM7Rokld/7txfeeVd7GPGfihRWSpOGXeJqnvUuGzunHcKmmtLqYb2SJAUQW4Mj1hkANhDmi+LKJToykNl1Mk5oh78IHb66iZ1AHi4VB1TxGgAf2KUnskHTLlw7u6Jb/nZ8e/wRJhdtEtuUv6tgUwSoAORnTOYrHQyqfPXabvYMDQ8hmpWu+j00PuhwZ5glWHawvmU+9ZOcUD+QTq4hHjr9L1fBhPXLMUna7tgACAfPTZcV7J3VrGH2VYuG3hrEpyi86AAMUyDlq/p7g7i0ImLLjq23bgByrsDXBOcNjYzElidhJTXzv/wwAzBeUVYz8zpC/RsEOU91Q4UwnKnnStGmwDCRFGj95Z6pQ6JbyDQbZnvDGEFpbAlq03zy2GQ4j1SGhK4ZsHj4I+eRx47IJYls2dy9v4GPRKAihIDsckM1LR1THnArrETtKXsmkpimjV+vJ7A==;o4MOwzv91P+HCSDoCdHkoA=="
 ---
 

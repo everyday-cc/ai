@@ -2,6 +2,165 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-25-inside-metas-scramble-to-catch-up-on-ai.md",
+      "title": "Inside Meta's scramble to catch up on A.I.",
+      "excerpt": "He declined to comment on whether Meta abandoned its AI chip. Janardhan and other executives did not grant requests for interviews made via the company. The overhaul spiked Meta's capital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106967400-1635454475297-gettyimages-1349800861-_09i3909_20211028115608799.jpeg?v=1682426341",
+          "width": 4639,
+          "height": 3318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
+      "publishedDateTime": "2023-04-25T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
+      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
+      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon.md",
+      "title": "AI Security Chips Market Overview 2023 to 2030, Future Trends and Forecast | Ambarella, Nextchip, HiSilicon",
+      "excerpt": "The AI Security Chips Market studies predominant aim is to collect the maximum useful insights for any market, for you",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-europe-zooming-in-on-ai-rates-and-chips-wars.md",
       "title": "EUROPE Zooming in on AI, rates and chips wars",
       "excerpt": "A look at the day ahead in European and global markets from Vidya Ranganathan.",
@@ -1262,163 +1421,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-chatgpt-and-generative-ai-are-booming-but-the-costs-can-be-extraordinary.md",
-      "title": "ChatGPT and generative AI are booming, but the costs can be extraordinary",
-      "excerpt": "AI Dungeon's text-generation software was powered ... It took about 1 million GPU hours to train. With dedicated prices from AWS, that would cost over $2.4 million. And at 65 billion parameters ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1682449783",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "publishedDateTime": "2023-04-16T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou.md",
-      "title": "The Week In Web3 And AI: Gucci x Vans, ALTS By adidas, AMI x ZEPETO, LVMH’s Patou",
-      "excerpt": "Following the announcement of its ALTS Web3 loyalty program, on Friday, adidas revealed mechanics whereby dedicated fans could bypass a random allocation of traits by paying to secure their choice — offering an interesting glimpse into the way the brand plans to further monetize the initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643c6d36379c9e1c160ab186/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
-      "publishedDateTime": "2023-04-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends.md",
-      "title": "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends",
-      "excerpt": "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

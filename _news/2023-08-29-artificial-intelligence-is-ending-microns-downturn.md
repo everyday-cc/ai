@@ -100,15 +100,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Exploring The Benefits Of EXplainable Artificial Intelligence (XAI) In The Realm Of Marketing"
-    excerpt: "In the ever-evolving landscape of artificial intelligence (AI) and machine learning, the concept of eXplainable Artificial Intelligence (XAI) has emerged as a pivotal development. XAI is the practice of making AI systems more transparent,"
-    publishedDateTime: 2023-08-25T11:58:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/25/exploring-the-benefits-of-explainable-artificial-intelligence-xai-in-the-realm-of-marketing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
   - title: "The weaponization of AI: How businesses can balance regulation and innovation"
     excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
     publishedDateTime: 2023-08-27T15:21:00Z
@@ -122,6 +113,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
         width: 1198
         height: 672
+        isCached: true
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
+    publishedDateTime: 2023-08-29T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Q&A: Uncovering the labor exploitation that powers AI"
     excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."

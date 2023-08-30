@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
-    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "AI in Genomics and Healthcare: The bigger picture"
     excerpt: "In recent times, affordable high-throughput DNA sequencing has ignited a revolution in digital biology, and more genomics programmes around the world are gaining traction. This advancement has resulted in a paradigm shift in which medicine has become personalised,"
     publishedDateTime: 2023-08-28T23:30:00Z

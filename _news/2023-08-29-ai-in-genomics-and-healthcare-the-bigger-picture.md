@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
-    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
     excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
     publishedDateTime: 2023-08-29T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "UchVfmlHAjzeC+sQtxNJUjSHCmBAEXanrYKlB0DJ/ZC/eX6WYX59UPZuSv2bPSCKHCmHK7l+cufUyqtS1iZJxmw79PIJFPwI6ROWsowxu+9AvSAFSFxGcC0K7h2VihbV1RIqnqZ4Bf/resWj9V8ymiQXeP20EvpE6ETSSCLhzRNmktd0+2j0MIJm780INlqPxurKBmXOhCBRM4CbUaED0IQvqgq14J780Tl1dqrU/118/fAyrx8Saaq1fn4KXPEa+Uc5ICUl2/el3iOvGS6TGTI8dVxvIBr8ewnYGB+ueZ3gBixboibjwR0I1J8k/dOJYZ4DOOqSCxCmsBhIsfPHGqHroJ4fdrON+BbTXFpBLGHXqoQZqYgCt80NAXIWStMJNf2YIYu84yU8YEKHU50o4B2HlGhyF4SfaJIsy5VXK3MqaJCM0xgnhHskOJMktFB8qM4QVXt0dtdYfDxoI0Yz4IqJKNE1mqvFzWZDs74v9h9BVxMsvVnT7rMqavgDwwXsEvyFCQULCgDAyDGh5PX7Uw==;TFixVPudMEv25vQbwlqGHA=="
 ---

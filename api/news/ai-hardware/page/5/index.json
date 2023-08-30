@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-27-heres-why-im-glad-nvidia-might-kill-its-most-powerful-gpu.md",
+      "title": "Here’s why I’m glad Nvidia might kill its most powerful GPU",
+      "excerpt": "There has been a lot of speculation about a possible Nvidia RTX 4090 Ti graphics card, but it might not be happening. This is not a bad thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/12-pin.00_00_27_21.Still007.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
+      "publishedDateTime": "2023-07-27T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
+      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
+      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "publishedDateTime": "2023-07-27T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb.md",
+      "title": "Lenovo Unveils New ThinkSystem Storage Offerings Targeted At AI And SMB",
+      "excerpt": "Lenovo introduces new ThinkSystem storage products: the DG-series, a QLC-based array blending capacity and performance, and a new DM model for SMB market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1961fe0a59bc2a216a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "publishedDateTime": "2023-07-26T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-ai-can-now-help-you-plan-a-pc-build-thanks-to-neweggs-chatgpt-plugin.md",
       "title": "AI can now help you plan a PC build thanks to Newegg's ChatGPT plugin",
       "excerpt": "This AI assistance needs to be refined, but the plugin shows promise for helping PC building beginners and veterans alike. The Newegg PC Builder ChatGPT plugin is currently in beta and only ...",
@@ -1320,153 +1476,6 @@
         "name": "Android",
         "domain": "androidheadlines.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-us-chip-curbs-are-scaring-venture-capital-firms-from-chinese-ai-start-ups-but-not-us-says-bluerun-ventures-china.md",
-      "title": "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China",
-      "excerpt": "AI development in China could be difficult in the near term, but that problem can be solved in the long run, says BRV China managing partner Jui Tan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/8f1e3339-b200-4c6b-b21a-a339874b9e78_5cd8012b.jpg?itok=Vbg9QfnX&v=1689851292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "publishedDateTime": "2023-07-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market.md",
-      "title": "AI, Big Tech And Blue Chips: These 3 Charts Signal Shift In The Market",
-      "excerpt": "One of the most popular ETFs investing in AI-driven equities, the Global X Artificial Intelligence & Technology ETF AIQ -2.75% + Free Alerts , fell 2.7% in a single day, marking its second-worst performance since the start of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/editorial.benzinga.com/wp-content/uploads/2023/07/20161847/DJI_2023-07-20_21-40-00_e63bc-1-1024x875.png",
-          "width": 1024,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33312274",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33312274",
-      "publishedDateTime": "2023-07-20T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient.md",
-      "title": "TSMC delays US chip fab opening, says US talent is insufficient",
-      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) was supposed to have its first Arizona chip factory operational by late 2024 but now has confirmed significant delays. Primarily due to a shortage of technical workers with critical expertise in the US, TSMC projects to finish construction instead by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1245437477-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
-      "publishedDateTime": "2023-07-20T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

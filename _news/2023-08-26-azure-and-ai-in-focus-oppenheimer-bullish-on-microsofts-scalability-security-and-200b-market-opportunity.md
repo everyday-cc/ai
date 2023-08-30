@@ -2,21 +2,19 @@
 category: news
 title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
 excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ..."
-publishedDateTime: 2023-08-26T01:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
-webUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
+publishedDateTime: 2023-08-25T18:59:00Z
+originalUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu"
+webUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu"
+ampWebUrl: "https://www.benzinga.com/amp/content/34045380"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380"
 type: article
-quality: 97
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -24,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg"
-    width: 1024
-    height: 768
+  - url: "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop"
+    width: 799
+    height: 533
     isCached: true
 
 related:
@@ -99,15 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Cybersecurity: Unlocking Benefits And Confronting Challenges"
-    excerpt: "AI-powered threat intelligence platforms aggregate and analyze vast amounts ... blocking malicious IP addresses or quarantining infected files. A healthcare organization may deploy an AI-driven endpoint protection solution to detect a malware infection ..."
-    publishedDateTime: 2023-08-25T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/artificial-intelligence-in-cybersecurity-unlocking-benefits-and-confronting-challenges/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-08-28T19:37:00Z
@@ -118,6 +107,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "VLgZB/WVdGs6Kn9ynSBuqx241LOizITq1zIqXqpcGipPPo2x6KSwmqbQpmdzLL29BVil4G9KbpT8Gawtw+FHRtf7/4naBflwlBSrK+4OTe7A0cLqcdcqc/wkJlI0N0nXBj1LBf1PYfvfrGOPX5jz/UrCv3tj2A53kH1/TkMhBvNxegLC2EMRZN0XoGgHQl40L/yiLvhVf5pz+psBf19QZF5pNa+ML7wrd8MgCD4AW5GcZJZafOFBTQRm9jgQP3E6Pw/BaEDBTzVSzG7FlWyY2d5K5mThGjDH/Lxl6R4LztxWklrX0kMwoGDiK/X6DheQ+p+fFHCluQC83VlcIA7vf0cDpECOeDDOvsKqxHHdYkw=;ptvLYQBNDWhzbaRqEu51Qw=="
+secured: "8QLPW5FBIJtcXxqdWCzyWSyCPMgHAIsCDz4jYZu85Pg+lf5O45HXxb7Q4jXHaxxSAouHrWcYuQfY00cMKbtt/LKMm16qh4JztnBCtaJak5k5ggSk7t4KwNi2daRidUy7rPbomDNmlm8xxnDRv2af+Ng/TwhY3N5lAY6CSU2hrBXITLQufxdixXay4Sx2IXsZ29yA26semA5Lq825rUNj8yNohMpYyzzjJIcKOJYhOAa1Ll1PAQPW9tieLlZ9RDrxvXMK8ZDCwxJfjikCujN4sWlqsrzxLW6zvkAhPOEtQoq5o95YfSjXwlD10hGoNDfkF+mcFhTQR+mDW4jVZ8bHHKe3pNvAsC9THRnYgP4lAb0=;ArEJImPz8I6q5vHhmhrfRw=="
 ---
 

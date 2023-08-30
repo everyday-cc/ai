@@ -100,6 +100,15 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
+    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
+    publishedDateTime: 2023-08-28T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "msOWlgCqVa0w7gErlRL9E4WT3vGjmz5OOEqiorcho6Taf7CjfCWcfL9wuZOMHQO/ppaC1EmixsFOGlIPrbedj45KnI4CROou31AuYLj6V7qTfwU2Ws7MtLsAPOmH4JVvgLuZL7g2LaprcwyZq7i5l0mpAQIxhSqWUnVo9+vx8FZIo5wmqPEi76nw4ncdohusxRHJORVnN1zRQGIKf4hUVGyy2cRIc7PVvKpg9e2a+O8h3vEVj1CpZzmR+8KGOKeRSseqovYTmpzw4TSs+Fs/Pu3UwZRzCyzwWWlBsj7+AEjEyFpCn53E2t7I2A7OaTlzZDFfTCbIHjakk6tmKLVD0oIpwYSj+63cOAaSUoFIafc=;K4LogfB/MW52hH8lUvymaw=="
 ---

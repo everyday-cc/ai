@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Microsoft unveils blueprint for India on AI governance"
-    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
-    publishedDateTime: 2023-08-25T11:22:00Z
-    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
-    images:
-      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
-        width: 670
-        height: 476
-        isCached: true
   - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
     excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
     publishedDateTime: 2023-08-29T19:35:00Z

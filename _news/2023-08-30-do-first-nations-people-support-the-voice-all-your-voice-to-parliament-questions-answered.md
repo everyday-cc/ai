@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "How an Aboriginal ‘Voice to Parliament’ Could Be Australia’s Brexit Moment"
-    excerpt: "Longtime racial tensions are hindering a push to add an advisory body for Indigenous people’s issues to the Constitution, an Aboriginal activist says."
-    publishedDateTime: 2023-08-25T12:31:00Z
-    webUrl: "https://www.nytimes.com/2023/08/25/world/australia/how-an-aboriginal-voice-to-parliament-could-be-australias-brexit-moment.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 32
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
     excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
     publishedDateTime: 2023-08-30T02:32:00Z

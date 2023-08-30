@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Microsoft unveils blueprint for India on AI governance"
-    excerpt: "Tech giant Microsoft has unveiled a blueprint for India on artificial intelligence (AI) governance, and proposed a regulatory architecture to oversee safety protocols, according to a whitepaper released on Thursday."
-    publishedDateTime: 2023-08-25T11:22:00Z
-    webUrl: "https://www.rediff.com/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    ampWebUrl: "https://m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-microsoft-unveils-blueprint-for-india-on-ai-governance/20230825.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
-    images:
-      - url: "https://im.rediff.com/news/2017/may/04ai.jpg"
-        width: 670
-        height: 476
         isCached: true
   - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
     excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
