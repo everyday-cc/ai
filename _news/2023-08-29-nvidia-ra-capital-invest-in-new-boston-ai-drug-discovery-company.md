@@ -46,20 +46,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
-    excerpt: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
-    publishedDateTime: 2023-08-25T09:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/25/cathie-woods-ark-invest-thinks-apple-alphabet-and/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 48
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/745174/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
 
 secured: "b/w0n5KczjY/LtcqsxbvbAnl7lrpm4+JRQ2dPH2dVADMUldWk5BRkWP3GP8dPBI1kDlyXqfIAmf8xSaLJefwdGajUYuQ1JXsN2ao6XcED5VgtCs9c6p+LCHuPwocRAeb41EHeq13whXnqtFejhKv4LPt3WmZTdt/5xsL/JHm6BkjNecHYYr0r6scmbih/ubZX6/vAW+VRwkgx8FLqLzdtpHoOmPYB5hW8CX3TKEtZbBBymlatq0hIeBA28kGQoCrSvwZ5ZsxUh55UBw6eXzxnr2TGszXjSlAJF1NuwE26aTNIjyC9YUcz483kIcnk5G1dqedQmYnQOb5swr4omYUqAr0EenwhnXTRR3mg+Xmm6tnQVrWG+DfUohircKfgFTtG334555vCPzMV1rBadkvK1Il6gIjqyQHkygxs99ZpW6/P0x4PE8zphVTXZARwQAaC/grSVCTFPxU1QGEM9v5O8CJHEMkZLmvL4QRXsgDfp5vKIVFZ6Uu5aVPxb69mSD3VWs5w67Qk2hZi6NZ5E43Gg==;xSx4xfEb8C+QiX6vz2DX+Q=="
 ---

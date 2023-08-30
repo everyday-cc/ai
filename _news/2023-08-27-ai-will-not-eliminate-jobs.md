@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-elimin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all"
         width: 1200
         height: 681
+        isCached: true
+  - title: "Artificial intelligence can create more jobs, not destroy them"
+    excerpt: "A new study by the International Labour Organization (ILO) has concluded that Generative Artificial Intelligence (AI) is more likely to increase jobs than"
+    publishedDateTime: 2023-08-30T02:40:00Z
+    webUrl: "https://www.pressenza.com/2023/08/artificial-intelligence-can-create-more-jobs-not-destroy-them/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 39
+    images:
+      - url: "https://www.pressenza.com/wp-content/uploads/2023/08/IA-Nuttapong-Punna-OIT.jpg"
+        width: 950
+        height: 534
         isCached: true
 
 secured: "zSk1o+zN+Zvqu+jljA9SsXVJscpOdy9QpFpPtiVc2o3pwNMMHlxeUJzuPJWnwYy8R5ZzcqCJtedyTx/s05bpcE9Gjqt56O4CPZ7IjEIERFAicfiad45tp1CFTJ/KIJDOQY31u7U1VWMqJEM2Pxw4SRXqc0ZtyHZcRHTIzglT1+I0tgshM3SkK2KpxFWb9MoicuAIytAMGkN9FYMvTq6dsAmm5cYV//hCVOmxdKPlDVZNeEOxn/sIuR8Q3ocAcToh4gtiBMsnY+j9b6bj/8GuWdp5dKofiI+RNu7Shr7vGsk7dRWqr1+BRu6VOuPZ63ZZZlgD1FLBTQ63aYnaJpVUQ7UVrztuS15wW0xoEAoU8G/u7gSzXjoLwiqy/CS3CPubFdSPvXW4dOOBNoiM11dKL29JCAxLLR7Dk6vjhs3JFNYkkAC2cdYtLacH37vWMJrWYKiVJAac+IWiGWzLxGy6aCJG8el5Dk4ouoFT0uFKt7gqmwG4FUewAf58sBZdPIFXLA/JVervnx7coVaFwlebLw==;ZKb5uamgxZPYj/+oHBjlcw=="

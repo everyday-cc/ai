@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-29T12:02:00Z
 originalUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
 webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
 type: article
-quality: 18
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
+    width: 636
+    height: 384
+    isCached: true
 
 related:
   - title: "Google expands Duet AI features across its cloud services"
@@ -79,6 +86,20 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "Google to add AI models to its cloud platform"
+    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
+    publishedDateTime: 2023-08-30T03:48:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
     excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
     publishedDateTime: 2023-08-28T15:19:00Z
@@ -103,6 +124,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "UPQm9xtD3jfYzMcTLhRWISp/ez67uV2E5qPfP44zJvw46b11HPrJARccE3exwEmYfqApiEV7lP5izwFVwn4LcNgAo4NH8bHOqmR8R+iKmsf+lVEZPQfoIymlvdv6DAZXDXSrs6ArYWbA/uY8jd0mHaLLOKQ6LgPNIyv+A8JRZMR9n3mlmWep80CRLDRPS8GFQ11t8IfybElm90SGEzD9rgwmjVjJGWp44KMUAVCz5s+czlC4LaFztFvWvCQoHKa32e8b7+rL7j/CUqiwep9gQmh+m/DvCHV9Vh/0HciXp8h5y3xZdmzMIqNDlpeUP0tcs/zssoX/+zPf2/l80djP0RTpa3ec3LwSqUPUd14AMf7uGbxFWgLl3wBfZIqMls+Sf0L5RfuCLygz3UXWpoJ8yjeplQu+w1U5+qEwJTXnsaUMtMyQti24ykH7HMmkjEmx0V3PKWkjcTqyKyPf4ccP8bA4U1jSpwjEmaVymN0/ZGO0crW+ertAbBYD7e4+nt5cPF1NokFIBGpKY83LLeIGww==;9oZv9kllzZKlnEymKhGY4g=="
+secured: "JC4QUmYFp4l6AROvd18f6g8N3WTM9NeBJiAjqAuC0+QYqr6MzbIL4D8NtBK4NW2fZWaoRI1Kkeqc7toSrC58KYheGOw1QlXpdAQ7+rzJ9WSFAxU+JZJ0PcUsf9/MdQmRPzGfYjyXdJvYBioyUMjQYut34adp5zJQJBqtoUIRW6MdUq/Fqf1yqqoo1JlJMk8B7Ixzs9PBmrakIr11VmZN2HHBKxvLVJ5s36S8SP8pZjCrkM4lWKi9yQsEmmck4tY0SCXGt/O2jcgc8R7LLVRDEnkiF+K12WH3JMqH6n3ylFozgSQL21e2/S8ckH6LNZiYZRDsXk6krEBM2GmZHK/n6Nsxcp27qnRdC7PSK6yuBk8=;nbQvdwtBMBlUHkiByP8kqw=="
 ---
 

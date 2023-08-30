@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "Artificial intelligence can create more jobs, not destroy them"
+    excerpt: "A new study by the International Labour Organization (ILO) has concluded that Generative Artificial Intelligence (AI) is more likely to increase jobs than"
+    publishedDateTime: 2023-08-30T02:40:00Z
+    webUrl: "https://www.pressenza.com/2023/08/artificial-intelligence-can-create-more-jobs-not-destroy-them/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 39
+    images:
+      - url: "https://www.pressenza.com/wp-content/uploads/2023/08/IA-Nuttapong-Punna-OIT.jpg"
+        width: 950
+        height: 534
+        isCached: true
 
 secured: "C5xDv+TTjd+jdqOgoYm7og4ymmf2abH713E/laGkfqHVTpgzKJ+BnYUVoDKVRXe3IfJaDpR4uzF7PSE53Opo9QCLm9bzl4DrLCGfHXzWT9iUfsvIiLwZQJjNXUmUabzxjgRs3CWt7lRDdw3F1cNIZf3BwVTtOhOI5aM89GWLrEulqvheJQd/M4/5giWDDZH49ub+yScVVB9zIl9GW5AgjG5X1sfaOrrvnZI/bMV3zeudkcRvRA5jFzwUWSrqVEi2v0fojvGTQxX4uV+r56Q3XFLwLrgnuhSSQI2xcLE5tRQK6qSzIR2TekfqzGq1Ag75fdX98HFExMOW5u/Or7yfTJZ7WBH7DfYvHEaC1P7A5C5RpDeeApPRW9GFx9U99gMmLR0ehF3VP/P03AijQIBPO721qbOP/OGnhwg/ln6hddIF7aBHOWBt9nQlx7CUUi5H7YC+tNkDF/ApNXhRfLTx3lyByuvBpOGV/sbTZ/yfxYqas8Uaxm7NrmEyXRtqV0xj9xxZ4eg/0K9oEqGrnHU+CA==;+f1artDtraJK2VlPq43gnQ=="
 ---

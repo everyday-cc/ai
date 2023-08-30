@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intell
 webUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.wsj.net/im-841956/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
-    excerpt: "Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
-    publishedDateTime: 2023-08-25T09:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/25/cathie-woods-ark-invest-thinks-apple-alphabet-and/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 48
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/745174/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
         isCached: true
   - title: "Nvidia, RA Capital invest in new Boston AI drug discovery company"
     excerpt: "However, this isn’t the first life sciences company with an eye for AI that the chipmaker has funded. In July, Nvidia invested $50 million in drug discovery firm Recursion Pharmaceuticals Inc. The startup’s stock soared 80% following the announcement."

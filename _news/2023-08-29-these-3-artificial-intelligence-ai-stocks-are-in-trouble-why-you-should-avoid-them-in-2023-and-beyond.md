@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/29/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2023/08/29/artificial-intelligence-ai-stocks-in-trouble/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Self-Driving Trouble: You Can Be Responsible For Crimes Committed By Your Car"
-    excerpt: "Hangzhou considers fining owners for self-driving cars' violations. Debate continues over who should bear legal responsibility."
-    publishedDateTime: 2023-08-25T09:54:00Z
-    webUrl: "https://www.gizmochina.com/2023/08/25/self-driving-cars-traffic-violations-hangzhou/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 51
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/self-driving-cars-traffic-violations-hangzhou.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "FPuWr52sT/i6Rx2xp9oVFW34EBZBR8hf5VO6iPkcvWiEF64bwgVdLWe3oxg4acsGtoj0FLt4huwaA/U8qoHKiM0EnngsSbzoWuV4qsECpowIoCnhgzwbM/vJRNi0eb7E/l+4nCiLYSyMchsg/UeyxFsgGo6y5SSOT8Kp7tOqAoWjYtdWmperti04oTCFDYJ0YYGzr+AW4j+CV02wriTCPhfAp8OcLtTXb9/JIBL1xXjJ5EiX8oFw0LkZOOjDkmhyESA0lGlL9NT4I8aoflBSx/jT6qxe3VerFgdfDRXEsp71s/R5ZoA5eGvThVAaEHFa8dIaJONJFCs6kVv/yT74Woe06C8qteYPGit18/leSd6sM98zN/6ww3yTX3chaQZUdCd4e/6omdiy7ysMTbcTO1MdlwKEgIZbdPfhzn6X+BD9UqJ7mi8rTrI2Kkr07JkHoRMAh5DU7qh4QFmiCSSwJxEEV6re/ZPdFKd0jSwXr10UL5lz2zpfR+XwZqPV9deyvmeoZ7OBEK84KEo8vp1k8g==;g9hM6taoRwrMQapbtAadYQ=="
 ---

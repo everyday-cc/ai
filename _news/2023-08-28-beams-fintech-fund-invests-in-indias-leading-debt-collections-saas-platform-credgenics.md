@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/brand-stories/beams-fintech-fund-invests-in
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/beams-fintech-fund-invests-in-india-s-leading-debt-collections-saas-platform-credgenics/amp-11692962513437.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "India's debt resolution fintech Credgenics gets $50m boost"
-    excerpt: "Indian fintech Credgenics, which offers a SaaS-based debt collection and resolution platform, has received an additional US$50m in investment"
-    publishedDateTime: 2023-08-29T14:59:00Z
-    webUrl: "https://fintechmagazine.com/articles/indias-debt-resolution-fintech-credgenics-gets-50m-boost"
+  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
+    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
+    publishedDateTime: 2023-08-27T00:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "WyljMLnZFiD8bmunNph67SiGAIQGJwJeCZcUEQhEWCFQoM/I/rCHbg9kj1SOkxUNwPFp+hIdd09zIkJDXrdNNPQR9//IqVxSkPadC2i0UkIQbjkVtKl8hIg9T5BddgYlTX6Lca+fTT8e5rguPg+kXULVXeJJ7YLlzDTBbF5/KEZys46jF3lQPD4+kNWpJ5fyCu3d2peK9RUVwmiZUz3YPzb13WhXHghTLWp1S5ezhFbKQoOQzJbujcMwzJPwXyPr3szffXvdYPafRUAKNqy2Yvza7LBbd2OfgtQbj4fMf6zyonpJGeCEuF25V0t13dGhfJrZPTBzRaBYRmqXgSLTCfNd1JodE7lix3XgV7ihr3M=;DeU8pB5vPISP2wkAHjxFGA=="
 ---

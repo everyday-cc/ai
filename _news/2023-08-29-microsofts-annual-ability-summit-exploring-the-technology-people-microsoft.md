@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Welcoming the generative AI era with Microsoft Azure"
+    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-28T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
     excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ..."
     publishedDateTime: 2023-08-26T01:19:00Z

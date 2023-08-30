@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-an
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
+    excerpt: "Google makes public a new version of its custom-built AI chips, unveils an enterprise-scale tool to watermark and identify images generated with AI - plus tools for security and its office suite"
+    publishedDateTime: 2023-08-30T02:28:00Z
+    webUrl: "https://www.rappler.com/technology/google-enterprise-artificial-intelligence-tools-new-chip/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 69
+    images:
+      - url: "https://www.rappler.com/tachyon/2023/05/google-ai-reuters-may-2023-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
   - title: "Google shows off what’s next for Vertex AI, foundation models"
     excerpt: "Google announced enhancements and new capabilities across its Vertex AI platform, including developer tooling and foundation models."
     publishedDateTime: 2023-08-29T15:45:00Z
@@ -85,6 +99,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "jxO6XTIoNTuR3jdQExBNiXW+1fDaCvR7cz5l/ySnFZq4MFK6TOSVzY1uVQquVh+VxHFheDG5bu9/YY8WdgzQeqh5YzyDbKX4HH4PfY1L5mbYAc2t6WnexO9TmroZK7oxJiZjHGQ+oyWek+lVyCfApoF4boABOGYn8gtaCptO43jiLCrWP5HDXiRc3v19CQZFaAr7J+Fkcwyl9jz3DSkOQeVvXfLuP+YP5QRkE+dQm/y6pDbIrgloZceRfC1zCdPcHNnRzeIKPq1Y2PhKK2KS/oha44GYf2yBP+ACDkxIgl6Wnf5DwPWAZUkV2GQx3mlpuvCkVg2Cx9LGbufUnKWE6YTnc6wOR3nR8O5FcHVhvmg=;F9c4wpCHG1VcxrB/KL02hw=="
+secured: "uqYlCUH6Jdg+oCWesH3shFtrT0YuOWTrfp+essz5cDI/ZuEjv4slDh4trco7o4AGlYFUOw4uGsWyhZyJ23vfEs7VhLS2Pp6WL7/Eup5NKlR6j3iLWw4qbSB2efNTPdbetdW5J2Tegb+gJv4luh01UORMlg6kI1K98olnhC4jF05VwUd9OiV70epfBU03EGBgHMm6BjUVYjfEzJpMo1OJQG80yWadZRjP7OQgR7b+Cffm4Kegy+4RYfcMBXxTsqzXqkHHrF5pYRx9sboIVq/l3JrUWX/C+LeMOCD2XUrH8zVAKM3ixzo8uvDYzilFl/cVJMrR0JKUYHCyMBwLpaM00jX0CEljhmlSGAK2czVnxP2yF5VbMXzqjxl/LQUbBikpNRMR4jkw2tBPFQGXK8kWUZjBP+f2sSsE7WLN4yOrhW6JWHdEv38tJ7Gi2b01sipYe7z8H7aYO2Yf8cWgf0ywLgTl+Nq+1dU+ohQ2JueKMPiGTl6o7f20NNSRyOm122F/+zxIPrrcf67kPJma8vTuOA==;KS8bxpzpZExQZfm28nWNDA=="
 ---
 

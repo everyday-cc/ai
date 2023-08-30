@@ -43,22 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "US Court Orders To Take 50 Percent Self-Driving Robotaxis Off The Road: Here's The Concerning Reason"
-    excerpt: "California Department of Motor Vehicles (DMV) has initiated an investigation into a series of concerning incidents involving self-driving Cruise Robotaxis. In a recent road accident on Thrusday a self-driving Cruise Robotaxi collided with an emergency vehicle while crossing an intersection."
-    publishedDateTime: 2023-08-25T09:49:00Z
-    webUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303"
-    ampWebUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 29
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103057303,updatedat-1692956967122,width-1280,height-720,resizemode-75/103057303.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "San Francisco, not Boston, has emerged as a hub for self-driving cars. Maybe we’re fine with that."
     excerpt: "“They’re flooding the streets now,” she said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous vehicles sat parked in a staging area in San Francisco. (Justin ..."
     publishedDateTime: 2023-08-29T17:01:00Z

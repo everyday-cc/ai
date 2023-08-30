@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/95-of-indian-it-leaders-expect-generative-ai-have-a-big/458054"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Entrepreneur
@@ -27,24 +27,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Generative AI Set to Redefine Indian IT with 95 Leaders Predicting a Tech Revolution: Salesforce Report"
-    excerpt: "Salesforce's State of IT report reveals key trends in Indian IT, including a significant role for generative AI, the rise in digital transformations, and new strategies for scaling app development and security."
-    publishedDateTime: 2023-08-25T09:11:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/generative-ai-set-to-redefine-indian-it-with-95-leaders-predicting-a-tech-revolution-salesforce-report-article-103056051/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 43
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103056051,updatedat-1692954826253,width-1280,height-720,resizemode-75/103056051.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "OB2UEfddWFky2DTPECMiYbEzaMcDZOsyOsYb7ERmK+sLe6gAJnb/dJWp5mB7MtzemsOwj/oLVnKcgmVP2h+mowi/A4fazkdInQD5Nl7TJRi52e/e97kH6OKMOvn1uvQrcOyQ55Mydw24V5v9Lqi8iRACWSwYGRHT+fm57FWFOpf0hUwyPFPcUnS3kbOwvKiO3Sk94i9vdXF4WgqOFkjOUdgSz3yJNz4fSa2Vpb6pN6Ay3vjmrJnNNZUv6lj9FDiG6C2xFp/01OMvVxyvUBCfho5eAzRtXETdLis9mmjIdNPL37o4ljxQT9njTAm7goHsXZ51JB1Bs5/jNk8oOsUXHR03H9bEux/3Pl2kKvMrdkw=;UvNnu02BtOf82DP9h3pbrg=="
 ---

@@ -93,7 +93,26 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 18
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
+        width: 636
+        height: 384
+        isCached: true
+  - title: "Google to add AI models to its cloud platform"
+    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
+    publishedDateTime: 2023-08-30T03:48:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
     publishedDateTime: 2023-08-29T19:46:00Z

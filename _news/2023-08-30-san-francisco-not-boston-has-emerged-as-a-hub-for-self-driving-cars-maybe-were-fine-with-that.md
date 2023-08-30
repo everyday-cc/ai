@@ -57,22 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "US Court Orders To Take 50 Percent Self-Driving Robotaxis Off The Road: Here's The Concerning Reason"
-    excerpt: "California Department of Motor Vehicles (DMV) has initiated an investigation into a series of concerning incidents involving self-driving Cruise Robotaxis. In a recent road accident on Thrusday a self-driving Cruise Robotaxi collided with an emergency vehicle while crossing an intersection."
-    publishedDateTime: 2023-08-25T09:49:00Z
-    webUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303"
-    ampWebUrl: "https://www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/us-court-orders-to-take-50-percent-self-driving-robotaxis-off-the-road-heres-the-concerning-reason-article-103057303/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 29
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103057303,updatedat-1692956967122,width-1280,height-720,resizemode-75/103057303.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ESpzeRazPOP6mQRPQd9FvwIOvwcdkcuDOQhtYdbzyDFHzXo++ojW50zhZawtZXHNAZ2578hj5Lwi1BBMwfCwhITF5nDQrUOVJGf37MOdeBBbj2A0QUg78TZR0lcviNVMdsbXeNTORPT7XGI0ukDL74k0uOMU0AgQZAlYKx3UjHVxuddVw7x3I+1D3pCdHBVmiILSPGxHp9bVrOozZaS27bq1Si1Z7HVfD8kPJnX7JC1TQTiiXaBA2XBeTw+TA/ooJlB8M5frjYkL9BLADP0Pqhia+MvLm19iyNutEkPXJOV5UCNC8ju+oX/e37zrDs0v8h+aDUngAaFpB5EfPwTyPVNxmCWz2JPMpaJqLAnENFk=;h5UbK7GspoZqkbXjG7f4Hg=="
 ---

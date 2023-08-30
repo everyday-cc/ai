@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Welcoming the generative AI era with Microsoft Azure"
+    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-28T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud"
     excerpt: "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers."
     publishedDateTime: 2023-08-29T12:00:00Z

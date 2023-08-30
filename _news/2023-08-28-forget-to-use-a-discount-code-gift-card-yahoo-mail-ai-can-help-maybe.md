@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's free generative AI tool will help you write code"
-    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
-    publishedDateTime: 2023-08-25T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
   - title: "U.S. startup taps AI to improve search for EV minerals"
     excerpt: "TOKYO -- A U.S. startup developing an artificial intelligence program to ... KoBold Metals, launched in 2018, has an AI platform co-developed by Stanford University that crunches private- and public-sector geological data collected from around the globe ..."
     publishedDateTime: 2023-08-27T00:00:00Z

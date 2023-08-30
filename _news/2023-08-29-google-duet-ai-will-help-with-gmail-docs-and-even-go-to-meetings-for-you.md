@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's free generative AI tool will help you write code"
-    excerpt: "Meta has released a free and open large language model for generating code, dubbed Code Llama, based on its earlier released Llama 2 foundation model. “Code Llama has the potential to be used as a productivity and educational tool to help programmers write more robust, well-documented software,” the company wrote in a blog post."
-    publishedDateTime: 2023-08-25T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3705430/metas-free-generative-ai-tool-will-help-you-write-code.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
   - title: "Forget to Use a Discount Code, Gift Card? Yahoo Mail AI Can Help (Maybe)"
     excerpt: "Yahoo Mail's Shopping Saver locates codes in your inbox and drafts emails to retailers with requests to apply those savings after you’ve made a purchase."
     publishedDateTime: 2023-08-28T13:01:00Z

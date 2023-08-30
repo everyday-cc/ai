@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
+    excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
+    publishedDateTime: 2023-08-30T02:00:00Z
+    webUrl: "https://gizmodo.com.au/2023/08/deepmind-says-it-has-a-way-to-identify-ai-images-but-only-on-google/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
+        width: 1246
+        height: 701
+        isCached: true
   - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
     excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
     publishedDateTime: 2023-08-29T12:02:00Z

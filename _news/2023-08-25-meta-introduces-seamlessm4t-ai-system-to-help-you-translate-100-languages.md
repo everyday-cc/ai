@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
-    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
-    publishedDateTime: 2023-08-25T09:07:00Z
-    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
-    type: article
-    provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 44
-    images:
-      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
-        width: 1000
-        height: 525
-        isCached: true
   - title: "Why Meta’s SeamlessM4T AI model is actually really exciting"
     excerpt: "Meta has finally taken a huge step towards creating a universal translator with the reveal of its SeamlessM4T AI model."
     publishedDateTime: 2023-08-26T19:10:00Z

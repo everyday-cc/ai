@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AI Brings the Robot Wingman to Aerial Combat"
-excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
-publishedDateTime: 2023-08-27T22:12:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+excerpt: "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets."
+publishedDateTime: 2023-08-28T16:24:00Z
+originalUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
+webUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI in Robotics
@@ -47,6 +45,6 @@ related:
       domain: business-standard.com
     quality: 52
 
-secured: "d6vo6JV1UsHMvVp9lZkuZCElmZoSZRfNu4Nbcp3IPXxTWQS5RazTRbE0DgzemdT3TSAf8WUpdZKaZW90Eg1rTWtsQkxZvd0ikcnEnh9lC51bjcV2+dBdPJ7zpjg3bfTv3kbZ/z8anwcTgoPtNU4yMFuz5B2+/9JV6Os4nn45ZV12nkJ3/KeA9wsy3FVji13pFHvSbz2YDbaSVPq/2UBIO0vgDHfptP8QofSF/tw55/aMFXKn5oyTBXKJEGnn86/s3EHvFTmftesAbkPdi6DXRDfK78gvsTU3udJ8f6N1cJpdxW+CfqhmMwXFM1rQksHYH1wRtU24+lHG8Zz3dr6R7uOV+u0TSavuXfOL0uuZDY6qWQPOlgMfgZOzsE3iJsPqHlK67IesLcql+rr/gHtMJZiz4lx075BlAPFUCG4kTlJlPDJEMd6D/pSdS3EJ/iUZgcP91+dlOQoSy1cJ/hsnxsDKKvaNFl29DfNnlxnZQ8IabkCOtY9/s6xIH8cb2bz3N2T8IcLPtyWsdom/Ga/hjg==;izEFRPS+X5VgB+900PiXdQ=="
+secured: "pBmMhYZEmymZDs5Q+ga6dbKhlNNzsyMHXS7aqxE+kxuqf3SoRQwYnx1frX0IT1oAddfRx+8HR0wbZL6rF5Jt19e9fuxVkgAwf3sHyWER7VRdDYYoGExpFO4BEoa+CfD0CHdlWHvF49rXapzIfMIKHYSUglSyP/VSa4a6KPnMFQPgUAYAxJpw+tLg76qmfE4SAEAsGOTHc+iPqFrhGJFIuEXllzu2z7GYPEmLWrykWKUigPRVRlxq265OViIi6N6NJRJhAb+neouFOfRYbDHl3I0GS7h0QIX9DJOBledKEXp0XWLxW69/TJOMXYaKqhxudMY2MeFhJk4VQ+D6dSpr0zNcYQI8bA+62tvAGV5tnkE=;IltZg2TVBsx/KZvqaLNpbQ=="
 ---
 

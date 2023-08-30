@@ -44,6 +44,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
+    excerpt: "Google makes public a new version of its custom-built AI chips, unveils an enterprise-scale tool to watermark and identify images generated with AI - plus tools for security and its office suite"
+    publishedDateTime: 2023-08-30T02:28:00Z
+    webUrl: "https://www.rappler.com/technology/google-enterprise-artificial-intelligence-tools-new-chip/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 69
+    images:
+      - url: "https://www.rappler.com/tachyon/2023/05/google-ai-reuters-may-2023-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
   - title: "Google unveils enterprise AI tools, new AI chip"
     excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
     publishedDateTime: 2023-08-29T12:23:00Z

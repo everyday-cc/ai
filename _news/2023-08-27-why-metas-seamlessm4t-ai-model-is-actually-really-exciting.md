@@ -36,20 +36,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta launches multilingual AI model that translates 100 languages into speech or text real-time"
-    excerpt: "Google, one of Meta's competitors in this field, has been working on a similar project, the Universal Speech Model. This is an AI model that can automatically recognise speech across more than 300 popular and under-resourced languages. It is also currently used to produce closed captions on YouTube videos."
-    publishedDateTime: 2023-08-25T09:07:00Z
-    webUrl: "https://mothership.sg/2023/08/meta-ai-translation-tool/"
-    type: article
-    provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 44
-    images:
-      - url: "https://static.mothership.sg/1/2023/08/Untitled-design-2-9.png"
-        width: 1000
-        height: 525
-        isCached: true
 
 secured: "cDKmuxVdZV8oeUFSxWEb2degdFEGcc89F4GUYCbQdm45wDI7izH2yys1qk7Qq3tfIcekZbrnm7sWpEBGYfEllvyatYNcESC24m0QLjvUsaemMmPV5YGsWA3QKiYQbiEhbcTdo+YFS1xlL/M+xzwIcZPxBxwHFzYm3wcO8hDj3q2mO11i35jhZI07S/eMv2w8p23MobPEb0gdAsx5aueE71NfHU190mjASs0rk6ZSrw2dOSHuXI2RK2jahtsWlkFBg06VWo5/SHNWSJb6I5h6dn6rzvMRgh/iHNwt5AzizcBqTOpg1mUf1wAj5AkkcXTpWMMEUCE4Ya71Ld+enurTYKCiOYGtirGC8OijowG4si00zc/5sgfdNsWydKzrOD96gUfOvQ14oa2GFMKjQmzAhGZb/x96GGWHFFlcfKE5YgnCb+zBUmI2DRWkddwrOFFyMIuf2loZdl7ujnGP1i0F8DNWqTjBYyTObGADUthl/mATRyXBMcZyXOLFupMXh2/+gvkVS8t4sznCEXSHi3juqQ==;DJjRR4FSea10zz5Gl1NsRg=="
 ---

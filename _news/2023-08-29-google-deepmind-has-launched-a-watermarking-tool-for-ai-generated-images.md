@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
+    excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
+    publishedDateTime: 2023-08-30T02:00:00Z
+    webUrl: "https://gizmodo.com.au/2023/08/deepmind-says-it-has-a-way-to-identify-ai-images-but-only-on-google/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
+        width: 1246
+        height: 701
+        isCached: true
 
 secured: "jMJwDPZEKQgJBnlpYbOo9Wn+7LMFDeiweBTQ0ZLrdBxtfYYnfYKcSsx7fai/+JVEGS+C4RIVtUIrfFavZJ9QyljJ8P+K7yLr7DseBFkaDPdpkUDE7IAKAQiAtI9s1EtWz/jQwjUdsRS9vj+15jsoxPnBYI5EMrZXnz/sX4fbhYsCX5TkkvJ5ez+EQKsT9dzuw8o3jwpMU9lzGIFk1U80yOOAHvJqBufpYET6nRHmntJbXtzGHrQ1cTOKPLpgiU2Eh9HAKdYGQOn6Wjs1i1E/5KQ6Yg3qS8xV3yidzjGS8W3qk9VYK8UNA2mC02ljXAhxUHIUeKdfimS5qaHGu4dGZ2LDBEaE1mA1qfQuqbRdrh65ereS7eiMyONFiA4pac9GQyuC435Ri/E3qd1amugu+pLhvkx4Soh7MhZQwvSdUW5ngXUjMQA/Cm8D4xZp7NjyaSYk7SzWBhkXyKWeKCy4FTkAxW49O0y95VVsjj5X0isag6l3QGwUC/KQviklqFT3/DZKoG+ueKJHnImIAyqYNw==;oyLBJmTpDBYvexpNP2XyRA=="
 ---

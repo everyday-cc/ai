@@ -79,6 +79,34 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
+    excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
+    publishedDateTime: 2023-08-29T12:02:00Z
+    webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
+        width: 636
+        height: 384
+        isCached: true
+  - title: "Google to add AI models to its cloud platform"
+    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
+    publishedDateTime: 2023-08-30T03:48:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
     excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
     publishedDateTime: 2023-08-28T15:19:00Z
@@ -93,15 +121,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
-    excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
 
 secured: "Q5Tfu0/6+W5VaHYOeb/qsIAd5Y3zfjOGBoOoLtioocZZldTx7wDw5h2Npy9DJbTYwHL2DWgtEwm5XB5QyFlkW8XnE+XN4uiP/gy+ajxCvHCBGXb1NpGGZ5h4fEjMG5XzPzGDCvj2P/01qoXjcKDtvQXycKqBG7JiM415QH2Mb5DOf1iWyZo1DS26aLfceHM0MlwT/vQTkhIDR2rJJfbDFa3Hmgb2KsMwI05mRBxzPR0O3fPKVR+QfzJS/vqiAmmBWd0iDiBAnf73aqecElQkheSNz7EpeTzzX3l664pdtZXpoC0TWuBUuxbSFdgaDi62vcEUVzTXPR7ukt8OdN0+oLiBQEhHdUnjfXhA+2hdFrs=;nZfuZKHEH6X/f9q64p1CGg=="
 ---

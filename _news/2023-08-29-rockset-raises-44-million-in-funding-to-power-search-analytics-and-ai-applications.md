@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
-    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
-    publishedDateTime: 2023-08-28T15:47:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
+  - title: "Rockset to boost real-time database for AI era with $44M raise"
+    excerpt: "Rockset finds that applications need real-time indexing on vector embeddings as well as on traditional databases."
+    publishedDateTime: 2023-08-29T13:10:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/rockset-to-boost-real-time-database-for-ai-era-with-44m-raise/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rockset.jpg?w=1200&strip=all"
+        width: 1200
+        height: 847
         isCached: true
 
 secured: "JNegHEzK16YiMBjK4x+NvF3ZpnUjWUo63pAKH5hkFpHUn7wQ55mZQolYiqAX6zJaVJ4APFZxndavDG0RBu4lhPqiaA4CBwnDtTTj4jj2Z40QFMmNWWyya2WkRayUWgIPJmpk8gZTuKU3W7J43+7vQOvMfcG20qG+kyuTY4lzRhG9gNJL1sjxcW1Yt5z6IMTw2AbAWLXq6sq2tn5jqCNWDwyLc2tmAuswYi1kuNVdqkqQoVwWs42iJY4C85ANP+xLl5kEXSdb16PhmphQZlgFjdBmXQUl/mdi94irRUT/NC3JG02ZZPcmLQ/nPqIQXBIwnfXdto2swG8y4cVXObIoGv6sYjnQrvn8zINjCtGoSk4=;2/kvJZ83D6T5CMNoNXQF5A=="
