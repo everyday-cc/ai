@@ -120,6 +120,15 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "Generative artificial intelligence has entered the classroom"
+    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
+    publishedDateTime: 2023-08-30T13:37:00Z
+    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 19
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
     publishedDateTime: 2023-08-29T17:27:00Z

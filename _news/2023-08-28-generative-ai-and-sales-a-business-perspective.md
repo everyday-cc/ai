@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Generative artificial intelligence has entered the classroom"
+    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
+    publishedDateTime: 2023-08-30T13:37:00Z
+    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
     quality: 19
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."

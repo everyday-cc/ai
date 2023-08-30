@@ -1,0 +1,64 @@
+---
+category: news
+title: "Elon Musk Live Streams Fully Self-Driving Tesla"
+excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
+publishedDateTime: 2023-08-28T19:50:00Z
+originalUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
+webUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving"
+    excerpt: "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner."
+    publishedDateTime: 2023-08-26T09:00:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 770
+        isCached: true
+  - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
+    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
+    publishedDateTime: 2023-08-30T15:10:00Z
+    webUrl: "https://chicago.suntimes.com/business/2023/8/30/23852209/tesla-allowing-no-hands-driving-autopilot-longer-regulators-questions"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 25
+    images:
+      - url: "https://cst.brightspotcdn.com/dims4/default/d7217f9/2147483647/strip/true/crop/4570x2609+0+438/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FFOWvzkH2pGevQlpQzuUkrDz9cPs%3D%2F0x0%3A4570x3047%2F4570x3047%2Ffilters%3Afocal%282357x1938%3A2358x1939%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24884105%2FEVCHARGE_08XX22_6.JPG"
+        width: 1461
+        height: 834
+        isCached: true
+  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
+    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
+    publishedDateTime: 2023-08-30T13:49:00Z
+    webUrl: "https://www.wspa.com/news/national/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    type: article
+    provider:
+      name: WSPA
+      domain: wspa.com
+    quality: 5
+
+secured: "LEhjJUNjkyzi8LIB0vgipFcGCxnYQUBY9UADpCHkfXLWmjgmVKXqPcDMJWSGHI8jot7/jTF6AWsE3Hf5aUEe5H+lFCrts8LssTT0TVJ0asivo275xT0xXRDcbKW60q6Y49rFfaKErRblk5Bwox9q5Xrv5GCUsoVcQMfxNROFyUo6m6RkojifND1uLYEY6cnOSPhWHUOzZxEr6dmT7lIx+p1ix8RMD0HN7nJf6cpnd8whjPbVQtMEiM0jMuSQakYjK7vXEVoSJ/IYUScUaPTkPVEAPuFzulTLULM0ioN/i9bdBec0aY2R/zIG0u73VSXkvnFhyrFeotOyYgnmMxc4+HgWC7q9HQkrQBhlGfEzSOA=;N+CJgzlcSaQkkikXIr/Jhg=="
+---
+

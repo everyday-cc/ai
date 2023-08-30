@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ..."
-    publishedDateTime: 2023-08-25T22:45:00Z
-    webUrl: "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T"
-    ampWebUrl: "https://www.bbc.com/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
     excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
     publishedDateTime: 2023-08-27T16:24:00Z
@@ -73,19 +57,77 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
-    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
-    publishedDateTime: 2023-08-29T11:58:00Z
-    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
+  - title: "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia"
+    excerpt: "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ..."
+    publishedDateTime: 2023-08-29T13:14:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/745445/group-of-three-with-laptop.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
+  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
+    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
+    publishedDateTime: 2023-08-27T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 84
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://images.wsj.net/im-841956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How AI Could Ruin or Revive Our Culture of Learning"
+    excerpt: "As an assistant professor of psychology studying motivation and learning in children, I get immediate, enthusiastic, and sometimes urgent questions. Brett, a senior lecturer in the math department, almost always gets the same response: “Oh,"
+    publishedDateTime: 2023-08-29T19:08:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/mini_mathperson.png.jpg?itok=guPnOR1Y"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "This megacap tech hitting a 52-week high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T15:06:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-a-52-week-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T14:35:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-an-all-time-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Inside China’s underground market for high-end Nvidia AI chips"
     excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
@@ -115,6 +157,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
+    excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
+    publishedDateTime: 2023-08-29T16:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34097306/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34097306"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097306"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
     excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
     publishedDateTime: 2023-08-26T11:00:00Z
@@ -124,6 +182,29 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 48
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+  - title: "Nvidia is the AI king, but threats to its reign abound"
+    excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
+    publishedDateTime: 2023-08-30T15:13:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-ai-king-threats-reign-144635118.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
     publishedDateTime: 2023-08-28T13:01:00Z
@@ -142,6 +223,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
+    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
+    publishedDateTime: 2023-08-29T19:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "qral/yxe3yJiFv9ug0XEhPUKNzkwSVnq5hk+WVCTVQ2tKoXoMNIkkG7kWGyhIzvsFuOE0AVMPM3mEk9oIoBYGjG165vmQe1pFbfB1OHfp5uy1vgXvz32RWHbMsq7Hh7vnBmlk9Tnx3V6o6CLwhcIs0uWtP3IL8JvHF1IfZaqP9I/jwfq/JFcsq43kioXKkwGm7+WRhAGTPH40jIWYiaeTaKOZ4vvSUveeu1k+t0LKAM/VUxb5bYdkpWLMkLl/mo/wyJE/DmHLKClr4MZQISVAmerKYVcaHHpazhJdPjr/+53UeTTFpRoX4cQoxI12q8t+s5hO0zkj0URAqPOQP3YCdzmAuMYjVw+ln/Zfqi78BE=;W2ctpT0VSiSYDmIdrgGBjg=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-publishedDateTime: 2023-08-30T09:27:00Z
-originalUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
-webUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
+excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
+publishedDateTime: 2023-08-30T13:25:00Z
+originalUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
+webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Vindicator
+  domain: vindy.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/BL8muOB2eJNGNZpX4edNgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_associated_press_484/6ba6c5d6e6b90ceeb0f0c0c4afe52c76"
-    width: 1200
-    height: 801
-    isCached: true
 
 related:
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
@@ -122,7 +116,16 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
+    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
+    publishedDateTime: 2023-08-30T08:48:00Z
+    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
 
-secured: "+2X3zpX+chvHARudrRjjim8J5lFNFXa6RhWdOrbN4n/jXjMqkVCJxmsMcDFmXmfViGNXLjGd6x8+uTqlKBTOtPPnx/Ael8b+CA0Xk7Hyg1VCZE1f3wpN+ZK3JjCOYo0bQO9buORCBlfqaELPUC5/ehmLcvqKwRS5k/fWFZWitLs3xBf1cMKiB/EirgQqjNCRMUjgKe/4k4XG70mMcUpl1000fP9wkB3WNI6epIXxFBWech/2v/BKE1q4n9YxMpIAiR0BDL3iBq2LJQKI9wR5j0CIUYH/ySIflfG2NfTqQmT7oIC7CKBhPVLXA/wGqWJRaqiMuUwhIJwGuqLEWu/BxxrcnfVESA5fP2Ue37ezxBWbnDP55ypZGb7OE5uEXrnt3+VzuwwW/J99zL8cR4tFfIQx4cSEuSygIB4xgcWEC4/IOxFIZFdGk88Vewalovp7u+ka4Wu6Bnkbzq8gV1ZtISG8FKb4AaKjPvgvAaYmDyzhN5scZcdA4kVA8j1QLS5gu/q+pgbMbKc5L8AaZmD4GA==;FFzn33hbOCLsZssk9LRGeg=="
+secured: "RvU2nzO8oT4mRA4iHrvknCoQM6Dgga3+6D8jqRcS9I+1aIYQVSs9d/Tw1F4z9vL29r8Ab7dpxMKW8FGag+ORPg1Ss7SwA8jGjm8vN9DS6ZI9BjJasRHGJ8K6PXfv3Lj64B1nC4T7P/iz9QLvjF96fJymldkFzjgmEDUhyfKPYNiTMG4z8yosl8jb6dBKN4uBUZNBg1sHxgrffFOY3Mx8KfSA7slI9fkRI4Iy9z+jnaEYS7ob8dschfBST9ePs6qcjuCb+vAYHglwwG2448vYeP03Suk6ivT9MCoKYoOvinmGOExrWJuPaFVWEVKODRWzxkqcBgfZvb3vfxrjI/DOklGGCf+ei4N4S4sHgE1qonB+aWhqe6BWf+/HRKYgD3tBbWQFeOljk1ZehkT+QMrblF37cTZ3JQpA2RZCZrYVfmAl+A4zTNnI1Bkat8z2R6PoNNjP1F9e7+rd0OMjUwjiKlL41/NlDUCBs4zxEIkNVYUEgqj8MtOvdMDyVgQ/EtjFSk8tOlmiIvGp+vjNCj1oMQ==;bhKbEcBGFqKZ7J+AJm9mkg=="
 ---
 

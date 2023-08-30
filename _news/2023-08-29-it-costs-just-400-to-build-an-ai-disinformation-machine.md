@@ -22,6 +22,17 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "AI Misinformation: Why It Works and How to Spot It"
+    excerpt: "Google, Microsoft, OpenAI and Anthropic, an AI safety and research company, formed the Frontier Model Forum on July 26. The objective of this group is to advance AI safety research, identify best practices, and collaborate with policymakers, academics and ..."
+    publishedDateTime: 2023-08-30T12:00:00Z
+    webUrl: "https://www.cnet.com/news/misinformation/ai-misinformation-why-it-works-and-how-to-spot-it/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
+
 secured: "XvV3YrNjjdio79GsyCWq9+Drti8v9cWS0v7rniIrB4Oe60oYV8Gl32juNeEp4vhq79fqHdXBI/GkJjKp6SUxkRNr/paNcvwmPZ6bKTgl73ABJF4EkSzY9eI1jKWV8DbWUK1qzqGQkfVxh9J67d/bHnfsRzzxqPNh0vqmqG3EiSP3vZ/gqeqo2adRjKu+aQYhMl9NNtuThFir7d12belVLC3Bsy/cTi3JMkkHQU4Gx5Q3MiIzM2ULwSUpeNuxpzq614/cH8jeO902PnoHVK390yyJhMtUXuYjWV1ql2j3ahNy1M8FPXQuMPy6eEGs3cO/lfcA/p2ldBILXxGP5NBzjL2+tSVugTAFowF5NmSiDM30NNCDpOrYO0h+nh5SdNzAfNVD4aXPf3KwPQGoezsHWwtzYfKZpJClKtON7I/cDrMjTf/xfaSY0jUFpKK0kCAFqIKZ0DFdsZUomgcyEpovR2d/s2Ugug8NB99Vfx1HDRK+c6ZwRlWJTdxdrDX9u7ssK5lK3QYXG2A1GG15Q00Inw==;7Xtt6OIAgz0GwS2IH/STTQ=="
 ---
 

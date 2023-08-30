@@ -44,15 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
-    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
-    publishedDateTime: 2023-08-26T10:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
   - title: "Making Artificial Intelligence Work for You"
     excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
     publishedDateTime: 2023-08-25T23:29:00Z
@@ -67,6 +58,15 @@ related:
         width: 447
         height: 559
         isCached: true
+  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
+    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
+    publishedDateTime: 2023-08-30T12:00:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
   - title: "Embuing AI with Ethics"
     excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
     publishedDateTime: 2023-08-29T19:32:00Z

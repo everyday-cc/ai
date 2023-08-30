@@ -98,6 +98,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
+    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
+    publishedDateTime: 2023-08-30T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Q&A: Uncovering the labor exploitation that powers AI"
     excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."
     publishedDateTime: 2023-08-29T20:07:00Z

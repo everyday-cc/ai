@@ -109,19 +109,23 @@ related:
         height: 668
         isCached: true
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-    publishedDateTime: 2023-08-30T09:27:00Z
-    webUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
+    excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
+    publishedDateTime: 2023-08-30T13:25:00Z
+    webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
+    type: article
+    provider:
+      name: The Vindicator
+      domain: vindy.com
+    quality: 0
+  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
+    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
+    publishedDateTime: 2023-08-30T08:48:00Z
+    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 10
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/BL8muOB2eJNGNZpX4edNgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_associated_press_484/6ba6c5d6e6b90ceeb0f0c0c4afe52c76"
-        width: 1200
-        height: 801
-        isCached: true
+    quality: 0
 
 secured: "EyTOPHr+gxRdLiCzFdwLCpsNQKrtBhsavGivinY7ROIaL+uuez1jj2XhdybjCAf1qTH26BbiTXl2W+Ca5486LDap5VetCDTNP8IQ7Bco7nlY84o4JW7x6GX4HgUmVagECGXfEvcemVaT6buGzCr+HyY/0bzME8nREC4VAZJr3SQS6zB1tdnNioorbGjhWQaZLhZv2FPl/FgduGyuC2EfZCzIjOgLXKT6/WtnPs3gAyLV805p28DbqMj1oj/2ZyACidKMkcujLRiFHXJl23ByWbaJmXbbbzmjjH5LHu0KsFsi/4Z7kvv61LwG3sXs8jjYxnab9LSRhgCZiJzHxMU2/VidFIWfDg3XWiTVAHEaeToIBrNuGqNsAAifLrG0DUbdNecHglj0Yppfs7KoXqyr6v8I8Y8rcSQKQYlTCWpQLF/XAyYXb7vrlQuio7C9qbtz2L7/YNK/Q0HuuzGC3rEg9vEoVJfB5bfOwlSAX8Fl1Ccug5K4VSUfADiVsuFq1onelUUnI1gHobB0JokycHHvaA==;W+13DUO9RwWNz7ge9o4TnQ=="
 ---

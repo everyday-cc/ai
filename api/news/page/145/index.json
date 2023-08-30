@@ -2,6 +2,180 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-25-a-leaked-amazon-generative-ai-sales-playbook-shows-how-the-company-is-going-after-chatgpt-maker-openai-microsoft-and-google.md",
+      "title": "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google",
+      "excerpt": "The guidelines are also intended to help initiate conversations with senior leaders at other companies, and get customers to host their new AI software on AWS services, such as SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "originalUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-an-early-warning-system-for-novel-ai-risks.md",
+      "title": "An early warning system for novel AI risks",
+      "excerpt": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
+      "originalUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/646f6e9992ceb1a002f3c316_16x9-min.jpg",
+          "width": 3841,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-developing-deep-learning-systems-using-institutional-incremental-learning.md",
+      "title": "Developing Deep Learning Systems Using Institutional Incremental Learning",
+      "excerpt": "The focus of this exercise is to use the resources in the most optimized way to build a deep learning model system fast enough. This also requires that security issues around data are addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/deep-learning-institutional-incremental-learning/",
+      "originalUrl": "https://www.infoq.com/articles/deep-learning-institutional-incremental-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-facebook-open-sources-two-billion-parameter-multilingual-speech-recognition-model-xls-r.md",
+      "title": "Facebook Open-Sources Two Billion Parameter Multilingual Speech Recognition Model XLS-R",
+      "excerpt": "Facebook AI Research (FAIR) open-sourced XLS-R, a cross-lingual speech recognition (SR) AI model.XSLR is trained on 436K hours of speech audio from 128 languages, an order of magnitude more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "originalUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-iit-jodhpur-futurense-unveils-pg-diploma-in-data-science-engineering.md",
       "title": "IIT Jodhpur, Futurense Unveils PG Diploma In Data Science & Engineering",
       "excerpt": "Indian Institute of Technology, Jodhpur (IIT Jodhpur) along with Futurense Technologies has launched hybrid Post Graduate Diploma (PGD) in Data Science and Engineering. This programme is designed by faculty at IIT Jodhpur,",
@@ -960,214 +1134,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
-      "title": "Microsoft aims to win the AI app race with three big advantages",
-      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 426,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "publishedDateTime": "2023-05-24T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-google-to-work-with-europe-on-stop-gap-ai-pact.md",
-      "title": "Google to work with Europe on stop-gap ‘AI Pact’",
-      "excerpt": "Google's Sundar Pichai has agreed to work with lawmakers in Europe on what's being referred to as an \"AI Pact\" -- seemingly a stop-gap set of voluntary rules or standards while formal regulations are still being worked on.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
-      "originalUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1194872527.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
-      "publishedDateTime": "2023-05-24T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-alteryx-reimagines-data-analytics-with-generative-ai.md",
-      "title": "Alteryx reimagines data analytics with generative AI",
-      "excerpt": "How will AiDIN generative AI help? AiDIN is an umbrella term for a series of generative AI innovations set to make their way into the Alteryx Cloud Platform portfolio of products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/alteryx.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/amp/",
-      "publishedDateTime": "2023-05-24T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
-      "title": "Artificial Intelligence May Be Coming For Your Job",
-      "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
-      "publishedDateTime": "2023-05-24T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

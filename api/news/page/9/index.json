@@ -2,6 +2,195 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-22-brainchip-sees-gold-in-sequential-data-analysis-at-the-edge.md",
+      "title": "BrainChip Sees Gold In Sequential Data Analysis At The Edge",
+      "excerpt": "BrainChip has singled out such data processing needs as a key opportunity to apply its Akida technology, which specializes in Event-Based Processing and Spiking",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5277aba68f18673d9eed6/0x0.jpg?format=jpg&width=1200",
+          "width": 822,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
+      "publishedDateTime": "2023-08-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-chip-designer-arm-looks-to-ride-the-ai-boom-with-the-biggest-us-ipo-since-2021.md",
+      "title": "Chip designer Arm looks to ride the AI boom with the biggest US IPO since 2021",
+      "excerpt": "Arm's planned IPO, which hopes to raise up to $10 billion, is set to be the largest US listing since Rivian fetched over $12 billion in October 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4811fbd98a600197ba266?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow.md",
+      "title": "Meet Relume, the bootstrapped AI web builder that wants to supercharge Figma and Webflow",
+      "excerpt": "Relume has amassed some 54,000 users to date, 10,000 of whom signed up following the AI feature launch two weeks ago. The platform, which is the brainchild of a small team of seven who hail from the likes of design giant Canva and early-stage startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-22-at-4.10.33-PM.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
+      "publishedDateTime": "2023-08-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-provenir-named-us-fintech-awards-2023-finalist-in-two-categories-fintech-of-the-year-and-data-initiative-of-the-year.md",
+      "title": "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-interactive-ai-app-sizzle-guides-student-learning.md",
       "title": "Interactive AI App Sizzle Guides Student Learning",
       "excerpt": "Sizzle is a free smartphone app that uses artificial intelligence to help learners work through any problem. It shows a compelling vision for how AI can support learning.",
@@ -981,203 +1170,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music.md",
-      "title": "YouTube and Universal Music Group join forces to explore the future of AI music",
-      "excerpt": "YouTube announced it is launching an artificial intelligence (AI) incubator designed to explore AI's role in music.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
-      "originalUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_robot_piano_player_in_the_style_of_Ernie_Barnes_1db59697-574c-4365-a013-aa6356769289-transformed.png?fit=750%2C600&#038;strip=all",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation.md",
-      "title": "New study reveals why mainframe application modernization is key to accelerating digital transformation",
-      "excerpt": "Rapid advancement of emerging technologies are driving organizations to prioritize digital transformation more than ever.\nThe post New study reveals why mainframe application modernization is key to accelerating digital transformation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
-      "originalUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T13:50:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-siggraph-2023-highlights-new-graphics-technologies-and-missed-opportunities.md",
-      "title": "Siggraph 2023 Highlights New Graphics Technologies — And Missed Opportunities",
-      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag shares his insights from this year's Siggraph graphics conference—including his disappointment with how it was organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e3c5ca0b850136180f2ee6/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "publishedDateTime": "2023-08-21T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro.md",
-      "title": "This AI-generated crypto invoice scam almost got me, and I'm a security pro",
-      "excerpt": "Even a tech pro can fall for a well-laid phishing trap. Here's what happened to me - and how you can avoid a similar fate, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3be910b06a4d8796f38d7419f839efc630fba979/2023/08/21/f7f8fc3a-a1e7-4b45-badc-2dc6c05955f7/gettyimages-1468008490.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "publishedDateTime": "2023-08-21T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

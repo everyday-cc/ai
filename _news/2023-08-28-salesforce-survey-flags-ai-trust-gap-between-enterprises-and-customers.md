@@ -32,6 +32,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
+  - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
+    excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
+    publishedDateTime: 2023-08-30T13:54:00Z
+    webUrl: "https://www.thestreet.com/technology/salesforce-earnings-will-miss-big-ai-bump-but-there-will-be-other-things-to-love"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 12
 
 secured: "FeWdgSpwfq//NLSWLnLn9qegEFQKfdJfIZUWJUenrLSyngOBrW3kg9z5CH5rUWulib7azEfiDg7AXo0wxW/XJflRHqimZG8WCYIqsfvLKkyf9krBkjYVkEamNH1mbMMGUghBXU0aI1QGnt4URrzcD03CqHJ4Go/ed8iAotbFXDLg50UlFcce4QxrPnCMabn1UXc7AdoxRmjcXItnrRp1OTJK6bfHMlcXsyXZM99u1qn4OSFtmkFIX9/ftcKHztg2mzyZQBDiYxiDZ0k80uo1vRxb55hrcZk3c+cZ4EB6IGZ5msPr/9rtj0JRBvSoDLo/8gMDwYy45aOn90Aj4MgPIiY9+Ob+ryzem3Rz1Q+ffkssdO/Q3gK2kjwQZ4EHDJPqM9gtnZV5YRRzrhdoPEatn4FezG1AAOWI3qfN8tb85VxwxTfdyhgbHoP8XNVlwtc7UVP6TFVrnBgqm+Rduxss1oc51CR7wHl3yPsthOmyDqqipstxi9HYchBwjl1/i5+rRFv5zGF290PjggSNvmVeRw==;kWwu7tQcM4VckHsAlv31dA=="
 ---

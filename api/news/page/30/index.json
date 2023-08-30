@@ -2,6 +2,186 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-08-07-ai-language-models-are-rife-with-political-biases.md",
+      "title": "AI language models are rife with political biases",
+      "excerpt": "If you ask an AI you might get wildly different answers depending on which one you ask. While OpenAI’s older GPT-2 and GPT-3 Ada models would advance the former statement, GPT-3 Da Vinci, the company’s more capable model,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
+      "originalUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/Screenshot-2023-08-07-at-17.46.14.png",
+          "width": 656,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
+      "publishedDateTime": "2023-08-07T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company.md",
+      "title": "AWS performs fine-tuning on a Large Language Model (LLM) to classify toxic speech for a large gaming company",
+      "excerpt": "The video gaming industry has an estimated user base of over 3 billion worldwide1. It consists of massive amounts of players virtually interacting with each other every single day. Unfortunately, as in the real world, not all players communicate appropriately and respectfully. In an effort to create",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/07/fine-tuning-llm-toxic-speech.jpg",
+          "width": 911,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T09:19:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability.md",
+      "title": "Scale generative AI with new Azure AI infrastructure advancements and availability",
+      "excerpt": "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement.md",
+      "title": "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement",
+      "excerpt": "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony",
+      "sourceUrl": null,
+      "webUrl": "https://www.gjsentinel.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_7f26826a-0e69-55c2-9ad0-95576ce37ca6.html",
+      "originalUrl": "https://www.gjsentinel.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_7f26826a-0e69-55c2-9ad0-95576ce37ca6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/7/f2/7f26826a-0e69-55c2-9ad0-95576ce37ca6/64d111ca469f6.image.jpg?crop=1119%2C587%2C0%2C20&resize=1119%2C587&order=crop%2Cresize",
+          "width": 1119,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grand Junction Daily Sentinel",
+        "domain": "gjsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.md",
       "title": "One summer movie shows how dangerous artificial intelligence can be | Youth Views",
       "excerpt": "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own.",
@@ -931,187 +1111,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.md",
-      "title": "Salesforce Einstein Studio to help enterprises train generative AI models",
-      "excerpt": "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation.md",
-      "title": "National youth robotics competition aims to empower and inspire next generation",
-      "excerpt": "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor.",
-      "sourceUrl": null,
-      "webUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "publishedDateTime": "2023-08-06T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
-      "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
-      "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-08-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-boom-could-lead-to-a-new-gpu-shortage-but-nvidia-says-the-current-problem-is-just-packaging.md",
-      "title": "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging",
-      "excerpt": "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
-      "originalUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-06-image.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

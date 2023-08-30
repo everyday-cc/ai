@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/what-does-generative-ai-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/what-does-generative-ai-mean-for-coding-bootcamps?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "West Palm Beach selected as host site for a second time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-    excerpt: "WEST PALM BEACH, Fla., Aug. 25, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Florida Power & Light Company (FPL) in West Palm Beach. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-25T22:06:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/25/9870488.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "WMCKxf24LOi+Fc6xN9OBzVsdO0JYhIXLvv4hoW0qQd2NrnomZinCL1q4Bcby2jvT8xLRu3ZOcGvWIReX1NEqtpZ8hiZO2SzKw/+U0usVhviLjIarjRjYqzc6W62u1sMjzNQTjgG/S5pMHmhb6llJgMxSOywEkUjp/en6WWPIFMWiamztGiQA9npxurb33oiwNSkuofW6XwoM4nmZ58PRfBf/CLtGPEVmF8rcMi5F4xaPth1dEEg1sIcf+H5VhjF8cFUpwLOqYLIMe0QZKMIQn24k4c/g3svHGQb9iaeq0wGTlbXeNQ6jRsLwSOa8b3Vn+H8vNphrLa2Dja+yHCwhO5Hm46cSLx1p9rX9P10kU3coA8uLdRgWc7zXYo4dP6eUB2LGL21DIRseg+gqn7BhZAdj/zUPliv1E7Fm9qadSpGv31gLTa8ZQRrQW5vCSsWsxYWwPM+55NxBLBiN/YKy9zkjne0Jp+nQUvg512dVPXj/cIgpfOhvV6tqyrE89S0DoUNLDNgiqmrSSViJ44zaZQ==;1q0NxaoZeG/t3xIwrnCpbw=="
 ---

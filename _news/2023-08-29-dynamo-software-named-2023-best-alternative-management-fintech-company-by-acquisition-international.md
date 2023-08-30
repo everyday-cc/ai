@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Dynamo Software Named 2023 'Best Alternative Management FinTech Company' by Acquisition International"
-excerpt: "Alternative investments FinTech Dynamo Software, has been recognized as the \"Best Alternative Management FinTech Company for 2023,\" as part of Acquisition International Magazine's eighth annual Worldwide Finance Awards."
-publishedDateTime: 2023-08-29T16:16:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/29/9871318.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871318.htm"
+title: "Dynamo Software Named 2023 ‘Best Alternative Management FinTech Company’ by Acquisition International"
+excerpt: "BOSTON--(BUSINESS WIRE)--Alternative investments FinTech Dynamo Software ... Magazine Acquisition International is a monthly magazine brought to you by AI Global Media Ltd, a publishing house that has reinvigorated corporate finance news and reporting."
+publishedDateTime: 2023-08-29T14:36:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230829996280/en/Dynamo-Software-Named-2023-‘Best-Alternative-Management-FinTech-Company’-by-Acquisition-International"
+webUrl: "https://www.businesswire.com/news/home/20230829996280/en/Dynamo-Software-Named-2023-‘Best-Alternative-Management-FinTech-Company’-by-Acquisition-International"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "NhSbtM9CzpdnKvzDuqjyNwZZIiIfyZ6UcwTTfTYO4bLdF1ntsbg19Ge8pTIGuIDDFPSN86mc10wF/E+ZIYsce0gVjtKXzccQpTkVPPqSq+e+AkKOBr5Efyf/UcfHPSDrZXMpi+Y+t+Mn3SaDNMaLtLSNGQzj49lEDWbOmnP3w3jQZw/CvLJUdFa/OAS5NIomSJqpAoiApc507vjQHx3Gv2JaQIWZIBOhljFDfs5l5LJYB465+j0jVSw2fEw9B+M+VLXkWjhZXJPBKMA9UifL/r09POMfxtj/lB5wFl6gf6fQUA1/BoVCLeADPif8XeImzHpwXyHWpWmVlLG+E/Wjjh6TU5PPKe6FxoPd3TXiWqM=;PWIKM/KgFBpjoNHpdrOQ2g=="
+secured: "VnqFUkazrp75Ve9hjSvGUcXgatquDNe+XNxkenMCxYTrznMnBeO0EkUJdwzCwvEajqtw/v42WBpGQKSbxBOTassYdkuiSHvOIhVrU7o4talWYrqAb5XUDA3L9+HCR00JCXFh9sfmeADY/jFLs9gjRRLrWdJAwfYRMapcrKSbtmEi/ZKqSTdVOyI07mgJgGBAQVlxM2dna8ZaJ6mLFyLp4aGu7UIJ0sDr96wlYicm/mzWJ/TLu/8PbwCuJfAQF0/UTP3MIuqpYCAQv0hGPtb0MnSCIN0/UMuLdbpvmPvsCDAtYh3MHR/U0jyF9R+Z9u1dzJ0bGi/n+6T0NaP0JVm/ra80AnZHOAGLN54Uicv0jak=;eRY6DBDSWemg7/GZSnn2Dg=="
 ---
 

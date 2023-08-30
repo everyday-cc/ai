@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-30-harnessing-ai-for-market-research-opportunities-and-challenges.md",
+      "title": "Harnessing AI For Market Research: Opportunities And Challenges",
+      "excerpt": "Sophisticated natural language processing algorithms ... insights within proper business context to translate findings into strategic recommendations. • Proactively validate findings by triangulating AI output with both quantitative metrics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee4143b3c813b9ed4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "publishedDateTime": "2023-08-30T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-google-expands-duet-ai-features-across-its-cloud-services.md",
       "title": "Google expands Duet AI features across its cloud services",
       "excerpt": "At its Google Cloud Next conference, the company said that it was adding Duet AI to cloud services around data analytics, databases, infrastructure, and application management.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -84,6 +136,59 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-why-generative-ai-could-grow-after-bad-nvidia-earnings.md",
+      "title": "Why Generative AI Could Grow After Bad Nvidia Earnings",
+      "excerpt": "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/",
+      "publishedDateTime": "2023-08-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1291,93 +1396,6 @@
       "provider": {
         "name": "The Statesman",
         "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
-      "title": "NCSoft's new AI suite is trained to streamline game production",
-      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-voiceitt2-launched-first-of-its-kind-stand-alone-voice-application-for-people-with-speech-disabilities-now-available-to-customers.md",
-      "title": "Voiceitt2 Launched: First of Its Kind Stand-Alone Voice Application for People with Speech Disabilities Now Available to Customers",
-      "excerpt": "Voiceitt2 will be available in English as a browser-based software license for purchase for organizations and individuals in North America. Availability in the UK and Australia is anticipated in 2024, with additional languages and geographies expected to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

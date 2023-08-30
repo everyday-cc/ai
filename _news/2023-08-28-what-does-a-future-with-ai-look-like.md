@@ -24,6 +24,17 @@ images:
     height: 685
     isCached: true
 
+related:
+  - title: "Are AI Regulations on the Way? (And What Will They Look Like?)"
+    excerpt: "Businesses are using artificial intelligence (AI) to solve all kinds of day-to-day business challenges, but the legal implications of this technology remain unclear. Concerns around data security and privacy, bias and discrimination, and copyright ..."
+    publishedDateTime: 2023-08-30T12:20:00Z
+    webUrl: "https://www.businessnewsdaily.com/ai-regulation"
+    type: article
+    provider:
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 19
+
 secured: "yyGD96DvmBEyLG/JT+u902s8X3z3t44wjr+Ho+M1jOJSXAM3gQLpJy6X2EdQrePYAa3dIKi5Hwv77/YIDAsvnnPC1YI8U/JqeBw1WXNzM/bIeOvmj/NYMnCVveuDqW+X0Z4tOVpns4zbTv5I41DW/DmCkEbN+UAuWysBvgSw7FltiGDfAKbsfcIHElzKh8mhjOhepDPYON/xM0EUeIrmuJntazvLA78tRjyNT6w5eBohhGCcM4mA22m9IVDjPciBNhU3xSVGT6Jd+8EyySkZfr5DgbzNHKp8M8Y3NY7elE0mgtYHrlHPxy7UDk5zFlEL7Ls/x+4qqy33Ylf4vlw8MlAP752/DgMzzVQ2ucxPPKM=;raDgnhQRlVzF7mLfZWGzZQ=="
 ---
 

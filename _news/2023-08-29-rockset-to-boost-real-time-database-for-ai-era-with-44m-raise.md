@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/rockset-to-boost-real-
 webUrl: "https://venturebeat.com/data-infrastructure/rockset-to-boost-real-time-database-for-ai-era-with-44m-raise/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Rockset Raises $44M in Funding to Power Search, Analytics, and AI Applications"
+    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Rockset ingests streaming ..."
+    publishedDateTime: 2023-08-30T12:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/rockset-raises-44m-in-funding-to-power-search-analytics-and-ai-applications/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
 
 secured: "Y+xsmbyFyKyYvIKn7G9zjM38iCR3yBsTQesjAuBsLe8B93sxNyGACW4F0zS8v9GLGUCh2CVi9nA216Qmhm04ZCNVrWtIjHH06VnTUQPVeRn25a0AKXwdEwOMgq9FkD3+BD6wIjMruUOZakSEOyzYiH2j3W3Mrj8zknuwPvEMCi3+4R8u2Tp+OjuhT7Bu1oSAsZEbYYFg+U6WKbtcXTvFiIavU1yoawwuXnieqNJq7Hn0fBJ/yaSXRe8EGSrC9QKFX1pYr1+R5nZobm5YZzGtYlMF41meKolb+kOv13Xg8gqLgx/XbFoYECqRm3kWoOpPVTluhjwBlnoDxTNzqfWwmJdx03h3DHB1iIbX4cMS2/bTM+ji7RaapeiCSpyDZ4YjJUmO1DfU8rjbFitOAlkrSNXRx9ZQUmA7W7c4PckjQMX4Ft/uc+7EqOSYrFsHvxzz/A9QpnbqT1Irp2dFuvI1bWn+KtiWdrV15tgb8UUqr4dkQUNbVO0obCXloGOBJDoSxzBl5P7ljoX4VLxsiTQU/A==;4AesjV4Bc2PZJ7StaoMFZA=="
 ---

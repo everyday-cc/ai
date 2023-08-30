@@ -129,6 +129,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Generative artificial intelligence has entered the classroom"
+    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
+    publishedDateTime: 2023-08-30T13:37:00Z
+    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 19
 
 secured: "u3BNIEglzePbg9Zo35cKSu6CHmssZkGuJRZcSaU3s8wEzdlmSPb3G9u87+hrX8riLeW0UokMS0mWRMfvul6qZQ7QmwOwsEEmMDhIsOGcqVrKhOXe6YCGl38wA3u/XwNouZ0neyvO7JW2TGlr3U+tvngpzubncPwuhVWbzWOPb0wXayqN8rFBj/FTMOWfItQ9sV8iZDSZHW9cZ3DiaI+H57j1Phos1q3L4VsZQkqxC52GFlHQ+CaxQzpb4M8l1qAnxdNanVnZZZE4KWuN/hyb38BAO3iSCEb+sD0thWWPqr6b4oR7xmG9ReNMHxg4EpzfbCdZxkxyDOaHFFHTJ8hA4sdKNutWNZoGtJXJFQ0EYZ4=;r/qPRUCMg78qRXEWA0pWsA=="
 ---

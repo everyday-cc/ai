@@ -2,6 +2,203 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-19-even-the-ceo-of-a-top-ai-startup-thinks-that-ai-will-be-the-biggest-bubble-of-all-time.md",
+      "title": "Even the CEO of a top AI startup thinks that AI will 'be the biggest bubble of all time'",
+      "excerpt": "Emad Mostaque, CEO of the company behind text-to-image generator Stable Diffusion, compared the current AI investing craze to the dot-com bubble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
+      "originalUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b69fce76558a00189d1a40?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
+      "publishedDateTime": "2023-07-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-googles-medpalm-emphasizes-human-clinicians-in-medical-ai.md",
+      "title": "Google's MedPaLM emphasizes human clinicians in medical AI",
+      "excerpt": "Large language models still fall short of human clinicians' abilities. The solution appears to be a lot more human prompting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
+      "originalUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0fd2a7a53d4e80a30b0edd9778cb3ee0b868780a/2023/07/19/4412589f-dbc5-4278-8ed7-1e49015b620a/gettyimages-1396801868.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
+      "publishedDateTime": "2023-07-19T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-three-crucial-attitudes-for-adopting-ai.md",
+      "title": "Three Crucial Attitudes For Adopting AI",
+      "excerpt": "For people who don't follow technology developments, it might seem that artificial intelligence (AI) has come from nowhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6979184197ee564f09e9c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/amp/",
+      "publishedDateTime": "2023-07-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-how-consumers-can-protect-themselves-against-ai-voice-cloning-attacks.md",
+      "title": "How Consumers Can Protect Themselves Against AI Voice Cloning Attacks",
+      "excerpt": "In attempts to offset these crimes, the financial services sector is using voice recognition biometrics, technology that enables companies to authenticate an individual by their unique vocal ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "originalUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-ai-in-healthcare-what-it-is-and-how-it-works.md",
       "title": "AI In Healthcare: What It Is And How It Works",
       "excerpt": "Gradually, Indian healthcare is taking one step ahead to embrace what it is called as “robotic intervention” with the help of artificial intelligence (AI) tools. We all are aware of this fact ...",
@@ -958,213 +1155,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-the-ai-behind-chatgpt-really-does-seem-to-be-getting-dumber-but-no-one-can-quite-figure-out-why.md",
-      "title": "The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why",
-      "excerpt": "There's been a growing feeling for a while now that the AI model behind ChatGPT is ... No one can quite figure out why GPT-4 is changing What the research doesn't seem to identify is why this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b7cbed593b890019f17bdc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
-      "publishedDateTime": "2023-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-the-engines-of-ai-machine-learning-algorithms-explained.md",
-      "title": "The engines of AI: Machine learning algorithms explained",
-      "excerpt": "Trying everything is impractical to do manually, so of course machine learning tool providers have put a lot of effort into releasing AutoML systems. The best ones combine feature engineering with sweeps over algorithms and normalizations. Hyperparameter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
-      "originalUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-451936193-100632457-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
-      "publishedDateTime": "2023-07-18T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-enhance-amazon-lex-with-conversational-faq-features-using-llms.md",
-      "title": "Enhance Amazon Lex with conversational FAQ features using LLMs",
-      "excerpt": "Amazon Lex is a service that allows you to quickly and easily build conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems for applications such as Amazon Connect. Artificial intelligence (AI) and machine learning (ML) have been a focus for Amazon for over 20 years,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/18/enhance-lex-conversational-faq-llm.jpg",
-          "width": 1021,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T15:48:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-un-officials-urge-regulation-of-artificial-intelligence.md",
-      "title": "U.N. Officials Urge Regulation of Artificial Intelligence",
-      "excerpt": "The U.N. Security Council for the first time held a session on Tuesday on the threat that artificial intelligence poses to international peace and stability, and Secretary General António Guterres called for a global watchdog to oversee a new technology that has raised at least as many fears as hopes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/18/multimedia/18un-ai-1-cpwj/18un-ai-1-cpwj-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

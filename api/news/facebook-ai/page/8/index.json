@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-04-why-halt-ai-research-when-we-already-know-how-to-make-it-safer.md",
+      "title": "Why Halt AI Research When We Already Know How To Make It Safer",
+      "excerpt": "This path is eminently clear: Instead of halting research, we need to improve transparency and accountability while developing guidelines around the deployment of AI systems. Policy, research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "originalUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/642b528c9a4669561fee612f/191:100/w_1280,c_limit/ideas_ai_tech_research_regulation.jpg",
+          "width": 1232,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "publishedDateTime": "2023-04-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-3-ai-stocks-you-cant-afford-to-miss.md",
       "title": "3 AI Stocks You Can't Afford to Miss",
       "excerpt": "Amazon's cloud unit is certainly not going to get left behind in the age of AI, and is investing heavily to gear up for the next round of growth. Lam Research is a key player in the chip ...",

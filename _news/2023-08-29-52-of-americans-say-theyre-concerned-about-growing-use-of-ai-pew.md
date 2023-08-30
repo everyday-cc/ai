@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it. They note nature was indeed the genesis of our ..."
+    publishedDateTime: 2023-08-30T14:34:00Z
+    webUrl: "https://www.therepublic.com/2023/08/30/jay-ambrose-artificial-intelligence-loves-america/"
+    type: article
+    provider:
+      name: The Republic
+      domain: therepublic.com
+    quality: 37
+    images:
+      - url: "https://www.therepublic.com/wp-content/uploads/2023/08/131857541_web1_Jay-Ambrose-696x865.jpg"
+        width: 696
+        height: 865
+        isCached: true
+
 secured: "YBzddecFpqiuJoawXxnRENe/UFp9No/ZdvS1grXED/aBCdJckssdoLnvE+jiZ9CnD1CrRkTeTBGqMy2lbexCVlbDPPV31nmor6q+h4x1tlJ+4cKar+wqDEmiBE/TocVFtz3/UjH/H3xMiWmVgtuLuzx33+NLQiqIRp9983nnKPR8ua2FdLLq8KOrYQ62P2cYcKmQP2V78+MlY4ycSiXnGIHQG5Eth+SFWptJwxLs3cNvcFWtPShywn/zIRPGCsjGAPEkQjFygkCWsBplQelDTqaNx7PX39DGT5bb3rS/9D8uOmk0b8bcFIu6cX+D8eHyuqbD2nBOyPEqp6BIch9mZaZCTESc8hF0V0fMrJCUHNw=;MCAlKn5dzd9iFh65qHGSZg=="
 ---
 

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -736,33 +736,24 @@
     {
       "path": "_news/2023-08-23-research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response.md",
       "title": "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response",
-      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities. Get up-to-the-minute news sent straight to your device.",
+      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html",
-      "originalUrl": "https://www.stltoday.com/life-entertainment/video_97569110-432c-5224-9829-a0106a4365bb.html",
+      "webUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
+      "originalUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/75/97569110-432c-5224-9829-a0106a4365bb/64e624d4280ea.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T08:52:00-07:00",
+      "publishedDateTime": "2023-08-23T08:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "News & Record",
+        "domain": "greensboro.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -19,35 +19,137 @@ topics:
   - AI
 
 related:
-  - title: "Google expands Duet AI features across its cloud services"
-    excerpt: "At its Google Cloud Next conference, the company said that it was adding Duet AI to cloud services around data analytics, databases, infrastructure, and application management."
-    publishedDateTime: 2023-08-29T16:33:00Z
-    webUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
+  - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
+    excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
+    publishedDateTime: 2023-08-27T16:24:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_324149159-100937108-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Cloud Next ‘23: New Generative AI-Powered Services"
-    excerpt: "A3 virtual machine supercomputing with NVIDIA for AI training revealed General availability of the A3 virtual machines running on NVIDIA H100 GPU as a GPU supercomputer will open next month, announced Mark Lohmeyer, vice president general manager for ..."
-    publishedDateTime: 2023-08-29T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
+  - title: "Nvidia's stock closes at record after Google AI partnership"
+    excerpt: "Nvidia shares rose 4.2% Tuesday to close at a record, after the chipmaker announced a partnership with Google that could expand distribution of its artificial intelligence technology."
+    publishedDateTime: 2023-08-29T18:45:00Z
+    webUrl: "https://www.cnbc.com/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/1tr32823-google-Hero.A.jpeg"
-        width: 1400
-        height: 934
+      - url: "https://image.cnbcfm.com/api/v1/image/107247790-1685417777216-gettyimages-1258274369-TAIWAN-COMPUTER-NVIDIA-29052023-10.jpeg?v=1693340834"
+        width: 3500
+        height: 2334
+        isCached: true
+  - title: "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia"
+    excerpt: "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ..."
+    publishedDateTime: 2023-08-29T13:14:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/745445/group-of-three-with-laptop.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
+  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
+    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
+    publishedDateTime: 2023-08-27T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-841956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How AI Could Ruin or Revive Our Culture of Learning"
+    excerpt: "As an assistant professor of psychology studying motivation and learning in children, I get immediate, enthusiastic, and sometimes urgent questions. Brett, a senior lecturer in the math department, almost always gets the same response: “Oh,"
+    publishedDateTime: 2023-08-29T19:08:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/developmental-diaries/202308/how-ai-could-ruin-or-revive-our-culture-of-learning?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/mini_mathperson.png.jpg?itok=guPnOR1Y"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "This megacap tech hitting a 52-week high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T15:06:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-a-52-week-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T14:35:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-an-all-time-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Inside China’s underground market for high-end Nvidia AI chips"
+    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
+    publishedDateTime: 2023-08-27T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14936857"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 54
+    images:
+      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
+    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
+    publishedDateTime: 2023-08-26T11:07:00Z
+    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
@@ -65,61 +167,69 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Pepper Advantage doubles India portfolio and expands AI/ML services post Rieom.ai acquisition"
-    excerpt: "PNN Mumbai Maharashtra [India] August 26 Pepper Advantage a global credit intelligence provider and leader in the credit management risk management and data analytics sector has added an Artificial In"
-    publishedDateTime: 2023-08-26T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273944478/pepper-advantage-doubles-india-portfolio-and-expands-aiml-services-post-rieomai-acquisition"
+  - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
+    excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
+    publishedDateTime: 2023-08-26T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-26/nvidia-s-soaring-value-excited-investors-top-the-week-in-ai-news"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 48
+  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
+    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
+    publishedDateTime: 2023-08-26T10:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 45
-    images:
-      - url: "https://cdn.bignewsnetwork.com/N2NkOWI3ODItMGF.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
-    excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
+  - title: "Nvidia is the AI king, but threats to its reign abound"
+    excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
+    publishedDateTime: 2023-08-30T15:13:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-ai-king-threats-reign-144635118.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
-        width: 636
-        height: 384
-        isCached: true
-  - title: "Google to add AI models to its cloud platform"
-    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
-    publishedDateTime: 2023-08-30T03:48:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
-        width: 1000
-        height: 665
+      - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
-    excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
-    publishedDateTime: 2023-08-28T15:19:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/110605/store-your-ai-workloads-in-google-clouds-customized-cloud-storage-services/"
+  - title: "How Nvidia built a competitive moat around AI chips"
+    excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.seattletimes.com/business/how-nvidia-built-a-competitive-moat-around-ai-chips/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-08-29T09:52:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-08-28T07:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/elon-musk-said-bullish-things-for-nvidia-shares-that-all-data-centers-will-be-ai-centers.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 30
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-Cloud.jpg"
-        width: 1000
-        height: 667
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-28-at-12.13.57-AM.jpg"
+        width: 1208
+        height: 584
         isCached: true
 
 secured: "Q5Tfu0/6+W5VaHYOeb/qsIAd5Y3zfjOGBoOoLtioocZZldTx7wDw5h2Npy9DJbTYwHL2DWgtEwm5XB5QyFlkW8XnE+XN4uiP/gy+ajxCvHCBGXb1NpGGZ5h4fEjMG5XzPzGDCvj2P/01qoXjcKDtvQXycKqBG7JiM415QH2Mb5DOf1iWyZo1DS26aLfceHM0MlwT/vQTkhIDR2rJJfbDFa3Hmgb2KsMwI05mRBxzPR0O3fPKVR+QfzJS/vqiAmmBWd0iDiBAnf73aqecElQkheSNz7EpeTzzX3l664pdtZXpoC0TWuBUuxbSFdgaDi62vcEUVzTXPR7ukt8OdN0+oLiBQEhHdUnjfXhA+2hdFrs=;nZfuZKHEH6X/f9q64p1CGg=="

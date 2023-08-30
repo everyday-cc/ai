@@ -181,6 +181,15 @@ related:
       name: dbta
       domain: dbta.com
     quality: 28
+  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
+    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
+    publishedDateTime: 2023-08-30T12:30:00Z
+    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 25
   - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
     excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
     publishedDateTime: 2023-08-29T13:28:00Z

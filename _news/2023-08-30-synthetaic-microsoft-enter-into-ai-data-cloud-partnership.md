@@ -181,6 +181,15 @@ related:
       name: dbta
       domain: dbta.com
     quality: 28
+  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
+    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
+    publishedDateTime: 2023-08-30T12:30:00Z
+    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 25
   - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
     excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
     publishedDateTime: 2023-08-29T13:28:00Z
@@ -200,6 +209,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "+sNL2iJ4YQFo/fVfes9f1EL8OZPUXBpkUixdlYU/CRnkEsEAJZnc0u5ZyxLEXxfSI1J46eEIHLmJ4VLuMI/WBFiy/YC35Ff89IN0xLOKSpAnboqSLbsb449dY56/qkZ3ZOzBm5pvef3DFUpbDRGm0STDRHiq+ihHwCZHsrFxh6bGZWMxpELy+XCJK3vmDywi/K2iPhd1ttgmetz6UlWxzXZUXIjWGV28YZz4kRyXhm++S7H5pKhnBhLOXKiYakjBBXkI6Ekj/BqnG5h54eupGaY2+ZWDwkj9TAwTDeOPSw18SLDFkiy4bmZns3v+VusVUUmBwuciuWXYana9hsTS7Dhe61DGHcPwvMZVuPb73PM=;H/z9aYO+sJSvPIu3ixrkxQ=="
+secured: "h2WGB3V6WJMAUGHvzsdgtIkwqjD2zTusnbf1g+nVWK2oNUMy8V/U1uiZDQHQHi91W34lGSpRj8TY0MV1eOi+wUCiXKUUa6GTaQ5iTkEqWlpOlOlmnYT7wDanxUesfrvIuo7ifXOT1TnEnMkofHudRlBpDpk/LK7OXM17++aP0+7C7pJvjk3HjkuqE3iyOq7miPKAdX8eHAG052OUoCHPCOpollnlclseBTgi5Q/TOvGzPyTavUiTklmzqHRkynpZ8i6EYTuuemgmniwrMLwuLgaqDWcdgL+OmMfpVYomvf/p6/GvzsutrSuZfFhUP1oNE7U4Ab/Lgd9XQhrAzPUxwwh3SjzNbeE6EEY2Tagb+OWAoMQDrQxn9AwnmxPXODXwYNA+KFjdk6lBpuzKKkb3UXKPLWkGPo15deAUuG/Y1mYUGRf0bRaKNnwO/vVgqt9Yk0JkH8gRxIyc2vgkuPFIl8GXKfs/jfIAFWFwyeq91xjrJ9LPR0EkEVORBuW/PFRFbsTxd67HpLRqRIs+dzTr8g==;vVlrGONUJtfewWkfcRA1oQ=="
 ---
 

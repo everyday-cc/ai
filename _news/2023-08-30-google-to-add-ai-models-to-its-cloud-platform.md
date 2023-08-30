@@ -55,22 +55,6 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
-    publishedDateTime: 2023-08-29T16:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34097306/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097306"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097306"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Pepper Advantage doubles India portfolio and expands AI/ML services post Rieom.ai acquisition"
     excerpt: "PNN Mumbai Maharashtra [India] August 26 Pepper Advantage a global credit intelligence provider and leader in the credit management risk management and data analytics sector has added an Artificial In"
     publishedDateTime: 2023-08-26T09:57:00Z
@@ -113,15 +97,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
-    publishedDateTime: 2023-08-29T19:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "tSiC9NzTE15+gpCTzFMasJdCCvUQ1aAnTlhQmVbbvCKw/7p7FJioIt3WSR+KYO+CJx/1jLal4HGcYeDEHNU6N3jWTFXQNoH8EHJSkhZOKyFUKhq8FHNgbSvRK0AT1UUWp86By7A1hYBuNXSYf9IxYHe0V3/l3ehb12Ajiq/9822p/LrI8MkOQdS8hwpPFoJb9TeURuTxhb+KcasZH54EvyQIqGDF5LBu54Eu252q4hTnnpHrQoB6cU7WaT9qSUGuWiqqlPInMYk5ZZFC0Tzc2rdjKypMLGwWChXFJTbKECW8FyCPkSMtkozjgQ7wGnNq9EHyKcq6eo4Ezldi/0lALh4bCs3C8bCB/YyFqbmnAjc=;dGCkWnjEtrjjaRR9GSSQRQ=="
 ---

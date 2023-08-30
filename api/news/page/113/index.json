@@ -2,6 +2,214 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-06-15-how-microsofts-azure-ai-studio-will-allow-companies-to-build-custom-copilots.md",
+      "title": "How Microsoft's Azure AI Studio Will Allow Companies To Build Custom Copilots",
+      "excerpt": "The cloud capacities of Azure seem an excellent fit for AI use, especially with the company always focusing on the risks as ever, and this concept is now being taken a step further. Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1314709/how-microsoft-azure-ai-studio-allow-companies-build-custom-copilots/",
+      "originalUrl": "https://www.slashgear.com/1314709/how-microsoft-azure-ai-studio-allow-companies-build-custom-copilots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-microsofts-azure-ai-studio-will-allow-companies-to-build-custom-copilots/l-intro-1686837585.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-hholove-o-sitter-review-best-companion-ai-robot-for-cats.md",
+      "title": "HHOLOVE O Sitter Review: Best companion AI robot for Cats",
+      "excerpt": "Well now let’s start the setup of the O Sitter ... As an intelligent companion AI robot, O Sitter can also play with your cat for you. There is a laser emitter on O Sitter’s head, so when the cat is bored lying next to the robot, we can activate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/maxresdefault-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
+      "title": "How Machine Learning And Location Data Are Disrupting Industries",
+      "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489c66337a23195857d5722/0x0.jpg?format=jpg&crop=1942,1092,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "publishedDateTime": "2023-06-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-quadruped-robot-market-share-and-forecast-till-2030.md",
+      "title": "AI Quadruped Robot Market Share and Forecast till 2030",
+      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (XiaoMi, Sony, Boston Dynamics, Petoi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-asset-management-vs-parts-inventory-management-whats-the-difference.md",
       "title": "Asset management vs. parts inventory management: What’s the difference?",
       "excerpt": "Examining the differences between asset management and parts inventory management.\nThe post Asset management vs. parts inventory management: What’s the difference? appeared first on IBM Blog.\n",
@@ -974,196 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-deepchecks-raises-14m-to-validate-machine-learning-models-continuously.md",
-      "title": "Deepchecks raises $14M to validate machine learning models continuously",
-      "excerpt": "Deepchecks was co-founded by Chief Executive Philip Tannor (pictured, right) and Chief Technology Officer Shir Chorev (left). It originally intended to be a traditional machine learning operations platform.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
-      "originalUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/2205-Philip-and-Shir-Deepchecks.png",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai.md",
-      "title": "Why Companies Are Vastly Underprepared For The Risks Posed By AI",
-      "excerpt": "From accuracy and security threats to bias and cultural implications, this article explores the reasons behind organizations' lack of readiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "publishedDateTime": "2023-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-artificial-intelligence-wont-likely-reach-human-like-levels-without-this-one-key-component-study-finds.md",
-      "title": "Artificial intelligence won't likely reach human-like levels without this one key component, study finds",
-      "excerpt": "Artificial intelligence platforms can mimic human learning, but will likely not match human-like cognition unless the programs are connected to robots, study finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "publishedDateTime": "2023-06-14T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
-      "title": "Robotaxis take over the wheel",
-      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LewistownSentinel.com",
-        "domain": "lewistownsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

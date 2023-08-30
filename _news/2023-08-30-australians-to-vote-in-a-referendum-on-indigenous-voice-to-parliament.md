@@ -109,19 +109,23 @@ related:
         height: 668
         isCached: true
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-    publishedDateTime: 2023-08-30T09:27:00Z
-    webUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
+    excerpt: "The Voice would also be a first step towards Indigenous claims ... When Australia last held a referendum in 1999, Indigenous recognition in the constitution was a key issue behind one of the questions. Australians were asked to approve adding a preamble ..."
+    publishedDateTime: 2023-08-30T13:25:00Z
+    webUrl: "https://www.vindy.com/wire/?category=6&ID=300952"
+    type: article
+    provider:
+      name: The Vindicator
+      domain: vindy.com
+    quality: 0
+  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
+    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
+    publishedDateTime: 2023-08-30T08:48:00Z
+    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 10
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/BL8muOB2eJNGNZpX4edNgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_associated_press_484/6ba6c5d6e6b90ceeb0f0c0c4afe52c76"
-        width: 1200
-        height: 801
-        isCached: true
+    quality: 0
 
 secured: "rnK5QoAawBPJ57e8QJ+j/2oxv0MZflU9gBpDy1ZU3w1sxmk/vmP4Lg9zhO63yElyvV7y1r7Yqlu4ViHBDDlMCb10gC8k9J/WoMUhbOrIoNHllciBJmTf/uAZ0sv7n+d+d3GHbfp5hZiutWsgukfzt/jQbZZtGr9pD6vGmpSEt+Ra218cHrqi3KC0oevlWzlwlJ72gYqbUlgwiHYoTCfGqdTlpHvChEsKX3mTeLiZDeHlvKOyK/7787C23IuwcWn2PmLIwhFtO4T8t+/AFva/OsmKnSdZvR4uHSWPV0xxkt1D80uReU4NAqmXhjPGuUuEm0ONJCL4aembNQIKtoD1z2e/IqCnYufn2R+1U1oo8Ng=;N7yDO1oAG/Kub7cf1/drAA=="
 ---

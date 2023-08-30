@@ -2,6 +2,180 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-08-09-ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses.md",
+      "title": "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses",
+      "excerpt": "Aug 9 (Reuters) - International Business Machines IBM.N said on Wednesday it would host Meta Platforms' META.O artificial intelligence language program on its own enterprise AI platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform.md",
+      "title": "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform",
+      "excerpt": "ARMONK, N.Y., Aug. 9, 2023 /CNW/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter model in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33662604",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662604",
+      "publishedDateTime": "2023-08-09T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon.md",
+      "title": "Including AI, ML, Coding & Robotics in school curriculum is imperative now, says CISCE head Gerry Arathoon",
+      "excerpt": "The inclusion of AI and robotics in education is imperative for preparing students for future job opportunities and fostering holistic development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "originalUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/AI_and_ML_in_school_curriculum__1691580240632_1691580240817.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "publishedDateTime": "2023-08-09T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-how-ai-and-ml-can-revolutionize-banks-signature-verification-process.md",
+      "title": "How AI And ML Can Revolutionize Banks’ Signature Verification Process",
+      "excerpt": "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d245bfa0bd804d8ede498f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/",
+      "publishedDateTime": "2023-08-09T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-pope-mulls-over-the-ethics-of-ai.md",
       "title": "Pope mulls over the ethics of AI",
       "excerpt": "We need to be a bit positive about this Pope Francis has issued a communique announcing the theme for World Day of Peace 2024 as \"Artificial Intelligence and Peace,\" emphasising the potential impact of AI on human life and calling for responsible use,",
@@ -989,215 +1163,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-generative-ai-highlights-nvidia-keynote-at-siggraph-2023.md",
-      "title": "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023",
-      "excerpt": "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1",
-          "width": 696,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-20-mistakes-to-avoid-when-developing-machine-learning-models.md",
-      "title": "20 Mistakes To Avoid When Developing Machine Learning Models",
-      "excerpt": "Machine learning models can be incredibly valuable tools for business leaders. They can aid in interpreting historic data, making decisions for future initiatives, helping to improve the customer experience, detecting fraud—and more. However, a poorly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/20-mistakes-to-avoid-when-developing-machine-learning-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/20-mistakes-to-avoid-when-developing-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d24936a0c9451a52034c63/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/20-mistakes-to-avoid-when-developing-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/20-mistakes-to-avoid-when-developing-machine-learning-models/amp/",
-      "publishedDateTime": "2023-08-08T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it.md",
-      "title": "Nvidia CEO: We bet the farm on AI and no one knew it",
-      "excerpt": "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/",
-      "originalUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/",
-      "publishedDateTime": "2023-08-08T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-35m.md",
-      "title": "Seattle startup Dropzone AI, which develops autonomous AI security agents, raises $3.5M",
-      "excerpt": "Dropzone AI announced a $3.5 million seed round led by Decibel Partners, with participation from Pioneer Square Ventures Fund. Dropzone’s pre-trained AI security agents are designed to work alongside",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/",
-      "originalUrl": "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/64caaf5ee67f84f8a90d94ef_Edward-p-500.jpeg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

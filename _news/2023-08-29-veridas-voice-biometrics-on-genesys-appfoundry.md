@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1298
         isCached: true
-  - title: "Future of Global Voice Biometrics Market: Opportunities and Challenges"
-    excerpt: "The Global Voice Biometrics Market is all set to achieve a Compounded Annual Growth Rate (CAGR) of approximately 23.48 during the period 2023-2028, a"
-    publishedDateTime: 2023-08-25T21:47:00Z
-    webUrl: "https://menafn.com/1106950941/Future-of-Global-Voice-Biometrics-Market-Opportunities-and-Challenges"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?362734"
-        width: 333
-        height: 250
-        isCached: true
   - title: "NFL’s Tennessee Titans and Verizon to use face biometrics for fan access control"
     excerpt: "Face biometrics for fan entry are coming to Nissan Stadium, home of the NFL's Tennessee Titans, in partnership with Verizon, which works with Wicket."
     publishedDateTime: 2023-08-29T18:55:00Z

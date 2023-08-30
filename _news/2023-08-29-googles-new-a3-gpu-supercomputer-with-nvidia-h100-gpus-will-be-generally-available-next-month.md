@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-w
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
+    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
+    publishedDateTime: 2023-08-29T11:58:00Z
+    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Iris Energy buys 248 Nvidia GPUs worth $10M for generative AI & Bitcoin mining"
     excerpt: "Iris Energy has bought 248 Nvidia GPUs valued at $10 million to explore generative AI computing alongside its core Bitcoin mining operations."
     publishedDateTime: 2023-08-29T14:26:00Z

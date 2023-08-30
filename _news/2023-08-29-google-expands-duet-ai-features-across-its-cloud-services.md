@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-fea
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/1tr32823-google-Hero.A.jpeg"
         width: 1400
         height: 934
-        isCached: true
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
-    publishedDateTime: 2023-08-29T16:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34097306/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097306"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097306"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Pepper Advantage doubles India portfolio and expands AI/ML services post Rieom.ai acquisition"
     excerpt: "PNN Mumbai Maharashtra [India] August 26 Pepper Advantage a global credit intelligence provider and leader in the credit management risk management and data analytics sector has added an Artificial In"
@@ -117,15 +101,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
-    publishedDateTime: 2023-08-29T19:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "l2BEXMOvYuuAVi8w5X+yDXN9QQH8q88j+4/B6o1qCU2M3/v1oDPN3T1Ck04Y2js9B886D22Jsl0ZDdb9XeA5BljvQaVxEh1yG4VX+PlT39CMgq7wZkmp7DEJLdA2V6xP2Oj3fqbyRSOUY1QdfXQlw4h3iL34+VKRVqvzQVbnj3LHA2N/0UmCeF1luj7nJdo1IJcirIMawVtRFuF8xCXoa0QpxQJhU5CUQXIi/+NkWLOVHZJ8C5KY2noe6kt7cPpeFnQiAKS3cHVQyJdHa7ImZza99515nIGexuRTM9hxRMW7aiUaEao+XiXxSKx03drRBmdBLhHPZMlm9la1fLciZ5LmBY6oj+moafGd04tsM+gG6OZKE7Jaw2eNc3JirNxMBcsFw/HpvhP6N5e11X0Kw+Ayp1jKvwkyJxgas33dC5rfRqWcfpJWSK1oFyp6eu1qaZrOzwcCF+V/HLS4/NJTRPiVWkP3Assa8OZrw6FBeFm2eBySsoTaQgxqYn0uvzlx0/Ip5G2AQvrn2jBBUMz0oA==;8Ukwt1XD45h+7EHycdBQSw=="
 ---

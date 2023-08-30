@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-30-samsung-gets-into-food-with-ai-powered-recipe-planning-app.md",
+      "title": "Samsung Gets Into Food With AI-Powered Recipe-Planning App",
+      "excerpt": "I've been with PCMag since October 2017, covering a wide range of topics, including consumer electronics, cybersecurity, social media, networking, and gaming. Prior to working at PCMag, I was a foreign correspondent in Beijing for over five years, covering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/samsung-gets-into-food-with-ai-powered-recipe-planning-app",
+      "originalUrl": "https://www.pcmag.com/news/samsung-gets-into-food-with-ai-powered-recipe-planning-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03grxuThdE3dnTlYaa5xUHt-1.fit_lim.size_1200x630.v1693402676.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-migrate-and-modernize-ibm-maximo-with-aws-and-red-hat.md",
+      "title": "Migrate and modernize IBM Maximo with AWS and Red Hat",
+      "excerpt": "The recommended options for running IBM MAS on AWS, the architecture and how components come together and provide a solid foundation for running IBM MAS.\nThe post Migrate and modernize IBM Maximo with AWS and Red Hat appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
+      "originalUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:53:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-harnessing-ai-for-market-research-opportunities-and-challenges.md",
+      "title": "Harnessing AI For Market Research: Opportunities And Challenges",
+      "excerpt": "Sophisticated natural language processing algorithms ... insights within proper business context to translate findings into strategic recommendations. • Proactively validate findings by triangulating AI output with both quantitative metrics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee4143b3c813b9ed4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "publishedDateTime": "2023-08-30T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-6-ai-tools-to-make-building-business-relationships-10-times-easier.md",
+      "title": "6 AI Tools to Make Building Business Relationships 10 Times Easier",
+      "excerpt": "As AI becomes more and more integrated into our lives, the evolution of AI tools for business networking holds promise. We can anticipate the development of even more sophisticated AI tools designed to assist professionals in maximizing their networking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1692992802-ai-tools-business-relationships-0823-g1500238079.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease.md",
       "title": "Exclusive: Hex adds to AI grab for San Francisco office space with new lease",
       "excerpt": "Hex is the latest AI company to add lease office space in San Francisco, a bright spot in a city looking for a recovery. Hex, a startup focused on data and artificial intelligence, is the latest tech company to bolster San Francisco’s reeling downtown ...",
@@ -156,7 +355,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -766,7 +965,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -965,7 +1164,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1041,204 +1240,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
-      "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
-      "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "publishedDateTime": "2023-08-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-208434-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Cancer Diagnostics Market to Surpass USD 2,084.34 Million by 2032",
-      "excerpt": "Ottawa, Aug. 29, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in cancer diagnostics market revenue is projected to reach around USD 1,466.72 million by 2029, a Study published by Towards Healthcare a sister firm of Precedence Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34095294",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34095294",
-      "publishedDateTime": "2023-08-29T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage.md",
-      "title": "Oracle’s stock wins an upgrade, as Wall Street may be underestimating its AI advantage",
-      "excerpt": "“We could be sitting in front of 6-12 months of GPU shortage noise and we haven’t even seen the $2 [billion] in AI start-up commitments convert to OCI usage.” He added that he had been skeptical “about the existence and certainly sustainability of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "originalUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-798898/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "publishedDateTime": "2023-08-29T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem.md",
-      "title": "AI to star in the launch of Webflow’s built-in app ecosystem",
-      "excerpt": "Leinwand invites developers to bring their ideas and start developing on the platform. In a call with VentureBeat, Jasper AI President Shane Orlick discussed the company’s partnership with Webflow, emphasizing how gen AI is empowering creators.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
-      "originalUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/IMG_0455.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

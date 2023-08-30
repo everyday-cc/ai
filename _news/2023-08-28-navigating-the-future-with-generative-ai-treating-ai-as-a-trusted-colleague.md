@@ -94,6 +94,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
+    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
+    publishedDateTime: 2023-08-30T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Artificial Intelligence Is Ending Micron's Downturn"
     excerpt: "While Micron is a long way from printing profits like it was during the pandemic, soaring demand for servers capable of powering artificial intelligence workloads could help pull the company out of its downturn. Demand for AI servers is exploding."
     publishedDateTime: 2023-08-29T11:51:00Z

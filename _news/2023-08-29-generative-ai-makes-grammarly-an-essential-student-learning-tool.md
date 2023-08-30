@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 632
     isCached: true
+
+related:
+  - title: "While popular with Canadian students, six in 10 consider generative AI tools cheating"
+    excerpt: "including AI ethics, says Ms. James. \"If educators can offer more courses about generative AI, it will help students develop the skills they need to use it properly, responsibly, and effectively both for school and in their work careers,\" she says."
+    publishedDateTime: 2023-08-30T11:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34110760/while-popular-with-canadian-students-six-in-10-consider-generative-ai-tools-cheating"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "8GJryW3lrYDs/Mn27ZuJUxmOCVu7x9Z8D1yfuNC18ipnjzB+4uObiyxNRfbEE0+L4I0un0bwTRV9dAsjLgS34LjPKvMwIOV9YYQZc31edTpu92GW3yOJaSkoIfaLlcrPZ4Ebm+TTmO0SGGrB+CMuHbO+9RITUt+XLJPHFD1PA17STwc9r3rIWoT3dvyEQe0+2eSwP1MzStpYeB5t2qh6ClVAM7F1pWRn7e4mg7S72FS0kJ6C3itNFneJ3t53N/3P9tA0kk35gYMz+SlRgTU6efkkg3dNtg9Fma9amrX+jLFJpvreYxkc157tSXkXrrp1wI1fDXq1zafDo4LOiXuZJGlKkGeJEO8Zw4Os1n2L9M6BJSGmX2qRTpfLEd2VFMcsrpJgUeimJLbdikYOijadkyfRhbkCJDjymsFtK5dfv3JGKv4ZOz+BSrYXrnyMqn/Zj5UIYlVpTJ3Y+ORjS2EX2rLyC13wrp13plI0owczN7ryrtEWen9vlcoZRFrkj/xOeNt5JVEupb8v9Oxl+QIZAA==;fwqNcsfhRcyYrd7hOE7g7Q=="
 ---

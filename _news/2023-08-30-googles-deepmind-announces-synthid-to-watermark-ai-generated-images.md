@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind unveils AI watermarking tool as political pressure mounts"
+    excerpt: "As governments increase demands for labels on AI-generated content, Google DeepMind has released a potential solution: a watermarking tool. Named SynthID, the system harnesses deep learning to embed digital stamps into the pixels of images. According to ..."
+    publishedDateTime: 2023-08-30T14:17:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-ai-watermarking-synthid"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-4.jpg&signature=f5d0e747fd93332c435e17b49afb3e74"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Former Google DeepMind Researchers Go Deep for Sales Triumph"
     excerpt: "Everyone is building these pretty-looking prototypes with large language models and putting it on Hacker News. While it looks nice, we still haven’t seen deeply integrated use cases, which are of high quality,"
     publishedDateTime: 2023-08-28T05:05:00Z
@@ -95,6 +109,6 @@ related:
       domain: technologyreview.com
     quality: 33
 
-secured: "N3+etEg6Ce2pusPi5+Bbs5oiOmiMvbHiEZ5j6wPgHArtq9Fu687x9DdtU31WmJm4JOU8qOBgoWiQKE/mxm4lXX6XT2IwRZcgSE4Fp+ewm38DBm7i1L+3309Zpe/E3oBZJrSZkBFlOc7pC2s0evn9eIitNrLEZFQaWhGOPHUwsJhkW/g5JBullRA4urI7XCUtl3Jbh2bgOA87eKvA7r6ICpVYnlN3dTBwRVDAAjskSX06zogbPBZ5PHBjdM2vgN/zj4XazXKr9uEal1mvrhXVS4JMQrpAwDT97P5cMSAD42RiiMOj/n8UZKmOkS934D59uz5j3ySY5oCZU4dezz7LBVZr6mc/SigG/807/C4OKAQ=;dIec1VEYh3xZCUYk+iQFUw=="
+secured: "3gp2+LmIaj8hbDNfg0rlL+lranjymiVkY2/2m2iLm29w6r5z7KSSfi6st9+nfyUGJta9LKayriAgjJ9FzxLDCrGWC3ujzX7aAIlN5vKG1W+M4KJsEBdDMVDf6X0CWZv2QSSxDaVAljefAZ+wAQNj7+NupBiUvf42GVKESjN5BBBQ4h1qQ426n0XGmqXefbmGroapc4WvAM+BhSlqIXDXX4IeZD4t4vEkRU6c23isxE8R6EH+QX4/NxAZHc3mgOIV/E0IH5oNj3nGP2theaWAmY8XeJUFxCRtwSwUN7qhO3pRejrM8borNzY+ZSRp+Xhfi0XV834LqOhNKRUiT9WBhELaYq8xIoj9EGpBI+eoeCydP7BAxkSrObTBesk7lu18PKJ+4o+w3M+kRoNhsuxMtwJxgvLrNxnxlrwTWl8+5zpEZob95Ndz54PydhrS/XvX8TVW9Fy1yKO9NMsjgewFN2W4mTKBblA0mYFJomiDqKRVqndawSAvuTdOKfC/W2ivTPfGB/o3nvUht4tF9IZ6Vg==;RB60f8SqlDFOQ4SGv+i0Xw=="
 ---
 
