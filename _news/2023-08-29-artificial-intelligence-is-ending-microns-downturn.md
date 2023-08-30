@@ -84,22 +84,6 @@ related:
         width: 764
         height: 563
         isCached: true
-  - title: "How will AI impact outdoor adventure education?"
-    excerpt: "Educators working in the dynamic Adventure Education and Outdoor Learning (AEOL) field are trained to assess risks and respond. But are they ready for the fast-emerging impacts of AI?"
-    publishedDateTime: 2023-08-25T16:57:00Z
-    webUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.html"
-    ampWebUrl: "https://phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-ai-impact-outdoor-adventure.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-out.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The weaponization of AI: How businesses can balance regulation and innovation"
     excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
     publishedDateTime: 2023-08-27T15:21:00Z
@@ -113,6 +97,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
         width: 1198
         height: 672
+        isCached: true
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
+    publishedDateTime: 2023-08-29T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Q&A: Uncovering the labor exploitation that powers AI"
     excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."
@@ -155,20 +155,6 @@ related:
       - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Cannabis Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-08-25T16:23:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-cannabis-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 34
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/Cannabis%20Drug%20Weed%20Marijuana%20Plant%20Leaves_0.jpg?itok=5SaGe5Mr"
-        width: 500
-        height: 281
         isCached: true
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."

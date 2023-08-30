@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Welcoming the generative AI era with Microsoft Azure"
+    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-28T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
     publishedDateTime: 2023-08-29T14:55:00Z
@@ -121,6 +130,20 @@ related:
         width: 3584
         height: 2048
         isCached: true
+  - title: "Microsoft's mobility head explores AI's game-changing impact on automotive innovation"
+    excerpt: "Microsoft's Henry Bzeih discusses AI's transformative role in the automotive industry, from efficient product design with generative algorithms to interactive in-vehicle experiences like Mercedes-Benz's ChatGPT integration and AI's impact on the vehicle lifecycle."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.autonews.com/sponsored/microsofts-mobility-head-explores-ais-game-changing-impact-automotive-innovation"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 47
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/AN%20Driver%20Seat%20-%20Microsoft%20-%20082823%20-%20SS.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
     excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
     publishedDateTime: 2023-08-28T10:00:00Z
@@ -166,6 +189,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
+  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
+    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
+    publishedDateTime: 2023-08-28T19:37:00Z
+    webUrl: "https://www.inferse.com/696630/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "omanjgxUCB6SxB2FMHOxemZjTsRBGW9HnJXJwRkM3McfIG9e4p/OK25vsfSEcYhfDpAq1Wojxc943e2fugywMIPJtdL6wH3VYIxwIdMTWATJQl44UuWadbo2yRrmIWpB6e9aY8VTAAxgaL1Zj9UNSD5dJYB66qVAf+weAy9kVG/bDEY77YXFfMq448qkL1S8k2XdwnMhaAl9fOGw1Mf/dwWyHuVJwMhM22mfZ+bnuCy05TkiIlNz6r14joeECwbS872MmFwk19daYw3sGo3aXkpwF8KbOKmzMHYHzhRM2jXSpEtOqhs77J3M8KrNU6i0G4/CKyrnlOXZDVlD+qSboWmIXIHqL9mvBV7YpaIDLfsQiDEujrTwH+dLeKXuR7IZDdySJTajNpU09oGNdls6lnSycDlGHwu3jPTMq/A/EqY05V0mFtQOPSm0J58rlA185GMfiupPFfAfZTzuBhuVIgOHqAePyPuDeUFAz6IIkhQTobr1kSDY65kSv39mL/PppEvYV6mad/LVcnp6zrWd6w==;yO3ysBpMk6TKONu/Youq8w=="
 ---

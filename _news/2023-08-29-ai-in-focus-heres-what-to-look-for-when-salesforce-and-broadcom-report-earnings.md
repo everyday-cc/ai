@@ -31,22 +31,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
 
 secured: "jg1ZBANSVo4V922hfaBLOq4JJJa5Iw0giviWqNadQc//cH/43r/5EJ2v3WVVstA1ij7DstC+v9JJ059rjFpsBrY8XCPZ2taXiJVfzcj8Emn4RX5C2CqYXuvgNWqd//y9tJJAQPJZasLoETAf0Q9Ky0T2DIUxw4NSjs3ZyKipDBVpc4HMHljLX24aTqggUX7lyEewOh7BvX0hrrVC3qBQk/Ph8EaXa6tpEpq1kG9LoktaYUegLggW1fopudDZsqOY7+TAKfQ4NVpFa7UeKCOxc4+f577JRSbLnBVKhARwusDEPSpCrTffWTc+YRzwOtWz8iTTUDKS5hFpc65ob9LOkrQp3/xDnRaNB44q2HkcVOiDrT/c5q90a39iffYnvsoNaoXkeYTejdMb1WUE7s24gqEJs30h8orpzM6OacfT2XWtrwm5ouucChMshj0EIsbO/icHv9l9LHSfBWqxjM5A77bM91tPt/XsLNfCecBycpS6elO60t3I4Z9nEGVkQqbk2UD6JxXbvSMI/C92DY5ogA==;NjYLyP49Xj8ccaLg1TrpHw=="
 ---

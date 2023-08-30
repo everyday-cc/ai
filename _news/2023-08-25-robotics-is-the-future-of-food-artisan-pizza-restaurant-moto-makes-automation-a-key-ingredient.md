@@ -6,9 +6,6 @@ publishedDateTime: 2023-08-25T15:18:00Z
 originalUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
 webUrl: "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/"
 type: article
-quality: 71
-heat: 71
-published: true
 
 provider:
   name: GeekWire
@@ -28,6 +25,6 @@ images:
     height: 1583
     isCached: true
 
-secured: "L/AiaCN6UTW5TYYkqy4CGpfZ8BytBDxBOcI+pAQe824PSeJs8CCDz0yhBfYGnvRtCapK7nrLL+DErKYLxpSgukbkoOrVsXae4HHziEvLr4gryfo3oQOxHiMamYNnJDg+eYd7sGBHrA7yzYMc5TT0RkhvwnkXqZn0ninsj+VGVKQ3PYP98YN/8ESB8ylt4mHurMy3QTi34s5mYnp0zrz4dOgBHB5fGDHFES7pJn+2y1yK9QTHRkPV2hEEFWPxqJscTT58gppsZBTPp3jc4cosMPLXFJ6SN6XSzhHW4kMruof7MM2q/dLrMA5pEW39A2mLQKuCoZNDLddaY6htxkwT90pDiUhTmqqxGRGesEz6JyQ=;fLVLWgJoRhWAGuUWrElaxg=="
+secured: "DZ1RF2cVhM8xC2YuY7YjoKmvD4FpunNt+zQAQRQlmOj29gyZ8/cUSgMKD8npCGELyJDnnT32HXVU9Q145+Dn9nsGx9jfMpzZNlFSS8SFnhu8ZAZoFUPCOcanZvK/q4YmM2zyDtAv3jRxatlnuPyBBfwf0W8c+bTGiv6KKrq5xHuKLT9ew1IzkSE2Cr0e8UCCRoxPXSqFZM7+yjZoCbshtyauLaT6/Ze157cC0S0g/6p89XcfagfzWTEMpTf0PauaBtM3K+RRPgXNygWxSkWDlU7N3AUEs5r+dhc1Q2nrHofARzkk3iKsEMpCbNa7+AR8M5jAGpKegyjzzq0fEqWaVuWD+Z/hqmwMj4Z8E+KHzpg=;YAHNOF5/wKvQbLlq8PRJCA=="
 ---
 

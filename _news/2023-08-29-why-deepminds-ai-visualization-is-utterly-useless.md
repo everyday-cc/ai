@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-deepminds-ai-visualizat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-deepminds-ai-visualization-is-utterly-useless/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
         width: 1246
         height: 701
+        isCached: true
+  - title: "Google DeepMind creates new watermarking tool"
+    excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
+    publishedDateTime: 2023-08-30T09:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57503-google-deepmind-creates-new-watermarking-tool"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d9da40207696c111c927705d3103c0f2_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
     excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."

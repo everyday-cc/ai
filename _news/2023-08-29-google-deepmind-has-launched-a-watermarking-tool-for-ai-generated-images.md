@@ -63,6 +63,20 @@ related:
         width: 1246
         height: 701
         isCached: true
+  - title: "Google DeepMind creates new watermarking tool"
+    excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
+    publishedDateTime: 2023-08-30T09:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57503-google-deepmind-creates-new-watermarking-tool"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d9da40207696c111c927705d3103c0f2_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "jMJwDPZEKQgJBnlpYbOo9Wn+7LMFDeiweBTQ0ZLrdBxtfYYnfYKcSsx7fai/+JVEGS+C4RIVtUIrfFavZJ9QyljJ8P+K7yLr7DseBFkaDPdpkUDE7IAKAQiAtI9s1EtWz/jQwjUdsRS9vj+15jsoxPnBYI5EMrZXnz/sX4fbhYsCX5TkkvJ5ez+EQKsT9dzuw8o3jwpMU9lzGIFk1U80yOOAHvJqBufpYET6nRHmntJbXtzGHrQ1cTOKPLpgiU2Eh9HAKdYGQOn6Wjs1i1E/5KQ6Yg3qS8xV3yidzjGS8W3qk9VYK8UNA2mC02ljXAhxUHIUeKdfimS5qaHGu4dGZ2LDBEaE1mA1qfQuqbRdrh65ereS7eiMyONFiA4pac9GQyuC435Ri/E3qd1amugu+pLhvkx4Soh7MhZQwvSdUW5ngXUjMQA/Cm8D4xZp7NjyaSYk7SzWBhkXyKWeKCy4FTkAxW49O0y95VVsjj5X0isag6l3QGwUC/KQviklqFT3/DZKoG+ueKJHnImIAyqYNw==;oyLBJmTpDBYvexpNP2XyRA=="
 ---

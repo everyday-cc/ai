@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-04-04-new-software-developed-to-assess-true-level-of-knowledge-of-artificial-intelligence-systems.md",
+      "title": "New Software Developed to Assess True Level of Knowledge of Artificial Intelligence Systems",
+      "excerpt": "A team of researchers from the University of Surrey has developed a new software that can assess the true level of knowledge possessed by artificial",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
+      "originalUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
+          "width": 4896,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-baidu-major-potential-for-chinas-tech-titan.md",
       "title": "Baidu: Major Potential For China's Tech Titan",
       "excerpt": "self-driving, AI research, and advertising. BIDU holds an effective government-enforced monopoly for search. As China's premiere face of technological innovation, Baidu benefits from policies ...",

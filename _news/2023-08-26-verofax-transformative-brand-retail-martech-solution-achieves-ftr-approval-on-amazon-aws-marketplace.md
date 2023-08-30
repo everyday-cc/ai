@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106950188/Verofax-Transformative-Brand-Retail-
 webUrl: "https://menafn.com/1106950188/Verofax-Transformative-Brand-Retail-Martech-Solution-Achieves-Ftr-Approval-On-Amazon-Aws-Marketplace"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services: Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
-    excerpt: "DUBAI, Aug 25, 2023 - (JCN Newswire) - Verofax, an award-winning Brand & Retail Martech solution provider, has been awarded AWS' Full Technical Review ... technologies such as computer vision, Artificial Intelligence (AI) and product digitization, Verofax ..."
-    publishedDateTime: 2023-08-25T15:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59948493-amazon-web-services-verofax-transformative-brand-retail-martech-solution-achieves-ftr-approval-on-amazon-aws-marketplace-011.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 42
-    images:
-      - url: "https://photos.acnnewswire.com/tr:n-650/Verofax08232023.jpg"
-        width: 650
-        height: 328
-        isCached: true
-  - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
-    excerpt: "As a result, Verofax services will now be available directly for retail and for global brands on the Marketplace, leveraging the unparalleled capabilities of AWS, and turning brand managers into advocates. Verofax wins The Artificial Intelligence Award at ..."
-    publishedDateTime: 2023-08-25T16:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19709757/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 38
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/46cf79dc0dc6f7945045c2d8da899749/verofax08232023.jpg"
-        width: 650
-        height: 328
-        isCached: true
   - title: "Verofax' Transformative Brand & Retail Martech Solution achieves FTR approval on Amazon AWS Marketplace"
     excerpt: "Verofax wins The Artificial Intelligence Award at the Rocket Fuel Startup Competition during LEAP 2023 in Riyadh, Feb 21, 2023."
     publishedDateTime: 2023-08-29T14:55:00Z

@@ -23,22 +23,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Gen AI more of an assistant, hard to say if it will be on its own at some point: Salesforce India CEO"
-    excerpt: "Artificial Intelligence and generative technology is more of an assistant rather than a self-functioning unit, and it is difficult to say if it will work on its own in the future, Salesforce India CEO Arundhati Bhattacharya said on Friday."
-    publishedDateTime: 2023-08-25T16:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2571457-gen-ai-more-of-an-assistant-hard-to-say-if-it-will-be-on-its-own-at-some-point-salesforce-india-ceo?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "AI in focus: Here's what to look for when Salesforce and Broadcom report earnings"
     excerpt: "When these two tech firms release earnings, Wall Street will be looking to see if their respective bets on artificial intelligence are starting to pay off."
     publishedDateTime: 2023-08-29T16:29:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-excerpt: "CANBERRA, Australia (AP) — Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-publishedDateTime: 2023-08-30T07:27:00Z
-originalUrl: "https://www.houstonchronicle.com/news/world/article/australians-are-voting-on-creating-an-indigenous-18337456.php"
-webUrl: "https://www.houstonchronicle.com/news/world/article/australians-are-voting-on-creating-an-indigenous-18337456.php"
+excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+publishedDateTime: 2023-08-30T09:27:00Z
+originalUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
+webUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/BL8muOB2eJNGNZpX4edNgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_associated_press_484/6ba6c5d6e6b90ceeb0f0c0c4afe52c76"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
@@ -117,6 +123,6 @@ related:
         height: 668
         isCached: true
 
-secured: "3nbm/a2ovK4m4uQLgBFHuYuzKvwKVvcHIgSp8+p2BLj7I3m6r1EiBmQRNhxEnW7HsMpeas28+IavZWe5ckEgnAuMTnF1oRS8pdRhfW+LyPXutLAZmjhl+mXmDaMnH8uL8eA8JEUKIR16yHafkTrWTPncT8tsPJkrXDfSqFUznNliX6qdmKR+dWPrLUDlmsiRLuojiw9CTPCtZ59FF5sDHkbr3PfdjqWGGbWPWcQh8THcIydvggKeUxZla2gLhoCb34HTlf3s10eaxVJWPfNUmm7g7Z3BFv6qI6XCW9hBLIl9/I4fNcAQ6ewtxO5Vdc0Ayj6jZ8DlAquaecTtll5pq1sSZC5Ees9z6VHufBXFJg8iHacirQmWk9rktZp5l8uL+MjoPyxTwRWMa/tKOUR6AkwSQEixFYSey9n4ySxhhV1p6KWo0wHWuvWNGXciqP4JuiciDlALwNJL1DNYpzSx450N0UhgLG0zouujQTMrVTMnttVyukGLugbXHc0pSFSB34QboVMngTlrXSwJHz8s8Q==;0g4l6YK4hD7QLHPkx2Z+bg=="
+secured: "Tx62re/6FBgCfjY8D0yk5f+g+eqxzp3dA9Ht3cBi3TkOz64tQT9YaA511y5XjyN9V++S+sNtc0JpvGlQH8MSj2TF680q9RLGBlUESJXzlNplYoIh75R3zySxhBt+efeibdT70394Bx7FSCo7fmQn0JUMfDrxa5bzm3cGSt7hbM22q/cIPTutS/d3ela4jCymvAGLC9rmTt6blMY9taus5CamD5gjRJwGQXN5gaoZkgeIUELbajGvMpE6zPisJeAR9DZ8O4eFSPaQRFFvqa96oKoDoGWeHDVcu5t73WfZZVTufdsZCUu00OWDfx5J2fi9d2vMZL/cMBUFUn/sXWa3dwz0OnWufGgzFm6cKSmgmn8=;DKLTtTUUWCRAMADha7YVXA=="
 ---
 

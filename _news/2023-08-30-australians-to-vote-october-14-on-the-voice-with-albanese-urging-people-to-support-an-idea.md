@@ -109,14 +109,19 @@ related:
       domain: slator.com
     quality: 13
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "CANBERRA, Australia (AP) — Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-    publishedDateTime: 2023-08-30T07:27:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-are-voting-on-creating-an-indigenous-18337456.php"
+    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+    publishedDateTime: 2023-08-30T09:27:00Z
+    webUrl: "https://www.aol.com/news/australians-voting-creating-indigenous-voice-022605882.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
+      name: AOL
+      domain: aol.com
+    quality: 10
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/BL8muOB2eJNGNZpX4edNgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_associated_press_484/6ba6c5d6e6b90ceeb0f0c0c4afe52c76"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "6Nm5ccER3WPw2ayzFO2mHCnkVlGffYgLKgPIDNM6PmoFALPGBB9cT9+x1KLuUfXIU7qxF2pW1Cw5xJGZFz/zDw1EZB3fuCrl93rhOJNV7xRTJnPHmNn0scZNmYh7pllFDMHCKVg6HL0tu4/W9kqRLmtOOUW+O6mBGXYqrdA2QecriQ5H8gDTNiHVVeY3I5Cf267x39BLqK+dMlSSwQilYmIR56tUVFEOaQRwlbS1pHranPul24cfaz+xgJBvyikyFs6IJWgf9HwuZWxRCp5yVAKmP2CUlFAp8onB5oUqwO+nIcbFIip3uqVM7QmYWjhmogO5QkvoUAg9UpgQ6udayMfFSj5ZIXXeFVEG7hWb0y0BdjfZw8S/IFlG3B1gfyBi2zr0SS9v2uIj8XK7KpvZvoxWSGDE6eO7O9k8JUje3+/zX9zxNI/otqZMFn0cCNyr5XAZyY+81S+QI4Pyg39TIBFQhX+d4rUbQRMLenflfKide7mch42JfR+OMZGxDMD0154GjMKU6J/0nPQ5/EGf0A==;v0w3QQQwcELXIsgCqyIs5A=="
 ---

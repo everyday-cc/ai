@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/metas-canada-news-ban-fails-den
 webUrl: "https://www.reuters.com/technology/metas-canada-news-ban-fails-dent-facebook-usage-2023-08-29/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/86Q8q3ZzrXClWGHjIQl5eRHDi-4=/1200x774/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/PMVIYKRQIBMZLJ2BWJ4QQ75CYE.JPG"
         width: 1200
         height: 774
+        isCached: true
+  - title: "Meta's Canada news ban fails to dent Facebook usage"
+    excerpt: "Daily active users of Facebook and time spent on the app in Canada have stayed ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change to usage of the platform in Canada in August."
+    publishedDateTime: 2023-08-30T08:37:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103199100,imgsize-21940,width-1200,height=765,overlay-etbrandequity/digital/metas-canada-news-ban-fails-to-dent-facebook-usage.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "0oVt77Q/+XzJZxU++GBx8zB/zuPAfwrderER3CpYgaKSuk1cLinaepjPWkwxMf/hthkF4WmHiOqcrHvIWG7sNhQgi6ygwMwx9Y/Cx1ehPEN6BTYAcEm3y80vwiRV3NSQ0+I0GQdGkrXFti9Q6CmMJMYH8P8vDiECnPrlHFxixYtr01AA/Doyatxtykqt9jDJJyF9FzacULlUHQi8m8XE7dkaw1GxYqoBEMxJgzjE/vprBNtQXzJ5/t+6HLoCaTzu5edNiJZEzTieSuNMmdT9jAC6snh5tl55FUj15SzClqmTptVbwVC8JDBpXnZJCyJpFJzIdD+KGBNkhTBHjH1fsSSdugPbcVAWGuixry4uMwA=;geBiLn3Vvyp/Up3EJYlTmg=="
