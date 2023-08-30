@@ -41,20 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Making Artificial Intelligence Work for You"
-    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
-    publishedDateTime: 2023-08-25T23:29:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 41
-    images:
-      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
-        width: 447
-        height: 559
-        isCached: true
   - title: "Meta launches open-source AI language translator"
     excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
     publishedDateTime: 2023-08-28T23:15:00Z

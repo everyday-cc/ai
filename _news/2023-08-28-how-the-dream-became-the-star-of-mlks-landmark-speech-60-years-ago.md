@@ -24,6 +24,17 @@ images:
     height: 599
     isCached: true
 
+related:
+  - title: "The 'I Have a Dream' speech would not have happened without these women"
+    excerpt: "It has been 60 years since Dr. King gave his legendary speech at the March on Washington. Clarified refocuses the attention on all the female activists who made the march possible and continued in the fight for freedom and equity without recognition."
+    publishedDateTime: 2023-08-28T17:10:00Z
+    webUrl: "https://www.wlky.com/article/march-on-washington-anniversary-women/44868781"
+    type: article
+    provider:
+      name: WLKY
+      domain: wlky.com
+    quality: 4
+
 secured: "6JyieguQ4Pu5k7kPPN6P9PUr2pxquqCxLFpJ1XhhiH2H/VRAIiyy4fVsO3jaakqk2lLZD9xNKcQtg31q6iss/7UqFP/gl7NIq7X1wGzA36sW6ffH5JXiMcbIGTeCuhqeFVR6BJX6CyT5hNlPDLrs6LcFvHC/LB8xZKQH2Qqhz/IFQxq5+WseGcI8XwkEqjPEtsBSseP+BnzsChOs5H9k4/Q74a3WbWvciV02vaFjd4mOVE0cnCl+yNPJknZSAkoq93iNvUP5uR+WWWHxvFksDu+WWIxPixdJGUjQfeiGS/5RXDHs8ttnxc1hmWUAXdWURquEmBWVzmCz79cEEkjfkyfmEzdYm6xJpL9klwLW1dcrUIQ84AqthSv+5xWYFsgmqRvay/9Z4CAOaCihHHedDdmHQvsyazRhldSDS9BBKhMKGWG5c0H8Xa8t17ICt/vxioljmAB8sDbyVI0HyxwWgrmG+SQjfAPG4t/YskUQFJcc2K7xsxPqh2wARpfktCNk+gBrToLGARlXdlYtUu7lzA==;+zRduGSISg2nXSbyI17OoA=="
 ---
 

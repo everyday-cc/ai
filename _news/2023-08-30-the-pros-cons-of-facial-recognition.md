@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Some Questions about the TSA’s New Facial-Recognition Program"
-    excerpt: "Those of us with valid concerns about the government’s use of powerful technology that can be used to surveil and infringe upon our privacy deserve a hearing."
-    publishedDateTime: 2023-08-25T23:50:00Z
-    webUrl: "https://www.nationalreview.com/corner/some-questions-about-the-tsas-new-facial-recognition-program/"
+  - title: "Are you a super recogniser? How people with 'exceptional' facial recognition skills help fight crime"
+    excerpt: "Thames Valley Police are employing people with exceptionally good facial recognition skills to help combat crime. The specially trained team, known as super recognisers, have all passed a bespoke test designed to identify those who are outstanding at ..."
+    publishedDateTime: 2023-08-30T17:15:00Z
+    webUrl: "https://www.itv.com/news/meridian/2023-08-30/are-you-a-super-recogniser-how-facial-recognition-skills-can-help-fight-crime"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 4
+      name: ITV
+      domain: itv.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/AKV5WWFtfgxBJwHeIfExJ/5a2f87dcff6ac443645964979446b31d/SR6.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "New NLRB Rules Favor Mandatory Union Recognition & Limit Employee Voting in Secret-Ballot Elections"
     excerpt: "Voluntary Recognition Demands and ‘Card Check’ Review Employers ... [8] And the General Counsel has announced new limits on employers’ free speech rights, such as captive-audience speeches and other employer communications most often occurring ..."
     publishedDateTime: 2023-08-28T19:42:00Z

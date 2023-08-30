@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Automatically generate impressions from findings in radiology reports using generative AI on AWS"
+    excerpt: "This post demonstrates a strategy for fine-tuning publicly available LLMs for the task of radiology report summarization using AWS services. LLMs have demonstrated remarkable capabilities in natural language understanding and generation, serving as foundation models that can be adapted to various domains"
+    publishedDateTime: 2023-08-30T17:08:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-impressions-from-findings-in-radiology-reports-using-generative-ai-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14850-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI"
     excerpt: "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million."
     publishedDateTime: 2023-08-27T20:35:00Z
@@ -84,22 +98,33 @@ related:
         width: 1198
         height: 672
         isCached: true
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
-    publishedDateTime: 2023-08-29T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
+  - title: "The Rise Of AI And Its Implications For Gaming"
+    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
+    publishedDateTime: 2023-08-30T16:40:00Z
+    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 54
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
+        width: 1050
+        height: 700
         isCached: true
+  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
+    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
+    publishedDateTime: 2023-08-30T16:01:00Z
+    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
+    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 54
   - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
     excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
     publishedDateTime: 2023-08-30T13:17:00Z

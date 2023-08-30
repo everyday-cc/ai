@@ -1,20 +1,20 @@
 ---
 category: news
 title: "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth"
-excerpt: "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ..."
-publishedDateTime: 2023-08-14T13:07:00Z
-originalUrl: "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
-webUrl: "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
+excerpt: "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ..."
+publishedDateTime: 2023-08-14T13:10:00Z
+originalUrl: "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
+webUrl: "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
 type: article
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "NebycgcFlPVvf9egdeMP/D8YT8stH4aDfrgtHJFThC2pwPL8f9BsWpbvXz79LLs5S+z7Jyrxfbt7ejSpWft/Nbn5j/9yY8d5pGJ9iaEy+A4OfwYrQPnzW/Yq3/mAmAvu03bCY+6OV1JvDy/wSfmIYTKNeZKWO3OfpMwc+td9rLNlub0YGQsuBXelQkBcyZDABO/kBejcNcqVaSMc4UG0Qg78NPQI2hTr62/zbspClJ+noidXJfx1I5SUJdsa9N1v6/KwrlReUCqdFDNjYoJ5JyKsOQGXSPLKcnHmVsYPt1shpEve1ohAB9n+PcXGBmGpn7JqdDjLsWPSJqTjEILlESBxCILeUX+rHSmIAsg44Tc=;J4xF6BJE+d5ycOegsJudkA=="
+secured: "QUZZKRsv+AU1bwMvh2U6DVFDoGVcpwJ8ubh5FbdklwNZu+moQcc+4FaH0pybfIJikHNV6xELDXe8yx1ZDzOLruJo5bAb7k9gxxnbhsKGhutJcM4dcEgxez+GsrWa8qXy4aj6akKcoys1S6seOu/3CU3QemADsb3AEwTgH/Px931JJbzSJVDySGsU6YfPDOxQr7x6gW/h5bwBBnaOGGQxpSgek+J1LlXK0Rv7nWAmRtVULlnPrUyT26rPvqjl7pCenCZ1gRQ2MKJdNP8OmZ7JWRzcGD5HSdiB/xrAk1SA9lpJ36GVk3fPVyn1QFmc1U5K6ysTGjYAV17vW1czqke73A2pmIqNKAq5XVmDCCRxG5s=;Cv+/ItN/cC6sJOo7sSdnlg=="
 ---
 

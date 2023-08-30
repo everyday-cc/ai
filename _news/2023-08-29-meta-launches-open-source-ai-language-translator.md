@@ -44,20 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Making Artificial Intelligence Work for You"
-    excerpt: "The debate over AI continues. Some are raising concerns about ethics and accuracy, and some are noting AI’s benefits. I personally believe that by leveraging AI, authors can streamline their workflow, save time, and reduce errors in the process. Here are some thoughts on how you can use AI as part of a successful author platform or business."
-    publishedDateTime: 2023-08-25T23:29:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/93054-making-artificial-intelligence-work-for-you.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 41
-    images:
-      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/102/102971-1.JPG"
-        width: 447
-        height: 559
-        isCached: true
   - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
     excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
     publishedDateTime: 2023-08-30T12:00:00Z

@@ -161,24 +161,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
-    publishedDateTime: 2023-08-29T14:44:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Corporate Gmail users will be able to pay $30 a month per person to be able to use Google's AI tools for their businesses."
-    publishedDateTime: 2023-08-29T19:11:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
   - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
     excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
     publishedDateTime: 2023-08-30T12:30:00Z

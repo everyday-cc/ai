@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-30T14:34:00Z
 originalUrl: "https://www.therepublic.com/2023/08/30/jay-ambrose-artificial-intelligence-loves-america/"
 webUrl: "https://www.therepublic.com/2023/08/30/jay-ambrose-artificial-intelligence-loves-america/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.therepublic.com/wp-content/uploads/2023/08/131857541_web1_Jay-Ambrose-696x865.jpg"
@@ -39,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0QxO/No3PkUWg63R2Vh/WHUwLG1vTSZZ7dtLfT2JfkrCzR4NxMB75I5+YJNVkdi5XYcmdoJ0rh660O2dpfkyl/dFctW63oi+w5WiSt/g1X+U+b+KZtwQfvf5hLMSuPxAQglyGUhD1P8NDab0mhQkdjI/x51VW8KU4DISr5y73lSCQkIAPwv6nAuPGfqcOVsTTvHWzX16Gy6Z3Mf1VLoYMfK7RezcX3FqMwEzWrDt7t1BVySbpLs2MJjeT0mS2odgyizGzz+9iW1+z2Wf81exysb9Sp+zhfgBMymDcvI2zmFJbjphe+grCHhYYDp0LynCx/t4ZWepW1/HGcE0hLB00vvB0elEg0yOE1XfqVezCE0=;clMn6opwUUNuxkGPnOKxFQ=="
+secured: "FB2jlKZeLF6l6PT9gbpg4R4AoP2TzY2NCxmMXryt+TLl1U8wC7lUei8LiDRPyoCSiYPk306K62zlp5OgHkmNtXQ0AksS4KmPT0jVSj98Ah4wwfmbQodkzprxxqDBUoneq7LEH3I6g0sYIqmmq6AvCt4BvKKwZMENkRCIwHqEZLfPK8RKHZmpomNa8htB4QU5RKJUWVRyTsNp/0UxQchw1fu5rsO+llHZXzjt2DjXZrOa9Adv6XF2SbaJSLWJvVI5Kw5u6npOFXy4j5lAh2GrnmXmlqTe647PH35Ag4AgPmorrrlYvTC1rj5HIt+pHVMg9rMuq07ueqXQCztFLs9t8Kun4tJWZxDYdB/E8MjGvLa7cD7OV4AF1JLM56p69pxpRj9X6hx4oyJg7DVb1ERITAmV57zpQxPoPhsu09nZaNrWYsaGhofvfKbEsm9hod5Pr8mwKxjL3qQEnN5+jlwAKGg/O+sQaB0zocELGxNbFHHa6SHv80R4X2LC22zmYji0jPIZ8iUPnXKEOAQtVg5W0A==;j84lUe+jWipu3ugMOG5rEA=="
 ---
 

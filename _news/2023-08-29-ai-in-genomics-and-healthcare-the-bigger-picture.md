@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rep. Waters Expresses Concern Over AI Usage in Housing"
-    excerpt: "In her letter, Rep. Waters notes that many online platforms rely on algorithms, as well as machine learning, to scale up their business services that help advertise housing, determine home values through Automated Valuation Models (AVMs), and make loan pricing decisions."
-    publishedDateTime: 2023-08-28T20:24:00Z
-    webUrl: "https://dsnews.com/news/08-28-2023/waters-ai-proptech-housing"
-    type: article
-    provider:
-      name: Default Servicing News
-      domain: dsnews.com
-    quality: 39
-    images:
-      - url: "https://dsnews.com/wp-content/uploads/2023/08/AdobeStock_594173294-620x330.jpeg"
-        width: 620
-        height: 330
-        isCached: true
 
 secured: "eKjM3gPfPuH+QNc1lpI0f0S6IVrP02yo31K8XGrMEjRea3ZT3LZhSshSiv4ub0DLArF9S9hGF+CYg8aBhhGI5zPtXzA4LyL4IAQ8n7V6BvMv7mQhZGJYLja1l6jP89SB4NG6SmheWqrgiIUyq/w884T5S5cob3hpdLapBIzxKR/DhZu/EJnsCytXi6xlcvI6MYB1KNdTEEZSsIAOKFIKxE+5/Bkhd5Grhezuw9/3Kc9shToEK2lrq3rutJGSVPK2YE+K1gfGg0NkmV1i59hJGKohIikHKrpE38QdvU1hjhTfg2a87l9HKPbwO/PL8sBlHGAyDPkrnn4R2MGU+J4Gf3eztStxe2myMrXbXIOGE1I=;GRKkHT522jknxdrPL9aP6A=="
 ---

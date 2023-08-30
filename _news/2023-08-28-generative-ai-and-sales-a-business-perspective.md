@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How 3 healthcare organizations are using generative AI"
-    excerpt: "We’re introducing Google Cloud healthcare customers using Med-PaLM 2 and other generative AI solutions."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://blog.google/technology/health/cloud-next-generative-ai-health/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 86
   - title: "Google Applies Generative AI Tools to Cloud Security"
     excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
     publishedDateTime: 2023-08-29T17:45:00Z
@@ -101,20 +92,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
         width: 640
         height: 426
-        isCached: true
-  - title: "Using artificial intelligence to write a business plan"
-    excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
-    publishedDateTime: 2023-08-29T15:20:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/24537-using-artificial-intelligence-to-write-a-business-plan"
-    type: article
-    provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 37
-    images:
-      - url: "https://www.foodbusinessnews.net/ext/resources/2023/08/29/AI_Lead-AdSt-Tierney.jpg?height=635&t=1693322208&width=1200"
-        width: 953
-        height: 635
         isCached: true
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."

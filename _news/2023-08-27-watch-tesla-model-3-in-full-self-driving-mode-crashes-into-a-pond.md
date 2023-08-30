@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
+    excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
+    publishedDateTime: 2023-08-30T17:14:00Z
+    webUrl: "https://futurism.com/the-byte/police-elon-musk-distracted-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/police-elon-musk-distracted-driving.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UNUj5mmUR/JoRCg7Y6/QWaH9OtrtNEzXA3A7I+q+fDuzekyl8ZKziUGSryR7kBVtjECRIwymPdp50TQNinieyOfenpyWTy4M49pOOXHpY39GivL+xqNvF2mBgc3bmIVDB1i6Ao2+m6HtXDihqLlgP32yuskE5T0MJ0jZEu+N5ND04gngA9LexN55mbhmNqIj28lr9WGpFI+yNIdOpTXb7OOFhXlmfkuygw0Vs6XmiE+IM4u9A1tjQJEbIq8gdN+iubygnjt4SBz8mpkxuvzKBPKG+kOwVlubowIGdxbtzLiclbKuHvDo07vZo+0qHiFvwgHds6bC9M81mR33XXry3DpTBXCV8rvgJn4YoOVOUiA=;Nk5KakOh6kdO7CryaBvUvQ=="
 ---

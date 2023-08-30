@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How 3 healthcare organizations are using generative AI"
-    excerpt: "We’re introducing Google Cloud healthcare customers using Med-PaLM 2 and other generative AI solutions."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://blog.google/technology/health/cloud-next-generative-ai-health/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 86
   - title: "Google Applies Generative AI Tools to Cloud Security"
     excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
     publishedDateTime: 2023-08-29T17:45:00Z
@@ -105,20 +96,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
         width: 640
         height: 426
-        isCached: true
-  - title: "Using artificial intelligence to write a business plan"
-    excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
-    publishedDateTime: 2023-08-29T15:20:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/24537-using-artificial-intelligence-to-write-a-business-plan"
-    type: article
-    provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 37
-    images:
-      - url: "https://www.foodbusinessnews.net/ext/resources/2023/08/29/AI_Lead-AdSt-Tierney.jpg?height=635&t=1693322208&width=1200"
-        width: 953
-        height: 635
         isCached: true
   - title: "Generative artificial intelligence has entered the classroom"
     excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."

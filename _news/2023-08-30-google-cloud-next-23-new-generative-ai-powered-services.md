@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/
 webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: TechRepublic
@@ -29,77 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google expands Duet AI features across its cloud services"
-    excerpt: "At its Google Cloud Next conference, the company said that it was adding Duet AI to cloud services around data analytics, databases, infrastructure, and application management."
-    publishedDateTime: 2023-08-29T16:33:00Z
-    webUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
+  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
+    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
+    publishedDateTime: 2023-08-28T14:06:00Z
+    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
+    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 36
     images:
-      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_324149159-100937108-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "Pepper Advantage doubles India portfolio and expands AI/ML services post Rieom.ai acquisition"
-    excerpt: "PNN Mumbai Maharashtra [India] August 26 Pepper Advantage a global credit intelligence provider and leader in the credit management risk management and data analytics sector has added an Artificial In"
-    publishedDateTime: 2023-08-26T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273944478/pepper-advantage-doubles-india-portfolio-and-expands-aiml-services-post-rieomai-acquisition"
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Learn more about our consulting and professional services here."
+    publishedDateTime: 2023-08-29T20:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
     images:
-      - url: "https://cdn.bignewsnetwork.com/N2NkOWI3ODItMGF.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
-    excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
-        width: 636
-        height: 384
-        isCached: true
-  - title: "Google to add AI models to its cloud platform"
-    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
-    publishedDateTime: 2023-08-30T03:48:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
-    excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
-    publishedDateTime: 2023-08-28T15:19:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/110605/store-your-ai-workloads-in-google-clouds-customized-cloud-storage-services/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-Cloud.jpg"
-        width: 1000
-        height: 667
+      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
+        width: 400
+        height: 342
         isCached: true
 
 secured: "SHmlzkEfKmJnscJazlztht/fvsJzVDxfLGrD+nT2UC9qdcd3M65sZwB4n+kyU/4RgEnbvYmokqDP7AKmJbWXHSHWlcbars06qpmXOzw5oy/acPxY7oDk0MXQWiRFcSESW+nPq57AFS2eLp4ClWCiXo1GYzWEmTQoKs+hKUYASMKJVhFzLEwx6R1wTqSnYE3BUAAiBtvJJmH9BpFbA54t7+YYUb4gHnNfM3dxns7bCUVdtpIXRns3l5fWUMpkR+m49/DaUurvowOjg/OBtO5VST49MuigMjL0nP5cRuim/Y+q5Kp5lNfmc5fYQY6FsTy7u23OXkYBuq8kfN1Tb6V/XlRVaT4kZc5c8fhuqunMMTK+w6xhZeyqUOevqGpTuEMcgm1YQvrIsCL5Phro/felQHqtjYZKQtxQWHZPl79M0qhSa02epEf4K4ADUQ69bBU4cnq5S32qCe5NpkRmE7SQ511Cw5At38d1TwepAkX/Xrxt4tQWNtddKuFIfqjoSHAjq2LEAkWBL5ediT+KbJGBxA==;xk2zSTM5wutdNljPVbEFLA=="

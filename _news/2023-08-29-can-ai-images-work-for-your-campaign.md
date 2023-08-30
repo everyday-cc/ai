@@ -24,17 +24,6 @@ images:
     height: 1299
     isCached: true
 
-related:
-  - title: "New IBM campaign promotes tailored use of AI for businesses"
-    excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
-    publishedDateTime: 2023-08-28T18:55:00Z
-    webUrl: "https://www.thedrum.com/news/2023/08/28/ibm-seeks-strengthen-ai-foothold-with-watsonx-your-business"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 19
-
 secured: "b62zZlxAdslxzeVZkD4pDr78e1v/U2gZtMK5vZhyBrddIafpWn3DVZEuArG2+TgeyW2EtJSXNiLtTVlYb72JubFCU1Kao1cBPAOAyJoRZdzS4obzOfa40zphU/0G3y5ep9OqG12q1Mwicqs8BZ6aHC4DCGtWHA0tj5HfoCqrsf0gPQK+tV5DVNEhBWLv+vT7UxzS38W9C/DRvfbwA4vVAXbhc0dqF1BxuVqR0v1NxS84th134t4ltbRfpx4RH3/xpTZxLc2Ub6IzVi9/LNo35I0ijbYhlAWK4bajmkFvBvzMLA2VOVLB+7gU6sn3PkPw8X54hY3Gc48xDs7gpeLtdnA9siMd91DZqj7deM4D8PCQsj49P34g3Hd3kMs5hvuYxeiYdhx03JWB0DCgxkwFtqp0ZtqfZN0M+166CP5BTAPQbjUwA+Un7uGhwfg6rJgGXKmAegxY65PlXGCF5x6TCyb/W1PET/OmmwI5yxglcCtvSMnJrhyis9aGnU+v5JplbhY5rQ+srLmItbLKdmfl8Q==;cWBrWvpRUaZIdoQFRh1jKg=="
 ---
 

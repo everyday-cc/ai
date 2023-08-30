@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
-    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
-    publishedDateTime: 2023-08-28T15:47:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
+  - title: "Google Cloud Next ‘23: New Generative AI-Powered Services"
+    excerpt: "A3 virtual machine supercomputing with NVIDIA for AI training revealed General availability of the A3 virtual machines running on NVIDIA H100 GPU as a GPU supercomputer will open next month, announced Mark Lohmeyer, vice president general manager for ..."
+    publishedDateTime: 2023-08-29T17:08:00Z
+    webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/1tr32823-google-Hero.A.jpeg"
+        width: 1400
+        height: 934
+        isCached: true
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Learn more about our consulting and professional services here."
+    publishedDateTime: 2023-08-29T20:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
+        width: 400
+        height: 342
         isCached: true
 
 secured: "TPJWWZ76HpAMpyzJYrZnuoR0M3z74NT1laU+5tb8z15NGxQ/+3+Vi0v13h7Ps5PDWQgAt4wdD58J1UkhrX//JRU4FUcQ64zYgwoNztaZUkZQnx7PExyneZDTFOlhtTBQdakIJw3yqahaC1B+14MBaFU+SPfD9slmhs8Cz+Pe/8q2ljtUVIrITjsfAUcI2BGRYg3Qfu5khAGR+apfGMQdowXnO9VOzkeyV7WQCLadMxyXKH5yjLhEkrXxSTkx1rbOpEyBTDKlKJyzOTOyT3KYip6hv6zsoI3sZGwxnOO9jcCXUDPNwRp/7zvcucnhJtc72g0/C3/Kjkyl1wn6jp/JlV72p7JKZSClO7+6WREPoD64ZcuxYjmoeQFnhZfCmKJTa0/eU9c9SwDUfU4E9APR2Lff9zCAP7MB8AMSPDGCD4pxV1AIqOBNBr8PVusJi3HCph3lFNfNipD4DrB0A8W8YmOhfZNFEXoDYj6XQrqBExlXdwSTPNd1y9qZR1va/Dq9BOinvzEyTp9QfFi/StVJoA==;2ZdnWB3Y3ltY9/I11mIL3A=="

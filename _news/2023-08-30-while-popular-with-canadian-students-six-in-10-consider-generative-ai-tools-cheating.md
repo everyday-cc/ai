@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Watch out, Grammarly — Google Docs gets AI proofreading"
+    excerpt: "For the $30 monthly fee, enterprise users get advanced AI features in many Workspace apps, including Google Docs, Sheets, Slides, Gmail, Meet, and more. After a slow start, Google is moving quickly with its AI rollout. Google Duet with Proofread launched ..."
+    publishedDateTime: 2023-08-30T16:48:00Z
+    webUrl: "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/05/google-docs-smart-features-2.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cjOeVS8cmOIaDuwHpSRzEzkouoh1c5UV2LSCTIX0PNz4s3lOWK08I+ecOeIgj0GFLj6uxe/w8mtHW2ehDMpy99dOnYyI+dXWTP0ndyUpCsplMk0gxHeZVOghnBxi2UFIvvEvGxdkngoNHgVeu8dmoFGiOELXiLqYEWdzWbMlD4GW/bz02XGLC+MOnytMCNs6PZkukOIFMsEDpGdfkLAHQenBf9AeXj4iXc1eAxf/kHxICgE0Lgi4tIP3aB7fVJwLIgvWJcK2OPC3ctyEVEgtTeBWyUfy9bD23QiO9129Us+vaskNoIC6DoQx0/IDI2yzx+kujpkmiEExmadRLYFXDAEY38ZV9Wrvty9QNAR5MAI=;UoevhQe2gm0M7ykvlQHbRQ=="
 ---

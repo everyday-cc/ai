@@ -33,7 +33,7 @@ related:
     provider:
       name: The Republic
       domain: therepublic.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.therepublic.com/wp-content/uploads/2023/08/131857541_web1_Jay-Ambrose-696x865.jpg"
         width: 696
