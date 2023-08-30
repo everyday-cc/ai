@@ -46,6 +46,15 @@ related:
       name: WSB Radio
       domain: wsbradio.com
     quality: 31
+  - title: "Revolutionizing Industries: Commercial Robots Market 2023 to 2031 - Increasing Investments Drives Growth"
+    excerpt: "The global commercial robots market, valued at $15.2 billion in 2021, is anticipated to achieve remarkable growth, projecting an estimated value of $85.2 billion by 2031, exhibiting a robust Compound Annual Growth Rate (CAGR) of 20.0% from 2022 to 2031."
+    publishedDateTime: 2023-08-29T23:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9872060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "XXUCCsNWzwyBFwrhE0VOSGSvCvmbQWjFQTqPEOu0L0v2CecOBqFRsnXWUWNpAVGs226y/pZkNzRSM/0wf7QCgcHl2o9vzKTdBHyRlUB7buohKUPXyPImfnEmSZtoJqwVDtQGHVhm2TMA7bAHajDjUwBsEYJAN61jQP2zc3FRRAYxIhXI8eLkQU8krrFqJQ7YcGClWuO9tYs2IXXh1YA0dSw0llDuztgJD5fhZ0/t9YWK/uGzCLjPAvi57jvXID8iJK9j7VwVTGXoVKn6L89XQqIbfDpTX5Vd7/ubWEmaZhOLx+rI+vXZ+XUVTqd28D09OPM8rE09rOrphwclnvzVuFh6i9p5v8gCgBBwfSGeLQqa/U3jWTUoXSBh9zLTbqKVIrO3habIA5pUU/jhdaxe8Ce7Peb1Kc8/drb6yWBmrkIJryd4Px0giKLudLf2VwEgNhgapMaOY6cmE3+zE2MLgsQrhirlW4IVZ+KQTuJ2Aks7doQ3g23r6V68BigtOSrGztvQ/kFRVHYYXHEyHlRNTw==;AF6jXl9xbTFOuyDAndrHpw=="
 ---

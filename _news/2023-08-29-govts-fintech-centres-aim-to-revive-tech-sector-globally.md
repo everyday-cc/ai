@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explore the complete Fintech Stage agenda at TechCrunch Disrupt 2023"
-    excerpt: "And yet, the world of fintech is an ever-evolving one with entrepreneurs trying ... doubling down their web3 strategies as other VCs look to other horizons (ahem, AI). Arianna Simpson is a general partner deploying capital for a16z’s multi-billion ..."
-    publishedDateTime: 2023-08-29T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/"
-    ampWebUrl: "https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Fintech-Stage-Article-Image-Header-1920x1080@2x.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
     excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
     publishedDateTime: 2023-08-27T07:50:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
-    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
-    publishedDateTime: 2023-08-27T00:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "Governments, Fintech Centers Focused on Reviving Tech Sector Globally, Report Reveals"
     excerpt: "a review compiled by The EDGE Global AI & Web3 Investment Summit shows. According to audit company KPMG, total funding and the number of fintech deals “dropped from US$63.2 billion in H2 2022 across 2,885 deals to US$52.4 billion across 2,153 deals in H1 ..."
@@ -115,29 +85,43 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Future of Fintech in the Middle East 2023: Access to increased data can enhance customer experience"
-    excerpt: "The Middle East is a region with rich fintech potential. Many countries in the region are pursuing more open data initiatives like open banking. As these progress and develop, they will offer plenty of opportunities to the fintech market, but there will  also need to be vigilance over data security and privacy."
-    publishedDateTime: 2023-08-29T09:04:00Z
-    webUrl: "https://www.finextra.com/the-long-read/764/future-of-fintech-in-the-middle-east-2023-access-to-increased-data-can-enhance-customer-experience"
+  - title: "UP Fintech Reports Two-year High 2023 Q2 Results"
+    excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech's global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits  (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
+    publishedDateTime: 2023-08-29T21:13:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU202308/S00426.htm"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 10
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 24
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/764.jpg"
-        width: 799
-        height: 449
+      - url: "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
+        width: 800
+        height: 800
         isCached: true
-  - title: "Dynamo Software Named 2023 'Best Alternative Management FinTech Company' by Acquisition International"
-    excerpt: "Alternative investments FinTech Dynamo Software, has been recognized as the \"Best Alternative Management FinTech Company for 2023,\" as part of Acquisition International Magazine's eighth annual Worldwide Finance Awards."
-    publishedDateTime: 2023-08-29T16:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871318.htm"
+  - title: "Stay Ahead Of The Curve: Kimberly Rosales Reveals The Definitive Top 10 Fintech Trends Set To Dominate 2023"
+    excerpt: "FinTech expert Kimberly Rosales reveals 2023's top 10 trends: DeFi, CBDCs, AI, open banking, sustainability, neobanks, crypto, inclusion. QUéBEC, CANADA, August 29, 2023/EINPresswire/ -- Kimberly Rosales , an influential figure in the world of financial ..."
+    publishedDateTime: 2023-08-29T22:03:00Z
+    webUrl: "https://menafn.com/1106982540/Stay-Ahead-Of-The-Curve-Kimberly-Rosales-Reveals-The-Definitive-Top-10-Fintech-Trends-Set-To-Dominate-2023"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Mena FN
+      domain: menafn.com
+    quality: 6
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
+        width: 429
+        height: 250
+        isCached: true
+  - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
+    excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
+    publishedDateTime: 2023-08-29T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "fkJgGml5Btm4vnwLayKuk+orTCcZCi1UGE7HSn92CB5ttQWKS7+tlgRwBQwjh+5XEJHgcPpGyqBz6XKe05hFFapRWXDqjTmgs6t96uVcgCws22bh41ja7El1XmVW96QUNCeVYdcPVMMOir0onGTcSyzgNYahjfQVEKvhqh9OnrYGZcT5G56dL+RAXxmdbTMNCxwxIQ8/mlZ75mAkMvXpV7PshnDtd6UF1LbN3DXlThTPcbhprDlmA4lVrYSpZjb5CsSZULTQFrQGJ+0ZYQnjOWrZjLeiE0hObsRqNi1eXo8XlimwdO8GSHum5cQMPBL7wIn7c28HUPUBqc3KdFw4GWpY2O+63ihMQaCRv08fCPs=;c23/d2G0A1wT39q0gkMQVw=="
 ---

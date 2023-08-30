@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/opinion/can-humans-kill-an-ai-syste
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/can-humans-kill-an-ai-system-the-coexistence-of-humans-and-ai-will-need-a-drastic-rethink-of-current-laws/3223237/lite/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "6 Ways AI Can Revolutionize Digital Forensics"
+    excerpt: "Artificial intelligence tools can automate the analysis of logs, video, and other important but tedious aspects of investigations."
+    publishedDateTime: 2023-08-29T22:57:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc95e39a2bb031549/64ee7720367256112eaccd06/forensicsclass-dpa_picture_alliance-alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7EKzVacWKithSrcybRH4XcMUTUATzYsGiZ7Ba/TE4NH9g3FLSdbeh4mixCfHoJlqF1y8NXXSnR1s0uxU5XAancuD2qB/vnntmhYpRk99TR5niv1YYAz5VqS/jAX5rm2FAKdCzxzSzJ2jKmdHFCr4P83bqPTR9VlJTV4Hq/7RFBdtScsR3s4HAOUPJRCtL7781uqxyB3yvZYjhKmjuKDwOooQ8jyemT8ejSpKMCgCa6gIWTu6fw6tAv3PZFLteYmYaT+veFRJb8j8DNc6bzrd08pKoxIM07sA53xA5nd+Xc/hIg6fccqTVDBkgqEPZXS801VG+YO9+VBI/xqTwhmgBwTLz4E5DWEVW5lb12stldw=;gsNQ/eA9Y0q3XLlf6W714Q=="
 ---

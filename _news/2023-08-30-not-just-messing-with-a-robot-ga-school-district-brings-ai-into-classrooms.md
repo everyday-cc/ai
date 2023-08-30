@@ -46,6 +46,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 69
+  - title: "Revolutionizing Industries: Commercial Robots Market 2023 to 2031 - Increasing Investments Drives Growth"
+    excerpt: "The global commercial robots market, valued at $15.2 billion in 2021, is anticipated to achieve remarkable growth, projecting an estimated value of $85.2 billion by 2031, exhibiting a robust Compound Annual Growth Rate (CAGR) of 20.0% from 2022 to 2031."
+    publishedDateTime: 2023-08-29T23:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9872060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "kNIeRbNRtRFcpY3kUrlponC1Wy2H5yIP9ZWr+/v1CdXowsDijfb1BJsRqzQ1s/BfT0EweqTnhiijLnvI042wiI9j7ereivaDR6yjzoL23TUaF21ufVXa66y6OoGieHJSrtyIs8O6PHLr0IXV4BR8ZAQEdmmNu45j4+SynZZsV9j3dIe+DgVKDg96W0p96rkTywbfS0DYE+j+tlgqcHkJ5IGXMP/sZd66IMl4mGL0wWM+efjRAGtixBdLVia07FRFs5y8srha4DvX2NXA4H5YNFaUhJk5HnMm2wflkAuiQoyO1rLny+3UrzD6bSApGcyEt7ybyxJA+PD4IDooeRMOA0O5/2ZJfrvw0UDG7NPKWM1/7s6RE095VtQjL8xAHCaMi8dmxX+YH9geqGWHf5lZnf6JpXeyXDxuxD6vFnvehLu0GCp4v08whQP+LXPk7FqhhV2+TpjQnsgFP1cBp4R9UtkySHq/9Q+Dtc/KQikk4m10cKCZvjY2L9tDKw7mja7e4T9+i3ap9uArgmvzv+qDIw==;72/D+RRy4ll83sldESphAA=="
 ---

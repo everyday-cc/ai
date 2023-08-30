@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fue
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: WSB Radio
       domain: wsbradio.com
     quality: 31
+  - title: "Revolutionizing Industries: Commercial Robots Market 2023 to 2031 - Increasing Investments Drives Growth"
+    excerpt: "The global commercial robots market, valued at $15.2 billion in 2021, is anticipated to achieve remarkable growth, projecting an estimated value of $85.2 billion by 2031, exhibiting a robust Compound Annual Growth Rate (CAGR) of 20.0% from 2022 to 2031."
+    publishedDateTime: 2023-08-29T23:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9872060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "6z3v71QsI3kBiVIh7ZG6PcRv/MYf4ggBSMPSitKzOV3aU5glEkr0iau2mU2WHVEyPlMacb4ydMO3OaIk3vtFxuQzlAHF1G5KDUf1MgSrnPYCIZoZRTQ9V0lRTp2h0LS8JNlYqvZ7F5iKE0zOQuxKHcCbetrbGMyPKApn2d5nwC+McmR1/EQwMjjmzMXtNEYt0N7GhubWq0d15bmV4VoiL1QPff+k+ckqSB23/yVzTVJOY4YLx1W7uBCQL8EMx2PF4OksTIsd4UzD5mRC30urlNQVnjcgVIc02+RyrTqtVe6wunflk6dKcNDokWBnPj6U0YZOaI3OONsV7Oc8L/L9ynLutfpnCQkEsdCpps9yzhvXGjfZFBYj2IHgVgpmeTz5I4LyyHcPClOA2PQZG+KIUTV8BqqtKkycHv0399Zfj6Yy3Kp7r3S4izbRINcMaZbkAtkcyyX/aHms72bRhJ8pykGj31EXQyHxL+QMAV6oqefM7XjIIntAYQPvLtnXPX4yXS/UHGnLaeVQ0UAvZPv75g==;ShWMCbQCC9gMGTfcduPA3g=="
 ---

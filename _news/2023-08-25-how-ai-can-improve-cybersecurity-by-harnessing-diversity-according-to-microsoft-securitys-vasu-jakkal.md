@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/"
 type: article
 quality: 105
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -34,19 +34,17 @@ images:
 related:
   - title: "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity"
     excerpt: "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ..."
-    publishedDateTime: 2023-08-25T18:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34045380"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380"
+    publishedDateTime: 2023-08-26T01:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop"
-        width: 799
-        height: 533
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud"
     excerpt: "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers."
@@ -101,20 +99,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "University Startup Collaborates on $2.2 Million, AI-Driven Cybersecurity Project"
-    excerpt: "The initiative will develop artificial-intelligence automation and rapid-recovery hardware to address escalating concerns presented by sophisticated external threats, including ransomware."
-    publishedDateTime: 2023-08-25T05:51:00Z
-    webUrl: "https://news.uark.edu/articles/65992/university-startup-collaborates-on-2-2-million-ai-driven-cybersecurity-project"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 32
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2023-08-23_03-38-33-PMBastazo.jpg"
-        width: 900
-        height: 675
-        isCached: true
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-08-28T19:37:00Z

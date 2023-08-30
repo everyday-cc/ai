@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-in
 ampWebUrl: "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/64ee4af326dda200194d39e9?width=1200&format=jpeg"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "JqufNsAQIzeorG5eAV4hZrk7Ghr/HtSFnA2fmIIks0RlIfoiw7tw10GwSqLAP0H3SlhKI1fhil7nVwo0YtXxtUjfjSRsf+3BwyO44YeHPL8Dk7xc01vphEg/SVwVKLlGXPtdkK9aPIxtV1bk1eaHaclYcbDpnlf5qVw6CNg+Sm4UF4cmFn7A0fT2XRphPUMO6IeTtKwccG8sqi32j4XDoG+Gx2wVFEYfXCvZGX0jewLsrBUTy5YgVz6shUS7iuFApJ+MWPyrSkJUF5Nq0HNY7tFWNLAerHYaYw5fjp67wRYSfmRh91SbcN9YUJ0/aPORfH3HpYqMpjVdOfPb0VM5C2cs+0nPU83e99AXUiyhp1Q=;fIMfjJecLLL9en0gT/CKVA=="
+secured: "4fiROY3CTxzEUsuPrkzsc5nlBcJwszQgZRyidRffRitPs84aeQ9hir3kSlTcEVycEpXdU4vbkPPORsO6hsMK27qOnfDoZoYJlBDS5efHYYkOiKQprISawAzvuYOOBiNU//Wb8+NSu6t55x59daP+oA9Vej0bsGVKw8f7eF32a3ROaYR4XaEkCTsWv+xchJ/7dHKULAQsgFDdCrgRKY8Hy6yptP7AP1Lv4sAuu7N0WTBQ331ayAql8yBh5asVgVEWhrN7ELp0WTyNIao5m2Vy7CJ44yi/ejGHUuAdTucaa5323cgZgRGhqByj5gaseWU2JXEFjWvmGYXbxtTdBMFhohhEgENytJtI3xJZAcRt6u3I6toDcEX7SqvCE1HWlR5DpssPSAQmkn8iFJT4y08V3XBQ2volmk5xNfLMi90MRbVE0ANyISK3TlBuVji6QTDBxNHtdGNj8D/SHAi20zIDJoxZH3K8HOVgheEgOAdzHnaiDoABvHA6N0TPUPXScsK1ljFh8dWySVhtGbf2YkFFZQ==;hvjHdeWwPDLTfl6WCsbvGw=="
 ---
 

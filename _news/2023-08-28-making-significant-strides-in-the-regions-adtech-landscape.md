@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Banking Revolution In Action: Kimberly Rosales Delves Into How Fintech Is Reshaping The Financial Landscape"
+    excerpt: "Rosales underscores how FinTech is placing customer experiences at the forefront. Innovative digital interfaces, personalized services and AI-driven chatbots are enhancing interactions and providing customers with convenient and user-friendly banking ..."
+    publishedDateTime: 2023-08-29T21:41:00Z
+    webUrl: "https://menafn.com/1106982515/Banking-Revolution-In-Action-Kimberly-Rosales-Delves-Into-How-Fintech-Is-Reshaping-The-Financial-Landscape"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
+        width: 429
+        height: 250
+        isCached: true
+
 secured: "I7HGWk248NyKKbltCVHXsazQazmKnuE/bvDnAVALui+AkWx6ABnLELubhzpldFBVhOlwZaxi68LiVjWLugrI3yNyThrnA4wxGNWQiYpuzCpghsBYkZ5kxhchBixTV9JxehUi19Okv/YFMqYqR2yxzbz0/3kuDTWLWbyy2TZ09gztnt7eL/ujC8HxfpB12dq15nMosoN3sOVEx27PbW/SEANBHt5Vs73L0vSLvhVGlFQAo2/29nvxukEsr8JyqWqrkB4T8xrdMtr7wuTArGOCzrOA0amJq9zz5UgXAWDSyXaEyCWnDQJwOODSIM6nltZJ80ZcvvtHkV6etY9ux27nkEVQq2AmiUlZchW+Ft/9hY8=;5V2uuQXjkwvKcjw2gZvlAw=="
 ---
 
