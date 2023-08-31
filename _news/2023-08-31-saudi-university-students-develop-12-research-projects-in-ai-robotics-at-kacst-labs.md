@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/varieties/4517956-saudi-university-stud
 webUrl: "https://english.aawsat.com/varieties/4517956-saudi-university-students-develop-12-research-projects-ai-robotics-kacst-labs"
 type: article
 quality: 62
-heat: 72
+heat: 73
 published: true
 
 provider:

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
-excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
-publishedDateTime: 2023-08-30T21:40:00Z
-originalUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
-webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
+excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
+publishedDateTime: 2023-08-31T06:00:00Z
+originalUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
+webUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
-    width: 800
-    height: 533
+  - url: "https://img.digitimes.com/newsshow/20230831vl204_files/3_2b.jpg"
+    width: 1280
+    height: 854
     isCached: true
 
 related:
@@ -171,20 +171,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
-    excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
-    publishedDateTime: 2023-08-31T06:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230831vl204_files/3_2b.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "U.S. curbs AI chip exports from Nvidia to parts of Middle East"
     excerpt: "A similar move announced last year signaled an escalation of the U.S. crackdown on China's technological capabilities."
     publishedDateTime: 2023-08-31T02:36:00Z
@@ -242,6 +228,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
         width: 1200
         height: 800
+        isCached: true
+  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
+    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
+    publishedDateTime: 2023-08-30T21:40:00Z
+    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
+        width: 800
+        height: 533
         isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
@@ -312,6 +312,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "lcnDb60HSDqHUAGXP/+23gPyKgvAD7KVHVmIsDolm1yKqDzhpPi8Dsl1CoKjCBmsVgSRbcDsHrW0J3zK/PY90voMng69l29shAw08sBRF3jwNOvthP3uZHlcFt1Wx0qux1AMGHfZGNMQ2QH0H8SeCOR1W9uuGn9uyI2dKbRdCKs7XH4CsvPgFegL3Xnqi5q+P0oudajsQL2NjHVNZJwolP5u6gJB0/JUmK33TKEcZ4qOLlBD0ieXvcyGJbutVzjgC7QiGoCzluwYvkc98qksjHt5q8eMIiodkjONJ1qsrJqZufEvhxYCT1+ycwnxaQNDH8fsERYilI98iwgBw8Z1m4eT912cBEQ9A925Q1QdE80=;Z80OMZTaXvpGGwz9rUYVBA=="
+secured: "VKKrwk/Irr2ZUuQpSUvZfhWZSMdhm+rQ1MUj79FOEIhlHjlBIu+R7Mb5FHE8RZRNvbYgKdiJkD8aAxUJVHIlV9zd5UZdRt+WL4OKSE50A4YU8nullPlUR+x+7WLEv521ZaaLSNP987VdLZUvMAjSIC0m9vq4iT+U1wRva0g6y5wppGHVP0XaH7Cd8sxgfVXb2d3d0lYfeXXjGLru1G5nep3sSELtXJJWumCrnuh+V39FdME1ukq3wINkidihsYnL3XMjVZiChg7KosUwKpXovChXImYQ/r1tR36+2zcduOwfdpJWJpoBEWI1DWm4xRux1cNBQ8Q+Ke5Ej7BaaE0XdC1sDseAvht4rfMtL6yGA4A=;aKlPVvmerZkG21AjBW1euw=="
 ---
 

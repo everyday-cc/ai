@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 94
 published: true
 
 provider:

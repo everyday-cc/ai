@@ -1,27 +1,27 @@
 ---
 category: news
-title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
-excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
-publishedDateTime: 2023-08-30T21:40:00Z
-originalUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
-webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+title: "US curbs AI chip exports to some Middle East countries"
+excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
+publishedDateTime: 2023-08-31T06:40:00Z
+originalUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
+webUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: TechCentral
+  domain: techcentral.co.za
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
-    width: 800
-    height: 533
+  - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+    width: 1500
+    height: 800
     isCached: true
 
 related:
@@ -199,20 +199,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "US curbs AI chip exports to some Middle East countries"
-    excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
-    publishedDateTime: 2023-08-31T06:40:00Z
-    webUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
     publishedDateTime: 2023-08-29T16:44:00Z
@@ -242,6 +228,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
         width: 1200
         height: 800
+        isCached: true
+  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
+    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
+    publishedDateTime: 2023-08-30T21:40:00Z
+    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
+        width: 800
+        height: 533
         isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
@@ -312,6 +312,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "lcnDb60HSDqHUAGXP/+23gPyKgvAD7KVHVmIsDolm1yKqDzhpPi8Dsl1CoKjCBmsVgSRbcDsHrW0J3zK/PY90voMng69l29shAw08sBRF3jwNOvthP3uZHlcFt1Wx0qux1AMGHfZGNMQ2QH0H8SeCOR1W9uuGn9uyI2dKbRdCKs7XH4CsvPgFegL3Xnqi5q+P0oudajsQL2NjHVNZJwolP5u6gJB0/JUmK33TKEcZ4qOLlBD0ieXvcyGJbutVzjgC7QiGoCzluwYvkc98qksjHt5q8eMIiodkjONJ1qsrJqZufEvhxYCT1+ycwnxaQNDH8fsERYilI98iwgBw8Z1m4eT912cBEQ9A925Q1QdE80=;Z80OMZTaXvpGGwz9rUYVBA=="
+secured: "+OQjvbmwV0FVJPrBSlkpHI1teR8Hfao5Nx8V2aQecj+Qp2w42D4/btLp75tJG5Cnh+CQWCp8Z2Tdz2fXwyzUBqAbB3NrYloVhlQpQtMeoam4CiqtXRz3Z1Ah+RoE07N74iLsaQ/LuW3zlDjdJc+7kHWEes0sI4LKknlUc3LPbtufc6a+LPu8CqM8/XyxWP3mGJSPXx8hnSIYUsNN6TALR9yheZZS1PLOg/RdjX/ZgUEUy//xnnu7IjrwBTnKuU+n7f7qSDgAw+3jz/VYBy7sopO0BJ6NWwK15U4ZUYTpF9SiyZeETdokjA+fjHkTrMXLIOcgEund4E0eHPGLmp4YQx7Ws+dfrvCacburvxr2MKw=;EOHRvn+NiHlKZwh4CPtThw=="
 ---
 

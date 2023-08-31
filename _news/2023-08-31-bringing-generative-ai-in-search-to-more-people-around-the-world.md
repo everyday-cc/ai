@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 320
+heat: 321
 published: true
 
 provider:

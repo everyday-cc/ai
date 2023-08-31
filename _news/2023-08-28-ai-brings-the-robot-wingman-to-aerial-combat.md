@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AI Brings the Robot Wingman to Aerial Combat"
-excerpt: "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets."
-publishedDateTime: 2023-08-28T16:24:00Z
-originalUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
-webUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
+excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
+publishedDateTime: 2023-08-27T22:12:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
+webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: acm.org
-  domain: acm.org
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Robotics
@@ -45,6 +47,6 @@ related:
       domain: business-standard.com
     quality: 52
 
-secured: "lQ+RSiDD8LvsCbJ5z0ErfCJn1AXyzAH3DMuF2L1UnTc01PLxPaoIEUrammM4dIqGHsLh4xYuoXWEkItHPdE5sA8tK4JX1gusVmbtbi1itzKDGtdVs/MmfHSaRLwKGgGZDJO/90E8tNK9PJotC0hegur9RB+i5SJSKZ94xn9wpkNs7vNaTAyZmFKXZy9bJW4crEEjKk11jqVOR1Ak/QbksDa2iW6VkTPEPT602nVYwF9DZvr613GOE/nL7z2Z2SO4sCWRCEYALSINQ/gvk8whyiy3HbeHDFOpNsZa6mBhyYlv3DMj5Ev4lcR90vj50ou7tY9DfbQvcGUO8nUCYNKkjw1eAEbRLF6tsB/25OqGfMk=;a/OisPTHV6WCUn0bOVW/SA=="
+secured: "Hqk4f/oolkuaPztImQbTlQEMPZIW9gNKAObIl7bTW7fXnuuT37CWzhiXEXrau2D6hsLfUt79LSLaIspHwwDg9p8nqlF6oegO7lbBzowb0rsVKvCLDufjOXvP/oPxJtQ6lgvc1EQMWfOBTW8BTmxt+eYa51nDH8gCbczIEpQqVh2IQ+xfiHvEDZzj3XmaktV+GBU4v+gSoLSqiT2zQtF3BFurOcKwTWJoGAb7YJ6kbshPzIq72VVKavKOQKi8rtsfY2yFREHNYbRyPYkbcszSrcIlV4Nr8CuF11hCVwyy2lHZ1aZUYnHksF15EibWb9VL4M1kgtVky1AgMNAzdXiGL0oiQEyc3k/bC5EeDmouY6wAGhp9bZr8VeldEYKWtvwZ+/U8mVj5uix4amYiZ5a5o/EAeaagLcDFqmfNM3wJSqMMyjZWF7t8qq1vOI6FvzE9D7GIxQojeIPgPL5xysXc94EFJAND0EvsCSZw1uTDTwgUPkgLhcqIxvaokA1aeAhR2XpFwTflVNjZq/AM1cGfZA==;owOfkcPtzCzLSM4jMStwrg=="
 ---
 

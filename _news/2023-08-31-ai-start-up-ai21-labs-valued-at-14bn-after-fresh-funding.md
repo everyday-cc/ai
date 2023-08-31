@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
-excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-publishedDateTime: 2023-08-31T06:17:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
+title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
+excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
+publishedDateTime: 2023-08-31T07:33:00Z
+originalUrl: "https://www.siliconrepublic.com/start-ups/ai21-generative-ai-funding-investment-round-valuation-amnon-shashua"
+webUrl: "https://www.siliconrepublic.com/start-ups/ai21-generative-ai-funding-investment-round-valuation-amnon-shashua"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-103235427,imgsize-736034,width-1200,height=765,overlay-ettelecom/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise.jpg"
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-21.jpg"
     width: 1200
-    height: 765
+    height: 900
     isCached: true
 
 related:
@@ -54,19 +54,19 @@ related:
         width: 3608
         height: 2401
         isCached: true
-  - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
-    excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
-    publishedDateTime: 2023-08-31T07:33:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ai21-generative-ai-funding-investment-round-valuation-amnon-shashua"
+  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
+    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
+    publishedDateTime: 2023-08-31T06:17:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 37
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-21.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103235427,imgsize-736034,width-1200,height=765,overlay-ettelecom/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise.jpg"
         width: 1200
-        height: 900
+        height: 765
         isCached: true
   - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
     excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
@@ -83,6 +83,6 @@ related:
         height: 404
         isCached: true
 
-secured: "rh/U9CgewAX0ezedWc6gsHObPBv7r2hmgcpCVNE3XyMBMJcb71p6sb5UJ3ymZp2a8lwKXnLOIpJUjVjaqdgiZWUWeh1qygUfOGGrzBgLs/0H9fieOSN7B3JybEzGKG1jt+VjJXnMho5z79GnSm2YApKwVP1C8EltTsLMiM9Ea8XeoHpIS2WNj1pjSGsaIEQXtpaKUdmAShlYVZ3i3OeIYuDErp0O1C7FqnwCr23TRkJaYotQIL3MNe6mrNAfg3yio5A87VDvEuYLlvkMs80tY4Jw6zN1IqEkXvg1vRc3KlIvMM+NTT9fIuMmJqQHeNYPJy4DOryuCvC0o3sjS5RK7x4G6poOXEibP2lG12PcvZs=;eEpz44haAFRumdQzS43Feg=="
+secured: "RPj9bh/C2+1INDvJcj51mXbffKCgeeoB1XM28tAWwVmiBvfgODUrR+uuUL5OLAgkoBAVLkS5+XSPs5DXJMjapj9/00IIjES3GWRLmVLfnPwAgdH+xtEKfpxToB0aDCLyryEfv4OQmiPSe00vNG0OLWTVjCkgVFJwx2gv+guF+oj24Gu0EqQHS0pInwA5oZuD85bLEEHlY/kf0ERBufDVivYh6/9lyA2R7x1+mzD2Fy9jJapYyOUm/k0u5TVEuDoCZX0gwhS0rMZO/PHILA0K9Jh7sxERZU/sneHmiMHGnMGtf1bqRpHkyJKvPo0fFc5Til+7/5vrnZZhPeJWFDmgYc7N4KQKjSCYAnGrL6Ilmv8=;ZwTStX6hcd0LC9phHoJQXA=="
 ---
 

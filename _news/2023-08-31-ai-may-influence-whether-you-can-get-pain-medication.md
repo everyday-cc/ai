@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medicatio
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
 type: article
 quality: 57
-heat: 79
+heat: 80
 published: true
 
 provider:

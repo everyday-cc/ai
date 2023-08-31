@@ -1,27 +1,29 @@
 ---
 category: news
-title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
-excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
-publishedDateTime: 2023-08-30T21:40:00Z
-originalUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
-webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
+excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
+publishedDateTime: 2023-08-31T07:16:00Z
+originalUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
 type: article
-quality: 37
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
-    width: 800
-    height: 533
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
+    width: 768
+    height: 438
     isCached: true
 
 related:
@@ -98,22 +100,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
-    excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
-    publishedDateTime: 2023-08-31T07:16:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
-        width: 768
-        height: 438
         isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
@@ -243,6 +229,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
+    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
+    publishedDateTime: 2023-08-30T21:40:00Z
+    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
+        width: 800
+        height: 533
+        isCached: true
   - title: "How Nvidia built a competitive moat around AI chips"
     excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
     publishedDateTime: 2023-08-28T13:01:00Z
@@ -312,6 +312,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "lcnDb60HSDqHUAGXP/+23gPyKgvAD7KVHVmIsDolm1yKqDzhpPi8Dsl1CoKjCBmsVgSRbcDsHrW0J3zK/PY90voMng69l29shAw08sBRF3jwNOvthP3uZHlcFt1Wx0qux1AMGHfZGNMQ2QH0H8SeCOR1W9uuGn9uyI2dKbRdCKs7XH4CsvPgFegL3Xnqi5q+P0oudajsQL2NjHVNZJwolP5u6gJB0/JUmK33TKEcZ4qOLlBD0ieXvcyGJbutVzjgC7QiGoCzluwYvkc98qksjHt5q8eMIiodkjONJ1qsrJqZufEvhxYCT1+ycwnxaQNDH8fsERYilI98iwgBw8Z1m4eT912cBEQ9A925Q1QdE80=;Z80OMZTaXvpGGwz9rUYVBA=="
+secured: "d8gEldjPg+cirF4IYcxAa/A8yHsoxotUG9eAExrbPJW58cj50ymUEPqLgvj2dYvkMqD1+9+p9VArTlAZ2xcIRF75CZyQQqDGwNAzc5/jNtDwbXFewQJmoemqLH61Cnulql/n+tSkURZ7vSaFHgjEVeHDnEOjef9bdE6+AZbR34FqQ+0FX7z9Ltj6S+srSc2gmrKWkE7eDCBlgZXR0adZyXOPtQdhgaikrYkzkEcUkfQLHklugmGXVqru3aYFcIOr2lc2qv96v4xt+wkqa7cyDxKfkPt9MVqkSRTYW0A6yMlWg5UA6tl5SufsmD8tR58siawga+6j6biCaSTR4hDqWBe3K7c/b9mMd1VDXrmj6b0=;NfTXJqm3lqHpNUZwoezPwg=="
 ---
 

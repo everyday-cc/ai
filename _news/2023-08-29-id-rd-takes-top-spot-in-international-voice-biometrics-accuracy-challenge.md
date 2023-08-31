@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Face biometrics adoption hits another gear"
-    excerpt: "Face biometrics rollouts are proliferating for popular consumer products and services in many of the most popular articles over the past week."
-    publishedDateTime: 2023-08-26T13:57:00Z
-    webUrl: "https://www.biometricupdate.com/202308/face-biometrics-adoption-hits-another-gear"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
-        width: 2048
-        height: 1298
-        isCached: true
   - title: "Veridas Voice Biometrics on Genesys AppFoundry"
     excerpt: "As a 100% proprietary solution, Veridas Voice Biometric revolutionizes call center authentication with real-time voice recognition. Swift and secure, and powered by top-class NIST-rated algorithms, Veridas replaces lengthy knowledge-based verification ..."
     publishedDateTime: 2023-08-29T15:54:00Z
@@ -60,20 +46,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/28212609/Events-biometric-ticketing-crowds-scaled.jpg"
         width: 2048
         height: 1291
-        isCached: true
-  - title: "Id R&D Ranks First In Speaker Recognition Challenge, Highlighting Strength Of Voice Biometrics For Frictionless Security"
-    excerpt: "The first-place finish in VoxCeleb 2023 demonstrates the best-in-class performance of IDVoice® for securing conversational speech without passphrase"
-    publishedDateTime: 2023-08-29T21:25:00Z
-    webUrl: "https://menafn.com/1106982153/Id-RD-Ranks-First-In-Speaker-Recognition-Challenge-Highlighting-Strength-Of-Voice-Biometrics-For-Frictionless-Security"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?612612"
-        width: 374
-        height: 250
         isCached: true
 
 secured: "5kHxZs/ufJc8vLRde2X0vhq9fYQbf1lQeHry5COLWXJNAugVOjT6cSLKOhB01DAJ0JV0TJNw9aZE6RVkDOzrGx9aX++NAcwRpJC9qJ5+CNl4gCB/h7wNxWdK4oGZXjn0o7gsjK8mc6YcST10CiMojwBTirO34u2lbIZ7AQ76zZmuD29Yj2htFfACnMRs1r5RdRh8+6k2qf2VvBPKduJKwPhKYe28PVxXL3nCllnz+dAoXnBz8kHAMZfDzkFH7M+MNp2An2B6ZMZtBJrxHlZGe1ESGlAKe75IPTt52ognzxMoFO+D3oBH07I30pD33FfStCoo3hYJThNnpa7pFIJGkiej3OVeXJi3tpGL8A7W+BBoIdoG0Zyfu8qGU+hzoU5gYFo00cXioKtfr2U2B7nqhK0JOHDVZcvSnmxwcyJyJ2yblAVF83/E4GAwLJJ3nXCiWWgJeSPUsvOOqXnf8FCsKV7eLAUiDIQ4IOUe2+kZO7OQM1eXwpoF2IPEw9FyexitzYNsd4U9d0VEfdpXDUJwOg==;ag603ZLMGUac54L8Czq9MA=="

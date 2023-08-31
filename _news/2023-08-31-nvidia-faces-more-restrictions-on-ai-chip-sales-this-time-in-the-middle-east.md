@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 288
+heat: 318
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
+    excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
+    publishedDateTime: 2023-08-31T07:16:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -146,6 +162,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
+    excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
+    publishedDateTime: 2023-08-31T06:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230831vl204_files/3_2b.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "U.S. curbs AI chip exports from Nvidia to parts of Middle East"
     excerpt: "A similar move announced last year signaled an escalation of the U.S. crackdown on China's technological capabilities."
     publishedDateTime: 2023-08-31T02:36:00Z
@@ -159,6 +189,20 @@ related:
       - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/31/248968.JPG"
         width: 1000
         height: 665
+        isCached: true
+  - title: "US curbs AI chip exports to some Middle East countries"
+    excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
+    publishedDateTime: 2023-08-31T06:40:00Z
+    webUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
