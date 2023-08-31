@@ -115,6 +115,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "US restricts exports of Nvidia AI chips to Middle East"
+    excerpt: "Restrictions apply to A100 and H100 chips, in escalation of US efforts to restrict China’s access to products"
+    publishedDateTime: 2023-08-31T08:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/27fe450e31ec90f79d4cace3bf99fe31dc2fa16a/0_388_5855_3515/master/5855.jpg?width=620&quality=85&auto=format&fit=max&s=20553a9182bde4d1e9bf148e408f726b"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -312,6 +328,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "VKKrwk/Irr2ZUuQpSUvZfhWZSMdhm+rQ1MUj79FOEIhlHjlBIu+R7Mb5FHE8RZRNvbYgKdiJkD8aAxUJVHIlV9zd5UZdRt+WL4OKSE50A4YU8nullPlUR+x+7WLEv521ZaaLSNP987VdLZUvMAjSIC0m9vq4iT+U1wRva0g6y5wppGHVP0XaH7Cd8sxgfVXb2d3d0lYfeXXjGLru1G5nep3sSELtXJJWumCrnuh+V39FdME1ukq3wINkidihsYnL3XMjVZiChg7KosUwKpXovChXImYQ/r1tR36+2zcduOwfdpJWJpoBEWI1DWm4xRux1cNBQ8Q+Ke5Ej7BaaE0XdC1sDseAvht4rfMtL6yGA4A=;aKlPVvmerZkG21AjBW1euw=="
+secured: "FnhdCfNTEYUp1a5NjWKGKkJLZVseHFHkCWNZvQ7gxm6GNMZp2n1JxofksTJsuc0G/mbj4H2mPQsOb2rm+P7HIQ9lOfxNN1Bv30OcJYh/6NP0EQ4/mJwm9KIKY8Bb+tHtRGU4dwbON6wauLB/Yms3gfsGPM3lwEHRmRjJfxVCv0UJTibAQ66BiYiGZaT3ZxqH9RojOP9mYa7Qe0MgylsTAaMnx5wV5jAlGClHnmeRb7unG+ip39y4TMbuGU8+HZJ5rEhdIhx/vdf5xVwZecv6b3WBT+W74pYnHv2USn8dUzMecDL9bz3qDj3aZbxk5KAYEelwoVqoCxqC3CwuXIxWrnZW6Cy08S9YEB82R7uCgI5BiqwBWOP3/cRBvI2zNkuCGNhPJuGo3C6Jr8sB3NPbC3/k7N6G2U9UXlsDXH8F4JTT5BgRlHFc91npXaIQjdJwqsn+Duh6tIvrYYOnqiO26/mUabEiVeT/0qykNa1E+g0SUxxPnn6tB2wuiUOtzMlky7VnoCTp8nBXAnV5E7PrsA==;xiq00eulwpPZVL2E6/M38Q=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 3608
         height: 2401
         isCached: true
+  - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
+    excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
+    publishedDateTime: 2023-08-31T03:21:00Z
+    webUrl: "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
     excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
     publishedDateTime: 2023-08-31T07:33:00Z
@@ -71,17 +85,17 @@ related:
         isCached: true
   - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
     excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T06:17:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
+    publishedDateTime: 2023-08-31T01:08:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: AOL
+      domain: aol.com
     quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103235427,imgsize-736034,width-1200,height=765,overlay-ettelecom/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise.jpg"
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
 
 secured: "fA9Wyedda6X2JjqFc2CcWS/4tRo1hcjNLd+g6YCsfsk4dKqtvuNdabxp8iZmxkzw604JY3NnoAZFlCFmiCnCr8vwlxriHba8nC3SR5Ouk5N3upWKwD6D3pzvwqsVyVWb6WfY9cu7G2oEUQKroi6RGwpcXQ2BxbQrUo95dP0Ombi2bF+/wtf06lQyHDHbsWDF6JtOPBx9NVHfic5Y0f2Ov6ekFgItyE0UDy+D0P9TwLiYiXARzqmoXnO4zWBOyuvWRieS2d11XDrVHLdPBFZ5FSya4fSX+UDINL8yaaa2RhVYlwZbWfPweG8mO+S5eeWveymDqEYIg1KkE/MEE2r9oAv00/FRxThYGm05M1gaON+2jMeNGr/2YKpsV0nX2C8q0hQT1PHwt9hWOqygEZTNAngqd6uPG3rStdu0rIbY5gwhTHMG+qlRinmH4Wbr8V8m1DpJmDDntdIjjjimMkRmtMro2wvcLUPjdbWG+FaiuoH6P0ACiGvri3QDJamzRu7KfbsaaamKpiSOTg4kudFRcA==;X2RA6W8Zs0dS7VPpNyvBbw=="

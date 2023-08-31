@@ -75,6 +75,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "UPDATED: Baidu leads public rollout of AI chatbots in China"
+    excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
+    publishedDateTime: 2023-08-31T06:19:00Z
+    webUrl: "https://www.macaubusiness.com/chinas-baidu-rolls-out-chatgpt-rival-to-public-2/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 39
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
 
 secured: "soSVRzIuG3oLbvtjKLhJSPrKaOXJd17jVynhqQlSllrfj67CEXr9h54Dl7IluzGMuckL0aWg02U4R+A0fSFzGsgALVOXTfRdCrYafn/YdRx9rAA1JP8M2Z5Aj0uhsCEexdmABH3i3I3pPO8a8cPN7GDY4X7zD3yzVfEWyhvscI39HBAtOo7vrad/nDtUiGz/kDHLOX9k2IFqja0DxxAY0/Y8eX3MsGlBTU8x/6Xui62Q/BQkR5yXekekxXfrNoDFOvt09YO5WWz3JMMryQ0/uDPxh94qm0IM5yXVvT11IDZ3FDhHg1/oQRXyMZOImNm28QpxICBe4pVj7fEbN/0VBpXocy+gtscp3thxORGHKPvNw2IS/JF0BPwVRvSsHkfpZYLCbWDktQpKlKs8AISeV/4GHf+iQDKDgxscmXrZ5LTxcgutuiaNsAEX9pCrr1t3piFJntM0IehKjJN19fETKeu0RCu3eTRWPJGJsXDppQ50XYghmM3oDH7ePlua1DbRH3V77y9hpwXl7C/jLq0UMw==;++kUhOFwQZq2sYqlF0YfwQ=="
 ---

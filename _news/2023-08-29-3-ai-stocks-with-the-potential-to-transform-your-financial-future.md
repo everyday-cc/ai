@@ -124,6 +124,15 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
+    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
+    publishedDateTime: 2023-08-30T09:31:00Z
+    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 19
 
 secured: "ENJl5VqC4F/EH0O7NCMEAijePe5sr+iKBGUKj9IgVAlzfFRnRU9C15as8EB0H/TyBnis0cJmIDmHDrx4uMSj/wzzsb/Vo83GyDOBjX8Yb7bOHdwM35XwJEMaY9PVUa6DR3rYBxcjNDVQ0qlz3DLzeFmzLEFj7tlYGoSRcHp4lM78rZ/pS9oLPrSInOROOeih/Qks8dm+c5CQHcH3XElCGa+gOZs1uW6JAhT50INFEwv6mDIY23m91hhgX9FRsVVk4ntVIeWzDWJ6e3nQ8G8P6Vvlir7E8cxA7cWXywAxFDq7/gsyS7lu7yPhbV0s5D72ktFqS78dl76BRwN9RZNW4PpuP0fQFyOjjmwtlGJVjyk=;aCJea7Txls9lZVpv4/APkQ=="
 ---

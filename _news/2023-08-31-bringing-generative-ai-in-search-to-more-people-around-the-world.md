@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 321
+heat: 331
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 37
+  - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
+    excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
+    publishedDateTime: 2023-08-31T09:00:00Z
+    webUrl: "https://www.searchenginejournal.com/generative-ai-and-seo-strategy-getting-the-most-out-of-your-tools/493591/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/sos-2024-generativeai-featured-image-64eda220ca322-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "AI's Dirty Secret: Poor People in the Developing World Are Doing Most of the Work"
     excerpt: "In short, while AI has triggered a billion-dollar arms race in the US, those who are actually doing the brunt of the work are often going unnoticed, underpaid, or ignored altogether — a wrinkle in the ongoing AI ethics debate that should give anybody pause."
     publishedDateTime: 2023-08-30T09:27:00Z

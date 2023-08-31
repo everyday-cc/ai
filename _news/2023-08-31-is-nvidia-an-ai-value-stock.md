@@ -118,6 +118,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "US restricts exports of Nvidia AI chips to Middle East"
+    excerpt: "Restrictions apply to A100 and H100 chips, in escalation of US efforts to restrict China’s access to products"
+    publishedDateTime: 2023-08-31T08:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/27fe450e31ec90f79d4cace3bf99fe31dc2fa16a/0_388_5855_3515/master/5855.jpg?width=620&quality=85&auto=format&fit=max&s=20553a9182bde4d1e9bf148e408f726b"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
     excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
     publishedDateTime: 2023-08-31T01:58:00Z

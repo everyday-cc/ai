@@ -2,25 +2,25 @@
 category: news
 title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
 excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-publishedDateTime: 2023-08-31T06:17:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
+publishedDateTime: 2023-08-31T01:08:00Z
+originalUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-103235427,imgsize-736034,width-1200,height=765,overlay-ettelecom/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise.jpg"
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
     width: 1200
-    height: 765
+    height: 630
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
         width: 3608
         height: 2401
         isCached: true
+  - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
+    excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
+    publishedDateTime: 2023-08-31T03:21:00Z
+    webUrl: "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
     excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
     publishedDateTime: 2023-08-31T07:33:00Z
@@ -83,6 +97,6 @@ related:
         height: 404
         isCached: true
 
-secured: "rh/U9CgewAX0ezedWc6gsHObPBv7r2hmgcpCVNE3XyMBMJcb71p6sb5UJ3ymZp2a8lwKXnLOIpJUjVjaqdgiZWUWeh1qygUfOGGrzBgLs/0H9fieOSN7B3JybEzGKG1jt+VjJXnMho5z79GnSm2YApKwVP1C8EltTsLMiM9Ea8XeoHpIS2WNj1pjSGsaIEQXtpaKUdmAShlYVZ3i3OeIYuDErp0O1C7FqnwCr23TRkJaYotQIL3MNe6mrNAfg3yio5A87VDvEuYLlvkMs80tY4Jw6zN1IqEkXvg1vRc3KlIvMM+NTT9fIuMmJqQHeNYPJy4DOryuCvC0o3sjS5RK7x4G6poOXEibP2lG12PcvZs=;eEpz44haAFRumdQzS43Feg=="
+secured: "H6rtdkazvfDCD2ZBfZgocH2NuN7ABK2ohUSNEsS3Z+EEC8I+kTl7H99z2s01zvxfMi+mTabpisiHbi8iqWtAtYg0SIgVZb+2f4x/aeiLNDhoblNeAP19JIiMPD51Yx88V0GkvltAZ29iJRz/SY8hdwK6rfq7VKPXhsuZL5muTDViaFTb7OFvAAzw/A1TtSLaQvtF80zsMv3pU050SGV6BQe/2EYeXNe4gJgshkyGlYvNkemC+4qSgeIumMR1WeZf3cVyxRYgt/mfhZ2AcnfmWk/5WNz/rOOaQIj0zr1Ei1SRsG9BPWQwmqw6m44bZ8o8g0iuW25OD8YJ9NDD3jeUVTcZ4b2FtJefpw8ZIrurV2U=;yn6hfnMi8rnQ5XkYWG5PMA=="
 ---
 

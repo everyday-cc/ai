@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "How artificial intelligence will affect the elections of 2024"
+    excerpt: "Advances in generative artificial intelligence ( AI )—with models that can spit out sophisticated essays and create realistic images from text prompts—make synthetic propaganda possible. The fear is that disinformation campaigns may be supercharged in 2024,"
+    publishedDateTime: 2023-08-31T08:49:00Z
+    webUrl: "https://www.economist.com/leaders/2023/08/31/how-artificial-intelligence-will-affect-the-elections-of-2024"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230902_LDD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
     excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."

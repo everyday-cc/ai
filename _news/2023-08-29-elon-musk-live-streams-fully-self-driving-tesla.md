@@ -108,6 +108,20 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 34
+  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-31T09:04:00Z
+    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 25
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
     excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
     publishedDateTime: 2023-08-30T17:14:00Z

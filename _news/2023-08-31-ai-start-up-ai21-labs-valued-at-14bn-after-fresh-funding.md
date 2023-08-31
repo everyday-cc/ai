@@ -54,19 +54,33 @@ related:
         width: 3608
         height: 2401
         isCached: true
-  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
-    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T06:17:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/103235427"
+  - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
+    excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
+    publishedDateTime: 2023-08-31T03:21:00Z
+    webUrl: "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
+    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
+    publishedDateTime: 2023-08-31T01:08:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103235427,imgsize-736034,width-1200,height=765,overlay-ettelecom/internet/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise.jpg"
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
   - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
     excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
@@ -83,6 +97,6 @@ related:
         height: 404
         isCached: true
 
-secured: "RPj9bh/C2+1INDvJcj51mXbffKCgeeoB1XM28tAWwVmiBvfgODUrR+uuUL5OLAgkoBAVLkS5+XSPs5DXJMjapj9/00IIjES3GWRLmVLfnPwAgdH+xtEKfpxToB0aDCLyryEfv4OQmiPSe00vNG0OLWTVjCkgVFJwx2gv+guF+oj24Gu0EqQHS0pInwA5oZuD85bLEEHlY/kf0ERBufDVivYh6/9lyA2R7x1+mzD2Fy9jJapYyOUm/k0u5TVEuDoCZX0gwhS0rMZO/PHILA0K9Jh7sxERZU/sneHmiMHGnMGtf1bqRpHkyJKvPo0fFc5Til+7/5vrnZZhPeJWFDmgYc7N4KQKjSCYAnGrL6Ilmv8=;ZwTStX6hcd0LC9phHoJQXA=="
+secured: "fNDCZTPNdiDGc2JJ6KtmOLozQOjuzITEPVkWGpjfDTkCHf5gj7dtupo+1VUm42t/ee6+ilWTLPupWBkZB+FIkEdktYk3ku+b9+hUAHP50PtONgn/37ihj4RYqCh+8FhSJ31orrpx89bgBFv9if5eYV6Pt3Qnv7R3yUTa1BowCBABXPYwvWULWAHLGJ0V3kmmRwp8kJTo92zb5vtuDAKFez6mZ35Nhspxj74eiFuGuizJms0C3XZswzBBvGWA4OwZxt7BScEIy/SFFwjAxWouPIkWdYp+/v8hscBtjz9xdNLRYuBqlWy9WDP5oQlmnFm45LgwDXWhzQliDcP4/J0xZO793C0livQttBEzrTJPkXIMBWH4FlWuIPFrqp/M09Iv7x5agKg8zkJMhMAcF6GX2XH2A1bNi4zHq9ka7TSad0VzuqLk/+v4orH3HVKpl0tHuD5zKJi5Nj1XLLRFvjk79lK3MM2w8FNFkDAldKkZVVa+kHw1tvmJHKPsBgN3gOuMa5hiUijv5axUlbvcLB+Q4w==;+LmojkHNGoYqzmyf51pPkw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
 type: article
 quality: 81
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -125,6 +125,15 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
+    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
+    publishedDateTime: 2023-08-30T09:31:00Z
+    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 19
 
 secured: "UchVfmlHAjzeC+sQtxNJUjSHCmBAEXanrYKlB0DJ/ZC/eX6WYX59UPZuSv2bPSCKHCmHK7l+cufUyqtS1iZJxmw79PIJFPwI6ROWsowxu+9AvSAFSFxGcC0K7h2VihbV1RIqnqZ4Bf/resWj9V8ymiQXeP20EvpE6ETSSCLhzRNmktd0+2j0MIJm780INlqPxurKBmXOhCBRM4CbUaED0IQvqgq14J780Tl1dqrU/118/fAyrx8Saaq1fn4KXPEa+Uc5ICUl2/el3iOvGS6TGTI8dVxvIBr8ewnYGB+ueZ3gBixboibjwR0I1J8k/dOJYZ4DOOqSCxCmsBhIsfPHGqHroJ4fdrON+BbTXFpBLGHXqoQZqYgCt80NAXIWStMJNf2YIYu84yU8YEKHU50o4B2HlGhyF4SfaJIsy5VXK3MqaJCM0xgnhHskOJMktFB8qM4QVXt0dtdYfDxoI0Yz4IqJKNE1mqvFzWZDs74v9h9BVxMsvVnT7rMqavgDwwXsEvyFCQULCgDAyDGh5PX7Uw==;TFixVPudMEv25vQbwlqGHA=="
 ---

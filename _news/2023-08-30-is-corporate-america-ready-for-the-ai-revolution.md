@@ -55,6 +55,20 @@ related:
       name: Oak Ridge National Lab
       domain: ornl.gov
     quality: 34
+  - title: "Future of Fintech in Latin America 2023: AI sector expects growth and aims to confront bias"
+    excerpt: "AI is expected to increase the GDP of Latin America by more than 5% by 2030, according to an Economist Impact report, as demonstrated in the graph below. However, according to Oxford Insights, Latin America is among the lowest scoring regions for the Government  AI Readiness Index in 2021."
+    publishedDateTime: 2023-08-31T09:15:00Z
+    webUrl: "https://www.finextra.com/the-long-read/767/future-of-fintech-in-latin-america-2023-ai-sector-expects-growth-and-aims-to-confront-bias"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 29
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
+        width: 799
+        height: 449
+        isCached: true
   - title: "Echo Chambers Amplified: How CNN and Fox News Fuel America’s Polarization"
     excerpt: "Researchers utilized AI and natural language processing to analyze 10 years of broadcasts and tweets from CNN and Fox News, revealing a surge in partisan and inflammatory language."
     publishedDateTime: 2023-08-28T19:32:00Z

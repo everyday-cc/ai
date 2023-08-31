@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3705550/microsoft-amazon-go-he
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

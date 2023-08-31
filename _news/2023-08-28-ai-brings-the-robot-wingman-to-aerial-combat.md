@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AI Brings the Robot Wingman to Aerial Combat"
-excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
-publishedDateTime: 2023-08-27T22:12:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+excerpt: "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets."
+publishedDateTime: 2023-08-28T16:24:00Z
+originalUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
+webUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI in Robotics
@@ -47,6 +45,6 @@ related:
       domain: business-standard.com
     quality: 52
 
-secured: "Hqk4f/oolkuaPztImQbTlQEMPZIW9gNKAObIl7bTW7fXnuuT37CWzhiXEXrau2D6hsLfUt79LSLaIspHwwDg9p8nqlF6oegO7lbBzowb0rsVKvCLDufjOXvP/oPxJtQ6lgvc1EQMWfOBTW8BTmxt+eYa51nDH8gCbczIEpQqVh2IQ+xfiHvEDZzj3XmaktV+GBU4v+gSoLSqiT2zQtF3BFurOcKwTWJoGAb7YJ6kbshPzIq72VVKavKOQKi8rtsfY2yFREHNYbRyPYkbcszSrcIlV4Nr8CuF11hCVwyy2lHZ1aZUYnHksF15EibWb9VL4M1kgtVky1AgMNAzdXiGL0oiQEyc3k/bC5EeDmouY6wAGhp9bZr8VeldEYKWtvwZ+/U8mVj5uix4amYiZ5a5o/EAeaagLcDFqmfNM3wJSqMMyjZWF7t8qq1vOI6FvzE9D7GIxQojeIPgPL5xysXc94EFJAND0EvsCSZw1uTDTwgUPkgLhcqIxvaokA1aeAhR2XpFwTflVNjZq/AM1cGfZA==;owOfkcPtzCzLSM4jMStwrg=="
+secured: "+lUNygwK8WIUmkkf/Oz5obFQz28vRgYixPhgxQplsTe2d9UFQv/RwgSnyB1HdoXYv4WWuhhBB0r7nlRWQfSUyVJoX1vw05KbpBCagKBgr4XZtPrDqVIgsWkMOfNP/csbT3iPQUIUrkZGgwc0cpDXalDflqyRjmIqFfD6sgI39JQ0IcX+6uiL0HaV8oXUej1PFWa2K/8dqi27wgNEun8bYBo6eHDjNCo+gVtgSdEcSHFI/m5JoRRWObreaJ2XpjT2f2l0z47VWG2iDXyLBqhJfiZBab5DxLDXtUJs9/Og9hmsjBvFbUc8I8H5oEctGdgfN6n6/3wYCB+ZdEUeFvISVOUtDs4Pfq+qwd9Q1Azo740=;/tc8Yx38FwqWJYXYeGU0Jw=="
 ---
 

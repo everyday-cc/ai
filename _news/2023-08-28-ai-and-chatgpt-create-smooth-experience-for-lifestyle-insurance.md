@@ -66,6 +66,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "UPDATED: Baidu leads public rollout of AI chatbots in China"
+    excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
+    publishedDateTime: 2023-08-31T06:19:00Z
+    webUrl: "https://www.macaubusiness.com/chinas-baidu-rolls-out-chatgpt-rival-to-public-2/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 39
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
   - title: "Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution"
     excerpt: "Chinese tech giant Baidu was granted permission by Chinese authorities to introduce its AI Ernie Bot to the general public, with its official launch scheduled for August 31."
     publishedDateTime: 2023-08-30T19:14:00Z

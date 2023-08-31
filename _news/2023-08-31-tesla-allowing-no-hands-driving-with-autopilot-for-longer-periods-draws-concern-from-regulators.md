@@ -66,15 +66,6 @@ related:
       name: WSPA
       domain: wspa.com
     quality: 5
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-31T05:36:00Z
-    webUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 5
 
 secured: "3bhBzptQGJ3i+f0p7d+2F8OCWv44uqtjqDjs+uy8gP/P4z/CdeZGa2A0BTS9F0D18NuJWBbPjaJkDMYfA5XeaBTrj3P6ZyX63bRbq8dNibBp17cnkVZ+6JXfNQ92uuQEwQKLv45kcG/zkYm8z5w8h8P6FEyRvT03rv5dVq1aK1ivGCcoWIGwW9A2Pok9rPi80BgKzqFQVX3ffXGgfbQO5XXdojeCdtqhlMGJOaB4vSmbaTtugT9TkTF69FDwjnxt5u23dhszKfSTFRFyUXhs2BHYdzYm/afofbZLNSMU1gEPfxPdYKQ8yxIG9hh7Er0dECuHJ1Szslox7aZA60lnXe+CkA/uAySjAeTcWOVFKGc=;CUB0jer+yj/BmOIHLCYU7w=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Launch into satellite applications with Microsoft Azure"
+    excerpt: "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications."
+    publishedDateTime: 2023-08-31T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
     publishedDateTime: 2023-08-29T14:55:00Z
@@ -166,6 +182,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Fraunhofer launches internal AI chatbot"
+    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
+    publishedDateTime: 2023-08-31T09:21:00Z
+    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 39
+    images:
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
+        isCached: true
   - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
     excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
     publishedDateTime: 2023-08-30T12:30:00Z
@@ -175,6 +205,15 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 25
+  - title: "Chinese tech companies launch AI chatbots to public"
+    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
+    publishedDateTime: 2023-08-31T07:58:00Z
+    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
     excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
     publishedDateTime: 2023-08-29T13:28:00Z

@@ -1,80 +1,161 @@
 ---
 category: news
 title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-publishedDateTime: 2023-08-31T05:36:00Z
-originalUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
-webUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
+excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+publishedDateTime: 2023-08-31T09:04:00Z
+originalUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
+webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: The Maui News
+  domain: mauinews.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
 related:
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods; NHTSA raises questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated \"Full Self-Driving\" system cannot ..."
-    publishedDateTime: 2023-08-30T17:28:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/"
+  - title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
+    excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
+    publishedDateTime: 2023-08-28T03:07:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 65
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/30/ed93724c-c66d-4eb1-a3ac-0218c5233b6a/thumbnail/1200x630/d99da16f8c3bff4267a2359a293e6832/ap23213424013169.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "NHTSA demands answers on Tesla self-driving mode"
+    excerpt: "Prior versions of Tesla's Full Self-Driving software had a feature colloquially referred to as a \"nag\" that sets off a warning alarm when the driver takes their hands off the wheel. Read More GM invests in company developing lower-cost EV batteries ..."
+    publishedDateTime: 2023-08-30T15:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2351693402928/2023/1/3500bda9ca3a580ea6ebb2512f07b3a2/v1.5/NHTSA-demands-answers-on-Tesla-self-driving-mode.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Feds question Tesla on no-hands driving"
+    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
+    publishedDateTime: 2023-08-30T21:52:00Z
+    webUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/"
+    ampWebUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/08/AP23213424013169.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
+    excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
+    publishedDateTime: 2023-08-29T14:58:00Z
+    webUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/"
+    ampWebUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-uy2nyfww9-1693318939415.jpg?quality=75&strip=all&1693304575&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Elon Musk Affirms Training Compute Will Not Be A Constraint For Tesla's Full Self-Driving Improvements Much Longer"
+    excerpt: "What Happened: “Training compute should soon not be so much of a limiting factor,” Musk wrote. He was responding to a user who calculated that the training speed of V12 should at least quadruple once chip-maker Nvidia Corp ‘s NVDA +0.98% + Free Alerts H100 cluster is fully operational or even further if there’s a lot of Dojo online."
+    publishedDateTime: 2023-08-31T03:44:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34128510/elon-musk-affirms-training-compute-will-not-be-a-constraint-for-teslas-full-self-driving-improvement"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34128510"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34128510"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_59.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
+  - title: "Elon Musk Live Streams Fully Self-Driving Tesla"
+    excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
+    publishedDateTime: 2023-08-28T19:50:00Z
+    webUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
+    excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
+    publishedDateTime: 2023-08-26T17:48:00Z
+    webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 34
+  - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
+    excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
+    publishedDateTime: 2023-08-30T17:14:00Z
+    webUrl: "https://futurism.com/the-byte/police-elon-musk-distracted-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/police-elon-musk-distracted-driving.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods draws concern from regulators"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-31T00:03:00Z
-    webUrl: "https://abc7.com/tesla-autopilot-car-safety-elon-musk/13720025/"
-    ampWebUrl: "https://abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
+  - title: "Tesla faces major roadblocks to its full-self-driving plans"
+    excerpt: "Elon Musk livestreams the company's FDS version 12, as the company gears up for legal battles over its Autopilot driver assistant feature."
+    publishedDateTime: 2023-08-28T19:09:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/tesla-faces-major-roadblocks-in-its-full-self-driving-plans"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 47
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13719922_tesla-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T15:10:00Z
-    webUrl: "https://chicago.suntimes.com/business/2023/8/30/23852209/tesla-allowing-no-hands-driving-autopilot-longer-regulators-questions"
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-30T18:47:00Z
+    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 25
-    images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/d7217f9/2147483647/strip/true/crop/4570x2609+0+438/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FFOWvzkH2pGevQlpQzuUkrDz9cPs%3D%2F0x0%3A4570x3047%2F4570x3047%2Ffilters%3Afocal%282357x1938%3A2358x1939%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24884105%2FEVCHARGE_08XX22_6.JPG"
-        width: 1461
-        height: 834
-        isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T13:49:00Z
-    webUrl: "https://www.wspa.com/news/national/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 5
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 11
 
-secured: "EbaEagNsfsr0HY4FvyIqRm17m763LNBfs3cS6lcrcFLjmJnmfFbsf91AUPoNXAN2xlv6DWAbY6tvSmzGS4i78OPN09bzJEh52cOUygojfWSt4xBhuDRl0beebGqojTqqEXm5lLivw+Alh7Y/+zhXrs+A01gzrYqBThr3xIuC89EydnfsE4zwzP6HLxH4w1huHS0yejLFhnoFbTWiVNDinS/dk+mbelr8tmufy/TcuUPwk5Fzk8oq5Uo2jwUN9eZkgZgXI2KbMyjX4+DK9kFeaty+Q5i3m6utfbs7YqZAeVwaqt7CPhveHp7zt+iF9ldts3+lqxvtbRKi577uwxXBt4BFsW2hbVoYt/3XslzNWbys9CYiOMABa7HlXMrmKGJUP9uHEA7uvsw5jyTHDdHQRoDP+EHcPHRAeFRZ4tVjRwuQAYi3V5cBErt9qPP1MyFs1caQj6J6JvFRM8N19a0Ht+q0Ik7F1pPN9lBKDG17JXT6CgrSWKgwVMwn2DUmuMT3D943jDjstSyrrH+orP9T3g==;ebG5dQtu85VUAGIFPxT7og=="
+secured: "0WsCOdnqyd80zzmV4QA3a5L2y8XkD0dA2NI4EgbuuxyejneE4bzCpxyAS7dRfByfQC2hHrJRs/99azZhyW1jOztF6pZSljmtOUdmbmX4QXCfxdXAcAXWpJWTFyHn49QkeIDLofV1M7MxWUtXJhMJ6GNaxwNPDwVG7eY2J2f/xm/8we1zPxPLnu2Qj4/0/r4IQMYZ70Pv0r2VKmQ+trE/CCV1sEcxASW/zNekl3q1w5ZU/q6WrPZgjZg6/kNLIkMKt1EWcGKqa1IecD1h+7jqhsmhah9vq1OcnRqcV57rRnwO2qP3xJtIqCXYC+ksoofFB+7C2XO/OBUgqewmrCbWebyKlq6PgWtPbBZgnaNZQU8=;Me8ligfGbpn0ngozcdCT9g=="
 ---
 

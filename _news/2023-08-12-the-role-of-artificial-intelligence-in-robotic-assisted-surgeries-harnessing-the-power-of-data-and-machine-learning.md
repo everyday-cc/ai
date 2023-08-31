@@ -5,6 +5,8 @@ excerpt: "In recent years, the healthcare industry has undergone a remarkable tr
 publishedDateTime: 2023-08-12T11:00:00Z
 originalUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
 webUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
+ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/lite/"
 type: article
 quality: 11
 heat: 11
@@ -17,7 +19,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
-secured: "ZnBWuwpz1dOCH/4+gAUEkOJTGrnBmrqUHX/Y0SaxfWkyOdum81s+P2mFlFBGHVpqTdx9EwDIiL6o6tXKQN5/Eu2BLfjuf6yMNInVz+nV+62SFucGGlb7mcdkn608Ifg2usm0KhE0oMdDd2DzMb/TSDPcPkGlRIUU6gbL9aJBCqHoz+5reQF6EgkxQf1VF7KTHGeJ3oEoMTyAIDeZlXazkZlUneC/S0pzKxdhuv9ls7uWM63CpdTsB5BrTxD4KE3t3DyybNMbq1JY4CZllHTZ1v9zC6o0UjIebJ4p+CLPGRw7gw7uwVQ6XeDfAz71l3jS2o/i6ZmHlHRr5DRF5JJfjeneATm3cr0IBYrfUribbONvxvjF95YA4o6bCbuTyx/ZFoEQbDqP41I41qp75S8CqCRMeLfW8/UH/p2JZbxBQ2cE92rNRuo0LH1djmpV6PySUhRkuHYmiF3T214L+7xWS/C4xbaaCGVe8hYy6UOlQKu/POsTlRdRfDeWGG9+BWVR62VdSgzs4If7QsDVFbzdUw==;9Rq7L2nc6fWg3zuWEGJcYQ=="
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-11T190817.554.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "+tgghEdoFtfoXrSnnibVV0ZorU8AYRF9EpHzwozq/Q/4vxKk5lyHwkPmELGyDdCP2jLhPoNhx5gBc0ZyIaeg3bcymqc3uKApOru/PgPn/FyYQY8Gh/h4wRGG4o6CRwrtEfZBh9V4zREBYEoZ8tqhlbY97u3ca9665e9+2TYR7iJiCP6hZXzxMJ0mVRVBZ5MBZwdaH3z35NKKjI8ruKgbCIcGsdA4ukSiY4MTBbdvL7W8M0xyrCaWy8T+DKfYcHLrAuGpxH5nUNFHW0ShAVqMMyOogRWIcpgquEkm6e7JvwsWni0Xkb6pNF75mndlcwhXquuegYUqT4I8YBnNugrCMHUa8WA11oiEofWiYR8B5Kw=;g5ZE2Tsm3kFqgbJxoBUIDw=="
 ---
 
