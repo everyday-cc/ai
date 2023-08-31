@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
+      "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
+      "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
+      "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
+      "publishedDateTime": "2023-07-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
+      "title": "Here Are the Actual Mechanics Behind Powering AI",
+      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
       "title": "AMD's Best Bet on AI Might Not Be What You Think",
       "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
@@ -1308,110 +1413,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic.md",
-      "title": "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic",
-      "excerpt": "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "publishedDateTime": "2023-07-14T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-this-small-chip-stock-is-up-200-in-a-year-on-ai-hype.md",
-      "title": "This Small Chip Stock Is Up 200% in a Year on AI Hype",
-      "excerpt": "Rambus has been on a tear due to optimism surrounding its memory interface chips, and an upgrade cycle from AI. The company has put its past behind it, but investor optimism might be running a bit too hot given the nature of this business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739535/data.jpg",
-          "width": 5000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

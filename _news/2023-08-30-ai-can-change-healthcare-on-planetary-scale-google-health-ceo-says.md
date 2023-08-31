@@ -51,20 +51,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI in Genomics and Healthcare: The bigger picture"
-    excerpt: "In recent times, affordable high-throughput DNA sequencing has ignited a revolution in digital biology, and more genomics programmes around the world are gaining traction. This advancement has resulted in a paradigm shift in which medicine has become personalised,"
-    publishedDateTime: 2023-08-28T23:30:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/ai-in-genomics-and-healthcare-the-bigger-picture/103145569"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103145569,imgsize-107726,width-1200,height=765,overlay-ethealth/industry/ai-in-genomics-and-healthcare-the-bigger-picture.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "0CoRzuqSJrDoH13NN2fzhwhVxMRom4EwLdUquFz6SVLw4kGJaIrLIZgVBtPOcGTsdP2QHqdf019gvq7lvf+/otQ6YuYwKQNLx2lL6w02O5T/80nx7SFKyGi+SHoUboEArUyr39d9GP9rC2OVRUN995IL1V64pwe47ACYYTfTwoBflxR45IQnon1kGPMkqlQRfy2mcfXjJQWk7AKLcuIBMJj49sQtkbZ/qYYSKP/m55LkBXVk4/8GCCR1YHSWidl3+KK+prG0cwyOYJitMM4jsDvE1s35MrZQuscAN1bBuYBsjGVgO4TCa5wojsKjvdmHkXgcUCS7y16yYRFkh6zy044xWyVehR29VAgNp2rOC2g=;eZkifW3sid55QR1txAa9jA=="
 ---

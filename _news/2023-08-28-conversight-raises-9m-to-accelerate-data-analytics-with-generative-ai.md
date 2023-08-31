@@ -28,82 +28,73 @@ images:
     isCached: true
 
 related:
-  - title: "Context.ai wants to merge product analytics sensibilities with LLMs"
-    excerpt: "The way it works is customers share chat transcripts with Context via an API. It then analyzes the information using natural language processing (NLP). The software groups and tags conversations based on topic, and then analyzes each conversation to ..."
-    publishedDateTime: 2023-08-30T14:00:00Z
-    webUrl: "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/"
-    ampWebUrl: "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/"
+  - title: "IBM watsonx Assistant transforms content into conversational answers with generative AI"
+    excerpt: "Explore how conversational search allows you to answer customer or employee questions with responses grounded in enterprise-specific content.\nThe post IBM watsonx Assistant transforms content into conversational answers with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-31T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 126
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1625240294.jpeg?resize=1200,692"
-        width: 1200
-        height: 692
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/20221121-m-blue-cross-blue-shield-south-carolina-27142-1600x900.blog-lead-space-2x1-1.jpg"
+        width: 1080
+        height: 540
         isCached: true
-  - title: "Arize AI wants to improve enterprise LLMs with ‘Prompt Playground,’ new data analysis tools"
-    excerpt: "Arize’s new platform called the Prompt Playground, enables teams to uncover poor performing prompt templates and iterate on them in realtime."
-    publishedDateTime: 2023-08-30T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/arize-ai-wants-to-improve-enterprise-llms-with-prompt-playground-new-data-analysis-tools/"
+  - title: "Sprig uses AI to transform product surveys into conversational data"
+    excerpt: "The free plan now includes in-product surveys, session replays, and Open-Text AI analysis. Teams of all sizes can immediately start using Sprig and the new AI Analysis for Surveys featureset. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2023-08-30T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surveys-into-conversational-data/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 57
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_childrens_playground_in_the_city__robot_children_play_ff8b8f73-8265-4a02-bb53-407411801ddb-l0qrXVNPH-transformed.png?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_line_art_flat_illustration_detailed_a_woman_takes_a_sur_032ed0c8-feac-41c6-92a7-fd9c2baeb87a.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
-    excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."
-    publishedDateTime: 2023-08-29T13:44:00Z
-    webUrl: "https://healthitanalytics.com/features/using-algorithmic-privacy-enhancing-technologies-in-healthcare-analytics"
+  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
+    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
+    publishedDateTime: 2023-08-29T09:48:00Z
+    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 38
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 54
     images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/GettyImages-929616572.jpg"
-        width: 690
-        height: 400
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
+        width: 925
+        height: 521
         isCached: true
-  - title: "Microsoft signs new partnership with AI and data analytics startup"
-    excerpt: "WASHINGTON — Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence ... Synthetaic’s AI product — the Rapid Automatic Image Categorization (RAIC) tool ..."
-    publishedDateTime: 2023-08-29T13:30:00Z
-    webUrl: "https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/"
+  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
+    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
+    publishedDateTime: 2023-08-28T14:06:00Z
+    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
+    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
     type: article
     provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 34
-  - title: "Rockset Raises $44 Million in Funding to Power Search, Analytics, and AI Applications"
-    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Recommendation engines to ..."
-    publishedDateTime: 2023-08-29T13:08:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/rockset-raises-44-million-in-funding-to-power-search-analytics-and-ai-applications/article_fbf6b376-67cb-541d-b955-a8df48cf3c8a.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 32
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "Rockset Raises $44M in Funding to Power Search, Analytics, and AI Applications"
-    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Rockset ingests streaming ..."
-    publishedDateTime: 2023-08-30T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/rockset-raises-44m-in-funding-to-power-search-analytics-and-ai-applications/"
+  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
+    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
+    publishedDateTime: 2023-08-28T13:05:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
+      name: dbta
+      domain: dbta.com
+    quality: 24
 
 secured: "jCiWCLD36zHANiAEM6XbGc2kL8lKERWwaK8AscvgJ5coVcwLyC/WinCVhPafLUsDQVqZR0YnrHh5KJoXUHii5VDCKngVOeT6Ui0Q2mCPQ9QktiZjryOpiS1nNBwdm4VoQzzPJS62TptZKxnmgpHlI9EIhUX5fPAwkMvfZlnsYetZYOhq722dL8Es3tNV9khHNyet4aoY0T5CStMcfeZB356RXE4IZPZXrhVifU/7HBDenkjLxGpVFwP0x4NQUclm59t0uDukdrrgzhLPEzzVft/zBUtsSpND/ISuzFY8Zhq9zLtpkemMtfvXsiogFEcvhNZrdy8FJ4+eJRza9X6bLvSUqsd/KX093OZdMEO31l2xVy/04oRs3RtViBiUjTUN5rnqXl9Wcx0allMwBrYAz1GCmX0Grfwda3jPBcThdodDAnVrBENXkSPyc4cuocBuQHi+w3JJpX8LL+Zof11tFBq+gMRyU2AN8YPY6YB7s0ObCabTcBKB6gmfrSVMbvFuZdqL/V2dlcZjr+SV0nF5vQ==;MtVqbUlT/FiXkjUk7ZdEXQ=="
 ---

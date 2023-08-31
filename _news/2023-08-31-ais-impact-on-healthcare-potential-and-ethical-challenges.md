@@ -9,7 +9,7 @@ ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-
 cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/27001333/AI-MENTAL-CARE.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "AI in Genomics and Healthcare: The bigger picture"
-    excerpt: "In recent times, affordable high-throughput DNA sequencing has ignited a revolution in digital biology, and more genomics programmes around the world are gaining traction. This advancement has resulted in a paradigm shift in which medicine has become personalised,"
-    publishedDateTime: 2023-08-28T23:30:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/ai-in-genomics-and-healthcare-the-bigger-picture/103145569"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103145569,imgsize-107726,width-1200,height=765,overlay-ethealth/industry/ai-in-genomics-and-healthcare-the-bigger-picture.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
     excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"

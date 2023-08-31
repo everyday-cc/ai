@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars.md",
+      "title": "AI recap: The rise of the prompt engineer and biased driverless cars",
+      "excerpt": "Our round-up of the most interesting artificial intelligence news in August includes a job created by AI, the problem of racial bias in driverless cars and how robots are better at 'are you a robot?'",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
+      "originalUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/08/31114009/SEI_169406682.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-chip-innovations-key-to-the-future-of-aiml.md",
       "title": "Chip innovations key to the future of AI/ML",
       "excerpt": "Dramatic gains in hardware performance have spawned generative AI, and a rich pipeline of ideas for future speedups that will drive machine learning to new heights. This is the word from Bill Dally, Nvidia’s chief scientist and senior vice president of research,",
@@ -149,7 +193,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 328,
+      "heat": 358,
       "tags": null,
       "images": [
         {
@@ -488,7 +532,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -540,7 +584,7 @@
       "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -741,6 +785,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-ubs-upgrades-this-stock-it-says-can-jump-another-20-on-ai-excitement.md",
+      "title": "UBS upgrades this stock it says can jump another 20% on AI excitement",
+      "excerpt": "\"We believe GPU supply constraints could be enough to drive outsized performance in Oracle shares.\" Shares of Oracle have popped nearly 43% this year, boosted by investors' views that the company is an AI beneficiary. Shares are up 2.7% in premarket ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/29/oracle-gets-upgrade-from-ubs-says-stock-can-jump-another-20percent-on-ai-excitement.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/29/oracle-gets-upgrade-from-ubs-says-stock-can-jump-another-20percent-on-ai-excitement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107270422-1689175399072-gettyimages-1536923688-dscf5880_kqgdguqw.jpeg?v=1693307724&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
       "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
       "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
@@ -854,7 +950,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -994,7 +1090,7 @@
       "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1377,102 +1473,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
-      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
-      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
-      "publishedDateTime": "2023-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.md",
-      "title": "We're buying a new chip stock and looking to exit another to expand our AI exposure",
-      "excerpt": "Our plan to offset the initiation is to soon exit one of our Club semis that has a murkier near-term line of sight in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107197030-1676850083877-gettyimages-1459193203-nasdaqstockreadytopastq4expectations005.jpeg?v=1692890083&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

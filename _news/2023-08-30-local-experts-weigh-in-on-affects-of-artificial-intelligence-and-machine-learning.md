@@ -7,7 +7,7 @@ originalUrl: "https://theeagle.com/news/local-experts-weigh-in-on-affects-of-art
 webUrl: "https://theeagle.com/news/local-experts-weigh-in-on-affects-of-artificial-intelligence-and-machine-learning/article_6dde6dd8-46be-11ee-914e-3312d8e2e99d.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1168
     height: 613
     isCached: true
+
+related:
+  - title: "Five Lessons Learned On Using AI In HR And Compliance"
+    excerpt: "The value of generative AI's answers depends on the quality of the questions. The problem is that HR and compliance topics are often nuanced. Expertise is required to distill the parameters and frame the underlying question correctly."
+    publishedDateTime: 2023-08-31T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef50d52f92b4fe53f3933e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI and machine learning can help with DEI hiring"
+    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
+    publishedDateTime: 2023-08-28T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 34
 
 secured: "UZ8XibYr+FqDSJJIl2GGqVci0VKGq1oXsoHVH180hYYZ8SuhU9fKYe/47BZtuvuUuQrkKqagCt7Nyf7HTGFAD98SbPmxs6juE0qoQMml1QTkY8bbI1yrUrEdesFo2CCBtVGjHzdCQAhbiSvlWkTMdKLbAb8xTUIs2b6vufJPzTi/OpjBG7Dq72T29ViBjF+UtKoL+jmpK02juzQSMagfCaN0rwEhbtBjkcbfw7hh20ApcPgyz9CeVmDHsqCtj4Xfcy2ek9fyGqHnhcFnpPu3ORX3MOiUFhRnaS9sdl5QKq20S7vGw3e0DGpw4y5P63B9JwfSdYVRR775rA1RvUThWQa1LDWbA6IW/GIiurguzx+b5b6WWEJ8I8w9oSsFfaHdysrkdWznr1vEaiSRyxXK/74Fre3+oi5vJdq4ntLAYSdAYK5nsD/nc9DKotiSQNDXuGYB3QSm67f+b+VFtN66x8RIjbtZ+qZYzcmtSkyq4BdCEEQ3JB+886xvXAztJpw6w0+tS/uv3/aCkhgKygnOGw==;HQdBFQ72UJqEOIyFtU4RfA=="
 ---

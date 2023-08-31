@@ -47,15 +47,6 @@ related:
         width: 787
         height: 1037
         isCached: true
-  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
-    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
-    publishedDateTime: 2023-08-28T13:05:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
   - title: "Generative AI Report: Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
     excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
     publishedDateTime: 2023-08-28T19:07:00Z

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
+      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
+      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "publishedDateTime": "2023-08-09T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management-and-analysis.md",
       "title": "Healthcare Interoperability Market - AI-based API Innovation is Improving Healthcare Data Management and Analysis",
       "excerpt": "Technology Innovation and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Healthcare interoperability,",
@@ -1346,58 +1390,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
-      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
-      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
-          "width": 5310,
-          "height": 3540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "publishedDateTime": "2023-07-25T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

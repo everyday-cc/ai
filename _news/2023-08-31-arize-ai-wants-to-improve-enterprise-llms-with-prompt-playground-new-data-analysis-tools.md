@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 692
         isCached: true
-  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
-    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
-    publishedDateTime: 2023-08-28T15:47:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
     excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."
     publishedDateTime: 2023-08-29T13:44:00Z

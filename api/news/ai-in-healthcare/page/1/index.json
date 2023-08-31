@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-and-the-economy-healthcare-will-have-huge-productivity-gains.md",
+      "title": "AI And The Economy: Healthcare Will Have Huge Productivity Gains",
+      "excerpt": "The big, early gains will come from faster, easier clerical tasks that today consume too much of doctors’ and nurses’ time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef791a25e46eb704f39342/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/",
+      "publishedDateTime": "2023-08-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ais-impact-on-healthcare-potential-and-ethical-challenges.md",
       "title": "AI's impact on healthcare: Potential and ethical challenges",
       "excerpt": "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1332,50 +1384,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
-      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
-      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "publishedDateTime": "2023-08-09T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

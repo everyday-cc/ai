@@ -83,22 +83,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "AI chatbot aims to provide support for women with postpartum depression"
-    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
-    publishedDateTime: 2023-08-26T18:10:00Z
-    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
-    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
+    publishedDateTime: 2023-08-31T10:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
     excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
     publishedDateTime: 2023-08-30T10:00:00Z
@@ -192,6 +185,20 @@ related:
         width: 1050
         height: 450
         isCached: true
+  - title: "How to talk to an AI chatbot"
+    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
+    publishedDateTime: 2023-08-31T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z
@@ -238,6 +245,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "h58AP/+P0Cy2tUxZqiZU+bZE2WAsdpksVGvv9S81RFlGOR29EC3C9LcIxCHpl9mxwNdTyiTRoUvVmCrGrBcGIwOL1s9ePT0MVSc4wbn1FHAhMaaPAP7+F0SsYpS4rmA8DhlmsysZtVdTQ9b20gK0ETDRxupo65EKwqVgL0sBopHx7mx4wl+NZ5n8neVLzGzDUQwxo/qJOXpKkDZeIsi2LiT+m3Dj3yClbQFejuj8WyaZfoN3OKXURU80pN97FQuJ5YD6ZfgeNjJ2ibubEPQy1v37mHyfQJBIlxC9wgbfABK514v6YBXOB7AxPSLnLPG/ya6oYVxfTlxQbkDsgfy/oHysrLPW13bha0avLGDX/Po=;DTKu5AVo9leB70eXfqTrfA=="
+secured: "oYzZSbkqoupIIwpXoT05aSTXV7Hm6P/GxQkkBjGO+QRmamAJIOy/68GtNW2/af/iExYpyKkHBCogEgU9QDl//d2ENT+C1PPtY1coNad2x7cESLfziw6iI+lJhLE+rDlPX1TUotv47aEdJt83ioRlGlfY+Tuwg2JrwDf7wlZ2T17c1i8LebCSYhQslEP9MPpqbssFbmhoGCB2BBYNXXeKvNZo0aJMwtbZBYc2eQisu6cuDjAxLq2Vn+idE3lYE6UPYSYjb4wdsFBW6JnwDerAviCNhIH/QYzYuAlXxuddxtH5sXwH5zmlbeI2rxQYxe/i5/UhQobKSpl51p2H73JJKb1UOrgBioLB6+P4o1ZBqohd9cOIG7OY2IIgglZEw4WRW+8nfBCLSztrB/QEqQorOOei7sW57Hy+YNU6S6iiFHhBZXpfW9QmljHp+Maf3mTGiN5y4HbZA553BwPRi+vOGjn4K6EirqzlCc6z7d9rDFImKVyZg8gcsq3bjf3ThOQjIAZRTiyapP/JxWXJuLbRZA==;23tXvJW2RXFsevRK3FN/Vg=="
 ---
 

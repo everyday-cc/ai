@@ -2,6 +2,350 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
+      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
+      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "publishedDateTime": "2023-08-27T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage.md",
+      "title": "Cheap Chinese robot waiters worry South Korean tech firms amid labour shortage",
+      "excerpt": "Tech executives are concerned about the business impact from cheap Chinese robots that can cost one-fifth of the price of domestically made equivalents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/5e880516-8465-4e5b-b955-dc0d12ec5535_6ad7cbed.jpg?itok=c2ArTYvn&v=1693190899",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4.md",
+      "title": "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4",
+      "excerpt": "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4",
+      "originalUrl": "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34061551",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551",
+      "publishedDateTime": "2023-08-27T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-can-ai-increase-diversity-on-tech-teams-the-jury-is-out.md",
+      "title": "Can AI Increase Diversity On Tech Teams? The Jury Is Out",
+      "excerpt": "Can AI reduce the diversity gap in technology teams? Experts weigh on the possibility of AI changing how corporations champion diversity in the hiring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e92b60f6b1f18bf10f2e62/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
+      "publishedDateTime": "2023-08-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-how-to-use-ai-for-marketing-without-sounding-like-a-robot.md",
+      "title": "How to use AI for marketing without sounding like a robot",
+      "excerpt": "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
+      "originalUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg",
+          "width": 1420,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests.md",
+      "title": "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests",
+      "excerpt": "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "publishedDateTime": "2023-08-27T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-ai-will-not-eliminate-jobs.md",
+      "title": "AI Will Not Eliminate Jobs",
+      "excerpt": "That title is a bold statement in a world where AI, ChatGPT and other technologies are doing many tasks that employees have typically performed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e94ab308aeeab5723b0616/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
+      "publishedDateTime": "2023-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-novel-application-of-machine-learning-approaches-predicts-gait-dysfunction-in-parkinsons-disease.md",
       "title": "Novel Application of Machine Learning Approaches Predicts Gait Dysfunction in Parkinson's Disease",
       "excerpt": "A machine learning approach from diffusion tensor imaging (DTI) multi-spectral diffusion weighted imaging (DWI) showed prediction of gait dysfunction in PD according to a study released today at the I",
@@ -883,342 +1227,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ais-multi-view-wave-is-coming-and-it-will-be-powerful.md",
-      "title": "AI's multi-view wave is coming, and it will be powerful",
-      "excerpt": "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
-      "originalUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
-      "publishedDateTime": "2023-08-25T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-the-ai-tech-in-the-new-tempo-move-really-does-enhance-your-home-workout.md",
-      "title": "The AI tech in the new Tempo Move really does enhance your home workout",
-      "excerpt": "Unlike a lot of Americans, I’ve been a home gym enthusiast since before the pandemic. After moving to a small mountain town with few gyms and even fewer childcare options, I knew I needed to come up with something that worked for me at home.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
-      "originalUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/tempo-move-2023-lead-cnnu.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
-      "publishedDateTime": "2023-08-25T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
-      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
-      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "publishedDateTime": "2023-08-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
-      "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
-      "excerpt": "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
-      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
-      "publishedDateTime": "2023-08-25T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades.md",
-      "title": "Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades",
-      "excerpt": "Planning and managing your cloud ecosystem and environments is critical for reducing production downtime and maintaining a functioning workload.\nThe post Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:48:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
-      "title": "In The Game Of AI, Think Ladders, Not Snakes",
-      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "publishedDateTime": "2023-08-25T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-meta-introduces-seamlessm4t-ai-system-to-help-you-translate-100-languages.md",
-      "title": "Meta introduces SeamlessM4T AI system to help you translate 100 languages",
-      "excerpt": "unlike traditional language translation tools, which have issues with limited language coverage, the SeamlessM4T open-source AI model effortlessly handles speech-to-text and text-to-text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/01/Meta-logo-image-103.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
-      "publishedDateTime": "2023-08-25T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

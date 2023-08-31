@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI will change American elections, but not in the obvious way"
+    excerpt: "Sam Altman, the CEO of OpenAI, the startup behind ChatGPT, recently posted that he was “nervous about the impact AI is going to have on future elections (at least until everyone gets used to it)”. Politicians are also concerned (naturally)."
+    publishedDateTime: 2023-08-31T10:55:00Z
+    webUrl: "https://www.economist.com/united-states/2023/08/31/ai-will-change-american-elections-but-not-in-the-obvious-way"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230902_USD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial intelligence research must remain an American priority"
     excerpt: "Two of the most promising AI techniques are machine learning, in which sophisticated algorithms learn from data to ensure accurate decision-making, and deep learning, which is a subset of machine learning that focuses on training artificial neural networks to learn about and understand complex patterns and representations in data."
     publishedDateTime: 2023-08-30T12:00:00Z
@@ -75,6 +89,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
         width: 799
         height: 449
+        isCached: true
+  - title: "10 million enslaved Americans' names are missing from history. AI is helping identify them."
+    excerpt: "In addition to AI, the 10 Million Names Project is employing oral histories and archived documents to help identify 10 million enslaved people in pre- and post-colonial America."
+    publishedDateTime: 2023-08-31T11:30:00Z
+    webUrl: "https://www.nationalgeographic.com/history/article/10-million-names-project-enslaved-people-georgetown-university-ai"
+    type: article
+    provider:
+      name: National Geographic news
+      domain: nationalgeographic.com
+    quality: 27
+    images:
+      - url: "https://i.natgeofe.com/n/4047a266-c0f6-4300-8c2b-bcd9d9acaa9e/service-pnp-ds-05500-05506v_16x9.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Is Corporate America ready for the AI revolution?"
     excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."

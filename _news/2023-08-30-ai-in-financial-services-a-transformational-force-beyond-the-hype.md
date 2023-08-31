@@ -60,20 +60,6 @@ related:
         width: 710
         height: 451
         isCached: true
-  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
-    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
-    publishedDateTime: 2023-08-30T08:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
     publishedDateTime: 2023-08-28T23:52:00Z
@@ -120,15 +106,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 36
-  - title: "How AI and machine learning can help with DEI hiring"
-    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 34
 
 secured: "jEy3VnPqE3IIcaW3M2DZdABQ2q41MjXHwBmUDbv+EroFz3Pd7OAMZ35QCVY0kp0VJQQkl84ZDPAdCTrZrttO7pNeDIkPBLutKHYXUdfZiugeMy/xkRvDAcna9PrPru+N+hHo0BBCOVs1MMwF6QWvnpFPSuxftg+Ihl6d31OiWA77ATR3rJF3ZNZ4eS7il7314OrIXo/Pv0AaS/LYJCx6U1GcWcgL98/OC71TCDb06B8QvGTu22a69p4JN88ojCy8DmV+SP2VrsYKurZwLmK6rADJlX/W2JwN/Pwesx3BTapJ7iBML84JSRHlnnAUobyNBhHrgqtUfd6XmzpseW6Yz37riKEvhZLg7TVd48Lwe02sQ3iBXlshoo9RjKPuo4H2bbR7/CVhckHvKi2oim8TeS4/yP2F4zSlEwSG1FBRbzOIKI9fRTjiR3EjPa/QOBOqj6ZCv+R8w2uJfLkKbq95ZCt3qby9Xi0xwY6oJ1+lBQjJTD6+525xTz5HVsAzA1YiBmGdonsPUM5yvKhLhJevEA==;TNLiRQeGsnekFaYrAkJfzA=="
 ---

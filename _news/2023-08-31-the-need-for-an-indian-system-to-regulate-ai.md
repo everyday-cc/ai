@@ -7,7 +7,7 @@ originalUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-syste
 webUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-system-to-regulate-ai/article67252763.ece"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "How Liquid Neural Networks Can Shrink the Resources Needed For AI"
+    excerpt: "When a robot needs to react to external stimulus, it is extremely resource-heavy — a problem for fitting intelligence into a small space."
+    publishedDateTime: 2023-08-31T11:51:00Z
+    webUrl: "https://www.techopedia.com/how-liquid-neural-networks-can-shrink-the-resources-needed-for-ai"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/machine_learning_03.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "KGYaQZ4LxXSfXSV5Oz7q0v7BwQV2wGM7hmKD9PmTtkPS0u784nyqln+3Wg74lNHHf4uSdTZ2YSy1xtahYdn2kGWEdrc2IcASwlqky1MgoOV3NKTu84shCaE4DwBZmgjCOnT980dA3Qrw7oCqjcdMUvTUCcPoDeTYILQKAkYAAJWo5kIikQuvosVTVvomvAUoQQouobST54y2wJD848804q+1BH1P/ZSlWnhoeFhR/GKn9LL53hipmrKAUMcE2A8q5mbg+bEoyBAQXHhn3C1lu4+Ti+hJ0FrE+b6Qi13yo+dqklUpTCklRiL9o5T+Y2QqfYzYYK8RjntinZEqCkYL1KbUnj5z39sgTKsBs7ugtDcrFD1FQ4m7qXOWuEILRa1iE9V4ydUPhW05+u5fisvZh6zL9ItwUx8vdj6GViteD9nnz6dblakakDNGlLa9kX4mcrLxj2mfSFJnj19krARTnSBpZzTSqin70odPyf7ta4yPGrfEzETND3OYMbMbzNyrlHeGFJoFvorZ5IGAf0Pyng==;985Mi0QNrrbB/Kx8oakioA=="
 ---

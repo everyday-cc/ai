@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/
 webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-08/F07FC4D8-78AA-4A1E-8A51-D80874A425C5.jpeg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
-    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
-    publishedDateTime: 2023-08-28T14:06:00Z
-    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
-    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 36
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
-        width: 1500
-        height: 844
         isCached: true
 
 secured: "SHmlzkEfKmJnscJazlztht/fvsJzVDxfLGrD+nT2UC9qdcd3M65sZwB4n+kyU/4RgEnbvYmokqDP7AKmJbWXHSHWlcbars06qpmXOzw5oy/acPxY7oDk0MXQWiRFcSESW+nPq57AFS2eLp4ClWCiXo1GYzWEmTQoKs+hKUYASMKJVhFzLEwx6R1wTqSnYE3BUAAiBtvJJmH9BpFbA54t7+YYUb4gHnNfM3dxns7bCUVdtpIXRns3l5fWUMpkR+m49/DaUurvowOjg/OBtO5VST49MuigMjL0nP5cRuim/Y+q5Kp5lNfmc5fYQY6FsTy7u23OXkYBuq8kfN1Tb6V/XlRVaT4kZc5c8fhuqunMMTK+w6xhZeyqUOevqGpTuEMcgm1YQvrIsCL5Phro/felQHqtjYZKQtxQWHZPl79M0qhSa02epEf4K4ADUQ69bBU4cnq5S32qCe5NpkRmE7SQ511Cw5At38d1TwepAkX/Xrxt4tQWNtddKuFIfqjoSHAjq2LEAkWBL5ediT+KbJGBxA==;xk2zSTM5wutdNljPVbEFLA=="

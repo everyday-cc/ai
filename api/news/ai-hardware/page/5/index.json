@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-28-us-lawmakers-urge-biden-administration-to-tighten-ai-chip-export-rules.md",
+      "title": "U.S. lawmakers urge Biden administration to tighten AI chip export rules",
+      "excerpt": "Two U.S. lawmakers who head a committee focused on China on Friday urged the Biden administration to tighten export restrictions on artificial intelligence chips in the wake of industry lobbying to leave the rules unchanged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
+      "originalUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo.md",
+      "title": "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO",
+      "excerpt": "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
+      "originalUrl": "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
+      "publishedDateTime": "2023-07-28T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-taiwan-semiconductors-sales-are-down-even-with-the-ai-boom.md",
       "title": "Taiwan Semiconductor's Sales Are Down -- Even With the AI Boom",
       "excerpt": "Investors have bid up computer chip stocks such as TSMC this year on the back of the artificial intelligence (AI) boom, which requires an immense amount of computing power to train and run. The iShares Semiconductor ETF is up 47.5% in 2023, outpacing the S&P 500 's (still impressive) return of 19%.",
@@ -1410,111 +1496,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
-      "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
-      "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "publishedDateTime": "2023-07-21T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
-      "title": "Here Are the Actual Mechanics Behind Powering AI",
-      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

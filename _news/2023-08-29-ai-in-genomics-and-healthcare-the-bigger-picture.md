@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI's impact on healthcare: Potential and ethical challenges"
-    excerpt: "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,"
-    publishedDateTime: 2023-08-31T03:20:00Z
-    webUrl: "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
-    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
-    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+  - title: "AI And The Economy: Healthcare Will Have Huge Productivity Gains"
+    excerpt: "The big, early gains will come from faster, easier clerical tasks that today consume too much of doctors’ and nurses’ time."
+    publishedDateTime: 2023-08-31T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/"
+    ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/"
     type: article
     provider:
-      name: myrepublica.nagariknetwork
-      domain: nagariknetwork.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://myrepublica.nagariknetwork.com/uploads/media/AI_HealthCare_20230831072003.JPG"
-        width: 925
-        height: 611
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef791a25e46eb704f39342/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Benefits, concerns over AI in mental healthcare"
-    excerpt: "Clinicians, therapists and researchers are increasingly embracing the potential in artificial intelligence, also known as AI ... patients are more likely to respond to cognitive behavioural therapy, also known as CBT, and therefore be less likely to ..."
-    publishedDateTime: 2023-08-27T03:12:00Z
-    webUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/"
-    ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 74
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/27001333/AI-MENTAL-CARE.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
-    excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
-    publishedDateTime: 2023-08-29T17:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-can-change-healthcare-on-planetary-scale-google-health-ceo-says.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "eKjM3gPfPuH+QNc1lpI0f0S6IVrP02yo31K8XGrMEjRea3ZT3LZhSshSiv4ub0DLArF9S9hGF+CYg8aBhhGI5zPtXzA4LyL4IAQ8n7V6BvMv7mQhZGJYLja1l6jP89SB4NG6SmheWqrgiIUyq/w884T5S5cob3hpdLapBIzxKR/DhZu/EJnsCytXi6xlcvI6MYB1KNdTEEZSsIAOKFIKxE+5/Bkhd5Grhezuw9/3Kc9shToEK2lrq3rutJGSVPK2YE+K1gfGg0NkmV1i59hJGKohIikHKrpE38QdvU1hjhTfg2a87l9HKPbwO/PL8sBlHGAyDPkrnn4R2MGU+J4Gf3eztStxe2myMrXbXIOGE1I=;GRKkHT522jknxdrPL9aP6A=="
 ---

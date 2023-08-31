@@ -2,6 +2,335 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-07-08-language-translation-nlp-spain.md",
+      "title": "Language translation NLP - Spain",
+      "excerpt": "Value in the Language translation NLP market is projected to reach US$80.08m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.70%, resulting in a market volume of US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/language-translation-nlp/spain",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/language-translation-nlp/spain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-aws-exec-generative-ai-can-create-a-flywheel-effect-for-business-growth.md",
+      "title": "AWS Exec: Generative AI can create a flywheel effect for business growth",
+      "excerpt": "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
+      "originalUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all",
+          "width": 1059,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams.md",
+      "title": "This Week In Credit Card News: PayPal Launches Tap-To-Pay For Business; AI Tool Tackles Payment Scams",
+      "excerpt": "PayPal has announced the introduction of Tap to Pay technology for Venmo and PayPal Zettle businesses in the United States. Small businesses can now accept contactless payments—including cards and digital wallets—directly on their mobile devices without the need for additional hardware or upfront costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "originalUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a868f7050ca7013b91cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "publishedDateTime": "2023-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-category-leader-ust-earns-zinnovs-pat-for-intelligent-automation-services.md",
+      "title": "Category leader. UST earns Zinnov’s pat for intelligent automation services",
+      "excerpt": "Microsoft, and Google, have enabled it to drive high-value outcomes for its customers. Also read: UST wins ‘Blue Seal’ certificate for North America, Asia-Pac a second time “UST SmartOps, the firm’s proprietary cognitive-AI automation platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
+      "publishedDateTime": "2023-07-07T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-robots-at-un-reckon-they-could-run-the-world-better.md",
+      "title": "AI Robots At UN Reckon They Could Run The World Better",
+      "excerpt": "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "originalUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg",
+          "width": 768,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "publishedDateTime": "2023-07-07T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-ethics-in-the-age-of-chatgpt-what-businesses-need-to-know.md",
+      "title": "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know",
+      "excerpt": "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a8463e4ab326e88191cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "publishedDateTime": "2023-07-07T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-07T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ai-robotics-south-korea.md",
       "title": "AI Robotics - South Korea",
       "excerpt": "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ...",
@@ -831,308 +1160,6 @@
       "provider": {
         "name": "The Express Tribune",
         "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-tcs-plans-to-train-25000-engineers-on-azure-open-ai.md",
-      "title": "TCS plans to train 25,000 engineers on Azure Open AI",
-      "excerpt": "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
-      "originalUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
-      "publishedDateTime": "2023-07-07T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
-      "title": "IBM's Cloud for Education service is shutting down after only two years",
-      "excerpt": "What just happened? IBM introduced its \"Cloud for Education\" offering two years ago, promising schools and academic institutions solutions to \"transform",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
-      "originalUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6113-1920x1080.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
-      "originalUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
-      "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
-      "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a7a60f5e9eb3b27b9b888f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "publishedDateTime": "2023-07-06T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
-      "title": "Kerala HC to implement machine learning system to verify bail applications",
-      "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7199899:1677896574/Untitled.png?$p=10e8aa4&f=16x9&w=1080&q=0.8",
-          "width": 871,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "publishedDateTime": "2023-07-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "english.mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-elon-musk-predicts-self-driving-teslas-later-this-year.md",
-      "title": "Elon Musk predicts self-driving Teslas ‘later this year’",
-      "excerpt": "esla CEO Elon Musk has stated that he believes the company will upgrade its vehicles to fully self-driving in 2023. Speaking via video link at the World Artificial Intelligence Conference in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "originalUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/03/23/11/tesla.jpg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "publishedDateTime": "2023-07-06T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-service-robotics-market-to-grow-at-a-cagr-of-22.md",
-      "title": "Service Robotics Market to grow at a CAGR of 22....",
-      "excerpt": "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33142292",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292",
-      "publishedDateTime": "2023-07-06T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

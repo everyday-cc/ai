@@ -27,50 +27,71 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Next ‘23: New Generative AI-Powered Services"
-    excerpt: "A3 virtual machine supercomputing with NVIDIA for AI training revealed General availability of the A3 virtual machines running on NVIDIA H100 GPU as a GPU supercomputer will open next month, announced Mark Lohmeyer, vice president general manager for ..."
-    publishedDateTime: 2023-08-29T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
+  - title: "IBM watsonx Assistant transforms content into conversational answers with generative AI"
+    excerpt: "Explore how conversational search allows you to answer customer or employee questions with responses grounded in enterprise-specific content.\nThe post IBM watsonx Assistant transforms content into conversational answers with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-31T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: IBM
+      domain: ibm.com
+    quality: 126
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/1tr32823-google-Hero.A.jpeg"
-        width: 1400
-        height: 934
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/20221121-m-blue-cross-blue-shield-south-carolina-27142-1600x900.blog-lead-space-2x1-1.jpg"
+        width: 1080
+        height: 540
         isCached: true
-  - title: "Google finally launches AI-powered Search outside US"
-    excerpt: "Google's SGE generative AI technology for Search has only been available in the US, but that is changing today."
-    publishedDateTime: 2023-08-31T00:30:00Z
-    webUrl: "https://www.androidauthority.com/google-sge-launch-outside-us-3359338/"
+  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
+    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
+    publishedDateTime: 2023-08-28T15:47:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/06/google-search-labs-2.jpg"
-        width: 1919
-        height: 1080
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Google Next ‘23 - Estée Lauder Online EVP says generative AI ‘FOMO’ is a trap"
-    excerpt: "Gibu Thomas, EVP of Estée Lauder Online, says that companies risk being too focused on getting to generative AI first, rather than grounding it in business strategy."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap"
-    ampWebUrl: "https://diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap?amp"
+  - title: "Sprig uses AI to transform product surveys into conversational data"
+    excerpt: "The free plan now includes in-product surveys, session replays, and Open-Text AI analysis. Teams of all sizes can immediately start using Sprig and the new AI Analysis for Surveys featureset. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2023-08-30T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surveys-into-conversational-data/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/F07FC4D8-78AA-4A1E-8A51-D80874A425C5.jpeg"
-        width: 640
-        height: 427
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_line_art_flat_illustration_detailed_a_woman_takes_a_sur_032ed0c8-feac-41c6-92a7-fd9c2baeb87a.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
+  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
+    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
+    publishedDateTime: 2023-08-29T09:48:00Z
+    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
+    type: article
+    provider:
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 54
+    images:
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
+        width: 925
+        height: 521
+        isCached: true
+  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
+    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
+    publishedDateTime: 2023-08-28T13:05:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 24
 
 secured: "TPJWWZ76HpAMpyzJYrZnuoR0M3z74NT1laU+5tb8z15NGxQ/+3+Vi0v13h7Ps5PDWQgAt4wdD58J1UkhrX//JRU4FUcQ64zYgwoNztaZUkZQnx7PExyneZDTFOlhtTBQdakIJw3yqahaC1B+14MBaFU+SPfD9slmhs8Cz+Pe/8q2ljtUVIrITjsfAUcI2BGRYg3Qfu5khAGR+apfGMQdowXnO9VOzkeyV7WQCLadMxyXKH5yjLhEkrXxSTkx1rbOpEyBTDKlKJyzOTOyT3KYip6hv6zsoI3sZGwxnOO9jcCXUDPNwRp/7zvcucnhJtc72g0/C3/Kjkyl1wn6jp/JlV72p7JKZSClO7+6WREPoD64ZcuxYjmoeQFnhZfCmKJTa0/eU9c9SwDUfU4E9APR2Lff9zCAP7MB8AMSPDGCD4pxV1AIqOBNBr8PVusJi3HCph3lFNfNipD4DrB0A8W8YmOhfZNFEXoDYj6XQrqBExlXdwSTPNd1y9qZR1va/Dq9BOinvzEyTp9QfFi/StVJoA==;2ZdnWB3Y3ltY9/I11mIL3A=="
 ---

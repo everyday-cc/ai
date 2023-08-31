@@ -2,6 +2,355 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-25-ibm-consulting-unveils-center-of-excellence-for-generative-ai.md",
+      "title": "IBM Consulting unveils Center of Excellence for generative AI",
+      "excerpt": "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T09:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
+      "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
+      "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/BDB2902-arch-01-1.png",
+          "width": 889,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:38:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions.md",
+      "title": "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker",
+      "excerpt": "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/19/ml-13311Image12.png",
+          "width": 999,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:24:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-5000-deep-sea-animals-new-to-science-turned-up-in-ocean-records.md",
+      "title": "5,000 deep-sea animals new to science turned up in ocean records",
+      "excerpt": "More than 5,000 animal species previously unknown to science live in a pristine part of the deep sea. Their home — called the Clarion-Clipperton Zone — sits in the central and eastern Pacific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
+      "originalUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-two-of-the-worlds-most-critical-chip-firms-rally-after-nvidias-26-share-price-surge.md",
+      "title": "Two of the world's most critical chip firms rally after Nvidia's 26% share price surge",
+      "excerpt": "Dutch firm ASML and Taiwan's TSMC, two of the world's most important semiconductor firms, got a share price boost after Nvidia's earnings impressed investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "publishedDateTime": "2023-05-25T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
+      "title": "3 new ways generative AI can help you search",
+      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
+      "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
+      "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "publishedDateTime": "2023-05-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
       "title": "Disrupting The Disruptive Disrupters—With AI",
       "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
@@ -855,369 +1204,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans.md",
-      "title": "Apex.AI Operating System To Run Volkswagen Robo Ridepooling Vans",
-      "excerpt": "The middleware is the vehicle operating system, so all the software that runs as a base software on that ECU (electronic c",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e5e45ccadd409eda62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "publishedDateTime": "2023-05-25T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-what-are-some-controversies-surrounding-natural-language-processing.md",
-      "title": "What are some controversies surrounding natural language processing?",
-      "excerpt": "translate, extract, and organize information. However, the language processing tools such as Open AI's Chat GPT and other tools run into some challenges, such as misspellings, speech recognition, and the ability of a computer to understand the nuances of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "originalUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/775bdb69-3050-4989-abd5-e41fb41dc74a/4ad6a84e-d689-406a-bc8a-135f5a9db1d6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "publishedDateTime": "2023-05-24T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
-      "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
-      "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
-      "originalUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add1ff58-28cd-4879-ab08-64d30b2db0e9/69b5d999-1496-431d-b86e-8ac249a316cc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
-      "publishedDateTime": "2023-05-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-security-hole-at-the-heart-of-chatgpt-and-bing.md",
-      "title": "The Security Hole at the Heart of ChatGPT and Bing",
-      "excerpt": "Indirect prompt-injection attacks can leave people vulnerable to scams and data theft when they use the AI chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
-      "publishedDateTime": "2023-05-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-will-definitely-replace-me-americans-fear-artificial-intelligence-will-steal-their-jobs.md",
-      "title": "‘Will definitely replace me’: Americans fear artificial intelligence will steal their jobs",
-      "excerpt": "People in Texas sounded off on AI job displacement, with half of people who spoke to Fox News convinced that the tech will rob them of work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
-      "originalUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
-      "publishedDateTime": "2023-05-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma.md",
-      "title": "Singapore’s AI-Based Marketing Unicorn Raises $105 Million To Finance M&A",
-      "excerpt": "Insider, an AI-powered marketing platform, said it has raised another $105 million from Qatar Investment Authority (QIA) and Istanbul-based buyout firm Esas Private Equity. The company said its latest funding round gives it a valuation of almost $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
-      "originalUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646ed3d9a2eb01ce6303a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
-      "publishedDateTime": "2023-05-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-trump-desantis-showdown-is-now-official-and-artificial-intelligence-is-right-in-the-middle-of-it.md",
-      "title": "The Trump-DeSantis showdown is now official, and artificial intelligence is right in the middle of it",
-      "excerpt": "In a video posted by Trump, DeSantis and Elon Musk are joined on Twitter Spaces by Adolf Hitler, the FBI, Dick Cheney, George Soros, and Klaus Schwab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646ee4a950731c001938adcc?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "publishedDateTime": "2023-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-anal
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
-    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
-    publishedDateTime: 2023-08-28T15:47:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Arize AI wants to improve enterprise LLMs with ‘Prompt Playground,’ new data analysis tools"
     excerpt: "Arize’s new platform called the Prompt Playground, enables teams to uncover poor performing prompt templates and iterate on them in realtime."
     publishedDateTime: 2023-08-30T21:15:00Z

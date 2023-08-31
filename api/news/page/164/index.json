@@ -2,6 +2,350 @@
   "page": 164,
   "value": [
     {
+      "path": "_news/2023-05-15-nvidias-ai-chips-will-help-power-these-5-industries-for-years-to-come.md",
+      "title": "Nvidia's AI Chips Will Help Power These 5 Industries for Years to Come",
+      "excerpt": "Nvidia is the world leader in advanced semiconductor chips known as GPUs. The company has leaned into AI, developing hardware and software platforms for customers. Nvidia is poised to grow by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/731598/artificial-intelligence-ai-data-deep-processing-2.jpg",
+          "width": 5500,
+          "height": 4125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-life-and-death-decisions-are-being-made-by-artificial-intelligence.md",
+      "title": "‘Life and death decisions are being made’ by artificial intelligence",
+      "excerpt": "Jacob Ward reports on how the invisible power structures we are assembling, by accident and on purpose, have the potential to change not just individual lives but the very future of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684078202095_mtp_clip_mtpr602_spot_230512_1920x1080-2b3j1a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "publishedDateTime": "2023-05-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
+      "title": "AI presents political peril for 2024 with threat to mislead voters",
+      "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "publishedDateTime": "2023-05-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
+      "title": "Computer Vision Market Research Analysis, 2023-2030",
+      "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-healthcare-artificial-intelligence-market-2023-2030-business-report.md",
+      "title": "Healthcare Artificial Intelligence Market [2023-2030] Business Report",
+      "excerpt": "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-edge-artificial-intelligence-ai-chip-market-research-2023-2030.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030",
+      "excerpt": "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
+      "title": "My week navigating the awkward teenage years of self-driving cars",
+      "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f377989d941377b449012a3d9922f965",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
+      "cdnAmpWebUrl": "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
+      "publishedDateTime": "2023-05-14T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
       "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
       "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
@@ -873,358 +1217,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-forbes-magazines-new-majority-owner-is-a-28-year-old-billionaire-who-made-his-money-in-self-driving-car-tech.md",
-      "title": "Forbes magazine’s new majority owner is a 28-year-old billionaire who made his money in self-driving car tech",
-      "excerpt": "The Forbes family will not, though Steve Forbes will remain involved. Russell is the chief executive officer of Luminar Technologies Inc., which provides antonymous driving technology to the automotive industry. The company, which has a $2.1 billion market ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "originalUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1248342207-e1683937269697.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "publishedDateTime": "2023-05-12T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-what-does-ai-mean-for-your-money.md",
-      "title": "What Does AI Mean For Your Money?",
-      "excerpt": "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "originalUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies.md",
-      "title": "GXO Direct To Rely On Machine Learning To Drive Labor Efficiencies",
-      "excerpt": "GXO Direct has invested in a machine learning labor management system from Blue Yonder to help drive labor productivity at their warehouses. Traditionally, industrial engineers were widely used to set fair labor standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ec3f67b23e04dc34bd1d5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
-      "publishedDateTime": "2023-05-12T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-snapchat-influencer-launches-an-ai-powered-virtual-girlfriend-to-help-cure-loneliness.md",
-      "title": "Snapchat influencer launches an AI-powered 'virtual girlfriend' to help 'cure loneliness'",
-      "excerpt": "Called CarynAI, the chatbot is described on its website as a \"virtual girlfriend.\" It allows Marjorie's fans to \"enjoy private, personalized conversations\" with an AI version of the influencer, the chatbot's website states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/ai-powered-virtual-girlfriend-caryn-marjorie-snapchat-influencer-rcna84180",
-      "originalUrl": "https://www.nbcnews.com/tech/ai-powered-virtual-girlfriend-caryn-marjorie-snapchat-influencer-rcna84180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230512-caryn-marhorie-snip-ac-559p-cb4868.jpg",
-          "width": 800,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna84180",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84180",
-      "publishedDateTime": "2023-05-12T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-wes-andersons-harry-potter-all-the-ai-wes-anderson-parodies-ranked.md",
-      "title": "Wes Anderson’s Harry Potter? All the AI Wes Anderson parodies, ranked",
-      "excerpt": "Wes Anderson's Star Wars? The rise of AI-generated images has triggered many mash-ups of the director's style with popular franchises. We rank them all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "originalUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/wes-anderson-harry-potter.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "publishedDateTime": "2023-05-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru.md",
-      "title": "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru",
-      "excerpt": "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T13:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
-      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
-      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-780730?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

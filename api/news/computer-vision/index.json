@@ -47,24 +47,33 @@
     {
       "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
       "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
-      "excerpt": "VisualCortex is offering conference delegates and Axis clients the chance to win a complimentary computer vision Proof-of-Concept (POC). Applicants can follow the link below to su",
+      "excerpt": "Video analytics platform vendor, VisualCortex, joins Axis Communications at ASIAL's Security Exhibition & Conference 2023 to showcase its people and vehicle computer vision solutions SYDNEY, Aug. 24,",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
+      "webUrl": "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-exhibit-asial-2023-axis-communications",
+      "originalUrl": "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-exhibit-asial-2023-axis-communications",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1498.jpg?h=7de12b8a&itok=qu7B4VPj",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T21:33:00-07:00",
+      "publishedDateTime": "2023-08-23T21:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

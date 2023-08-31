@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla allows no-hands driving with Autopilot for longer periods; regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-31T09:59:00Z
+    webUrl: "https://www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html"
+    ampWebUrl: "https://www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5P6HF34VXJH5BG2ICRIXILHCTI.jpg"
+        width: 5078
+        height: 3385
+        isCached: true
   - title: "Tesla allowing no-hands driving with Autopilot for longer periods draws concern from regulators"
     excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
     publishedDateTime: 2023-08-31T00:03:00Z

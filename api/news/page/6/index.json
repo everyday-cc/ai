@@ -2,6 +2,342 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-25-ais-multi-view-wave-is-coming-and-it-will-be-powerful.md",
+      "title": "AI's multi-view wave is coming, and it will be powerful",
+      "excerpt": "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "originalUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "publishedDateTime": "2023-08-25T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-the-ai-tech-in-the-new-tempo-move-really-does-enhance-your-home-workout.md",
+      "title": "The AI tech in the new Tempo Move really does enhance your home workout",
+      "excerpt": "Unlike a lot of Americans, I’ve been a home gym enthusiast since before the pandemic. After moving to a small mountain town with few gyms and even fewer childcare options, I knew I needed to come up with something that worked for me at home.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
+      "originalUrl": "https://edition.cnn.com/cnn-underscored/reviews/new-tempo-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/tempo-move-2023-lead-cnnu.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/new-tempo-2023",
+      "publishedDateTime": "2023-08-25T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
+      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
+      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "publishedDateTime": "2023-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
+      "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
+      "excerpt": "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
+      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
+      "publishedDateTime": "2023-08-25T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades.md",
+      "title": "Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades",
+      "excerpt": "Planning and managing your cloud ecosystem and environments is critical for reducing production downtime and maintaining a functioning workload.\nThe post Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
+      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T06:48:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
+      "title": "In The Game Of AI, Think Ladders, Not Snakes",
+      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "publishedDateTime": "2023-08-25T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-meta-introduces-seamlessm4t-ai-system-to-help-you-translate-100-languages.md",
+      "title": "Meta introduces SeamlessM4T AI system to help you translate 100 languages",
+      "excerpt": "unlike traditional language translation tools, which have issues with limited language coverage, the SeamlessM4T open-source AI model effortlessly handles speech-to-text and text-to-text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/01/Meta-logo-image-103.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
+      "publishedDateTime": "2023-08-25T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-ethics-and-transparency-in-ai-powered-political-advertising.md",
       "title": "Ethics And Transparency In AI-Powered Political Advertising",
       "excerpt": "Love it or hate it, there’s no question AI is emerging as a powerful tool in every arena, and advertising is no exception. As we rapidly head toward the 2024 election year, I’m deeply aware of the advantages AI offers political campaigns through audience targeting and campaign optimization.",
@@ -898,342 +1234,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-the-ai-revolution-will-be-powered-by-energy.md",
-      "title": "The AI Revolution Will Be Powered By Energy",
-      "excerpt": "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
-      "publishedDateTime": "2023-08-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-the-myth-of-open-source-ai.md",
-      "title": "The Myth of ‘Open Source’ AI",
-      "excerpt": "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
-      "originalUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
-      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
-      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
-      "publishedDateTime": "2023-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
-      "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
-      "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
-      "originalUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/08/Air-India-rebrainding-15-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
-      "publishedDateTime": "2023-08-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-modular-secures-100m-to-build-tools-to-optimize-and-create-ai-models.md",
-      "title": "Modular secures $100M to build tools to optimize and create AI models",
-      "excerpt": "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
-      "originalUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
-      "publishedDateTime": "2023-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
-      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
-      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
-      "sourceUrl": null,
-      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
-      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal Times",
-        "domain": "journaltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-35.md",
-      "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5",
-      "excerpt": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
-      "originalUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
-      "publishedDateTime": "2023-08-24T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

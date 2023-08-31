@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "pbRhWZpQqsIS+IN6HOyy1BqTBk+E4DLHzRmf/ZFqpBtIIZVBNR0nz4lmqFLjAt/Zd4uilai1FYtI/Tqxzq4aYZE3/AGFQ0JJi2o3BR3zUAxY/XykRGFazk7U5Glt/GC3uepR58f6NorUlQor3XytoY7ziQfabc4g2wUWaZjzyTh5I9BfzCcHfi8pvWjTLYVHdrTqq6TvPo4m2jyATdFUvLJguVuqoDoxMe8pwjqTr/JdTXKwPzQrosD3MGSMKO0PHOpqH24lqRb+cvJHaj5IeUG2j74gmjGlowiSg7hvD2OfTjAV623v5m9SfdsYzHIIAGZaksj4GMQuBig9eLtvg7AikvRAot8CswRYFxN8BX4MdqMtfiCHj9cpQn0f1hRkYQS7mh63sBFUBSQUJbfsdu1FXPJdT1JUkiilLBa9EFRw9Kul7aZ7he4+BISthsIzVjJWOGQzxH2BoWx7YuPISaclB/hh8RLyMR8ch5JygYE4UzTenh6cyO3uRFDX2h17b6qpKc0pItYjdjH5tanbYg==;bZaeUCHKxoGjyHPkRLYxDA=="
 ---

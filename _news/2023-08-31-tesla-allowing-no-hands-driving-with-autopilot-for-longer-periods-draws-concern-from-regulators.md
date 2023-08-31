@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla allows no-hands driving with Autopilot for longer periods; regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-31T09:59:00Z
+    webUrl: "https://www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html"
+    ampWebUrl: "https://www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2023/08/tesla-allows-no-hands-driving-with-autopilot-for-longer-periods-regulators-have-questions.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5P6HF34VXJH5BG2ICRIXILHCTI.jpg"
+        width: 5078
+        height: 3385
+        isCached: true
   - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T15:10:00Z

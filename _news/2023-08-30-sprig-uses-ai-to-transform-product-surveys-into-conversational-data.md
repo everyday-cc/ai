@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surv
 webUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surveys-into-conversational-data/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,75 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "IBM watsonx Assistant transforms content into conversational answers with generative AI"
+    excerpt: "Explore how conversational search allows you to answer customer or employee questions with responses grounded in enterprise-specific content.\nThe post IBM watsonx Assistant transforms content into conversational answers with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-31T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 126
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/20221121-m-blue-cross-blue-shield-south-carolina-27142-1600x900.blog-lead-space-2x1-1.jpg"
+        width: 1080
+        height: 540
+        isCached: true
+  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
+    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
+    publishedDateTime: 2023-08-28T15:47:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
+    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
+    publishedDateTime: 2023-08-29T09:48:00Z
+    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
+    type: article
+    provider:
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 54
+    images:
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
+        width: 925
+        height: 521
+        isCached: true
+  - title: "Plainsight Partners with Google Cloud to Combine Generative AI and Computer Vision to Empower Enterprises with Unprecedented Operational Awareness"
+    excerpt: "Plainsight, announced its collaboration with Google Cloud to bring better visibility and operational insights to enterprise customers."
+    publishedDateTime: 2023-08-28T14:06:00Z
+    webUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/"
+    ampWebUrl: "https://enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/plainsight-partners-with-google-cloud-to-combine-generative-ai-and-computer-vision-to-empower-enterprises-with-unprecedented-operational-awareness/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 36
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Plainsight-Partners-with-Google-Cloud-to-Combine-Generative-AI-and-Computer-Vision-to.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
+    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
+    publishedDateTime: 2023-08-28T13:05:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 24
 
 secured: "j7PZXBCC5ZTIz5h5ISfxJfrqxUKeGp1p5cWDTWeK09X+S//6dlCFyREFraIFrzeHWP/P9PZ/qM/QdVK4DCsJ3lHJ4Ppw3zhZkvaLBNidHXAEVHpLLqcf6/jwjJHSO3yyXByjhkIeq+coQ/kkvMMmJl28DNH7fNkQSaziyRP34BuyKKLXrWp5SWkM9+svD06MNqTjJtq3sR1oHJPzWXCd86h6oIaQy1aNLq7WMidcGqNX8Y2QmcgnoyXRAONRdNKzi/280ZNsiz7nV9coSwmdsN7h1EQlzSlMW5+7bBEjU2qlvIOtyJodXl6Jg3jlSY75T1Jv7KLvYHd4IJhcaoZYsRezdgCyRUuLFaaFtGR4B8T+I4yyh6aGeZdgHUr9+G/iLcIncNwN4dvW/Z8HqjJSSZ+85UKIK6valyvDTfQbU44YKQgGp8u1m4XTtrdr5JphMGjw5rcGE1PH1DhtpCEBucWp/E06JD54VEcB1WTPVPHT0DtzUg+rinD1KH6kgi4NQcc9SnrJmvwma9GUY2Dq3g==;nnVAz69JLn4ZAnAhEa9avg=="
 ---

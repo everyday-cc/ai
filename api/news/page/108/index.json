@@ -2,6 +2,337 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-06-20-jack-mas-lieutenants-return-to-oversee-tough-alibaba-reboot.md",
+      "title": "Jack Ma’s Lieutenants Return to Oversee Tough Alibaba Reboot",
+      "excerpt": "In Baidu’s wake, Alibaba unfurled its own large language model dubbed Tongyi Qianwen. That might be key to ensuring the company name endures 102 years, as co-founder Ma once famously and repeatedly declared was his over-arching ambition.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "originalUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software.md",
+      "title": "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software",
+      "excerpt": "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "originalUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg",
+          "width": 1400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending.md",
+      "title": "Broadridge Secures Patent for Machine Learning Tech Enhancing Securities Based Lending",
+      "excerpt": "Broadridge's patented machine learning technology delivers actionable ... Powered by decades of financial services expertise and a proven track record of helping wealth managers drive growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32918894",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918894",
+      "publishedDateTime": "2023-06-20T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters.md",
+      "title": "Nvidia AI Chips Getting Sold In China's Underground Market Amid US Sanctions: Reuters",
+      "excerpt": "Despite U.S. sanctions, high-end Nvidia Corp. NVDA AI chips are being sold in China’s underground market, Reuters reports. Underground Market: At the Huaqiangbei electronics area in Shenzhen, vendors discreetly offer Nvidia’s A100 artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia_9.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32918479",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918479",
+      "publishedDateTime": "2023-06-20T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai.md",
+      "title": "These 3 Approaches Are Key For Businesses To Avoid Being Eaten By AI",
+      "excerpt": "Given the deafening buzz in the six months since the public debut of ChatGPT, it can feel like we’ve entered an AI bubble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64917f6cbaae7f061c9b887a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
+      "publishedDateTime": "2023-06-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-your-guide-to-cognitive-behavioral-therapy-cbt.md",
+      "title": "Your Guide To Cognitive Behavioral Therapy (CBT)",
+      "excerpt": "Cognitive behavioral therapy (CBT ... Your health and wellness is unique to you, and the products and services we review may not be right for your circumstances. We do not offer individual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/health/mind/what-is-cognitive-behavioral-therapy/",
+      "originalUrl": "https://www.forbes.com/health/mind/what-is-cognitive-behavioral-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
+      "title": "Can AI Make Airspace Security Smarter?",
+      "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6132caf85eefc9b1e992/0x0.jpg?format=jpg&crop=3033,1707,x0,y156,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "publishedDateTime": "2023-06-20T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-ai-vs-professional-translators-which-is-better.md",
       "title": "AI vs Professional Translators: Which is better?",
       "excerpt": "The Rise of AI in Translation Services AI technology has made remarkable advancements in recent years, revolutionising various industries, including language translation. Machine translation, a subfield of AI, aims to automatically translate text or speech ...",
@@ -829,367 +1160,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones.md",
-      "title": "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones",
-      "excerpt": "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "originalUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "publishedDateTime": "2023-06-19T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
-      "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
-      "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "originalUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a16dfd27ed152a0030faf7e421304699720e6e91/2023/06/19/36f8bdbd-2b8e-44f4-a7f3-cb6eebaa6952/gettyimages-1403176138.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "publishedDateTime": "2023-06-19T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets.md",
-      "title": "Parallel Domain’s API lets customers use generative AI to build synthetic datasets",
-      "excerpt": "Parallel Domain is putting the ability to generate synthetic datasets into the hands of its customers with its new API called Data Lab.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/",
-      "originalUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Generative-AI.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/",
-      "publishedDateTime": "2023-06-19T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-artificial-intelligence-systems-in-healthcare-market-research-2030.md",
-      "title": "Artificial Intelligence Systems in Healthcare Market Research | 2030",
-      "excerpt": "The Global Artificial Intelligence Systems in Healthcare market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you.md",
-      "title": "Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?",
-      "excerpt": "For a view of code ownership outside the US, ZDNET turned to Robert Piasentin, a Vancouver-based partner in the Technology Group at McMillan LLP, a Canadian business law firm. He says that ownership, as it pertains to AI-generated works, is still an \"unsettled area of the law.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
-      "originalUrl": "https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b1987e38f12344abad7beedabb2d91023ac3ed41/2023/06/19/451a63be-1834-497c-a0bb-483ba168d357/gettyimages-1470555159.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
-      "publishedDateTime": "2023-06-19T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-pro-interpreters-vs-ai-challenge-who-translates-faster-and-better.md",
-      "title": "Pro Interpreters vs. AI Challenge: Who Translates Faster and Better?",
-      "excerpt": "AI did very well. It struggled with word choice in a number of areas. It referred to an overflow in some hospitals. [KUDO] And also overflow in some of our hospitals. But obviously, that is borderline nonsensical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better",
-      "originalUrl": "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1686933411/wired_pro-interpreters-vs-ai-who-translates-faster-and-better.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-may-eliminate-some-jobs-openai-executive-says.md",
-      "title": "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says",
-      "excerpt": "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-802734/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

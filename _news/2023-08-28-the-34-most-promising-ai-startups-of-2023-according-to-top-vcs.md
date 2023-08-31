@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/the-most-promising-artificial-inte
 webUrl: "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI’s Share Of US Startup Funding Doubled In 2023"
+    excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
+    publishedDateTime: 2023-08-29T13:00:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/us-startup-funding-doubled-openai-anthropic-2023/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/SoftBank_Ai_Investment-2.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "T3YjtzRlDXMzxCMVpawJgM8ItdAtKLCBP5PwI5gQMFEVgjvXCJbc7LHh8SW1RFk/TFl3U0t5lOcQ4oNf93zDa2NJtXD9Uit6Xt3F4JLnE+gan43MO910BIF+dxBiSEfuau/gvsSoW0lFZUW43FQCdh281N9Srb0rdEZv+Kw1hEsOR3JQEIRLXU6jDBubvJkdihg80Z/oNR2CzJeAl1DQYJoUk2K1PW4XKZHYh6FymkK+0ETbndP+hEUoVeQhAyhN34NKPFm9BZLByaV9YwlinY6xw4IGn3EyzbaNpAx+N+E6r9jOHmqx3FuF0oxkcH7Fs7Zhe71O6syz2mxm8B0imOdCYX/3KB31203uHNDxlqhCS7e2+5bm58wtlTokB5ciGYndfKh6diKGrs92/gXltxjeGQmMZsYdisvioB+Ww9X7h7XmCuHgcFLDC2NY7lTaJnnNb6L4SJ15HquMxS/+InxbjIPfx+MhxXMaOFcGcCYroRe05a73NR8YHUzw+swVwowWXEm5zfTK8bbqNmxMtQ==;Bo2DsrAGGE4/QrXG0+m0Vg=="
 ---

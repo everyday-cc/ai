@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars.md",
+      "title": "AI recap: The rise of the prompt engineer and biased driverless cars",
+      "excerpt": "Our round-up of the most interesting artificial intelligence news in August includes a job created by AI, the problem of racial bias in driverless cars and how robots are better at 'are you a robot?'",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
+      "originalUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/08/31114009/SEI_169406682.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-chinas-baidu-launches-chatgpt-rival-ernie-bot-as-ai-race-heats-up.md",
       "title": "China's Baidu Launches ChatGPT Rival ERNIE Bot As AI Race Heats Up",
       "excerpt": "China's Baidu rolled out its ChatGPT rival ERNIE Bot to the public on Thursday, in a major leap for the country's tech sector as it aims to cash in on the artificial intelligence gold rush.",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -96,7 +140,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1345,49 +1389,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "ST. LOUIS, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in St. Louis. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552172",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

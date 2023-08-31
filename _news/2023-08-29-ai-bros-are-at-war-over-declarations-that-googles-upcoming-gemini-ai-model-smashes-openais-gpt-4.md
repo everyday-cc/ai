@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
         width: 640
         height: 390
-        isCached: true
-  - title: "Google’s Gemini AI is a Serious Threat to ChatGPT – Here’s Why"
-    excerpt: "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here."
-    publishedDateTime: 2023-08-26T18:54:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-is-a-serious-threat-to-chatgpt-heres-why"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/android_01.png"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "/PoIxkcLYSjprboifGcYaUqar4KExPU6kSQv06ElGiSW2ptr9jMzFLKr94CfNxi6TmACr/9soVypegwjWBBRPgO2MzflDNdXld2LENqBrT11pEmae3g8nNXG9Q09y6+5SulNInmB1p8oUTEM9sDN6mDtwPwZTxDS2Fcfa7EChgovSYpgejhmleVyHUlFm9FTknv/8Bq2TkB0aCBzFYdu/N5TZ318ulEkRlhetUCf/dufCn2Edz2ULwAd8kLLW0K1K0XC71yduEdWjBGF90iDngiDaMqfSvIduZgSh3bqU+NOevm4bwuEGRyy1iyy6oLEZeVS/FHElzxXC3P3V+ROx9omvrRaz5BXCAMAnF7lmHXNQuZq2Agu6Fk3bElkmdzZlgMtGCWeqsfgRRixb2sX1whYaJVp6LESfbYBcOjGiBMBa9mlCflQmQSjq/tC8mK6ZivJWdhh3m9HBt/3r/Xa2LPfz02tJa/w37/syH1y0RafoXRfTC0GArG63noLD6scdFxfGJ5HzO+jHVoI3+V07w==;YYbfoOF7euoitFKDpc+Fbg=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US restricts exports of Nvidia AI chips to Middle East"
-excerpt: "Restrictions apply to A100 and H100 chips, in escalation of US efforts to restrict China’s access to products"
-publishedDateTime: 2023-08-31T08:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
-webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+excerpt: "Controls apply to A100 and H100 chips, in escalation of US efforts to curb China’s access to products"
+publishedDateTime: 2023-08-31T10:24:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
 type: article
@@ -121,6 +121,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "US restricts sales of AI chips Nvidia and AMD to Middle East"
+    excerpt: "The United States has extended restrictions on exports of high-performance AI processors to some Middle Eastern countries. It concerns chips from Nvidia"
+    publishedDateTime: 2023-08-31T11:02:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/110763/us-restricts-sales-of-ai-chips-nvidia-and-amd-to-middle-east/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 71
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -162,6 +176,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI Wars: US ready to chase China to the end of world, restricts NVIDIA chip exports to countries in West Asia"
+    excerpt: "The US has imposed new restrictions on NVIDIA, barring them from exporting AI chips to countries in West Asia, also known as the Middle East. The US believes that China may try to find ways around san"
+    publishedDateTime: 2023-08-31T10:24:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 55
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/AI-Wars-US-ready-to-chase-China-to-the-end-of-world-restricts-NVIDIA-chip-exports-to-countries-in-West-Asia.jpg"
+        width: 640
+        height: 362
         isCached: true
   - title: "Inside China’s underground market for high-end Nvidia AI chips"
     excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
@@ -218,6 +248,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
         width: 1500
         height: 800
+        isCached: true
+  - title: "US extends AI chip export restrictions to Middle East nations"
+    excerpt: "The Biden administration has restricted the sales of Nvidia’s A100 and H100 machine learning chips in some regions outside China, the company has revealed in a regulatory filing."
+    publishedDateTime: 2023-08-31T11:47:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/us-extends-ai-chip-export-restrictions-to-middle-east-nations/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/22311/web_nvidia-chip-on-motherboard_credit_istock-1141488945.jpg?crop=0,0.2625,0,0.24531249999999993&cropmode=percentage&width=1200&height=450&rnd=133379550380000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
@@ -332,6 +376,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "m7EnsvEkLdE8KG2EIL7XeUnoehwZ6mpfkikYws3zwmzn6ky06YMwlKvWg9jsCSCVkTPrdNoDjZXkZ3NYIIWnmMxT0PniWCATJ+nxvgXxx7YeIdvsLx+dqpMhTGY8AKF/0spG/5Am5MLDSGJ6KqJEuC5L6czu6+Axj7xD60tmuzZ16+tF/hfdavtoABNmq/Ef56kGbX3jQgmgqGUoXOjjf20/6xbaQ9RP9fWtHDPyet/6c2mnx2qnci/KUOuUd108dlWGqPMA+LvAtByivf0mPqQBVLFfQMeFUDL+pMRrHXHsy7Lc37KslIRrYxu7kJBietjQiLgLcxEnUO/QvLNPmEM6umvfBTMe+MBPOIm8UsI=;m23HGYFGt8IyaGfwE6leWA=="
+secured: "3OGUNDqtnmVlIDW9MeTheYi0ifdExH8l5pVSgjROs2Ts36vIzta7FWt37eAc6nMFt/DJhFiRNDwl4RkOmLhEwv3vRUEz7WW7G7Y563QAFrWPDNaSj0KWgzmvhzpAo3o+inIWPF4+fTnzZoafENC2kIqjCfSrhvwM/hQ06zZ+ZtEQRDMgbtk3REl8tVJ4GX2/yoBhvJAk59Wb2GjVO8Lk8ympNvYENHZaWrvs9eKu8q+hR1y9taQtuWxHR/e2iE2z98OD4Ob7sFFlARMNNohYECKGeHa77SmUHzPUWq7tNSuUKgo27ybnq8AcYWUaKDmZ65QfVd4x8LUiBREQifG0GNaUmonsAp1NnDULjdgQJAk=;DGw7karxDZSL22kFte/U2g=="
 ---
 

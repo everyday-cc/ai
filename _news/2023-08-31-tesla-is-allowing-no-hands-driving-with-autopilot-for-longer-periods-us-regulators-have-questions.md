@@ -114,15 +114,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
-    excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
-    publishedDateTime: 2023-08-26T17:48:00Z
-    webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 34
   - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
     excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
     publishedDateTime: 2023-08-30T17:14:00Z

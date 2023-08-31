@@ -86,22 +86,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "AI chatbot aims to provide support for women with postpartum depression"
-    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
-    publishedDateTime: 2023-08-26T18:10:00Z
-    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
-    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
+  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
+    publishedDateTime: 2023-08-31T10:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
     excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
     publishedDateTime: 2023-08-30T10:00:00Z
@@ -194,6 +187,20 @@ related:
       - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
         width: 1050
         height: 450
+        isCached: true
+  - title: "How to talk to an AI chatbot"
+    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
+    publishedDateTime: 2023-08-31T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
