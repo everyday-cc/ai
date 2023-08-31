@@ -107,15 +107,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
-    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
-    publishedDateTime: 2023-08-30T19:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
     excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
     publishedDateTime: 2023-08-30T16:52:00Z

@@ -36,6 +36,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "Schools, universities turning to artificial intelligence to transform education"
+    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 70
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
     publishedDateTime: 2023-08-28T23:52:00Z
@@ -59,15 +75,20 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
-    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
+  - title: "Build faster and higher with AI"
+    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
+    publishedDateTime: 2023-08-31T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
+        width: 620
+        height: 439
+        isCached: true
   - title: "Embuing AI with Ethics"
     excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
     publishedDateTime: 2023-08-29T19:32:00Z
@@ -87,6 +108,6 @@ related:
       domain: benefitnews.com
     quality: 34
 
-secured: "YItUiVGfveW0hHBIykKlWg/ArfymDhDelCHbyXfnjx2FtDFEIutqTHxAjaDwoB3Z2Fa4j6yJH6+mBoiumboZ7xXOdEnz7jpRrh4BCN7amyX+kroGzf777n+STxKaMgkR9q/bWSyXrCH48+1RxeZsNqtVuhFyMP4fpnORnCwc7VyQEEm5HznC3hCMVxvDhs5SuABdAu0oywyNGRiZjKDMTY8EAqbeMN12JNMiAjKdT16gI6J/Jh09skAPkwjU24r/SB1hDC9bKeiMUTC112mGUActROLhVMzA0t5Lvf26WjPb2RRJNPQclOFxKFSQVVNUX+B8rGV7nf03y125BMoyDununGCvNHsTfxGK9turdSU=;jVwbs9nwZhLznEPLa4UElQ=="
+secured: "xejxz2gHVnjowpu/W1PVq39UhCy9/E2HSKiWinCINbIZyHCcyZiQSN9sB3xydhISHMDDIUENt19LmiMsgem6oNH8/qmIGfDY2z4ABQ0BA4y+FMNRyDrpp1Mjno3RQ/9Q27j+cXfWmPhg+LAnOb6jscMFFxnfp3HFmLa6hkq5jQ/31x0F0ItjI1RvFQBf4AaxsMOSb+P9LLHbpcL1SKVrNDCL94c5mcCBoX37reVaJggeOi16vXYqduFHq+YYOVC0rmZjZ0ZvAgAvb3NgPeDiG8R8QgQaBEIlJvnAU4yADgjnwadcVdSItCMasm9jF1nZLeZGPCUbOG3V/OnywpsCob5merMIK6mI2Bp68+08PDWpOje5JgxlY0yVpPPT9P14vqnnyxTnk8EpoTziX9Gu5r5c1Ok0+9CmNVETaEt8pOmFS7+eujCSObUwkps71yXeQ+3e/uRFWS0HSrAeFG4hS4MPqvjUzgl+9dYoXAtyNfSKSf0dB2c32eMa4P/R9SGSsalT7MN7LlAZDr6uOuL0XA==;WYIcOkBc2TabOWZhj0rMkQ=="
 ---
 

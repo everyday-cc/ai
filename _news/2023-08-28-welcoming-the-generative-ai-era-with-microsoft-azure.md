@@ -23,189 +23,232 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft officially adds Bing AI chatbot to Google Chrome"
-    excerpt: "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser."
-    publishedDateTime: 2023-08-29T17:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
+  - title: "Bringing generative AI in Search to more people around the world"
+    excerpt: "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan."
+    publishedDateTime: 2023-08-31T00:30:00Z
+    webUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/"
+    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Automatically generate impressions from findings in radiology reports using generative AI on AWS"
+    excerpt: "This post demonstrates a strategy for fine-tuning publicly available LLMs for the task of radiology report summarization using AWS services. LLMs have demonstrated remarkable capabilities in natural language understanding and generation, serving as foundation models that can be adapted to various domains"
+    publishedDateTime: 2023-08-30T17:08:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-impressions-from-findings-in-radiology-reports-using-generative-ai-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14850-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Everyone wants responsible AI, but few people are doing anything about it"
+    excerpt: "While almost nine in 10 business leaders agree it's important to have clear guidelines on artifical intelligence (AI) ethics and corporate responsibility, barely a handful admit they have such guidelines, a recent survey shows."
+    publishedDateTime: 2023-08-28T14:26:00Z
+    webUrl: "https://www.zdnet.com/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 88
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
-    publishedDateTime: 2023-08-29T14:55:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+  - title: "Google Applies Generative AI Tools to Cloud Security"
+    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
+        width: 1400
+        height: 957
         isCached: true
-  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
-    publishedDateTime: 2023-08-29T11:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
+  - title: "Why Generative AI Political Ads Are An Opportunity To Bring AI Literacy To Everyone"
+    excerpt: "The FEC voted recently to open public comment on how to regulate generative AI political ads. But news organizations need to learn about reporting on these ads. This is their opportunity. This is a great start, and news outlets can do more. The key ..."
+    publishedDateTime: 2023-08-29T16:11:00Z
+    webUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e91ee2c0cc4d4f8b4af6c3/0x0.jpg?format=jpg&crop=2999,1688,x0,y71,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Talking the AI Talk"
+    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
+    publishedDateTime: 2023-08-28T23:40:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
     quality: 69
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "AI chatbot aims to provide support for women with postpartum depression"
-    excerpt: "The AI chatbot’s algorithm is trained to handle common postpartum questions and issues — such as trouble with personal connections and breastfeeding challenges."
-    publishedDateTime: 2023-08-26T18:10:00Z
-    webUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/"
-    ampWebUrl: "https://nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/26/ai-chatbot-aims-to-provide-support-for-women-with-postpartum-depression/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-6xcwpq5ue-1693072926555.jpg?quality=75&strip=all&1693058628&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
-    excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
-    publishedDateTime: 2023-08-30T10:00:00Z
-    webUrl: "https://www.govconwire.com/2023/08/synthetaic-microsoft-enter-into-ai-data-cloud-partnership/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 56
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-203.png"
+      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
         width: 1200
-        height: 628
+        height: 625
         isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-08-30T19:58:00Z
-    webUrl: "https://washingtontechnology.com/companies/2023/08/microsoft-enters-partnership-build-ai-large-datasets/389873/"
+  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
+    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
+    publishedDateTime: 2023-08-29T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
     type: article
     provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 54
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
-    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
-    publishedDateTime: 2023-08-26T19:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "This week in data: The real cost of generative AI"
+    excerpt: "Register Here How much will your generative AI use case actually cost your business, and how can you make that investment meaningful in the long term? Watch the video below to explore research from McKinsey & Company and discover three archetypes and a ..."
+    publishedDateTime: 2023-08-28T18:07:00Z
+    webUrl: "https://venturebeat.com/business/this-week-in-data-the-real-cost-of-generative-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
-        width: 3584
-        height: 2048
-        isCached: true
-  - title: "Microsoft partners with universities to allow the use of generative AI in school"
-    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
-    publishedDateTime: 2023-08-29T04:50:00Z
-    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 49
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft's mobility head explores AI's game-changing impact on automotive innovation"
-    excerpt: "Microsoft's Henry Bzeih discusses AI's transformative role in the automotive industry, from efficient product design with generative algorithms to interactive in-vehicle experiences like Mercedes-Benz's ChatGPT integration and AI's impact on the vehicle lifecycle."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.autonews.com/sponsored/microsofts-mobility-head-explores-ais-game-changing-impact-automotive-innovation"
+  - title: "When the generative AI hype fades"
+    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
+    publishedDateTime: 2023-08-28T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 47
+  - title: "Generative AI Is Coming To Mobile Devices"
+    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
+    publishedDateTime: 2023-08-28T18:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Bringing AI to work? Better have policies in place"
+    excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
+    publishedDateTime: 2023-08-30T13:30:00Z
+    webUrl: "https://www.benefitspro.com/2023/08/30/bringing-ai-to-work-better-have-policies-in-place/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/AN%20Driver%20Seat%20-%20Microsoft%20-%20082823%20-%20SS.png"
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/07/Chat-GPT-Article-202307181246.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
+    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
+    publishedDateTime: 2023-08-30T12:00:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
+  - title: "AI's Dirty Secret: Poor People in the Developing World Are Doing Most of the Work"
+    excerpt: "In short, while AI has triggered a billion-dollar arms race in the US, those who are actually doing the brunt of the work are often going unnoticed, underpaid, or ignored altogether — a wrinkle in the ongoing AI ethics debate that should give anybody pause."
+    publishedDateTime: 2023-08-30T09:27:00Z
+    webUrl: "https://futurism.com/ai-dirty-secret-poor-people-most-work"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 34
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/ai-dirty-secret-poor-people-most-work.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
-    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
-    publishedDateTime: 2023-08-28T10:00:00Z
-    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
+  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
+    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
+    publishedDateTime: 2023-08-30T19:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
-    excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
-    publishedDateTime: 2023-08-28T13:13:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Expands-Partnership-with-Microsoft-to-Support-Companies-Adopting-Generative-AI-160210.aspx"
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
+    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
+    publishedDateTime: 2023-08-29T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
     type: article
     provider:
-      name: dbta
-      domain: dbta.com
-    quality: 28
-  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
-    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
-    publishedDateTime: 2023-08-30T12:30:00Z
-    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
+  - title: "Google expands generative AI model Med-PaLM to more health customers"
+    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
+    publishedDateTime: 2023-08-29T12:12:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 25
-  - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
-    excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
-    publishedDateTime: 2023-08-29T13:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34087069/google-collaborates-with-nvidia-in-ai-expansion-a-strategic-play-against-titans-microsoft-openai-and"
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 19
+  - title: "Generative artificial intelligence has entered the classroom"
+    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
+    publishedDateTime: 2023-08-30T13:37:00Z
+    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
-  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
-    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
-    publishedDateTime: 2023-08-28T19:37:00Z
-    webUrl: "https://www.inferse.com/696630/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 19
+  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
+    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
+    publishedDateTime: 2023-08-28T12:36:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
     quality: 14
+  - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
+    excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
+    publishedDateTime: 2023-08-29T15:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871466.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+  - title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
+    excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
+    publishedDateTime: 2023-08-28T12:46:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "RthB3g7NtgDN5xYFcdi9bHoeKix5q7yPo5MacGBFpl0wANp8mY65g8Em7yPRz7pc8yOq/BuG2/Osajcz6i83MJPc9nFUgP/WqL4jV6EcIGkRXVCPchNvFXeUCv/7J//rtDQXpG1p4NnnIO9xbnLxp1qztNrCKysZ7Xp2hQCa8mV5js9G5GAP3CR1Lm9wGaHcRvdwhnaDkqofvjHCGZGZTo694zJZ6NIupmhJzqobide1VFGQ9ePtWscNwG9kuLAGA9oY/vOMhkP7KuPlNw9bSCwhkbs9TFS7g2j+FhQdOtqfbZM/Dsa2FHCkDMLodYLBeFjbIJjf5YqI1b3cYbzwerp60/DiwCxRVnD0jP+OJMU=;pJEq7IArDEtyLmdXJErH2g=="
 ---

@@ -50,6 +50,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
+  - title: "Google wants an invisible digital watermark to bring transparency to AI art"
+    excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
+    publishedDateTime: 2023-08-29T17:20:00Z
+    webUrl: "https://www.engadget.com/google-wants-an-invisible-digital-watermark-to-bring-transparency-to-ai-art-164551794.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "Google will put invisible watermarks on AI-generated images"
     excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
     publishedDateTime: 2023-08-30T11:12:00Z

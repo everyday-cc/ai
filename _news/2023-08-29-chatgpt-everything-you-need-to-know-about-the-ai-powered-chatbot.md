@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Welcoming the generative AI era with Microsoft Azure"
-    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-28T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
     excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
     publishedDateTime: 2023-08-29T11:18:00Z

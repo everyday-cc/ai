@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Will a Bitterly Divided Australia Elevate the Voice of Aboriginal People?"
+    excerpt: "A referendum to set up an Indigenous advisory body in Parliament was envisioned as uniting the country. The opposite has happened."
+    publishedDateTime: 2023-08-30T20:27:00Z
+    webUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 53
+    images:
+      - url: "https://static01.nyt.com/images/2023/08/24/multimedia/00OZ-VOICE-01-kmzh/00OZ-VOICE-01-kmzh-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
     excerpt: "It means nothing changes,” Albanese told 400 Voice supporters in the city of Adelaide. “Voting ‘no’ closes the door on this opportunity to move forward. I say today, don’t close the door on constitutional recognition, don’t close the door on ..."
     publishedDateTime: 2023-08-30T06:09:00Z
@@ -40,36 +54,6 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14157329-a917389ab96245a7b6cd5b9e1eb6e1a7.jpg"
         width: 760
         height: 508
-        isCached: true
-  - title: "Australians to Vote in October on Creating an Indigenous ‘Voice’ in Parliament: What to Know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum over whether to enshrine in the constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-08-30T03:30:00Z
-    webUrl: "https://time.com/6309565/australia-indigenous-voice-parliament-vote/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 43
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/australia-indigenous-voice-referendum.jpg?quality&#x3D;85"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
-    excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
-    publishedDateTime: 2023-08-29T21:15:00Z
-    webUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/"
-    ampWebUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    cdnAmpWebUrl: "https://www-mamamia-com-au.cdn.ampproject.org/c/s/www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    type: article
-    provider:
-      name: Mamamia
-      domain: mamamia.com.au
-    quality: 32
-    images:
-      - url: "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/cms_images/variations/1200x628.2722513089005-192408661474.jpg?bypass=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
     excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
@@ -87,29 +71,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
-    publishedDateTime: 2023-08-30T07:18:00Z
-    webUrl: "https://www.aol.com/news/voice-referendum-australias-voice-parliament-041838760.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0f9a98c041f5fc27109c8cb19dfb70e2"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Australian Certified Translation Platform AcudocX Acquires Translato.ai in IP Deal"
-    excerpt: "AcudocX, an Australian self-service platform for certified translations, acquires Kyle Corbitt’s US startup Translato.ai."
-    publishedDateTime: 2023-08-28T09:51:00Z
-    webUrl: "https://slator.com/australian-certified-translation-platform-acudocx-acquires-translato-ai-in-ip-deal/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
   - title: "Australians to vote October 14 on the Voice, with Albanese urging people to support ‘an idea’"
     excerpt: "Prime Minister Anthony Albanese announced the long-anticipated date to an enthusiastic audience of about 400 in Adelaide."
     publishedDateTime: 2023-08-30T02:44:00Z

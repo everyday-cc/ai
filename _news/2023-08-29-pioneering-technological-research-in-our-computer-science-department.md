@@ -7,7 +7,7 @@ originalUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-t
 webUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-technological-research-in-our-computer-science-department/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 480
     height: 360
     isCached: true
+
+related:
+  - title: "AMD Shares The Technical Details of Technology Powering Innovative Confidential Computing Leadership Cloud Offerings"
+    excerpt: "Mark Russinovich, Azure CTO and Technical Fellow ... This includes Confidential Spaces for privacy-focused use cases such as joint data analysis and machine learning model training; General Availability of Confidential VMs and Confidential GKE as IAAS ..."
+    publishedDateTime: 2023-08-30T17:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-shares-the-technical-details-of-technology-powering-innovative-confidential-computing-leadership-cloud-offerings-1032592858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "mdrbA+9WaKSktzv7CtvAaFJjs9V8XHhBDmHn7A4TCs4GJ1CHlW45e7Fqn4pMIkLFL2NGHrdG3hnKqxgXfc+CcXpihwyWQCP7q1d0G81oXYqTev1n0e2QtAPHv8/sgRoWVSNuox7RNz8B0Q4ONnEl80KmJFO7Qj8dnoc6CoCFZEfbis9uftO1O/DSmqa8FinMaxDb8fD/yjpSIT13728FvDdtvCwmSjNPirgaRSKLQbOdXq15EKVgJb74+PGXQEyV6++uZFw3fkxWcnDcdYWIy9cgN958c/DCvpYBfQc5Hjtn7hJnrZWmhZeYn+xPvCrvDS5z0NNaYsgFTe9dvVHJ4kecHTSOxW7sCeWJUcdyYAE=;dW0w/W9Qn+j6QbVu8yOWRA=="
 ---

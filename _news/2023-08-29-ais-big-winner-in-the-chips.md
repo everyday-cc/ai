@@ -41,19 +41,35 @@ related:
         width: 1200
         height: 865
         isCached: true
-  - title: "Talking the AI Talk"
-    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
-    publishedDateTime: 2023-08-28T23:40:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
+  - title: "The Benefits of Artificial Intelligence in Medicine"
+    excerpt: "Artificial Intelligence (AI) and machine learning are gaining increased popularity across the globe. Due to a symbiotic relationship between humans and this burgeoning technology, productivity across the globe has expanded to new arenas."
+    publishedDateTime: 2023-08-31T01:58:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
+      name: This Day
+      domain: thisdaylive.com
+    quality: 59
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/0-106.png"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "The benefits of Artificial Intelligence in Medicine"
+    excerpt: "However, we must ask ourselves what moral and ethical boundaries need to be respected as we continue to integrate artificial intelligence into healthcare; issues of patient security, data protection, and human-centred care will remain in question as ..."
+    publishedDateTime: 2023-08-29T12:04:00Z
+    webUrl: "https://www.pulse.ng/business/domestic/the-benefits-of-artificial-intelligence-in-medicine/ehgkv7q"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 39
+    images:
+      - url: "https://ocdn.eu/pulscms-transforms/1/M6GktkpTURBXy8xYjA0MzYyZmYwMTYyZjhkMjkxNGVhZDU5NTdlZGE1Yi5wbmeSlQMACM0BAsyRkwXNBLDNAnY"
         width: 1200
-        height: 625
+        height: 630
         isCached: true
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."

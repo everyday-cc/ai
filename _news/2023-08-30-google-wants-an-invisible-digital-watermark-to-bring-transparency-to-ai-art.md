@@ -23,22 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "Everyone wants responsible AI, but few people are doing anything about it"
-    excerpt: "While almost nine in 10 business leaders agree it's important to have clear guidelines on artifical intelligence (AI) ethics and corporate responsibility, barely a handful admit they have such guidelines, a recent survey shows."
-    publishedDateTime: 2023-08-28T14:26:00Z
-    webUrl: "https://www.zdnet.com/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+  - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
+    excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
+    publishedDateTime: 2023-08-29T14:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google_DeepMind_SynthID.jpeg?width=1200&height=800&fit=crop"
+        width: 864
+        height: 576
         isCached: true
+  - title: "Google made a watermark for AI images that you can’t edit out"
+    excerpt: "The Google DeepMind team has believed for years that building great generative AI tools also requires building great tools to detect what has been created by AI. There are plenty of obvious, high-stakes reasons why, says Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2023-08-29T12:11:00Z
+    webUrl: "https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
+  - title: "Google may have found a way to identify some AI-generated images"
+    excerpt: "The process relies heavily on Google DeepMind, but Google says it isn’t a “foolproof” tool that can identify “extreme image manipulation.” The reason it isn’t a foolproof system, though, is because it relies on the use of Google’s own Imagen ..."
+    publishedDateTime: 2023-08-29T19:29:00Z
+    webUrl: "https://bgr.com/tech/google-may-have-found-a-way-to-identify-some-ai-generated-images/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
+        width: 3120
+        height: 2080
+        isCached: true
+  - title: "Google will put invisible watermarks on AI-generated images"
+    excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
+    publishedDateTime: 2023-08-30T11:12:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-deepmind-synthid-invisible-watermarks-ai-images"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/30/image/jpeg/OUpPbytf2tHxTuVDS8BzOv4YkAN1BBT5R0TaWbM8.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google made an invisible watermark for AI-generated images"
+    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
+    publishedDateTime: 2023-08-30T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "siTI1rbRMWPWKlBqcH/iyMxS45P1J14QmD5jvhD2vHL41rOzEVHr5gmMaD3uEbz/X9OBv7F4ZlpCFYpoq/f1awjBxDQ+qCGYiPqjdYn5QqAtQ1STEvxItIuluN+dru2SeaRgVObW4XSfNIctqBCILdnWfPmX4pXdTepnUhuDfiriLOChAjn8YQE2vEUtIKxQ7AQKf168BxFZ/AQviOjlpCAne2Do27WoHLt7Z4faiR2FN0hJ3ZTCkDNPKzIr+fO9kIDNFUpJMBcK2f/AIorfPk3HOH20WFSd2rHPD2h3YXCiyc/lR3uQ5a+ctJYI/PSxHfku5AosNtyUpLjzNhGgtujR54m9gXPLmAYV2TWJaaCIMBvGd8podUXQfFwUFDF55UY4WVRJBYcliZjvQcVlHTq+Do+b1qyNZhMwOiDEwiCT847u0Vfp6v35tgJ3IxlSXwjXsw80SRNltHZ6lMUdIAcsNQEAomQVcpA0cTZb6Z8sn96i1RQVByld816gtYNXDm8C3dLdHoKvP0GJtSLzpw==;xMhccmHJYCGJ7VcXrDiCkA=="
 ---

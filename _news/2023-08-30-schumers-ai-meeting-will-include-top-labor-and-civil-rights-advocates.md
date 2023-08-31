@@ -24,6 +24,22 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer"
+    excerpt: "U.S. Senate Majority Leader Chuck Schumer will host tech leaders and experts at an artificial-intelligence (AI) forum on Sept. 13, as several governments around the world are considering how to mitigate the dangers of the emerging technology."
+    publishedDateTime: 2023-08-31T01:03:00Z
+    webUrl: "https://www.aol.com/news/factbox-big-names-big-tech-220350415.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/1b9913fddb12e5aefa8f91c1e6ee3a9a"
+        width: 800
+        height: 538
+        isCached: true
+
 secured: "QQpuha6KEG2GqUA584mY4QVyuyUgiUlER7SYpnqk2xmw1uS+a18rxadCN/a7XLHN0z3dsVjIa9tJdbzEgXiZ78iB38FxobAudKrUP518jW1WN/Y+9JPymwZXyJhEQIWLY67JMCSmDsCkEyzy1inKurebnDRW7DO7gjZoEJKJpqQe60N/iR7KN7rf5GgjTNuPJnPwg71LRLL3JpF84h2YRkZAuQgigj47Yzp6hRVthDwwsKreQYX6GVFuqy+6cF6jKCYaZyYfjQ5J6oChXeWYyqkALnVkL7SA6rgyFWhSeZGTN3z8MUf/XcIjo7R8YuJy+ceeU9C7HfPF20zkbNPAIw/2+JWndn0/e16V8TacFlaj71m8ksdk1mfpOpftSS8N/vU+XCrw9PTBm0lXK/KRy9rWjaji9vZPHzlkjlrkWMQMqOt1CBXY7RIfKqvAIz/uq3i9KMYsnTFkF/ZmyeF5TBrCCGkd00u8KIf436f3Epsn/ZOmtgVXTzCtfUAzTMyL65A1B+C5tBAIgIwpqczygg==;mXHu+5GHv0TNolhWLeDdmA=="
 ---
 

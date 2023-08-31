@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Exploring The Ethical Implications Of AI For Lead Generation"
-    excerpt: "Adopting responsible AI practices can help businesses benefit from AI-driven lead generation while minimizing risks and keeping marketing efforts human-centric."
-    publishedDateTime: 2023-08-29T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/"
+  - title: "Bringing generative AI in Search to more people around the world"
+    excerpt: "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan."
+    publishedDateTime: 2023-08-31T00:30:00Z
+    webUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/"
+    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg"
+        width: 1300
+        height: 541
         isCached: true
+  - title: "Welcoming the generative AI era with Microsoft Azure"
+    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-28T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Automatically generate impressions from findings in radiology reports using generative AI on AWS"
     excerpt: "This post demonstrates a strategy for fine-tuning publicly available LLMs for the task of radiology report summarization using AWS services. LLMs have demonstrated remarkable capabilities in natural language understanding and generation, serving as foundation models that can be adapted to various domains"
     publishedDateTime: 2023-08-30T17:08:21Z
@@ -48,177 +57,192 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI"
-    excerpt: "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million."
-    publishedDateTime: 2023-08-27T20:35:00Z
-    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/"
+  - title: "Everyone wants responsible AI, but few people are doing anything about it"
+    excerpt: "While almost nine in 10 business leaders agree it's important to have clear guidelines on artifical intelligence (AI) ethics and corporate responsibility, barely a handful admit they have such guidelines, a recent survey shows."
+    publishedDateTime: 2023-08-28T14:26:00Z
+    webUrl: "https://www.zdnet.com/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Applies Generative AI Tools to Cloud Security"
+    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
+        width: 1400
+        height: 957
+        isCached: true
+  - title: "Why Generative AI Political Ads Are An Opportunity To Bring AI Literacy To Everyone"
+    excerpt: "The FEC voted recently to open public comment on how to regulate generative AI political ads. But news organizations need to learn about reporting on these ads. This is their opportunity. This is a great start, and news outlets can do more. The key ..."
+    publishedDateTime: 2023-08-29T16:11:00Z
+    webUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64eba97becb16c5423c6d0b5/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e91ee2c0cc4d4f8b4af6c3/0x0.jpg?format=jpg&crop=2999,1688,x0,y71,safe&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "The US Copyright Office just took a big step toward new rules for generative AI"
-    excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
-    publishedDateTime: 2023-08-30T21:02:00Z
-    webUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+  - title: "Talking the AI Talk"
+    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
+    publishedDateTime: 2023-08-28T23:40:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
     images:
-      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
+      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
         width: 1200
-        height: 600
+        height: 625
         isCached: true
-  - title: "What’s new in Data & AI: Extend the reach of AI with data connectors and integrations"
-    excerpt: "With a unified, intelligent data platform, organizations save on integration costs, improve their security posture, and enable more advanced AI capabilities. \nThe post What’s new in Data &amp; AI: Extend the reach of AI with data connectors and integrations appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-29T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-data-ai-extend-the-reach-of-ai-with-data-connectors-and-integrations/"
+  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
+    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
+    publishedDateTime: 2023-08-29T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/08/Picture1-3.png"
-        width: 764
-        height: 563
-        isCached: true
-  - title: "The weaponization of AI: How businesses can balance regulation and innovation"
-    excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
-    publishedDateTime: 2023-08-27T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "This week in data: The real cost of generative AI"
+    excerpt: "Register Here How much will your generative AI use case actually cost your business, and how can you make that investment meaningful in the long term? Watch the video below to explore research from McKinsey & Company and discover three archetypes and a ..."
+    publishedDateTime: 2023-08-28T18:07:00Z
+    webUrl: "https://venturebeat.com/business/this-week-in-data-the-real-cost-of-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
-        width: 1198
-        height: 672
-        isCached: true
-  - title: "The Rise Of AI And Its Implications For Gaming"
-    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
-    publishedDateTime: 2023-08-30T16:40:00Z
-    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
+    quality: 49
+  - title: "When the generative AI hype fades"
+    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
+    publishedDateTime: 2023-08-28T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
-    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
-    publishedDateTime: 2023-08-30T16:01:00Z
-    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
-    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
-    publishedDateTime: 2023-08-29T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
-    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
-    publishedDateTime: 2023-08-30T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "Generative AI Is Coming To Mobile Devices"
+    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
+    publishedDateTime: 2023-08-28T18:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "Artificial Intelligence Is Ending Micron's Downturn"
-    excerpt: "While Micron is a long way from printing profits like it was during the pandemic, soaring demand for servers capable of powering artificial intelligence workloads could help pull the company out of its downturn. Demand for AI servers is exploding."
-    publishedDateTime: 2023-08-29T11:51:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/29/artificial-intelligence-is-ending-microns-downturn/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
     quality: 47
-  - title: "Q&A: Uncovering the labor exploitation that powers AI"
-    excerpt: "Investigating how tech firms like OpenAI and Meta teach their algorithms right from wrong, TIME’s Billy Perrigo discovered routine exploitation in the Global South."
-    publishedDateTime: 2023-08-29T20:07:00Z
-    webUrl: "https://www.cjr.org/tow_center/qa-uncovering-the-labor-exploitation-that-powers-ai.php"
+  - title: "Bringing AI to work? Better have policies in place"
+    excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
+    publishedDateTime: 2023-08-30T13:30:00Z
+    webUrl: "https://www.benefitspro.com/2023/08/30/bringing-ai-to-work-better-have-policies-in-place/"
     type: article
     provider:
-      name: cjr.org
-      domain: cjr.org
+      name: Benefits Pro
+      domain: benefitspro.com
     quality: 39
     images:
-      - url: "https://www.cjr.org/wp-content/uploads/2023/08/02892_Hieronymus_van_Aeken_51945890521-800x431.jpg?311942"
-        width: 800
-        height: 431
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/07/Chat-GPT-Article-202307181246.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
-    excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
-    publishedDateTime: 2023-08-28T16:10:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai"
+  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
+    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
+    publishedDateTime: 2023-08-30T12:00:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
-    excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
-    publishedDateTime: 2023-08-28T20:29:00Z
-    webUrl: "https://www.heritage.org/technology/commentary/ai-generated-child-pornography-fuels-the-child-sex-exploitation-industry"
+  - title: "AI's Dirty Secret: Poor People in the Developing World Are Doing Most of the Work"
+    excerpt: "In short, while AI has triggered a billion-dollar arms race in the US, those who are actually doing the brunt of the work are often going unnoticed, underpaid, or ignored altogether — a wrinkle in the ongoing AI ethics debate that should give anybody pause."
+    publishedDateTime: 2023-08-30T09:27:00Z
+    webUrl: "https://futurism.com/ai-dirty-secret-poor-people-most-work"
     type: article
     provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 36
+      name: Futurism
+      domain: futurism.com
+    quality: 34
     images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
+      - url: "https://wp-assets.futurism.com/2023/08/ai-dirty-secret-poor-people-most-work.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
-    excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
-    publishedDateTime: 2023-08-28T21:25:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/999255"
+  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
+    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
+    publishedDateTime: 2023-08-30T19:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
+    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
+    publishedDateTime: 2023-08-29T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
+  - title: "Google expands generative AI model Med-PaLM to more health customers"
+    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
+    publishedDateTime: 2023-08-29T12:12:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 19
+  - title: "Generative artificial intelligence has entered the classroom"
+    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
+    publishedDateTime: 2023-08-30T13:37:00Z
+    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 19
+  - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
+    excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
+    publishedDateTime: 2023-08-29T15:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871466.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+  - title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
+    excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
+    publishedDateTime: 2023-08-28T12:46:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 5
 
 secured: "Rb3ORWGuIKsfjN8dbRqGXd4/8sVKqsNBSWHwnB7Z9i6XcOUI3sruWQVcMsXj6mC7UqzTWDFLG8+VwZFOmHEb1mFs2k4FIkaQVo7lZFLIQnL/oROVQBR+G0aLB8eGjO2Z4tRH++TablvxQaPc4PEag5q4ga5/8ONcwxWTmhYRjnCVFxBsCNCQYlS/0xDMebK7OBYo+Y7Cdm0YgiDcHDVI6K/SSx9x6HCMvmSnR16Da8vSCPeT+SE7yxIqJUOSkrwU4HTWIBwtj6ZhIfYQUA7AtNmFTElmFSv6J7O5DFfC2WRBBCcIjTpPvHF9wSG23StW7UY4suGZBUq6ht+d13i+Xb9TZfvXmgL1sHE9/6uC3Q3r0MKvD0H9y43RrMBwfza/qhz+AXymzEfiPpN1UhnkjS4U5Sgoj5AaMMKuiNJcxP9J2lQ5P0TvvUwxgvAZRKtkqLS1NvUr25ezYY0SI15IzyjRP6Nq89bB/bsf7DtFxMKfyChC30aFNVv3+/bPh2WfF7+hiijJTz3jxNW0Y5x8QA==;bMd2MFyHxG1A5y8KyRZkQw=="

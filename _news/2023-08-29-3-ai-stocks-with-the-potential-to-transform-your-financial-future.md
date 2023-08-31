@@ -32,6 +32,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "Schools, universities turning to artificial intelligence to transform education"
+    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 70
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tijani’s Artificial Intelligence strategy for nation-building"
     excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
     publishedDateTime: 2023-08-30T22:13:00Z
@@ -62,15 +78,20 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
-    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
+  - title: "Build faster and higher with AI"
+    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
+    publishedDateTime: 2023-08-31T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
+        width: 620
+        height: 439
+        isCached: true
   - title: "Embuing AI with Ethics"
     excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
     publishedDateTime: 2023-08-29T19:32:00Z

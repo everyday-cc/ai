@@ -2,9 +2,9 @@
 category: news
 title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
 excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-publishedDateTime: 2023-08-27T19:33:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
+publishedDateTime: 2023-08-27T18:37:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
 type: article
 quality: 29
 heat: -1
@@ -60,15 +60,6 @@ related:
       name: Google
       domain: blog.google
     quality: 86
-  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
-    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 59
   - title: "Google courts businesses with ramped up cloud AI"
     excerpt: "Google on Tuesday said it was weaving artificial intelligence (AI) deeper into its cloud offerings as it vies for the business of firms keen to capitalize on the technology."
     publishedDateTime: 2023-08-29T20:14:00Z
@@ -193,6 +184,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
+  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
+    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
+    publishedDateTime: 2023-08-27T16:44:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
   - title: "New IBM campaign promotes tailored use of AI for businesses"
     excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
     publishedDateTime: 2023-08-28T18:55:00Z
@@ -221,6 +221,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "xRhwkvMsMHhRWXeLVf76aC0De2XSxhuOJK4wHuux19pDQIiNh/thcuU/GcQzLCeLIjrnT91W/RjG5GezRG7z+GVzxHcUNQZZgXIOq+0pFgfhpg61SZyTnr/fqDN5RjrH0i9wtgF3zCnZ2Q+fWrZidF4vmLIKpfeBLMZ7Vum3kYlnGnmD8ATa4uXNhSNg5Q8iZjETgPskNqmskizyXbY84mW+cfTr2TpeX02FFe0ZXqJO3rercNsBXFSx4qkLgrxvGnsYfH/4q6pDM7mYXZVyfyfxflVQDYPJ0eSGxusxikcTILGKI60RqmIurm2TK/QFoJhgbtdVTRfOSX6Lmmmgf/8ZTAon9zDLEGbQ+w/bBKU=;FPj4nwpy3eyigfQHRY1/MA=="
+secured: "zaDnJvFZrDFJbWubIPJZSvLydFiKLsSD/AqvFTe2yWTQaZC8EJNLHFjoirqp1TPciGjYAW8/RGAPKXCT9R8lr8Xkxf2gSfspYXo760VSTAJyMqMp+D13KauvAzg+sgkXACyxwRvJ1oeL+mC64vqXZFwtke0t+PlSehTzi2iVPWfvAWTHRUoVou6KjjTw9+JdcpIDDJ8F3WSzW8/SJve+SNuCA61aMMJbZ52tnp/EtqU70BQnKktLVbfGNqPfkBFluT1yywiidQAcPvn5NatVcBKXjmWe4Ixk0ci777fO3DDQkktUie5xpTQKu8uUzjgX0xvFoxqwiSWUROQTtEtMuxw2Wo+a4M3jVjOd9xXN1sw=;J03QxKPrUYQsoDqehVxY5g=="
 ---
 

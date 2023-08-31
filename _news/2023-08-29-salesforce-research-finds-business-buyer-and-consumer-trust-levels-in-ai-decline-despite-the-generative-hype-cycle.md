@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Applies Generative AI Tools to Cloud Security"
-    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
-    publishedDateTime: 2023-08-29T17:45:00Z
-    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
-        width: 1400
-        height: 957
-        isCached: true
   - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
     excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
     publishedDateTime: 2023-08-27T04:53:00Z
@@ -72,24 +58,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "When the generative AI hype fades"
-    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
-    publishedDateTime: 2023-08-28T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
-  - title: "Generative AI Is Coming To Mobile Devices"
-    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
-    publishedDateTime: 2023-08-28T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
     publishedDateTime: 2023-08-29T15:56:00Z
@@ -98,15 +66,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
-  - title: "Generative artificial intelligence has entered the classroom"
-    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
-    publishedDateTime: 2023-08-30T13:37:00Z
-    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
-    type: article
-    provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
     quality: 19
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."

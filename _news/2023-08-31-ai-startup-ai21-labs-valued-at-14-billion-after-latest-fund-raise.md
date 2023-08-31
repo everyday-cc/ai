@@ -1,25 +1,27 @@
 ---
 category: news
-title: "AI Startup AI21 Labs Valued at $1.4 Billion After Latest Fund Raise"
-excerpt: "With the latest round, AI21 has raised a total capital of $283 million at a valuation of $1.4 billion, the company said. Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-publishedDateTime: 2023-08-30T22:08:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-30/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-08-30/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise"
+title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
+excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
+publishedDateTime: 2023-08-31T01:08:00Z
+originalUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Generative AI startup AI21 Labs lands $155M at a $1.4B valuation"
@@ -52,16 +54,21 @@ related:
         width: 3608
         height: 2401
         isCached: true
-  - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
-    excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
-    publishedDateTime: 2023-08-29T15:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871466.htm"
+  - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
+    excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
+    publishedDateTime: 2023-08-31T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/08/30/openai-rival-ai21-labs-raises-155m-second-big-funding-round-less-two-months/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-08-31_082035243.png"
+        width: 657
+        height: 404
+        isCached: true
 
-secured: "TG5eVNOfX4nvF0CP5WJBuzV0a0C2E6BlqlCSf0ZYA7JYoUVfmxMfSMvIGF9FeHpgq87KVy3SuMUcJrjaTgSswEf3y1OUMCJDH6IZ35HbUnTH1qzGFtTqn4qWRDlL9i6he36VsgC31gbkpM727u4vgrg5D9xvRWq2VQJ249AI0R7kdWnkDSuuPxjR8HyELWaERfdfJUoC2u6RxbvD4l1sC9G0ibMdTgHIIvdN3tuKyEADVIUgJakJgZj7qGLLLVsaVi62J2luzJZKLaTTe5guzNMfDrYnJPs+4fgI3gcuFdkEkp6p/qBBiQLkEBiFjrOksv7t5/QaDKGm5KmKpZzfKpl6+EpY7ppmaC4Ir3fZGXA=;wRtJxF/wQ8SU9Vp0mRDqDA=="
+secured: "GtAVn8r/3aqvwZ93HEcHCjJJONS2kV1QPj5oEx7zb3NhaRhDPF7gL3mCc5SnRjuvQCpP71IleLNzNYgX55zakIB2C4wPtOWgYD9MXZvP+QrlOpttjvHImASWegDAZrBUjJ8ws0AknPnBc/sQPDeDRwU+uNe96Mn8OGE99gH4sYG+V0SYP0AvyHDsT1eoU+RB85SsTn6l8OHTwWluMoVVEJ4r6+dhjXnMNROnvcmDRzAP3WjhMORfo44ZkOWx2knwpm7KFWYmSI4n95/3kVF+Mgk7FVqABlim9RSQILQdxHAQLkBaLrWHhFg0XDM4NCJAAgr8XWWw6lUjlaq7PbQZzqgTkaZbKOhT/PGW+edudkw=;p8xC4TqJu9EI/D2yEc5SHA=="
 ---
 

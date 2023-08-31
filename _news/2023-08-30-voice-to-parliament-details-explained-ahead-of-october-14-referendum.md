@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament
 webUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-details-explained-ahead-of-october-14-referendum/news-story/f50a283a36ec9b0c26c7f31db3ebc827"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,52 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Australians to Vote in October on Creating an Indigenous ‘Voice’ in Parliament: What to Know"
+    excerpt: "Australians will vote on Oct. 14 in a referendum over whether to enshrine in the constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-08-30T03:30:00Z
+    webUrl: "https://time.com/6309565/australia-indigenous-voice-parliament-vote/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 43
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/08/australia-indigenous-voice-referendum.jpg?quality&#x3D;85"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
+    excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
+    publishedDateTime: 2023-08-29T21:15:00Z
+    webUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/"
+    ampWebUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
+    cdnAmpWebUrl: "https://www-mamamia-com-au.cdn.ampproject.org/c/s/www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
+    type: article
+    provider:
+      name: Mamamia
+      domain: mamamia.com.au
+    quality: 32
+    images:
+      - url: "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/cms_images/variations/1200x628.2722513089005-192408661474.jpg?bypass=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
+    publishedDateTime: 2023-08-30T07:18:00Z
+    webUrl: "https://www.aol.com/news/voice-referendum-australias-voice-parliament-041838760.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0f9a98c041f5fc27109c8cb19dfb70e2"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "q/eGkyEWEN/J2jOt2FQSc/Oe6SnrJCA8poW2p7SL4m/R4oHDPLuzYnRqB5r7DC+g3dZzYrirkTl8BQ/2WfddMB9Exp2PlXp09lwPmTMxlSA0TkX4aXP2DWiYJJOlRR/iM/OMr/uL+YtvyOTWbTLiTTXw0fSE0T6IYPysvo+j4gBcl/f00jylxEhUJ/hEcUdEnDKMd+lOvlUgyEVpN5u3Lf4hKns7MsUslaGlJO6wNwUnhFJK+HtkxZSkAgCTLyrTgzj2DgjWmc+h7hfPzQ7/2Lw3UZrfZRTzg9nJGvJo+FvLTYfqBWcPh/afnuQxDNqYwqow/mL77SH0KljaZXbZ1YstUxQVmW+3HDS605u8E95HjGzBiiPhnH1Y94E5l10DEdoahHELui1Jz/rojaGoU4b9fxDtIzvjc4lutHLibJFUZPxt8gOGat3fo3mbv5j33iYG70cXvHRZ1SDv1L15Cu8RjkTiWcDdPFffFs5vrOtwIAZ4lj9n08TNJR45qGrTz7EzfiEIqQkptPbRdWr7xQ==;JD6+/yjBNT2HBHzVMNVmLw=="
 ---

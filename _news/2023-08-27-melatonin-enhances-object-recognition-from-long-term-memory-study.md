@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/melatonin-enhances-o
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/melatonin-enhances-object-recognition-from-long-term-memory-study-101693125184566-amp.html"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1600
     height: 899
     isCached: true
-
-related:
-  - title: "Melatonin enhances object recognition from long-term memory: Study"
-    excerpt: "Melatonin and its derivatives have been demonstrated to enhance memory in numerous investigations using animal models."
-    publishedDateTime: 2023-08-26T08:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2571928-melatonin-enhances-object-recognition-from-long-term-memory-study?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2023_08_47_00_2744137.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "rytbjzEexO9AVtMRGSpgr4iQhWhXUXhQ12rCRWg7vS7bGIkWmxG4bCXuyE+Rh7sLD/LjsiHluVrPWo1cOQe7doS/PmmpH3PjmitPp5tDYzOLQe14ikk4kNxiKOndPynO/StGRzbnuVF18XX8Q5RDvv7JXuY3vaLQgiQ0WjkUhFPBfrXJdtGQhDnx1asYnGTdgAHCtGKtE5/1rPrlS7qlgy8coSfasqsDoSY4qXOcJMMiL5fzm0lS6Lsr51uXExFD9BHJs0xARQ3met6tj+Sk+AnrHWQOyKa3UqCS4aGtEChpjJnmtJ9xuqbp1JwOphmsbFHvEki6wuaslRr3KLdr67Szm9qGXgfaLZgXbJgbJDI=;YA5ucta7scAgiRmF+AnFLw=="
 ---

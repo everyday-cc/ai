@@ -57,24 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
-    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
-    publishedDateTime: 2023-08-29T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
-  - title: "Google expands generative AI model Med-PaLM to more health customers"
-    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
-    publishedDateTime: 2023-08-29T12:12:00Z
-    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 19
 
 secured: "xI47Cp1HAOGHIAwHddwe4vK74lq0DwRKtR8FNUIFgeJRkXaOo+ZdzfxMTNGfY3TbTronGl8EEpE9MtrURfjpCc+5xB180rFdLveOpjg2WrxdyLicwipJX3MGvPGADBGDabEBRvKCxzk1uR+4o5XjfXrmzacFvhs6bDEM3pNAacEb670nxMxbGmeodtr6bWs0o3dERS4tHuN+FqSDbq2j1EMnFqadCntlA8EVYsCOHw6xwU8ydgwZg4G0dcP9dLU7mUdQWm2UOT24ssRMhQo5RKBlDnvg6QGcN7cZoUQttatjYh5zlolgZ6ncmNra3ak6iHQPQGterd7mavonE1+gaAQr798MarXwht+55tm5xCcIgildflV+AF9ozz6fQeZPCCGoMWxuuJ5Y+VNzIi0DJLJ+cwSkVkMy9u0h7k5dhHuAgFpbh3g+KPLwhD2+myGWA+9C/cwVaKhgSK3Ln6jPivuoWczGSor8XePHWd5pW4SquIAY3CIDMR58X+vEXJukEP377B2m615gcFK6mKsUAA==;wC2FgWoOnnRWZxiYeT7dOA=="
 ---

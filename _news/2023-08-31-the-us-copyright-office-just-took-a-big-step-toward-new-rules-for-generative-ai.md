@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Automatically generate impressions from findings in radiology reports using generative AI on AWS"
-    excerpt: "This post demonstrates a strategy for fine-tuning publicly available LLMs for the task of radiology report summarization using AWS services. LLMs have demonstrated remarkable capabilities in natural language understanding and generation, serving as foundation models that can be adapted to various domains"
-    publishedDateTime: 2023-08-30T17:08:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-impressions-from-findings-in-radiology-reports-using-generative-ai-on-aws/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14850-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI"
     excerpt: "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million."
     publishedDateTime: 2023-08-27T20:35:00Z
@@ -207,15 +193,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
-    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
-    publishedDateTime: 2023-08-28T12:36:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 14
   - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
     excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
     publishedDateTime: 2023-08-28T21:25:00Z
@@ -226,6 +203,6 @@ related:
       domain: eurekalert.org
     quality: 5
 
-secured: "BCtU8At3cYwymVmOcbhZtJBfn5Cf0ufSn+X/ls8ElYeCzYoOs+i0ZPGQ/umbviCTre7cx2G3Gf+U9vZB5C7GyJx2wG2TTItdzW3in5LX6Ju+QQrsmq1gArzm5PWFzm1VB0wCtc/oSXtht56J1H90a3IPjnUx2i1KuHK7zLgGOTZWo4MH/vY7ILqYP0VzosfwgmX1HYdEaxXctK6gUhl7CfXF7YvUf5+vruLzTvMVHxaBQE/Gd0OqcAnhoTAAX0Ay0Yhh5qEGq554B/Qp/wuItBFnn+cOxZlF6lEW5FoKUAsTGJY/PwjjXm+4hGP50oaAvYqWDNo7H6NJUn9MQ0YsQ98fZ5+gnbPl4KzKbnh8Mgc=;ahJHgkKjouy44HHvpso3fA=="
+secured: "pKCjtZ4mTxWCHaR6bwtZDFtl5Qr73zC5lNVORcc7Qu4g2puZJKumQ52iS20vIOE84LR4we2uYdUSU171QRlIj8+VSk017McUUFvC+pNeNRfG9p12riBXZTuG1OFSBXDkz3T3q4KWkGjJI/4OBJUv/abRhfFbdaFTHZoQ0SBXORHJxKxqk2NLCIxZAEWu++BNn4AHOXUK7INgP1Yp/+tGMJlJrxWeP7etEt9M1THjTljZuQSw7sIymWz05uszQkMZQRNFUmHhwxbuujnL9XtKH+JJjoACYk5gkAzwR6JU7TULVvWX4RKkgagEzOVN/0yCjksnI9kaeKaeABEPwWvCDHKJoatK3rkgN7x4l9VKSKp0w/w5ZIDX4ifg+mW/aLpfJuviu3HV0JaZGVLOihjC7ADswOOmgiEx0zDZWw2/+rZdthnL1FTyoudBxBvnr8xd+zQm1fdKJiwH2x0W0aEELKluMhJfkDegg5FuaZqpJuVjJEWLnS0ZumA8DvEj/vpG1BXYi0h4U0AcLdnEgXjHcw==;HPoDxZTktm17B5reJEW3YA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://startups.co.uk/analysis/ai-future-proof/"
 webUrl: "https://startups.co.uk/analysis/ai-future-proof/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 390
     isCached: true
+
+related:
+  - title: "AI In Viral Work: Kill The Cells!"
+    excerpt: "You could say that, as a rule, antiviral work is the process of enabling antibodies. The problem, as Gifford puts it, is that viruses can ‘escape’ from the roving healers that consume infected cells."
+    publishedDateTime: 2023-08-31T01:44:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64efedee9894ff252cdcb96f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "4vzCCX8mfOxRkjpk+ZBTeKs8cl6rWctmzCYQb9KOq9Lt0T6gGTIVozhkWRdvVbAlsmPd1RTtLQLxfIxaI9N36kyf5a4ejZIkAQJg2+rQyo96S72YS7CsNbrfiMebOaKLhnmlM3G+QeeBJsQxslVMUdrrOKAdlL8qTSscA1LMKI4wJr46en2IhXos+KwTiijGKHxzO4eidiLLRq2cBrPJgzENdBNB3BQLFHILER6a33xiZEzJ3RRc/QVSzSIPP+ZokT7436nK48h74Z1FuGI4ELJAX/zcVbVg7g9z0qxozbLRqDordxUUILDg4+co/P5iRT8QecCMFtOMiCBCIHiX1q22CX/dvKjh8CIwX2yeb0g=;lUM613Blx02vL37HO5NvMQ=="
 ---

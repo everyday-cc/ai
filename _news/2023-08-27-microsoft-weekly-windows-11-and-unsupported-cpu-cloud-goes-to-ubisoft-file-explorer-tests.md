@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupport
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Discontinues Kinect, Again"
-    excerpt: "and it worked to leverage machine learning for better processing and easy integration with Azure. It even provided a simple way to sync multiple units together for unified processing of a scene. In many ways the Kinect gave us all a glimpse of the future ..."
-    publishedDateTime: 2023-08-26T08:25:00Z
-    webUrl: "https://hackaday.com/2023/08/26/microsoft-discontinues-kinect-again/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 54
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/08/kinect-dk_whats-inside.png"
-        width: 803
-        height: 452
-        isCached: true
   - title: "Microsoft being GPU constrained is potential risk, UBS says"
     excerpt: "Investment firm UBS said on Tuesday that the risk for software companies such as Microsoft (NASDAQ:MSFT) of being GPU constrained is a \"reality\" and could impact their abilities to generate AI revenue streams next year. \"Microsoft and others are facing a ..."
     publishedDateTime: 2023-08-29T12:40:00Z

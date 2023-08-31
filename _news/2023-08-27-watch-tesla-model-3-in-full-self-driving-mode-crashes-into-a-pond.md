@@ -35,6 +35,38 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "NHTSA demands answers on Tesla self-driving mode"
+    excerpt: "Prior versions of Tesla's Full Self-Driving software had a feature colloquially referred to as a \"nag\" that sets off a warning alarm when the driver takes their hands off the wheel. Read More GM invests in company developing lower-cost EV batteries ..."
+    publishedDateTime: 2023-08-30T15:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2351693402928/2023/1/3500bda9ca3a580ea6ebb2512f07b3a2/v1.5/NHTSA-demands-answers-on-Tesla-self-driving-mode.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Feds question Tesla on no-hands driving"
+    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
+    publishedDateTime: 2023-08-30T21:52:00Z
+    webUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/"
+    ampWebUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/08/AP23213424013169.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
     excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
     publishedDateTime: 2023-08-29T14:58:00Z
@@ -51,6 +83,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk Live Streams Fully Self-Driving Tesla"
+    excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
+    publishedDateTime: 2023-08-28T19:50:00Z
+    webUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
     excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
     publishedDateTime: 2023-08-30T17:14:00Z
@@ -65,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-30T18:47:00Z
+    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 11
 
 secured: "UNUj5mmUR/JoRCg7Y6/QWaH9OtrtNEzXA3A7I+q+fDuzekyl8ZKziUGSryR7kBVtjECRIwymPdp50TQNinieyOfenpyWTy4M49pOOXHpY39GivL+xqNvF2mBgc3bmIVDB1i6Ao2+m6HtXDihqLlgP32yuskE5T0MJ0jZEu+N5ND04gngA9LexN55mbhmNqIj28lr9WGpFI+yNIdOpTXb7OOFhXlmfkuygw0Vs6XmiE+IM4u9A1tjQJEbIq8gdN+iubygnjt4SBz8mpkxuvzKBPKG+kOwVlubowIGdxbtzLiclbKuHvDo07vZo+0qHiFvwgHds6bC9M81mR33XXry3DpTBXCV8rvgJn4YoOVOUiA=;Nk5KakOh6kdO7CryaBvUvQ=="
 ---

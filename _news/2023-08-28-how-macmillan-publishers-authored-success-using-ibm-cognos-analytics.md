@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-macmillan-publishers-authored-success
 webUrl: "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
-    excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."
-    publishedDateTime: 2023-08-29T13:44:00Z
-    webUrl: "https://healthitanalytics.com/features/using-algorithmic-privacy-enhancing-technologies-in-healthcare-analytics"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 38
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/GettyImages-929616572.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "3aA1u60e2+PHq5g0mdZG8klzqU0cVPpmfXGhqo7R1JVlv5nxspb+87fnkvbLdhQ8k3HCkrpBk9SbXiZtHlu8+NN2qAJT/MS5D2dcg39Pn0oGYkXcCdRTwZsgAfoVe0eFHP/pMUwQredpWtIm4/9ZvUwSL+KAMoBLmPeX2qUoYmkXaOn2ZdEw33ZAxriPcN1VlsCzzx8sFXXFMguxGIak9QnJ2/mfrOjeDxWxl7X2/Re58JhbHMeZ6HBThxhQ7Ubj/HWD9DlgozJF3kD855L78Lr7QYOeBGTjlVbsKvwggjEo1wyfmPOd0/SJOyZCoC6vNqyqFU4eYryApmrTVUyvus7EkL62mCGfie5QXYDPKxM=;MrU18IwWezENvyS6knhsfQ=="
 ---

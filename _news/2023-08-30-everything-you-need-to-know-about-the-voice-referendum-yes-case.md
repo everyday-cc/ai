@@ -35,6 +35,20 @@ related:
         width: 629
         height: 420
         isCached: true
+  - title: "Here's what you need to know about The Voice now we know when the referendum date is"
+    excerpt: "We have a month and a half of campaigning ahead of us before we vote on constitutional recognition for First Nations people."
+    publishedDateTime: 2023-08-31T01:09:00Z
+    webUrl: "https://www.ladbible.com/news/the-voice-referendum-date-624000-20230830/"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 17
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt619fa4b381378967/64efd8e4cc9d3b6f743a6ceb/the-voice-explainer.png"
+        width: 881
+        height: 495
+        isCached: true
 
 secured: "Kf5EEi7PpAvT+TEjcAe4raBnV3ji0G6ivIhd4Mx0+41MqgDfw0Jqlp35cbrsIiRbJ4iOxVnCVvv4UQvNtTQPB0H1d4wTBFc1zKfch4hdN8ZpTM2L/nKErnJDcHPTS19ZSJ58Wj3IXvE6i7fOnrVJSazyFPsF4Vs+WVANaqFRNo6zN0DcqTUe/gOPntZ3xbSSfMije0P05OotPI9n75pDAdyTt8UtpBQHuAMlNSZiJN+cLiOqfeaHnHQbyapd5Sqc4TJOvVrZZrKR2TxanKzPsT+CCbpS+5f5XFywXmfpzmbcx9aiWT3kuLWbbOTd4i3WjlfjQ1yf624M9RF6knMH/7CZz0hvUMBtkpaY6M9KfcuC+Eu2Tf0ZHELGdqk6/LoWXj0EuUwlwaKah/Nio5rJy6DXQhvloDENgoW4reYGk45Pupr5RDkin+xQh4EOxEms3EPcUTV0d6MORTb9d1z80Aas4vykdneLZr7Dpc/pjBbG5j7B0IPjKRTHxmYS5WEIKKL5+4MKoR+CeBpSveknAA==;R3wB/Z6fDtyKhw54pPaIKA=="
 ---

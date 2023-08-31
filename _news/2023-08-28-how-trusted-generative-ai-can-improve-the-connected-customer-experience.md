@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-trusted-generative-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -61,24 +61,6 @@ related:
         width: 1075
         height: 614
         isCached: true
-  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
-    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
-    publishedDateTime: 2023-08-29T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
-  - title: "Google expands generative AI model Med-PaLM to more health customers"
-    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
-    publishedDateTime: 2023-08-29T12:12:00Z
-    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 19
 
 secured: "0oBDo+aOnz4i9qdCbYeJ/sUYNKuQWRkYC6984bqD/86C9wglVBrKcSetucmtVQEwQAkDTetJoC/rQkv2iI5Zn/WfNNbHYZkxoxETVsent+/h/aDXqEfDvcVobHA2cnNCWf3V940/TmK4GCyNyYB8cXdG+n9uK34GHnHeIldTHe5D5k5bx6YVUrYo7H40rEXpXyIqnQ6T5VlQ5lR/KWwwWlfltnhEnUhQcbSGE5iatIQHKCvi+0FbTUzEtyMz5e35oy88kZBtMw/aH2i0TK0PZftVdQ5eIuqFV/b+HmvBxqUoL6INga65CSUbVXZ3wDK7swojO97u6m33zKm8sglLUJn587MhUhRgidPwL1nA2QFEA93zWlbQVvx/syL4lg+pGRGVf/owXQy9ZYDFToCnLIEDuHMxrRciE6wsp6eI72rfgSyHFTN4AAhoRlesnCcgiVs4INq7rHA0eOaYPTgmFXryunWWlg/rDRAxwvODkduqW/5z5FiYK10RYGZbPUb6aI2JVqRUUQUPqxqLWMU/oQ==;y6giGvYLXavS7FiWGEhVOw=="
 ---

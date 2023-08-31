@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving"
-    excerpt: "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner."
-    publishedDateTime: 2023-08-26T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/"
+  - title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
+    excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
+    publishedDateTime: 2023-08-28T03:07:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 770
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Feds question Tesla on no-hands driving"
     excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
+    excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
+    publishedDateTime: 2023-08-29T14:58:00Z
+    webUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/"
+    ampWebUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-uy2nyfww9-1693318939415.jpg?quality=75&strip=all&1693304575&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk Live Streams Fully Self-Driving Tesla"
     excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
     publishedDateTime: 2023-08-28T19:50:00Z
@@ -68,19 +84,28 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T15:10:00Z
-    webUrl: "https://chicago.suntimes.com/business/2023/8/30/23852209/tesla-allowing-no-hands-driving-autopilot-longer-regulators-questions"
+  - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
+    excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
+    publishedDateTime: 2023-08-26T17:48:00Z
+    webUrl: "https://carbuzz.com/news/watch-tesla-model-3-in-full-self-driving-mode-crashes-into-a-pond"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 25
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 34
+  - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
+    excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
+    publishedDateTime: 2023-08-30T17:14:00Z
+    webUrl: "https://futurism.com/the-byte/police-elon-musk-distracted-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
     images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/d7217f9/2147483647/strip/true/crop/4570x2609+0+438/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FFOWvzkH2pGevQlpQzuUkrDz9cPs%3D%2F0x0%3A4570x3047%2F4570x3047%2Ffilters%3Afocal%282357x1938%3A2358x1939%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24884105%2FEVCHARGE_08XX22_6.JPG"
-        width: 1461
-        height: 834
+      - url: "https://wp-assets.futurism.com/2023/08/police-elon-musk-distracted-driving.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
@@ -91,24 +116,6 @@ related:
       name: Los Angeles Daily News
       domain: dailynews.com
     quality: 11
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T13:49:00Z
-    webUrl: "https://www.wspa.com/news/national/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 5
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-30T18:44:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 5
 
 secured: "6EB9qM03aDKUDOiQAXFc8KwdskS8CcmMSgBmUm7p9ynDgGfhcPRnSCrMcmhzeLngk0kmmu9ga1gqqXF8xDOYOt1cxBJJIUSqOsM1P4+zf8/QrNGw31ijCBV1YEhRgSgtUPOulQ4W5DKeRlmcToHlbIoYpJOTKkax8pYnD6gu+h6AoTpFvneulZKyVgnMvrVBtEd6cBzepX+dPSBNiNAV85bm2asSxPWSou8tw4PbKSJ4KQhIRr9o5o1pqgKIvan4QxGKgFQHivvhJaEWu2XGxIgslSC0VNdPU43XNXp9brl7tnE6386dfgHnFoO2NRWucRgvT0MEjMrLPHJuUTBDsMf07OPh3uukVxvjV9fyWjrFFz8iB8Tdd54RawZ7y1VnFH5vEqXjnzGSUsd9FGPyXQav8mC2R3DIHzLJSjaw/+ow4V5ktvmmbzf9/RcACq9Z2VSuNoZkBXJP+0lQW5zEnxWGyr1zNJ5QfHTrTpcnxf6YAjUKGUEfPos+KLcwW2CzDBfpHGZhLS93uCfg5/ggwA==;CbIxa6cxedmcNEeDJpZgSA=="
 ---
