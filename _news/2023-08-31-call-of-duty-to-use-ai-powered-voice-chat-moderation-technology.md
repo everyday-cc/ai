@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/call-of-duty-to-use-ai-powered-voice-ch
 webUrl: "https://www.pcmag.com/news/call-of-duty-to-use-ai-powered-voice-chat-moderation-technology"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,15 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "DoorDash launches AI-powered voice ordering"
-    excerpt: "DoorDash launched AI-powered voice ordering that answers calls and provides customers with curated recommendations."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/doordash-launches-ai-powered-voice-ordering/"
+  - title: "AI-powered hate speech detection will moderate voice chat in Call of Duty"
+    excerpt: "ToxMod is an AI-powered voice moderation system designed to identify and act against what Activision calls \"harmful language\" that violates the game's code of conduct. The aim is to supplement Call of Duty's existing anti-toxicity measures, which include text filtering in 14 languages and an in-game player-reporting system."
+    publishedDateTime: 2023-08-31T20:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-hate-speech-detection-will-moderate-voice-chat-in-call-of-duty/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-hate-speech-detection-will-moderate-voice-chat-in-call-of-duty/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ai-powered-hate-speech-detection-will-moderate-voice-chat-in-call-of-duty/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cdmw3_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "OCsjPuqdRjc946r5ClpwPeWX6Oou1ZgxZuvcrKwjRCosOy6abAfFbW2zsp5ffG/nkMNa5sfoGyzfLAoqIdy9cL0+Al+j7eRdknFyB13UW8/NSnLVCBOJ78D8mFwYkyMODY77H/MSgtU2QiRX0okTO2JCbRbjJ9BVO2HyEUyOOQ55ARUWFXlEiikrAnY/TuuRLKfu7Tidx853wrQ+cGaBhe5gk271OPOQKz7dfMNyJ0YAMpmlWUUyzJN9rNPsv074Y1cMIiz+C8/K6CyiZTGFHBy84ZatjuzQFeLBnqcHiHHG4WknUcuw46ZYj6IioRS19/1jWFaUFI5bktdnaeAwskT/EfqIfu1JhRlA050vASY=;vBUNBh/CyQYCXVmqOQVvaQ=="
 ---

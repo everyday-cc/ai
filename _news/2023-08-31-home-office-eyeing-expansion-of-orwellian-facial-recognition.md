@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelle
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 574
         isCached: true
+  - title: "The Ethics of Using Facial Recognition Technology"
+    excerpt: "Although it may resemble something out of a science fiction film facial recognition is more prevalent than one might realize."
+    publishedDateTime: 2023-08-30T17:34:00Z
+    webUrl: "https://pctechmag.com/2023/08/the-ethics-of-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 36
   - title: "Home Office and MoD seeking new facial-recognition tech"
     excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
     publishedDateTime: 2023-08-31T09:15:00Z

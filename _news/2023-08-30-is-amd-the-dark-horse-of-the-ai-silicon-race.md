@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1190
         height: 793
         isCached: true
+  - title: "Why AMD Stock Is a Must-Own AI Chip Play"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this year, Advanced Micro Devices (NASDAQ:AMD), commonly known as just"
+    publishedDateTime: 2023-08-31T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-amd-stock-is-a-must-own-ai-chip-play-1032597614"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "3GPzOblicRaJRyJ175+8hNTRiUtOOAhoFPH6hiVPLnNh658ksRRZ+/NKkVSJIQ25If0PYbr2wbVQhkAFU6IQiAbjtqkjjm5I4+CEgf0imU1vu5vQaWR8TtqFGWm4QLte3DAL8rzAj78dSqdmrdW9jyFDjmD37/UnsMmSed0XXntwRq6UHNcdTEWnFizd+HcNiStWhYTtXlNqKBRs5FHeh1BXZHA3BCAa6tNMJaOCJks7D01Hl+j/tNZ9WCxgM5K+Idtc6YzG5ibxHAGPg91wGST5YgxciAfGco1e7wtto9n7fvKpAPK1GqFlX5ZgRitJGAtblw+/fHLGgkuUwzMwCRZIjqy4N5QDfenXOAIKBOzJlhVlExNH2I8h7KWsdhyRAD2eQB+cUQAgeIsCLYO0EeHQn/8rrUsD4c2OstMaJ/bkQ4wEBcBnZJgfdsuCUsW2MQ+BBvKyp6JamcZvIC2dScu/jdav7mT77B9xlL1KOYL6TYLqNZwT6OYlHiKQ5w/cieYmzW4bDuMsKRFUgIhCpg==;hgGOyZYql3jK8QXHkBGMIg=="
 ---

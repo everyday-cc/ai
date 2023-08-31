@@ -246,6 +246,17 @@ related:
         width: 4160
         height: 2340
         isCached: true
+  - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
+    excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
+    publishedDateTime: 2023-08-31T20:49:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/in-the-absence-of-clear-rules-students-using-ai-don-t-know-if-they-re-cheating-survey-1.6543380"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 31
   - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
     excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
     publishedDateTime: 2023-08-28T21:25:00Z
@@ -256,6 +267,6 @@ related:
       domain: eurekalert.org
     quality: 5
 
-secured: "2dN044D0YDzuGaz9SaUygNR9CSxEwHWh0XbBiF71AHJJ/ovIOoq/jgS+6o8nHt+urkBZfeg6hPbp+Jjkutfj2PQ0PX9HqRJRVD4vZJhY2XryndO56w6H88F9eaVYF0ATGenk0Gs5xduyoBAMtLvbAQvuV5+5QS9KtT7Wduv95gf1MOoHm91VnR7CMe5YNwZVSdRDOjAVlEKwTiMdUgyzarDQc7f4O/wBDPK8Q2SsslI637Pk14gMdOj8ulVHyJd+BuNeF0TZV+A30m6X6uI1LGwAUBsty0WLpd9fU9PgOa08Oz3sgb27NZQ37mmGLhqbEm7ELRyxVCZKE308mKLq4WZ4LV6onovdFSs3BcLWabM=;UjsGjNhxxhewEhKMqDHtqQ=="
+secured: "EKJKJucBcCqK/PJPOMXhyT7+PgsaRk/NHHHDXdYyr4bmuFIyKD5+cnw/4Q6fVbZjhaN8zWXAhc+64C4Cr0ZNVPnzwF3k5XYRFVuVtJ5Fs1XD+p2nn0VdKjhxnr7IPsIBKYxCLMPRulTyZKMY0k+3S2Tm613Mv5QcZ6FGVRa+FELel2ZG0vIXcLNlh7td4oukbKEJdL7pZ9Lk65FTQ9IEmRHz7VFrsycRG+LYnY4jsil1EW+uBkWIcA5L9haAuqsiBd5jSc7hNM8D1UuUtvEAJ5q+0dZt6rfaB1QCVfyrV+I2H0ZZ8U0nZ0H/cIQuT/CoQJ68kBLUA2H1TJRI0EvyXMPPTY/EdOcr4OPGwTcLQvZiTOV2+RbytURZzKx6fM/a0PojxsmoWMKQCadSM+ItBTXkMNuQMzSB49QGnNOXN/dH4VlreLXqHXkiJtOypG5CDnBfr3jGAeCwwTF8kuWfeguiBHyqacNZaoxrQa61sLLP71mhJkTv+fwYjah1q4VZORtguavBAP7eg8CB0njFGA==;XhheuOXn33Ht889CGx/+QQ=="
 ---
 

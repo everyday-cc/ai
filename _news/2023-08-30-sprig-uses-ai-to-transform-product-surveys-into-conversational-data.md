@@ -86,6 +86,15 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
+    publishedDateTime: 2023-08-31T19:00:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/08/31/vmware-introduces-frameworks-and-services-at-explore-conference-to-enable-enterprise-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
   - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
     excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
     publishedDateTime: 2023-08-28T13:05:00Z

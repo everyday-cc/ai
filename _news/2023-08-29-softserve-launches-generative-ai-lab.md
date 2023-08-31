@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
-    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
-    publishedDateTime: 2023-08-27T04:53:00Z
-    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 51
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Salesforce research finds business buyer and consumer trust levels in AI decline despite the generative hype cycle"
     excerpt: "That human validation aspect is cited by 52% of respondents as a factor that can increase customer trust in AI, along with more customer control (49%), third-party ethics reviews (39%) and additional government oversight (36%). But the main thing that ..."
     publishedDateTime: 2023-08-29T10:28:00Z

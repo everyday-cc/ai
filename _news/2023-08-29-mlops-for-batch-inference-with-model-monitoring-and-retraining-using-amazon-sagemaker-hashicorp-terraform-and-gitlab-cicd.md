@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-infe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-ci-cd/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Use Amazon SageMaker Model Card sharing to improve model governance"
+    excerpt: "One of the tools available as part of the ML governance is Amazon SageMaker Model Cards, which has the capability to create a single source of truth for model information by centralizing and standardizing documentation throughout the model lifecycle. SageMaker model cards enable you to standardize how"
+    publishedDateTime: 2023-08-31T18:11:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-model-card-sharing-to-improve-model-governance/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "EyNZDghGh7Vk+kRjzkjRB/vbpnA+NsTuc1Bhz9b/Mz8rnHP7b6BWnDkCLU04+ViHdu4vFfjIrTkRP57bsEc5MfRA3wyr2TUnWGyKeiw1MdIDOQkSNrLXwPEYL6MNkZMEuuMSmVlAoGl+NrIW5l8yuVOiGXRnGONXvbHSY/O6hA2lQhbQIENQhiHc7p7VIhcYMrz3gal+AFME0rPk0OrZS4I43AWqiBz98oueG1dkcWJXTOW0cGvbsZpqedGYhBjAXteR7hLUh4ndAFrp8/M99swlv7Wi6TcJDJzzg5mXotxj30eWAhsEcoeasbcyGperUom4Zl6cKf59N9oHTCaOgrHyvRgc8sehr3hNtgwSGVw=;iZ0HNsCf8h4M9WHmlFwCKQ=="
 ---

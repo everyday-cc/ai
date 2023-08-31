@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Tech Bros Want To Replace Storyboard Artists With Artificial Intelligence"
+    excerpt: "Numerous AI tools have been released this year with the aim of eliminating storyboard artists. The animation industry needs to respond."
+    publishedDateTime: 2023-08-31T17:37:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/tech-bros-want-to-replace-storyboard-artists-with-artificial-intelligence-232124.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 36
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2023/08/texavery_deputydroopy.jpg"
+        width: 1280
+        height: 600
         isCached: true
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."

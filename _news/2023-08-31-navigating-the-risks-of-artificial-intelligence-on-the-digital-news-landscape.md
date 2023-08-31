@@ -246,6 +246,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
+    excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
+    publishedDateTime: 2023-08-31T20:49:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/in-the-absence-of-clear-rules-students-using-ai-don-t-know-if-they-re-cheating-survey-1.6543380"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 31
   - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
     excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
     publishedDateTime: 2023-08-28T21:25:00Z

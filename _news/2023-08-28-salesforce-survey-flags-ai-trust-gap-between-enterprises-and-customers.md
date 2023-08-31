@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-be
 webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
+    excerpt: "Superframe can do this because we are AI-first, not tied to a legacy product.” Steer was previously the CEO of business intelligence software company Mode Analytics, which was acquired by ThoughtSpot for $200 million. The startup is entering a ..."
+    publishedDateTime: 2023-08-31T21:17:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f1028a9ef9f51fa285cca1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 698
+        isCached: true
+  - title: "Meet Superframe, the AI startup that wants to be your copilot for revenue operations"
+    excerpt: "Superframe, an AI-powered software company aiming to help businesses optimize their go-to-market technology stacks, announced it has raised $5 million in seed funding."
+    publishedDateTime: 2023-08-31T15:59:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/meet-superframe-the-ai-startup-that-wants-to-be-your-copilot-for-revenue-operations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 697
+        isCached: true
+  - title: "IBM, Salesforce join forces in enterprise AI push"
+    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
+    publishedDateTime: 2023-08-31T17:01:00Z
+    webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM and Salesforce team up to bring AI tools to their shared clients"
     excerpt: "IBM and Salesforce announced they are joining forces to bring Salesforce AI solutions to customers of both companies."
     publishedDateTime: 2023-08-31T13:53:00Z
@@ -32,15 +78,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI in focus: Here's what to look for when Salesforce and Broadcom report earnings"
-    excerpt: "When these two tech firms release earnings, Wall Street will be looking to see if their respective bets on artificial intelligence are starting to pay off."
-    publishedDateTime: 2023-08-29T16:29:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/ai-in-focus-heres-what-to-look-for-when-salesforce-broadcom-report.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 42
   - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
     excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
     publishedDateTime: 2023-08-31T14:33:00Z

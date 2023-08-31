@@ -59,6 +59,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
+    excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
+    publishedDateTime: 2023-08-31T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/08/31/google-launches-tool-that-detects-ai-images-in-effort-to-curb-deepfakes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google will put invisible watermarks on AI-generated images"
     excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
     publishedDateTime: 2023-08-30T11:12:00Z

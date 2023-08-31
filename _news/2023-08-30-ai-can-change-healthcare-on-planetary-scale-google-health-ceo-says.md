@@ -35,22 +35,6 @@ related:
         width: 925
         height: 611
         isCached: true
-  - title: "Benefits, concerns over AI in mental healthcare"
-    excerpt: "Clinicians, therapists and researchers are increasingly embracing the potential in artificial intelligence, also known as AI ... patients are more likely to respond to cognitive behavioural therapy, also known as CBT, and therefore be less likely to ..."
-    publishedDateTime: 2023-08-27T03:12:00Z
-    webUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/"
-    ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 74
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/27001333/AI-MENTAL-CARE.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "0CoRzuqSJrDoH13NN2fzhwhVxMRom4EwLdUquFz6SVLw4kGJaIrLIZgVBtPOcGTsdP2QHqdf019gvq7lvf+/otQ6YuYwKQNLx2lL6w02O5T/80nx7SFKyGi+SHoUboEArUyr39d9GP9rC2OVRUN995IL1V64pwe47ACYYTfTwoBflxR45IQnon1kGPMkqlQRfy2mcfXjJQWk7AKLcuIBMJj49sQtkbZ/qYYSKP/m55LkBXVk4/8GCCR1YHSWidl3+KK+prG0cwyOYJitMM4jsDvE1s35MrZQuscAN1bBuYBsjGVgO4TCa5wojsKjvdmHkXgcUCS7y16yYRFkh6zy044xWyVehR29VAgNp2rOC2g=;eZkifW3sid55QR1txAa9jA=="
 ---

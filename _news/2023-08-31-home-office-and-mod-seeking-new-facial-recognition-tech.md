@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 574
         isCached: true
+  - title: "The Ethics of Using Facial Recognition Technology"
+    excerpt: "Although it may resemble something out of a science fiction film facial recognition is more prevalent than one might realize."
+    publishedDateTime: 2023-08-30T17:34:00Z
+    webUrl: "https://pctechmag.com/2023/08/the-ethics-of-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 36
 
 secured: "8+BrhvH7rVp/LKGn/O4ibVWhUhTSwQXYGCQNPXtWP2/xHR/m41hYmDVmb19qk5rjhvMUc7GqhvSWO+qFgHX1cN3C8a48+3pWC249w91LW2C7kwlG+lvlG/jY7DbvPJHQt/Ag4/9dM9eCKAYCJn1xR78HhiX36HBz8mBNLQhCZd0n0Ukt7n+D/8K2gJiZhCxgpZYL/8lPSLRTAMOrOecIGuZzsOBFOaeNwMy/h6ylheDdCmPCNUAd8OHLADQeysh8H80GB+KKeoCQw1YCksnVdnXlygCS5YCQnfuix5OwBmnASOdmEDH/m9B4w8MCd/yv0aFXKbsG4aFbVWyOXOEtLn0C3PMZGno+g8YTTmmEfeRccAVWe8gcHDnHEf4KzTCy2QqfXYG27hE6I6cj8Yl8lvWnySVTI8WUz69xakgSFYBQnlN8O3rOHZiwqWLN70zfER6z8UMbQELJg5cI+cpGpp6mTSPNoWUfDM8BWiWbrXKMaZ1IX5pmKbjGl0QGvxxJAWbw9aQZpx0y/+KeN194WA==;/0dRchkYEbE0FN9Nfu0/xg=="
 ---

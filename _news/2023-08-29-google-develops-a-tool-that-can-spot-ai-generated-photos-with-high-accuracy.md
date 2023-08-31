@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
+    quality: 47
+  - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
+    excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
+    publishedDateTime: 2023-08-31T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/08/31/google-launches-tool-that-detects-ai-images-in-effort-to-curb-deepfakes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "Google may have found a way to identify some AI-generated images"
     excerpt: "The process relies heavily on Google DeepMind, but Google says it isn’t a “foolproof” tool that can identify “extreme image manipulation.” The reason it isn’t a foolproof system, though, is because it relies on the use of Google’s own Imagen ..."

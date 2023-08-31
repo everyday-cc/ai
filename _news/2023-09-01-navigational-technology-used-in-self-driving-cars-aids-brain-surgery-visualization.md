@@ -1,0 +1,74 @@
+---
+category: news
+title: "Navigational technology used in self-driving cars aids brain surgery visualization"
+excerpt: "Accessing the brain for neurosurgery involves drilling and cutting that can cause deep-brain anatomy to shift or become distorted. This can create discrepancies between pre-operative imaging and the actual state of the brain during a procedure."
+publishedDateTime: 2023-08-31T20:23:00Z
+originalUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.html"
+webUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: Medical Xpress
+  domain: medicalxpress.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/navigational-technolog.jpg"
+    width: 1280
+    height: 572
+    isCached: true
+
+related:
+  - title: "AI Is Not Just About Automation, We Need Personalization Too"
+    excerpt: "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith."
+    publishedDateTime: 2023-08-31T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0ab4d268c90e2d9b575a5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI’s Not Just About Automation, We Need Personalization Too"
+    excerpt: "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith."
+    publishedDateTime: 2023-08-31T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0ab4d268c90e2d9b575a5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "This startup is using AI to give people the power to create personalised photos"
+    excerpt: "Everyone wants beautiful photos. Whether taken alone or with a loved one, at a favourite location, or at an event, the desire for a photo that captures the.."
+    publishedDateTime: 2023-08-31T12:46:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/this-startup-is-using-ai-to-give-people-the-power-to-create-personalised-photos"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 13
+
+secured: "N6h9h1yoLoVOhdEmIELA0iJ21Xawc1M0tAKwH3h2AbG1EuYB0IyM2LN7PuyyyL/6AAOKlnAH8IyKE5gjoTwKZKTsMLuc+GVh4Ln/nBxVyrr1XdSNp3rZUNyuAIHOfvLYywBfv+s0iqH9fn6AlYGZro06pY7YzUFMVhpnKLjSJ8camIwlvfjuC/aW5Rg1saiAGgqVkV2gj2PkX15UHuiEiUA+15scaEEjnRFywTtKVwZ9/mqeYo7YKwEpdKp3ApE3amvc3A9u8SkLNClNBOdF3JBar4ldAEATwm2e2KsI5GO8g7vgP734trmgjJvHiwis2YIpIv4da0dn7tafmjvlKV4OsCqxnT3OwPLlMEMi01g=;Pzve6B0b7hq31D0eIu8xOQ=="
+---
+

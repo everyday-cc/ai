@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Why AMD Stock Is a Must-Own AI Chip Play"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this year, Advanced Micro Devices (NASDAQ:AMD), commonly known as just"
+    publishedDateTime: 2023-08-31T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-amd-stock-is-a-must-own-ai-chip-play-1032597614"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "1slCnEvleR82eCRqsN0kJUFEoi2l5vNw4H7MaidXpp3vJOeRJljGYHBGTNh4h08a9S7N7YC9IjjMc4HMUZCuL2/u+ZUBciKYgFwJWa7uO/H0qtlU7BFK8SJywV9geyRXE3iBvYItnXdG2LpRnhLyH1llwGfHVb21qDyLbRIZTGSyGDRacKGZHpqquSkVhuHZcOmvJ49m5/Ifi1o6ldZSFUL34YHgRIka7WgOQu3oEKBGEQ6HnDo3npE3TKVBjVC9vQJTAkX7JyzFkqabpVe383KNBeg3LkK8qcQK11nv0UyaSpyvXq9WvgRJZOKVbKNSsdeu2sO6Rmq9WlJBjoDsjx/M0qOI2oyhi2fS8yTNJmxHnpD/11OZ37K1/g/NTdr0rCYO2uLfvLw0DB+egH3QCdDpLqDwinmmgYBGSMc9AoCVDr+ZQxpaAX95UzkUYAAThec/UTtJuAAGi5hcuF0uU41zpOxke5S0oOcFBQmSxkZ/87eODabE9ZOxpwXHuH80ApWi1kElwl5vtJYAX8FsKw==;o2Ud9udpSi86YxJvIT6Eew=="
 ---

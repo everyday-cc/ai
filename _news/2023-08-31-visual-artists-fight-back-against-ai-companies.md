@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech Bros Want To Replace Storyboard Artists With Artificial Intelligence"
+    excerpt: "Numerous AI tools have been released this year with the aim of eliminating storyboard artists. The animation industry needs to respond."
+    publishedDateTime: 2023-08-31T17:37:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/tech-bros-want-to-replace-storyboard-artists-with-artificial-intelligence-232124.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 36
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2023/08/texavery_deputydroopy.jpg"
+        width: 1280
+        height: 600
+        isCached: true
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
     publishedDateTime: 2023-08-28T12:26:00Z

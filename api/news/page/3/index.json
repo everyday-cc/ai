@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-30-harnessing-ai-for-market-research-opportunities-and-challenges.md",
+      "title": "Harnessing AI For Market Research: Opportunities And Challenges",
+      "excerpt": "Sophisticated natural language processing algorithms ... insights within proper business context to translate findings into strategic recommendations. • Proactively validate findings by triangulating AI output with both quantitative metrics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee4143b3c813b9ed4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "publishedDateTime": "2023-08-30T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-6-ai-tools-to-make-building-business-relationships-10-times-easier.md",
+      "title": "6 AI Tools to Make Building Business Relationships 10 Times Easier",
+      "excerpt": "As AI becomes more and more integrated into our lives, the evolution of AI tools for business networking holds promise. We can anticipate the development of even more sophisticated AI tools designed to assist professionals in maximizing their networking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1692992802-ai-tools-business-relationships-0823-g1500238079.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-contextai-wants-to-merge-product-analytics-sensibilities-with-llms.md",
       "title": "Context.ai wants to merge product analytics sensibilities with LLMs",
       "excerpt": "The way it works is customers share chat transcripts with Context via an API. It then analyzes the information using natural language processing (NLP). The software groups and tags conversations based on topic, and then analyzes each conversation to ...",
@@ -295,7 +399,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1154,101 +1258,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft.md",
-      "title": "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft",
-      "excerpt": "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
-      "originalUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
-      "publishedDateTime": "2023-08-29T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-cicd.md",
-      "title": "MLOps for batch inference with model monitoring and retraining using Amazon SageMaker, HashiCorp Terraform, and GitLab CI/CD",
-      "excerpt": "In this post, we describe how to create an MLOps workflow for batch inference that automates job scheduling, model monitoring, retraining, and registration, as well as error handling and notification by using Amazon SageMaker, Amazon EventBridge, AWS Lambda, Amazon Simple Notification Service (Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-ci-cd/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-ci-cd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/29/featured-images-ML-10695-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T09:33:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

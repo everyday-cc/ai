@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
 webUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 619
     height: 377
     isCached: true
+
+related:
+  - title: "DASA to explores facial recognition for policing"
+    excerpt: "The Defence and Security Accelerator (DASA) has launched a market exploration on how facial recognition technologies can be used in policing and security. It said it is aiming to identify capabilities that could be deployed within the next 18 months."
+    publishedDateTime: 2023-08-31T05:20:00Z
+    webUrl: "https://www.ukauthority.com/articles/dasa-to-explores-facial-recognition-for-policing/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 19
 
 secured: "e4Pf5CeXQlZH0bkUuzOLOs9OBjEwm9GNB9WHJQojvLw5gV/0wi52ldEu0+opR71d/e1GcNm6V8bTA3sZsIT1feK4BMVBm9xbKwHb5+GstlFfaA9/6M9gPItV1/0JogX10LvYiwEVSS3b/+joQyaBoK47WMW31zFarp+eFauGegaEEhoA6KkFOivXRRl82PlV3VpdqE4ukWQwQiX96bPdkFVAQytry68mjHNhvUAfv/0PkjfxMsrDd6YHuqpRW+IydAS8TeSPC/Cj/+lUFyJ6fkulr7xmqBx/rp+Tjy1rXLbePqIILomH7enQ8T4i+PiWWuyfYQFx7OSpyHH/88gt+MS2eijhIni/LdCkLKCgTU6ui5AfVoe6XpIGZ0+0hFjXFKeDeEKvxoM5dm1kb22OhY67uYX6QkNxVj0uEaxZCmrcs4pFgVr8IssWbMQLNRIFAccyRFd+gDg6wcOsj0rDQsDp6VNJ/AFEIYszWoFFPOW2QeGlxN2X3rdRv8WsXyUuPZBkGaqivJqAjRWBX71UpA==;PhxHqntzVYBtJ5s453oCDA=="
 ---

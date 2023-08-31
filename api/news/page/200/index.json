@@ -2,6 +2,300 @@
   "page": 200,
   "value": [
     {
+      "path": "_news/2023-04-26-opera-shows-off-ai-and-tab-grouping-in-the-latest-browser-update.md",
+      "title": "Opera shows off AI and tab grouping in the latest browser update",
+      "excerpt": "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
+      "originalUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/04/A_Opera-One-Dark-mode-16x9-1-1.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service.md",
+      "title": "Coca-Cola makes bubbly bets on AI for creative, customer service",
+      "excerpt": "In its first-quarter earnings release yesterday, The Coca-Cola Company made it clear that a focus on AI has become a 2023 priority.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
+      "originalUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-54.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
+      "publishedDateTime": "2023-04-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra.md",
+      "title": "Perform intelligent search across emails in your Google workspace using the Gmail connector for Amazon Kendra",
+      "excerpt": "Many organizations use Gmail for their business email needs. Gmail for Business is part of Google Workspace, which provides a set of productivity and collaboration tools like Google Drive, Google Docs, Google Sheets, and more. For any organization, emails contain a wealth of information, which could",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/kendra-gmail-connector.jpg",
+          "width": 958,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:55:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
+      "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
+      "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
+      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
+      "publishedDateTime": "2023-04-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime.md",
+      "title": "Infoblox: Networking And Security Teams Must Unite To Combat Cybercrime",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Infoblox's business strategy and how it is introducing a new brand identity with an increased focus on security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6448000f0e9417c9cfa3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 666,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/amp/",
+      "publishedDateTime": "2023-04-25T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-microsoft-earnings-preview-ai-azure-and-activision-takeover-in-focus.md",
+      "title": "Microsoft Earnings Preview: AI, Azure and Activision Takeover In Focus",
+      "excerpt": "Azure growth, which in the prior quarter slowed ... leadership bolstered by at-scale compute demand for emerging AI/generative AI data, training, and application deployment,” said KeyBanc ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
+      "originalUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
       "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
       "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
@@ -860,308 +1154,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030.md",
-      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market 2023 Expected to Reach Significant Rate by 2030",
-      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry-Request a sample copy of the report:  The Artificial Intelligence Of Things (AIoT) Solutions market has witnessed a growth from USD million to USD million from 2017 to 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-face-recognition-software-market-new-development-strategy-2023-2030-fully-explained.md",
-      "title": "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained",
-      "excerpt": "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-irbo-like-a-mini-botz-this-etf-could-benefit-from-artificial-intelligence-growth.md",
-      "title": "IRBO: Like A Mini BOTZ, This ETF Could Benefit From Artificial Intelligence Growth",
-      "excerpt": "IRBO invests in companies focused on artificial intelligence (AI) and robotics. AI is one of the hottest topics this year, as its possibilities continue to grow and could move more towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "originalUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435014643/image_1435014643.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-grimes-says-anyone-can-use-her-voice-for-ai-generated-songs.md",
-      "title": "Grimes says anyone can use her voice for AI-generated songs",
-      "excerpt": "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65385382.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp",
-      "publishedDateTime": "2023-04-25T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
-      "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
-      "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work.md",
-      "title": "Human values, as well as AI, must be at the core of the future of work",
-      "excerpt": "Automation too often erodes conditions and job quality creating anxiety and overwork. To build ‘good work’, we must invest in people as well as tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "originalUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d657064e917ca19ac473bf16b87b0cf90d851986/0_197_4736_2843/master/4736.jpg?width=620&quality=85&auto=format&fit=max&s=f33b3a001e254e0a4f65dfab06acb209",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "publishedDateTime": "2023-04-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

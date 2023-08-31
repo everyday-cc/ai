@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/pirros-a-startup-that-applies-ai-to-str
 webUrl: "https://venturebeat.com/ai/pirros-a-startup-that-applies-ai-to-streamline-drawing-sets-for-buildings-and-infrastructure-lands-2-million-seed-round/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Meet Superframe, the AI startup that wants to be your copilot for revenue operations"
-    excerpt: "Superframe, an AI-powered software company aiming to help businesses optimize their go-to-market technology stacks, announced it has raised $5 million in seed funding."
-    publishedDateTime: 2023-08-31T15:59:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/meet-superframe-the-ai-startup-that-wants-to-be-your-copilot-for-revenue-operations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 697
-        isCached: true
-
-secured: "rLvwvR15+IMnoKXXXNghW8iSBNBuK28h7tB5gaC0OZ/8mZeAq5ZxCwBmZ51fXif4RHTHSmVwtwHR72+tuRuHUolPLK7G+Xj+9JGD/3HZOJ1TxiKeRvBHpaSi3wTjKHSzmLL4xFeY+xeNDkRLfer2x7yTGpR5uSMV7OhTE8E/J6Whz0ujJJ6Q1dU5RMd6ne9sxxBupG10Dkj3Us9FdkKblGXyqhjmStJRIEuk2/DMLG1VPi2oacUgz4u+oDvqaVMm9YfyxUe9HH+OA/fAzN1NrgV4VU8dvVUf6aZgrH+RrPrFk7VbUcn61Pf8p9m6NxdssyWVMSXaJyzMi5MQryYAtoNWPu5HjPzSBA+8uvNjs+Q=;L20Eu1P+NvgMy2PnfaErZA=="
+secured: "5LdX5+01fNRyg+Ur+ImHaVyo5k55scokfW353qkl59oEQ3mFHuOkltSjWoA5imz0Caw4u0TPWYZkYPxV+VXdlAu4k2jppYQpJCpLAPVZOPREE8KCLwxfzdmYmToRP45M8b3oAwaop0ZBijbTW9L/CKTbI+njSXLNOH81YgTObks76nSFmrvxZ0QvKvdIiKq4cRJKQtojA8+xOnJgXv2j4NQYO5R7aAI2gIqFpu91vYcmcdN0eT9T8FktdZwqAD/ezWwpZs+c1LdmcHhJRUboB8qqcHjvayfJDbqBZzejgE4Y00C8h/tpEgRkRXx6/soH60i5ftSj0hWweA+KeRod4dhDI3OqcApxC+gfqttDSm3T78xTiRtaxTy2zd9KN2IY59xfzTGZsyeD+dtR4CqB0tr9Jm7qBSXIrAON2E8q5ZC5DRoJqrhtok+0n4Gre5lH149JZLwH968A+N+yKW1U/jnybwCD/PqL3AX+asAloi68DMOmC3IR9mdvbtwAHLYpo0CXUGIqfsNL6h9tbLYX+g==;bLCra7L1PZ88A0pFKUMnGg=="
 ---
 

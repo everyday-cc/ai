@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -251,6 +251,74 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition.md",
+      "title": "UW-Madison researchers fool voice recognition",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-the-i-have-a-dream-speech-would-not-have-happened-without-these-women.md",
+      "title": "The \"I Have a Dream\" speech would not have happened without these women",
+      "excerpt": "During Dr. King’s speech, Ms. Jackson, who stood to his left ... I like to think that they were influenced by these women who did not get the type of recognition and acknowledgment that they deserved.” Mr. Jones said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -473,6 +541,75 @@
       "provider": {
         "name": "The Journal Times",
         "domain": "journaltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
+      "title": "UW-Madison researchers find a way to dupe voice recognition security software",
+      "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "originalUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency-connection-and-recognition.md",
+      "title": "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition",
+      "excerpt": "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ...",
+      "sourceUrl": null,
+      "webUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "originalUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wacotrib",
+        "domain": "wacotrib.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1205,206 +1342,6 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-snapchats-ai-bot-sparks-privacy-panic-after-it-posts-photo-on-its-own.md",
-      "title": "Snapchat’s AI bot sparks privacy panic after it posts photo on its own",
-      "excerpt": "Snapchat’s new AI tool, My AI, freaked users out when it automatically posted a photo to users’ stories who thought the chatbot snapped a photo of their ceilings. They later found out",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
-      "originalUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023510159.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
-      "publishedDateTime": "2023-08-18T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities.md",
-      "title": "Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities",
-      "excerpt": "For instance, a device made by Facebook-owned CTRL-labs had an EMG wristband in 2019 ... several Portuguese startups and research centers to invest €78 million in AI research, creating 210 jobs under the Portuguese Recovery and Resilience Plan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
-      "originalUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Unbabel-Halo-2.jpg?resize=1200,682",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
-      "publishedDateTime": "2023-08-18T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-will-ai-replace-freelancers-using-ai-to-grow-and-empower.md",
-      "title": "Will AI Replace Freelancers? Using AI To Grow And Empower",
-      "excerpt": "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "publishedDateTime": "2023-08-18T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-the-power-of-ai-in-modeling-healthy-communications.md",
-      "title": "The Power Of AI In Modeling Healthy Communications",
-      "excerpt": "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

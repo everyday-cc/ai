@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Navigational technology used in self-driving cars aids brain surgery visualization"
+    excerpt: "Accessing the brain for neurosurgery involves drilling and cutting that can cause deep-brain anatomy to shift or become distorted. This can create discrepancies between pre-operative imaging and the actual state of the brain during a procedure."
+    publishedDateTime: 2023-08-31T20:23:00Z
+    webUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/navigational-technolog.jpg"
+        width: 1280
+        height: 572
+        isCached: true
 
 secured: "B2VK+q3O6gpkrpBMLNpW0HsJCLImEyKSMXQzk0iCbL7pMNFhEHn7eM3wMfPf6gztnbSKyRTUyuoWa1CO/oyf/gJU79VF9Nb82Ccc7KomhE3hHXtwLEfZMCuBFQ7ouk1a4D7aALFMshkS97Jh9KhVAgeWhiqTNbE3jb3hZ/HvsxPxYyze6vI+n71RlAsiy1soLiUkrPxiFa7CVb5RDMaMNYqmxrWKK0PjxpSxcOSsqttlIUdhybYLviJ7YZvFFIaU+WqgNK9FVhi7m81K6oyA/OvO6pfvMw7hbaFBnFGR8M/dpiEgReX7BDHf2ubV4cr900nLCSOpKNLTUc8N0Emle6HDcH6wuEYHk9OVELHHAE0Y1VZynJ1yEkHVpqpCpNIXcbvAJeHfGE37qWwZ16ZGbaanIR/8FpSkOAcC5rZUM0J6B0SfxYrZbeH8pjvJmzsLDi3oJV7iMGx8Yk1xjW0sirXX29IS9PQD1BrHHcYvPNRrERfPfU4K+E+Yhq4Z2Q6zRGB2dKqwLwnhR10IS3LyxA==;Zh8En9EDZlx6jkvPbyFmXA=="
 ---

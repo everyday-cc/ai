@@ -92,6 +92,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tech Bros Want To Replace Storyboard Artists With Artificial Intelligence"
+    excerpt: "Numerous AI tools have been released this year with the aim of eliminating storyboard artists. The animation industry needs to respond."
+    publishedDateTime: 2023-08-31T17:37:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/tech-bros-want-to-replace-storyboard-artists-with-artificial-intelligence-232124.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 36
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2023/08/texavery_deputydroopy.jpg"
+        width: 1280
+        height: 600
+        isCached: true
   - title: "The evolution of photography in the age of artificial intelligence"
     excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
     publishedDateTime: 2023-08-29T19:15:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
-    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
-    publishedDateTime: 2023-08-27T04:53:00Z
-    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 51
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Salesforce research finds business buyer and consumer trust levels in AI decline despite the generative hype cycle"
     excerpt: "That human validation aspect is cited by 52% of respondents as a factor that can increase customer trust in AI, along with more customer control (49%), third-party ethics reviews (39%) and additional government oversight (36%). But the main thing that ..."
     publishedDateTime: 2023-08-29T10:28:00Z
@@ -99,6 +85,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "3VvldCkeCi2dYz+4kLkLK7jNKYNLLQ00elZNPjZhEBFdGf/CUllr4WzBd9qecSt2KP+/zzhnMGzsu0mHiEdaLRs9bB4SpaMsMycsdpFew/+uJjhG5LtfpAWQSu9MJzLxOnrJGWroSmzYLVu7qA8scq2TqVCmr7VUo+mh/5EzR6tktX5QyFceVQXdKQxcG7Lb4vFUpUOW2mTAPVhbplCzsCeReZE2Z6PpB0W61lqRP/M7IQ2SfAC4h8gAiL0nVD4LQ9g3AwnVI9p62e7sZqyQdudAttxmkMu0+n08w790UVWJAI0qeTzB+vz4MfxpCJu2NVnr9+2xDYH/ejxlxizQEXFwtDQpGDx6mTPVBE9zNpk=;uTucWSdH5CPAF5yLrF/c+g=="
+secured: "94DJXgFi5DDVaPvOWOGNQi9oVjiXKQT7oSql+g3oG17BZ3LWdojmgHcZZUyMSuqPj2MWMvoc/zX5ZUdmV58Euhou6eTKRrJjKBvEPXWxfx7OhyO55uD2+EzWAwA1Ch3Zx+DOPHumpLo+DIHhCufpgAX4fy9h6l9TazkCE6JK2xHOgBvnn8xz1plCu4vKSomvU6eBf+8QNq8V6FMnVgdismkQb59HP0IY0C+vGnBFpS7e6k0KDqjlC9G784WdMAVAXXb4poicHuh/nGFj638h/8SRF1sxh8yIGsQ84PEbvcZN/nd+T0F/0pxHI8WwTiPXbQBhmhR81MQLPdpwcEZe8jFWBMqC79MsUj+GY/lKoAU4w1IndLApOIJjmqA9RdRBOaiwKTNVohNNqDJ1ZxhIqiasZrMo7Q67rMs3LSE4fmBahNtfQwcpzzOAyHhc6P2LTnoTymQmBa+JQ96J+0bxSdcooHu5raDTfM4bgMQYl5GnTEaw85ks1PWepFFxvM09x/iao3yAbY2v3aOZ+jSSdw==;KxeQ9JgcJVmBEgpN35syXQ=="
 ---
 

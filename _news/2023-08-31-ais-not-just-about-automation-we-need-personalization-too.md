@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Navigational technology used in self-driving cars aids brain surgery visualization"
+    excerpt: "Accessing the brain for neurosurgery involves drilling and cutting that can cause deep-brain anatomy to shift or become distorted. This can create discrepancies between pre-operative imaging and the actual state of the brain during a procedure."
+    publishedDateTime: 2023-08-31T20:23:00Z
+    webUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/navigational-technolog.jpg"
+        width: 1280
+        height: 572
+        isCached: true
   - title: "This startup is using AI to give people the power to create personalised photos"
     excerpt: "Everyone wants beautiful photos. Whether taken alone or with a loved one, at a favourite location, or at an event, the desire for a photo that captures the.."
     publishedDateTime: 2023-08-31T12:46:00Z

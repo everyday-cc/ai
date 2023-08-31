@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-29-delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft.md",
+      "title": "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft",
+      "excerpt": "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
+      "originalUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
+      "publishedDateTime": "2023-08-29T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-cicd.md",
+      "title": "MLOps for batch inference with model monitoring and retraining using Amazon SageMaker, HashiCorp Terraform, and GitLab CI/CD",
+      "excerpt": "In this post, we describe how to create an MLOps workflow for batch inference that automates job scheduling, model monitoring, retraining, and registration, as well as error handling and notification by using Amazon SageMaker, Amazon EventBridge, AWS Lambda, Amazon Simple Notification Service (Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-ci-cd/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-for-batch-inference-with-model-monitoring-and-retraining-using-amazon-sagemaker-hashicorp-terraform-and-gitlab-ci-cd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/29/featured-images-ML-10695-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T09:33:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
       "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
       "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -208,7 +303,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -734,7 +829,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1095,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1094,99 +1189,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-technology-shares-increase-amid-ai-enthusiasm-tech-roundup.md",
-      "title": "Technology Shares Increase Amid AI Enthusiasm -- Tech Roundup",
-      "excerpt": "Shares of technology companies climbed amid more buzz around AI technology. OpenAI is launching a business version of its ChatGPT tool, putting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
-      "originalUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
-      "publishedDateTime": "2023-08-28T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-siem-and-threat-intelligence-stay-current-on-trending-threats.md",
-      "title": "SIEM and threat intelligence: Stay current on trending threats",
-      "excerpt": "The evolution of cybercriminal tactics necessitates a corresponding evolution in defense strategies, driving organizations to embrace advanced security tools. Among these, Security Information and Event Management (SIEM) solutions and threat intelligence stand as linchpins of modern cybersecurity. By",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
-      "originalUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T13:19:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 640
         height: 390
         isCached: true
+  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
+    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
+    publishedDateTime: 2023-08-31T19:54:00Z
+    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "/PoIxkcLYSjprboifGcYaUqar4KExPU6kSQv06ElGiSW2ptr9jMzFLKr94CfNxi6TmACr/9soVypegwjWBBRPgO2MzflDNdXld2LENqBrT11pEmae3g8nNXG9Q09y6+5SulNInmB1p8oUTEM9sDN6mDtwPwZTxDS2Fcfa7EChgovSYpgejhmleVyHUlFm9FTknv/8Bq2TkB0aCBzFYdu/N5TZ318ulEkRlhetUCf/dufCn2Edz2ULwAd8kLLW0K1K0XC71yduEdWjBGF90iDngiDaMqfSvIduZgSh3bqU+NOevm4bwuEGRyy1iyy6oLEZeVS/FHElzxXC3P3V+ROx9omvrRaz5BXCAMAnF7lmHXNQuZq2Agu6Fk3bElkmdzZlgMtGCWeqsfgRRixb2sX1whYaJVp6LESfbYBcOjGiBMBa9mlCflQmQSjq/tC8mK6ZivJWdhh3m9HBt/3r/Xa2LPfz02tJa/w37/syH1y0RafoXRfTC0GArG63noLD6scdFxfGJ5HzO+jHVoI3+V07w==;YYbfoOF7euoitFKDpc+Fbg=="
 ---

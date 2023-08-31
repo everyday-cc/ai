@@ -91,6 +91,15 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
+    publishedDateTime: 2023-08-31T19:00:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/08/31/vmware-introduces-frameworks-and-services-at-explore-conference-to-enable-enterprise-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
 
 secured: "BLWaEjf3iZUNGP5yL7jylEfI8FS7G0NwHSFL0PhR7bTJH8ZgMdopLcNN7wE/AakJf/Tfr35AspuoOXD1evuPJc5slx/M1drsPHqMhqUfpfVmGgWbM2AW/sje4C2sM7yZg5x2CsStp8UZLsIyMYg01DFNyMdSbRypJY6F+3u+JXj6wNTvbSUBTkJHAGSVBPadDrZsfCvrPBb7YXB+PxYpLWp7Yty+PwLcJilKdTSdQnVvAPXIdOPCAR3h2Gt7Gsn/bW7FYAqoORlFNL1AVFW8x3R3I8H1YPXuL9YQg649jwq6jmXqsxNGiRlinu62tYSXopwEe+oQeSoImHgRfB4EKnRsVekzLpIu4/kwKn17sdU=;cH3Zh/FM73Hpq2Gk2MXS+Q=="
 ---

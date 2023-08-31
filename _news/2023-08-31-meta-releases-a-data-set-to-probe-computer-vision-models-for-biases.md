@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Meta releases FACET dataset for evaluating AI fairness"
+    excerpt: "Meta Platforms Inc. today released FACET, a benchmark dataset designed to help researchers audit computer vision models for bias."
+    publishedDateTime: 2023-08-31T20:05:00Z
+    webUrl: "https://siliconangle.com/2023/08/31/meta-releases-facet-dataset-evaluating-ai-fairness/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/meta-1.png"
+        width: 1047
+        height: 586
+        isCached: true
 
 secured: "x4YeeCQd+k4G2RJvWpxXuunSMcX8+fxUdGDpVvdTLHXdYfftg7HkWbtZpWUz5UySY/pBnHH9Hh/IxNuNUMcZ9kG6dxiVZ116JWjq92TIqnZUiIHksgMPJ1zWCKG2kqYbtu6lNGHCiNHLYZJKvjAd3XLhQ4g1CwRKgaBUbxQETFQcMT58U351IRnaj1jJeYdZ95n0xNMyFpS0dGNiuwyiHW4wulbroZklBMS1NQ7T0NpU5vGyHwv8XR+joNCrC23UqXvappS3TCoEP4+DiwwjF8DUMwaTS/avA5dNiTOB3c8tnme2jkYl2mGOBv2xK3F7QeXWWzz+fsqNJ3h6IfXb9nQuWj3effeg06ANDvcKx1M=;EYF2pxVLcy8qZ0/fu1KiCg=="
 ---

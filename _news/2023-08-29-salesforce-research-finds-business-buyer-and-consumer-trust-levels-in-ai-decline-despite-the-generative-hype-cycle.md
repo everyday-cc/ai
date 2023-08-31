@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
-    excerpt: "Amazon Bedrock is a new service for building and scaling generative AI applications, which are applications that can generate text, images, audio, and"
-    publishedDateTime: 2023-08-27T04:53:00Z
-    webUrl: "https://www.inferse.com/694711/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 51
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4587.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
     excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
     publishedDateTime: 2023-08-31T17:07:00Z

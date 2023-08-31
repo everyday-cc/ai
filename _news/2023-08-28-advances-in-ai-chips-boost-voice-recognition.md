@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2667
     height: 4000
     isCached: true
+
+related:
+  - title: "New AI technology gives robot recognition skills a big lift"
+    excerpt: "The day when robots can cook dinner, clear the kitchen table and empty the dishwasher is still a long way off. First, robots need to be able to recognize the many items of different sizes, shapes and brands in our homes."
+    publishedDateTime: 2023-08-31T20:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "V9DTbHM4cUiRvL4nABIJeSa0HP7426Xep8V/Y3mIzBx19jocOCmAQpk5vAJudOClZjryGbxEgfKv8qfXM2E2O/xkqP/pP4QgMWOiv+DfVySqmzGZmHhckr8tOcvIUFPEy2xbGaVqk8ryklnJbJmsHswV86Q9FUtvgHhBsieksOW1/H0MoEr12iVMvJ2rKhBl2U6L+TJxMyCgW4FrO9bYnpyi4D6CRdkAvEmEYVYMcrLdk2aFAt1HQ0P0hs9GLA6H/m0NsBIPl6o9h9xnsbXisP6j5Tb0He6vkC1uVGRHl7oVTHei6Wq7oURQG89dwB8AZuo2SLedhyuqrhAzPjVtARUCcXCh/73OtE89AcqINkrdcSe6UqJI0aFx+ph6PPT4LAZ/eLmrq0vax52HJzSJo4PZNRc2Zijv/s2PKjM9+gDAoXcezuyIWe9fYNgZo2J7lsN9172GBGLqMqR8NxRt6kox+MHoIjm615Eim8kzuoshAi4Xjw6xZKWfb77P3fcZG3yUse7A0tbZW/QCxTxE1w==;PZcJKh/rYMtTkuoVxRUY9g=="
 ---

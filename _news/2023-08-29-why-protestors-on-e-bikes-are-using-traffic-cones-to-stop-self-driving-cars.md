@@ -39,6 +39,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "What Problems Do Self-Driving Cars Solve?"
+    excerpt: "What Problems Do Self-Driving Cars Solve? To explore the potential benefits of self-driving cars, we asked eight industry leaders, including CEOs and managing directors, to share one problem that this technology solves."
+    publishedDateTime: 2023-08-31T19:32:00Z
+    webUrl: "https://techbullion.com/what-problems-do-self-driving-cars-solve/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "4LbPD/8mCXFnt/PutTWYdc/7dAoZDHK7/PnVrDwtLJhps7eGSwG/Gbf7UTJEQFZcYpuME65fzUVwbVJfJUoriZUdDMKL3Q8nQNk+/jS2692WJOEZpFH2QOU4KGD2TfPgQpb8Jx0MDMrB+K1hpxU9qnYThnK9fWAMB4iuPw28eOb4TA2ZqRmQQtJAu+CteSqpl4jf1Agp4p6IUL0X2oeQWG81M2CIsAQttOiS3Z7V+gWjE0+BrxFlZijJ0CM9A13HwRciGR/Wb47VsDs9iqFJBM0MjG8vV8SxUcpTFOH5UoGe3cw0sMquZ3d/Y/AknlJq4jD3SwFzfuoBF6N5Xpc+LosWmTW2ZdhmSi0ZhOqBob5q7+x7L7YIxwORr8dRJ5/VNiol+qUJaXW5sfprvshk6AjYTWhIBDw1j0A+nsd6zfBYkHrj87M2LA/7pDsGsBjQHpQZMFanevuBefCADKTlPggelfSE9a7atSzx8bNBoOTcKKIqoPEx3nI44ErP/gByp1gSUsVzeJUofvDARPGhNw==;b5eiyarLxfGLRZFBS8SE2g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/doordash-launches-ai-powered-voice-orde
 webUrl: "https://venturebeat.com/ai/doordash-launches-ai-powered-voice-ordering/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Call of Duty to Use AI-Powered Voice Chat Moderation Technology"
-    excerpt: "Activision is turning to AI to help it moderate voice chat in Call of Duty games. The Call of Duty anti-toxicity team announced that Call of Duty: Modern Warfare III will be the first game to use real-time AI-powered voice chat moderation technology when it launches in November."
-    publishedDateTime: 2023-08-31T13:56:00Z
-    webUrl: "https://www.pcmag.com/news/call-of-duty-to-use-ai-powered-voice-chat-moderation-technology"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06AAmLl9CGY2xad3UrAsTOB-1.fit_lim.size_1200x630.v1693489604.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "KRfE1QJw3cYQTc/7tT5uULWd0HzRov7yq9q2Vt8Ohwq75YOQ7W5/dryWDGKzl+z954FMKaO3LZnhJm996FZQTlrCHiFo9A/OmNOxd93IhuR9ueFbtIffCDWNbwW/1bSrvG7y249opJm1RIjMOFBhiKcLYNZAQcZj1eUKWDzp545xJD4t729AVGNV4+0p1a/Z+kSjHi7BN8Ib4VpKW2ymN06oNjeSAEOUJMfPMjt6539hRffGeX5utbar1q1MHT/wEtOPm16Mq/zvol6dQ8AdnSa8F8a5X1kRIde6PkKtIe47g4zDYH6Xey2RFjDmlESCiPYnwiHC8IwfO6zVwhs0DhPgFsCEvxYBCgQElpgvF2Ar+ZdjTccbg49UXkIePHvupOk24NyMfHOMGw4WJuIRvLadk8j0GdDV8/rmW5tKhLAzMlYOeCYeJn9SqvzWokgh8bPPGhhjVEo4ew+Gqtk0bGVvz4ycSI+9tS3AwCUkiqFv1xG2D0AyHQ1aqWRtFuSblb0sIyUNMc/ZPrHLB4ghMQ==;UmE2GlDqrff+g5gUBJSPHA=="
 ---

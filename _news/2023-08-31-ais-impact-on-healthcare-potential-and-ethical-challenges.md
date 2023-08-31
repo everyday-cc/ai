@@ -9,7 +9,7 @@ ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-
 cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Benefits, concerns over AI in mental healthcare"
-    excerpt: "Clinicians, therapists and researchers are increasingly embracing the potential in artificial intelligence, also known as AI ... patients are more likely to respond to cognitive behavioural therapy, also known as CBT, and therefore be less likely to ..."
-    publishedDateTime: 2023-08-27T03:12:00Z
-    webUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/"
-    ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 74
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/27001333/AI-MENTAL-CARE.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
     excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
     publishedDateTime: 2023-08-29T17:45:00Z

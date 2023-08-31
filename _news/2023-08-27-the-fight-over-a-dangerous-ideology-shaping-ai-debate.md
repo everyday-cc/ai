@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-fight-over-a-dange
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-fight-over-a-dangerous-longtermist-ideology-shaping-ai-debate-elon-musk-sam-altman-peter-thiel-marc-andreessen-71693107917436.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "The fight over a 'dangerous' ideology shaping AI debate"
+    excerpt: "Silicon Valley's favorite philosophy, longtermism, has helped to frame the debate on artificial intelligence around the idea of human extinction. But increasingly vocal critics are warning that the philosophy is dangerous,"
+    publishedDateTime: 2023-08-31T21:35:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/the-fight-over-a-%27dangerous%27-ideology-shaping-ai-debate"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "8kRS/q+jgNr5ds3c7uQ+PP9fOt3veDvea5McP89ooQcZGI9r546fWuVcXDZm6hUn1KDZHPjUTIXUDF/Mn3tr81/ua1vKNPMUfeUMi5L4OdRTfeCPtG4DRAI4SWo6Gu2AQbJNpEXv1yvPt3mmDBkhv1AbO9cBZhWEMjUxIYiXXNX4IJNQg8Kvy/GnCzquFi7TgE3OzaMU0tz5fvrNDb2cbuGoqfEwsLF8d31SzytsN4QsxxjEPOMVH+2dlIZF9poiJIpcRYUICunGf0DV8aVtlOV7LcUrfIk4jGOixwBOw7VbFrzakumajUP16HX1+VUzKTWD3t+E16gByiBM8DnG1ukEDwkFo/flDVBeXH6Jnow=;Xhp+Fw2IJ0BeaC6q5i0BSA=="
 ---
