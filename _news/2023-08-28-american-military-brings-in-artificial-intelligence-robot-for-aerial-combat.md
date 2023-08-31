@@ -29,7 +29,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg"
         width: 1050

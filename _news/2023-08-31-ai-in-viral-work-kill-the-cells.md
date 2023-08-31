@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 390
         isCached: true
 
-secured: "QpluXnpPfWvAADuTTmVuq/0n4DOVLGNqPwavoYcipczuejKi3EqVH8g9jvnPLEdNyFfaS+7jDxgIeGYql+OaGboP8aBftDDqzjUUE6oeQsjEG8Aw4UARuCTU3S6l21uHir4jgzytHml46vvb7eSNeYDYw0uFmP+yXGfwPp+XPsJ+Rgn9NJk5Mz/BalK3NXmJ9QM1ZcGSd/82MFG915SuLWlIgkHW7smpHTVRzK+sIMFIyH4H6cZR5lohiqgmtNIvp/b1sKS5PfheFiVeVIBWH3TDogirdKc3SR+WpYoR1LmGEiSVH3KACaQ/E00NkL0e70EPwDuHuuUdp08/POqcNrDH3g0hccU+BN0UX2kc3Qo=;7fZJCirx0iJU2AA7pjsW8A=="
+secured: "v0/WNn14Gi8k7US99yduKmjCstEo3qZA7en5SWYubyT9IJw7UGnNpmgFN9BELhKziKHBSWD5iJQWIeU3pLkBkIVKjvmYkoe+/dDZ398Y0pwcXQ/Hz81yMiXoOS68QicTTbNb45I9jDMw1P29+NZzjXKfFT7stvSfKKGUuLcZi8B1sNmCCnuuF+MszWEUijpz3xzuHgI+Ph42SI8YyIwj4fIcRSX8Ly3ByRXuXFH/rGvuE3dAOxd8jGSWWDtZakPrQ3tEmA5Gqcv6+NhFMqvZPXACKkDlwBcnxxUTwJZ1/lun6SKDS1SzfLWiXU3ddGBaQIu0Wyyq1MWAZ9kQGSiGpL6nd7J3FSUdJLjsbP5YUN3Mt7XcUTCA7k/vvDEMFPIhCjZSfvPl0HTNMG0I+xt2NrtAMxvxtIUJ2v6ueY4vAs1mojX4VaKkMY2bJIENstSgrCZdJkEdH0cZ9U0JAmPKsrT6Yb4Z4Ng1FvPKwnnqFCtDFrD8ScniIxnGQmUSHdp3Pcq5k950HWN9AjSIYuir2Q==;RpeLDa2qMo0vM7+rWUwkoA=="
 ---
 

@@ -28,7 +28,7 @@ related:
     provider:
       name: WHDH
       domain: whdh.com
-    quality: 36
+    quality: 38
   - title: "Iowa university professors incorporate AI into classrooms for curious students"
     excerpt: "There’s been both wariness and excitement from those in higher education toward AI tools in writing, Anders said, and the focus so far has been mitigating harm in terms of academic dishonesty and ethics. However, he’s seeing more curiosity from faculty ..."
     publishedDateTime: 2023-08-28T11:05:00Z

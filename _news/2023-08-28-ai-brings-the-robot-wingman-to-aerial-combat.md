@@ -27,7 +27,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg"
         width: 1050
@@ -45,6 +45,6 @@ related:
       domain: business-standard.com
     quality: 52
 
-secured: "VeFN4+qF8nvvNCIDxAWtn0LeElNfSd1dqNxjl/XcNrWXwJsNgGqdLBOM2gu+cb7MG5V1DAeFhe5tTRNgMYo6nd38dgWmodYNFHl1wOSqK5oWPBxCF41MFRbh9RmyJY/I0vCyEQpjSXAQPYoMk3PWsKxFrnAA21YcCuGk9k2crtEm9TnGu0+U+s+zv24cV1Yow7IDsMVZwkVZZR1XzaB7+tfYF++ig6ETi4fbGHtvWk/NybPmxdEzvmuk6xDknMF4CEZLvPP9EjjD5S/w23KZoGJxfK68UHzyiR7/SQEfTpnaQ8qD8Poe+2n7Mjwv5MFKL5dZQIYgrzYdlFEyk2grzmOj6j/77+PjH/N7Ih8KkyQ=;b5imdKtgfNmeq+idQVtBRw=="
+secured: "RaxlDHt9Ey0++0CnJ98p4+Xz2U2FZND1fWYjb4ulQ18em0uQWuzXjeTco+73um1Oc3J5sX2xCCvEJQMhSI0EZF+6CZDBD0jEfMG8eo1kBGDNTcXe5jeZZlHGnR8yqApX6tWNIGeIcrpMwhjjrI6hHgo4idX2SiUolnG94G+s6PK38p0beDgsbmiq39BtWqrLy//wZA9oAf10jYL/CPU4a50DSH5jQNzOnPIvwJRvcAp6nzxg45YyYY0qmUZzOrhstrhaKmdEYYH5p6FvK3cjiS1RwVNvXVOUTeU78w7eCc02TFxobvlwA5WjYybzCXJ4pzvzsNz2mZwPxnli8HephpH8xyPsLsIgJxecj4TN9tc=;BiSzphuPphhxPqG2iRea7Q=="
 ---
 

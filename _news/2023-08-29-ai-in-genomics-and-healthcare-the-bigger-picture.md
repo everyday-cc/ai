@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI's impact on healthcare: Potential and ethical challenges"
+    excerpt: "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,"
+    publishedDateTime: 2023-08-31T03:20:00Z
+    webUrl: "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    type: article
+    provider:
+      name: myrepublica.nagariknetwork
+      domain: nagariknetwork.com
+    quality: 91
+    images:
+      - url: "https://myrepublica.nagariknetwork.com/uploads/media/AI_HealthCare_20230831072003.JPG"
+        width: 925
+        height: 611
+        isCached: true
   - title: "Benefits, concerns over AI in mental healthcare"
     excerpt: "Clinicians, therapists and researchers are increasingly embracing the potential in artificial intelligence, also known as AI ... patients are more likely to respond to cognitive behavioural therapy, also known as CBT, and therefore be less likely to ..."
     publishedDateTime: 2023-08-27T03:12:00Z
@@ -41,37 +57,14 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
-    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
+  - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
+    excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-can-change-healthcare-on-planetary-scale-google-health-ceo-says.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
-  - title: "AI voice overs are taking over digital media"
-    excerpt: "with advanced speech recognition technology. When combined with a video upscaler to ensure maximum visual impact, the potential is almost endless."
-    publishedDateTime: 2023-08-29T15:41:00Z
-    webUrl: "https://bismarcktribune.com/life-entertainment/ai-voice-overs-are-taking-over-digital-media/article_b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9.html"
-    type: article
-    provider:
-      name: The Bismarck Tribune
-      domain: bismarcktribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/05/b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9/64ee0f658f866.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK invests £13 million in groundbreaking healthcare AI projects"
-    excerpt: "The UK is making strides in health analysis by earmarking £13 million to fund groundbreaking healthcare AI technologies"
-    publishedDateTime: 2023-08-30T09:07:00Z
-    webUrl: "https://www.openaccessgovernment.org/uk-invests-13-million-in-groundbreaking-healthcare-ai-projects/165714/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 34
 
 secured: "eKjM3gPfPuH+QNc1lpI0f0S6IVrP02yo31K8XGrMEjRea3ZT3LZhSshSiv4ub0DLArF9S9hGF+CYg8aBhhGI5zPtXzA4LyL4IAQ8n7V6BvMv7mQhZGJYLja1l6jP89SB4NG6SmheWqrgiIUyq/w884T5S5cob3hpdLapBIzxKR/DhZu/EJnsCytXi6xlcvI6MYB1KNdTEEZSsIAOKFIKxE+5/Bkhd5Grhezuw9/3Kc9shToEK2lrq3rutJGSVPK2YE+K1gfGg0NkmV1i59hJGKohIikHKrpE38QdvU1hjhTfg2a87l9HKPbwO/PL8sBlHGAyDPkrnn4R2MGU+J4Gf3eztStxe2myMrXbXIOGE1I=;GRKkHT522jknxdrPL9aP6A=="

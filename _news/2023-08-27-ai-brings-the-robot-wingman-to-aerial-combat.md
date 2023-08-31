@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-27T09:20:00Z
 originalUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 webUrl: "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html"
 type: article
-quality: 69
-heat: 89
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg"

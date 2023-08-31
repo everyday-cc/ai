@@ -46,17 +46,19 @@ related:
         isCached: true
   - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
     excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T01:08:00Z
-    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+    publishedDateTime: 2023-08-31T02:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/articleshow/103226345.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-736034,msid-103226350/ai_artificial-intelligence_tech_startups_funding3.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
     excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."

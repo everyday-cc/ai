@@ -44,7 +44,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
         width: 1200
@@ -65,6 +65,20 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/20210018/Bosun-Tijani.jpg"
         width: 710
         height: 451
+        isCached: true
+  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
+    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
+    publishedDateTime: 2023-08-30T08:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
@@ -108,6 +122,6 @@ related:
       domain: benefitnews.com
     quality: 34
 
-secured: "DiLurSLQu1o+sE+9IzBeXZRM4vjrMsHBgl6FBxbejsYfqdD7Ko2k9OtYHSqMSj3zrcd9Hayrw6Sm1vbI//W9AzPeiC8G+NSlun5rNGLbH6ya6AGu/ijsdRIp39Nl6ktyZfinyFzN6VgQf8v4Bh40ZNfIE8IQjFm+OcXKSoObY3K/f7LVSmiU5m8OOJcSOWR2CxJbCJiwHnz1eOl9tMsVdu+JkcuBJ3GgLLWZA1P3T2Nysdapcf0+hcMHooBhp+/+1WchC9/T3OAIyFu/HWcyuCS4P2xJs1fKhN50D+tieLzSFEDjgodE9+kokzfDrOM9jMF2B8HgPjNYUf0T5FEGzR/nJT1/30Ztz3LV1o5cons=;26eGDh+97W8jjeIXtsF1xw=="
+secured: "I92Yen1sB+LLBvO9h9qNfboQ8OIwQ2HjL66Nn2DkZo+zPC0yQOWNUZjM9/6wFN/JH2sT48g1noZurgJshYSSSMDumi5xMfUf9Q6uj7no1ZdTxr/uJ64+tfZizeGgqo+hqKzRJiunuKocOFuxlrNvR0nRF48mWAV/QMmVbN02Ft7qMYGhgQGtmbNtsABIQiy143jfnyUtq40sfza/JTrl1TdLHa0DqdjY6le09LiXrLJDaQt1BoEhpKakrhwgsaKIyIwExPc8rzlNu9rDzsV0+dWFyw/wtPcV77aDNl5CMI4Og/PVok7s25vEygj6zRDLTggdjizX2xqVJjyHTveLZFQkE7D6bSkhLE2w5u76Czyeqo+CE5FrrvMRsCJv6zWS/xN5LxDb+GA4uTRyYbJQbhMarEWZBcOGRP1jqAX1DuMeBRvpFbKnTeeGWDKVKyB8BjKDzw78yOj9ujH+t/dorrjIsnYq1zwW+HDcC1U5kXT2TdK21c3CRIOUaOuf8lYIMThvak/XkRmdz+1AgVNgxQ==;5lJ96YO9d3gEyrJi/vqAOg=="
 ---
 

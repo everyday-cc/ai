@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-adding-meta-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-adding-meta-anthropic-ai-models-to-cloud-platform?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -71,6 +71,20 @@ related:
         width: 899
         height: 472
         isCached: true
+  - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
+    excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
+    publishedDateTime: 2023-08-31T02:34:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33134-ericsson-aws-hitachi-america-r-d-demo-smart-factory-capabilities"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/8340993e1ee85f46d52262179d02adb0.jpg?t=20230831_022146"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
     excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
     publishedDateTime: 2023-08-29T16:15:00Z

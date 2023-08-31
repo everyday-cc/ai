@@ -71,6 +71,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Visual artists fight back against AI companies"
+    excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."
+    publishedDateTime: 2023-08-31T02:52:00Z
+    webUrl: "https://apnews.com/video/artificial-intelligence-visual-arts-lawsuits-legal-proceedings-karla-ortiz-59503737cc2f4bebac2cfe867df28e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
     publishedDateTime: 2023-08-28T12:26:00Z
@@ -90,6 +104,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "ojmGCPjko45K6dyxMcJWxxtLQQX8EKK+uhsTnm0H+1hk83j2HiwAiqWsDNBXPtZ8DdRoB29h/xFxmn/af3nHJEvnINfOBl9oog/nD+fMiMjc6375U6GTNDOAuzjt5AzMJ5uzchTkW7po/asUnxmjaYg08G1g+Ql/O3C7ppQOz1ZLXwz4dMYedsQ4awvhs2NOavRq6xoaqbkOL6H0R0Lx9z5R/cGJbXTF/fiflwF159ax6uIrjqZbhROvHY48CDaMJrpSMXKBTio6nQiCi9+HHLAyY0VhR00iAarH3uBFAAi/4HcH8+R3czqRMO1rl6ItjW64QYVBQ5ZnNlrBpyXPVFJHpPRUdbzymlBtKJ3sn/c=;tzO3k1XxGMNiZ2wJsuzp/A=="
+secured: "LJdTZF15vCsCJnHST0wsOWsaWjrG47lMBwwwrNi8tWi+6cVpkZoXfCn+bQXlpbblO8fyW4k+pm79WBMjXrag4iNVvc6iRxMcP5rN/QDoawlit3B2+VdxmnZJuIGZTj8nSJmlbb6LXszWOiBAQ4ZoGFFOsBFjBW6gKRYjPbet09FJZX/wHLpTfQIdUJSiSucskapcPDTON3jMVKNTQunoNlYKVYz3qrlcV8geM+JttjrwfgRJJCZwDZyprUMPCpn/Ri3jiu1bgiCEybYEm/7V2ELE1GcE/VV3NbcqfStUqadPLo/wiUk6ArhVpR5NxGw/cJsY8vKWxHE/JES1KiPHKbBkh4JfjMTj5xigmDax+R1tm2YIs0VD5Ne+nUQboE+ZZObRnyyijKG70E7HE20CStGsDpOLodK9C/prZ2cX74rZxdRZasDLYLoW+Z1fbi4t7O3+3mxjlAfNlveqX/zt7YFUuEP45IPsjemsYqWVrGnrsxTU/2xQQl6ovzCMasyDRzK1HxdDyJJg48J/J9HS0Q==;fSgt6fCs63X8AxzQbbri+w=="
 ---
 

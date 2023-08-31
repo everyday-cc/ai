@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/media-ai-startup-cohere-taps-banks
 webUrl: "https://www.reuters.com/article/media-ai-startup-cohere-taps-banks-for-f-idUSL4N3AB4WW"
 type: article
 quality: 63
-heat: 73
+heat: 75
 published: true
 
 provider:

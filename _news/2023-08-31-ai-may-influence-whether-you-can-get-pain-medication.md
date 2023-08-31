@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medicatio
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -50,6 +50,6 @@ related:
       domain: news-medical.net
     quality: 33
 
-secured: "7nJCrh16iYsmUsY5E1c5F8ajuNCcviwh4gcqHsehQuvYOSah/O+ZJPMf2rHIgpyV7yRKMf8ewalwVU3gY0jcymKmomMwzZa1u7ohm688rT/SVlZgDQbPpnrvXdXj1fzBQfaAjORbClTNBtSehHriezLo7Qxe9GvsemGvi5exRRxeY1fOcLeGr39SL2O8LdsqHGempyADq85LpvHRNvWVg3fv2H4aGlF8lQHfh+JMT1j+3oog3nnTKRLbV+F8aYTHwimbwTZIysYkuVAQ7jMqpJfKO4TkXBLnxkXpBylvzLXgBK4lh1F01JtAwQ9NqFD2GLN4+Jh+93X18OF/Oo2EcBQ1LxRrl10wi082HAUY0K8=;BZHPeMjaIeRiCWji0/lS+Q=="
+secured: "a0Pke9n4B2utJjchA99OV99pJnkbjZJ2PtCo5xdgCd2lLC1O380w5tiqVNMc4baNOFo8g0TOfDX/Db6ITsP8IWMDkjigoXJW1MQspWD6Q3vg6Rq/lnk5hQb0/vEu1y+E6eNXmON7PVMLWyayphDuT8BWSZBcZFRjdl08T7zHDjdRnqCPLsE1pvsu+RuWn7hHABlilsRR3gYq9asbmLgT2zO370hFr4g6+QemMGf7iPV86qXPwavzReB+XMUI+wHfHIGrx5peQUAUlOmsQJshhXAKCcV9gPoiMICcmoY7uzOHFcQmZBSO25kcHFlFkvSQ0Z+5dBypqK3uc7iz/Qniso5+EkaT5xQ2IV3QJrwoch1XOeNL2i/wP9dBVOmmtUhHiO/WBtS41KlYIMTDNl1WqGhvEcPiHJsb9SqLIKHah7rBQg2W1YFdBk1IlHi74Dr+LytQ08PztIZi5eYvyHeZYbp4iij7VWzLCkW0APzhBYpwablC31s2faj7cG8DCo93JG9BuGOS+ztDLwApASHFnA==;kAJgPC1kJgWS/wuoPmVm7w=="
 ---
 

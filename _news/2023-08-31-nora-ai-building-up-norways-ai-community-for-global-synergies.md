@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 801
     isCached: true
 
-secured: "lgMR7uW7dbeKWvTUBy9fz/hhSRbpRpKelsatpID9IgLYpMWoV1QvCPLf8Rb5dbLOfraq4cf34y0Quk1CtLGMkqv5FPhU24RA9ma7oFmLLmkyaaMT1iEocOZQUe3HYARWkTX2VLbQpbnJfd/9ZfWJVwE44qJkqNy908KQoeEjUxKhJzUnu8y2JJrbTg6km04+PhHZ1yJaeDN7J5XlM3a4aKyk33C8xBpEYhmrsXvpa+txRxmPYE5vwFDk9VCECARRG06SPLZO6ofBG07qqe8VHX+gqi1hiZQ1SkvdDqDa+SLBTy9tipgEofNf/7AqZ+ZBIHQeHDkt9yHyUKdCYQzfMsK/3Zgu8HH+hPexKvnQ6KU=;eokCOhfcuoaCMik/JnXS9A=="
+secured: "y2rRA1Hqoa2Rd2Wrc0hKqnvojnqh126phHt5qZYcA8xPOLg1BvUtc2HNHOGn2iv027s7iov2QhabKiEoRnk3maRITifp4Q7D00CwdIViG/A3tF9SgkABcqH/QmiILf0S6TqZgcW7BIvLt2trV6gyjB98BBt/BUpVb74uaENYHSh4OU4NvFQZbFWcukJLbI459MF55A3FpdOkJPLZ1SqVQTIGcYVQ1tZL2qDQf/zlzy5MqvD4zogL7x5kNvjnzI0Zx5UYyKUt4LMq6nMkm53lq09+E9fWMkZYKnchRoU8vRd67oNYLPvHvizCIFMy7BynypBem1DWLfv3E6D5cwqWrRJHCypG1/kMNUgM6QgcK/2lvaHr9eTSthqVdgbLtdTXGkfmC1QJmV3otf5nLnrd1RNCIVRFNw0h21Fm3RU3VB+tmgYvOafiHbCsHwHJAhwG8y3shyUY/2tmNi7o+RmHy3GDDLE9nX2QdDwbuHwOGYXQfSCaUGurlTKYK8FpZRwI451pK6248mOznf6U+roy2A==;K3ZF10cvIAE3kqDChI6vTA=="
 ---
 

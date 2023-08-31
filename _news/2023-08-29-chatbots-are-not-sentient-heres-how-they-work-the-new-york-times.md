@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-29T12:10:00Z
 originalUrl: "https://www.inferse.com/697498/chatbots-are-not-sentient-heres-how-they-work-the-new-york-times/"
 webUrl: "https://www.inferse.com/697498/chatbots-are-not-sentient-heres-how-they-work-the-new-york-times/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-5758.png"

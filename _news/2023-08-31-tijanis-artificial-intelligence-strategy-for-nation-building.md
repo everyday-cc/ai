@@ -46,9 +46,23 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
+    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
+    publishedDateTime: 2023-08-30T08:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
         width: 1200
         height: 630
         isCached: true

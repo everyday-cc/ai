@@ -27,7 +27,7 @@ related:
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-5758.png"
         width: 1050

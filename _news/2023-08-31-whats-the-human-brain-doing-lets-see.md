@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 676
     isCached: true
 
-secured: "9OP4bp3RamQvVL8n3Eyp7hJzqilj3RqdGA/NKVxsgZQ4Lp0G1Vbo+MrOg27orwZq31MG5Sz1NNaGTTaX21N3i3xv8z83yqsHol/d928ey858EJH2fgR9unqmqz2IHfjb8gaM7XlrQfwioBD0ycLyf1pSxvFPhFn5vH+H22Snq9XfOTc9A69Cpghp7Cr+siT1AsZTxoVH0t83DJ0uazuAz1M0fjFINlymtooUUAezGpBN87/Zrtusz3CtMEtWE3TK7LI86VXgTBICyrGPQldFAXfG/l1jrWCrPXGNSrX+1TsFZNW174G81Q4iFbxg4yoDoH1PsmSCOvDyXShx242Tqp2c+Q1udkkYks+viefAAlA=;ZQtPS2ZEl7I+DrB9eZGBSg=="
+secured: "eqMHMQhpD5kJGgqdLuXRkE+OwGJDIGfN81xx0TGFKq8bGdI67YJDtUhhBcP/JD5lvKiH8nBcDB8MpZb1c9OIwJDvcl5CHtny9aqRPzIL6DDeU3nYkn0XV6Shz+AEIx1zaE/YcxYys9J+ToNtmMO7eRjhL6nU8yWTVC9Es9glC7vixw1NhkHoe/JnCxg6KbYYobJjFAiVLRvqKw0VmymDSBbvpiZPKJgwkaoui+LUxza3aNws+XLb2NBbl29d7OYfkf3oTqkDv4jw5MEKC/ZIJI+GSfbzCZrtoF+uJn8E01FLPW9kht7NsGoDKfFjR9DYVUXBbVtDRF17CHvpX34mFnLiRvr6IWSw2Ti5W+L1hfQfkz5oRVn40ZnfeESagJqwtktcHTIuZesnow7aMlNSJTow/2ijREeKwnORTxI7jyGq7apeuE7PKZpNOtTXcV2OvtsHu09PiD6mS44YdBf8IXgni5GcYolSVktlIO5mb+v4iprqu6sUn+C7OSfeuiMgS3Pq22fgSDzWkue007t5bg==;vrnKcniHrtJGAQvFO1MY2A=="
 ---
 

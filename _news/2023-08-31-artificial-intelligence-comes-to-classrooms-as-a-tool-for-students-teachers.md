@@ -8,8 +8,8 @@ webUrl: "https://whdh.com/news/artificial-intelligence-comes-to-classrooms-as-a-
 ampWebUrl: "https://whdh.com/news/artificial-intelligence-comes-to-classrooms-as-a-tool-for-students-teachers/amp/"
 cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/artificial-intelligence-comes-to-classrooms-as-a-tool-for-students-teachers/amp/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Iowa university professors incorporate AI into classrooms for curious students"

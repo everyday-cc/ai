@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Visual artists fight back against AI companies"
+    excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."
+    publishedDateTime: 2023-08-31T02:52:00Z
+    webUrl: "https://apnews.com/video/artificial-intelligence-visual-arts-lawsuits-legal-proceedings-karla-ortiz-59503737cc2f4bebac2cfe867df28e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
     excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
     publishedDateTime: 2023-08-28T12:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ornl.gov/news/artificial-intelligence-research-must-re
 webUrl: "https://www.ornl.gov/news/artificial-intelligence-research-must-remain-american-priority"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Native American knowledge, and now AI, can teach us to build wildfire resilience"
-    excerpt: "For centuries, Native American tribes used cultural and controlled burns to nurture healthy ecosystems. These deliberate, low-intensity fires helped maintain ecological balance in the region by reducing the risk of catastrophic wildfires,"
-    publishedDateTime: 2023-08-29T17:44:00Z
-    webUrl: "https://phys.org/news/2023-08-native-american-knowledge-ai-wildfire.html"
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it. They note nature was indeed the genesis of our ..."
+    publishedDateTime: 2023-08-30T14:34:00Z
+    webUrl: "https://www.therepublic.com/2023/08/30/jay-ambrose-artificial-intelligence-loves-america/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
+      name: The Republic
+      domain: therepublic.com
+    quality: 41
+    images:
+      - url: "https://www.therepublic.com/wp-content/uploads/2023/08/131857541_web1_Jay-Ambrose-696x865.jpg"
+        width: 696
+        height: 865
+        isCached: true
+  - title: "52% of Americans say they’re concerned about growing use of AI: Pew"
+    excerpt: "Americans are growing increasingly concerned about the use of artificial intelligence (AI) throughout their day-to-day lives. According to a Pew Research Center poll of 11,201 Americans conducted between July 31 and Aug. 6, 52% of respondents said they were more concerned than excited about AI."
+    publishedDateTime: 2023-08-28T22:44:00Z
+    webUrl: "https://www.aol.com/finance/52-americans-concerned-growing-ai-194429171.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/yg2dETb82pSarQ8or9u4mA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/fc5776c677eed1ce689a3ab1b1a60010"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Echo Chambers Amplified: How CNN and Fox News Fuel America’s Polarization"
+    excerpt: "Researchers utilized AI and natural language processing to analyze 10 years of broadcasts and tweets from CNN and Fox News, revealing a surge in partisan and inflammatory language."
+    publishedDateTime: 2023-08-28T19:32:00Z
+    webUrl: "https://neurosciencenews.com/news-media-political-polarization-23849/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 23
+    images:
+      - url: "https://neurosciencenews.com/files/2023/08/political-polarization-media-neurosince.jpg"
+        width: 1344
+        height: 896
+        isCached: true
+  - title: "Is Corporate America ready for the AI revolution?"
+    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
+    publishedDateTime: 2023-08-30T14:57:00Z
+    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "Dl7tQq7rBjfQvUKRukPabcf9fJszeEDPphQQBmMfGy66pwWx4sVpFOieWs2K9tmYOLv9DfFuO3lR3/2eXpmZ0hC2DbTWJvdckvdQV5tMIlveF4tawPokBC6TNki12XS/acSbpccC+sPcqk6yrQ+olbYtUMdpVLg3SCl8Dn3owFgVeW78e9Y4bBtrdvIQr4kWnnZXAUSJZFNhEYEQVRMnENJW84+1p8I1qeCrRsZMHjUbZw6SrcJPGoJuSCiIo77BPHyc/wllQcmsShFi2xOyT2LyqBF1sitw4vK0dRDxUR5dN/glfWodOKs7PoTfguxzpRv+PA6sNA7hsyU+GKwjqJD58QkirZGBWYdcyzUp7ZEKqHuKofB0GSgD5X8p/tM6x8DYI4ZQm3t+ca9pFoeTYBmI3ta86FI6//5Aa5Q+zNoxbGP5cm8lJl3kuRuvHCtc8HOK+eYEgT/KGkRbUuLHMXX/sLNE6lgyWPxyYiPYKnvgZKuoECo6ippc2GIfhyeXlD9gSi870EgsMQcbgvD2AA==;8id8rYPWofS/D1pxxAGUMA=="
 ---

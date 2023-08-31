@@ -2,25 +2,27 @@
 category: news
 title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
 excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-publishedDateTime: 2023-08-31T01:08:00Z
-originalUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
-webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+publishedDateTime: 2023-08-31T02:22:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/articleshow/103226345.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/articleshow/103226345.cms"
+ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-736034,msid-103226350/ai_artificial-intelligence_tech_startups_funding3.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -69,6 +71,6 @@ related:
         height: 404
         isCached: true
 
-secured: "GtAVn8r/3aqvwZ93HEcHCjJJONS2kV1QPj5oEx7zb3NhaRhDPF7gL3mCc5SnRjuvQCpP71IleLNzNYgX55zakIB2C4wPtOWgYD9MXZvP+QrlOpttjvHImASWegDAZrBUjJ8ws0AknPnBc/sQPDeDRwU+uNe96Mn8OGE99gH4sYG+V0SYP0AvyHDsT1eoU+RB85SsTn6l8OHTwWluMoVVEJ4r6+dhjXnMNROnvcmDRzAP3WjhMORfo44ZkOWx2knwpm7KFWYmSI4n95/3kVF+Mgk7FVqABlim9RSQILQdxHAQLkBaLrWHhFg0XDM4NCJAAgr8XWWw6lUjlaq7PbQZzqgTkaZbKOhT/PGW+edudkw=;p8xC4TqJu9EI/D2yEc5SHA=="
+secured: "x45Ijvc61FLaHSxB9IbouayB94DNOIGQ4i4+GOd/lTAAcI/RDc0uqy60yuFR9BWRa4PrxHJz83IIO32k1sc0yN7qUhs/i09P8xpR6eU0eYNP+BMiSYcazgGj1UH3U5xjJqzXjmWyHxDJhsRiUClJKFi8MLLrBLsxzNDcbO/txRw6WSWVBa1ZueahxG5acAj2oMqgYgx0MIT1LuVbG4bt1zEpdxgKR6ePd9+K03xCNuOtAzNUocaSCd77AjRHFIIfzCDdaMip9WbdAeDIVC2MNkVC6eO1TF0Q+kc7OvrJYYXhVOMGZvDV6TUrAGtNuVy6hIEvIXW5sPZmtwVhdrrTsS6eZDok7kyIHuYUlkFvejk=;QIJ0cd1syGUjHYZSMHYLgg=="
 ---
 

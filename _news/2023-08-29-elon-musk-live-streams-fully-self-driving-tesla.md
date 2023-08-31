@@ -83,6 +83,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk Affirms Training Compute Will Not Be A Constraint For Tesla's Full Self-Driving Improvements Much Longer"
+    excerpt: "What Happened: “Training compute should soon not be so much of a limiting factor,” Musk wrote. He was responding to a user who calculated that the training speed of V12 should at least quadruple once chip-maker Nvidia Corp ‘s NVDA +0.98% + Free Alerts H100 cluster is fully operational or even further if there’s a lot of Dojo online."
+    publishedDateTime: 2023-08-31T03:44:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34128510/elon-musk-affirms-training-compute-will-not-be-a-constraint-for-teslas-full-self-driving-improvement"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34128510"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34128510"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_59.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "WATCH: Tesla Model 3 In Full Self Driving Mode Crashes Into A Pond"
     excerpt: "A Tesla Model 3 in Full-Self Driving (FSD) mode has crashed into a deep roadside pond. This was caught on video by the car's cameras and comes courtesy of the Wham Baam Teslacam YouTube Channel. Tesla's FSD has been linked to accidents in the past,"
     publishedDateTime: 2023-08-26T17:48:00Z

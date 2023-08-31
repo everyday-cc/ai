@@ -35,7 +35,7 @@ related:
     provider:
       name: WHDH
       domain: whdh.com
-    quality: 36
+    quality: 38
   - title: "Denver-based startup raises $2.4M for AI tools that save K-12 teachers' time"
     excerpt: "Launched by a former teacher and principal, MagicSchool offers K-12 educators more than 50 generative AI tools to help them with lesson planning, diagnostic assessments, quiz generation, text translation,"
     publishedDateTime: 2023-08-28T19:01:00Z

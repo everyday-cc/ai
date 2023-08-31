@@ -88,6 +88,34 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Is Nvidia an AI Value Stock?"
+    excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
+    publishedDateTime: 2023-08-30T22:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-30-2023/card/is-nvidia-an-ai-value-stock--7KZKw2ot5CRIPgTQvNaP"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-844456/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
+    excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
+    publishedDateTime: 2023-08-31T01:58:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3232890/nvidias-ai-chips-hit-new-curbs-export-some-middle-east-countries-us-tightens-semiconductor-controls"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 62
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/31/8752dbb5-bf3c-49b3-9bad-ab64ecb622de_6b2422a9.jpg?itok=-y7JJHDd&v=1693447058"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
     excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
     publishedDateTime: 2023-08-30T14:35:00Z
@@ -115,6 +143,20 @@ related:
       - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
         width: 660
         height: 440
+        isCached: true
+  - title: "U.S. curbs AI chip exports from Nvidia to parts of Middle East"
+    excerpt: "A similar move announced last year signaled an escalation of the U.S. crackdown on China's technological capabilities."
+    publishedDateTime: 2023-08-31T02:36:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2023/08/31/world/politics/chip-curbs-middle-east/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/31/248968.JPG"
+        width: 1000
+        height: 665
         isCached: true
   - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
     excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
@@ -146,24 +188,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Nvidia’s Soaring Value and Enthusiastic Investors Top the Week’s AI News"
-    excerpt: "This week, the white-hot enthusiasm for AI is generating new value in the equity markets and for strategically positioned companies, even as overall tech funding remains squeezed."
-    publishedDateTime: 2023-08-26T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-26/nvidia-s-soaring-value-excited-investors-top-the-week-in-ai-news"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 48
-  - title: "AI Just Helped Nvidia Crush Q2 Earnings Expectations -- and the Chip Giant's Massive Artificial Intelligence Transformation Is Just Heating Up"
-    excerpt: "AI momentum helped power the data center segment up roughly 171% year over year, pushing overall revenue to more than double. Strikingly, the company's cost of revenue and total operating expenses climbed just 7% and 10%, respectively, during the period. These trends pushed net income up a staggering 843% to hit $6.2 billion in the period."
-    publishedDateTime: 2023-08-26T10:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-just-helped-nvidia-crush-q2-earnings-expectations-and-the-chip-giants-massive"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
   - title: "Nvidia is the AI king, but threats to its reign abound"
     excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
     publishedDateTime: 2023-08-30T15:13:00Z

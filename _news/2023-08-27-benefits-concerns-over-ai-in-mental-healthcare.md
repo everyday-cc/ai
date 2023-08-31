@@ -9,8 +9,8 @@ ampWebUrl: "https://punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/benefits-concerns-over-ai-in-mental-healthcare/?amp"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Punch Newspapers
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI's impact on healthcare: Potential and ethical challenges"
+    excerpt: "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,"
+    publishedDateTime: 2023-08-31T03:20:00Z
+    webUrl: "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
+    type: article
+    provider:
+      name: myrepublica.nagariknetwork
+      domain: nagariknetwork.com
+    quality: 91
+    images:
+      - url: "https://myrepublica.nagariknetwork.com/uploads/media/AI_HealthCare_20230831072003.JPG"
+        width: 925
+        height: 611
+        isCached: true
   - title: "AI in Genomics and Healthcare: The bigger picture"
     excerpt: "In recent times, affordable high-throughput DNA sequencing has ignited a revolution in digital biology, and more genomics programmes around the world are gaining traction. This advancement has resulted in a paradigm shift in which medicine has become personalised,"
     publishedDateTime: 2023-08-28T23:30:00Z
@@ -41,37 +57,14 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
-    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
+  - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
+    excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
+    publishedDateTime: 2023-08-29T17:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-can-change-healthcare-on-planetary-scale-google-health-ceo-says.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
-  - title: "AI voice overs are taking over digital media"
-    excerpt: "with advanced speech recognition technology. When combined with a video upscaler to ensure maximum visual impact, the potential is almost endless."
-    publishedDateTime: 2023-08-29T15:41:00Z
-    webUrl: "https://bismarcktribune.com/life-entertainment/ai-voice-overs-are-taking-over-digital-media/article_b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9.html"
-    type: article
-    provider:
-      name: The Bismarck Tribune
-      domain: bismarcktribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/05/b050ba9f-82e2-5d1d-bd7f-147cd2dd7ff9/64ee0f658f866.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK invests £13 million in groundbreaking healthcare AI projects"
-    excerpt: "The UK is making strides in health analysis by earmarking £13 million to fund groundbreaking healthcare AI technologies"
-    publishedDateTime: 2023-08-30T09:07:00Z
-    webUrl: "https://www.openaccessgovernment.org/uk-invests-13-million-in-groundbreaking-healthcare-ai-projects/165714/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 34
 
 secured: "wjZ8kkSE4Mfd6eYgfNNkHbOT7BpFvS3BAZI9qRekrwmgz/vs+Sgno4QZCRBNpnfRIGl4SLIocpijyzj4qoK/LNW1SezQweQal/qrvRq62g6sl6qMOyjXNE1D09jpkgH2bVGjRPwGkIeY60NIj4+F3GU1yEHBCjIqqfy5IrKgGzPh/j5uaY4UbezhFORoKSDqK88D5T91svqCtciN01i2ceX0rqnVnIWTCjbiPbJDeICcRWlXzkZJ5TpcilkvTRmwe1sBNnE3ts0Exye+JZ12lcjbmHzpY+pX6CaAlPVYJpl6gKfG4NPaFuv6bmZJPe9SJrLDm4HmBgiaKlxJhydu0wBMUhrqbu8ZMUZYsif7/wg=;sD3QUjJiAyLFbabfNcj8VQ=="
