@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_sword_splitting_a_computer_in_half_with_one_side_that_fa64ec31-5cfe-45c9-b364-2a849e6ac009.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Cybersecurity experts are warning about a new type of AI attack"
+    excerpt: "Here's what to know about these type of attacks, which involve the large language models that power AI systems like chatbots."
+    publishedDateTime: 2023-08-31T17:32:00Z
+    webUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/31/chatgpt-mobile.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Kaspersky: Cyber Immunity key to secure the future with AI"
     excerpt: "Global cybersecurity company’s 9th Cybersecurity Weekend probes into how AI will disrupt the world and how experts can set secure directives for a safer tomorrow Can AI outsmart humans? Is ChatGPT the beginning of our Doomsday?"

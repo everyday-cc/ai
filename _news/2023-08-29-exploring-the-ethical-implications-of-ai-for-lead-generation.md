@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -147,6 +147,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
+    excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
+    publishedDateTime: 2023-08-31T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 54
+    images:
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_650667620_XL-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
     excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."

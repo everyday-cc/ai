@@ -38,20 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Fintech SaaS startup Irys Insurtech raises $3.5m in Seed funding"
-    excerpt: "American Fintech SaaS company Irys Insurtech Inc has announced raising $3.5 million in a Seed funding round anchored by Markd, a venture capital investor"
-    publishedDateTime: 2023-08-27T00:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211992-fintech-saas-startup-irys-insurtech-raises-3-5m-in-seed-funding/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/Insurtech.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "bqj8uQ+969lHBLLrKZWSFfTndPCUPYIRH9dihbSOhh3i7H7NpCYykCc6Ti+cEVBgv59j6MfejqRtjXXhH/T+/SZLSM9mHoVn1icGd+aC7+a6C23UAeppFW3XC0+qdzZQHWcBXsmWy98dEpUbfCqTToerWiTXUQrGJIp/q5JkbudujPerIf5XwOyL9SmWel4K8f910fZ4ePR1YXevhTLuvKNFI0k/CEx2PI1rhbKckmFVhVQfulPCxkr3LvI9SBdG5kmyGhHyM63T8/2DlmgEOg+jI+L5ejR6QDG0Js8xYACHsJCjXvu++KREnr1T1c02u4CxBpLwjD9bH1ZVp09vM6KAIAxy0S1cr3Wh8LB80L0=;jsWKOh9q3SKFPZaI/6q/mg=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "US Copyright Office opens public comments on AI and content ownership"
+    excerpt: "The US Copyright Office (USCO) wants your thoughts on generative AI and who can theoretically be declared to own its outputs."
+    publishedDateTime: 2023-08-31T17:06:00Z
+    webUrl: "https://www.engadget.com/us-copyright-office-opens-public-comments-on-ai-and-content-ownership-170225911.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KGCHbCFsnaeuUcoUZeTcFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/4f47be10-481c-11ee-97ad-c652bc268ee7"
+        width: 1199
+        height: 807
+        isCached: true
 
 secured: "i6of+AJF22eu0a0EEJIBbZOiliuirSpJlHOgeJ10vO34B8tb2/vsWLprTazFYcch5KWa8QQasXTXwE350M9zPalreOoa444FZXHbLOoSgcWTO+2hrzueX9X03MBTBX5sThE/4BzOVTpqMHiB0poi5HKmGhUQwW2WnvQJE3kYfoGI1oADqUGv8IkObn/vouxpLYVUwXJYt/X+INFqh9mfDKQh6D/iFaOzKayCgu5C6c3jHTdR1rtTjBsI4kBfjqyVnfvVv5Qf/ph+titH915kjshEYvqUkGosScwq2cCabMkCRb1RSRB50xylkUYzBr4qwGX+gSRGYVBAp+5eQx+Zr94opj+L7KbSg6QYuDlLt7t/Hk2PJuITLw+ie823oFNOPWg97zx1YX8VVic7mW4YqA3JGovQb861BmjDOn+mvWEA93e6XlPu9aFhocD981jpzk6uGwJaKiQyKIL4/LcxdzwTh/M/TQDy/QqQ7ciJWk2yY5zUyrlSvzgMGFMpu4mJBQ/5NNf1m/slWXLRslI0cQ==;DNmfQPBawXPaE2UoHdPMGw=="
 ---

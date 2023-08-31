@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-Powered Drone Demolished Human Pilots in a Race"
-    excerpt: "The world of drone racing has blown up since its humble beginnings in 2011, when a group of German hobbyists held the first official drone race. While there have been efforts to develop a drone-flying AI in the past, none have been able to defeat human pilots—until now."
-    publishedDateTime: 2023-08-30T18:01:00Z
-    webUrl: "https://www.thedailybeast.com/this-ai-powered-drone-demolished-human-pilots-in-a-race"
+  - title: "High-speed AI drone beats world-champion racers for the first time"
+    excerpt: "Enlarge / A long-exposure image of an AI-trained autonomous UZH drone (the blue streak) that completed a lap a half-second ahead of the best time of a human pilot (the red streak)."
+    publishedDateTime: 2023-08-31T17:06:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/amp/"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1693331981/230829-Tran-AI-powered-drone-tease_qbur2j"
-        width: 1480
-        height: 833
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Figure1a-Hauptbild-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "4YDdEJUtr/tHBgQ8ziSKyDPdwtoUG2ghHucsDRcMXL2ADx/uhXzRVSTKmN3+/nFt7yqZKK/1u66/8qFewNnHeAsmefxxtdyrqWrc+VVrieQ0JL8rCInl9+rPwynEaDWgnNt7ttc1agyDeTMjwgevnpU1s9feVmH3RQeBab1SlVFjw2rgZULwKF213Ho1NYvv2i3LekkPgPCfImPiPuxwdwCh6X9AG4mGjBM1AbZ7Ebcr/W3uJtbGO3keULmChDixtouEWLle+2HlCsk/ZrNgjrWHQrT+yTQUZmDGGHoGwQLA9QErMnCcN9/WLC1tYHdVjrqU5r4M8HbAeWIxB51h6NDZbM6IKvi3OgIhlabScuA=;ZIFYGOH0K1DJtYgwxRO5Qg=="

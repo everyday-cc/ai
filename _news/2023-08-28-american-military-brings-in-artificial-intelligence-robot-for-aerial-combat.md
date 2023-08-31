@@ -36,14 +36,16 @@ related:
         height: 550
         isCached: true
   - title: "AI Brings the Robot Wingman to Aerial Combat"
-    excerpt: "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets."
-    publishedDateTime: 2023-08-28T16:24:00Z
-    webUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
+    excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
+    publishedDateTime: 2023-08-27T22:12:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 34
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "NEP/NUBEATZ6jVm+6QNnIJ2DzAEejbIEAnm9Pjqmp7MdoemNSw2vGnQz+MHajA0eUKJBBvnOjP4kQVeax6R/JeC6YwsCd45gM1iEJ+Sl31+IJwn92a/oSaoJ9sXpmdgU6dQBRB/tmmk/szarXfpTzw1oMBPKO8dKbfeP1u6NZPeUaFIw35PRevFcZUjMb+b+PfkBt6urEpiLcPkXmtnBTzUtag3drQFBT+e7UvBrUlUyirsdY6R6HobvRvmfUW6ZgQT1USX7qUS5bysG6iYVH7mbvoF9kJJXMLiukZeN3VL1LlpBt7tEBZ5OO1hYHgr1gsSb7EYMuM82kDe74PZiL+DhNeZI5gzf0v2ChvpvWGdwsnXcsCunqUUi3X4L17z6Xw+nkdSt2qwuPE04gxmOePCdl9yqsqL6kNNXf91VlCu2KK0w/kxWjBEy0mKESfu+PpaxyjdZtQjWtgS/09wlxLY1bB23Xk3QtR8q7hu+zlbIucRmwAWElZI+xIwOkjPgOpjHn3ibf5isst9MArXfEw==;B+ENGhkZJcjBW3SRVd6e7A=="
 ---

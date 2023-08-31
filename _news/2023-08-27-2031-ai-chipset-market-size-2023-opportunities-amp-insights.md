@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "5 ways CISOs can prepare for generative AI’s security challenges and opportunities"
+    excerpt: "An effective zero-trust framework can help reduce the blast radius of generative AI attacks and establish a first line of defense."
+    publishedDateTime: 2023-08-31T17:04:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/4.-Designing-for-trust-Top-10-cybersecurity-priorities-for-CIOs-in-2023.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "ilFhJjDiWdPwhe2jKVyYQXhti1MNrZ1OPZflaOao/bE++omVoqxsekZv0cWSqxs0AhTdJPL0R/7FgdxS+tlCkHjcUEQAvsWm4xkgc06/5ekAIbafQEbAYJDZkf92rr89weZq6NBV3Yg7Goo8S31v9CRWYKtTic0BRoMxtx1z67layUqudUcxlHui8c4qyPoaXnZKPQalPMkwbX250SU69RskrZnaDjAgg1+22cYIV9tqiFtAhd50B7AnKKTndeMqDdYOMqrqV6WnLKR9OG4+K8WCvPureMK+KMwZ0DF2qVCWFkfIiJVhXo/AFel5kXAOM/QWbye8uGvdnvGXiXE2XB4zAlMzM+Q9pIOg3a8yUwk=;pjrJ81OsIsTozgKs9W0DmA=="
 ---

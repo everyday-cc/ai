@@ -34,7 +34,7 @@ related:
     provider:
       name: LAist
       domain: laist.com
-    quality: 53
+    quality: 51
     images:
       - url: "https://scpr.brightspotcdn.com/dims4/default/c6bb1a5/2147483647/strip/true/crop/4211x2211+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F52%2F02%2Ffccf47eb43d4b160cdf07142df65%2Fgettyimages-1169089775.jpg"
         width: 1200

@@ -221,20 +221,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Inside China’s underground market for high-end Nvidia AI chips"
-    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
-    publishedDateTime: 2023-08-27T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14936857"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 54
-    images:
-      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
     excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
     publishedDateTime: 2023-08-31T06:00:00Z
@@ -431,6 +417,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "uiqHEMDgeqjDu2g9KDJ6YfBrqIOmn5DPROhgugND6QPVqnnfBcjgT5rbtTIIYZn9vLVGKEzWvQLAbvbFVfajeqsrALUfzUXQLe5rKbOKA+AZrKOd1us7ACE8JM/o3WcsaUjD4vgTqDjH6AHx+Iv+9YVxl/TUNRkrR+QrJDE2IN4Caww+1BYBTmfQeXtKPxJnTrmdaMXrfpQG3TNs9GyI0GUmZ19toi8DHej8U8/W5nWeWyQ9JISRFQilcx3jyUrYIkykJaJ6PZl1eHX9ZQnpkRMRzHzBSsWkp1AO5xjXa0maqGj0Y+ClnswugfUKBKsSRsdQLSLbMEreoghQ8V+9e3BegqOW8mmRlVNeXCfOKCU=;rd4xHTnTxkkYTVmMSP3kjw=="
+secured: "PDxM1+MHjhonERyPOkDN6aE6++nahC4tgwBUq20J9SnURUdygenJ6wdIwB76ehXRSQoEdJ1bVUg2AdgkFTZRJz8fi/r8IejJuSZA67dUYyHOPQ4B8ic/W1HE04kxs64+wh1J0cJQBt8lki3n3jIq2N+e7SNUUWapuKDAnZoTZrMFFRvbxteOFWe11yS6h1OuL+javctPeHtKsJza8r3mB2iQAdUka1mcwPfro2e62+a/kMSg8bbd/sQIhBGel3JVmqSXy54pfJIEKtiDus9JB9PD1z7ITRLmBktyCe/+6Y8EM9hpCT7jdfzMccILmB2z9Yu5T+1G0eizOM9fOmHwPzgRgSpbepCLxICHYxRm61xyPJCHgakPacjSDhiYcgK2ZGU0c8DOFWeyAJqVJck2OxEYCWFdWW7z+X50kCN2sb0om84ubEmfE5CDMsWe+YDEX6tbXWWuwKnQX4VKi4lJvI9DlzbTTYug+Bg+nQztC4ab1jbLfAS9Xdsjnm1DxTmQ/fpBCCae/sllEaWS4E4maA==;0qYyCT6rQnqUg7SOMXdGew=="
 ---
 

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Uncovering the FinTech pulse: Q2 2023 global trends revealed"
-    excerpt: "Also Read What are Kubernetes, and how can it bring out the ‘true’ potential of cloud computing Axis Bank adds UPI interoperability feature to its Digital Rupee application  While there’s little doubt about the long-term potential of the FinTech sector,"
-    publishedDateTime: 2023-08-27T07:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-rising-api-related-threats-call-for-responsive-application-security-2-3224056/lite/"
+  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
+    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
+    publishedDateTime: 2023-08-30T10:35:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
+      name: Financial IT
+      domain: financialit.net
+    quality: 51
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design201.jpg"
-        width: 1200
-        height: 675
+      - url: "https://financialit.net/sites/default/files/stxnext.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Governments, Fintech Centers Focused on Reviving Tech Sector Globally, Report Reveals"
     excerpt: "a review compiled by The EDGE Global AI & Web3 Investment Summit shows. According to audit company KPMG, total funding and the number of fintech deals “dropped from US$63.2 billion in H2 2022 across 2,885 deals to US$52.4 billion across 2,153 deals in H1 ..."
@@ -57,57 +55,34 @@ related:
         width: 1920
         height: 1712
         isCached: true
-  - title: "UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
-    publishedDateTime: 2023-08-29T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-2023-q2-results"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1767.jpg?h=7de12b8a&itok=XobXNegz"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "UP Fintech Reports Two-year High 2023 Q2 Results"
-    excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech’s global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
-    publishedDateTime: 2023-08-29T23:06:00Z
-    webUrl: "https://business.scoop.co.nz/2023/08/30/up-fintech-reports-two-year-high-2023-q2-results/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 24
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Stay Ahead Of The Curve: Kimberly Rosales Reveals The Definitive Top 10 Fintech Trends Set To Dominate 2023"
-    excerpt: "FinTech expert Kimberly Rosales reveals 2023's top 10 trends: DeFi, CBDCs, AI, open banking, sustainability, neobanks, crypto, inclusion. QUéBEC, CANADA, August 29, 2023/EINPresswire/ -- Kimberly Rosales , an influential figure in the world of financial ..."
-    publishedDateTime: 2023-08-29T22:03:00Z
-    webUrl: "https://menafn.com/1106982540/Stay-Ahead-Of-The-Curve-Kimberly-Rosales-Reveals-The-Definitive-Top-10-Fintech-Trends-Set-To-Dominate-2023"
+  - title: "Banking Revolution In Action: Kimberly Rosales Delves Into How Fintech Is Reshaping The Financial Landscape"
+    excerpt: "Rosales underscores how FinTech is placing customer experiences at the forefront. Innovative digital interfaces, personalized services and AI-driven chatbots are enhancing interactions and providing customers with convenient and user-friendly banking ..."
+    publishedDateTime: 2023-08-29T21:41:00Z
+    webUrl: "https://menafn.com/1106982515/Banking-Revolution-In-Action-Kimberly-Rosales-Delves-Into-How-Fintech-Is-Reshaping-The-Financial-Landscape"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 6
+    quality: 21
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
         width: 429
         height: 250
         isCached: true
-  - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
-    publishedDateTime: 2023-08-29T12:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
+  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
+    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
+    publishedDateTime: 2023-08-30T23:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 16
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "QjcxupS5koix3QygfsaR/MKPtqy6+ckHdXx/WrJfmXIXf6LkS5mFTTY3rhMoQlXyUkhEQFX5Ujh03Vi6+DY8bbs5x2mI3bIYUHlnggZZfEtlrNA1gQ1owd9Ko1NOX+v1tXFXgjjWs5DEF8gZKCBGiWEfmIak0x2hj4bE1knbptbBRUtVS4wYfInVJpxouATsYWwVSW2SjkWdqnps8/i3Sqs6bZfGI7ogcynwnIrWf9umpRGU9mlhtf65bnZgzcZA73Ato8YvAGbxSjYxbUgPGLVS/O/MxFsSxohjL03rnZqfZCtSu7Ejp5RUz6Dcvxg89b7+hNtu0A6XgRR+crJHow4MrrDuo6DDOEM8IqNYPwzN3I7gBjCO3o0xA0pahiBe0lhv6ucKwNLeWOX697jlidPousZ4h3ll31zwS4Mk5UZ4kvBbRgWWPU0OrVvCXMz2XCxrmJR2hQ1BzrQmqyCZ6sWmFjEJvK2t6iwQkp4xYz+7Y3ou5XpzuxdNWPYL4OGcVENq/4D1u/hX/RF8j9t/Vw==;oUi4Jl37srDDpP/jpayxug=="
 ---

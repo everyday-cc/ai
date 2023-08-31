@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cybersecurity experts are warning about a new type of AI attack"
+    excerpt: "Here's what to know about these type of attacks, which involve the large language models that power AI systems like chatbots."
+    publishedDateTime: 2023-08-31T17:32:00Z
+    webUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/31/chatgpt-mobile.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "JMITiP8UWU2mEhRTzZlHijFCloD5+p3MYpkWGYoPuTtQ5Jw9zlH/V/lBdAfxndfnlrRNmlgNF/SCeMN0yOH+bo/va5QkbBnRsYZ6qxmAl8TJmNkuOsIm90gvlH7Ut9p/vVf2xgZIdKWk+TmuzzDmLlsA4pgh0qaJ0MwTOdl38Z7vZHYMI/D1jGXzV/Weg4titvHsWKTONPZJExib3YtHzK/kdUYB6YqE0oT8jl8ASFr9i615Zm+99GHeo0sFp7ldZKsWQ/rfRO2MbFUyqT9r5Q0fPTT0YAAolBK+8u9mic/3JVBCgMZeQDVMj8OAw4T9UH587xdiXi3yDjTryrpzv8euDKOhe2AluCiTnXvTbMI=;QHD93aZYixbmqMeRH6HkQw=="
 ---

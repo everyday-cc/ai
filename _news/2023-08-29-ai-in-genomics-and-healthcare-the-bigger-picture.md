@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Economics lecture to explore the pros and cons of artificial intelligence"
+    excerpt: "AMES, Iowa – Economist Tyler Cowen will discuss the future of artificial intelligence next week at Iowa State University when he presents the 2023 I.W. Arthur Memorial Lecture."
+    publishedDateTime: 2023-08-31T16:09:00Z
+    webUrl: "https://www.news.iastate.edu/news/2023/08/31/cowenlecture"
+    type: article
+    provider:
+      name: news.iastate.edu
+      domain: iastate.edu
+    quality: 36
+    images:
+      - url: "https://www.news.iastate.edu/media/2023/08/F0FJ-472.jpg"
+        width: 472
+        height: 266
+        isCached: true
 
 secured: "eKjM3gPfPuH+QNc1lpI0f0S6IVrP02yo31K8XGrMEjRea3ZT3LZhSshSiv4ub0DLArF9S9hGF+CYg8aBhhGI5zPtXzA4LyL4IAQ8n7V6BvMv7mQhZGJYLja1l6jP89SB4NG6SmheWqrgiIUyq/w884T5S5cob3hpdLapBIzxKR/DhZu/EJnsCytXi6xlcvI6MYB1KNdTEEZSsIAOKFIKxE+5/Bkhd5Grhezuw9/3Kc9shToEK2lrq3rutJGSVPK2YE+K1gfGg0NkmV1i59hJGKohIikHKrpE38QdvU1hjhTfg2a87l9HKPbwO/PL8sBlHGAyDPkrnn4R2MGU+J4Gf3eztStxe2myMrXbXIOGE1I=;GRKkHT522jknxdrPL9aP6A=="
 ---

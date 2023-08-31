@@ -50,20 +50,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
-  - title: "U.S. startup taps AI to improve search for EV minerals"
-    excerpt: "TOKYO -- A U.S. startup developing an artificial intelligence program to ... KoBold Metals, launched in 2018, has an AI platform co-developed by Stanford University that crunches private- and public-sector geological data collected from around the globe ..."
-    publishedDateTime: 2023-08-27T00:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Startups/U.S.-startup-taps-AI-to-improve-search-for-EV-minerals"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F1%252F4%252F5%252F4%252F46404541-3-eng-GB%252FCropped-16926475822021-04-14T000000Z_402762514_RC2PVM91ABOQ_RTRMADP_3_UGANDA-MINING.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
 
 secured: "ZVs0eO+oDAuMWV36VdsDjM+mcFVb59FxdTMsMvocbT1AltWVzaVpPOKCo3SGxz3TiI6r9ggwJEBYvob6WULy+HcLF9scU5z9zTzvn0C83g4Th4ify8FzxjI+/KRPthdskafRJcZiZkdaHCMRAnP5Vph6bzUtWEIH3NvI1ep/LPkQjLS2TWSpeC8zraIOyUKXj31Jj6LGeCyib/3sttgq6iqve+J9NYrDjbocfwWRcuJG7k3CspGOybFvj5UrMHO8CB72/IL+sgcya2rYutSlFoEb8Wi/GPyW/DSJej9IgkMbHcC8afNNaMAFH5/YUik/RDxgrhrR9GdkUNCEl2R5PGQfDBLZq4tyExFOU1Wb7TUrwWrlqgw0Z30YVTlVN5xW80mVMTEdaJxoL4AAA4HaWJSbwDDdBpxygxFPUbEV4ylw9TLeZzQvdVloVgRtT5lCrls6IYI/slbOnLVwLMEEN26gHqK8SpznIDqBUx1V/+Ud9b3/HNpGCJP7CcHnXGUSofo1EbmzsmzLzGZXe4wEdw==;nML4pNJ75+Vbr7bFH8WJAw=="
 ---

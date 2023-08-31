@@ -156,6 +156,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
+    excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
+    publishedDateTime: 2023-08-31T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 54
+    images:
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_650667620_XL-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Artificial Intelligence Is Ending Micron's Downturn"
     excerpt: "While Micron is a long way from printing profits like it was during the pandemic, soaring demand for servers capable of powering artificial intelligence workloads could help pull the company out of its downturn. Demand for AI servers is exploding."
     publishedDateTime: 2023-08-29T11:51:00Z

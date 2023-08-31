@@ -218,20 +218,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Inside China’s underground market for high-end Nvidia AI chips"
-    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
-    publishedDateTime: 2023-08-27T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14936857"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 54
-    images:
-      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
     excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
     publishedDateTime: 2023-08-31T06:00:00Z
@@ -428,6 +414,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "N8ny+gBnvRr4ItVW8y3L5Tle8Zkm2LES4Z5MV5dJVVUCl4DRg+1enlAQAn1AxFxb9aL828X3iXfTHbDVOnmHuHaxgNL6ySselIFu6xqcFevCS3fnWEmJjM/kTh5iSuhlWi6m8bry6x+/DOAxKBb4Fh+PpfsNTjHKCYYkI2/U/m8E4oUYqrM3t3VhJZ26LLZdicwCVJ5XJE7hzxh4bVpLRIQqwZ8b9GgmfP98WCXjxTyQFNHUPjS1gi+4Q8Cagvvs9Xqq/es/6ctKR2XvVhIFhhlJ+tM6+zYATQTpBhrba/1q8kGtyCgXP6x/7HI05te5kYa9VR5/pB7WTFyREgHfRmvTUeIgO8B9r8AzH1s8Sus=;lGwcYmAES8PshsYW23DVuQ=="
+secured: "lb8N1JgQHxnurXWgTBEciWk7tHCvnJc2anv24eraIb2dRxgjeCH6Q/dbilwB4ACB+evtRcKGtt/bOYk3Rw2rtGHM/r/1rKiPAsbXcXWkxxLGiQurrxzzf1gwDIiiMBXXimm+412PZ4p1BHENNmiWOGh0W5PjR5mAoz6vSh2kT5UFalJP74MGIxr8pnzVhqxU/3TeJmzzu37w38PCOdvb+XJskKdr6QlAdAJjdiXRXleT049DkuC/jJQQFYFFwawy00QN59j+lJpjxdI+cIYGPOy/BQzwe039sIbRE3WFv3h0pxLVIeSXlgb9d+Eq4XyvkBb5rQ41QDSsMAR+OsRg9+OUco72Xy52TtOJe78MccKyNSfvY0zoH457swP1nBBCA4zG47sx0z3/+YSW5pjVZvd1kIMnh1QgzoGsanJ8m7i2FXDOnIUKYWFYrGmWwrqD3RunrcV9jV9mIyRnZdfYtWSRJfGirfuJLga5yRlXbgKCDJJgYORgtq3qCldOR4LfzIJQhlevFOYAkbxEPHI+4w==;TQRU+SzV3gk6rTNi+Mcumg=="
 ---
 

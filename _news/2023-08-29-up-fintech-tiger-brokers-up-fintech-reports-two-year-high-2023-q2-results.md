@@ -35,36 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Governments, Fintech Centers Focused on Reviving Tech Sector Globally, Report Reveals"
-    excerpt: "a review compiled by The EDGE Global AI & Web3 Investment Summit shows. According to audit company KPMG, total funding and the number of fintech deals “dropped from US$63.2 billion in H2 2022 across 2,885 deals to US$52.4 billion across 2,153 deals in H1 ..."
-    publishedDateTime: 2023-08-29T17:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Talk-Proclaim-Declare-Announce-News-Speak-Information.jpeg"
-        width: 1920
-        height: 1712
-        isCached: true
-  - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
-    excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
-    publishedDateTime: 2023-08-29T15:12:00Z
-    webUrl: "https://britcham.org.sg/news/pursuing-fintech-growth-southeast-asia-4-trends-radar-2"
-    type: article
-    provider:
-      name: britcham.org.sg
-      domain: britcham.org.sg
-    quality: 24
-    images:
-      - url: "https://britcham.org.sg/sites/default/files/inline-images/pursuing-fintech-growth-in-southeast-asia-4-trends-on-the-radar-content-1.jpg"
-        width: 770
-        height: 550
-        isCached: true
   - title: "UP Fintech reports two-year high 2023 Q2 results"
     excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
     publishedDateTime: 2023-08-29T08:10:00Z

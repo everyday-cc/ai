@@ -218,20 +218,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Inside China’s underground market for high-end Nvidia AI chips"
-    excerpt: "HONG KONG/SHENZHEN, China--Psst! Where can a Chinese buyer purchase top-end Nvidia AI chips in the wake of U.S. sanctions? Visiting the famed Huaqiangbei electronics area in the southern Chinese ..."
-    publishedDateTime: 2023-08-27T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14936857"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 54
-    images:
-      - url: "https://p.potaufeu.asahi.com/8d21-p/picture/27657556/fcde11537b487468a0b361aef342d99e.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
     excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
     publishedDateTime: 2023-08-31T06:00:00Z

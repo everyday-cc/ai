@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-31T00:58:00Z
 originalUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
 webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
 type: article
-quality: 53
+quality: 51
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: laist.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -51,6 +50,6 @@ related:
       domain: news-medical.net
     quality: 33
 
-secured: "MU8m390EJEYzVVjaitKUMivi3OiFVoM29NGPAm7qYAkfZcQ+Z0rrnCc6WMPYFvJIjvcj5MpkzCScxBfBIFKDa0RT1L1KyWEuulRGLYnw3I3TrcDTPSYMS07cCXwTmf1z1xjsURle7dchKe3r6SnfhJcDX5+NmXIH7szv/vcM4alkP6h7BTJyUl/KodZW8kUNG80F7rVHKNqG11Y1jPCUE2i+Nj9eAyFTzY1w/7sdT7k1zeN3HgB2hU8xMKjHVjL7E9tWEBqdooZTaKgIAvU2RN7Rqp7KksL+B3YMaIDhvOb4tfbIGNmDmvP8DVC1z/DI8iMDZ0HlUTFm57LFzG6sBUdKoFitoXtzbR88cwVkzv8=;g2g9k0wPj1U1FvSJTVxLFg=="
+secured: "+ls5xWj9BPDqhg8HnDuTAvoqGeYLLhXhCvFiWw4of1YydY/d9sSvxmSXiUXzZp17PNYFOeqjMviexG4JvN9YG4KlBNejeCSHZC272bIwXQOlC3fHH9/W25lpjirN3n08fC1YiRSQAmls6l8ESwSoyl+6c4VF1I8I2vCg/lzhuKDErtce+GKJ5ySaUDeASBj9jM8AHlHhl60Xi68YXwAJm0/GcGdYd5TRCFcWcul103r7+1/v08/UqcVXBosjZ3t/99LUTSexdUeK3PfOgjnxwoQQIuP4UVs6k0Vh262SFSJkOlhL0pGU2hbRxvW18dX0+4k+MSaSZ6C0VDwc7m/osWc/8S62OIHPyOmIQnYqvws=;u4Pk8gJwCVkWe8wb6+P5Ig=="
 ---
 

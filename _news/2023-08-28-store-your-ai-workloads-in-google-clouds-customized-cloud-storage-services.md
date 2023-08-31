@@ -133,6 +133,20 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 38
+  - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
+    excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
+    publishedDateTime: 2023-08-31T16:03:00Z
+    webUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Using artificial intelligence to write a business plan"
     excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
     publishedDateTime: 2023-08-29T15:20:00Z

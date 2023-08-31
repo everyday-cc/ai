@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Generative AI and Foundation Models Face Inflated Expectations"
+    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
+    publishedDateTime: 2023-08-31T17:08:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
     excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
     publishedDateTime: 2023-08-31T04:40:00Z

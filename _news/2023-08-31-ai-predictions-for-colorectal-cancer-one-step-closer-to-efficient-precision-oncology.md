@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-08-ai-colorectal-cancer-closer-effi
 ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-colorectal-cancer-closer-efficient.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-colorectal-cancer-closer-efficient.amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-predictions-for-col.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "Pd2gAbEl16gsFlUC1ACQAVYrUAM06EgvUcKYkwdFTOXoioJJOVHWGE5/pNqocSFs7Nycc7xRsg2IfJe20KWvsv30mvCwhShDnliw1T1hptWv9j5Y4UkhC8pla+L3ao/2gb+AtreyWiDcbnuRY7oh/r2QRN3T2XLV+Prri5BEfdFb33C2QKjglYA8WJTjKSMmXvbXDMC5AnQu7sQbBVnzcQRT7V1SAylLiQiPoaCZPuHfjl7RVh8YyfTiD8sti7vgwUSkeNpYvcciuU71hRYLS7WFYLixYN4Uh8tyRvH/wN4MgAZU65kGY3PhLHGJ8bkT3rE7dYVMIKrW9vd0cwBz7toTELO75v0cDhZbmdr+Lmo=;FFKnBSTiybDBIP4Cnq9mTA=="
+secured: "HlmApWv2ucImx6SVW153Py+fuaj7FTRjtW/DDfX0sIeH3jRtuAa75SIcaQllbf2DA+jXTrG1B2fHXH4aNCuMxgGARKsjpw0HydadPu3OX6zYt2ca4xYV4DzRW+LdOLQ6lWofWYM8TB/rg2xynv6aDp0E3ugbJ8zvTVFVgLczsNApefx7BuH8c8RIVwxruJED1EWEMHdK3BHDghzIqKm2/W4yjRI0CU43+1vd29ku4qQFde2FDrT/GgQmDsA2Ztgsbu91DpocpdVtEXKJIBzhLlun643y85dfRh24T/EukR/8teSU4dXRPrYVWsYxVh+w9DgcQxFPWxvzj4odXh09YJ54N6c6ZWvvWjUa6+UIJgRPf3CUe9cX4YJrg2s4jEcqUPhd9Sz+BV+BIik7SjkyukKpMMj46vCHME7MBrGp0wMkhb3JIrZRNagET5IhGndcYfwBnSO11byAyhjkpNcaPSPn0eHrDvrB+10T4mbVKnhHA5MQEqHH2Wjs/cfHSWKW42bAS5MAzhuCIazJO587eg==;7S95Z156Rby/S/m6NH8duQ=="
 ---
 

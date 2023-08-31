@@ -158,6 +158,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
+    excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
+    publishedDateTime: 2023-08-31T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 54
+    images:
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_650667620_XL-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
     excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
     publishedDateTime: 2023-08-30T13:17:00Z
@@ -242,6 +256,6 @@ related:
       domain: eurekalert.org
     quality: 5
 
-secured: "pvzPeSFVsb5Ja5f1RMS2fonXtdJZ1EQGolG84KNb2sLnEFJcz1XglXYufBgKiYzaCWxpSBf4Wi6Z7N5JwKTv3xDAkaoeiW2P/1uI24q5GcW114hmNl4DXsyLEicp7v03Nawgv8F1ahtMzUiLMkRamKr669+UtONVNktd2+hm0VZ1jqXxM+IZWPpSFWkEbonPdNFl2zn8pxEWpMhQ9nEtznnFsmtVSbkE9pxaf53yzF4SI1g/fFiqVyN0zdNq34FFm/DPb23yop6J5V+TjYXq2rm/YCfB0FGHrjgBaUwWT7VBY3hxdctNSqrkgGpuPomTahIFvGn4IVWBaAUdJq57AnWcnlTpK5bztcZGmPixcNA=;WkByyve/XZv7g3A1qE45Nw=="
+secured: "IT7ccTNXsKhS3DUOnDn7XwPb4iaIY/8vIiwvfY+VliyO08y5gQhFQK2lEqFKKTyJaDPiK6aHgA2IZbDu0sL8cL7Efa8xrTuuy8Tc/1rH+WLx+vSy5Gljf4YAixSYbx4FXHg3ig1sQqLEtC7i7cp09cUIjpsoX3w/VVCoQxaM0Hcc4+XBq0Qk7eeSgScwxL/tdI/7as7YPWp1nX60Op2gXwUxQFyS4W/ihAzRkItTf/nqDXrGNHPQOI22ju4ESbfNv1CKhmICfHMfK+bO3KRFvz3yfzQeZ28LPpiLUob42i1Spqe6I/SAOEIBjeN4r9FJMHbQlp9I4VMnLh+Jr6i56BtNePCw+khJKB5RzHoLPox9a2qaz2qZkJBuePLz5nIHx3qtkicOfECXufZDAhlYfM19ATsWV+rmojR7QKCYSmv75PylOMTwJhOqveAepRdLpu22V3/bKDBBwUjpxHSTkGK3WYJLRP1mKfIlKOMvSbU3C+ZN7V3E1xMbKSz1clLvNAg6dD3h6VT3aoKnk18EfQ==;DlcsFCvr0fYrkBIwXkgOrA=="
 ---
 

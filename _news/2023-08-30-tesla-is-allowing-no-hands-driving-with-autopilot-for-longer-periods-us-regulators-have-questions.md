@@ -67,6 +67,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
+    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
+    publishedDateTime: 2023-08-31T16:10:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 51
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/Tesla_Autopilot_Investigation_13169-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla allows no-hands driving with Autopilot for longer periods; regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
     publishedDateTime: 2023-08-31T09:59:00Z
@@ -127,15 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-30T18:47:00Z
-    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 11
 
 secured: "Wl97hc/4nwAsUAkEPmwSr/1o7Qq60JCpuamUS9pW0mMjy3pWcNp006WfbxkDKfIzqsP9G6wBK8yZw1dlL9Qgz9DTXTBOdAhMP1Vmo8yGPD+xSviayoFRT9RVmq9Gl4P/V5gQZawq4dkswXBo0psSCVtDmWNHrEfx2PSp3XS7bR5NZ+uxRf1mqLrmb2+1cL+TG+cmpIxQb+bItzvdffdEBOVjm4AfnrfFCgs8TvqBZ0aI3G2x1FcfzYm/rIhuslm3/5001uCMV9iPSaDnVahGEZoDuowcYDEH7nbUUTGoHRvbwEiyF47BygGo5D+9PHodZP/JzU7u90YaExSpdnn4+Wqfw6mJQKlapv+yjop3aIDgCBW7DybcOoTWgmuojqIGvjSDLsPpFr8mwJg7NPWG5rLXCazXR7+phHoglqEC51o/hYyc7J+4rqqzblNs5PQ/CMOjb+118fzlVQDVFHK8IQ3mfHtE16rcxggQK/bE+6RkW0gaRHmSc+sgbOIJynNXwudrdQA5+S6mIIquLaPuRQ==;ArB7UpVDuE+AMVRoo3M8DA=="
 ---

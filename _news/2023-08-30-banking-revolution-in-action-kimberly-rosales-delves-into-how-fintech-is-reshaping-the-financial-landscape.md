@@ -25,19 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Making significant strides in the region’s AdTech landscape"
-    excerpt: "Smartifai, a leading provider of audience context solutions to advertisers and marketers, has announced the successful rollout of its operations in the MENA (Middle East and North Africa) region. This expansion signifies a major milestone for the company as it further solidifies its global presence and reinforces its commitment to delivering a cutting-edge AI-driven approach."
-    publishedDateTime: 2023-08-28T06:02:00Z
-    webUrl: "https://campaignme.com/making-significant-strides-in-the-regions-adtech-landscape/"
+  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
+    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
+    publishedDateTime: 2023-08-30T10:35:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
     type: article
     provider:
-      name: Campaign Middle East
-      domain: campaignme.com
+      name: Financial IT
+      domain: financialit.net
+    quality: 51
+    images:
+      - url: "https://financialit.net/sites/default/files/stxnext.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Governments, Fintech Centers Focused on Reviving Tech Sector Globally, Report Reveals"
+    excerpt: "a review compiled by The EDGE Global AI & Web3 Investment Summit shows. According to audit company KPMG, total funding and the number of fintech deals “dropped from US$63.2 billion in H2 2022 across 2,885 deals to US$52.4 billion across 2,153 deals in H1 ..."
+    publishedDateTime: 2023-08-29T17:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 37
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Talk-Proclaim-Declare-Announce-News-Speak-Information.jpeg"
+        width: 1920
+        height: 1712
+        isCached: true
+  - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
+    excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
+    publishedDateTime: 2023-08-29T15:12:00Z
+    webUrl: "https://britcham.org.sg/news/pursuing-fintech-growth-southeast-asia-4-trends-radar-2"
+    type: article
+    provider:
+      name: britcham.org.sg
+      domain: britcham.org.sg
     quality: 24
     images:
-      - url: "https://campaignme.com/wp-content/uploads/2023/08/01-600x600.jpg"
-        width: 600
-        height: 600
+      - url: "https://britcham.org.sg/sites/default/files/inline-images/pursuing-fintech-growth-in-southeast-asia-4-trends-on-the-radar-content-1.jpg"
+        width: 770
+        height: 550
+        isCached: true
+  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
+    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
+    publishedDateTime: 2023-08-30T23:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 16
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "N5qRqtYDrPcuj2iVYugEj+2VtCzfdJdcacxBdu+lID5bQvjt6at5nyIqmkyLqvH+dpDwfe3Xl1oPsPApxRaDMWLAynQZdMRdrMI4e39sVUSvulDVapshxS+e46VQeW7oV42YOMdjaSXWP3W3PR7XMks3WMgQ2Kg2hRrqQFNbdqmePFN5EwLzTN9653m8Wt2rA766Dqov/qzcdgzQ8B4SFtD6GQC2NlRcuMps4exCRXqKwuYQ79NR0lB7N2hfadpeWvPlA31pvxRlIBG+/zJ1NkKmL7lh+uplW9HNtKJ6sKlElM/clwrtrq/Z92RHx9zQpN8wvoyBIiTCjgNP67WHTOOAUMBozAa1kLnsViyhpEU=;q2b45gcHjC+ui4bs6aeS/g=="

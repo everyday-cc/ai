@@ -129,6 +129,20 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 38
+  - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
+    excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
+    publishedDateTime: 2023-08-31T16:03:00Z
+    webUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
     excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
     publishedDateTime: 2023-08-28T15:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
-  - title: "U.S. startup taps AI to improve search for EV minerals"
-    excerpt: "TOKYO -- A U.S. startup developing an artificial intelligence program to ... KoBold Metals, launched in 2018, has an AI platform co-developed by Stanford University that crunches private- and public-sector geological data collected from around the globe ..."
-    publishedDateTime: 2023-08-27T00:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Startups/U.S.-startup-taps-AI-to-improve-search-for-EV-minerals"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F1%252F4%252F5%252F4%252F46404541-3-eng-GB%252FCropped-16926475822021-04-14T000000Z_402762514_RC2PVM91ABOQ_RTRMADP_3_UGANDA-MINING.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Google Duet AI will help with Gmail, Docs, and even go to meetings for you"
     excerpt: "Duet will be available starting at $30 a month, and Google says that the AI tools will allow you to take meetings in Google Meet, even going so far as to translate those meeting notes into 18 different languages. Duet is also the powering agent behind ..."
     publishedDateTime: 2023-08-29T14:55:00Z
