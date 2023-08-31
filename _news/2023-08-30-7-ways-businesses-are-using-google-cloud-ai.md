@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-clo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
 type: article
 quality: 109
-heat: 279
+heat: 280
 published: true
 
 provider:

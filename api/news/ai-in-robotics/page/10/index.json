@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
+      "title": "Kent County enlists AI-powered robots to better sort recyclables",
+      "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
+      "originalUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg",
+          "width": 3000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
+      "publishedDateTime": "2023-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
       "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
       "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
@@ -1290,58 +1333,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-15T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hholove-o-sitter-review-best-companion-ai-robot-for-cats.md",
-      "title": "HHOLOVE O Sitter Review: Best companion AI robot for Cats",
-      "excerpt": "Well now let’s start the setup of the O Sitter ... As an intelligent companion AI robot, O Sitter can also play with your cat for you. There is a laser emitter on O Sitter’s head, so when the cat is bored lying next to the robot, we can activate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/maxresdefault-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T07:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",

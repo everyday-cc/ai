@@ -2,6 +2,132 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-28-leveraging-user-generated-social-media-content-with-text-mining-examples.md",
+      "title": "Leveraging user-generated social media content with text-mining examples",
+      "excerpt": "One of the best ways to take advantage of social media data is to implement text-mining programs that streamline the process.\nThe post Leveraging user-generated social media content with text-mining examples appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/text-mining-examples/",
+      "originalUrl": "https://www.ibm.com/blog/text-mining-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T06:05:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-a-beginners-guide-to-automation-and-aiops.md",
+      "title": "A beginner’s guide to automation and AIOps",
+      "excerpt": "How automation—when applied to IT and AIOps—helps you achieve better business results in three key areas.\nThe post A beginner&#8217;s guide to automation and AIOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
+      "originalUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T06:04:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-macmillan-publishers-authored-success-using-ibm-cognos-analytics.md",
+      "title": "How Macmillan Publishers authored success using IBM Cognos Analytics",
+      "excerpt": "Discover how Macmillan Publishers took on their data challenges with a new “modernized” approach to data analytics and business intelligence.\nThe post How Macmillan Publishers authored success using IBM Cognos Analytics appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
+      "originalUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires.md",
       "title": "Don’t Sleep on These 3 Robotics Stocks That Will Mint Millionaires",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Among the long-term investment themes, robotics stocks are worth considering",
@@ -10,7 +136,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -727,7 +853,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1064,154 +1190,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
-      "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
-      "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045931",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931",
-      "publishedDateTime": "2023-08-25T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech.md",
-      "title": "Polestar 4 to feature Mobileye’s hands-off, eyes-off driving tech",
-      "excerpt": "Swedish electric vehicle maker Polestar wants to bring Mobileye's Chauffeur, a hands-off, eyes-off autonomous driving technology, to its Polestar 4",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/",
-      "originalUrl": "https://techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Hero.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/amp/",
-      "publishedDateTime": "2023-08-25T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal.md",
-      "title": "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal",
-      "excerpt": "The fusion of AI and diversity in cybersecurity represents a significant shift in the narrative of this field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/43763dae5d3951cc7789a18bf6ab44f5ce2244b6/2023/08/25/e00132ca-59e5-4e83-9419-2ad192c4a927/maxresdefault.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "publishedDateTime": "2023-08-25T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

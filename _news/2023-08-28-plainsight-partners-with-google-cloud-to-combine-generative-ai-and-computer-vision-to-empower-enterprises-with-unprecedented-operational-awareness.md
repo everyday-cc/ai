@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Learn more about our consulting and professional services here."
-    publishedDateTime: 2023-08-29T20:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
-        width: 400
-        height: 342
-        isCached: true
 
 secured: "TPJWWZ76HpAMpyzJYrZnuoR0M3z74NT1laU+5tb8z15NGxQ/+3+Vi0v13h7Ps5PDWQgAt4wdD58J1UkhrX//JRU4FUcQ64zYgwoNztaZUkZQnx7PExyneZDTFOlhtTBQdakIJw3yqahaC1B+14MBaFU+SPfD9slmhs8Cz+Pe/8q2ljtUVIrITjsfAUcI2BGRYg3Qfu5khAGR+apfGMQdowXnO9VOzkeyV7WQCLadMxyXKH5yjLhEkrXxSTkx1rbOpEyBTDKlKJyzOTOyT3KYip6hv6zsoI3sZGwxnOO9jcCXUDPNwRp/7zvcucnhJtc72g0/C3/Kjkyl1wn6jp/JlV72p7JKZSClO7+6WREPoD64ZcuxYjmoeQFnhZfCmKJTa0/eU9c9SwDUfU4E9APR2Lff9zCAP7MB8AMSPDGCD4pxV1AIqOBNBr8PVusJi3HCph3lFNfNipD4DrB0A8W8YmOhfZNFEXoDYj6XQrqBExlXdwSTPNd1y9qZR1va/Dq9BOinvzEyTp9QfFi/StVJoA==;2ZdnWB3Y3ltY9/I11mIL3A=="
 ---

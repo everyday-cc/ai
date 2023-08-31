@@ -20,6 +20,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Google Adding Meta, Anthropic AI Models to Cloud Platform"
+    excerpt: "Google’s cloud clients will be able to access Meta’s Llama 2 large language model, as well as AI startup Anthropic’s Claude 2 chatbot, to customize with enterprise data for their own apps and services."
+    publishedDateTime: 2023-08-30T22:00:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/google-adding-meta-anthropic-ai-models-to-cloud-platform"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-adding-meta-anthropic-ai-models-to-cloud-platform?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-adding-meta-anthropic-ai-models-to-cloud-platform?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2614a4e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F3f%2F4660393d4d39b26096194218444d%2Fshutterstock-1083498080.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Google to add AI models from Meta, Anthropic to its cloud platform"
     excerpt: "Duet AI, introduced in May, can take notes during video calls ... The cloud unit also announced a commercial service based on Ampere Computing’s new AmpereOne chip that adds weight to the startup’s assertion that it can become a rival to chipmakers ..."
     publishedDateTime: 2023-08-29T17:01:00Z

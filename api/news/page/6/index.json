@@ -2,6 +2,150 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-25-ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.md",
+      "title": "AI startup Modular raises $100 million in General Catalyst-led funding",
+      "excerpt": "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103038882,imgsize-22970,width-1200,height=765,overlay-ettelecom/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "publishedDateTime": "2023-08-24T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-can-ai-mitigate-the-inequitable-aspects-of-meritocracy.md",
+      "title": "Can AI Mitigate The Inequitable Aspects Of Meritocracy?",
+      "excerpt": "The introduction of AI in the workplace has the potential to address some of the inequitable aspects of meritocracy by mitigating the impact of systemic barriers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
+      "originalUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7ed31eba7df1a0ed8ae21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
+      "publishedDateTime": "2023-08-24T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-california-deploys-ai-powered-wildfire-detection-systems.md",
+      "title": "California deploys AI-powered wildfire detection systems",
+      "excerpt": "The AI system processes \"billions of megapixels\" of images every minute from cameras that cover approximately 90 percent of California's fire-prone areas. The AI program started in June and was initially deployed in six of Cal Fire's command centers but will expand to all of Cal Fire's 21 command centers in September.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wildfiles_getty-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/",
+      "publishedDateTime": "2023-08-24T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-watch-out-midjourney-ideogram-launches-ai-image-generator-with-impressive-typography.md",
       "title": "Watch out, Midjourney! Ideogram launches AI image generator with impressive typography",
       "excerpt": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here Earlier this week, a new generative AI image startup called Ideogram, founded by former Google Brain researchers, launched with $16.5 million in seed funding led by ...",
@@ -1066,143 +1210,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-metas-new-ai-model-can-translate-transcribe-nearly-100-languages.md",
-      "title": "Meta’s new AI model can translate & transcribe nearly 100 languages",
-      "excerpt": "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
-      "publishedDateTime": "2023-08-24T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ai-propels-nvidia-stock-nadaqnvda-skyward-will-it-craft-new-highs.md",
-      "title": "AI Propels Nvidia Stock (NADAQ:NVDA) Skyward; Will It Craft New Highs?",
-      "excerpt": "The AI (Artificial Intelligence) boom has propelled Nvidia’s (NASDAQ:NVDA) stock skyward (see image below). NVIDIA AI has emerged as the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-propels-nvidia-stock-nadaq-nvda-skyward-will-it-craft-new-highs-1032578541",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-propels-nvidia-stock-nadaq-nvda-skyward-will-it-craft-new-highs-1032578541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/08/NVDA-share.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 702,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace.md",
-      "title": "AWS Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace",
-      "excerpt": "Verofax, an award-winning Brand & Retail Martech service provider, achieved Full Technical Review (FTR) approval on Amazon Web Services (AWS) marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34017188",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188",
-      "publishedDateTime": "2023-08-23T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

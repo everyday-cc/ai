@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
+      "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
+      "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/01/tr1923-snap-packages-up-to-date.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
       "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
@@ -1424,40 +1477,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-facebook-launches-ai-powered-music-generator.md",
-      "title": "Facebook launches AI-powered music generator",
-      "excerpt": "Facebook-owner Meta Platforms has launched AudioCraft — an artificial intelligence (AI) powered music generator — offering realistic audio and music from text. The generator is based on three ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
-      "originalUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
-      "publishedDateTime": "2023-08-03T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
         "images": null,
         "publishers": null,
         "authors": null

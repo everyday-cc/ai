@@ -36,6 +36,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
+  - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
+    excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
+    publishedDateTime: 2023-08-30T22:02:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/30/salesforce-surpasses-wall-street-estimates.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "wamiEZjvXwubO0L70xkSsl/RC/hD0QeCVcEVutDb7y2Rkt9eVgx80is5mU0hQoV3vH42REwP2KsCZaFT+Sm1MHw3OfFR2JluqzCSMO8OG8+3TvBNdGYkGCDb9Hpy6QYJDIOqt5BIsH50IA6g2Q9FHmBu+DrnFHjBc499TWmTTLhoKJVwlyj1b3DhLOB9JhsYd+x+yRaLInp05HD/7SVF1UOTsLYT29veYcVsBu2+yeScjvMlKfHWPAuuWfxidfLT0jDePHGfPy2Q0TBfDiHTSdTQeRtsC/inxF686V4Fs0OPPgp07K4hWf8wcutGQiyVhWB2po849Vbu0SR8s/kIw15a+bTkCDMhAuy74jufHCCXVO4MiqTwWKEKy3unB/o+Ke1991X+2k1UJqIKNttHxHPb5ZIHU1HwYFAgs8rDKuGjA9jY307Q4dvPJ99cxaFkTeJ9oz1c0NLfiw36BiNeStG6zxGrI9b1AKcrU2fhkF0T6hij5edTQFOc02tOUvBdXW5Eml4h9lHXHMcDy9UBvw==;0lyiXrsd3y8BLpN1r5Vjvw=="
 ---

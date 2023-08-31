@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dont-sleep-on-thes
 webUrl: "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 AI Stocks That Every Forward-Thinking Investor Should Own Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future is artificial intelligence (AI) and any industry you name has AI"
+    publishedDateTime: 2023-08-30T22:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-forward-thinking-investor-should-own-now-1032594384"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 AI Stocks That Still Trade Under $10 Per Share"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) boom is far from over. For example"
     publishedDateTime: 2023-08-28T21:32:00Z

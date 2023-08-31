@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/hr/finding-and-keeping-talen
 webUrl: "https://www.beckershospitalreview.com/hr/finding-and-keeping-talent-remains-top-risk-in-healthcare.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Streamlining Healthcare Insurers’ Processes: Unlocking Efficiency and Collaboration for Enhanced Outcomes"
+    excerpt: "While the recent rollbacks of authorization requirements by insurers are a positive step forward, there is still work to be done in streamlining processes and reducing administrative burdens in the healthcare industry."
+    publishedDateTime: 2023-08-30T22:19:00Z
+    webUrl: "https://medcitynews.com/2023/08/streamlining-healthcare-insurers-processes-unlocking-efficiency-and-collaboration-for-enhanced-outcomes/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 22
+    images:
+      - url: "https://medcitynews.com/uploads/2021/03/GettyImages-1203832818.jpg"
+        width: 2119
+        height: 1414
+        isCached: true
 
 secured: "HZdmd9W2aHTauqHwOfKHePqwhwpECOdmPxMaQh0GM8tOmDiZUhB0P8BAr6bYC4CGwHd3FcrDJl7d9Pu35ioMJEG/NRi0/51dAFzMGSYPguFfvZNQPgPYavVeiGVui5p/bUlEB76vqNKiot1mPkcKnEtkr3PDzq4kpl5fUWkrqeimArn8ZZ9opX2jp29iqelbBQGdyqKndK+U4lqXV/ZZWLwRHsrBU1cbDT/+f0NmD/1UPEiHUrnUl44TnKMEDODxSoSa0xo5WEa7+UytiZ9BwJuW4QQ29UKmaiCwyJNrlxqG2lt2hj6AJ8pzAJZRz5vJ5M4R6m/1DvijzSZ7DGATDY3gsbyZyCnc+oqd1ZpMs7k=;9mKvzbeoyaAftbscfk40Jw=="
 ---

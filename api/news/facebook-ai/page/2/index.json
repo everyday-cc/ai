@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-03-facebook-launches-ai-powered-music-generator.md",
+      "title": "Facebook launches AI-powered music generator",
+      "excerpt": "Facebook-owner Meta Platforms has launched AudioCraft — an artificial intelligence (AI) powered music generator — offering realistic audio and music from text. The generator is based on three ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
+      "publishedDateTime": "2023-08-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says.md",
       "title": "AI-supported screenings increase breast cancer detection by 20%, study says",
       "excerpt": "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do.",
@@ -1426,59 +1460,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use.md",
-      "title": "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use",
-      "excerpt": "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
-      "originalUrl": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
+      "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
+      "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/01/tr1923-snap-packages-up-to-date.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened.md",
       "title": "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened",
       "excerpt": "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -243,7 +296,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1333,40 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-tomahawk-robotics-to-provide-radio-agile-integrated-devices-raid-systems-to-the-united-states-marine-corps-for-infantry-battalion-exercise.md",
-      "title": "Tomahawk Robotics to Provide Radio Agile Integrated Devices (RAID) Systems to the United States Marine Corps for Infantry Battalion Exercise (IBX)",
-      "excerpt": "Tomahawk Robotics is pleased to announce that ADS Inc. has been awarded a $3.5 million delivery order of RAID systems by DLA Troop Support, on behalf of Marine Corps Warfighting Lab (MCWL). The RAID systems produced by Tomahawk Robotics in Melbourne,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/08/15/9865061.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/08/15/9865061.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fue
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1"
 type: article
 quality: 74
-heat: 115
+heat: 114
 published: true
 
 provider:

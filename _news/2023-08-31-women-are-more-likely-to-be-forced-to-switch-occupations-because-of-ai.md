@@ -6,9 +6,9 @@ publishedDateTime: 2023-08-30T21:18:00Z
 originalUrl: "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/"
 webUrl: "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: TechRepublic
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr1923-snap-packages-up-to-date.jpg"
@@ -27,6 +29,6 @@ images:
     height: 934
     isCached: true
 
-secured: "PwtwgRjOIPZuO2XeCC7nsnF2MchVwbXLV8kbs6D2E03FOFYC2yda5dBKxlP0vjdymYc/TTaf8M+OJsIBallEliCFehF5O651wHGaVCU8xZBrZzMJxcrbjqFSCK0vhhRbtEjkoeZ5tz3oIlp2QAURVnIWMRFnxTTIp1ZT3Zb+K7VzN0mciorBJPSFLU31DDrRtZ5xAooXJWYVviXF+kXBbSAUocGfXTAHLfib90szFF+NwHhMEy3DQ3EhYMuRcLKjIh3X53lQBX8hYEofsXnY6haagyz0RiJwPrgPJwSFwIVUci9zzs4DrzFMzufYRFMSfd+HjF6aHJFu4QcPrGfLAZ3veRou9EoaQOguPmInoEI=;SxMM8QToZKGUxM7e623DzA=="
+secured: "LiGSrZfxyE+NMuc3F1rIcuoXjKjD6RdDLTcbkLcIGOZbaliFItV9oHguCytq4Ntg5eU3Z6nOid2v2TEgI0o2R1vgj7XbUy+CHxXKpiKV6bWXu1MI3aG0L0+eH9+S7EwPv3v0RHNmQmcUyGvaFID1AnA6hvCGDOGlMPlWyG8zw/iQ0Q45u9aeyP5AYX+gKobaf1pTQDYLel6CIOUjh+PN4J+oyKSsu1fHx0A7q4R2U2GTi4O6ZlW45xXCkTRtbZwsMdPSb559Uj+99C3csrMJF2U3ZVY/o4YV0FXF9pgJNtGRCJrS/+G/JbPaGm5E/VP2JEefXD2cer1Imn1r0WBmcyulmkRBKqXLWX8aSsvq61rNFLqcGKjWNfvQWQOcQd81SiIURZBL5LYw/ovyZUZHoLSa87c26hJAJv4knIqoCv9vAmcV51V0fqxY9RsKe+9mnWI/E6n3abDCZRHuQ36rrpxBZRnjYp6NHU94s35FcxEFH1T9WgoStfSz6eRtx3mR6b5p4atMacWpiGmkxHCnIA==;iwC8EKjk+OwsFEHwJ8aNbQ=="
 ---
 

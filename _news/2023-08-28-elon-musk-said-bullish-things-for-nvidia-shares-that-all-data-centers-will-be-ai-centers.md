@@ -221,6 +221,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
+    excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
+    publishedDateTime: 2023-08-30T23:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/31/us-curbs-nvidias-ai-chip-exports-to-some-middle-east-countries/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "US restricts exports of some Nvidia chips to certain Middle East countries -filing"
     excerpt: "The U.S. government has imposed restrictions on some Nvidia artificial intelligence chip exports to certain countries in the Middle East, the company said in a regulatory filing this week. One year ago Nvidia said U."
     publishedDateTime: 2023-08-30T19:08:00Z

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Feds question Tesla on no-hands driving"
+    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
+    publishedDateTime: 2023-08-30T21:52:00Z
+    webUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/"
+    ampWebUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/08/AP23213424013169.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tesla allowing no-hands driving with Autopilot for longer periods and US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
     publishedDateTime: 2023-08-30T15:10:00Z

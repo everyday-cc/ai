@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-29-top-8-apm-metrics-that-it-teams-use-to-monitor-their-apps.md",
+      "title": "Top 8 APM metrics that IT teams use to monitor their apps",
+      "excerpt": "A superior customer experience (CX) is built on accurate and timely application performance monitoring (APM) metrics.\nThe post Top 8 APM metrics that IT teams use to monitor their apps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "originalUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:03:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-sppu-launches-ai-and-machine-learning-postgraduate-diploma.md",
+      "title": "SPPU launches AI and Machine learning postgraduate diploma",
+      "excerpt": "The advanced curriculum has been jointly designed with the Department of Technology, SPPU keeping in mind the objectives of the NEP2020.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "originalUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/SPPU-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "publishedDateTime": "2023-08-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month.md",
+      "title": "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month",
+      "excerpt": "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "originalUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-908368194.jpg?resize=1200,640",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "publishedDateTime": "2023-08-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-google-debuts-duet-ai-to-tackle-new-cybersecurity-challenges-in-the-cloud.md",
       "title": "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud",
       "excerpt": "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers.",
@@ -104,7 +241,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -156,7 +293,7 @@
       "originalUrl": "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -370,7 +507,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -725,7 +862,7 @@
       "originalUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1060,132 +1197,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-leveraging-user-generated-social-media-content-with-text-mining-examples.md",
-      "title": "Leveraging user-generated social media content with text-mining examples",
-      "excerpt": "One of the best ways to take advantage of social media data is to implement text-mining programs that streamline the process.\nThe post Leveraging user-generated social media content with text-mining examples appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/text-mining-examples/",
-      "originalUrl": "https://www.ibm.com/blog/text-mining-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T06:05:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-a-beginners-guide-to-automation-and-aiops.md",
-      "title": "A beginner’s guide to automation and AIOps",
-      "excerpt": "How automation—when applied to IT and AIOps—helps you achieve better business results in three key areas.\nThe post A beginner&#8217;s guide to automation and AIOps appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
-      "originalUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T06:04:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-macmillan-publishers-authored-success-using-ibm-cognos-analytics.md",
-      "title": "How Macmillan Publishers authored success using IBM Cognos Analytics",
-      "excerpt": "Discover how Macmillan Publishers took on their data challenges with a new “modernized” approach to data analytics and business intelligence.\nThe post How Macmillan Publishers authored success using IBM Cognos Analytics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
-      "originalUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

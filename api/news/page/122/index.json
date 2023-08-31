@@ -2,6 +2,144 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-06-09-healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed.md",
+      "title": "Healthcare and AI \"Paradigm Shift\" Stocks in Focus: IPA, MGRX, INBS, RMED",
+      "excerpt": "The healthcare sector has huge potential, offering attractive opportunities as companies meet the growing demand for Artificial Intelligence (AI) wellness solutions and recent market research is signa",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32798306",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32798306",
+      "publishedDateTime": "2023-06-09T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-meta-is-planning-new-ai-features-in-facebook-messenger-and-instagram.md",
+      "title": "Meta is Planning New AI Features in Facebook Messenger and Instagram",
+      "excerpt": "During an all-hands meeting with employees yesterday, Mark Zuckerberg detailed new AI features coming to WhatsApp and Facebook Messenger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/cloud/284214/meta-new-ai-features-facebook-messenger-instagram",
+      "originalUrl": "https://www.thurrott.com/cloud/284214/meta-new-ai-features-facebook-messenger-instagram",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/11/Meta-Mark-Zuckerberg.jpg",
+          "width": 1620,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-2023-2030-artificial-intelligence-ai-robots-market-research.md",
+      "title": "2023-2030 | Artificial Intelligence (AI) Robots Market Research",
+      "excerpt": "Robots market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-robots-market-research-2023-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-robots-market-research-2023-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks.md",
       "title": "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks",
       "excerpt": "PRNewswire/––WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced a new and more efficient solution for computer-generated holography (CGH) through deep learning and neural network technology.",
@@ -1043,144 +1181,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-which-cars-have-self-driving-features.md",
-      "title": "Which Cars Have Self-Driving Features?",
-      "excerpt": "A self-driving car (sometimes called an autonomous car or driverless car) is a vehicle that uses a combination of sensors, cameras, radar, and artificial intelligence (AI) to travel between destinations without a human operator. Companies developing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
-      "originalUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jdpower",
-        "domain": "jdpower.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-ai-chips-could-help-intel-stock-nasdaqintc-regain-its-footing.md",
-      "title": "AI Chips Could Help Intel Stock (NASDAQ:INTC) Regain Its Footing",
-      "excerpt": "Intel (NASDAQ:INTC) stock seems to be stuck in neutral, but a new focus on artificial intelligence (AI) chips could help the company regain",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-156.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 781,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments.md",
-      "title": "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments",
-      "excerpt": "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

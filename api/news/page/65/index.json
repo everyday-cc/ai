@@ -2,6 +2,145 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-07-16-ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential.md",
+      "title": "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential",
+      "excerpt": "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-101798045/101798045.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "publishedDateTime": "2023-07-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-the-eu-urges-the-us-to-join-the-fight-to-regulate-ai.md",
+      "title": "The EU Urges the US to Join the Fight to Regulate AI",
+      "excerpt": "On his way to meeting US officials, the EU’s justice chief, Didier Reynders, tells WIRED the US must deliver on talk of tighter regulation on tech: “Enforcement is of the essence.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "originalUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-quiz-on-ai-how-much-do-you-know-about-artificial-intelligence.md",
+      "title": "Quiz on AI: How Much Do You Know About Artificial Intelligence?",
+      "excerpt": "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "publishedDateTime": "2023-07-15T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
       "title": "7 Blue-Chip Stocks That AI Is Loving in July",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
@@ -980,152 +1119,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever.md",
-      "title": "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever",
-      "excerpt": "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever",
-      "originalUrl": "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-spiking-neural-network-based-on-theory-of-mind-helps-multi-agent-cooperation-and-competition.md",
-      "title": "Spiking neural network based on theory of mind helps multi-agent cooperation and competition",
-      "excerpt": "Theory of mind (ToM) refers to the ability to infer mental states of others, such as beliefs, intentions, and desires. It's a kind of high-level social cognitive ability.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/spiking-neural-network.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-spiking-neural-network-based-theory.amp",
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic.md",
-      "title": "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic",
-      "excerpt": "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "publishedDateTime": "2023-07-14T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI Hardware"
       ]
     }

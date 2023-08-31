@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "This AI-Powered Drone Demolished Human Pilots in a Race"
+    excerpt: "The world of drone racing has blown up since its humble beginnings in 2011, when a group of German hobbyists held the first official drone race. While there have been efforts to develop a drone-flying AI in the past, none have been able to defeat human pilots—until now."
+    publishedDateTime: 2023-08-30T18:01:00Z
+    webUrl: "https://www.thedailybeast.com/this-ai-powered-drone-demolished-human-pilots-in-a-race"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1693331981/230829-Tran-AI-powered-drone-tease_qbur2j"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "4YDdEJUtr/tHBgQ8ziSKyDPdwtoUG2ghHucsDRcMXL2ADx/uhXzRVSTKmN3+/nFt7yqZKK/1u66/8qFewNnHeAsmefxxtdyrqWrc+VVrieQ0JL8rCInl9+rPwynEaDWgnNt7ttc1agyDeTMjwgevnpU1s9feVmH3RQeBab1SlVFjw2rgZULwKF213Ho1NYvv2i3LekkPgPCfImPiPuxwdwCh6X9AG4mGjBM1AbZ7Ebcr/W3uJtbGO3keULmChDixtouEWLle+2HlCsk/ZrNgjrWHQrT+yTQUZmDGGHoGwQLA9QErMnCcN9/WLC1tYHdVjrqU5r4M8HbAeWIxB51h6NDZbM6IKvi3OgIhlabScuA=;ZIFYGOH0K1DJtYgwxRO5Qg=="
 ---

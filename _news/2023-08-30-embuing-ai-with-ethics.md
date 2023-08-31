@@ -29,6 +29,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "Tijani’s Artificial Intelligence strategy for nation-building"
+    excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
+    publishedDateTime: 2023-08-30T22:13:00Z
+    webUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/"
+    ampWebUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/20210018/Bosun-Tijani.jpg"
+        width: 710
+        height: 451
+        isCached: true
   - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
     publishedDateTime: 2023-08-28T23:52:00Z

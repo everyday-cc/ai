@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 278
+heat: 288
 published: true
 
 provider:
@@ -212,6 +212,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
+    excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
+    publishedDateTime: 2023-08-30T23:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/31/us-curbs-nvidias-ai-chip-exports-to-some-middle-east-countries/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-08-28T07:26:00Z
@@ -254,6 +263,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "icNZzDhKAaxsZyijq8AfQ8eMNudcNZM9QhCh1e7b9DT9MNJDKOHywmfyXt2MGeIZJpK82L3HDH5i1rp77EtksZdxzH3dWxaiymNZYbCuOlrbf/qqWGkC7p4AX0zjdyyg3whBYk+05M2oMHYMlPCs16EVjjwqFNoUGyoJlgilVQl8ggIA7qF2ulYfnWEAijeNp8H15Hs0l08mUaWkN+FaDWnvg9YuzyK+xZKNOHxh/9/pNZBP9QzujfYhpj+Vkuriw8rx8hadXOsATRZwjvC508qD7u3JKnOneostrDFxC2fNLGKVtH6f4Ymx+PAUHk7/5hT6X9cCrR66wtX70NV3t7oIHhzs8H4koiMFINwmJNI=;us24/5WE978KnX6oHilwQw=="
+secured: "fGX7b9FBLVrLNBXVFjPi1G5KO6017XzKMFyZq8BVYicWyZFIGrbwfO7xjpC/DAKWXPg0E6VoNEkvEspvwHEsmHmYnx+Tt5x9lwRBjSj5vTCaFot+bZPgiA7T36nJFxBb/z09WBjFi3ciZapQY0r/3yYCbHePxJgNG7FEd6trNsWexn6t7PG33Ziux5ZT59rpHvUXKNq8r543MTeSDeHARd2CmZkjJBRkH9EctglWzUn46v5uT1ztxWwvsjZ5rGJtofmC8/kKBOyH3D5ealkN6KOyMS/L1AQMObUN9yiFUAITe2dhTn1uiPYtTTSXiXvGLSrB7LVyS3+HUEPp2K80Wx90WI+UT3NOD5M5C8i7Vd9qTzYvBL0dl4KujQRQXM3f0UAt8o/2SFz6rBzyREPzJOQmogRk6XKYf3+RUljZTPv0J+BqnzqW6Hewfb08IGd27w4F6BeNc7Q6EtVSOVjCPD599wQBFauHpZfYb8D3AXZGJ9BdpiKFD/H08nDIcVnyZc+uwHxKWsCyOiMaI47CSg==;m9m4VrCXBgr7xcleU5xusw=="
 ---
 
