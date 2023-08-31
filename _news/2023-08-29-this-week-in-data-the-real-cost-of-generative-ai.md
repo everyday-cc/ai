@@ -131,6 +131,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
+    excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
+    publishedDateTime: 2023-08-31T04:40:00Z
+    webUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/articleshow/103231812.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103231812,imgsize-58586,width-800/103231812.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "When the generative AI hype fades"
     excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
     publishedDateTime: 2023-08-28T09:00:00Z

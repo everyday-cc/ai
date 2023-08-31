@@ -171,20 +171,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
-    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
-    publishedDateTime: 2023-08-26T11:07:00Z
-    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Nvidia is the AI king, but threats to its reign abound"
     excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
     publishedDateTime: 2023-08-30T15:13:00Z

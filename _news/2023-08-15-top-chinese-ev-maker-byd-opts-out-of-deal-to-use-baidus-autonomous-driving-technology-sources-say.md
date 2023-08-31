@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/08/15/2231768.jpg"
+    width: 1240
+    height: 697
+    isCached: true
+
 related:
   - title: "BYD quits collaboration with Baidu in self-driving technology: sources"
     excerpt: "BYD has withdrawn from an agreement to incorporate Baidu’s autonomous driving technology into its electric vehicles, as the automaker says it will develop"
@@ -34,6 +40,6 @@ related:
         height: 914
         isCached: true
 
-secured: "YuwqU0VFCoPUgaqGQiLBKMg5VVZgan8D7EoNhn9x6mK78XpPSwsc6zXPHqSgTBebZGr6fxpLm2psrPu+nfYlhd9IC+/6D4xfAHxZiDCTC6vzEVw5Ob0917SSFcM4RRdEK26DYmkzXEDeTae+LxbzRVcp0Tlt7CGwrsCSrsI+mU1DYFy4V981DR5Y4UU4OuOq3jDVLxFmObl9U/ZxuXK3tDTwCshvZZxAEKeiELaH7sQLgRwQ63YOS2L5Jt0azPyDsQndJj1t9GpiX63ETgALXhL3rDMgUVbZunu/TeD7vS4yvqXkWg2PkbDtn0Snz7BCbtdi2ywChkJWE7FJR3MhmMpXHGcb6VZBgzxkqeSDpsA=;I6IDNGYdpgcmX3vs8MuIyg=="
+secured: "dhxXDSw2p79K2f7u0Gdi8a95DTFdXKWjIWYDIKFgLmTMp490g/iMb6HnKLJ2XkY23X/De5KxtFWNiY1jiD9DK820cUG08Bru9q6Wxpe9qhtewqVfrQU/yQ1Rt83bYa08nT1EAsbE/S/9AtzX3Ow7UWaFKPZzSZLcotsN0hSqZV/BT2HIVsRi1bM6DpDUYAVa4KTH+sJmfQD2OXWZXiegeoVDe8Rc/FjephUVilnjqC9ftFUp4CWiAn6BS+rJ818RW6VdTNJB9wxMAYfnsOKLTeKnwFdGk8HKyOwNpi7SyqjM6zb6eUela9x/5wLqRRSO/672L4dvM3zFvkWUjnAUjBTIImRH1hCnbOre6QBvtok=;RrSvFuuxwOpOymmWzZov4g=="
 ---
 

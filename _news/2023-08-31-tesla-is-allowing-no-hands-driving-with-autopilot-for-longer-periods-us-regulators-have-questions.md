@@ -2,17 +2,17 @@
 category: news
 title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
 excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-publishedDateTime: 2023-08-30T18:44:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
-webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
+publishedDateTime: 2023-08-31T05:36:00Z
+originalUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
+webUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - AI in Autos
@@ -75,6 +75,6 @@ related:
       domain: wspa.com
     quality: 5
 
-secured: "+fvQAWuuOj1em9Rx5v7KVpbXdShHFbE7RE1Nh3lrKK2iA1gKNKt1STjbMQpMidxNY3Z/vPs7RvbVE7QhAz3NOLxIU1bC4Yy87d00Iv0bMHlrHN3jzJ0/aSwQmbtWYEHR/Ue+A7F0NaFmX6HUYkOevLBgYXPMzzbzN18mInELwm/UDUKWon26a9NscoSxtnd1gXX7MOCrCgMIMfgvOlKI1T05801S9BbTfqZzADLtIlqRR7OXGpIYeruvulRHkzJuRvpxdmcF/iNg/wdYgaQuUbLTUZ2I+BteaTdvs72fYeR+wbvgH/q0HrA/zNyWiRIMN5yuXQ1wgDzFHzaJdwWnVjwF2ZHuGn60cGxkhGiRzWVYT5sGrxX7JOQrkCqt52oAalYPHnmrwjabhlntErzp5A7PcYUHfplSMUazeqrvstUTwkj9Di7l1ruEGs8U5iTPe1a54xspjSGotN/eXioX9A/2xFG85P5e3CNSiLHB2eGjSIwjxxU+69XfG+PbpZvzL0J0X+Xm7ustFrE7/YdAEw==;bDfMz0E9kuIFD6zSZ9OIwg=="
+secured: "EbaEagNsfsr0HY4FvyIqRm17m763LNBfs3cS6lcrcFLjmJnmfFbsf91AUPoNXAN2xlv6DWAbY6tvSmzGS4i78OPN09bzJEh52cOUygojfWSt4xBhuDRl0beebGqojTqqEXm5lLivw+Alh7Y/+zhXrs+A01gzrYqBThr3xIuC89EydnfsE4zwzP6HLxH4w1huHS0yejLFhnoFbTWiVNDinS/dk+mbelr8tmufy/TcuUPwk5Fzk8oq5Uo2jwUN9eZkgZgXI2KbMyjX4+DK9kFeaty+Q5i3m6utfbs7YqZAeVwaqt7CPhveHp7zt+iF9ldts3+lqxvtbRKi577uwxXBt4BFsW2hbVoYt/3XslzNWbys9CYiOMABa7HlXMrmKGJUP9uHEA7uvsw5jyTHDdHQRoDP+EHcPHRAeFRZ4tVjRwuQAYi3V5cBErt9qPP1MyFs1caQj6J6JvFRM8N19a0Ht+q0Ik7F1pPN9lBKDG17JXT6CgrSWKgwVMwn2DUmuMT3D943jDjstSyrrH+orP9T3g==;ebG5dQtu85VUAGIFPxT7og=="
 ---
 

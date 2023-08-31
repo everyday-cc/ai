@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla faces major roadblocks to its full-self-driving plans"
+    excerpt: "Elon Musk livestreams the company's FDS version 12, as the company gears up for legal battles over its Autopilot driver assistant feature."
+    publishedDateTime: 2023-08-28T19:09:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/tesla-faces-major-roadblocks-in-its-full-self-driving-plans"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "Kpeose0wr4Zn8oXWWKQcR4g1YW6lagJCY6Clr0kkFcj8P/Wu8puODZ9rwpkPEOqKDm74KkHHeWFW/1YTT10noxS6+uErK2XVM4vUJPzpkmdDgNLgBmTsOAlNOeHCoXODj6QQUnTXJWgbu5UHonaySSavDAGlpLaDr2QION47qVpcMwantSeyIKrU4XV6juChJG4BuOc3qiTGVlO0O4OcoXAkkBEH6tyF4BDBeHRMPZCMBUgQcb7hDi33D030xgKAdXySh+bR+I9+RwNMmrTZU9FL89267XfBBrCJti90Qpn0TnCy/pQBW/huuMywt8XifXOHPAn2VsoNNpiAqu9+ZRHe7lQ+FQsAQmlNTe0fOkm4/CJHMI47bFQZgDaQc8qXzhvseBbxEGZhjQ5peszWnf55OXbFw9xmUcMKbHUuR4C+yigj5VoeujYm6lu6abgFyoniwB9Vc/4ewnM8r+9t8LHq0JItXKC6z0MU4I1XZ5P0IKZ0BxBbCh4AS57C4P18N+oW15HkQ3f6gbeORhe7YQ==;IHmOBP0GLjjBN0l2t1qIJA=="
 ---

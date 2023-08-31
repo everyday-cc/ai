@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China rolls out ChatGPT-like products to public"
+    excerpt: "Ernie Bot easily answered mundane questions such as 'What is the capital of China' and 'Do you have any hobbies' — but on sensitive issues, it said, 'Let's change"
+    publishedDateTime: 2023-08-31T05:30:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=942563c0-d820-5cdb-bafd-36c6bce37e8b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07678"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ru/No3/zawqGR0V9obboF80KhVjIH+WC8AZrkkmKEQnyCacohWjFUPl7MukzCJi7V6COGwYOcRzVfXreOe5JG6D9Yn5Ek1UulyzYjz1pOPnVhnbz1Z8X90whTZDuRce7/7fHnWd8EFKgMl1hhxRSqAA5gajbSQV2xSm6UaH7cO2K+keOHKBWCdE1GJXKvl9SgtQIovSMp21LnWAa02hMKA21pY1k06Wq0ChPCXQzZ5k2cjpON0HGkfWwYVdTqEslunsK9+vIfg3YK8hUKr6mCSby8mBCDsCODU9AKXUYADMELnUQ9TOFc0WdDba+mslWmy/60LDUkI91ztzIxfdpxf4X11D++p1K0uSK0xAxnKk=;3gnL4Kl1XusxYfmYsEiTeA=="
 ---

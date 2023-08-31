@@ -68,12 +68,12 @@ related:
     quality: 5
   - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
     excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-30T18:44:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/regulators-want-autopilot-answers/article_0778e640-ec88-5b37-8836-1da15a5f8646.html"
+    publishedDateTime: 2023-08-31T05:36:00Z
+    webUrl: "https://lasvegassun.com/news/2023/aug/30/tesla-is-allowing-no-hands-driving-with-autopilot/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 5
 
 secured: "NOwt5rpjrmA40OBZFPn9n87ChonHA726RplRYrZ7qyj056dSdiRh96SCL8RM9/jKnkkMmAc/ElWNM/qHiRF4BH/wW4CLXOiGXv+l42XkYAtmuw7FYpAB4S0Z0ddvMZ7XEch5EhKTYLnhVOAbMACIB8Jw0PxuqCDTanU1xnn0rBbjKEgRkFxZIpf9lXANgVQRCHz4g5UwnhPeA+MREY68g0XOMeSB/t9RKP+POEYTCMTX0jB6AOQaLmwD8Ophjgg12XRV+PD/knfI7qaAxzWV4hkKvFc1uWasskd0ATmBL8jc2eu5izb82U+CI8Pw0QrFyQ+P0N9HSBVyHtsMQdYDWk/yMqfSHsjGuQQHKLGxW7k=;iVVZW6z0GNpUyPKXl72Y+Q=="

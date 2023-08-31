@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 298
+heat: 288
 published: true
 
 provider:
@@ -159,20 +159,6 @@ related:
       - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/31/248968.JPG"
         width: 1000
         height: 665
-        isCached: true
-  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
-    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
-    publishedDateTime: 2023-08-26T11:07:00Z
-    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"

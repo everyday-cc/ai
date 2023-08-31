@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
 type: article
 quality: 66
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla faces major roadblocks to its full-self-driving plans"
+    excerpt: "Elon Musk livestreams the company's FDS version 12, as the company gears up for legal battles over its Autopilot driver assistant feature."
+    publishedDateTime: 2023-08-28T19:09:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/tesla-faces-major-roadblocks-in-its-full-self-driving-plans"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
   - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
     publishedDateTime: 2023-08-30T18:47:00Z

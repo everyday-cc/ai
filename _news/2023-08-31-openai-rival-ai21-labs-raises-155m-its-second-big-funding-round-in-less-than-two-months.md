@@ -57,19 +57,17 @@ related:
         isCached: true
   - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
     excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T02:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/articleshow/103226345.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-ai21-labs-valued-at-1-4-billion-after-latest-fund-raise/amp_articleshow/103226345.cms"
+    publishedDateTime: 2023-08-31T01:08:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-736034,msid-103226350/ai_artificial-intelligence_tech_startups_funding3.jpg"
-        width: 600
-        height: 450
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "fA9Wyedda6X2JjqFc2CcWS/4tRo1hcjNLd+g6YCsfsk4dKqtvuNdabxp8iZmxkzw604JY3NnoAZFlCFmiCnCr8vwlxriHba8nC3SR5Ouk5N3upWKwD6D3pzvwqsVyVWb6WfY9cu7G2oEUQKroi6RGwpcXQ2BxbQrUo95dP0Ombi2bF+/wtf06lQyHDHbsWDF6JtOPBx9NVHfic5Y0f2Ov6ekFgItyE0UDy+D0P9TwLiYiXARzqmoXnO4zWBOyuvWRieS2d11XDrVHLdPBFZ5FSya4fSX+UDINL8yaaa2RhVYlwZbWfPweG8mO+S5eeWveymDqEYIg1KkE/MEE2r9oAv00/FRxThYGm05M1gaON+2jMeNGr/2YKpsV0nX2C8q0hQT1PHwt9hWOqygEZTNAngqd6uPG3rStdu0rIbY5gwhTHMG+qlRinmH4Wbr8V8m1DpJmDDntdIjjjimMkRmtMro2wvcLUPjdbWG+FaiuoH6P0ACiGvri3QDJamzRu7KfbsaaamKpiSOTg4kudFRcA==;X2RA6W8Zs0dS7VPpNyvBbw=="

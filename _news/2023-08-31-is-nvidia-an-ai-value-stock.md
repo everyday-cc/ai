@@ -158,20 +158,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Indexes end sharply higher; AI chip maker Nvidia jumps again after the bell"
-    excerpt: "Shares of Nvidia, which reported results after the closing bell, jumped 9%, extending a gain of 3.2% during the regular session. It forecast third-quarter revenue above Wall Street targets. Other tech companies jumped in after-hours trading as well including Microsoft (NASDAQ: MSFT ), which was last up about 2%."
-    publishedDateTime: 2023-08-26T11:07:00Z
-    webUrl: "https://za.investing.com/news/futures-gain-with-all-eyes-on-highstakes-nvidia-results-2850250"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ7M0CR_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
     publishedDateTime: 2023-08-29T16:44:00Z
@@ -285,6 +271,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "inNPEA8UkkRccaWvbAs0r8YMfmnXoojtjGNS8WI/kKaRikabLor+XfvU68l4Ssd+zFR2QeYvu515ZFLmHHiMz9YnWQoVpojWfRNzoFQpPbgs5doeZoJCWFSviYbiYPANFZ/b6jOhoTETx6gZ7bHYTO4bEh1HViEeJZPtmvJQG6rDbDxiVlHhCVUocmGY3OFw3L/pBj+RXdLe6YLa6oZE5UQCJFFy3VLmWdckKwl+2ejhlYF8QLnR3pVsaD9bmD38Q7b9p/swR3i4kSEeSo1GXmJnre4M77ziqf+ZkHl3Ehax1Qjie8xs1xGkZW6+fFoyvykQP8mpAaQ960r5yKt+AGWiPJ/ttUx7fZDGBwbsfLs=;YuQyoyJmnyYx6QYrDHI/8A=="
+secured: "yWf4pE23gLfMTp70vVHdvUVJoaeED57/SxvF2ofV9+ajLtXaAoMMi1grE6L+zefZWRXvszZ6AyAmZ3TXu1Mheq4qlnUWv7zHkWb58Bd9qtpj8cuMpL5ju2sl2Q6EZ75JdbhywocGxlFQk8rQqnXXrGzhh8x9jg8p7S96lki+2e3HEjUJntZZJ86XUpygcijWFQvRBHh2dgIZNvny4A25eVM6zynP6OycsdC7urGXP+iCPhbbszPTN8ZL4eJw9s6iOxIyYZZo3ebqT52i8O+PKtfcA9W5QXTc1+FwL2hQtkz5cXL5n2zh4KfDuMj7PkJBqwV/phzRLoYnRz6wKfJZa+fRDUIM4O2m7Es8sLYVBofl311r1GOKszdVKmE3zRQdvlKqzCmNC7v32ItUuHtms1mHQk/YvTCbYd7/94k9kURJXX77kZfKU/PbCRPUPc0HDQepNyaeecYd4NhBKbmjZjJLBZkhXt9ttx6pYRYeoCoS+SOQWSRY+V4QdsJgKLZZOwDF/bEVVnoJHdxbk7iiLg==;1cXll8OvRUDrh8cihstgMQ=="
 ---
 
