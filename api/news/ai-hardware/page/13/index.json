@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-25-ai-chip-boom-sends-nvidias-stock-surging-after-whopper-of-a-quarter.md",
+      "title": "AI chip boom sends Nvidia’s stock surging after whopper of a quarter",
+      "excerpt": "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT, Google’s Bard, Dall-E and many of the other new ...",
+      "sourceUrl": null,
+      "webUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 714,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525080054-nvidia-2022-file.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "publishedDateTime": "2023-05-25T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-nvidias-stellar-results-show-that-theres-an-ai-goldrush-coming-chip-analyst-says.md",
+      "title": "Nvidia's stellar results show that there's an AI goldrush coming, chip analyst says",
+      "excerpt": "Nvidia said it expected its revenue to grow significantly as it upped its production of chips to meet soaring demand for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646f24bb63b4c50018c39dc2?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-05-25T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-prediction-this-cathie-wood-ai-stock-will-be-1-of-the-top-5-largest-companies-by-2030.md",
       "title": "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030",
       "excerpt": "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company.",
@@ -1352,101 +1456,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023.md",
-      "title": "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023",
-      "excerpt": "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
-      "publishedDateTime": "2023-05-16T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-mediatek-looking-to-build-a-chipset-with-an-nvidia-gpu-next-year.md",
-      "title": "MediaTek looking to build a chipset with an Nvidia GPU next year",
-      "excerpt": "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "originalUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg",
-          "width": 952,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

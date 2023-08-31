@@ -100,6 +100,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
+    excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
+    publishedDateTime: 2023-08-31T14:29:00Z
+    webUrl: "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg"
+        width: 2100
+        height: 1181
+        isCached: true
   - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
     excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
     publishedDateTime: 2023-08-31T07:16:00Z
@@ -145,6 +159,20 @@ related:
       - url: "https://images.wsj.net/im-844456/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "U.S. Restricts Advanced Nvidia AI Chips Sales to Middle East - TaiwanPlus News"
+    excerpt: "The U.S. has blocked the sale of some Nvidia AI chips from being sold in the Middle East over fears they could be resold to China. The American tech giant"
+    publishedDateTime: 2023-08-31T12:24:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/u-s-restricts-advanced-nvidia-ai-chips-sales-to-middle-east---taiwanplus-news/video_9493005a-56e2-5e87-94a4-f6581077d288.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 67
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/49/9493005a-56e2-5e87-94a4-f6581077d288/64f08b8893bd4.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
     excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
@@ -331,6 +359,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "U.S. restricts export of Nvidia, AMD AI chips to Middle East"
+    excerpt: "Nvidia’s CEO Jensen Huang :\"If [China] can’t buy from … the United States, they’ll just build it themselves. So the US has to be careful.\""
+    publishedDateTime: 2023-08-31T14:29:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/31/us-restricts-ai-chip-export-middle-east.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-08-28T07:26:00Z
@@ -345,6 +382,15 @@ related:
         width: 1208
         height: 584
         isCached: true
+  - title: "US bans Nvidia, AMD AI chips' export to some Mideast countries, amid China fears"
+    excerpt: "The technological war between the United States and China is heating up, with both countries imposing limits on their prized assets."
+    publishedDateTime: 2023-08-31T11:56:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/08/us-bans-nvidia-amd-ai-chips-export-some-mideast-countries-amid-china-fears"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 29
   - title: "US restricts exports of some Nvidia chips to certain Middle East countries -filing"
     excerpt: "The U.S. government has imposed restrictions on some Nvidia artificial intelligence chip exports to certain countries in the Middle East, the company said in a regulatory filing this week. One year ago Nvidia said U."
     publishedDateTime: 2023-08-30T19:08:00Z
@@ -354,6 +400,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 28
+  - title: "US officials extend export curbs on Nvidia AI chip to 'some Middle Eastern countries'"
+    excerpt: "Nvidia’s rival chip maker Advanced Micro Devices (AMD) was also told to halt exports of chips to certain countries in the Middle East, though in both instances the particular countries were not specified."
+    publishedDateTime: 2023-08-31T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/us-curbs-export-nvidia-ai-chip-to-some-middle-eastern-countries"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 27
   - title: "Nvidia, RA Capital invest in new Boston AI drug discovery company"
     excerpt: "However, this isn’t the first life sciences company with an eye for AI that the chipmaker has funded. In July, Nvidia invested $50 million in drug discovery firm Recursion Pharmaceuticals Inc. The startup’s stock soared 80% following the announcement."
     publishedDateTime: 2023-08-29T10:04:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-29-demystifying-batch-normalisation-supercharge-your-neural-networks.md",
+      "title": "Demystifying Batch Normalisation: Supercharge Your Neural Networks",
+      "excerpt": "Artificial neural networks have revolutionised the field of machine learning, enabling remarkable advancements in various domains. However, training deep neural networks can be challenging due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
+      "originalUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Blockchain30-1688025409788.png?fm=png&auto=format",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
@@ -1277,49 +1320,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-at-ho-chi-minh-event.md",
-      "title": "Profet AI and Hive Ventures Showcase Taiwan AI Manufacturing Expertise at Ho Chi Minh Event",
-      "excerpt": "Crossover Talks forum will highlight how manufacturers in Vietnam can study Taiwan AI best practices to accelerate their digital transformation and nurture AI talent TAIPEI, June 19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event",
-      "originalUrl": "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/image_660.jpg?h=6462b6b4&itok=hVbn18Xh",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

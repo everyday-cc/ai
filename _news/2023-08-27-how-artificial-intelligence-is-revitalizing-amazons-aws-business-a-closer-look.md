@@ -221,6 +221,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "T8aD1t4uTB4U3wwArV+TCpJsRA3N5rw7UXU3b4Fgx7IpetbZTdLK4YylObDswu7CrDX1iqj5fI5byRXXu9bmx/UdHauUxbwy3ZESCTHNvdaIYUFFCJLy/9c4ExbTjoMo2YPdW+wgqkAW/F60YVSLy9I+aM/MYJxm0oF/0Q69x96nnmTZSRe5zuGgRbHzNU4VlALnlUB+OtaJ/0XLB4ZV+jIz1bpmDZFMam4+fhifF+hQ8VAIwO6S1ZdMB8yuSgnNQ9JxtdCP4NqNRy4eUj+uakjOwRBvvpJ3iKUErk7T9rE7wEn+ZuR3uQWjz2CUva9WsjMNgrB0gJJCyYK1nVtI1P8MzQhvIKmLfnvQ9r60pNY=;oy+8761fo38gxF/EY5q8Hg=="
+secured: "EdDBRdLwPFOgaJCrMbcPItRqppnxYYngY3sRsNIt1aNJ5iGnSn3nv3EGnDcFSfXoC+z+N5k62bAKfs3jcYcAJybNAJgtyitJ99QYPdAyKZNQQAZ2R1JdF9rMrvyAAlkISmc+kawoV3ocd+uADBDXeVUCguMmh9v+EZmcp0IiSILz+OIZATcps9vQYWfTrzY7rWRTzvLoX7jiyIxkRWbna+PMr+/LpG5o94cf5Z925UBHbEQkNrwk8+GtvcBYrR7UmBs9w9hbgis4fYg3l0/Qxd4i0zJKzhwlG225IvPtus8l/R/gQW3VH7Bea30m8yncfbY6AE/2GLJC1KqLFpHL5HSrY4m6lArCySY4DzjwWRA=;Zo/CM6CLjuDZMDpi4RlwGg=="
 ---
 

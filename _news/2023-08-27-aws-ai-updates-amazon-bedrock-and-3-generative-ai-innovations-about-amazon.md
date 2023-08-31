@@ -75,6 +75,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "IBM Consulting and Salesforce are working with our shared clients to help accelerate business transformations with generative AI. Clients can now access the following: Driving adoption of AI technology: IBM Consulting will use its industry expertise and innovative delivery models,"
+    publishedDateTime: 2023-08-31T15:22:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/31/9873103.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "5qKBt8p2OM+C+L0Gr7N67kD9c+1Ik6Csa8r58djvcE+IinGAOYFxMnzF2eRcqZHJd3BkRvzJ25ICASyXBC3oWKziPnbAs4gYfhPMxcuF+M9bbt6xjlMvTcIfalEPU6yPY/s5JqDI7h1ltScyUCyshIKVSGLvWEtkhQu9MnGgVZw727rZRmK27tO6VaWmWMSKFZwjQeaawSrgVo84OkKhtLTuvy9/iUomW8FPEvzu1meJS6sjVjBgZdLWhDm3fqDHlmeZ3ALNXCt16LkD2pWg2fDCM78AISIMouY+5usE6hDW4FvUAtpvOV1xnzwzlPjsdJ6MJrtSGiT57aI7+aspn5624Qe9wzyiBuCnEkSVFUE=;6MBGmv4eRUAo8jhYupIZ0w=="
 ---

@@ -80,6 +80,20 @@ related:
         width: 764
         height: 563
         isCached: true
+  - title: "AI's Impact On The Future Of Consumer Behavior And Expectations"
+    excerpt: "With increasing awareness about data’s value, businesses need to handle customer information responsibly and transparently."
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impact-on-the-future-of-consumer-behavior-and-expectations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d020172f02c16abf766ed0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "The weaponization of AI: How businesses can balance regulation and innovation"
     excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
     publishedDateTime: 2023-08-27T15:21:00Z
@@ -210,6 +224,20 @@ related:
       - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Navigating the Risks of Artificial Intelligence on the Digital News Landscape"
+    excerpt: "AI can increase the gatekeeper power that search engines and social media platforms wield over digital news outlets. Robust data governance frameworks are necessary to support the financial sustainability of newsrooms and cultivate a more diverse and trustworthy internet."
+    publishedDateTime: 2023-08-31T15:11:00Z
+    webUrl: "https://www.csis.org/analysis/navigating-risks-artificial-intelligence-digital-news-landscape"
+    type: article
+    provider:
+      name: csis.org
+      domain: csis.org
+    quality: 36
+    images:
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-08/GettyImages-3228281_cropped.jpg?VersionId=3ms16y0A1SfCEsxHPZvpF8CIbWlA7qbp"
+        width: 4160
+        height: 2340
         isCached: true
 
 secured: "8zKA0ysDPyLmnqf70wZ4vfBEqqSYe0pymmW6dLpIZkK5kS0ypacxczBeu4+5fBbJdAl8zbU6zkp0Rj22jx6PR0s0QOXxTqH+q/tmh2083SHTfP1qwMzaNppCVIOguaz5JXzxD/3upUr4oj36rAHwut1qKXDzg9g2V5a35l0scwNnoTlPHnhr/X0b4YAaOvPV6rAKxC0XYhTfNpGh8wxHe3NOrQAY/8Ehj2e7iaJI1YXlFiOrc9LaiB36VVJHjAxDRRMnQ14+wMBi57Rymn6XSDgAL5x33bBtd09WpMypS1uxArVJKR5/uLgOVMDoEplM5+M9HP8x+wD8aAPQnQavocgSe4Y1l26CybisdymfXQ4=;PTk2IMNJSdV9YToZpy3eWQ=="

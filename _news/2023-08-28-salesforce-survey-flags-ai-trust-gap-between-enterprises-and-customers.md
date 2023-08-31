@@ -23,6 +23,15 @@ topics:
   - AI Ethics
 
 related:
+  - title: "IBM and Salesforce team up to bring AI tools to their shared clients"
+    excerpt: "IBM and Salesforce announced they are joining forces to bring Salesforce AI solutions to customers of both companies."
+    publishedDateTime: 2023-08-31T13:53:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI in focus: Here's what to look for when Salesforce and Broadcom report earnings"
     excerpt: "When these two tech firms release earnings, Wall Street will be looking to see if their respective bets on artificial intelligence are starting to pay off."
     publishedDateTime: 2023-08-29T16:29:00Z
@@ -32,6 +41,22 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
+  - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
+    excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
+    publishedDateTime: 2023-08-31T14:33:00Z
+    webUrl: "https://www.benzinga.com/23/08/34146322/salesforce-in-artificial-intelligence-era-personal-spending-rises-but-income-falls-new-inflation-dat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34146322"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34146322"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
     excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
     publishedDateTime: 2023-08-30T22:02:00Z

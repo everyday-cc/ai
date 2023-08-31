@@ -102,6 +102,15 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 19
+  - title: "North America Robot Orders Drop for Second Quarter"
+    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
+    publishedDateTime: 2023-08-31T14:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
     excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
     publishedDateTime: 2023-08-29T14:33:00Z

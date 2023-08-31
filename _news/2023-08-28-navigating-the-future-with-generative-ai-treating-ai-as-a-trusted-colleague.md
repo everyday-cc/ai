@@ -256,6 +256,15 @@ related:
       name: Rochester Institute of Technology
       domain: rit.edu
     quality: 19
+  - title: "SAP brings generative AI to data cloud platform with Google’s help"
+    excerpt: "The solution infuses the ERP provider’s data ecosystem with Vertex AI tools and initially targets the automotive industry."
+    publishedDateTime: 2023-08-30T12:09:00Z
+    webUrl: "https://www.ciodive.com/news/SAP-Google-Cloud-ESG-automotive-generative-AI-solutions/692059/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 19
   - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
     excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
     publishedDateTime: 2023-08-29T15:52:00Z

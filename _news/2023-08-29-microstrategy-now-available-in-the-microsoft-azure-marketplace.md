@@ -115,20 +115,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Snowflake has momentum with AWS and Microsoft – and why Google may not be Next"
-    excerpt: "Snowflake Inc., along with new survey data, have provided additional context on top of the two events that Snowflake and Databricks Inc. each hosted last June. Specifically, we believe that the effects of cloud optimization are still being felt but are nearing the end of peak negative impact on cloud companies."
-    publishedDateTime: 2023-08-26T19:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/26/snowflake-momentum-aws-microsoft-google-may-not-next/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/multicloud-image.jpeg"
-        width: 3584
-        height: 2048
-        isCached: true
   - title: "Microsoft partners with universities to allow the use of generative AI in school"
     excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
     publishedDateTime: 2023-08-29T04:50:00Z
@@ -165,6 +151,15 @@ related:
     provider:
       name: Wired
       domain: wired.com
+    quality: 47
+  - title: "Are AI Chatbots Dead?"
+    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
+    publishedDateTime: 2023-08-31T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "Fraunhofer launches internal AI chatbot"
     excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"

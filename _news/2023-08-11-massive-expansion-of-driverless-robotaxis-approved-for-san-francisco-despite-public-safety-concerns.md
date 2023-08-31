@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "JS7pRwRSpnZKAfM2R/Gc83lfWVFxqonkORn288GWOc3/wgawusVarSn6zwFeAd5Yj3k4G9fMDsFl2a4e1fhVhhAkHa/ItpvV69T+YQ6BTeYO9920RZ3gb+m/7G2hewHOyijPdN4QHgo13EPFlZWdB+l1sLpcWyRHK5cvAj+dmIFK0lhmWXMQcWLxN6Vf+fVupG5m2fdL3q8w79jezYur7HCPekIBLrzSiDYeUkzKGYJHh/+x3c8crlt6+p7tiwhGEHH3KFm3L+afVzS1DGfw8Ob2XXESgDFZHofgH/bH470oXW6lHy+Fei2HIPawBC0FzO6KX8gVfss/ZlLKHwBFpxpqbXMD0wbDrdYQiECA0jU=;/C/z+TIgjl96muj+KX0M/w=="
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "QzSOcNwJOgRdXe/6YZzLvlA7j63XXk+u7zrn3XE/YUH5W28ClkwGdXulNsoz9VltxVyAoioZxAXe0IpiaGpHjKhGVXN0BFoOG84wZpTFLMqLZo6TUQ0w1kzUojQ2kexwdXewsOpizMsSdF93ltcheCVK68dH0HuziJvf9Iii4g5YVZ8HV+9drlue8qAirHXeDDtivnMclrJIv5MCNPVl2ZBUXGIfJbzAYkI20Im/V+GAJKQhEq2KCpKkZUyr12ojg2IBNUAgkq4caIYwOKlBJXwKjtaSLTv5/XyEomAU/o7CxGkGanwQTqrpegWfElI7Se+cXoBKT4DyY8hQenQsASma7FIaNt+XwK5PByOs6fA=;Ms81lnB8b2HEuET6fwCe/w=="
 ---
 

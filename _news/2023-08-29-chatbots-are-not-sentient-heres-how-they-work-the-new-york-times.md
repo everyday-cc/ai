@@ -25,6 +25,17 @@ images:
     height: 550
     isCached: true
 
+related:
+  - title: "Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems – The New York Times"
+    excerpt: "The internet site has long been a forum for discussion on a huge variety of topics, and companies like Google and OpenAI have been using it in their A.I. projects. Mike Isaac, based in San Francisco,"
+    publishedDateTime: 2023-08-31T12:55:00Z
+    webUrl: "https://www.inferse.com/699710/reddit-wants-to-get-paid-for-helping-to-teach-big-a-i-systems-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 13
+
 secured: "7/R/HWuBH4szeFRPdNf1oSkVQh316zQnhTjxiydKgo6L2NlPAtozuLfNpzER26Z1AHDnj7YhwtTkeMye/jtvz4DHe0oSrQFjkx2cOM6uAg2hf/sgm9GZSHIJeqilJ8ajpUGKbwDqHcxjVOt8EopRg9MM2Tqu+JfHj8SNyqGkJyV5ACVEY6/8/xPR9m/wvWyTn9yXliFOFNsy5dQXpgPWJQNWyt7yFJ4bh7Mh+CVe6xkOi6IJkAs3bulHSuoK9zL2AweltcdxTH/k8kEn6Vf/bVC90pgCsuCyIf5CbsYg44FNTamGBSxpZ4qLFR4/Y3xv3a5JCr7pCfZWWu/Bt0JU1lsSP+xymiehr/FZ9rEdLVDXjzPVzxNp/6KCr7Mx8G6dP3OEqZ3oLlZutFbFvF0bwf2gdQd4UZXCKED8YvzQWe2fOgg37hh22oUojtWGwrCVAYm2aRQjBJtleDUQZxf3bl6r3pYWi+6ENJvM4CTqnQHAGa7kv+sq9CdhyLZ8KAtsB/2ba70TxM0lYR8JPZ98pQ==;NqYILs6i7ik6sRIRFTBQcg=="
 ---
 

@@ -36,6 +36,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 20
+  - title: "Seattle is welcoming more self-driving car companies"
+    excerpt: "Seattle is becoming a bigger testing ground for self-driving cars, with two companies already testing here and a third planning to start next week. Yes, but: It's likely to be some time before locals can hail a driverless robotaxi, due to state rules that don't allow that right now."
+    publishedDateTime: 2023-08-31T13:20:00Z
+    webUrl: "https://www.axios.com/local/seattle/2023/08/31/seattle-self-driving-cars"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
 
 secured: "0HqYC19A8As5Y0PK2UkocZYeQEpKPTpd60KVjI7CgUl9iJXqQ1wxHV1yzSguN0TEHXpu4pvSS3xKdYyuv9URInhXS0k9jUxiDWdMvxi7oMCMZPstqaBawAm8SinZJeW2ocC5CTtljYZEEsDUDHU3BYW9CZ6ZgYu6hsGxdHnmtoqPt7fJXXm0ju6LRmtGPbmNpipH4wP61sBfThIYpgI+8YymviycZyL+cNGtW/vdbiaZpmNtuPxzHuigqaSuV+KdYvbLq66riyBEVPIDl0WIjB87IeQRYYWFw8wESGrPqQrPk0g6lAiTKAPewlySnoOXRdjquuj5PohU4JfD64zuQRLEcGNzp6DC59PHhR0xzQO8cRRZrgZ3wWJVZ5zx4nUYrQP+hRcCEskrqR+WJSxPm0S93h9Yl9RcWhPpY0aDGFh8HRy2OQeahYH5GTfu0O9Z/5Z0SBt0fr6av1e18A7sy1oVCG3664fD3Fy7pnShnYpmhNQ8DnArgCBq06z5E/vRtuCwrGOisKgy4oeGIBTAhQ==;zACMJ0n8Fp1rFbdT20ZXlg=="
 ---

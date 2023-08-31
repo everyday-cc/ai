@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Home Office and MoD seeking new facial-recognition tech"
+    excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
+    publishedDateTime: 2023-08-31T09:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366550394/Home-Office-and-MoD-seeking-new-facial-recognition-tech"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "H38T/9JUkI/1To7N8Ud0JJNBaSCXKDj/hZcLXeBl2XtnAMTpcqA6QXypqYHigEJD8Ion8A7l8xBikG6PAonGRaS8IV9/QyZa1+Z0yXDget8H8kM6Zud4Z13coW+4JSZ6pKcEJ+A9IR9mXPHCZhlwXP2p1P+Gfo4sSvpKHVksvmRIJwS86ci2GXTaKJGCZQbe9pDuOFXG+flxYJf7OivCrUjWT4t5j10jw7Hz33fhXKVwgyiGGqhCnjAELAOR0eb0W3qAcstKYykdZV+0GbcHAL92cD29ExbZkPIBMe/U3WS8QJqCV5z36VMLapD5YTnJL/APcOL8F4ecyLmwK6AQILgkwTtt/7pFp8H+oHec81A=;xeRVMpQnwIv27HQcHMTakQ=="
 ---

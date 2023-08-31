@@ -36,6 +36,15 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Seattle is welcoming more self-driving car companies"
+    excerpt: "Seattle is becoming a bigger testing ground for self-driving cars, with two companies already testing here and a third planning to start next week. Yes, but: It's likely to be some time before locals can hail a driverless robotaxi, due to state rules that don't allow that right now."
+    publishedDateTime: 2023-08-31T13:20:00Z
+    webUrl: "https://www.axios.com/local/seattle/2023/08/31/seattle-self-driving-cars"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
 
 secured: "d45m0BkzBbMLg5P88ZP7ZwdN5M0p0i3BExOX0PJ5hsvYhuqka9yK5rc2b5Dm8DV4OBQyHu8yGuu/Auype3r7jNA93TGZVcFPlGN7ERr+VXwRKuuP9z9UUQnHd66mqpKgPbwPTAnONM8Erj/CJQPHwjbcazFLbwXrz8/iuWkYTp0Ni7rLtQxFpSlTOAMw+3RNSNu+GfHRyxWVNXTzGqi75VoIRKdmBMKRMACtW6KUmLoeI/INB1My1ziLMBN7prEVFdf2rrzml+EWTVtX2nou39WYiyQu/Y1ynorKBGuXzaNsXh95p6QmM5/SVQl9f81CkZwtOzeo3lDPA82Tbar5kXnIDwXqjzU0hQXCetlWFmg=;87dTGm8P08M6THkPO/EKRA=="
 ---

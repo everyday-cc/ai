@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
-    excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
-    publishedDateTime: 2023-08-31T01:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/30/openai-rival-ai21-labs-raises-155m-second-big-funding-round-less-two-months/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-08-31_082035243.png"
-        width: 657
-        height: 404
-        isCached: true
 
 secured: "H6rtdkazvfDCD2ZBfZgocH2NuN7ABK2ohUSNEsS3Z+EEC8I+kTl7H99z2s01zvxfMi+mTabpisiHbi8iqWtAtYg0SIgVZb+2f4x/aeiLNDhoblNeAP19JIiMPD51Yx88V0GkvltAZ29iJRz/SY8hdwK6rfq7VKPXhsuZL5muTDViaFTb7OFvAAzw/A1TtSLaQvtF80zsMv3pU050SGV6BQe/2EYeXNe4gJgshkyGlYvNkemC+4qSgeIumMR1WeZf3cVyxRYgt/mfhZ2AcnfmWk/5WNz/rOOaQIj0zr1Ei1SRsG9BPWQwmqw6m44bZ8o8g0iuW25OD8YJ9NDD3jeUVTcZ4b2FtJefpw8ZIrurV2U=;yn6hfnMi8rnQ5XkYWG5PMA=="
 ---

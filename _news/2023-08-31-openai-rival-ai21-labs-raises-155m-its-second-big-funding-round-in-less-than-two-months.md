@@ -25,75 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI startup AI21 Labs lands $155M at a $1.4B valuation"
-    excerpt: "AI21 Labs, a company competing against OpenAI and Anthropic, among other generative AI players, has raised $155 million in capital."
-    publishedDateTime: 2023-08-30T20:50:00Z
-    webUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
+  - title: "OpenAI-backed language learning app Speak raises $16M to expand to the U.S."
+    excerpt: "Prior to starting Speak, the pair spent a year studying and researching machine learning and developing accent detection ... which gave Speak not only financing but early access to OpenAI systems and Azure resources from Microsoft, OpenAI’s close ..."
+    publishedDateTime: 2023-08-31T11:24:00Z
+    webUrl: "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/"
+    ampWebUrl: "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1463459171.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/ebmpqh7x7jgqejg6uglz.jpg?resize=1196,1200"
+        width: 1196
+        height: 1200
         isCached: true
-  - title: "AI startup AI21 Labs valued at $1.4 bln after latest fund raise"
-    excerpt: "Israel-based AI startup AI21 Labs said on Tuesday it has raised $155 million in a Series C funding round which saw participation from technology heavyweights Alphabet's Google and Nvidia ."
-    publishedDateTime: 2023-08-30T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-ai21-labs-valued-14-bln-after-latest-fund-raise-2023-08-30/"
+  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
+    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
+    publishedDateTime: 2023-08-30T08:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GI4TRZOAL5KZXBHVKHEEOWFRYM.jpg"
-        width: 3608
-        height: 2401
-        isCached: true
-  - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
-    excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
-    publishedDateTime: 2023-08-31T03:21:00Z
-    webUrl: "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
-    excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
-    publishedDateTime: 2023-08-31T07:33:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ai21-generative-ai-funding-investment-round-valuation-amnon-shashua"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-21.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
-    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T01:08:00Z
-    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
         width: 1200
         height: 630
         isCached: true

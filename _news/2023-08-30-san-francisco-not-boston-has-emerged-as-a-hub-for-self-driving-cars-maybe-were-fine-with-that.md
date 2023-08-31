@@ -50,20 +50,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 59
-  - title: "My ride in a self-driving car on the streets of San Francisco"
-    excerpt: "It was a balmy night in San Francisco when Peacock, my driverless taxi, gently rolled to a stop, switched on its hazard lights and waited for me to step into th"
-    publishedDateTime: 2023-08-26T23:02:00Z
-    webUrl: "https://www.thetimes.co.uk/article/autonomous-driving-tech-runs-into-its-limitations-on-the-streets-of-san-francisco-9k6jkrlf0"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F36195570-4443-11ee-9098-1b3c9790fdce.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
     excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
     publishedDateTime: 2023-08-28T01:08:00Z

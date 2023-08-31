@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Mode FSD: Secret Full-Self Driving Mode Leaves Authorities Despairing"
+    excerpt: "Tesla might be about to face the music on its self-driving technology after a secret so-called ‘Elon mode’ that removes a critical safety feature was discovered."
+    publishedDateTime: 2023-08-31T14:51:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0a85572baaac8eeeeedf7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 834
+        isCached: true
   - title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
     excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
     publishedDateTime: 2023-08-28T03:07:00Z
@@ -42,38 +58,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
-        isCached: true
-  - title: "NHTSA demands answers on Tesla self-driving mode"
-    excerpt: "Prior versions of Tesla's Full Self-Driving software had a feature colloquially referred to as a \"nag\" that sets off a warning alarm when the driver takes their hands off the wheel. Read More GM invests in company developing lower-cost EV batteries ..."
-    publishedDateTime: 2023-08-30T15:58:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2351693402928/2023/1/3500bda9ca3a580ea6ebb2512f07b3a2/v1.5/NHTSA-demands-answers-on-Tesla-self-driving-mode.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Feds question Tesla on no-hands driving"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
-    publishedDateTime: 2023-08-30T21:52:00Z
-    webUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/"
-    ampWebUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/08/AP23213424013169.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Elon Musk Affirms Training Compute Will Not Be A Constraint For Tesla's Full Self-Driving Improvements Much Longer"
     excerpt: "What Happened: “Training compute should soon not be so much of a limiting factor,” Musk wrote. He was responding to a user who calculated that the training speed of V12 should at least quadruple once chip-maker Nvidia Corp ‘s NVDA +0.98% + Free Alerts H100 cluster is fully operational or even further if there’s a lot of Dojo online."
@@ -100,52 +84,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T09:04:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
+  - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
+    excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be ..."
+    publishedDateTime: 2023-08-30T00:00:00Z
+    webUrl: "https://hackaday.com/2020/11/24/alfred-jones-talks-about-the-challenges-of-designing-fully-self-driving-vehicles/"
     type: article
     provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 25
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Cops Say They Won’t Ticket Elon Musk for Driving While on the Phone"
-    excerpt: "In spite of flagrantly breaking state law, Elon Musk won't be fined by local police for his live-streamed self-driving stunt. \"Had an officer observed the driver with the phone in their hand, they could have issued the driver an infraction ticket for ..."
-    publishedDateTime: 2023-08-30T17:14:00Z
-    webUrl: "https://futurism.com/the-byte/police-elon-musk-distracted-driving"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/police-elon-musk-distracted-driving.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla faces major roadblocks to its full-self-driving plans"
-    excerpt: "Elon Musk livestreams the company's FDS version 12, as the company gears up for legal battles over its Autopilot driver assistant feature."
-    publishedDateTime: 2023-08-28T19:09:00Z
-    webUrl: "https://www.thestreet.com/electric-vehicles/tesla-faces-major-roadblocks-in-its-full-self-driving-plans"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
-  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-30T18:47:00Z
-    webUrl: "https://www.dailynews.com/2023/08/30/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 11
+      name: Hackaday
+      domain: hackaday.com
+    quality: 0
 
 secured: "dyplvD2dGGhVV1Y0q1cHGPC7GLZQXBM8d8+9S58tddIoxVJ0EEaqJrKinwJ2NDVMIkRdOQPivYe4zBBQ1Z5C1UJI52juFZ0pbGJ8FtdvdkU7+r8soiOfZwcuao0hQcx50+j/dxvacZU5eAYRj26CxC70o/MGLq3AeO0DWpxRNg2u150nOiiNqzzKpx/sJdDLLJ76y9fI8LhUuFh9D33El1D0ZqYOlPP3Uz5Af/25gbIt6cNF46Va1M22FbSFoLy+JJCYBqGdvwoFFosc6dku0K9W8aCmEc/mqZKd9vZdqP8Ro32nl9tl24oEaVEiHJGC99cjsd4yaApa7gXxc6ptN9pDidPINz2odXIZCTZ/5Q50gv9Gu8H2muLudBOv9nYgKJwIA+zrHajG7bgCnZts5qKEmeAvOYFLYNIhFYgg6gM5fF1b+ryg4C/iL8KVR3gzD5/lupL8ZqzhF9c587PuFeB942z4UiU1OYqWRzZoSICZPB0Zx4Z6M3Uqcl0DUQSkpF/j2bhFjLQNmtcBxQyV6g==;ZkUWtY5MuFGxUmhXf95W5Q=="
 ---

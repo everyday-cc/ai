@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-28T16:24:00Z
 originalUrl: "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/"
 webUrl: "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all"

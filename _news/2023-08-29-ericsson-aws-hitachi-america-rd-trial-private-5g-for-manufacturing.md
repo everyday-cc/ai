@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipm
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
+    quality: 19
+  - title: "North America Robot Orders Drop for Second Quarter"
+    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
+    publishedDateTime: 2023-08-31T14:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
     excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."

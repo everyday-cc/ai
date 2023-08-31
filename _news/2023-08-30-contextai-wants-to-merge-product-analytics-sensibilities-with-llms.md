@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-anal
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_childrens_playground_in_the_city__robot_children_play_ff8b8f73-8265-4a02-bb53-407411801ddb-l0qrXVNPH-transformed.png?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
+        isCached: true
+  - title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
+    excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
+    publishedDateTime: 2023-08-31T15:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
+        width: 630
+        height: 473
         isCached: true
   - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
     excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."

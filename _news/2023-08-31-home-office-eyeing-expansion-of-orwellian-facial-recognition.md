@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelle
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.sify.com/wp-content/uploads/2023/08/facial_recognition_freepik_1200.jpg"
         width: 1200
         height: 574
+        isCached: true
+  - title: "Home Office and MoD seeking new facial-recognition tech"
+    excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
+    publishedDateTime: 2023-08-31T09:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366550394/Home-Office-and-MoD-seeking-new-facial-recognition-tech"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
         isCached: true
 
 secured: "YUYjOhXPl/D3bYz1POKjXIH5cf4o//rS1Hg0SVrWWwygPtPbBI+teOz0B7hfMbfbpvtep8Pzv8dZ5ip4u0Hv09ZUH/5m/t+NjsWDnJoTP5PU97NAniSNmmIelVy5yZZAbWYeyNZGdpi9REZI+3SeKQyWVNOC42B6oQhaF6JKWw1EOtwiN1/v+FCZG4ss9L7WYH3SE5q2Q+O1ZSmv7AzT36bnpWxRULsJFfF7ccQJ7g/bHbLlgIqXIgL8bbRUrEZrhMKgerNfqmumAgHR8sJciMym1Y1549Ms4iAwPs1tH8kbXavG0JhkzHGXzH4No6Cf/+zqf/i/Y8TTpKxAHAA/dtmD47/fEqk12iaMUlKnRzvWRP1GESi4k6XQgXt0kEts254dP/xEUnIm9kqA3k1e/+wwmVOKLFdod8j5U1+lKziffONwPVnTG7w1YbE6uCWm2LTt5l0RZHActriyBPQbcUrskDH854GcU3kwN8PVA1/ijlpFVNlwQYgbyX/fv4kWRE4VC9RDbunyAVvQJ0pMjg==;/HePzjpLlBYo93TqsY/cPQ=="

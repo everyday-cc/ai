@@ -49,6 +49,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
+    excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
+    publishedDateTime: 2023-08-31T15:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
     excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."
     publishedDateTime: 2023-08-29T13:44:00Z

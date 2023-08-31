@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 331
+heat: 341
 published: true
 
 provider:
@@ -252,6 +252,15 @@ related:
     provider:
       name: Rochester Institute of Technology
       domain: rit.edu
+    quality: 19
+  - title: "SAP brings generative AI to data cloud platform with Google’s help"
+    excerpt: "The solution infuses the ERP provider’s data ecosystem with Vertex AI tools and initially targets the automotive industry."
+    publishedDateTime: 2023-08-30T12:09:00Z
+    webUrl: "https://www.ciodive.com/news/SAP-Google-Cloud-ESG-automotive-generative-AI-solutions/692059/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 19
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."

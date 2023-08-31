@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
+      "title": "What is a knowledge worker and what do they do?",
+      "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T06:55:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
+      "title": "Data security: Why a proactive stance is best",
+      "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
+      "originalUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/c8b7f5c7-c9f9-4595-904efee58de463ef-scaled-e1688662320284.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
+      "title": "IBM's Cloud for Education service is shutting down after only two years",
+      "excerpt": "What just happened? IBM introduced its \"Cloud for Education\" offering two years ago, promising schools and academic institutions solutions to \"transform",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
+      "originalUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6113-1920x1080.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-learning-the-language-of-molecules-to-predict-their-properties.md",
       "title": "Learning the language of molecules to predict their properties",
       "excerpt": "Guo's co-authors include MIT-IBM Watson AI Lab research staff members Veronika Thost, Payel Das, and Jie Chen; recent MIT graduates Samuel Song '23 and Adithya Balachandran '23; and senior author ...",
@@ -1208,152 +1346,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ibm-is-bringing-ai-magic-to-the-wimbledon-digital-experience.md",
-      "title": "IBM is bringing AI Magic to the Wimbledon Digital Experience",
-      "excerpt": "IBM and Wimbledon introduce AI Commentary and AI Draw Analysis, enhancing the digital fan experience for the Championships.",
-      "sourceUrl": null,
-      "webUrl": "https://tech-ish.com/2023/06/28/ibm-wimbledon-digital-experience/",
-      "originalUrl": "https://tech-ish.com/2023/06/28/ibm-wimbledon-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tech-ish.com/wp-content/uploads/2023/06/IBM-Wimbledon.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech-ish.com",
-        "domain": "tech-ish.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
-      "title": "Will IBM's AI Investments Actually Pay Off?",
-      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737699/robot-with-laptop-counting-coins-by-a-window-with-skyscraper-view.jpg",
-          "width": 2256,
-          "height": 1329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
-      "title": "Spectrum Scale on IBM Cloud performance",
-      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:20:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

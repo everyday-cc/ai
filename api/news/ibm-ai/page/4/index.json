@@ -2,6 +2,136 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ibms-watson-rebooted-as-a-secure-ai-alternative.md",
+      "title": "IBM’s Watson rebooted as a secure AI alternative",
+      "excerpt": "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative",
+      "originalUrl": "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg",
+          "width": 900,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ibm-the-og-ai-spark-excitement-for-watsons-new-skills.md",
+      "title": "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills",
+      "excerpt": "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
+      "originalUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33309833",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833",
+      "publishedDateTime": "2023-07-20T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-ibm-reports-earnings-beat-but-misses-on-revenue.md",
       "title": "IBM reports earnings beat, but misses on revenue",
       "excerpt": "IBM's data and artificial intelligence products showed the fastest expansion, growing 10% from a year earlier, the company said.",
@@ -1227,144 +1357,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
-      "title": "What is a knowledge worker and what do they do?",
-      "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T06:55:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
-      "title": "Data security: Why a proactive stance is best",
-      "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
-      "originalUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/c8b7f5c7-c9f9-4595-904efee58de463ef-scaled-e1688662320284.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
-      "title": "IBM's Cloud for Education service is shutting down after only two years",
-      "excerpt": "What just happened? IBM introduced its \"Cloud for Education\" offering two years ago, promising schools and academic institutions solutions to \"transform",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
-      "originalUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6113-1920x1080.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

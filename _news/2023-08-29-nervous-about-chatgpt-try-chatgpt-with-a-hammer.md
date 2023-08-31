@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A U-Turn On Artificial Intelligence Policies? Chinese Users Can Now Use ChatGPT Equivalents"
+    excerpt: "China seems to have made a U-turn on its AI policies after granting approval to large language model-empowered services for public use."
+    publishedDateTime: 2023-08-31T13:24:00Z
+    webUrl: "https://techround.co.uk/tech/a-u-turn-on-artificial-intelligence-policies-chinese-users-can-now-use-chatgpt-equivalents/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 7
 
 secured: "vZ9nOVp+La4+6S/gl1K5Jeg4cNnmvJWIksv8f5rU3vHKxXELs8w5hLf0+OuMjhlltxvNqPKZitEauKXZO4pFsoOm5nS9xXhiCSVHTyokwkC9xnZp7JqTr1UCSTS/sqwvt0BHrtDapp/02gHnJ6lPsiAMWXtPoBlTdbQhTfZTPczkEt8AgZdpTsXzlNkwrEULJuzpq2FQNQi61LjLU6cGxfx3T3ly0jA1boRFoKISXDs2dWSZom84jL8HJAQaTiTgTDtTI7fishdZKWZWXfH8mwOvUjFjlDrXj68ffakwSDS+Stokcy2fkIsBpbzC016kMSh/4rKq+spltrm1IZowaHTlaoW7URZDfnzaIuB3/RtZhZg/gAT+EdKygsCQkxM+7BXXRsl+ivcIbWFKFkokpOeCcaht+1G6nplGAgUMfwLLjMufBf6FslM9A3V2ff7bkH1P0MiorFjC7trx/Tg6IDmARMzeE0dzLgn5PCbc6Q7V1YECgr+UMaIzXSeAeHepZbp9bZAzVnYwllFCod3XLw==;O2KXEwONcczNyaVn1aIrjw=="
 ---

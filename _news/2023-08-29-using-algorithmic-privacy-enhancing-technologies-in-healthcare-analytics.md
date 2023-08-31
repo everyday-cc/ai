@@ -55,6 +55,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
+    excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
+    publishedDateTime: 2023-08-31T15:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Microsoft signs new partnership with AI and data analytics startup"
     excerpt: "WASHINGTON — Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence ... Synthetaic’s AI product — the Rapid Automatic Image Categorization (RAIC) tool ..."
     publishedDateTime: 2023-08-29T13:30:00Z

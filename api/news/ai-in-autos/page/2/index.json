@@ -392,7 +392,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/91958de/2147483647/strip/true/crop/3124x1640+0+147/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F99%2F9f57614f4c9fba5ed3c8aee2df33%2Frobotaxi-expansion-04423.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

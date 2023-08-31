@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-la
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
-    excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
-    publishedDateTime: 2023-08-31T01:22:00Z
-    webUrl: "https://siliconangle.com/2023/08/30/openai-rival-ai21-labs-raises-155m-second-big-funding-round-less-two-months/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-08-31_082035243.png"
-        width: 657
-        height: 404
         isCached: true
 
 secured: "tXB1dRdnDw3f11QtgG4YJF0k4v+5iMzJDl1fBwSjetCp4Lfo62bzsHZiEENU4Q9XpuBDaehpA1KK3DDmC8d0xyqciVCMMQ7naAcI1tQdpqgr4SZ1ni1WHKTOIQ863jf1Tk7GKkK6SAcRnzJMpmw5fN8wjc+Wvfwyuea7W+hdSWh1YC94beMGtLKFfsV+BY/KaCvEBaGC2ApBh0FEbbEGe3L8G50erQ8HYscHEdeJVPrgFJsm9GaVCAVz6mp90aznYeWA5LJ3hgmS4FF+28ZoYyBa+TSr6skirNFKcjWvH/Fdb5HB4MdVzsbGcWiTF8dFOteLhMa6bjKfI6zrxe5FJOGTtHh7NOYU8adlaJQWTHZxaeg03Islo3dtiqPsuOCfjS/Gdw/j+PlwPgweUT16JKVeRLzAeG7ei1R6gERrqTdWzn9SV+I/BKNeoW/jyc05XAfIRXtRimidtpHjZJlMc9jtbR5FkbjanN+0Le1QIs7b/fvFpK5ohmARDyGEBQ5JBl30EUOr3wByZYZtDcoUXw==;NQV73XzliQWTVH2A3vZTZg=="
