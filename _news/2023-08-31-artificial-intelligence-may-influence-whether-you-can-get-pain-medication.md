@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence may influence whether you can get pain medication"
-excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-publishedDateTime: 2023-08-31T11:00:00Z
-originalUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
-webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
+excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
+publishedDateTime: 2023-08-31T00:58:00Z
+originalUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
+webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: MM&M
-  domain: mmm-online.com
+  name: LAist
+  domain: laist.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
-    width: 1024
-    height: 684
+  - url: "https://scpr.brightspotcdn.com/dims4/default/c6bb1a5/2147483647/strip/true/crop/4211x2211+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F52%2F02%2Ffccf47eb43d4b160cdf07142df65%2Fgettyimages-1169089775.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.popsci.com/uploads/2023/08/30/Depositphotos_475432208_L-1.jpg?auto=webp"
         width: 2000
@@ -51,6 +51,6 @@ related:
       domain: news-medical.net
     quality: 33
 
-secured: "BWQPcTlB2OWr8Jv0ryKfbV2owwwQHIkZOj2Zd1q4TLpGe0CE6hQME32xUzDDpvGeSKWjOFrDv/giA0JeBS7wpUpcmDO8FjMHyWNcsV8FN183xbHaHBb5PSqXlSukzguzRJmiRWTS2ZP77CjU7a0tmRLGe/CGg1qNpfFwhjxtW90fmT5RewX7atdJITWpSntev5Su0JOQmRzrQAFMUhPFAvLboAVw7dHYNkW0l0NQyn/V/SScRYp7Gwno4Z95bDwNn5WSzkLL3VunnfcWYNyJboYzqZzDAZx9sqmCwFywoUDAJSZhxoMmbvBb6q2SO7INazXWCKez2zmIr3oxQlsEOjHX3KY0T3/p07gkvE2X6vs=;kevug5Ol+wmdh0VqT2AEKA=="
+secured: "U8UcCdXsrBTrpSrDWxP7GHl0f09EboGvw/Wo2hcNO+lj7XMUnZJiX9eaRkpiaLG4UxayxWCHXnuaCaePiEVeZ29oys84k8dka31dBkk8ConL7UCfJX285y3Y5c/4a7I7Hz7UKONb6IGbIVGRGSaN4fTuoykO0XvMbmDjXQXFdprvmIRp5fG+zmup1M2w1GpEvlkxVaSKJvZbu8D3qfO4ZCuCavwpLh/DlTZC4LVLC3pL0Q+rbJrzP7Is7uTjwSE/qiUD17UkLD4Ozll7b0wZFXxZLLXkD4SCMaPQnUa3lkxUTxN51NVaj79+MpjjHfDkBV/uy1Q9ZQapeGyRrxdKOILkSFQqGALpf59l4MdDa/s=;yFIL2jJedmYgMl2lWbWfvQ=="
 ---
 

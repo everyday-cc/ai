@@ -29,7 +29,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://www.zdnet.com/a/img/resize/cc85b95009a1aaaa9a0dd0bc0d4634f3b7f4967d/2023/08/27/07a8f901-734f-458c-b1e0-a2f1deb9f6bf/ai-large-language-models-by-tim-west-for-deepmind-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
@@ -80,6 +80,22 @@ related:
       - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
+    excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
+    publishedDateTime: 2023-08-29T12:02:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 75
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/Copy-of-Copy-of-Watermark-final.gif?w=1920"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
     excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
@@ -141,6 +157,34 @@ related:
         width: 1246
         height: 701
         isCached: true
+  - title: "DeepMind develops watermark to identify AI images"
+    excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."
+    publishedDateTime: 2023-09-01T08:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/deepmind-develops-watermark-to-identify-ai-images/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/22316/web_digital-ai-art_istock-1382918419.jpg?crop=0,0.18958333333333335,0,0.31822916666666662&cropmode=percentage&width=1200&height=450&rnd=133380348010000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards - FT"
+    excerpt: "The US should enforce minimum global standards for the use of AI, and companies should at a minimum agree to abide by the same pledge made by leading AI firms to the White House, Suleyman said. In July,"
+    publishedDateTime: 2023-09-01T08:46:00Z
+    webUrl: "https://www.aol.com/news/google-deepmind-co-founder-calls-054605860.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ed04b4472fce641a666194bafc738e98"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Google DeepMind founder wants US to enforce AI standards"
     excerpt: "The US should allow Nvidia's AI chips only to buyers who agree to use the technology ethically, DeepMind's co-founder said."
     publishedDateTime: 2023-09-01T07:35:00Z
@@ -169,15 +213,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
-    excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 33
   - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
     excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
     publishedDateTime: 2023-08-30T19:02:00Z

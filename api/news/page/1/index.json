@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies.md",
+      "title": "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies",
+      "excerpt": "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef5c7368a912b40c1e813e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1178,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
+      "publishedDateTime": "2023-09-01T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-samsung-electronics-stock-price-soars-on-foldable-phones-ai-chips.md",
       "title": "Samsung Electronics stock price soars on foldable phones, AI chips",
       "excerpt": "Samsung Electronics' stock price surged in Friday's trading session, closing at 71,000 won ($53.8), marking a 6.13 percent increase from the previous day. This is the first time in a month that the stock price has surpassed 70,",
@@ -198,7 +249,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1149,57 +1200,6 @@
         "name": "cryptonewsz",
         "domain": "cryptonewsz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-five-lessons-learned-on-using-ai-in-hr-and-compliance.md",
-      "title": "Five Lessons Learned On Using AI In HR And Compliance",
-      "excerpt": "The value of generative AI's answers depends on the quality of the questions. The problem is that HR and compliance topics are often nuanced. Expertise is required to distill the parameters and frame the underlying question correctly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef50d52f92b4fe53f3933e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/",
-      "publishedDateTime": "2023-08-31T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

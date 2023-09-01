@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meet Cruise, the self-driving ride-sharing service"
-    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
-    publishedDateTime: 2023-08-27T16:08:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 44
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t201640.685.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
     excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
     publishedDateTime: 2023-08-31T23:54:00Z
@@ -46,15 +30,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Real-time machine learning: Driving the future of self-driving technology"
-    excerpt: "Prakriti Singh wins Times Super Judge Contest 2023 \"The true propulsion behind the future of transportation lies in the synergy of real-time low-latency processing facilitated by efficient compression. The future is now, and autonomous vehicles are on the ..."
-    publishedDateTime: 2023-08-30T12:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/top-headlines/real-time-machine-learning-driving-the-future-of-self-driving-technology/articleshow/103198559.cms"
+  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Stop Self-Driving Cars"
+    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly complex machine but also what kind of trouble these self-driving vehicles might be getting into on active roadways."
+    publishedDateTime: 2023-08-28T17:11:00Z
+    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 20
+      name: HotHardware
+      domain: hothardware.com
+    quality: 22
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "JFFPgwquBI3E0HZ/hukc7mV7Z4dr5SNY88Q9+JhSzOJUIl9GVn3p0ymfCOCwOZnpl2nHaKXqB8ZnbDrpltVSrDL8IyZdkwxhOjW9DI5BFuQweUpZnTygYQu3xkS39qNUkT54jp5rE/HfLB3+yQAVHpIJ445KiCenY+0RieXIvEECIy6BkXcS6pot7iPBYNvhqu+xlnqG25OgXXtHM8eRWm/KBfhOXCjJLiz8mUe/ncqlCNsXBEmiNma4QxqgHtLyunpYAZlN6pcmnr+lPkfJ4F677imXeevbFBSpwRCQWJMB8D/JbLRyBWN6AbPydkuqx6VNswX7TAOGEdY3sV6vdNF8/RFk55jO9ltEyxDC3D4RkmvtObNRIsniGYHeT6MbzTaS1RBZnsFtTvFdaLPvxq1C6GPLFlm6AjSxDXzJTKRgAwf76K/pOknURom79cRFAm7JIgizDy6KuZZoyzSr9jcdvKv/3LGlOQXraMn6cPBl1aG20sMtX3kUCvgxeMCWA+PbfjvHl/deDvFcnhJFBQ==;s0XSqw+Sry1kffjPRe0wnA=="
 ---

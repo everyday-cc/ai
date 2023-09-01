@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,31 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Meet Cruise, the self-driving ride-sharing service"
-    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
-    publishedDateTime: 2023-08-27T16:08:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/meet-cruise-the-self-driving-ride-sharing-service-3404426?amp"
+  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Stop Self-Driving Cars"
+    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly complex machine but also what kind of trouble these self-driving vehicles might be getting into on active roadways."
+    publishedDateTime: 2023-08-28T17:11:00Z
+    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 44
+      name: HotHardware
+      domain: hothardware.com
+    quality: 22
     images:
-      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t201640.685.png"
-        width: 750
-        height: 393
+      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
+        width: 708
+        height: 398
         isCached: true
-  - title: "Real-time machine learning: Driving the future of self-driving technology"
-    excerpt: "Prakriti Singh wins Times Super Judge Contest 2023 \"The true propulsion behind the future of transportation lies in the synergy of real-time low-latency processing facilitated by efficient compression. The future is now, and autonomous vehicles are on the ..."
-    publishedDateTime: 2023-08-30T12:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/top-headlines/real-time-machine-learning-driving-the-future-of-self-driving-technology/articleshow/103198559.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 20
   - title: "Seattle is welcoming more self-driving car companies"
     excerpt: "Seattle is becoming a bigger testing ground for self-driving cars, with two companies already testing here and a third planning to start next week. Yes, but: It's likely to be some time before locals can hail a driverless robotaxi, due to state rules that don't allow that right now."
     publishedDateTime: 2023-08-31T13:20:00Z

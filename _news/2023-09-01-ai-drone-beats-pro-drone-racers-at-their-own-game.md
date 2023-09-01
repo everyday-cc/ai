@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/867b341d884ee4b703d4056ae58aa085f5358439/100_0_2992_1795/master/2992.jpg?width=620&quality=85&auto=format&fit=max&s=d4151cf101b060b243fc1a83336be5dc"
         width: 620
         height: 372
+        isCached: true
+  - title: "AI-piloted drone wins against top human racers"
+    excerpt: "Drone racing is a niche but competitive sport which sees human competitors flying their drones with the aid of a headset and camera."
+    publishedDateTime: 2023-09-01T09:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-piloted-drone-wins-against-top-human-racers-11295181.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/AI-Drones-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
 
 secured: "GcH5Jb8CdADs89ooyy3EpHrSo3nFL+XVPxlJO4cM73KU0ltSujAcRGA99ZNJ5tpceHTdopYZbIeWlrp8QCXW/W/9zsvfTfgFK+5iKAW8UXADTAZusWzyy8ANH/Fegub4OgM2pKGxhhstZPKWThznGAkgI1bo1TsZmK3XLU8gJLu8ucZELDHnzjcfvDDeDLmANs6S8K4SG94QDXZ+mrWQMd5eOMICoo+WTm7CfCuGVYV0VUFaGoozE8jiZ/wyqnv4F3enKc7KdBCMH4I3lcD6gxrSJX821zGZWUvUUZwzr81Zh6E1KjC2sVmtQ3mTrIki5qa1HuT39Btvljgk9D+qQx3vAr2+LnUHNF8CwtRrnL0jvld0f6nyjVeMROQ+G/lt6avUDCF82nfIHY0xsgaVUlaqaA1TV0AO5liMLOx565lod/pGhbve+5747idoj+MzGFIT8zWaa0R3oTnM0fO8VriTR++bq8bs9Q1hjvgYw5nI3/xafQvsns3TWX9vqg5WoKAi2I6aGR1JuNd3Sa2p4A==;4S5B6hMjAnza8c0ob5o7dQ=="

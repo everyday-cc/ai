@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Schools use artificial intelligence to bust students vaping"
+    excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
+    publishedDateTime: 2023-09-01T09:10:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/schools-use-artificial-intelligence-to-bust-students-vaping/news-story/a5ecef0d7600103496e09276a30a25d7"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "Un0TOSzpI6S3io+UUmfurUXAVOVf9m3hte9zJT1GKvfxamPB25cz2f1ZlBJHgar8VPCLn17lbhGMjkDMrnaNV5dEqSB7ppqsidp82YUF8uLym/bQSz/l1DuI/TQucLzPVvji4+Z6NRiix76ZeDcj1+/Am/BFe8tGT2vfNNRhADD/HrWzYEfNITQXcGqUwL+86RNEeERdwj4hqJCOdbV3aBBF1u6AwF2BzO5moPD78P72lZvOxAQ/wkfLS6jL6yTteo7+pouu0Z7dK5VXUla9gq1oFJoVtt6yx6ORU54QrXYR/w0DDMTJYmgFvngNk/EqXMf4eLfkGnu5V+sGOZatXEaKlpXS5Av2gsw519yA30bGO+wrWWN35X0GTz4T4f7Uf+uC07f85bWTet6wa0js+w61t3bAGXAqtVrLhqK9eIpb7AtBJ8ZU/hQPpBsiryZsGP4vSK2uzSiXQyGHYi9s0Qu4DgqAj+Xk6nUg1JxBM1aXikt4iZVf8VBXEQU5tGQGuO9Rl+sSRDSOMWXLY0OzPg==;JutSk0gKkVdQo5HBiFE6kw=="
 ---

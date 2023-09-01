@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
+    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
+    publishedDateTime: 2023-08-31T16:25:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "rtlQkbA6txA96sHCzTF/pBB4BCP5HRAZobMFQ7HHNesf91lZFKOvBViM0aa2UEkUnsRqKnoNuaHqEvPPSJkNVbQqhkvamfNIcAz+bL4oBrxirHwDDLjY0A4+nVki21rRGnzRQY9q03ak5MXXBb028Axzifiui2UsAc9JDNpjyNgHYDPhknOISXMbszAwws9Z44BIyDAG9Rrnx9U8zzyA2BmzcLo1S4EXa5mIeZsDGzGpoHNFAkijn4de1GytSkV0A4W+krSzWa5C4ngBlJQFk836adasEyP65X6CUm9NPTJMiuRNnSHS/JGvKst9EsTlafFErQaGI82BIaVRZRnKlFwJQwDflEjzTS52+TYmatk=;f9SqaFfCTK1f25LWZ3A92g=="
 ---

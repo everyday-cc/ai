@@ -44,22 +44,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Why Generative AI Could Grow After Bad Nvidia Earnings"
-    excerpt: "PwC has an ambitious forecast for how much Generative AI will add to global growth. As Atkinson said, “Generative AI will add $15.7 trillion to the global economy by 2030. This will come from a productivity gain of at least 25% — unlocking capacity to build value. Generative AI will create new business models and make existing models better.”"
-    publishedDateTime: 2023-08-27T16:24:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/27/why-generative-ai-could-grow-after-bad-nvidia-earnings/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e4a24ccbfc22bb434af6bf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
     excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
     publishedDateTime: 2023-08-29T11:58:00Z

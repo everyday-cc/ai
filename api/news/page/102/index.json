@@ -2,6 +2,595 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-06-25-artificial-intelligence-and-machine-learning-in-customer-engagement.md",
+      "title": "Artificial Intelligence and Machine Learning in Customer Engagement",
+      "excerpt": "In the modern era, the utilization of Artificial Intelligence (AI) and Machine Learning (ML) has emerged as a crucial factor in contributing to the success of large-scale businesses. This article explores the manifold ways in which AI can revolutionize customer engagement strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
+      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2023-06/7a52b31b-6709-4222-8927-f882066c9a61/Untitled_design___2023_06_25T090341_879.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
+      "publishedDateTime": "2023-06-24T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
+      "title": "Everything you need to know about AI but were too afraid to ask",
+      "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230621160359-ai-explainer-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "publishedDateTime": "2023-06-24T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
+      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. In your Smart Money issue on Thursday, we discussed how AI is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png",
+          "width": 1430,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
+      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
+      "excerpt": "“The application of Azure’s OpenAI service within PowerSchool ... strategies of both algorithmic and data fairness in the machine learning process to inculcate fairness, accountability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-youtube-is-testing-an-ai-powered-dub-tool-to-translate-creators-videos.md",
+      "title": "YouTube is testing an AI-powered dub tool to translate creators' videos",
+      "excerpt": "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "originalUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians.md",
+      "title": "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians",
+      "excerpt": "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
+      "originalUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
+      "publishedDateTime": "2023-06-24T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-rise-of-the-robots-raises-a-big-question-what-will-workers-do.md",
+      "title": "Rise of the robots raises a big question: what will workers do?",
+      "excerpt": "Rapid developments in AI are forcing managers and politicians alike to confront profound questions about the future of jobs",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fa7016ab040c88978d002b92d4ff0cbf2affea20/0_395_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=1225c778c7bbe96f7bee737ee69aaf5b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "publishedDateTime": "2023-06-24T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-one-major-risk-with-investing-in-artificial-intelligence-stocks.md",
+      "title": "One Major Risk With Investing in Artificial Intelligence Stocks",
+      "excerpt": "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-microsoft-azure-event-grid-mqtt-protocol-support-and-pull-message-delivery-are-now-in-public-preview.md",
+      "title": "Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview",
+      "excerpt": "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load for the developers ... Subscribe for free. Microsoft recently announced the public preview of bi-directional communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
+      "originalUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/en/headerimage/generatedHeaderImage-1687425435338.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
+      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
+      "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "publishedDateTime": "2023-06-23T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
+      "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
+      "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "publishedDateTime": "2023-06-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-sam-altman-calls-ai-most-important-step-yet-for-humans-tech.md",
+      "title": "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech",
+      "excerpt": "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
+      "publishedDateTime": "2023-06-23T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-tempe-vows-to-only-use-ai-technology-ethically-and-without-bias.md",
+      "title": "Tempe vows to only use AI technology 'ethically' and without bias",
+      "excerpt": "The City of Tempe has introduced a resolution that obligates the city to only use artificial intelligence in an ethical and responsible manner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "originalUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.12news.com/assets/KPNX/images/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "publishedDateTime": "2023-06-23T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPNX",
+        "domain": "12news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
       "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
       "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
@@ -563,573 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-exactly-what-scares-experts-about-artificial-intelligence.md",
-      "title": "Exactly What Scares Experts About Artificial Intelligence",
-      "excerpt": "Yet exactly one year after a humble Google engineer stumbled onto what he believed to be a sentient form of artificial intelligence and was famously heckled and fired for it (more on that later), the clamor for a global framework to govern advances in AI has reached a fever pitch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
-      "title": "Kent County enlists AI-powered robots to better sort recyclables",
-      "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "originalUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg",
-          "width": 3000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "publishedDateTime": "2023-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-skift-travel-news-blog.md",
-      "title": "Skift Travel News Blog",
-      "excerpt": "AWS announced the Generative AI Innovation Center on Thursday with four partners, which also include sales tech company Highspot and communications platform Twilio. AWS said it is starting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/blog/?tag=aws",
-      "originalUrl": "https://skift.com/blog/?tag=aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.md",
-      "title": "Portland tests artificial intelligence for non-emergency calls as it tries to reduce 911 wait times",
-      "excerpt": "The system at first will be used \"for a couple hours a day\" to identify calls that should be redirected from the Bureau of Emergency Communications' non-emergency line – 503-823-3333 – to the separately managed 311 system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html",
-      "originalUrl": "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QSW7EYQDURBWLDEJWJM6OE4TZY.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp",
-      "publishedDateTime": "2023-06-23T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-national-artificial-intelligence-advisory-committee-releases-first-report.md",
-      "title": "National Artificial Intelligence Advisory Committee releases first report",
-      "excerpt": "The National Artificial Intelligence Advisory Committee (NAIAC) has delivered its first report to the president, established a Law Enforcement Subcommittee to address the use of AI technologies in the criminal justice system,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/national-artificial-in.jpg",
-          "width": 1916,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
-      "publishedDateTime": "2023-06-23T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
-      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
-      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "publishedDateTime": "2023-06-23T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-six-skills-you-need-to-become-an-ai-prompt-engineer.md",
-      "title": "Six skills you need to become an AI prompt engineer",
-      "excerpt": "WIth the explosive rise of generative AI in the past half a year, prompt engineering is the exciting new career that's growing along with it. If you want to get a gig as a professional prompt engineer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
-      "originalUrl": "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c20ef06b8430236714dd1c694314e5800ade6ad8/2023/06/23/9a1b31b9-0ff9-4816-8af0-95def708f4db/gettyimages-1413761223.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
-      "publishedDateTime": "2023-06-23T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
-      "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
-      "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
-      "originalUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/30c3e726818c4deab3a7caf00c74cce8",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
-      "publishedDateTime": "2023-06-23T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-using-ai-and-remote-sensing-to-avoid-water-disasters.md",
-      "title": "Using AI And Remote Sensing To Avoid Water Disasters",
-      "excerpt": "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "publishedDateTime": "2023-06-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it.md",
-      "title": "Amazon Had Some AI News. Stock and Options Traders Jumped On It",
-      "excerpt": "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-805564?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
-      "title": "The business value of operating core insurance solutions on the cloud",
-      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:23:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-aws-100-million-investment-to-train-customers-in-generative-ai.md",
-      "title": "AWS’ $100 Million Investment to Train Customers in Generative AI",
-      "excerpt": "The intention behind Amazon's $100 million investment in Cloud AI education, is to persuade clients to switch to AWS to build new generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
-      "originalUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technowize",
-        "domain": "technowize.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
-      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
-      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "publishedDateTime": "2023-06-23T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

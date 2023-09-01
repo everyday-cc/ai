@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Medical researchers from Sophia University, Japan, have made important findings that contribute significantly to the elucidation of the underlying mechanisms in a recent article"
-publishedDateTime: 2023-08-22T02:10:00Z
-originalUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
-webUrl: "https://telanganatoday.com/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study"
+excerpt: "Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related proteins is required for the formation of both short- and long-term memories."
+publishedDateTime: 2023-08-21T18:43:00Z
+originalUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+webUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/"
+ampWebUrl: "https://theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study/1724424/?amp"
 type: article
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Computer Vision
   - AI
 
-secured: "y4A4xwWDukCYzemm8glsq/uOTCZJg/OBhupeAlAmuDA8ZeVG2jxxcGq0mSdRjTbHan25JTETeYDLKaOPd8rqqaD+FrlSx9tUREkOWBUnySz2gnYz6xhACOcGuvQdHWuLEG+7RLZ4ICcioL4ZpAn5YQIxh8GLQegPMsX1uPdXiLeNzrA4J08heEBFYFsEtEM6JWiaetqLdfa9zVBpr3XtDV2BO73dcJ2k1x6VvNa+i71AKW/0yuWhqhjBYNKtc/8c6bftMw8F5nPjv0NAA6/vUHkw/8w9IstWIi28EyOThXhovIwFvyiiuol/DLf02pqAzTYuLrlv5DmUguLuA1MBUY0eU0htErLFmwCAHqZTyw3iDWcGDXs7oHJ8TPIM4BaGRaT3eBQBXSzU50ag3LfpJI3stlmfb1g2jUQDgkTTuXzQSs23R+PKf7rkEBhnScpN1CtmwaT9OeVVTWi/rU3XW4ImaZTYoC5HqUMez5sRPvP5JCUSmGdnuyIilr+/p1g2dtOgSxqxPXevBGwUeQQ6qA==;J6CC+7qRtqhRVt78XgxSjg=="
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230821174743.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "KIC8IBtFMrkaMsp39RTInUH+ah3ELWwJIEdR5m1IfCSIC2XyOzdCZVxtGrraVbXgPGS5rv5KFOInnwU2s2P6wHvJVlrHJDFSlxqQKCs0Q1pM8grl86IwoiN8RjCb/bsdl5NVhYOgsmykm0GzbLPSu6dnw0HJqwy8gjd9En5+vhauVzT/F4PsAIlHt1O4QbQU48I26685uKKfN7RdQvkeEo0j2/O8pZMgj5FAOui5m5RsyQGfKjx2MGQsl0UFlrttt8a7YYHeA35j8bid+fSVe4tnf5S6isjwZ7UoB0UQtkwqKVIwcpyu4/L54S0trV5G504BUhWtcduVDMxdAr/ngB6tIwkKKy758n4gpM6Yjyc=;q5D0+l70wUpvQaszVsf+/w=="
 ---
 

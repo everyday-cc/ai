@@ -10,7 +10,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-deepminds-ai-visualization-is-utterly-useless/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -197,7 +197,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

@@ -194,6 +194,20 @@ related:
         width: 1050
         height: 450
         isCached: true
+  - title: "Microsoft discontinues Visual Studio for Mac"
+    excerpt: "Microsoft has decided to discontinue Visual Studio for Mac. Support for the latest IDE version is guaranteed only through August 2024. According to"
+    publishedDateTime: 2023-08-31T13:21:00Z
+    webUrl: "https://www.techzine.eu/news/devops/110777/microsoft-discontinues-visual-studio-for-mac/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/04/shutterstock_1098133388-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "How to talk to an AI chatbot"
     excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
     publishedDateTime: 2023-08-31T05:00:00Z

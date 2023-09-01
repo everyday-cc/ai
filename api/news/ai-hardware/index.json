@@ -288,7 +288,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 388,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -941,7 +941,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -981,7 +981,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 381
+heat: 391
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "How SMBs Can Cut Through the Generative AI Hype"
+    excerpt: "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ..."
+    publishedDateTime: 2023-09-01T09:29:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
     excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."

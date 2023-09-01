@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-31T15:11:00Z
 originalUrl: "https://www.csis.org/analysis/navigating-risks-artificial-intelligence-digital-news-landscape"
 webUrl: "https://www.csis.org/analysis/navigating-risks-artificial-intelligence-digital-news-landscape"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-08/GettyImages-3228281_cropped.jpg?VersionId=3ms16y0A1SfCEsxHPZvpF8CIbWlA7qbp"
@@ -100,20 +101,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d020172f02c16abf766ed0/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 796
-        isCached: true
-  - title: "The weaponization of AI: How businesses can balance regulation and innovation"
-    excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
-    publishedDateTime: 2023-08-27T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
-        width: 1198
-        height: 672
         isCached: true
   - title: "The Rise Of AI And Its Implications For Gaming"
     excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."

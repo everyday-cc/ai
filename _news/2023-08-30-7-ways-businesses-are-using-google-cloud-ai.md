@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-clo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
 type: article
 quality: 109
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -208,15 +208,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
-    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T16:44:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
   - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
     excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
     publishedDateTime: 2023-08-27T19:11:00Z

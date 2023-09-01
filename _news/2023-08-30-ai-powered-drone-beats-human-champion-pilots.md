@@ -63,6 +63,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI-piloted drone wins against top human racers"
+    excerpt: "Drone racing is a niche but competitive sport which sees human competitors flying their drones with the aid of a headset and camera."
+    publishedDateTime: 2023-09-01T09:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-piloted-drone-wins-against-top-human-racers-11295181.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/AI-Drones-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "4YDdEJUtr/tHBgQ8ziSKyDPdwtoUG2ghHucsDRcMXL2ADx/uhXzRVSTKmN3+/nFt7yqZKK/1u66/8qFewNnHeAsmefxxtdyrqWrc+VVrieQ0JL8rCInl9+rPwynEaDWgnNt7ttc1agyDeTMjwgevnpU1s9feVmH3RQeBab1SlVFjw2rgZULwKF213Ho1NYvv2i3LekkPgPCfImPiPuxwdwCh6X9AG4mGjBM1AbZ7Ebcr/W3uJtbGO3keULmChDixtouEWLle+2HlCsk/ZrNgjrWHQrT+yTQUZmDGGHoGwQLA9QErMnCcN9/WLC1tYHdVjrqU5r4M8HbAeWIxB51h6NDZbM6IKvi3OgIhlabScuA=;ZIFYGOH0K1DJtYgwxRO5Qg=="
 ---

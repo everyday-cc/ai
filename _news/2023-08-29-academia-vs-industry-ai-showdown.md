@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry
 ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200"
@@ -74,6 +75,6 @@ related:
         height: 544
         isCached: true
 
-secured: "ZLLJIDHvlngJK3YQXDrFVxPfVLQo0zI6j9nQPNwrtbulUaiGStJYij60t2Yemrb44gyXn55lmcxSOOW3j7PQC6QqO8p2QFRx43CQcJlFWNSkP5d83C6wJMBqqtlH34a12j7/eAmx9x8CLFpAeKkZA2H9Dub1wmnGXM7VJO0Kq6K3d30g4ZPD/8YXlU8E4OUQQrbyEt0sb6fgUfMDUMgJ6f2qSepEV3I8W6nodNcgbKjUjlk1hAnIjXPtqTuBtNhKyj1Pf7vS7DRxOtjk7r0DYDub7b0r13N/7lZQgGoA8eUQUxVjt3ZnjgWf5C9Fc61tk1r2rsij5q9tMDfM/qxtwsgNaEBmLtuSNFk6EWktCS8=;VkrX0vbBPQ5YlzPXSTtQjQ=="
+secured: "KXlCrK69eVEJrbN9c2BhkO/MzguIEouE3RFktQreKZUB84nzbBCgg9CmJHhV/CQ8rxzOAMjsdBjP4c7rEXSw8Z+gQKCd238Dyn1FOTPHfmx2Y6Rr34SVb6vQWkLTcmyca8+o+pRXK2biVagihO2yWJoAWKXch7tnufGjVjADMGfzlNwlg5UVqkuQsQnX6hQV/5AQqCEcnRtJNvBLOtD8EQwnL1QO1EujBQTQtVPr1et+LO2t57uwq/G981r96nh6jwNomaIv8Xv5l9nM2HUU6DH5byGECXfB8ydB8nCoqMgTLaH7lzkx+UgA6i6KE/DNJXQlpxoG7ft2d3LlIJoxJGc49KdxrHvFwfByu1mw90so3/u5KqVgEIORKhGHIawROfoJZ4F7uWFrdND+ozZ/RxPAmfWUT2PCCDHPoQf1nI1SLSLLK/7IfW8S/NBjHQMMgimpTiKtp/x3MHcNdHyFXhmHnMduZhp5/vpJl+6ZWWgsT3NPSYPw6ym+s7+17YMU98wRLQTzGfTjTUD6UXN+JQ==;2ws5zF7kMW837rVqEZm6KQ=="
 ---
 

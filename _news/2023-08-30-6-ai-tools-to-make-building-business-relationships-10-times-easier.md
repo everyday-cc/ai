@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make
 webUrl: "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Schools use artificial intelligence to bust students vaping"
+    excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
+    publishedDateTime: 2023-09-01T09:10:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/schools-use-artificial-intelligence-to-bust-students-vaping/news-story/a5ecef0d7600103496e09276a30a25d7"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "XNK+aUF3oCJBeBxdZhQxMdhrEFnz6TiqE4wBGhvU01AhktOv/uhh/5/JyVEYvC60POdqtexpLL96cNFiHqYRPEDKZvFbvK2NW64WqD0+khbGx5dHZnEgvv9E9jumXrvQ/0KzK38RaVzvTo8glVyD8rax7kDalx/u3JTRyV/UjRl7HTNFtqTwfKq38p4Q9SoQ5Ffg4zaGk/f+v7IAuRD/3xOp7GngRTz/IM3C4sK+sBsfeZ3ju3IhXR3v8fRuBTTj590eSX05mGtWrt4XUy3bTXQbR8fNlAD49AUVjkpHruNJmX/Aztm42CkY0EqVn83A5/4dCYB8QGhClJFBQWHVJBY1qUqURHehh65FZiCqrnM=;fq23ymt0jJs/PO6PJTo1tQ=="
 ---

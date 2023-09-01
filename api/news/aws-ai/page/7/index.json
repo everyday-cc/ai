@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-03-are-your-deep-fryers-connected.md",
+      "title": "Are Your Deep Fryers Connected?",
+      "excerpt": "When Wendell Hays was 17 years old, he got a job as a fry cook at a local restaurant. The amount of formal training Hays says he received amounted to: “There’s the deep fryer, now go cook.” “The deep fryer controller had 30 buttons, but it felt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
+      "originalUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-when-do-grandmaster-nightfall-strikes-start-for-season-of-the-deep.md",
       "title": "When do Grandmaster Nightfall strikes start for Season of The Deep?",
       "excerpt": "Want to know when Grandmaster Nightfall strikes start for Season of The Deep? If you’ve reached the late-game in Destiny 2 and are looking for a challenge, a Grandmaster Nightfall is among the ...",
@@ -1207,40 +1241,6 @@
       "provider": {
         "name": "techawkng",
         "domain": "techawkng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-film-the-innocent-deep-rising.md",
-      "title": "Film: The Innocent, Deep Rising",
-      "excerpt": "Familial tensions, criminal hijinks and unexpected romance collide in the uproariously entertaining new comedy hit from the multi-talented Louis Garrel (A Faithful Man). Lyon, present day. When ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/francesca-rudkin-the-innocent-deep-rising/",
-      "originalUrl": "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/francesca-rudkin-the-innocent-deep-rising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstalk ZB",
-        "domain": "newstalkzb.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

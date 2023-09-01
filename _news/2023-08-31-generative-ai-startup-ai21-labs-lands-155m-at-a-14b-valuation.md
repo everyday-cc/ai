@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-la
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
+    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
+    publishedDateTime: 2023-08-31T16:25:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "tXB1dRdnDw3f11QtgG4YJF0k4v+5iMzJDl1fBwSjetCp4Lfo62bzsHZiEENU4Q9XpuBDaehpA1KK3DDmC8d0xyqciVCMMQ7naAcI1tQdpqgr4SZ1ni1WHKTOIQ863jf1Tk7GKkK6SAcRnzJMpmw5fN8wjc+Wvfwyuea7W+hdSWh1YC94beMGtLKFfsV+BY/KaCvEBaGC2ApBh0FEbbEGe3L8G50erQ8HYscHEdeJVPrgFJsm9GaVCAVz6mp90aznYeWA5LJ3hgmS4FF+28ZoYyBa+TSr6skirNFKcjWvH/Fdb5HB4MdVzsbGcWiTF8dFOteLhMa6bjKfI6zrxe5FJOGTtHh7NOYU8adlaJQWTHZxaeg03Islo3dtiqPsuOCfjS/Gdw/j+PlwPgweUT16JKVeRLzAeG7ei1R6gERrqTdWzn9SV+I/BKNeoW/jyc05XAfIRXtRimidtpHjZJlMc9jtbR5FkbjanN+0Le1QIs7b/fvFpK5ohmARDyGEBQ5JBl30EUOr3wByZYZtDcoUXw==;NQV73XzliQWTVH2A3vZTZg=="

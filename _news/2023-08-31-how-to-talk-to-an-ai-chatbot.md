@@ -203,6 +203,20 @@ related:
         width: 1050
         height: 450
         isCached: true
+  - title: "Microsoft discontinues Visual Studio for Mac"
+    excerpt: "Microsoft has decided to discontinue Visual Studio for Mac. Support for the latest IDE version is guaranteed only through August 2024. According to"
+    publishedDateTime: 2023-08-31T13:21:00Z
+    webUrl: "https://www.techzine.eu/news/devops/110777/microsoft-discontinues-visual-studio-for-mac/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/04/shutterstock_1098133388-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z

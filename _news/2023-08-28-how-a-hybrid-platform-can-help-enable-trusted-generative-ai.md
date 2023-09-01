@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "The weaponization of AI: How businesses can balance regulation and innovation"
-    excerpt: "Amid valid concerns about coming regulations stifling competition, we need responsible AI development and global cooperation."
-    publishedDateTime: 2023-08-27T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/weaponization-ai-balance-regulation-innovation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_petros_afshar_depiction_of_cybersecurity_optimistic_5a4def4a-e0c8-40d2-b7d2-4f0554e9aeef.png?w=1200&strip=all"
-        width: 1198
-        height: 672
-        isCached: true
   - title: "The Rise Of AI And Its Implications For Gaming"
     excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
     publishedDateTime: 2023-08-30T16:40:00Z
@@ -217,6 +203,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Navigating the Risks of Artificial Intelligence on the Digital News Landscape"
+    excerpt: "AI can increase the gatekeeper power that search engines and social media platforms wield over digital news outlets. Robust data governance frameworks are necessary to support the financial sustainability of newsrooms and cultivate a more diverse and trustworthy internet."
+    publishedDateTime: 2023-08-31T15:11:00Z
+    webUrl: "https://www.csis.org/analysis/navigating-risks-artificial-intelligence-digital-news-landscape"
+    type: article
+    provider:
+      name: csis.org
+      domain: csis.org
+    quality: 38
+    images:
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-08/GettyImages-3228281_cropped.jpg?VersionId=3ms16y0A1SfCEsxHPZvpF8CIbWlA7qbp"
+        width: 4160
+        height: 2340
+        isCached: true
   - title: "How artificial intelligence will affect the elections of 2024"
     excerpt: "Advances in generative artificial intelligence ( AI )—with models that can spit out sophisticated essays and create realistic images from text prompts—make synthetic propaganda possible. The fear is that disinformation campaigns may be supercharged in 2024,"
     publishedDateTime: 2023-08-31T08:49:00Z
@@ -244,20 +244,6 @@ related:
       - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Navigating the Risks of Artificial Intelligence on the Digital News Landscape"
-    excerpt: "AI can increase the gatekeeper power that search engines and social media platforms wield over digital news outlets. Robust data governance frameworks are necessary to support the financial sustainability of newsrooms and cultivate a more diverse and trustworthy internet."
-    publishedDateTime: 2023-08-31T15:11:00Z
-    webUrl: "https://www.csis.org/analysis/navigating-risks-artificial-intelligence-digital-news-landscape"
-    type: article
-    provider:
-      name: csis.org
-      domain: csis.org
-    quality: 36
-    images:
-      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-08/GettyImages-3228281_cropped.jpg?VersionId=3ms16y0A1SfCEsxHPZvpF8CIbWlA7qbp"
-        width: 4160
-        height: 2340
         isCached: true
   - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
     excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."

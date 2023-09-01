@@ -29,25 +29,25 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.popsci.com/uploads/2023/08/30/Depositphotos_475432208_L-1.jpg?auto=webp"
         width: 2000
         height: 1125
         isCached: true
-  - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-    publishedDateTime: 2023-08-31T11:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
+    excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
+    publishedDateTime: 2023-08-31T00:58:00Z
+    webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
     type: article
     provider:
-      name: MM&M
-      domain: mmm-online.com
+      name: LAist
+      domain: laist.com
     quality: 53
     images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
-        width: 1024
-        height: 684
+      - url: "https://scpr.brightspotcdn.com/dims4/default/c6bb1a5/2147483647/strip/true/crop/4211x2211+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F52%2F02%2Ffccf47eb43d4b160cdf07142df65%2Fgettyimages-1169089775.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "L0LD7yqeTTUrDf9BzLGXQAgOcvJ0dojUuiFGlQTILixoiatWg2H7KXyvNRHmwGD+jVRYYXfEwvsxVwLaFl8KqZ6H/sAE7/mUcHlMITGgEDKZhEME7sPZn2cYe/NW/XeJ6WW02f1ZQV38oXnHMNy7cnpEh8FOJeFdb/8PjMXpg7BCZ1V3dF85cDlyiBWkJkAaUZ/ZYtbFfGKC1QPciRmjhTExj1owSb285SSuF8RCQTbuMbtIvSq6MGbJqh1hiynWS9fHl/hBzdcKDjEIrHTm0ypCX+mBWLU5yamLqZw/iikcLSh8Wchbaf3ZUShmZ+//xbmywcK4YbyslWgNeK2QyM9EfEgXyYwID3CIiBEc/ZU=;Fek1tQGVJv7uE/r66xJavQ=="

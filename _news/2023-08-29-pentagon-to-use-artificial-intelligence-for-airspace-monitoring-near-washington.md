@@ -7,7 +7,7 @@ originalUrl: "https://www.flightglobal.com/defence/pentagon-to-use-artificial-in
 webUrl: "https://www.flightglobal.com/defence/pentagon-to-use-artificial-intelligence-for-airspace-monitoring-near-washington/154716.article"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How to use AI for marketing without sounding like a robot"
-    excerpt: "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling."
-    publishedDateTime: 2023-08-27T16:59:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot"
+  - title: "5 astonishing uses of AI happening right now"
+    excerpt: "“Through AI tech, it would create conversations that are fully voiced, emotive and impactful. For example, you could tell a character their house is on fire and they'd rush home. Or you could cause a rift between two NPCs that are in love,” he wrote."
+    publishedDateTime: 2023-08-28T07:00:00Z
+    webUrl: "https://www.tomsguide.com/features/5-astonishing-uses-of-ai-happening-right-now"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 71
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg"
-        width: 1420
-        height: 798
+      - url: "https://cdn.mos.cms.futurecdn.net/cbEyrWGcAmZkNEURB29W4J-1200-80.jpg"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "StR673WxYMEv4p/o7Hs+RmxFxsv2EmxnWBjSpbycIocvlPvVnIpCLaFa2qK4+2Oja6RcWPeR8KOQQdqQeRFIm3uZwQGUmaguWeIroXoMLCDdc04G+oCK1EgFqrbFn/MoKf3MaEJRcU9/pYURZXsgpGR9TUYEi0MdDqWR/GVWla/zSCMYwQ8lsa1MEnzK+TVc4dfNHfKQPml8hjXpyRFuyIcwvJElghUM+rj7SFWKvW27XOVMwcrzJ0WSSSMKqxkfNBz/075s7AbgNCrnlRx3uWB3dQftP1fn0lGGkIQ3epCjnymmECNh2zCgkPLhZPsIuYb4/qdjO8RE0mo6T73SRo72SPPSpGbFgLBvNnny3IU=;PFFmCijuSmpCesowxB2Yzw=="
