@@ -202,6 +202,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-28-this-is-how-ai-will-shape-early-career-tech-jobs.md",
+      "title": "This is how AI will shape early-career tech jobs",
+      "excerpt": "According to the World Economic Forum (WEF), 50% of all employees will need reskilling by 2025 as the adoption of technology increases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
+      "originalUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-how-trusted-generative-ai-can-improve-the-connected-customer-experience.md",
       "title": "How trusted generative AI can improve the connected customer experience",
       "excerpt": "Most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs.",
@@ -1388,50 +1441,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-education-20-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental.md",
-      "title": "Education 2.0: Is The Rise Of Writing Services And AI Writing Tools Beneficial Or Detrimental?",
-      "excerpt": "Dive into an exploration of how digital aides, like PerfectEssayWriter.ai, ChatGPT, etc., are altering the student experience. Also, discover whether they're leading us to a brighter future or casting shadows on the very essence of education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_07_31_084550.jpg?v=25022022",
-          "width": 400,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
-      "publishedDateTime": "2023-08-10T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

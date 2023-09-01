@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 506
         height: 322
         isCached: true
-  - title: "Cruise, the self-driving ride-sharing service from San Francisco"
-    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
-    publishedDateTime: 2023-08-27T12:47:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/cruise-the-self-driving-ride-sharing-service-san-francisco-3404426"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
 
 secured: "s05Fnjkf2ix2xgAOer2QvYSlcD++oG2VGDPFuD3etx34VEHA9UyVfbOTl8ieInHPKpoBVrciN/LFjgHlG4kcy0vwXO7uk1B3XrtrwrktDzK8kQwfvTiMYH7S02XNpQqUWW9RuYDnRpDGgPWCeef8xwFB5xl7oNr+F6av2r8t3QoXruWgxRtLxKtHfhI784R3a0VuPj4bEJgfa2a3hS6xFN24Spi3rQklHfA/qLPWqfXXeqmcdHqWCB9TSMMWhgR5oMvE9ODbfuR6OIGGg0jLldQn2F8Ligzli30V/6GISn9Ea1i53xs+K3m7sm/0oEtS3747TytRIBU+aAGcA6XRKxnX42LEwh2MkDFKai6Fu/4=;qSH4V63UOnGykZqL6TN3Tw=="
 ---

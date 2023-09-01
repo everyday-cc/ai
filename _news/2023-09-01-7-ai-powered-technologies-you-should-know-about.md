@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Should artificial intelligence help you buy your next house?"
+    excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
+    publishedDateTime: 2023-09-01T04:06:00Z
+    webUrl: "https://obj.ca/should-artificial-intelligence-help-you-buy-your-next-house/"
+    type: article
+    provider:
+      name: obj
+      domain: obj.ca
+    quality: 39
+    images:
+      - url: "https://assets.obj.ca/2023/08/95hi8sEu-Untitled-design-3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gFMY8vswqZOj4Jc7ZnfGqs9qQUA5Z6+U1N3OxI5F0N+Qd7yesfgHnwofeN/3DEs9tlaKXWFEOtu6t+qyRONz8bU33hx+MSoyhpjgJEqgAnvr9GJoj6lSoGxkIsmbZd9QAmFxyGpr9tvq2RGeLzLiCad9/LcaXWb43zs5BYl0ipkxbe0EIJ54+PUYYT1YPmQ6r6N5eca84LpoXHLHvF4JptxOQVfJdoXzrLS2OZ6obFMgidNhW5TQ2LAj4/tzONi/C5z22vmpfiGqYdGY0kexfl1wCZbAEQi+QvAYDL0Mx93OXyBfm1IUfFc5LGA/elAlKtOTF3vFN0Y8vCBCFRJCikQDrId3cWhkJHfpVh9i7WULDC7YjZ5yz5eYjZhEVKqRF2xGI+2ECqBi3KzdjxjqjRRCygxrbgC6EXOl+USsQyDXIJa6eVvVM0CPZkq9JpFFauvTnyHWK92Hvgv6BOe11La8Pfqq7j+/vnTZxucGjY4MlkXhk8OYSi5RKO4XMHgwr+miiFaXtETxCa7c9pStsQ==;WXV2r9v572Vc31VnKrsn1w=="
 ---

@@ -72,6 +72,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Google DeepMind cofounder calls for US to enforce AI standards"
+    excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
+    publishedDateTime: 2023-09-01T05:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
     excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
     publishedDateTime: 2023-08-30T02:00:00Z

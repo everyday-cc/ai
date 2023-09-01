@@ -64,15 +64,6 @@ related:
         width: 506
         height: 322
         isCached: true
-  - title: "Cruise, the self-driving ride-sharing service from San Francisco"
-    excerpt: "Cruise, a California-based automobile company, has released a unique 'self-driving' ride-sharing service to passengers in San Francisco and some parts of Austin and Phoenix, US. These driverless, fully electric cars do not require the input of a human driver and have recently received permission to operate 24/7 across the city,"
-    publishedDateTime: 2023-08-27T12:47:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/cruise-the-self-driving-ride-sharing-service-san-francisco-3404426"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
 
 secured: "Q6TVEUA3y7H1cSBPfKw8wF2KnzIihTS1GInTDA1yLlt0IDJ7UpZcbtrzXiS4Nwuw7C2kSOtcrHyS2UHmUfuI8bZOpHLOJTjoNWRTtTz4mnJ0AWe7ka/zIJhoEZ304QMsyzZwC++lJKvzw9WUMJ6m72MRqLwl5KoEH+VeokdAhEAeGF/fQ/XFSsPHcOwBZLcBJDTuVnu415DaCzHNU975QATqUD+C7OvH/tZPnOwtCvnCF/SZ15uH1SMMOmyfOU3IAu1o6E+XP1QnhsSTYLPd6ryZr/6pSFkOj2RX8rEWaReeXEQ/ogomFGF7lgTjQrJdPHcFlAazbQiooBAUPRuCjZjx1g8YsjvEbcIsk7H5oGM=;qp902xpb3techbbtX6/Gtg=="
 ---

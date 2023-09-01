@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-11-education-20-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental.md",
+      "title": "Education 2.0: Is The Rise Of Writing Services And AI Writing Tools Beneficial Or Detrimental?",
+      "excerpt": "Dive into an exploration of how digital aides, like PerfectEssayWriter.ai, ChatGPT, etc., are altering the student experience. Also, discover whether they're leading us to a brighter future or casting shadows on the very essence of education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_07_31_084550.jpg?v=25022022",
+          "width": 400,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
+      "publishedDateTime": "2023-08-10T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-11-skills-youll-need-to-use-ai-effectively.md",
       "title": "11 Skills You’ll Need To Use AI Effectively",
       "excerpt": "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias.",
@@ -1400,49 +1444,6 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-tools-pose-threat-to-research-ethics.md",
-      "title": "AI tools pose threat to research ethics",
-      "excerpt": "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
-      "originalUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
-      "publishedDateTime": "2023-07-26T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

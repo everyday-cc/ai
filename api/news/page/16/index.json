@@ -2,6 +2,93 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-08-18-media-alert-brainchip-chair-antonio-j-viana-addresses-investors-in-two-part-investor-podcast.md",
+      "title": "Media Alert: BrainChip Chair Antonio J. Viana Addresses Investors in Two-Part Investor Podcast",
+      "excerpt": "In the podcast, BrainChip director of global investor relations Tony Dawe interviews board chair Antonio J. Viana to address the company’s progress since the most recent Annual General Meeting (AGM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230817162197/en/Media-Alert-BrainChip-Chair-Antonio-J.-Viana-Addresses-Investors-in-Two-Part-Investor-Podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-all-symbols-in-tensorflow-ranking.md",
+      "title": "All symbols in TensorFlow Ranking",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/ranking/api_docs/python/tfr/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/ranking/api_docs/python/tfr/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-servicenow-sees-generative-ai-monetization-opportunity.md",
       "title": "ServiceNow Sees Generative AI Monetization Opportunity",
       "excerpt": "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI.",
@@ -1148,92 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-an-open-source-and-python-based-platform-for-the-2d-simulation-of-robocup-soccer.md",
-      "title": "An open-source and Python-based platform for the 2D simulation of Robocup soccer",
-      "excerpt": "RoboCup is an international annual event designed to showcase advances in the fields of robotics and artificial intelligence (AI). At this event, different teams of humanoid robots play soccer against each other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-open-source-and-pyt.jpg",
-          "width": 1508,
-          "height": 924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "publishedDateTime": "2023-08-17T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
-      "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
-      "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Finance"
       ]
     }
   ],

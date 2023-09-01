@@ -2,6 +2,83 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
+      "title": "Researchers investigate ethical side of AI impacts on meaningful work",
+      "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-you.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
+      "publishedDateTime": "2023-07-13T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing.md",
+      "title": "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing",
+      "excerpt": "“As AI workloads become more broadly adopted ... “And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers.md",
       "title": "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers",
       "excerpt": "The announcement means Azure customers now use a vector database closer to their data and applications, and in turn provide fast, accurate, and secure Generative AI applications for their users.",
@@ -1073,100 +1150,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
-      "title": "The looming addiction crisis fueled by AI",
-      "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac50bf8ed31300199e5355?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "publishedDateTime": "2023-07-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ibm-sets-watson-chips-on-the-ai-case-as-price-war-kicks-off.md",
-      "title": "IBM sets Watson chips on the AI case as price war kicks off",
-      "excerpt": "IBM claims it can cut the cost for AI models in the cloud with custom silicon to cash in on the surge of interest in generative models like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
-      "originalUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2023/05/09/watson_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
-      "publishedDateTime": "2023-07-13T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

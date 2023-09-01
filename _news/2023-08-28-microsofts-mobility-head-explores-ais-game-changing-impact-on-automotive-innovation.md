@@ -130,6 +130,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft enters partnership to build AI for large datasets"
+    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft partners with universities to allow the use of generative AI in school"
     excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
     publishedDateTime: 2023-08-29T04:50:00Z

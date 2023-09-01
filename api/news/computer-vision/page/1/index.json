@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-31-uk-government-seeks-expanded-use-of-ai-based-facial-recognition-by-police.md",
+      "title": "UK government seeks expanded use of AI-based facial recognition by police",
+      "excerpt": "It said that facial recognition was already being used in a number of ways within UK policing and security settings to “prevent and detect crime, enhance security, find wanted criminals” among others, and that using the technology more widely was “a priority” for the Home Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
+      "originalUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg",
+          "width": 619,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-home-office-eyeing-expansion-of-orwellian-facial-recognition.md",
       "title": "Home Office eyeing expansion of 'Orwellian' facial recognition",
       "excerpt": "The Home Office insists it wants to \"strike the right balance between public safety and individual privacy rights\" and has issued a call to companies to suggest ways of using it.",
@@ -507,8 +550,8 @@
       "title": "Cyngn's Proprietary Computer Vision Achieves Arauco's Complex Application Requirements by Utilizing Ouster Lidar in a Multi-Sensor System",
       "excerpt": "Cyngn developed proprietary computer vision algorithms that are bundled into a Pallet Stack Attribute Estimation sub-system within the DriveMod perception stack. DriveMod also uses lidar to inform the location of its vehicles within the site. Fusing sensor data from lidar and other sensors, DriveMod's advanced autonomy software enables:",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -527,7 +570,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T05:53:00-07:00",
+      "publishedDateTime": "2023-08-22T04:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1224,10 +1267,10 @@
     {
       "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
       "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
+      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.chron.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "webUrl": "https://www.nhregister.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.nhregister.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1237,54 +1280,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:10:00-07:00",
+      "publishedDateTime": "2023-08-14T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030.md",
-      "title": "Face Recognition Revolving Door Market Overview 2023: Comprehensive Analysis till 2030",
-      "excerpt": "Global \"Face Recognition Revolving Door Market\" Scope and Outlook Report for 2023 is the implementation of new technologies and innovative solutions that will drive the market's revenue generation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33836025",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33836025",
-      "publishedDateTime": "2023-08-14T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
         "images": null,
         "publishers": null,
         "authors": null

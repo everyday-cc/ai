@@ -61,6 +61,20 @@ related:
         width: 284
         height: 250
         isCached: true
+  - title: "Key Robotics Industry Statistics to Understand in 2023"
+    excerpt: "Get up-to-date with vital robotics industry statistics for 2023. Explore trends, growth, and key figures shaping the future of robotics."
+    publishedDateTime: 2023-09-01T05:05:00Z
+    webUrl: "https://techreport.com/statistics/robotics-industry-statistics/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/Editors-Choice-Robotics-Industry-Stats-scaled.jpg"
+        width: 2048
+        height: 1149
+        isCached: true
   - title: "Not just “messing with a robot”: GA school district brings AI into classrooms"
     excerpt: "The emergence of artificial intelligence has raised questions about its impact on creativity and critical thinking. While some schools are banning the use of AI in classrooms, one school district in Gwinnett County,"
     publishedDateTime: 2023-08-29T19:19:00Z

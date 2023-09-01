@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipm
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 18
+  - title: "Ericsson with AWS and Hitachi America R&D to showcase smart factory potential"
+    excerpt: "Built on Ericsson’s 4G and 5G radio and dual mode core technology, Ericsson Private 5G enables a wide variety of innovative use cases"
+    publishedDateTime: 2023-09-01T05:00:00Z
+    webUrl: "https://www.voicendata.com/ericsson-aws-and-hitachi-america-rd-to-showcase-smart-factory-potential/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 16
   - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential f"
     publishedDateTime: 2023-08-29T11:33:00Z

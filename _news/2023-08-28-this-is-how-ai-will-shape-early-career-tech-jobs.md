@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/programming-development/this-is-how-ai-wil
 webUrl: "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -28,52 +28,6 @@ images:
     width: 1200
     height: 681
     isCached: true
-
-related:
-  - title: "AI Will Not Eliminate Jobs"
-    excerpt: "That title is a bold statement in a world where AI, ChatGPT and other technologies are doing many tasks that employees have typically performed."
-    publishedDateTime: 2023-08-27T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/"
-    ampWebUrl: "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e94ab308aeeab5723b0616/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 646
-        isCached: true
-  - title: "AI Ethics Issues Will Not Go Away"
-    excerpt: "Executives are right to be concerned about the accuracy of the AI models they put into production and tamping down on hallucinating ML models. But they"
-    publishedDateTime: 2023-08-31T22:36:00Z
-    webUrl: "https://www.datanami.com/2023/08/31/ai-ethics-issues-will-not-go-away/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/AI_ethics_shutterstock_3rdtimeluckystudio.jpg"
-        width: 1000
-        height: 422
-        isCached: true
-  - title: "Artificial intelligence can create more jobs, not destroy them"
-    excerpt: "A new study by the International Labour Organization (ILO) has concluded that Generative Artificial Intelligence (AI) is more likely to increase jobs than"
-    publishedDateTime: 2023-08-30T02:40:00Z
-    webUrl: "https://www.pressenza.com/2023/08/artificial-intelligence-can-create-more-jobs-not-destroy-them/"
-    type: article
-    provider:
-      name: Pressenza
-      domain: pressenza.com
-    quality: 39
-    images:
-      - url: "https://www.pressenza.com/wp-content/uploads/2023/08/IA-Nuttapong-Punna-OIT.jpg"
-        width: 950
-        height: 534
-        isCached: true
 
 secured: "C5xDv+TTjd+jdqOgoYm7og4ymmf2abH713E/laGkfqHVTpgzKJ+BnYUVoDKVRXe3IfJaDpR4uzF7PSE53Opo9QCLm9bzl4DrLCGfHXzWT9iUfsvIiLwZQJjNXUmUabzxjgRs3CWt7lRDdw3F1cNIZf3BwVTtOhOI5aM89GWLrEulqvheJQd/M4/5giWDDZH49ub+yScVVB9zIl9GW5AgjG5X1sfaOrrvnZI/bMV3zeudkcRvRA5jFzwUWSrqVEi2v0fojvGTQxX4uV+r56Q3XFLwLrgnuhSSQI2xcLE5tRQK6qSzIR2TekfqzGq1Ag75fdX98HFExMOW5u/Or7yfTJZ7WBH7DfYvHEaC1P7A5C5RpDeeApPRW9GFx9U99gMmLR0ehF3VP/P03AijQIBPO721qbOP/OGnhwg/ln6hddIF7aBHOWBt9nQlx7CUUi5H7YC+tNkDF/ApNXhRfLTx3lyByuvBpOGV/sbTZ/yfxYqas8Uaxm7NrmEyXRtqV0xj9xxZ4eg/0K9oEqGrnHU+CA==;+f1artDtraJK2VlPq43gnQ=="
 ---

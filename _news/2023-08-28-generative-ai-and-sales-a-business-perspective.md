@@ -47,6 +47,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) and Salesforce (NYSE: CRM) announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM."
+    publishedDateTime: 2023-08-31T12:00:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-and-salesforce-team-help-businesses-accelerate-adoption-trustworthy-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 33
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1964.jpg?h=7de12b8a&itok=g0326s_D"
+        width: 600
+        height: 316
+        isCached: true
   - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
     excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
     publishedDateTime: 2023-08-31T17:07:00Z
@@ -93,15 +107,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "IBM Consulting and Salesforce are working with our shared clients to help accelerate business transformations with generative AI. Clients can now access the following: Driving adoption of AI technology: IBM Consulting will use its industry expertise and innovative delivery models,"
-    publishedDateTime: 2023-08-31T15:22:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/31/9873103.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "0fCdBkNOO6eX+1pwOdiSFh2HxPXFNxtGA+EdDdy/M2iiNxUpfSURiRJjOLC9ktyNLBTsY6JQxkXnjTXI2uR7dVaVqtKLSfK0FR8Gm0BcWaB+Xl8ew/ipXqCO74ZMTn5EZfTK/g9i52IK9sd2qy3dE9yPucRLBiy+zWlaPgkRpS18dLtHxrNx8OQcCpzCNvNwRSGAvJ3CxSlbAazP2pAIz5ecFejdvT35QTdgAa42Zv19gy3Ju6QPEsG8sN4pYWxKnO9XJ1CWUR/O/KuiG2TRLe/bR1rNLYQz3WohN7jthSm987JU8vMON4MLbebzYn/QRGAIQp6rz6waJkwVM9BLXW5uEfTyLl6yQ7VM6oOj1vO0hJGBCWcVo9HPdBKCUA0RFc5ZBtnapFztX1m3u0sfvz0Ib3vgQCHrPNV4/0IiPAiA3vLVQt8ckkGVRjFZXqSVfKNNgLT1syrHZCEEiZ32O5j1PAxg5fUqqrwu9zTGJr9aHZkVfOIItzmuWXGVHu0Z8RxXzC9aUqYmJdxyjsPBkg==;DLVwkfMT6iwYxRIhj32Esw=="
 ---

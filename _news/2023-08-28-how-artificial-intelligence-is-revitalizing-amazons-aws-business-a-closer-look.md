@@ -2,9 +2,9 @@
 category: news
 title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
 excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-publishedDateTime: 2023-08-27T19:33:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
+publishedDateTime: 2023-08-27T19:11:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
 type: article
 quality: 29
 heat: -1
@@ -60,15 +60,6 @@ related:
       name: Google
       domain: blog.google
     quality: 86
-  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
-    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 59
   - title: "Google courts businesses with ramped up cloud AI"
     excerpt: "Google on Tuesday said it was weaving artificial intelligence (AI) deeper into its cloud offerings as it vies for the business of firms keen to capitalize on the technology."
     publishedDateTime: 2023-08-29T20:14:00Z
@@ -221,6 +212,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
+  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
+    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
+    publishedDateTime: 2023-08-27T16:44:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
   - title: "New IBM campaign promotes tailored use of AI for businesses"
     excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
     publishedDateTime: 2023-08-28T18:55:00Z
@@ -249,6 +249,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "RbzL2JmJPfIVhScfsCIKsNu9muulq076jWNK6VoR1SqGm4W8S710Qzv73axqu+/qD+wOvbrPHfdJdyo6criD86Q/2HLicd6NYjImejm9QPEqIUKFzl3rj89QIBXOW3r/ap4+zx0UlK10TQIeJbZ2wvXDruZq+dTvi0vJdVNsS/9SjzKby4/LRQo4EzFNMpee9fUZrmbRfegDUL6+zYDGISIgZxpCEr0uJr/YioE3ep+Win6cIQEegy/VLeuVq9xIz8/Gq7NONH5JH/xaSndc8BW8QHYs4djNmrvrk0P6qDCHaDQ+9Q3tM+6V45dzNnC07RjijzRdovp/AXpNlnqgHuDJ+Y+GJdfXydhl776B6VQ=;/FnZtlEuVIEIrLZ0A8yMFg=="
+secured: "E6aSikjONG+klmflpm8e2JzYbv/wt3bnmZhVW/Gx1Rr8eNgPmWwa5Zu12NFJYmFMIEE7bNls0Qcbx27kZRmb42OEEUcFTIqG78LcPqw/Hnm9fug6ly6u3Wojf4CL1/f/WTW0Z9hd5aDfbil2BG9lHM5fLVTTrB5lbwxEUmkCF4NQkZ+a1KzdvYGqAIbCyG/mwXyneFK0QxiN1yunsJfECBJ8fXxyxAmMfOtctrc3KH5oXKZStQntNE2nMJajqNacXvy9EfEyEg0xdLDf7TkyvkVy/uosRuXB7gt4qVpP509xlzdJKLnVd9J1yV7MkvzaePY+ae2sCOYd6J7aVLfNFjk60UMa0iKbRQAVGWkHlok=;3AI5YuLXsS64ug5h4Ur06Q=="
 ---
 

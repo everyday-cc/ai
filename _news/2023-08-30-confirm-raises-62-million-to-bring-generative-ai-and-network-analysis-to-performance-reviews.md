@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Everyone wants responsible AI, but few people are doing anything about it"
+    excerpt: "Also: Five ways to use AI responsibly The results are from a survey based on the views of 500 business leaders released by technology company Conversica, which says: \"A resounding message emerges from the survey: a majority of respondents recognize the paramount importance of well-defined guidelines for the responsible use of AI within companies,"
+    publishedDateTime: 2023-08-30T20:10:00Z
+    webUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Applies Generative AI Tools to Cloud Security"
     excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
     publishedDateTime: 2023-08-29T17:45:00Z
@@ -121,6 +137,20 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
         width: 1200
         height: 625
+        isCached: true
+  - title: "AI in the Workplace"
+    excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
+    publishedDateTime: 2023-09-01T03:21:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/transactional/ai-workplace-2023-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/6Zc2TF_ZLG7FtJpoJk0f_thCDok=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33UKYOX3PBAOVPBM6B2MGFCHIM.jpg"
+        width: 1920
+        height: 1005
         isCached: true
   - title: "Generative AI and Foundation Models Face Inflated Expectations"
     excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."

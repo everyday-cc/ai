@@ -65,6 +65,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Google DeepMind cofounder calls for US to enforce AI standards"
+    excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
+    publishedDateTime: 2023-09-01T05:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Former Google DeepMind Researchers Go Deep for Sales Triumph"
     excerpt: "Everyone is building these pretty-looking prototypes with large language models and putting it on Hacker News. While it looks nice, we still haven’t seen deeply integrated use cases, which are of high quality,"
     publishedDateTime: 2023-08-28T05:05:00Z

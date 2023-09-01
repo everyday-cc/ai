@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The shares of top quantum computing companies won’t stay cheap for long."
     publishedDateTime: 2023-08-31T16:04:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-quantum-computing-stocks-to-put-on-your-must-buy-list-1032597363"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
+    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
+    publishedDateTime: 2023-09-01T04:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
     type: article
     provider:
       name: Business Insider

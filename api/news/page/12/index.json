@@ -2,21 +2,21 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
-      "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
-      "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
+      "path": "_news/2023-08-22-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times.md",
+      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT – The New York Times",
+      "excerpt": "Microsoft said on Monday that it was making a “multiyear, multibillion-dollar” investment in OpenAI, the San Francisco artificial intelligence lab behind the experimental online chatbot ChatGPT. The companies did not disclose the specific financial terms of the deal,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "webUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
+      "originalUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1018.png",
+          "width": 1050,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T01:06:00-07:00",
+      "publishedDateTime": "2023-08-22T01:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Inferse",
+        "domain": "inferse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,59 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-oneplus-seems-to-be-testing-several-generative-ai-powered-tools.md",
+      "title": "OnePlus seems to be testing several generative AI-powered tools",
+      "excerpt": "OnePlus' ideas for generative AI include a short video creation app, a personal education app, and more. OnePlus is surveying users in North America, Europe, and India to ask about the usefulness of new generative AI tools. The AI solutions include a video creation app, an education app, a caption generator, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/",
+      "originalUrl": "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2019/05/OnePlus-7-Pro-back-logo.jpg",
+          "width": 1919,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -129,6 +181,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
+      "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
+      "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33976429/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33976429",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976429",
+      "publishedDateTime": "2023-08-21T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1047,100 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
-      "title": "Natural language processing to extract social risk factors influencing health",
-      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/health.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
-      "publishedDateTime": "2023-08-21T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-abba-star-helps-youtube-come-to-grips-with-ai-music.md",
-      "title": "Abba Star Helps YouTube Come To Grips With AI Music",
-      "excerpt": "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "publishedDateTime": "2023-08-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Should artificial intelligence help you buy your next house?"
+    excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
+    publishedDateTime: 2023-09-01T04:06:00Z
+    webUrl: "https://obj.ca/should-artificial-intelligence-help-you-buy-your-next-house/"
+    type: article
+    provider:
+      name: obj
+      domain: obj.ca
+    quality: 39
+    images:
+      - url: "https://assets.obj.ca/2023/08/95hi8sEu-Untitled-design-3.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ytUppqID1EPjF14wX5RpAgVABnhTnM/mcT6nHmr6A/TUNxsfF1crpPQDezV7boaAvQOoXF1rA2tzdAKjCzPp4jFnnvI+sBUTmrSiMvxW5V97WBExCGnZzkpo6y1ExOVlRrvHj/Y42X0dAjMepDTVp9Sro+GfhcBC1n38cc3AqpQet0RxXbekQJt9kqx+qDkvav9PvT+C31s+Z0eyjl14KkJ9f1sYY8DJpGF2vueFi1cShhW5FDB5SUbmmiuJA1Fd15gt6qdB0rjrJVD+uVXY9Un8O6tqXi3mh28WfmbxHCHUEl0HJc3DYobEO8hKN0ED9Tq7izNiwlLmIWqP6Xufma0y8brvNIXnxsMFoIQfneyx6vjNxDyuxoc1TsNtNRzBnXh+UYGVVl9mcZEOrJrnOP0gUTnu3lcDt5xitbx40/vo2byiomYQTt+n4g/KUm9VIon/9tIMBKRPrir4jq4A7dDvIqUDl18j85ptIq39hGNrvIOW2Aj6H+L5BqhaAl+d+EQnAG3ydF4DlKDlxh/v8w==;k412SWELu8wwsy7yHBgCGw=="

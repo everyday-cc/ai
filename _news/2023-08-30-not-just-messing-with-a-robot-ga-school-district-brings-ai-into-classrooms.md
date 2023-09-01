@@ -60,6 +60,20 @@ related:
         width: 284
         height: 250
         isCached: true
+  - title: "Key Robotics Industry Statistics to Understand in 2023"
+    excerpt: "Get up-to-date with vital robotics industry statistics for 2023. Explore trends, growth, and key figures shaping the future of robotics."
+    publishedDateTime: 2023-09-01T05:05:00Z
+    webUrl: "https://techreport.com/statistics/robotics-industry-statistics/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/Editors-Choice-Robotics-Industry-Stats-scaled.jpg"
+        width: 2048
+        height: 1149
+        isCached: true
   - title: "Revolutionizing Industries: Commercial Robots Market 2023 to 2031 - Increasing Investments Drives Growth"
     excerpt: "The global commercial robots market, valued at $15.2 billion in 2021, is anticipated to achieve remarkable growth, projecting an estimated value of $85.2 billion by 2031, exhibiting a robust Compound Annual Growth Rate (CAGR) of 20.0% from 2022 to 2031."
     publishedDateTime: 2023-08-29T23:22:00Z

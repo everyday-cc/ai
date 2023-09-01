@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and machine learning will revolutionize investing decisions"
+    excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
+    publishedDateTime: 2023-09-01T01:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-how-ai-and-machine-learning-will-revolutionize-investing-decisions/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Gkhog6nL6qmm6i1A-VXTqewKrRw=/1200x757/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/MZC7RUPSLNFMZCSFIH3M757CWA.jpg"
+        width: 1200
+        height: 757
+        isCached: true
   - title: "Local experts weigh in on affects of artificial intelligence and machine learning"
     excerpt: "With the rise of machine learning through ChatGPT and other artificial intelligence systems, there are positive and negative implications that can affect how local city government and municipalities operate,"
     publishedDateTime: 2023-08-29T22:55:00Z

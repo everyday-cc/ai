@@ -57,6 +57,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
+    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
+    publishedDateTime: 2023-09-01T04:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "/CBjLLCFkiVpPjZWpNpDi8fz2VOkdNboFRJwAJbxjyb5i8u+TsHBLmRPGpuxPkPEUIJ9VDkunMR4qEKLwkzBX6GtQgMFIhgp6dRhXDznBxCFMus3/kBhr/23lNOyTJCH7bRrinEtzQU5xZ7tyogDsryryZQ0mizceMMEWsny4jLCjT0qjuyFDGIFU62BO4P2MDhLZHFPeiUdqkq3vnyZ7pG6BzpgcJJv2s5jOYdveVMnFMrEvGdWCMII7hz9GuWPnz4ob2NqxYYRTb+fSwvyw/DtTJ+KcEI2iEMdEq+w2XNrILRdjJuqkPnRcT0sGU6zJe30jMqCD0n+OzFZBY0mkkSEXv2sNm7o9SdlRqN+iG7gTq1prypiiuQ7LiWVJCQ5D3txvqOT3ud36d5IVwLtsVzjAezQOjhOdBGveMjpoE2jTwmEEg2ZfqsGy8H74TmEeTKFaKFP7xpKV0RoK2eEMt3QvGa76qRpZcEkQzQHXmuezFXtIIgCX2BJHTdZRdCaDrRyp1KKdcdXvmJ4EK4Rkw==;LEYXKI9CzUXNA2o8vFqGlQ=="
 ---

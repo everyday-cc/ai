@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
 type: article
 quality: 104
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
     quality: 54
     images:
       - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft enters partnership to build AI for large datasets"
+    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
         width: 400
         height: 400
         isCached: true

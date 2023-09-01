@@ -61,7 +61,7 @@
       "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://english.aawsat.com/varieties/4517956-saudi-university-students-develop-12-research-projects-ai-robotics-kacst-labs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -585,7 +585,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -835,7 +835,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1189,36 +1189,36 @@
       ]
     },
     {
-      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
-      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
+      "path": "_news/2023-08-31-uk-government-seeks-expanded-use-of-ai-based-facial-recognition-by-police.md",
+      "title": "UK government seeks expanded use of AI-based facial recognition by police",
+      "excerpt": "It said that facial recognition was already being used in a number of ways within UK policing and security settings to “prevent and detect crime, enhance security, find wanted criminals” among others, and that using the technology more widely was “a priority” for the Home Office.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
+      "webUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
+      "originalUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 73,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg",
+          "width": 619,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T12:13:00-07:00",
+      "publishedDateTime": "2023-08-30T12:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1227,9 +1227,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

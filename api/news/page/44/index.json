@@ -2,6 +2,92 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-07-29-a-bull-market-is-coming-1-artificial-intelligence-ai-growth-stock-has-billionaires-betting-big.md",
+      "title": "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock Has Billionaires Betting Big",
+      "excerpt": "Artificial intelligence (AI) promises to usher in a ... its autonomous driving subsidiary Waymo and its AI research unit DeepMind could evolve into sizable revenue streams in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-bridging-the-ai-language-gap-in-africa-and-beyond.md",
+      "title": "Bridging the AI language gap in Africa and beyond",
+      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
+      "originalUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dw.com/image/66379734_6.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
+      "publishedDateTime": "2023-07-29T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dw",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-what-role-does-ai-play-in-enhancing-aviation-cybersecurity.md",
       "title": "What Role Does AI Play In Enhancing Aviation Cybersecurity?",
       "excerpt": "Cybersecurity is critical to the safety of aviation. Attacks to critical aviation infrastructure pose real threats. So, how does the FAA address these cyber challenges?",
@@ -1108,110 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova.md",
-      "title": "AngelList expands into private equity with acquisition of fintech startup Nova",
-      "excerpt": "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
-      "originalUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
-      "publishedDateTime": "2023-07-28T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-netflix-criticized-for-posting-ai-jobs-paying-up-to-900000-while-writers-and-actors-are-on-strike.md",
-      "title": "Netflix criticized for posting AI jobs paying up to $900,000 while writers and actors are on strike",
-      "excerpt": "Amazon, Disney and Sony are also posting several AI-related positions paying six-figure salaries, even as the Writers Guild of America strike continues",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f",
-      "originalUrl": "https://www.marketwatch.com/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-811932/horizontal",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f",
-      "publishedDateTime": "2023-07-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
