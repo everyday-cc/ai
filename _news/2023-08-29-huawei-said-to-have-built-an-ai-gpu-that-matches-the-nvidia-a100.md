@@ -75,20 +75,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
-    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
-    publishedDateTime: 2023-08-27T14:00:00Z
-    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-841956/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
     excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
     publishedDateTime: 2023-08-31T14:29:00Z

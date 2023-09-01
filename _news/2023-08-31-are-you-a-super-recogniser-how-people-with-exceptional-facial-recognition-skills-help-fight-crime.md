@@ -24,6 +24,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Stop Tamil Nadu police from using facial recognition: Chennai resident’s plea before Madras High Court"
+    excerpt: "Restrain Tamil Nadu police from using facial recognition technology for policing purposes, requested a Chennai resident in a plea to the Madras HC."
+    publishedDateTime: 2023-09-01T04:37:00Z
+    webUrl: "https://www.medianama.com/2023/09/223-stop-tamil-nadu-police-from-using-frt-plea-before-madras-hc/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 18
+
 secured: "nTBBmvCzsYfBP+i+sV/YmTCmWvuQbAAN9qycek7qObVbcQPJGBLNgfeh7VPlEHLs6MYt3L1Nhl1ubrx3jKw3hkVOAo11CRv43eYEQ08uQlTBRQeB4OSJx3VvmusNw7QiBsTGi+LcIz022nwILOHqLqsieEphC/5uFiddl/NxaW+uY+mNx0f7o1BQtgcCp7VlfX9pIy9v+l+kEBv995PZk/X2PRB5qGGGX2XtTFohfG5sLv+HkPzXUlm/Ltgu7Qe2+LMYmZjUy3Jmh7T3EQWIU+Mc+lQuqB8SZDwsVSGeqFjMG9mLdU32CXeQiMzE7aKtKHEstrdz+Zk2WTufF2DNut31G5f0OTTeVckb30+nu6wn6kMEvMEvY5EzIe7TIrqDZ1KehB5a1i5k64uc4lZjByZaH7xNDwnte05QPXTNgCtku/neUDw1i5+6jMXK6regQHWJri4uIghDqgpdvvq8TPXX6Ifsyt9j5Drnz0fMM/1fhI7nh4pu0ZRYaiB+zoQr0dhIs4j0fVc1V4ORbfQ5qA==;+x34apbI5JsSnOp9sYyj4g=="
 ---
 

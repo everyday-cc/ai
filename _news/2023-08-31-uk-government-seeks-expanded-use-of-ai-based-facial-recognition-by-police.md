@@ -7,8 +7,8 @@ originalUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
 webUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Times
@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "DASA to explores facial recognition for policing"
-    excerpt: "The Defence and Security Accelerator (DASA) has launched a market exploration on how facial recognition technologies can be used in policing and security. It said it is aiming to identify capabilities that could be deployed within the next 18 months."
-    publishedDateTime: 2023-08-31T05:20:00Z
-    webUrl: "https://www.ukauthority.com/articles/dasa-to-explores-facial-recognition-for-policing/"
+  - title: "Big Brother Is Watching: UK police to increase use of AI facial recognition despite inaccuracies"
+    excerpt: "The UK government wants the police to use AI-based facial recognition systems more than they currently do. However, activists, AI experts and tech scholars have repeatedly warned that AI Facial Recognition doesn't work,"
+    publishedDateTime: 2023-09-01T07:13:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp"
     type: article
     provider:
-      name: ukauthority.com
-      domain: ukauthority.com
-    quality: 19
-  - title: "Stop Tamil Nadu police from using facial recognition: Chennai resident’s plea before Madras High Court"
-    excerpt: "Restrain Tamil Nadu police from using facial recognition technology for policing purposes, requested a Chennai resident in a plea to the Madras HC."
-    publishedDateTime: 2023-09-01T04:37:00Z
-    webUrl: "https://www.medianama.com/2023/09/223-stop-tamil-nadu-police-from-using-frt-plea-before-madras-hc/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 18
+      name: Firstpost
+      domain: firstpost.com
+    quality: 61
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/Big-Brother-Is-Watching-UK-police-to-increase-use-of-AI-facial-recognition-despite-inaccuracies-.jpg"
+        width: 640
+        height: 362
+        isCached: true
 
 secured: "e4Pf5CeXQlZH0bkUuzOLOs9OBjEwm9GNB9WHJQojvLw5gV/0wi52ldEu0+opR71d/e1GcNm6V8bTA3sZsIT1feK4BMVBm9xbKwHb5+GstlFfaA9/6M9gPItV1/0JogX10LvYiwEVSS3b/+joQyaBoK47WMW31zFarp+eFauGegaEEhoA6KkFOivXRRl82PlV3VpdqE4ukWQwQiX96bPdkFVAQytry68mjHNhvUAfv/0PkjfxMsrDd6YHuqpRW+IydAS8TeSPC/Cj/+lUFyJ6fkulr7xmqBx/rp+Tjy1rXLbePqIILomH7enQ8T4i+PiWWuyfYQFx7OSpyHH/88gt+MS2eijhIni/LdCkLKCgTU6ui5AfVoe6XpIGZ0+0hFjXFKeDeEKvxoM5dm1kb22OhY67uYX6QkNxVj0uEaxZCmrcs4pFgVr8IssWbMQLNRIFAccyRFd+gDg6wcOsj0rDQsDp6VNJ/AFEIYszWoFFPOW2QeGlxN2X3rdRv8WsXyUuPZBkGaqivJqAjRWBX71UpA==;PhxHqntzVYBtJ5s453oCDA=="
 ---

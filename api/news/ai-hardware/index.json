@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-samsung-electronics-stock-price-soars-on-foldable-phones-ai-chips.md",
+      "title": "Samsung Electronics stock price soars on foldable phones, AI chips",
+      "excerpt": "Samsung Electronics' stock price surged in Friday's trading session, closing at 71,000 won ($53.8), marking a 6.13 percent increase from the previous day. This is the first time in a month that the stock price has surpassed 70,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/09/602_358318.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/09/602_358318.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202309/be95262e4d474dcfa802f70d3db69295.jpg",
+          "width": 540,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318",
+      "publishedDateTime": "2023-09-01T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies.md",
       "title": "Groq Smashes LLM Performance Record Again Using an LPU™ System With No Response From GPU Companies",
       "excerpt": "Now that Groq smashed the performance record twice, generating a user experience for language responses at over 240T/s per user, is it possible that there could be room for more performance improvement on their first-gen 14nm silicon fabbed in the US?",
@@ -245,7 +288,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -576,58 +619,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-30-google-cloud-next-23-new-generative-ai-powered-services.md",
-      "title": "Google Cloud Next ‘23: New Generative AI-Powered Services",
-      "excerpt": "A3 virtual machine supercomputing with NVIDIA for AI training revealed General availability of the A3 virtual machines running on NVIDIA H100 GPU as a GPU supercomputer will open next month, announced Mark Lohmeyer, vice president general manager for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/",
-      "originalUrl": "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/1tr32823-google-Hero.A.jpeg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
       "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
       "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
@@ -636,7 +627,7 @@
       "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -950,7 +941,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {

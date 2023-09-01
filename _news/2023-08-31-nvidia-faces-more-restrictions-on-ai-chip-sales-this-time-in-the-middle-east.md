@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 398
+heat: 388
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107247790-1685417777216-gettyimages-1258274369-TAIWAN-COMPUTER-NVIDIA-29052023-10.jpeg?v=1693340834"
         width: 3500
         height: 2334
-        isCached: true
-  - title: "This Company Is Nvidia’s AI Chip Partner—And Its Stock Is Soaring"
-    excerpt: "SK Hynix has long been a major player in the boom-and-bust world of memory chips, but it hasn’t historically been viewed as an industry pioneer."
-    publishedDateTime: 2023-08-27T14:00:00Z
-    webUrl: "https://www.wsj.com/tech/this-company-is-nvidias-ai-chip-partnerand-its-stock-is-soaring-a31e2a9d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-841956/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
     excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."

@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/
 webUrl: "https://www.techrepublic.com/article/google-cloud-next-23-ai-news/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI-powered search summary now points you to its online sources"
+    excerpt: "The experimental AI-based search tool will lead you directly to the website sources it used to generate the summary."
+    publishedDateTime: 2023-09-01T07:35:00Z
+    webUrl: "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ee4cdf1aeacfba197204895b43393fc35c119d9e/2023/08/31/b154fec8-34c8-4326-9de9-ad59b7c47478/gettyimages-1609716922.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google finally launches AI-powered Search outside US"
     excerpt: "Google's SGE generative AI technology for Search has only been available in the US, but that is changing today."
     publishedDateTime: 2023-08-31T00:30:00Z
@@ -43,22 +59,15 @@ related:
         width: 1919
         height: 1080
         isCached: true
-  - title: "Google Next ‘23 - Estée Lauder Online EVP says generative AI ‘FOMO’ is a trap"
-    excerpt: "Gibu Thomas, EVP of Estée Lauder Online, says that companies risk being too focused on getting to generative AI first, rather than grounding it in business strategy."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap"
-    ampWebUrl: "https://diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-next-23-estee-lauder-online-evp-says-generative-ai-fomo-trap?amp"
+  - title: "Why Google Wants You to Smell This Article with AI"
+    excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
+    publishedDateTime: 2023-08-31T18:34:00Z
+    webUrl: "https://www.thedailybeast.com/a-google-startup-made-an-ai-that-describes-smells-better-than-humans"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/F07FC4D8-78AA-4A1E-8A51-D80874A425C5.jpeg"
-        width: 640
-        height: 427
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "SHmlzkEfKmJnscJazlztht/fvsJzVDxfLGrD+nT2UC9qdcd3M65sZwB4n+kyU/4RgEnbvYmokqDP7AKmJbWXHSHWlcbars06qpmXOzw5oy/acPxY7oDk0MXQWiRFcSESW+nPq57AFS2eLp4ClWCiXo1GYzWEmTQoKs+hKUYASMKJVhFzLEwx6R1wTqSnYE3BUAAiBtvJJmH9BpFbA54t7+YYUb4gHnNfM3dxns7bCUVdtpIXRns3l5fWUMpkR+m49/DaUurvowOjg/OBtO5VST49MuigMjL0nP5cRuim/Y+q5Kp5lNfmc5fYQY6FsTy7u23OXkYBuq8kfN1Tb6V/XlRVaT4kZc5c8fhuqunMMTK+w6xhZeyqUOevqGpTuEMcgm1YQvrIsCL5Phro/felQHqtjYZKQtxQWHZPl79M0qhSa02epEf4K4ADUQ69bBU4cnq5S32qCe5NpkRmE7SQ511Cw5At38d1TwepAkX/Xrxt4tQWNtddKuFIfqjoSHAjq2LEAkWBL5ediT+KbJGBxA==;xk2zSTM5wutdNljPVbEFLA=="
 ---

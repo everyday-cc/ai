@@ -200,6 +200,20 @@ related:
         width: 800
         height: 431
         isCached: true
+  - title: "Breakthrough in AI promises ‘tonnes of applications’ in travel"
+    excerpt: "Recent developments in generative artificial intelligence (AI) mark “a breakthrough” in technology and promise “tonnes of applications” in travel, according to Joao Gonzaga, chief digital officer at Kuoni Travel-owner DER Touristik Group."
+    publishedDateTime: 2023-09-01T07:45:00Z
+    webUrl: "https://travelweekly.co.uk/news/tour-operators/breakthrough-in-ai-promises-tonnes-of-applications-in-travel#!"
+    type: article
+    provider:
+      name: Travel Weekly
+      domain: travelweekly.co.uk
+    quality: 39
+    images:
+      - url: "https://travelweekly.co.uk/images/cmstw/original/8/e/3/1/b/easid-497136-media-id-41042.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
     excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
     publishedDateTime: 2023-08-28T16:10:00Z

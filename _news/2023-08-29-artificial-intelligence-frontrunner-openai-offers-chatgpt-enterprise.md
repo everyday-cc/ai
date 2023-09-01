@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
+    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
+    publishedDateTime: 2023-09-01T05:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
     excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
     publishedDateTime: 2023-08-31T19:54:00Z

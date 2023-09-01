@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
+    excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
+    publishedDateTime: 2023-09-01T07:27:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/data-insights/artificial-intelligence-in-pharma/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 19
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/Report_desktop-1.png"
+        width: 388
+        height: 544
+        isCached: true
 
 secured: "IwGcQQQcPAQacd6z7/co6DadiVQ0h70VOmmluc5F4U1FE1mIMKdbwVAmpNGdiO+RlB3ykC3WuQsFTORKg4eR/t+LeufZmzu+RqZE4zKsRAmCDTgO61H3gyiD/5g+JSTgFZS5nog8cfxfzg54aKF/GdqxEkn9jHg9qajmhD4jRKEAtZ2DsLN5ODApI+MlV0anIhLl19NSyYuI4bM+EtAjapAeZI9pRqY2g8giX7kG76enDDPoVM+zzfNZ+kJDbmC0sO1zkXF4f8g132+RLugORsUHsWT1FUTgRaqb3+dDipam4QoPkyr1O+yf2TqSTFwG2d9r9SNGBtyZxc5w2Nud9LmFan9DledchuPC3VdFRjGEVxbgW5y1vZFhi+Z5Ypiy6LD1V2uE+GggPL9r3CE/Alcbf1e+9WTsxMaeR7+gHmT1a2CGupICthDzKAOD/rvPLBnsPtI30eRaD4GMrpXyPKwpmpvtLAdEJPe+ZdEwpkc9PVkuNX/UYKiryvp8R2kFVt5KkrOHWGLxRYgLJn/P0g==;2xOlTBm8HSkpL8bfsSz5ZQ=="
 ---

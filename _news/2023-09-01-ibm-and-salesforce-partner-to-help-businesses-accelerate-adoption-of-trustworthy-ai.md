@@ -57,20 +57,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) and Salesforce (NYSE: CRM) announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM."
-    publishedDateTime: 2023-08-31T12:00:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-and-salesforce-team-help-businesses-accelerate-adoption-trustworthy-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 33
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1964.jpg?h=7de12b8a&itok=g0326s_D"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
     excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
     publishedDateTime: 2023-08-31T22:04:00Z
@@ -103,6 +89,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "IBM Consulting and Salesforce are working with our shared clients to help accelerate business transformations with generative AI. Clients can now access the following: Driving adoption of AI technology: IBM Consulting will use its industry expertise and innovative delivery models,"
+    publishedDateTime: 2023-08-31T15:22:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/31/9873103.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "94DJXgFi5DDVaPvOWOGNQi9oVjiXKQT7oSql+g3oG17BZ3LWdojmgHcZZUyMSuqPj2MWMvoc/zX5ZUdmV58Euhou6eTKRrJjKBvEPXWxfx7OhyO55uD2+EzWAwA1Ch3Zx+DOPHumpLo+DIHhCufpgAX4fy9h6l9TazkCE6JK2xHOgBvnn8xz1plCu4vKSomvU6eBf+8QNq8V6FMnVgdismkQb59HP0IY0C+vGnBFpS7e6k0KDqjlC9G784WdMAVAXXb4poicHuh/nGFj638h/8SRF1sxh8yIGsQ84PEbvcZN/nd+T0F/0pxHI8WwTiPXbQBhmhR81MQLPdpwcEZe8jFWBMqC79MsUj+GY/lKoAU4w1IndLApOIJjmqA9RdRBOaiwKTNVohNNqDJ1ZxhIqiasZrMo7Q67rMs3LSE4fmBahNtfQwcpzzOAyHhc6P2LTnoTymQmBa+JQ96J+0bxSdcooHu5raDTfM4bgMQYl5GnTEaw85ks1PWepFFxvM09x/iao3yAbY2v3aOZ+jSSdw==;KxeQ9JgcJVmBEgpN35syXQ=="
 ---

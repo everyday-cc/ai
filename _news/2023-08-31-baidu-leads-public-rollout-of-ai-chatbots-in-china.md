@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Baidu Leads Public Rollout of AI Chatbots in China"
-excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
-publishedDateTime: 2023-08-31T05:49:00Z
-originalUrl: "https://english.aawsat.com/technology/4518016-baidu-leads-public-rollout-ai-chatbots-china"
-webUrl: "https://english.aawsat.com/technology/4518016-baidu-leads-public-rollout-ai-chatbots-china"
+title: "Baidu Leads Public Rollout Of AI Chatbots In China"
+excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
+publishedDateTime: 2023-08-31T07:07:00Z
+originalUrl: "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news"
+webUrl: "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news"
+ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: الشرق الأوسط
-  domain: aawsat.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.srpcdigital.com/styles/1200x600/public/2023-08/317679_0.jpeg"
-    width: 980
-    height: 551
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -40,29 +42,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-02/e1osgs7g_ernie-bot_625x300_07_February_23.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "AI And ChatGPT Create Smooth Experience For Lifestyle Insurance"
-    excerpt: "Tune Protect is using ChatGPT and interactive conversational assistants to forever change the world of insurance."
-    publishedDateTime: 2023-08-28T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/08/28/ai-and-chatgpt-create-smooth-experience-for-lifestyle-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Baidu among first companies to get China nod for AI models -report"
-    excerpt: "However, it is still early to analyze if the Chinese made generative AI model could match the level of apps such as Tencent's WeChat. In addition, U.S. restrictions have deprived Chinese technology companies of the best chips to train their AI models on."
-    publishedDateTime: 2023-08-30T17:08:00Z
-    webUrl: "https://seekingalpha.com/news/4007626-baidu-among-first-companies-to-get-china-nod-for-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458699011/image_458699011.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
   - title: "UPDATED: Baidu leads public rollout of AI chatbots in China"
     excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
@@ -88,6 +67,6 @@ related:
       domain: foxnews.com
     quality: 33
 
-secured: "vP7hJOrK39kR+OvrObo/Vc3/Cfk/fcY90R0jksjGy6e22oTOZ32U3qQEgHHvpxAr+k6OlyL6z90q8QhOJx0Zq27CYaMsie70jA+K+W+jVyFdchsFRd/C3om43zwgt+IjZz1BLxANsu2rE8J87TzfK90er6iBE/05GeP+Bzrkff+WaADXmoua8fBQ8QIgOUoXSywLZLByrCgbwtsRzwVF04qxZcdsCpl5iDJrAT9Atcy41zSarYNnh+crwegvIl/GjOgA/1gDvaIQN4KKu8Hwbhz9A88fIU5tELhVaUgRx3vuu587L8J4ha4JvjMn6NXEwaEQGyC6+U9Dc6yqVSZplqR9Lz3wEE80Ay/x4cWjfAU=;qfkB9D9jqWOolctNfLLzoA=="
+secured: "IvOjZVLRLwwy89vmshomZsyA0jQbiJel92WIfDgP5LQe2W5RuQcCTQ+0cpn2+xvv+HewPOgFQkXcEQp0L1wyc7czlz1iV/NavebmCspbrEOJihjtYoWTA8CoJTD48WCRdenkwbTOqipGwDGqFG2jxOcyEiKe8CbEE1HNTfn2adClTScHheQhwkgiIPl0y1i0Zb8jEILpRba5k2YLJb6+VoA/MoQPNbGsgmwNEGT2Xz4BCsk/mV104hb8KVTMHM7Fr1/Vqu6OPuWNk+ajl1ofQkuPYhXZxC259a9OPbBG1OOo5H5xeLEtvr2cv5ow0SjIlzzFEgS1V4NuN+6whKqiIP/ziNd79GwptheZnIHs9n0=;kpnjThJ/O6mpmp5F9r/GrQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies.md",
+      "title": "Big Brother Is Watching: UK police to increase use of AI facial recognition despite inaccuracies",
+      "excerpt": "The UK government wants the police to use AI-based facial recognition systems more than they currently do. However, activists, AI experts and tech scholars have repeatedly warned that AI Facial Recognition doesn't work,",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/09/Big-Brother-Is-Watching-UK-police-to-increase-use-of-AI-facial-recognition-despite-inaccuracies-.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp",
+      "publishedDateTime": "2023-09-01T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
       "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
       "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
@@ -93,49 +136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-uk-government-seeks-expanded-use-of-ai-based-facial-recognition-by-police.md",
-      "title": "UK government seeks expanded use of AI-based facial recognition by police",
-      "excerpt": "It said that facial recognition was already being used in a number of ways within UK policing and security settings to “prevent and detect crime, enhance security, find wanted criminals” among others, and that using the technology more widely was “a priority” for the Home Office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
-      "originalUrl": "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg",
-          "width": 619,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -550,8 +550,8 @@
       "title": "Cyngn's Proprietary Computer Vision Achieves Arauco's Complex Application Requirements by Utilizing Ouster Lidar in a Multi-Sensor System",
       "excerpt": "Cyngn developed proprietary computer vision algorithms that are bundled into a Pallet Stack Attribute Estimation sub-system within the DriveMod perception stack. DriveMod also uses lidar to inform the location of its vehicles within the site. Fusing sensor data from lidar and other sensors, DriveMod's advanced autonomy software enables:",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -570,7 +570,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T04:28:00-07:00",
+      "publishedDateTime": "2023-08-22T05:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

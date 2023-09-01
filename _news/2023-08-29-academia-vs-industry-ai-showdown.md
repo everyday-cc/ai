@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-indus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
+    excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
+    publishedDateTime: 2023-09-01T07:27:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/data-insights/artificial-intelligence-in-pharma/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 19
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/Report_desktop-1.png"
+        width: 388
+        height: 544
         isCached: true
 
 secured: "ZLLJIDHvlngJK3YQXDrFVxPfVLQo0zI6j9nQPNwrtbulUaiGStJYij60t2Yemrb44gyXn55lmcxSOOW3j7PQC6QqO8p2QFRx43CQcJlFWNSkP5d83C6wJMBqqtlH34a12j7/eAmx9x8CLFpAeKkZA2H9Dub1wmnGXM7VJO0Kq6K3d30g4ZPD/8YXlU8E4OUQQrbyEt0sb6fgUfMDUMgJ6f2qSepEV3I8W6nodNcgbKjUjlk1hAnIjXPtqTuBtNhKyj1Pf7vS7DRxOtjk7r0DYDub7b0r13N/7lZQgGoA8eUQUxVjt3ZnjgWf5C9Fc61tk1r2rsij5q9tMDfM/qxtwsgNaEBmLtuSNFk6EWktCS8=;VkrX0vbBPQ5YlzPXSTtQjQ=="

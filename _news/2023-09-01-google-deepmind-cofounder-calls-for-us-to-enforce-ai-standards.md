@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind co-founder urges ethical use mandate for Nvidia AI chips in the US"
+    excerpt: "AI companies including OpenAI, Alphabet and Meta Platforms made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer."
+    publishedDateTime: 2023-09-01T06:38:00Z
+    webUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 85
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/microsoft-bing-10-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Google DeepMind unveils AI watermarking tool as political pressure mounts"
     excerpt: "As governments increase demands for labels on AI-generated content, Google DeepMind has released a potential solution: a watermarking tool. Named SynthID, the system harnesses deep learning to embed digital stamps into the pixels of images. According to ..."
     publishedDateTime: 2023-08-30T14:17:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-4.jpg&signature=f5d0e747fd93332c435e17b49afb3e74"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
+    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+    publishedDateTime: 2023-09-01T06:41:00Z
+    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+    ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 76
+    images:
+      - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
     excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
@@ -100,6 +132,20 @@ related:
       - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
         width: 1246
         height: 701
+        isCached: true
+  - title: "Google DeepMind founder wants US to enforce AI standards"
+    excerpt: "The US should allow Nvidia's AI chips only to buyers who agree to use the technology ethically, DeepMind's co-founder said."
+    publishedDateTime: 2023-09-01T07:35:00Z
+    webUrl: "https://techcentral.co.za/google-deepmind-enforce-ai-standards-ft/230859/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/09/ai-artificial-intelligence-1500-800.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Google DeepMind creates new watermarking tool"
     excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
