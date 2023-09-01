@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model"
+    excerpt: "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ..."
+    publishedDateTime: 2023-09-01T14:19:00Z
+    webUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI’s Arabian Nights: UAE launches new large language model proficient in generating Arabic content"
     excerpt: "Jais, the LLM that the UAE has developed for its own use, is the most accurate LLM out there that is proficient in Arabic, a language most LLMs, including ChatGPT has struggled with. Jais has been trained on the world's largest supercomputer,"
     publishedDateTime: 2023-08-31T09:34:00Z

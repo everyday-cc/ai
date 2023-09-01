@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-s
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,18 +45,7 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
-    excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
-    publishedDateTime: 2023-08-31T23:54:00Z
-    webUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/"
-    ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
-secured: "3GHynBEnMH5Dya8MvVHHjTOPQ45CLcL9SyGCn8J7bB3ozpuhyuYERVgbBEaoOa4tP1A8pqkKUaGzkiE4EbWRLNTE3honPTUlQdic1zpyBvtb2ucS/1GU+pYFlqQIJOaQd21U30uKmFdE7MaRoMhbE1WPF9UzEBRenNo/mc94YxGxcOMfWDzmjR0DdINM33mS0DPJFr9ilaakF6E6ZNeE4463YFXi6gB05XkWLhbxapbU2Ec8fMuQJq1z8UjqSW/aeejIDiU6DjRSTDHSVjTlFt9raWcBXfBIr6BpaGgVm6ctugwYKi2GCW+T3+Cy1JObY2KGzuru31CdEKyMMOt/ynTspRQvojwX7vTk9s5a2L4=;W1GSX9nMb7GEOwQbRuZnuA=="
+secured: "IYdjKhVR1+dIAzFaNLzBh11G++Otf7D5aROe5j5gKLeZze86nrv2Agiu9Y7+UT2+CXA0hgn9TFj5tWTilVSuTr6KKTJu5tfgnSzHBhrdcbgavECx6fEZeYVNbLhq87BDiIIi6BpCam4X4NUjyd/vzRkXXASEFUY7q/8f4/YEhh7km/FJh/kjA25lW2huHnVqL5TpHdMRUxVnjAio/DgFWwLGqB5rXPEmIorRnONaCW3JhwWUJH5KXqsslK8Yi0kHuadf8uvSznknh22HeQEsIqqUNORPLRRWUCMIEUXY0B0f4+kxflrF2ySY8KCmIjdL8VSn4CrAtO7ewu5d6un07bPLPyzvB8S4rUpjbIUp0XBaXkNRnZy7DBDcinA2rUWQOx4dAxLwtZq16QF/dVvbJMcFvv1D1sp47rWE0wXsJtafxFi+aOFk5Ja538pXDHZ5DQ/lCUdjuYWTbDH2Jpf/4MhRNYd/yPViC9xSLpBGoYRXhaXP/ypHRZKw00J0zJIg3HO2GbaKGMCb4j8wY1A8iw==;9uWpClY70rEIx3qx6jz1HQ=="
 ---
 

@@ -63,6 +63,15 @@ related:
         width: 1168
         height: 613
         isCached: true
+  - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
+    excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
+    publishedDateTime: 2023-09-01T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/unveiling-ais-secret-impact-on-human-labor-and-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "i+b7qkzxR9kRu8FdXv86/bFAjtkGeH+FazEhbFEj/QP5nzzimt+Qww/+C/ROWk6k0J88EezRH/wUn5qzfAu+T890ss9on7sA5+jEY9NN2IifFTp7tYgmVCJNM5tTgUCQ/I+E402h3zi4NTgthCPjui1rgCfd9MJo7+CnptCyHyaOOl2/gaMUd6Df5Y3OBh5vvPnrEStY4DNnF0akdYC3BysYM7YkfAAWHQeoDAU0mWDZBbvR3Ngc0ZHSoVV9YSsaLSgKTp/aEweKC5qr6piXL5r2M/pnJzpNMJ/zG2n5NTrsnNAzkgdcvmHQdUwn7AXUWnF4gNtNE3M2a2MGF4Vzaeo787hkLmlLouRO+1FAFAdBB8jy1EOfMkuhux6W0Tv+fMPRindR6J2t5Sq4YULRoDDhhOBWIdfDtXg1EH2Hr08s8K8iBG4YbtgVW1tLHIoZWlqnjimQAqv57sl/YvTTDApRcWVqdFX7nrVr9VrFtJJD9TyPApyE7FSxYQDxWAvIyKk3zUG1DmEvKh3nEJ8qUw==;KNZyxiMZdOZ4tvjtsZJ+JA=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Artificial intelligence may influence whether you can get pain medication"
-excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-publishedDateTime: 2023-08-31T11:00:00Z
-originalUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
-webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
+excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
+publishedDateTime: 2023-08-31T00:58:00Z
+originalUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
+webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: MM&M
-  domain: mmm-online.com
+  name: LAist
+  domain: laist.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
-    width: 1024
-    height: 684
-    isCached: true
 
 related:
   - title: "AI may influence whether you can get pain medication"
@@ -50,7 +44,16 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 33
+  - title: "Artificial intelligence may influence whether you can get pain medication"
+    excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
+    publishedDateTime: 2023-09-01T13:30:00Z
+    webUrl: "https://www.phillyvoice.com/artificial-intelligence-pain-medication-opioid-abuse-6810/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 33
 
-secured: "v3HkdvMChPPv0HJsPzHqvC55BCZW3s9HV1Q5BciGIp2CDVL86xXhkfAoziZ5251HFdQm6QHdkMKpxiwZwsOyuJ4QzZpMtJ7f4z7cTiXYDeT4YspYCmx/9nEPLj3g7Z4AmHLeaer2apNvFrXMeuvXHhaWCIvffFEMMxOeJ76kBzIGCrDJrr/rLHPfxT/rFlvw1OuDw6Ud2W6s3HPQedEj1PGgQMdsNNroY4llVa0eKBIBTjI5RaxsFwi3ot3nAZOdjUg0NVNYF18IL/w8ClkSyk54jex2jtiNlgdw8+sw1Ha6EEweApEtZiX51dERQY8NXNHR7ViZN4zbSdkHCpPozrNYX34f+UuR2MA0s9/hFLc=;jtQ1lOisdwTcRarKZKdY2Q=="
+secured: "1VuflD73fmVVy91lvKNeVilLzlxfdbFVAwUZBBXGTRXyNrORHqrIM7j4C70w3EwEc6VMJZ2duweLWLr7u+ElR2ZCDu10zvgXD0cuhsWbDZ41ZJlBVFi7AFw9gpKUJleKpGqA7Rxpy5QF5f/0VcgNgG16tqf92iapHLXNNBf0GdSSb5F9cR6xY8Fsk0LrnUj1LuXUTL/W2W1oylbsKYYS4RSFf1p3sBC5T3702BVqibDse8Q6yPtVZB4i0x7d8sjNBpbmFTNhKmM3HcJnCn7rxopfZRd1D6vGXzgg3j0k0D/HsBEUR5lWu0DR2Rn9J+sSqSly7YOfYqmMskf7izpucj175CDvQ90FZloUWzdG57F1U+Cv52Ikd0FkdSfPg4uKGmB/j/gLdgM+1RS8v/cFcxnNsl+EYLqXp0dcuU0oLMhDX1bCitK+GoDfOXf8lb+GMsE7sS9+rSl1Jda1UrJZuoAE2DM6Ojk3u1N09LT/SNrwVTx8tx+Pw6cYCQF/Obq/9wIYq0frnUmRwPM0Od1B2A==;wGYTzo7gWadl+NGve+34bg=="
 ---
 

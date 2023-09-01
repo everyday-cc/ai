@@ -35,20 +35,24 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-    publishedDateTime: 2023-08-31T11:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
+    excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
+    publishedDateTime: 2023-08-31T00:58:00Z
+    webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
     type: article
     provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 53
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
-        width: 1024
-        height: 684
-        isCached: true
+      name: LAist
+      domain: laist.com
+    quality: 33
+  - title: "Artificial intelligence may influence whether you can get pain medication"
+    excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
+    publishedDateTime: 2023-09-01T13:30:00Z
+    webUrl: "https://www.phillyvoice.com/artificial-intelligence-pain-medication-opioid-abuse-6810/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 33
 
 secured: "L0LD7yqeTTUrDf9BzLGXQAgOcvJ0dojUuiFGlQTILixoiatWg2H7KXyvNRHmwGD+jVRYYXfEwvsxVwLaFl8KqZ6H/sAE7/mUcHlMITGgEDKZhEME7sPZn2cYe/NW/XeJ6WW02f1ZQV38oXnHMNy7cnpEh8FOJeFdb/8PjMXpg7BCZ1V3dF85cDlyiBWkJkAaUZ/ZYtbFfGKC1QPciRmjhTExj1owSb285SSuF8RCQTbuMbtIvSq6MGbJqh1hiynWS9fHl/hBzdcKDjEIrHTm0ypCX+mBWLU5yamLqZw/iikcLSh8Wchbaf3ZUShmZ+//xbmywcK4YbyslWgNeK2QyM9EfEgXyYwID3CIiBEc/ZU=;Fek1tQGVJv7uE/r66xJavQ=="
 ---

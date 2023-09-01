@@ -34,6 +34,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Synthetaic Forms 5-Year Strategic Partnership with Microsoft for Next-Gen AI Data and Cloud Solutions"
+    excerpt: "Synthetaic, a leading provider of advanced artificial intelligence (AI) solutions, has announced a five-year strategic"
+    publishedDateTime: 2023-09-01T14:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synthetaic-forms-5-year-strategic-partnership-with-microsoft-for-next-gen-ai-data-and-cloud-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/msft-synthetaic-300x278.jpg"
+        width: 300
+        height: 278
+        isCached: true
   - title: "Elemental Cognition Announces Strategic AI Partnership with Google Cloud To Accelerate Time to ..."
     excerpt: "EC was founded in 2015 by Dr. David Ferrucci, the renowned AI researcher and inventor of IBM’s breakthrough Watson technology, to create the next wave of AI. Visit us at https://www.ec.ai."
     publishedDateTime: 2023-08-29T12:38:00Z

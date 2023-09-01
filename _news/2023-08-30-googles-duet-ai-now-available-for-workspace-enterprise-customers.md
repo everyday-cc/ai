@@ -144,6 +144,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 31
+  - title: "New Meta, Google tools detect AI-generated images"
+    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
+    publishedDateTime: 2023-09-01T13:11:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
 
 secured: "6fF80HQyNt8z1cN9yJLqwE7ccsgTn986nhFrDDahW+ARX7jVqhQe9NPET92qGAxRnSoPviQhoMpo45EF6NiOBTtipRTSlW7b+UeIBcZ3GzzmYjtU9gQO7YBUPksalRYBHXTHt9lmSK61KSoR0wDPjX/ssZ4SAfRcInIp4ePfcfeotwLSikgXY1zwZrgnQSFZhJI3i72PU9qSbHXIwAnrxX+HWkIZFnQDyhcJSP+3AreS7qLB9kdVp50UTNGUFK83Wl0JMd78Jq2HHOmdJdAGnt1v64MCiqO8B2VuwMCgThiuETnEhLf43B6Kk+w2wR16TL429PhXOJL/bb6wREHMpM2T8JtzsxevXUfufG9yH8oLwb37UCU8SNFpijhOoE1Xqk0aFKLexZ8Cqq3kq56R1fKnvEWKDbMjYYCrXOSVnILkOGlq4BBkJh9IvRNY7NbHaJCOchJI/ulnoM/5qEyCX1ZrfvIsn9ZVYFZhRLG2FK5Br43Q0p8zAg+gpdNqy1Ioam9ixvouU89woKfOBebWzw==;aDRIp6qCQKp8eOKkugI7KA=="
 ---

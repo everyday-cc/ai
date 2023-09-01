@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/programming-development/this-is-how-ai-wil
 webUrl: "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 681
     isCached: true
+
+related:
+  - title: "How artificial intelligence will help, or hinder, your workforce"
+    excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
+    publishedDateTime: 2023-09-01T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-chatgpt-tools-workers-manager-risk.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "C5xDv+TTjd+jdqOgoYm7og4ymmf2abH713E/laGkfqHVTpgzKJ+BnYUVoDKVRXe3IfJaDpR4uzF7PSE53Opo9QCLm9bzl4DrLCGfHXzWT9iUfsvIiLwZQJjNXUmUabzxjgRs3CWt7lRDdw3F1cNIZf3BwVTtOhOI5aM89GWLrEulqvheJQd/M4/5giWDDZH49ub+yScVVB9zIl9GW5AgjG5X1sfaOrrvnZI/bMV3zeudkcRvRA5jFzwUWSrqVEi2v0fojvGTQxX4uV+r56Q3XFLwLrgnuhSSQI2xcLE5tRQK6qSzIR2TekfqzGq1Ag75fdX98HFExMOW5u/Or7yfTJZ7WBH7DfYvHEaC1P7A5C5RpDeeApPRW9GFx9U99gMmLR0ehF3VP/P03AijQIBPO721qbOP/OGnhwg/ln6hddIF7aBHOWBt9nQlx7CUUi5H7YC+tNkDF/ApNXhRfLTx3lyByuvBpOGV/sbTZ/yfxYqas8Uaxm7NrmEyXRtqV0xj9xxZ4eg/0K9oEqGrnHU+CA==;+f1artDtraJK2VlPq43gnQ=="
 ---

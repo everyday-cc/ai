@@ -2,11 +2,11 @@
 category: news
 title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
 excerpt: "Elon Musk says his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform"
-publishedDateTime: 2023-08-31T18:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-webUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
+publishedDateTime: 2023-08-31T18:17:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
 type: article
 quality: 34
 heat: 34
@@ -46,6 +46,6 @@ related:
       domain: cumnockchronicle.com
     quality: 2
 
-secured: "04CIwNN+QMLDaQLvbzETqoJr+YYNIJZCitD4G3i5IWIl3PCYsrOEi5DZGDFxYafBQoC6j/9T1IG2g5IaaYBneewJag3okNj1k9sOBRhQDpgoFhn4ThnV792agd3/9t382ytSEsOm4yHVjaR9paKTEj5+uKPm+DHeOxOkXP4XJufur++yIhPbeRHuJYEEHNvm9EhuQem3kXCZo/1m131HkA3JEEuUhDC+0FhK5MS9we02CdVVYD3vmAZEhpe7jR9QRXErKGhFlNyij521HF8lBQ1U8xw4aQQTdzxcRpxL0uWJqBNoFpbZ4ExyK8DgbhXeSDDp92PM7szDzrPQ3NK4k8OGHgpv2ZaIl9BJTbtfpddX5ytc1prm3cyBqWD1Is6gcv0kjiQB9Ef5q2evsrD86UOsNe8AwadFP6LSuIIg7o/OSOigOuKW3rCttgD3mzTNXpuk2u7FdqrvfGVFNzl2Mu4UHMgS/0knBu8tD1or1Uz71kKwFWDuCRsOzRJbBcZzb/dttKmBJEeb7G5Pvzr0JQ==;tFVHv7ZtkM83AeCRiVWYhw=="
+secured: "4IdL4HHZP9PS/7r3+AN/Xf63wHN1VTB0ToheGSJqqEa8j4727iILzDsiI/meJVR3GFrzeO7k9BRukcjbTDgjE/agSUquAtq/HZqMzsVxbMN4a3f9sSaFjSFSNZdYwDrwR5cO8BKPptnPGPkfzCHYqEMf9ggL7jsQqWXPpXnTUmo/guuVkN0ExGURdRK4GPmgh+6pTJVPrWemqLCeWDFjzZom92JtpZE8/C7o350oN17vtOPknniI9dxIpNhrR74r1HkF/ih2qW1P+oAxHheToavBnij9Q/7vwELiY/G5eqUXqBaWcQHxPuRp7FE69UDE7GGKhWIsQjawpj2SMKAtKmFKlPPnaY0WnFlC+gO5lps=;p3NP9JmwjGWfkmJQRwWbbA=="
 ---
 

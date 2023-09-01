@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 68
   - title: "3 Up-and-Coming Autonomous Driving Stocks to Put on Your Must-Buy List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While individual motivations may vary, in my opinion, there’s only one"
     publishedDateTime: 2023-08-31T01:24:00Z
@@ -65,6 +65,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 34
+  - title: "US regulators deny blocking AI chip exports to Middle East"
+    excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
+    publishedDateTime: 2023-09-01T12:40:00Z
+    webUrl: "https://cointelegraph.com/news/us-regulators-deny-blocking-ai-chip-exports-to-middle-east"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 34
 
 secured: "/CBjLLCFkiVpPjZWpNpDi8fz2VOkdNboFRJwAJbxjyb5i8u+TsHBLmRPGpuxPkPEUIJ9VDkunMR4qEKLwkzBX6GtQgMFIhgp6dRhXDznBxCFMus3/kBhr/23lNOyTJCH7bRrinEtzQU5xZ7tyogDsryryZQ0mizceMMEWsny4jLCjT0qjuyFDGIFU62BO4P2MDhLZHFPeiUdqkq3vnyZ7pG6BzpgcJJv2s5jOYdveVMnFMrEvGdWCMII7hz9GuWPnz4ob2NqxYYRTb+fSwvyw/DtTJ+KcEI2iEMdEq+w2XNrILRdjJuqkPnRcT0sGU6zJe30jMqCD0n+OzFZBY0mkkSEXv2sNm7o9SdlRqN+iG7gTq1prypiiuQ7LiWVJCQ5D3txvqOT3ud36d5IVwLtsVzjAezQOjhOdBGveMjpoE2jTwmEEg2ZfqsGy8H74TmEeTKFaKFP7xpKV0RoK2eEMt3QvGa76qRpZcEkQzQHXmuezFXtIIgCX2BJHTdZRdCaDrRyp1KKdcdXvmJ4EK4Rkw==;LEYXKI9CzUXNA2o8vFqGlQ=="

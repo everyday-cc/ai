@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1168
         height: 613
         isCached: true
+  - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
+    excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
+    publishedDateTime: 2023-09-01T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/unveiling-ais-secret-impact-on-human-labor-and-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How AI and machine learning can help with DEI hiring"
     excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
     publishedDateTime: 2023-08-28T13:01:00Z

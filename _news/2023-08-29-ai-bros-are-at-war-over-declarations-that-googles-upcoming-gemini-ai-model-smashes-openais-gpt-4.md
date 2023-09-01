@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
         width: 640
         height: 390
+        isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-01T15:13:00Z
+    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
     excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"

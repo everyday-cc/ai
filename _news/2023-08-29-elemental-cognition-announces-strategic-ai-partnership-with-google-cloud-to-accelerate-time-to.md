@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Synthetaic Forms 5-Year Strategic Partnership with Microsoft for Next-Gen AI Data and Cloud Solutions"
+    excerpt: "Synthetaic, a leading provider of advanced artificial intelligence (AI) solutions, has announced a five-year strategic"
+    publishedDateTime: 2023-09-01T14:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synthetaic-forms-5-year-strategic-partnership-with-microsoft-for-next-gen-ai-data-and-cloud-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/msft-synthetaic-300x278.jpg"
+        width: 300
+        height: 278
+        isCached: true
   - title: "AI Startup Incantio Announces Partnership with APM Music"
     excerpt: "Incantio, a music technology startup, is excited to announce a new partnership with ... I am pleased to announce a new partnership with Seattle-based Incantio, an AI company whose founder is coming into the tech space after a long career in the music ..."
     publishedDateTime: 2023-08-30T17:25:00Z

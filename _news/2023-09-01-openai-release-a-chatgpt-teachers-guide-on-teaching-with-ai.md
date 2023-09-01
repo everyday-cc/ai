@@ -57,6 +57,20 @@ related:
         width: 640
         height: 390
         isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-01T15:13:00Z
+    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
     excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
     publishedDateTime: 2023-08-31T19:54:00Z

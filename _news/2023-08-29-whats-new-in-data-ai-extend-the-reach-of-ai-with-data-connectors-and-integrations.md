@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Samsara Is Connecting Physical Operations To The Cloud With The Help Of AI"
-    excerpt: "Samsara’s platform enables businesses that depend on physical operations to harness and analyze IoT data. Last year, Samsara's total revenue rose 52% to $652.5 million."
-    publishedDateTime: 2023-08-27T20:35:00Z
-    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/27/samsara-is-connecting-physical-operations-to-the-cloud-with-the-help-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64eba97becb16c5423c6d0b5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The US Copyright Office just took a big step toward new rules for generative AI"
     excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
     publishedDateTime: 2023-08-30T21:02:00Z

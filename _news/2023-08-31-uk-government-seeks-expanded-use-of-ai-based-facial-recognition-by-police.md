@@ -1,12 +1,12 @@
 ---
 category: news
 title: "UK government seeks expanded use of AI-based facial recognition by police"
-excerpt: "It said that facial recognition was already being used in a number of ways within UK policing and security settings to “prevent and detect crime, enhance security, find wanted criminals” among others, and that using the technology more widely was “a priority” for the Home Office."
+excerpt: "It said facial recognition was already being used in a number of ways within UK policing and security settings to “prevent and detect crime, enhance security, find wanted criminals” among others, and that using the technology more widely was “a priority” for the Home Office."
 publishedDateTime: 2023-08-30T19:36:00Z
-originalUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
-webUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd"
+originalUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd?shareType=nongift"
+webUrl: "https://www.ft.com/content/858981e5-41e1-47f1-9187-009ad660bbbd?shareType=nongift"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
-    width: 619
-    height: 377
-    isCached: true
 
 related:
   - title: "Big Brother Is Watching: UK police to increase use of AI facial recognition despite inaccuracies"
@@ -42,6 +36,6 @@ related:
         height: 362
         isCached: true
 
-secured: "e4Pf5CeXQlZH0bkUuzOLOs9OBjEwm9GNB9WHJQojvLw5gV/0wi52ldEu0+opR71d/e1GcNm6V8bTA3sZsIT1feK4BMVBm9xbKwHb5+GstlFfaA9/6M9gPItV1/0JogX10LvYiwEVSS3b/+joQyaBoK47WMW31zFarp+eFauGegaEEhoA6KkFOivXRRl82PlV3VpdqE4ukWQwQiX96bPdkFVAQytry68mjHNhvUAfv/0PkjfxMsrDd6YHuqpRW+IydAS8TeSPC/Cj/+lUFyJ6fkulr7xmqBx/rp+Tjy1rXLbePqIILomH7enQ8T4i+PiWWuyfYQFx7OSpyHH/88gt+MS2eijhIni/LdCkLKCgTU6ui5AfVoe6XpIGZ0+0hFjXFKeDeEKvxoM5dm1kb22OhY67uYX6QkNxVj0uEaxZCmrcs4pFgVr8IssWbMQLNRIFAccyRFd+gDg6wcOsj0rDQsDp6VNJ/AFEIYszWoFFPOW2QeGlxN2X3rdRv8WsXyUuPZBkGaqivJqAjRWBX71UpA==;PhxHqntzVYBtJ5s453oCDA=="
+secured: "rKq9gveFTaJsb0L97HUFWjE5ivQGYovmMyqAgq/hNTAqqfL8r2OvfdV6VQ1JY0nvZnk2RWESdEh4wawu9nUgP2rhEVsgo0DJI5GembrtxS3UG8tYL+TKB2WRu+u2LvlZcD9+EGTT/BFvDl1IMvtFmd8ONHdyw1DVzAat+w9rdiNJkQRTs4rhnbSgKA/f+bgDGuQ/B367T7a28+F9t549i1F8ApvX5/7Al3pig8Wk6sHCs5ldM7mxJOy++8u7l35DCWkghpgcq3hl9yTTysCstanwOfNrKMcQuGsnVBLOzsXFyCukOHCyQMWHe/XsJwP178isgL+p8Omat6xvp31BMLuq+DEqaT5YbIycQp23jv9JTFAt5MLr4R1jXXs2Lth+QBuo0RVOljV5loRiLjUdV8Q6mBKF9ECn5UPaMQbXP+HfTpmic2+1kbP3/5uEcKFIRd+kZgmDWSGHuER7PKp1TR8Q/Fll54Ce/D7yft1F2PdtaLM7bV272cygiJ1GX7RqQ/faPGRGops4DwqWSGxeBw==;kUej+ss3lMDqiQpV2e9qUA=="
 ---
 

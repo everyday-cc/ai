@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-27T21:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
-        width: 473
-        height: 315
-        isCached: true
 
 secured: "Ei64p33RAUK4iMUuaM919gNwvEf8bI9qlqPgeLg0z48cL1+yP7Bs3OpLFU22+tyukczYnBiVhRYKzRdjBx1LYDU89hQ0F9T/QuA9jn6RmP0bJ61IbCfM4X9zKL+d9+jtMmSCJhlxuXfQcPye3Fvz+vqHii/cE8eP+lUFuNtz8TdqZGDrKkPiOxO7mddMOX8xGYWZx4VNWJrK2MlgtC3mcJWmCrwxXn5U7W8q/OnRhBmvLwcmFRpdV7Ut37izo5y1pb4yiIBgPzyFMXvQ3zpKuA+3v2OlL2BBkx2F1jetL5/soXZUujt3xwVIGPsDoS6qmZQC1K0uCLD0wmly42YE7xG+/+2BqtLYdqo4ZIydbMiTNaMBjoQMZk4uxFChOfLFc1HsStjju+RROMk5KPIiBgSmibBF8s89OR91i1uit1MTSF9mYf6FhpF+BMIxwNfh2yT/uWxNDzRFM+iPlZ6iD391RHUF0pLuD+9oj4qyXnNQVgM+u45EpER8zseRsqeo+2vqd/7wNc/6IvlG7t/5LA==;c2cfaZL/6+MiDlioL0K+OA=="
 ---

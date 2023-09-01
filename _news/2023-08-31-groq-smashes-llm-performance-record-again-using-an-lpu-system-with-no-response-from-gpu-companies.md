@@ -2,21 +2,17 @@
 category: news
 title: "Groq Smashes LLM Performance Record Again Using an LPU™ System With No Response From GPU Companies"
 excerpt: "Now that Groq smashed the performance record twice, generating a user experience for language responses at over 240T/s per user, is it possible that there could be room for more performance improvement on their first-gen 14nm silicon fabbed in the US?"
-publishedDateTime: 2023-08-31T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies-1032596020"
-webUrl: "https://markets.businessinsider.com/news/stocks/groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies-1032596020"
+publishedDateTime: 2023-08-31T14:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/31/9873124.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/31/9873124.htm"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 40
+heat: 40
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -28,6 +24,6 @@ images:
     height: 300
     isCached: true
 
-secured: "Dss6LMzcpx+8LEp9EKo6Vvxf0ZWvH5naNwNY9ne27DbnaBGtzzBtx+N7AzSzOLtVM4MCSRYqFc5qWcRLXxNGBDhHZGK59iEHdfu/zkwRvNxLY48YZoeP1c5RuiOSxBEy9x8/ucerrdOxz+2HNrPt/rM5SCVRsQkn9lgcZlZZpna99atmqV/x4PluYa2LzXTMDeU/iZDKmmum7ZkyYH0Ba15kqzUWoJiKKuWzyOYF3j1qbTIVCsO9jplX+PKtc8f3wqLiTsOsk8PI/RnHIIjz6f899FX1t/7+yFZYtbarUZUYfZsg5s0Gq9OEo5sPMB7HRpVe/T5tUfh1PvYdgBEABor9NDBABmtErSbB3TeeVx19xT+prQuu6hlY/Yz4fJOMD9HhRcLRQ9tWq3A6wBAsAP8CbP2pgNpF//HBqtqpQE8Iaadq9IEGF/VpuzhImTuud6M+3eHf6TR3wmaGthoh9SZUh15SIzG8JWI3SiFMOd+FG0oauui3d5QZI2CBPVdUkEy8bgaHSnnWDSntYzJ/Hg==;MK4/XuD6R7gzGh6cztZv2Q=="
+secured: "QuIUvVVfzrm2qeaO2HxWOgFLfRvSKqfXfFDiSTHuq85p4rb5qaxfg63Diias4zWWthRkG9ghMLfWHt1YeWoQfYjVWJw2WZAM95gH0a9Giegf5BNlRqFPEqnKUlo/NSIl4fnv1uFSnscg/TMhQAq7R1XDiMuMRzN68ZpbNJ2qxzzT8bp7C/IG5w6xDklDtqs9xVATAf7hqbfgEUlawk8CKDnOzCoGP5BbKfeQ/zsqYkwd8E1bBR9U14aJlIEddkd5+UAVnKORGcRwcHlDpN1/YesXOzEy6rk2wmHr/g0hk9rH0c9XZHdu4IX9fJyhUVsdMSI0e9KguqmsQUaVkcqYMZ30dDCmjD0DGMnF/mobCPQ=;+EqO8U+O0/fBN4mfsTVnkg=="
 ---
 

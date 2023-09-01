@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "How startup founder thinks employees should about AI in the workplace"
+    excerpt: "With AI making its way into the workplace, how do people navigate working alongside it? For Murat Baday the answer is being trained to use it."
+    publishedDateTime: 2023-09-01T12:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-magnimind-murat-baday.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Artificial Intelligence looms over the work force but experts say jobs will still need ‘human judgement’"
     excerpt: "Here we are, 55 years later, faced with what some are calling a scary, real life version of HAL. It’s called Artificial Intelligence [AI], a computer technology that some are saying is capable of depriving future generations of jobs. Actually ..."
     publishedDateTime: 2023-08-30T18:30:00Z

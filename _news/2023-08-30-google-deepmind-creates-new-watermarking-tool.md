@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards"
+    excerpt: "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology."
+    publishedDateTime: 2023-09-01T14:31:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 107
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Why DeepMind's AI visualization is utterly useless"
     excerpt: "Usually, visualization is something meant to help one understand something that cannot be seen. The DeepMind unit of Google has recently published visualizations of artificial intelligence, created by various visual artists. The intention may be a good one ..."
     publishedDateTime: 2023-08-29T14:26:00Z
@@ -70,22 +86,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-4.jpg&signature=f5d0e747fd93332c435e17b49afb3e74"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
-    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-    publishedDateTime: 2023-09-01T06:41:00Z
-    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-    ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 76
-    images:
-      - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
     excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
@@ -205,6 +205,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
+    excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+    publishedDateTime: 2023-09-01T13:32:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
   - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
     excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
     publishedDateTime: 2023-08-30T16:52:00Z
@@ -213,6 +222,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 33
+  - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
+    excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
+    publishedDateTime: 2023-09-01T12:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42878/google-deepmind-co-founder-argues-us-should-set-ai-global-standards---ft"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 33
   - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
     excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
@@ -223,6 +241,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 30
+  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
+    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 29
 
 secured: "jLEtBTWYrvZLzB0sPRGayqKmzbizY+dmQKxwlOaQbvUm4K/trhg0MgR11AZsXer2RgcqerKLzhsm98+aHDqBDHkssIgmtAjmKEPpD54hOzcmNN/mJiM0+p/8emBu/+whgpmQebllooWICvgHgL4IFvxsmOt3jLmeR7frp06Y3Za6LE6VAwby0JZnOMEx5FqOa21dNagPkrmULni5ebO7CuCy67ZzcPbv9ov5TUh5FgnQGmGl09gHdiZKmRujbJ//weqlKe/DoN9/JgcEB1IXZ4KfTgOrcHw6JjNipr7g/XUP4G/igOYTCjAlXhP6PiM6/AvbWsTjY6P61naG2gb53n0bbvR9rd2Z65GW/kuYOvYVxUYCM6iAiUg8k5sIyfceg13uM6g+JgJEcPkET+lmxJdeqLhiXZXqcM/a/+TKXD69X/T3k1bV+BVKzk0/Eb/79mTIY9DBG54K4pqGFyp4k9RRv7JjhYxIW7PstUyzkPwM0jMEPoWZKUOIxTox9rDBXeWTLqh7YjclwBvYEJHZBQ==;7O97W0ZEqSq8Fb1qwVlJEg=="
 ---

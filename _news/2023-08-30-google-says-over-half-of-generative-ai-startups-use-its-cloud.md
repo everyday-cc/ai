@@ -211,15 +211,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
-    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T19:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
   - title: "New IBM campaign promotes tailored use of AI for businesses"
     excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
     publishedDateTime: 2023-08-28T18:55:00Z

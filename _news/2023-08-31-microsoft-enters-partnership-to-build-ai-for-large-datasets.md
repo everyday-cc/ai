@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Everything we're expecting at Microsoft's Surface and AI September event"
+    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this September. Here's what we're expecting."
+    publishedDateTime: 2023-09-01T14:47:00Z
+    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
     publishedDateTime: 2023-08-29T14:55:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
+    excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
+    publishedDateTime: 2023-09-01T15:25:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
     excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
@@ -102,6 +132,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
+    excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
+    publishedDateTime: 2023-09-01T12:45:00Z
+    webUrl: "https://www.marketwatch.com/story/sap-names-microsoft-s-walter-sun-as-head-of-artificial-intelligence-update-b8ea13d8"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
   - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
     excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
     publishedDateTime: 2023-08-30T10:00:00Z
@@ -218,6 +257,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "SAP poaches Microsoft exec as its new global head of AI"
+    excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
+    publishedDateTime: 2023-09-01T12:00:00Z
+    webUrl: "https://www.cio.com/article/650918/sap-poaches-microsoft-exec-as-its-new-global-head-of-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 36
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z

@@ -1,33 +1,40 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-publishedDateTime: 2023-09-01T06:41:00Z
-originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+publishedDateTime: 2023-09-01T13:32:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
 type: article
-quality: 76
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
-  - AI Ethics
-  - AI
   - Google AI
-
-images:
-  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
 
 related:
+  - title: "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards"
+    excerpt: "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology."
+    publishedDateTime: 2023-09-01T14:31:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 107
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Why DeepMind's AI visualization is utterly useless"
     excerpt: "Usually, visualization is something meant to help one understand something that cannot be seen. The DeepMind unit of Google has recently published visualizations of artificial intelligence, created by various visual artists. The intention may be a good one ..."
     publishedDateTime: 2023-08-29T14:26:00Z
@@ -215,6 +222,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
+    excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
+    publishedDateTime: 2023-09-01T12:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42878/google-deepmind-co-founder-argues-us-should-set-ai-global-standards---ft"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
   - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
     excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
     publishedDateTime: 2023-08-30T19:02:00Z
@@ -224,7 +240,16 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 30
+  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
+    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 29
 
-secured: "W8P8z1ytdP7XL2qAgT6uFHr3SbadTtNpO9etw97e2lOiWKsSSGDM4/psxU//+aIhASp1j67XXwIOLrMgi66sDX8WhWrwaLZbpenWsMH6GJjSTGFH7AFW4I+wLZGHgWotf1SkeY6TLP1qo6N2h3U+iydB8FDAGBOip9vBQyzgpOE6AFUZRQc5ba+chAvRpuhkGwujmoonC0Mp8p0Y6FCllfW0RUTqFLNq2kZLvEjCyHE871W1sR3WE9Ag0DKq+/21vZK44mwn3ytRB0ffhqiShBZ4R2HNbXksYrolMvbY3NL26YfHYbuU9GBmIBx/vF6Q0qP5WUx7aUua0u/TlLFOUG2yDa8CU/UxEiCW68OZa/a9+YDDEB4jcufx9VbInT+FzUdbvmpoGSOqFKv2tStnUESIIoeEp6rXmC9T40XAUxEzbrgOn9h9Z36RN2f8CJLOFYnIY3epVMlHrCWcIEpCOt5w33RbdUSycQAYaF3J1OSWw1OpQ8ejS0pdzEg1i3bZE+//JxdKmPpAtUVRsPbxGA==;7D8VUOupOor8b7bW/r5Ssg=="
+secured: "7dh9K51JcFUL2WRAJVUzt8Du0fx9dzMsD6V2kbCKYJGI/MgVPRIWv+oxaM1cFC40ViuDDzx3MLNof5d6d5AU2kIsmqszMMvuSgiqT5YjKoDEClCSYG8Nn0B8OFMu7v43hA6czwq1mX2EEuIS0wo5PgZVSaV1YzKqmKkBNGwAYMZRXYOAkxJANcRvehmxNCNU4sM/vd0hg8XoIdcfk779jzlvns+0rYQaqmkQRXLw3bLIPokAi3762JV9iqHubxPc+G4qhnhoB+P3U0og0s6D1/dTOLY5+7a9aRKvbQVCW756KXf/kV5C1LKDenwiI+1kSh0SykLMj3JNKPFJhlL3I5WHVppP0/0bmucePLLaFixWrQySYnqATXHC89o/JlG/4RzBe4WcPsI5pT5dO4ZSyuANVvMyhnk3m1TmoV9/lecQGSA71L8lwaIXCgGxjyKpWGUYirz3qIeuP1eXev8UPe1of5g1xKCSseVQULbikw6lkunkVvgiu5niz2oHhU92PeXGzgD5mTEcMGvibPlPag==;QjaTq31hECUn1b4e8RUFdw=="
 ---
 

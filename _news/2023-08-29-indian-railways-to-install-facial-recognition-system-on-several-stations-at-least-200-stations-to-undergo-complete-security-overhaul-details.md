@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/railways-indian-railways-t
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/railways-indian-railways-to-install-facial-recognition-system-on-several-stations-at-least-200-stations-to-undergo-complete-security-overhaul-details-here-3226341/lite/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Railways plans to install airport-like security, facial recognition system in Patna"
-    excerpt: "Indian Railways is set to introduce a Facial Recognition System (FRS) at major stations, including Patna Junction, to enhance passenger safety and security. The FRS will be linked to a database containing records of criminal activities in and around railway station premises."
-    publishedDateTime: 2023-08-28T12:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/transportation/railways/railways-plans-to-install-airport-like-security-facial-recognition-system-in-patna/articleshow/103139284.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 45
 
 secured: "6Gf4Yne3J4Ms+ZU4YjVEl6kb1auTFuUH4d9i4eEEimHKJ6xL+HPJN6f/XP8J5496qSufwTkuNWF9rZF4cguiGNT6mcHenoMfzMJxNrJPLkbyhCYxfVZ3EXrVnWVtTiAIiJH+MESuuV2jb9nSi6DlVxUVtFmahCvw00ouAqBPAo2bW48cbTILqRKfC0JaOIk8++ZFf1cghpoOEuIJQWOIAmjna6cZ+XfFxayIJkKdbQ4ZfnSsfkIRhTkDTwcVT9kRdV0xzTGP0hn2EWx9VpIuNcy6I/XHk7OH/lVJd2z77ooDlk9mZfzZcvg3o5XGRIA9NO50Vyx1X6TiWNiDo2aoYtKX1k8R+tVFH6b8wBK2JhHa/Fp64MFN4shumBGJ6UyXuzu9yNZCyv2l/GvOX5dSlJRQX8LYpqmqbVi/JA9IezCEX+nnKNnlnSa3jdVHLDA1xkNHrAxsDAD/RgHbjkQ+3uZCLh9XofSyC9DmWv6iGGj4MJmBAlJGNr6QFRQGkoQxhEqWkWlNL0Yo4J3nqKfn2Q==;HTqeaWnsVt9ru8tlE7ZNbA=="
 ---

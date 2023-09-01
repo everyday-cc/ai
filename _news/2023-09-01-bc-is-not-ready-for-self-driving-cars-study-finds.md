@@ -41,17 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
-    excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
-    publishedDateTime: 2023-08-31T23:54:00Z
-    webUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/"
-    ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "Z8ewO5jduQESXu2f+C0kL6nO30X/d+EN5VeULjyRMtlqbRAPJebv9sCWKZ7F7B9orOOt5X5PxlUQ4EDV1cNighs1yGr5dJCqwrkH4WuYX73UcuDnbM2WK8gV1JIvtyShZsCs6jgUSA34Kzrfwk/vb/GDBUnEnrXgQXiXVs4v8iOrc8BV4jTWeEdHZFParCxsszKx0RVQbYAKpM/Taw7NrOOURsGjG1yA3aIzsCWhDj2WdAA+5zwuRRd+9uioXpSFDZdWysrQ/hi8sY/N45a55ZfvQU+7BPLBMoGYK4eEKCdKiz4bty5BxMib4zNDA2lLcYoaDFc9Tosc/5l74xrcWYAi7FXOjkHhj3AMK+TKVjMt1tdf605IU6qE4ddJSKvzMlRiOJpWJjOQ84i57Aww0J/xPgcS5q0FXRcxe+wds4JDzmq9WK6BXtvmQzNsZWBzqQfXRZGSSkCUZ5xWmcn939z2eJog3f46zXpz7PHh7uWDyIIAyTs0ybGrziMGRlE0M4eRMa+Tb8TA7UCyCUxQ9g==;0zPjwrgxNELzim9wywMDsA=="
 ---

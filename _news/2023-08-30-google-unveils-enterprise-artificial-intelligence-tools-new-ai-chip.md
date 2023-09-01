@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterpris
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 31
+  - title: "New Meta, Google tools detect AI-generated images"
+    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
+    publishedDateTime: 2023-09-01T13:11:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
   - title: "Google’s Duet AI now available for Workspace enterprise customers"
     excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
     publishedDateTime: 2023-08-29T19:07:00Z

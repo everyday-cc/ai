@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-role-emerges-for-softwa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2017/08/Engineering-student.jpg"
         width: 599
         height: 420
-        isCached: true
-  - title: "Generative AI dominates VMware Explore news"
-    excerpt: "Highlights include a private AI platform developed with Nvidia that lets enterprises run generative AI applications on their proprietary data within VMware’s hybrid cloud infrastructure."
-    publishedDateTime: 2023-08-27T21:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708503/generative-ai-dominates-vmware-explore-news/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vmware-explore-2023-100945172-orig.jpgautowebp8570"
-        width: 473
-        height: 315
         isCached: true
 
 secured: "gyjaipYfMESuDiC8UMlLhfIGbroI1SxvMO+XJZOVqOOm+N1VORdpHLIPNEfcWTnRNtiN8WIMopoDU+kq/POuhT8aznNDIYqriYn8iVQry2RY4g5ukI/RaUJDDZPvbSKtC+iT71EAJjikEq2OQBnlkU9fL/SS7In+2JlcG/P44BVbuVf0AWWIARqkoZhhR9EqCAdmDn5RypDlEpLjLk9ysQEIKhM9WIi9yaHIAaup/j4hI1AvwCb+0M4CTqu50YXCvVvlBmZkwtXuHX/2PO14GDEgqGWgqSX0a3zoTN1me3V6fie7zutTt7hvSdrg//yBkDqyX671O3TTZc4wecW1C/Cb+6oauxDx1l5X1DUDQEzt1trNP2x9FwF6w2fOUzGpxkrpyf8ObsnYqpL2sRhQqded/kUtM/BaPCavz1XB+hsg+T2SjCW8KegKxlGBI76oW1FwclKyYwwhbQ2qy3Bqni/Fa4pAkNEtvXraiWl/DPuEq9J2Ij86E7XczxuzG2NtvqKzEczrb6DchC3wp5vtjw==;j6coPlyQ9XFDwekiVWcYYw=="

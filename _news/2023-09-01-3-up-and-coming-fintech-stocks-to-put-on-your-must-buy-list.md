@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 68
   - title: "The Bull Market in Artificial Intelligence Is Just Beginning: 2 Top AI Stocks to Buy Now and Hold for the Next Decade"
     excerpt: "CEO Alex Karp says there's \"an infinite market\" for Palantir's artificial intelligence solutions. As much as $1 trillion in data-center spending could shift to AI-based infrastructure, an industry Nvidia dominates. Artificial intelligence (AI) has the ..."
     publishedDateTime: 2023-08-30T09:10:00Z
@@ -63,6 +63,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 34
+  - title: "US regulators deny blocking AI chip exports to Middle East"
+    excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
+    publishedDateTime: 2023-09-01T12:40:00Z
+    webUrl: "https://cointelegraph.com/news/us-regulators-deny-blocking-ai-chip-exports-to-middle-east"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 34
 
 secured: "Xo/UhT3Giqs13LoZsl4FrS13ApTs/Fsu+trz+nvL9c4NO+tIi+7MYqZsIFrroJxmbDEq+ZsN07ih9ubCDJ6+1bpx36BUzkPhnlr84FlEvvvSufwKFd49NY/n9FZU7LYbrKNCBLegfVPLY+haxnn1QVdmcnN6u7u4dPeZUW7+WPLM4WsxBxmi7A3m6+o/CNIVZnZpG9pLVNQ5chKqUna/E2pmVy27OAKDhBcx/jBZ2Y1LcQwRagIv9iODW0wTynVBC/zp6keyR3+asvjW7sk64MuQRz4tDBqxHgPRJlTZQfnY2lu3qBgabBG/plf78ftew+lEIJPD483uttoRq07yX26lNHdGRehJ1Ou0rbc/v1cpFPun+R64ANVFltKS4koNVv22zdM7Lrj1+S4u/N3G43mqLZzKkRQNb+ZeAAuRsezNjP4OOE0uS+eXP7AlvyEC9W9Ck2T/SV6Q2uazEmjeHuRLr0CKRHdBAk+kvQTLmipk/yaaMeYSPucCj1bMKcvN2tP03ADapc9pSPEL6eOUtw==;QM4XlnC1a3CBwiLD22PdjQ=="

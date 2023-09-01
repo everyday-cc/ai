@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 540
     height: 357
     isCached: true
+
+related:
+  - title: "Samsung Electronics Unveils Industry’s Highest-Capacity 12nm-Class 32Gb DDR5 DRAM, Ideal for the AI Era"
+    excerpt: "Samsung’s newest memory product, developed using cutting-edge processes and technologies to increase integration density and design optimization, boasts the industry’s highest capacity for a single DRAM chip and ... like AI and next-generation computing."
+    publishedDateTime: 2023-09-01T15:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/samsung-electronics-unveils-industrys-highest-capacity-12nm-class-32gb-ddr5-dram-ideal-for-the-ai-era/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "oPVq/DNlyxp+u7jtqekC6En6HTq0THtcjec6nhQjpQr8RFwk+m3IeA/1hV0K6yq4scleA4RuH5YXSmYoWSB4iFzFJ09OsBh7Px3jEZYK6cG33yIOQUb4jkVnmx9z/1KFk37x63zaN/HoNbptqMkxULiaMpttVj6X+zs1wcxDppqRbPkuy5A6mdyRAPkw3iH6QKRTAJcz1WPkBGF7MvIaN2OE0AbHm3yP0eDpWtNwvD9u8nXJfsCV0jFUnt/pW8ZVZrMI4cRKx6vAZvcXFfVSlbeLLHksusWKGaaNbV1axuLn0zPx8Pfd6jqeowoDG/1+mw91feA9OqTU4d/HKGCSuXAaMDFxWavJROXooqjf2Y8=;riVH16maluoH9/6unAIYqQ=="
 ---
