@@ -120,6 +120,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
+    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+    publishedDateTime: 2023-09-01T06:41:00Z
+    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+    ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google DeepMind cofounder calls for US to enforce AI standards"
     excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
     publishedDateTime: 2023-09-01T05:54:00Z
@@ -192,6 +208,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Google DeepMind co-founder says US should enforce AI standards for ethical use"
+    excerpt: "The ethical side of this technological titan has gained attention in a time when artificial intelligence (AI) is developing at a dizzying pace. The co-founder of DeepMind, Mustafa Suleyman, recently presented a strong case for the need for the United States to require users of Nvidia's AI chips to make ethical commitments."
+    publishedDateTime: 2023-09-01T18:05:00Z
+    webUrl: "https://techstory.in/google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 47
   - title: "Google DeepMind creates new watermarking tool"
     excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
     publishedDateTime: 2023-08-30T09:31:00Z
@@ -206,15 +231,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
-    excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-    publishedDateTime: 2023-09-01T13:32:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 34
   - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
     excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
     publishedDateTime: 2023-08-30T16:52:00Z

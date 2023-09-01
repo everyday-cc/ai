@@ -80,6 +80,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 33
+  - title: "Enhancing research with conversational chatbots"
+    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
+    publishedDateTime: 2023-09-01T17:03:00Z
+    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
+    type: article
+    provider:
+      name: GuardOnline.com
+      domain: guardonline.com
+    quality: 4
 
 secured: "za4fMynLGfMj0bMDVaY+fVepVF/xrk+Ykl4VEy9+X9DvOFaLIAGZNDE5QNfTSibJWlLKN1jc9ax230qaQixrg0kkwR0RVIiHeTNLMTO/VmnkEWgdeQum3Cnr6ax1HrUvvIos3tIV2fOcL/U/N9VZog/0q2KX4L8F8UlNm2xDqJqaphCW1xLxUwkWE6CfU9K1acgbYlbGaV+K0GHQcu+0bHqahVQJTD7DQUFHldjmYpRSaomwOu+NUZQup33IRO5cJXL5k+inTNDDDSKs0bHXHDFU1OEg3s1Pv/TUhM9e7p40EXuV3dqf2varRka7PWXoMAzZouK3AWHYVxzQX2MTbXCQVTmDojPWKQjxcopk/OY=;MLoMxTyOiXIoxfL3Z3tCeA=="
 ---

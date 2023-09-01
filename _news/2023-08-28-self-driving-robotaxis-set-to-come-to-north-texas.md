@@ -26,6 +26,17 @@ images:
     height: 641
     isCached: true
 
+related:
+  - title: "Self-driving robotaxis set to come to North Texas"
+    excerpt: "According to California based rideshare company Cruise, its fleet of self-driving cars will be ready to pick up riders by early 2024. The company has rolled out nearly 400 vehicles in Austin, Phoenix and San Francisco."
+    publishedDateTime: 2023-09-01T18:36:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2023/09/01/cruise-self-driving-robotaxis-dallas-fort-worth.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "nkkfv0sqrnHj05lucp7sVccW3V9fT7vEuho6Jc/G6exq5OtYE/ZVt8cXvTn9CiR95Qluk+R+Uin/eiMimLFgxY02YpI1leUfz3db22M2FUUMA3EBbpeAuJcSYRMfrwPnrfLZACDFU83Fh+xO3IjycT3EN0AoM+Xv7Rgx5BT7dCM/WKK7rtDXI97M2bVlHLRESVLC3RG9HWnne8AmfyjIc+7XwzWHlUQaREywnEejmKdlQmr8INPZ7pRQ10wS0lh/nffVQMybbsQNAKa32RLpR4c4XmNSLojxVypK2yU4ovXztwNIfwwwDDwEyis/KYpLsesrV9fPB5J81it+dP/mkIoVYGYCvH6ODaQ5L+iwv7poxqNUGg9QkVaAwgaqtdYFrSQl0K/IpWz8xDjyDy0zyuM0XCJTEZbp0SrDu2yNJwp1z7caFUUBKxIDYsubNanzXzP7ez1mWEgItOamTB5/8lYn1UlEiDx4DyOxJcoeHCfaqN2FS6ej/6Lnis+QnjwUL9V2gQsZ0KO4s+XPxEkBwg==;S6Jyoi9QBbW6z6ltvUWAXg=="
 ---
 

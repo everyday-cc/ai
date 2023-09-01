@@ -82,6 +82,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Enhancing research with conversational chatbots"
+    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
+    publishedDateTime: 2023-09-01T17:03:00Z
+    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
+    type: article
+    provider:
+      name: GuardOnline.com
+      domain: guardonline.com
+    quality: 4
 
 secured: "soSVRzIuG3oLbvtjKLhJSPrKaOXJd17jVynhqQlSllrfj67CEXr9h54Dl7IluzGMuckL0aWg02U4R+A0fSFzGsgALVOXTfRdCrYafn/YdRx9rAA1JP8M2Z5Aj0uhsCEexdmABH3i3I3pPO8a8cPN7GDY4X7zD3yzVfEWyhvscI39HBAtOo7vrad/nDtUiGz/kDHLOX9k2IFqja0DxxAY0/Y8eX3MsGlBTU8x/6Xui62Q/BQkR5yXekekxXfrNoDFOvt09YO5WWz3JMMryQ0/uDPxh94qm0IM5yXVvT11IDZ3FDhHg1/oQRXyMZOImNm28QpxICBe4pVj7fEbN/0VBpXocy+gtscp3thxORGHKPvNw2IS/JF0BPwVRvSsHkfpZYLCbWDktQpKlKs8AISeV/4GHf+iQDKDgxscmXrZ5LTxcgutuiaNsAEX9pCrr1t3piFJntM0IehKjJN19fETKeu0RCu3eTRWPJGJsXDppQ50XYghmM3oDH7ePlua1DbRH3V77y9hpwXl7C/jLq0UMw==;++kUhOFwQZq2sYqlF0YfwQ=="
 ---

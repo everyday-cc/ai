@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-clo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
 type: article
 quality: 109
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Google
       domain: blog.google
     quality: 86
+  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
+    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
+    publishedDateTime: 2023-09-01T19:24:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
   - title: "Google courts businesses with ramped up cloud AI"
     excerpt: "Google on Tuesday said it was weaving artificial intelligence (AI) deeper into its cloud offerings as it vies for the business of firms keen to capitalize on the technology."
     publishedDateTime: 2023-08-29T20:14:00Z

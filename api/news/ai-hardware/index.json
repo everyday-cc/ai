@@ -54,7 +54,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 277,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -88,6 +88,58 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-intels-gaudi-2-beats-nvidias-h100-in-certain-ai-tasks.md",
+      "title": "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks",
+      "excerpt": "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -325,7 +377,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 408,
       "tags": null,
       "images": [
         {
@@ -665,7 +717,7 @@
       "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1415,50 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
-      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
-      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "publishedDateTime": "2023-08-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

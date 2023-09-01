@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
 type: article
 quality: 104
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -270,6 +270,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 36
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
   - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
     excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-28T13:13:00Z

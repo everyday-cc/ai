@@ -41,6 +41,20 @@ related:
         width: 2128
         height: 1022
         isCached: true
+  - title: "Seismologists use deep learning for improved earthquake forecasting"
+    excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to better forecast earthquake aftershocks."
+    publishedDateTime: 2023-09-01T21:46:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1000408"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/446ecbee-5bc0-49a7-a60f-9d4282dd6554/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "9gCJK/dLLizENz/NiijImmVokNMByGjLcAi9cAA6GYc6rYjsB7stkM5UeGX+N0BZros+p+vyXY5zKnCfzQuWJn/178f+HEPNaLr/CYVTZ/4YdMmNKTrqIar7X+db/UpccFIr8VTYZfylP1xdBckb7Zp0SV71/7MaNms37bGpCgeyE8B4t9YKmyZE2hynB8/iQqExDnw2UZqqv6+6zsjMN6eKJ2KLl6j4oiAKAEPQDSHKN2nnNfZpHbOy4eF3joLRAROXNMHB2tx8P3vnsum94iQSlEKLnohoY4FwhbJ3VhPlcHINfdcv7NgY2qMLSwQDLIdCRSXfj33mvF+Vun0224CZ6YNoTovWrV5Jpik1GrrPF3TKQLRoIGkbZX04KiUdvs8NhazeEmIyJ+F9Jm7S0VvwNpPnz6sfYybrDt1E0yyphepASSyqtXoV4vn+QsGTkbeeTTzf2yYmbbXzu3pxnIdTUZuCH3s4dxTLl2jFEivhSAVepu9f4tIDEZa3drdD9+FI8i+q0FtJ3ycs08YP4g==;/JdmOWc1MPn1grZustvUjQ=="
 ---

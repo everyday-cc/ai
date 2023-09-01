@@ -130,6 +130,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "US Government Denies Blocking Sales of AI Chips to Middle East"
+    excerpt: "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why."
+    publishedDateTime: 2023-09-01T18:50:00Z
+    webUrl: "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 71
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg"
+        width: 5650
+        height: 3560
+        isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z

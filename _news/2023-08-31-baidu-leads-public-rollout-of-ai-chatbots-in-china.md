@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-riv
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 33
+  - title: "Enhancing research with conversational chatbots"
+    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
+    publishedDateTime: 2023-09-01T17:03:00Z
+    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
+    type: article
+    provider:
+      name: GuardOnline.com
+      domain: guardonline.com
+    quality: 4
 
 secured: "iYUvTsDsC31ph8CPamULJThcfxeOJ0rQN/Jn1+cVpkS1ARa/V0wAtvXvQ5ebjFb8RZ/fyH6Hwy9O0/1Z/9by649jTFbn5uGqLRWvsIQYP1DmeAky3wGrMAmjMKZZEJenPbyOiP5olWJJ26MfqpdYYT6jJ68H/HtoYIQKjQiUao3z4EN6/CA7oXZO2QbOqWmd5E9NrlDDupYoXEQY0KmYk6IlCLQv3JsTqztGaLbDMJheoowYKiHVctFKkDFJLhfJc3OMsR+8xhcp0IXsuYJ4Zd/SwhK4Wy31UMOWomiXWzCvFXhQoqnLVahhdw+2v2kKnlsh6/cU6KN/CYZYll6c+txtoG09rM59jJ3NPZZJZ89wTyBsEn6OAFt2X0uddNmLkJPs7FFCDvc4Qq9T0+b4I8LdoPTBdGIY+tfy8duzfFeKe85Ti79slk0xEbns9r/81Vycd0//4oYpCggxZ9ztz3cQ9NRDhQ3geWMibnkX5+U+5ZR1wXCfv2OZv6tkfDnPqRiMmfXRNHdILcEmGwhrhA==;krHGlVU/c/03Yrv2ov5M6w=="
 ---

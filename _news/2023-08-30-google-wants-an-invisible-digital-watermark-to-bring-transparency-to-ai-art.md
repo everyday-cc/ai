@@ -23,6 +23,31 @@ topics:
   - AI
 
 related:
+  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
+    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
+    publishedDateTime: 2023-09-01T20:25:00Z
+    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Identifying AI-generated images with SynthID"
+    excerpt: "Today, in partnership with Google Cloud, we’re beta launching SynthID, a new tool for watermarking and identifying AI-generated images. It’s being released to a limited number of Vertex AI customers using Imagen, one of our latest text-to-image models that uses input text to create photorealistic images."
+    publishedDateTime: 2023-08-29T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
     excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
     publishedDateTime: 2023-08-29T14:33:00Z
@@ -94,6 +119,24 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 19
+  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
+    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
+    publishedDateTime: 2023-08-31T19:54:00Z
+    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
+  - title: "AI images are getting harder to spot. Google thinks it has a solution."
+    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
+    publishedDateTime: 2023-08-29T13:34:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "siTI1rbRMWPWKlBqcH/iyMxS45P1J14QmD5jvhD2vHL41rOzEVHr5gmMaD3uEbz/X9OBv7F4ZlpCFYpoq/f1awjBxDQ+qCGYiPqjdYn5QqAtQ1STEvxItIuluN+dru2SeaRgVObW4XSfNIctqBCILdnWfPmX4pXdTepnUhuDfiriLOChAjn8YQE2vEUtIKxQ7AQKf168BxFZ/AQviOjlpCAne2Do27WoHLt7Z4faiR2FN0hJ3ZTCkDNPKzIr+fO9kIDNFUpJMBcK2f/AIorfPk3HOH20WFSd2rHPD2h3YXCiyc/lR3uQ5a+ctJYI/PSxHfku5AosNtyUpLjzNhGgtujR54m9gXPLmAYV2TWJaaCIMBvGd8podUXQfFwUFDF55UY4WVRJBYcliZjvQcVlHTq+Do+b1qyNZhMwOiDEwiCT847u0Vfp6v35tgJ3IxlSXwjXsw80SRNltHZ6lMUdIAcsNQEAomQVcpA0cTZb6Z8sn96i1RQVByld816gtYNXDm8C3dLdHoKvP0GJtSLzpw==;xMhccmHJYCGJ7VcXrDiCkA=="
 ---

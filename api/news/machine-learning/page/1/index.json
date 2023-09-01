@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
+      "title": "Seismologists use deep learning to forecast earthquakes",
+      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
+          "width": 2128,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "publishedDateTime": "2023-09-01T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model.md",
       "title": "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model",
       "excerpt": "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ...",
@@ -298,7 +341,7 @@
       "originalUrl": "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1366,40 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-qlik-named-to-constellation-shortlist-for-both-artificial-intelligence-and-machine-learning-best-of-breed-platforms-and-augmented-bi-analytics.md",
-      "title": "Qlik Named to Constellation ShortList™ for Both Artificial Intelligence and Machine Learning Best-of-Breed Platforms and Augmented BI & Analytics",
-      "excerpt": "Qlik ® today announced that the company has been recognized by Constellation Research on two of their Q3 2023 Constellation ShortLists - The Artificial Intelligence and Machine Learning Best-of-Breed Platforms ShortList for Qlik AutoML™,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865651.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865651.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

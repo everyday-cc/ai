@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
+    excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
+    publishedDateTime: 2023-09-01T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uks-ncsc-warns-against-cybersecurity-attacks-on-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
 
 secured: "sGTzE/vbazWb1yyjte8Y3ZCHvRI3giJO8CIjVvpi3MuUi5LWTJHjBIfoaTINzWXrJpe2INmEXImAygzipbY+Bwn08mEwSthib+XKgvFtVlB0VXpmPpbLbMaAtjYxG+7IYAycwtkfYBz2B1xQVfqMYi8QZ837EBL4/emcAp0U4eVVQyiYFp3ET7eeSEjXd0G1u+QgrSbcWgkmVgkcGnLcDQDIaNI0IHbvXrM7If4y97JPpc2VLsyTw1Y7+V8ynalD/cqca4KJ6NY9Hz9ZP1oBxuKc9TKrftS1h5H7gvPMgA4qMPQVanq/ALr7gl3JChFxzuJBpTRZSiKIeebb2ZlIcGXSBiGMFpEJYU4MLHRdVJ8=;rNzywMRsP5SccIOazY0DQw=="
 ---

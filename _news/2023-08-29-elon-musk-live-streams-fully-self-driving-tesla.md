@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 834
         isCached: true
-  - title: "Tesla CEO Elon Musk Recommends Hardware 3 Amid Delay In Full-Self Driving On Hardware 4"
-    excerpt: "Musk responded that Tesla would focus on getting FSD on hardware 3 working ‘super well’ and providing it internationally, thereby delaying it on hardware 4. Hardware 3 and 4 refer to computers that help Tesla in its self-driving efforts. It is backed by a suite of self-driving sensors."
-    publishedDateTime: 2023-08-28T03:07:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34061551/tesla-ceo-elon-musk-recommends-hardware-3-amid-delay-in-full-self-driving-on-hardware-4"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34061551"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34061551"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_FSD_14.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
     excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
     publishedDateTime: 2023-08-29T14:58:00Z

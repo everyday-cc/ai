@@ -274,6 +274,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 36
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
   - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
     excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
     publishedDateTime: 2023-08-30T12:30:00Z

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
+    excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
+    publishedDateTime: 2023-09-01T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uks-ncsc-warns-against-cybersecurity-attacks-on-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
 
 secured: "AbfTglUu4vh+z6k6NMNWbV9XC5/KICq78N+jltQtgcdObqU/RVcQdFaSxkjegS5y7SDpKXUEDvZssWCt4rNyZeYQv7wE6kPg2ygQSsn8BoSIJcAlL8+/POLx2LicSNQlKiOLw83OHynVrSRYcCbOlYzgyXtF5kkG0lS7cZsweb4ty9PgdPRn5jGu5zliVlp8QWZSrePizyqn8neqCQQo/3Saahq6RutUtnWQ1trWk+6PM3juKV5pDEDW4hqE9cNoB5djqizLO3RT59DYe52mPPthAF/w+pjzr3yf4JDSOb4JHnpoymwzm84fG8GaLRu23D7cNhkVtI1druYnEbraRsDljkyDlYpfKXR8FX7JHVgQg9HdnQ7emIJk7efWAjQ41OVAo6GyXVKCvQs+4H/fvwtyauUyNMf1prMYe79hh1E0I1llSXlNWENWhwrJs4tzTBPjz4fRUPbbZYN4tJO9rOKNwhZJx+4Nhvhwst9HzQBUqgAmber2MLuWXbeLaWfvs05AU3btHyNi6A3BtB90Kg==;m8sLERBoCvsaF/cMclSP0w=="
 ---

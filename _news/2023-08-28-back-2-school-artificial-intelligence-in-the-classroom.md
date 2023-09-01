@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wgrz.com/amp/article/entertainment/television/programs/d
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WGRZ
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will AI in Schools Widen the Digital Divide?"
+    excerpt: "For families and students who lack home Internet or personal devices, the introduction of technologies like artificial intelligence in schools may only exacerbate digital inequities."
+    publishedDateTime: 2023-09-01T20:49:00Z
+    webUrl: "https://www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide"
+    ampWebUrl: "https://www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/47a0242/2147483647/strip/true/crop/3800x1981+0+264/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2F66%2F588f6ec844c49b199967fb5e2259%2Fshutterstock-153791909.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Georgia school district brings AI into K-12 classrooms"
     excerpt: "A school district in Gwinnett County, Georgia, is pioneering an AI-driven curriculum, integrating artificial intelligence into all subjects from social studies to art. CBS News' Christina Ruffini looks at how teachers and students are embracing the technology in the classroom – and how teachers are addressing skepticism."
     publishedDateTime: 2023-08-28T12:46:00Z

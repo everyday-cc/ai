@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
+      "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
+      "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100975008/100975008.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "publishedDateTime": "2023-06-13T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
       "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
       "excerpt": "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21.",
@@ -1303,58 +1347,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
-      "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
-      "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "publishedDateTime": "2023-06-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

@@ -1,0 +1,70 @@
+---
+category: news
+title: "India embraces facial recognition for smart city, railways"
+excerpt: "NEC Corporation India has launched the latest smart city project in Tirupati, India, on behalf of Tirupati Smart City Corporation Limited."
+publishedDateTime: 2023-09-01T21:09:00Z
+originalUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
+webUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+    width: 2048
+    height: 1152
+    isCached: true
+
+related:
+  - title: "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs"
+    excerpt: "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically."
+    publishedDateTime: 2023-08-31T20:41:00Z
+    webUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Amazon-smbhav-india.jpg?w=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "With AI Startups At The Core, India To Host Maiden Global IndiaAI 2023 Summit In October"
+    excerpt: "The Ministry of Electronics and Information Technology is all set to host the maiden edition of the Global IndiaAI 2023 summit in October."
+    publishedDateTime: 2023-08-31T01:30:00Z
+    webUrl: "https://inc42.com/buzz/with-ai-startups-at-the-core-india-to-host-maiden-global-indiaai-2023-summit-in-october/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 28
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/globalai-summit-social-.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "The need for an Indian system to regulate AI"
+    excerpt: "When it comes to AI regulation, India needs to have regulations in a manner that is consistent with the Indian ethos, by and for Indians"
+    publishedDateTime: 2023-08-30T18:46:00Z
+    webUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-system-to-regulate-ai/article67252763.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
+
+secured: "u1060YRZSO+OaitEvJrGx8j4HxVd5ZJxk5TrCDfT0PdzJ5x1XRxa9yqygXhHTdiX7qxxWICDwv5cOrDqZA5mOPQDjCBZ1mwvEoYEztBnziXeufVgfBXIGJLOlupdA9Yp5hK9LZdiLxbfbWWWJHMiERNmT/TB7M2vJ4Y52Ox9e/zDCH14AiTLlqWBOXYYxVKaWx0O0sfpcTaxMypFHNhZv8pe/L6N0BIpC1u/WL3DWEhB4b5ZggcPBX/5hABldV8V1B/wKI9WjNzVFlDXelE1jiMG15uLm5gkxUDlMM1MegpqhpTe/HHDe+AK4UrPyipO8kdvmbF4eSdrIzFOmkKVZiBMm/Aa8nfmgqZVz09Mg1I=;7FV5AUrP7V91h1ixG/8w1Q=="
+---
+

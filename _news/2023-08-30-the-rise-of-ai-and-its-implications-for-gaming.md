@@ -228,6 +228,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
+    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
+    publishedDateTime: 2023-09-01T20:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
     excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."
     publishedDateTime: 2023-08-31T03:46:00Z

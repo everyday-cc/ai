@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-f
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
-    publishedDateTime: 2023-08-29T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-2023-q2-results"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1767.jpg?h=7de12b8a&itok=XobXNegz"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "UP Fintech Reports Two-year High 2023 Q2 Results"
-    excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech’s global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
-    publishedDateTime: 2023-08-29T23:06:00Z
-    webUrl: "https://business.scoop.co.nz/2023/08/30/up-fintech-reports-two-year-high-2023-q2-results/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 24
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "5eqOij2gJljwn05lIdgFGEBPrGXIRbjobJpIJjLXSty8M8h40Hhg9LrDjV+RCBmcaT4gFtmUF2ZyyYN7DcnR6IaO50yLPtniax3sa77WtV0FRGeJq5Q2NeK698k6acaUnypi69m9mNYF24ERdSJyUXK3afTP4JPP5NBmDWKYL22IrG0/mTxzVC7OSpaqotI1cLgJiJRPdn8RYuSrsF/6OqsK+OvFa4gBdKkFLl7VIerK4o5nK7OVPAtXWyYdvFxeeKFPh+UYuk2HIg6EeVEGCdzlrf2L0mnTDEET72soKNLP1yyeHhJHqvxPka5NyHqkQjbbBOTL9dcXG2kNiq8HNrPSKP3biSw61G5r8+fmgP8=;+N2I49aOd2uGgJd+Rb1Wqw=="
 ---

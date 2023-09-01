@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-a
 webUrl: "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html"
 type: article
 quality: 72
-heat: 94
+heat: 95
 published: true
 
 provider:

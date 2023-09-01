@@ -34,6 +34,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Will AI in Schools Widen the Digital Divide?"
+    excerpt: "For families and students who lack home Internet or personal devices, the introduction of technologies like artificial intelligence in schools may only exacerbate digital inequities."
+    publishedDateTime: 2023-09-01T20:49:00Z
+    webUrl: "https://www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide"
+    ampWebUrl: "https://www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/cdg/will-ai-in-schools-widen-the-digital-divide?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/47a0242/2147483647/strip/true/crop/3800x1981+0+264/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2F66%2F588f6ec844c49b199967fb5e2259%2Fshutterstock-153791909.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "KbfOQj2iI48rEfvlOj9b4JNrU+Zd1sHviLb98hXV65bdjLP+vt73XvoLElu6ImZjowknoJEERfoDW7ia7DUtQMwr9LgqhYtjKnyjXizesSeQHOI0V1l3Pw9zI4m7Itdx3OHZU98KDJOLFJSU3OXQmIjMPkrTIA6+rfINo3y0HmJvF7+A0PpALr8HdPDFX4vvRxGMnqcfCFZM+cNKZ+AYgrmmYYxT6Ds4RTYxbylaWKlf1N6SmheDA7rCHd+Wud7CMV/um04UAOnlD8S+Fdb+S8At2Lw53pBQwcEfRiJlBWBYBBz6tnBXs0FGe1SyvcbTLv6Smuhxdo6bz43grXDZEPNEpz0QREuaBShg6tFYwFS7154GXsyZqQfmuNsTa03GDAYh5a9TDWI329zxSwuO+PiXBl77dZJg+IJCrty+b/yIBKVO84l3qb2kwl3MoYY+++xl6WHeIYc3wiZ83Jovf6ueyZenIIHWx45vTPmgsm9Urk4p7HHc7pTil8YftIr5rtp+KypihBlkbW4ESATIJA==;TGVSa5cFaVof5PNfBWyZLA=="
 ---

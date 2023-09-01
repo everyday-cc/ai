@@ -2,6 +2,186 @@
   "page": 159,
   "value": [
     {
+      "path": "_news/2023-05-18-dr-marc-siegel-explains-how-artificial-intelligence-could-be-helpful-in-doctors-offices.md",
+      "title": "Dr. Marc Siegel explains how artificial intelligence could be helpful in doctors' offices",
+      "excerpt": "Fox News medical contributor Dr. Marc Siegel joins 'Fox & Friends' to discuss the benefits of artificial intelligence in the medical industry if used with caution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6327743025112",
+      "originalUrl": "https://www.foxnews.com/video/6327743025112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2461ffba-8aa2-4447-b9d8-e50d1bc87995/dddf898f-baac-4032-b688-4969ef7da9f3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai.md",
+      "title": "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI",
+      "excerpt": "Weights & Biases and Lambda have announced a strategic partnership to bring the infrastructure and MLOps tools required",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/",
+      "originalUrl": "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey.md",
+      "title": "Seven Mistakes To Avoid When Leveraging AI In Your Customer Journey",
+      "excerpt": "While there is no doubt that AI tools, such as chatbots, are seeing broad adoption in the contact center, there are still several pitfalls CX leaders can avoid when choosing and implementing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464db34f1c65ed2777a7422/0x0.jpg?format=jpg&crop=6834,3839,x2336,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "publishedDateTime": "2023-05-18T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications.md",
+      "title": "ApartmentLove Names Ken Lang CTO as the Company Adopts Machine Learning and AI Applications",
+      "excerpt": "This is a wonderfully formative time for the Company and to have Ken leading our engineering, Machine Learning and AI initiatives ensures ... and vacation rental marketing services to property managers, owners, renters, and vacationers in more than 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
+      "originalUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/13.7.7/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
+      "publishedDateTime": "2023-05-18T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-how-could-artificial-intelligence-impact-cybersecurity.md",
       "title": "How Could Artificial Intelligence Impact Cybersecurity?",
       "excerpt": "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon.",
@@ -1010,203 +1190,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
-      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
-      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp",
-      "publishedDateTime": "2023-05-17T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-self-driving-tesla-doesnt-yield-for-pedestrian-tesla-fan-cheers.md",
-      "title": "Self-driving Tesla doesn’t yield for pedestrian. Tesla fan cheers.",
-      "excerpt": "A seven-second self-driving Tesla video posted to Twitter this past weekend shows a likely illegal driving event in San Francisco that, unfortunately, happens all the time in ordinary situations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/self-driving-tesla-doesn-t-175359995.html",
-      "originalUrl": "https://www.aol.com/self-driving-tesla-doesn-t-175359995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/5LTYlEv7_agxI.TZD89mAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/702ea7be836a1a639f306c4aa8755461",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/self-driving-tesla-doesn-t-175359995.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-tesla-doesn-t-175359995.html",
-      "publishedDateTime": "2023-05-17T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-frances-privacy-watchdog-eyes-protection-against-data-scraping-in-ai-action-plan.md",
-      "title": "France’s privacy watchdog eyes protection against data scraping in AI action plan",
-      "excerpt": "France's privacy watchdog has laid out an action plan for regulating artificial intelligence, trailing incoming guidance for \"privacy-friendly\" AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/",
-      "originalUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/17/cnil-ai-action-plan/amp/",
-      "publishedDateTime": "2023-05-17T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-20-amazing-and-free-data-sources-anyone-can-use-to-build-ais.md",
-      "title": "20+ Amazing (And Free) Data Sources Anyone Can Use To Build AIs",
-      "excerpt": "When we talk about artificial intelligence (AI) in business and society today ... including product information and ratings. Waymo Open Dataset – Alphabet’s autonomous driving subsidiary Waymo makes a huge amount of data collected via self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464717149c5a56fb3c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
-      "publishedDateTime": "2023-05-17T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-29-vmware-explore-2023-recap-its-all-about-your-data.md",
+      "title": "VMware Explore 2023 Recap: It’s All About Your Data",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares interesting announcements and his takeaways from VMware Explore 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed19ff84e76c4fc0d8ae1f/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "publishedDateTime": "2023-08-28T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-technology-shares-increase-amid-ai-enthusiasm-tech-roundup.md",
+      "title": "Technology Shares Increase Amid AI Enthusiasm -- Tech Roundup",
+      "excerpt": "Shares of technology companies climbed amid more buzz around AI technology. OpenAI is launching a business version of its ChatGPT tool, putting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "originalUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "publishedDateTime": "2023-08-28T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-siem-and-threat-intelligence-stay-current-on-trending-threats.md",
       "title": "SIEM and threat intelligence: Stay current on trending threats",
       "excerpt": "The evolution of cybercriminal tactics necessitates a corresponding evolution in defense strategies, driving organizations to embrace advanced security tools. Among these, Security Information and Event Management (SIEM) solutions and threat intelligence stand as linchpins of modern cybersecurity. By",
@@ -557,7 +660,7 @@
       "originalUrl": "https://www.ibm.com/blog/text-mining-examples/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -672,6 +775,48 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-back-2-school-artificial-intelligence-in-the-classroom.md",
+      "title": "Back 2 School: Artificial intelligence in the classroom",
+      "excerpt": "BUFFALO, N.Y. — When students to back to school, an innovative companion will be by their side: artificial intelligence. Ready or not- the AI revolution is here, and it is crucial that teachers and parents know about it. Chat GPT is a popular AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
+      "originalUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wgrz.com/assets/WGRZ/images/4524abf6-93e0-42a4-a7ef-b3f3f28ed061/4524abf6-93e0-42a4-a7ef-b3f3f28ed061_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
+      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
+      "publishedDateTime": "2023-08-28T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGRZ",
+        "domain": "wgrz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1059,136 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-how-to-use-ai-for-marketing-without-sounding-like-a-robot.md",
-      "title": "How to use AI for marketing without sounding like a robot",
-      "excerpt": "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
-      "originalUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg",
-          "width": 1420,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
-      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
-      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests.md",
-      "title": "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests",
-      "excerpt": "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "publishedDateTime": "2023-08-27T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

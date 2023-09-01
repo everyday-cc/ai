@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "India embraces facial recognition for smart city, railways"
+    excerpt: "NEC Corporation India has launched the latest smart city project in Tirupati, India, on behalf of Tirupati Smart City Corporation Limited."
+    publishedDateTime: 2023-09-01T21:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "The need for an Indian system to regulate AI"
     excerpt: "When it comes to AI regulation, India needs to have regulations in a manner that is consistent with the Indian ethos, by and for Indians"
     publishedDateTime: 2023-08-30T18:46:00Z

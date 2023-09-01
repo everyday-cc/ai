@@ -242,6 +242,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
+    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
+    publishedDateTime: 2023-09-01T20:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z

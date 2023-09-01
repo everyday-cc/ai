@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "India embraces facial recognition for smart city, railways"
+    excerpt: "NEC Corporation India has launched the latest smart city project in Tirupati, India, on behalf of Tirupati Smart City Corporation Limited."
+    publishedDateTime: 2023-09-01T21:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "With AI Startups At The Core, India To Host Maiden Global IndiaAI 2023 Summit In October"
     excerpt: "The Ministry of Electronics and Information Technology is all set to host the maiden edition of the Global IndiaAI 2023 summit in October."
     publishedDateTime: 2023-08-31T01:30:00Z

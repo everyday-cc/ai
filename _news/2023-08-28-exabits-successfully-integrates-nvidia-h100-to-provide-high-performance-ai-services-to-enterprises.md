@@ -27,7 +27,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg"
         width: 2000

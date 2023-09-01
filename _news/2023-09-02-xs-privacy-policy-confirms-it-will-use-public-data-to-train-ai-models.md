@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's X will use public data to train AI models"
+    excerpt: "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,"
+    publishedDateTime: 2023-09-01T19:24:00Z
+    webUrl: "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+    ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Elon Musk says X will have voice and video calls"
+    excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"
+    publishedDateTime: 2023-08-31T18:30:00Z
+    webUrl: "https://www.staradvertiser.com/2023/08/31/breaking-news/elon-musk-says-x-will-have-voice-and-video-calls/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 4
   - title: "Elon Musk says X will have voice and video calls and updates privacy policy"
     excerpt: "The company also updated its privacy policies that will allow for the collection of biometric data and employment history, among other information."
     publishedDateTime: 2023-08-31T18:44:00Z

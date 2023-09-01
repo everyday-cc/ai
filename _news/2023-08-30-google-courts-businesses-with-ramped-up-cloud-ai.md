@@ -68,6 +68,15 @@ related:
       name: Google
       domain: blog.google
     quality: 86
+  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
+    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
+    publishedDateTime: 2023-09-01T19:24:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
   - title: "How big restaurant chains are using artificial intelligence"
     excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
     publishedDateTime: 2023-08-31T21:46:00Z

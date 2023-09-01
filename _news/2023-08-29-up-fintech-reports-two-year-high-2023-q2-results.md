@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-202
 webUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-2023-q2-results"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Gov’ts, Fintech centres aim to revive tech sector globally"
+    excerpt: "HONG KONG, August 23rd – Ecosystems in East and West to promote startups and investments in AI, Web3, and crypto currencies in East and West have taken measures to add new life in a sector that has been facing headwinds from risk aversion and rising inflation rates, data compiled by The EDGE™Global AI & Web3 Investment Summit shows."
+    publishedDateTime: 2023-08-29T05:26:00Z
+    webUrl: "https://nftstudio24.com/govts-fintech-centres-aim-to-revive-tech-sector-globally/"
+    type: article
+    provider:
+      name: nftstudio24
+      domain: nftstudio24.com
+    quality: 39
+    images:
+      - url: "https://nftstudio24.com/wp-content/uploads/2023/08/Govts-Fintech-centres-aim-to-revive-tech-sector-globally.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "UP Fintech Reports Two-year High 2023 Q2 Results"
     excerpt: "During the second quarter, 58,582 new customer accounts were added to UP Fintech’s global portfolio, bringing the total to 2.12 million. A total of 29,077 new customers with deposits (funded accounts) were added this quarter, elevating the total number of funded accounts to 840,931, marking a 15% increase YoY."
     publishedDateTime: 2023-08-29T23:06:00Z
@@ -39,15 +53,20 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
-    publishedDateTime: 2023-08-29T12:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
+  - title: "Strategies for fintech investment: Black Banx’s CEO shares strategies for current climate"
+    excerpt: "The following are some important trends and openings to look out for: Increased use of blockchain, AI, and IoT fintech investment is predicted. These technologies can improve security, streamline procedures, and provide customers with cutting-edge ..."
+    publishedDateTime: 2023-09-01T14:41:00Z
+    webUrl: "https://techbullion.com/strategies-for-fintech-investment-black-banxs-ceo-shares-strategies-for-current-climate/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
+      name: Impacts
+      domain: techbullion.com
+    quality: 15
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/fintech.jpg"
+        width: 967
+        height: 548
+        isCached: true
 
 secured: "5EuG2MJmbQtxD4WpayAMTETVu5WTBt+rwMB4RCWhaTwfyo7jVnZWgEO82pwoIDHre0QHOTWgPNvL7I9wG346twyHDIgD2VNrCd37pHY3AC5D0ohMG+qP11hOWJGCPglRWwV2kJEdxMa4AeMzPF7cjV9mA84xKmBwB+A78TgxO4+TAwGFQgqFjzOcUvhVkoblUaLcr3bTGuwZwcti68VOmzRdrGwTtzNYRnuH2yZEJuTfaNbgIx2EcjgQbojcVdl4JjmjN0Ac8ECJe0/tqtL/fxIFCoO2CByvvo6q3oXlTzjVR9vldHiDLRwPAuCBE1dil7VFNQdfpLEHwoL8JYZ5pXoOT2tqVIjCg8o3gud6EW8=;OtmOE/yF/zeA6WsVI1KYBQ=="
 ---

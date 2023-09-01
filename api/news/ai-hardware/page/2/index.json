@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
+      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
+      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "publishedDateTime": "2023-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.md",
       "title": "Analysts see AI boosting Marvell, but warn of other headwinds for the chip stock",
       "excerpt": "But analysts are wondering if it can be enough to counteract challenges elsewhere. The semi stock retreated more than 4% in premarket trading despite slightly exceeding Wall Street expectations in its quarterly report delivered Thursday.",
@@ -1369,49 +1413,6 @@
         "name": "Network World",
         "domain": "networkworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-kneron-to-release-ai-chip-this-year.md",
-      "title": "Kneron to release AI chip this year",
-      "excerpt": "In the world of generative AI, it’s a battle of computing power and getting the fastest and most powerful chips. Now, AI edge company Kneron announced it will ship its new neural processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
-      "originalUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

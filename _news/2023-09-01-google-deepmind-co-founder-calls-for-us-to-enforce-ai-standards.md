@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-publishedDateTime: 2023-09-01T13:32:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+publishedDateTime: 2023-09-01T06:41:00Z
+originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards"
@@ -199,6 +207,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Google DeepMind co-founder says US should enforce AI standards for ethical use"
+    excerpt: "The ethical side of this technological titan has gained attention in a time when artificial intelligence (AI) is developing at a dizzying pace. The co-founder of DeepMind, Mustafa Suleyman, recently presented a strong case for the need for the United States to require users of Nvidia's AI chips to make ethical commitments."
+    publishedDateTime: 2023-09-01T18:05:00Z
+    webUrl: "https://techstory.in/google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 47
   - title: "Google DeepMind creates new watermarking tool"
     excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
     publishedDateTime: 2023-08-30T09:31:00Z
@@ -250,6 +267,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "7dh9K51JcFUL2WRAJVUzt8Du0fx9dzMsD6V2kbCKYJGI/MgVPRIWv+oxaM1cFC40ViuDDzx3MLNof5d6d5AU2kIsmqszMMvuSgiqT5YjKoDEClCSYG8Nn0B8OFMu7v43hA6czwq1mX2EEuIS0wo5PgZVSaV1YzKqmKkBNGwAYMZRXYOAkxJANcRvehmxNCNU4sM/vd0hg8XoIdcfk779jzlvns+0rYQaqmkQRXLw3bLIPokAi3762JV9iqHubxPc+G4qhnhoB+P3U0og0s6D1/dTOLY5+7a9aRKvbQVCW756KXf/kV5C1LKDenwiI+1kSh0SykLMj3JNKPFJhlL3I5WHVppP0/0bmucePLLaFixWrQySYnqATXHC89o/JlG/4RzBe4WcPsI5pT5dO4ZSyuANVvMyhnk3m1TmoV9/lecQGSA71L8lwaIXCgGxjyKpWGUYirz3qIeuP1eXev8UPe1of5g1xKCSseVQULbikw6lkunkVvgiu5niz2oHhU92PeXGzgD5mTEcMGvibPlPag==;QjaTq31hECUn1b4e8RUFdw=="
+secured: "HWUm8uZ6vA2Od4vs1CloIKH6HK9+8FKzC71IV/+MueCPoIO6rAjGzrNqRZ6urzjfOB91BjNmfnMhYBMKwEflN25tiCY080v1l7QFPluS23DKozTdbzckwHkkRJ/lip9a8lsmCZXREzAYrGz1q1XiM1aKq+TEpybnMsE3fdXcKSHvaOJz7jwheLnHCHdgpd/ljL6OmZQbts37YaEW5W9OpYXMv/NbznVQwaOt4FmalyXBBPuWgKrAQta98qGwdCFAgOnU471oC2HQMuUR/7AMxTZGejoXSCQchc08Zw11gveIfcti8A5k56UYkAmRgj+8VuzTXxp3CB/Ad1Jo+i90zj4gwwSq1RV3kbAZKN8Nlf4=;fh6+Ct42h6zzwS6gxtUyuA=="
 ---
 

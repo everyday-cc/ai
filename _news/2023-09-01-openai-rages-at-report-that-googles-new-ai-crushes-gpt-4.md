@@ -19,66 +19,120 @@ topics:
   - AI
 
 related:
-  - title: "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4"
-    excerpt: "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight."
-    publishedDateTime: 2023-08-29T16:07:00Z
-    webUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
+  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
+    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
+    publishedDateTime: 2023-09-01T20:25:00Z
+    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Artificial intelligence frontrunner OpenAI offers ChatGPT Enterprise"
-    excerpt: "Artificial intelligence frontrunner, OpenAI, announced on Monday its latest offering, ChatGPT Enterprise, designed to cater specifically to the needs of large businesses. This move marks a significant convergence of services between OpenAI and its ..."
-    publishedDateTime: 2023-08-29T05:32:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/artificial-intelligence-frontrunner-openai-offers-chatgpt-enterprise-80251?amp=1"
+  - title: "Identifying AI-generated images with SynthID"
+    excerpt: "Today, in partnership with Google Cloud, we’re beta launching SynthID, a new tool for watermarking and identifying AI-generated images. It’s being released to a limited number of Vertex AI customers using Imagen, one of our latest text-to-image models that uses input text to create photorealistic images."
+    publishedDateTime: 2023-08-29T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid"
     type: article
     provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 72
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
+  - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
+    excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
+    publishedDateTime: 2023-08-29T14:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/04/ChatGPT-from-OpenAI.jpg"
-        width: 640
-        height: 390
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google_DeepMind_SynthID.jpeg?width=1200&height=800&fit=crop"
+        width: 864
+        height: 576
         isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
-    publishedDateTime: 2023-09-01T15:13:00Z
-    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+  - title: "Google made a watermark for AI images that you can’t edit out"
+    excerpt: "The Google DeepMind team has believed for years that building great generative AI tools also requires building great tools to detect what has been created by AI. There are plenty of obvious, high-stakes reasons why, says Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2023-08-29T12:11:00Z
+    webUrl: "https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
+      name: The Verge
+      domain: theverge.com
+    quality: 49
+  - title: "Google wants an invisible digital watermark to bring transparency to AI art"
+    excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
+    publishedDateTime: 2023-08-29T17:20:00Z
+    webUrl: "https://www.engadget.com/google-wants-an-invisible-digital-watermark-to-bring-transparency-to-ai-art-164551794.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+  - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
+    excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
+    publishedDateTime: 2023-08-31T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/08/31/google-launches-tool-that-detects-ai-images-in-effort-to-curb-deepfakes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Google may have found a way to identify some AI-generated images"
+    excerpt: "The process relies heavily on Google DeepMind, but Google says it isn’t a “foolproof” tool that can identify “extreme image manipulation.” The reason it isn’t a foolproof system, though, is because it relies on the use of Google’s own Imagen ..."
+    publishedDateTime: 2023-08-29T19:29:00Z
+    webUrl: "https://bgr.com/tech/google-may-have-found-a-way-to-identify-some-ai-generated-images/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
     quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
-        width: 1200
-        height: 628
+      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
+        width: 3120
+        height: 2080
         isCached: true
-  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
-    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
-    publishedDateTime: 2023-09-01T05:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
+  - title: "Google will put invisible watermarks on AI-generated images"
+    excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
+    publishedDateTime: 2023-08-30T11:12:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-deepmind-synthid-invisible-watermarks-ai-images"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
-        width: 700
-        height: 466
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/30/image/jpeg/OUpPbytf2tHxTuVDS8BzOv4YkAN1BBT5R0TaWbM8.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Google made an invisible watermark for AI-generated images"
+    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
+    publishedDateTime: 2023-08-30T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
+  - title: "AI images are getting harder to spot. Google thinks it has a solution."
+    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
+    publishedDateTime: 2023-08-29T13:34:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "TK28QYnU60CPXhtiiZkUCPk7bXAAJuZAYNbHGyblZsdJ4BBXld5cWgoLyxL51l4o2DSybsvnsbm0qMWOykIeA3I5MQ1ChQ/0ed54GTzJiaNRZnYG3l4H9JoboTYfTDSdZpB42x9jLVTD6SlCMhkxeA0+O6QMzNrBh9D1dNIH4wleraImj3ws8KeB7tjbyO5/L9aC3NwVcluB1LjdKMuuwBLXnbALhHUKcJJ9MwVjFp5qQ+FqZ54oALN1ebLl69dAPr2h+QcYmYual9u7WRv53xa+i98ZgroQwBPvp1z/gP024Jr8Dyj90zbU7SFnncfpjfF80rzwskMshNsFdP1xbnumFi8JM41Xym34MDGZ+QDjca9fQL8Usod3jOifMvncflEpqigpnJrH56cfEeQWWojkbIXurlrECTzBqkeWjfMJMcauerQbZGqcxQLJdpN6ujDf3KtNbBSf0R3zsmu4ZBqP6hcrTW6nwew1kmwV98bOa6ntAoJ3tmN5Vusn3ki8x1pCd+9wg0qwTA7CR5zbQg==;quBkzjRcyd1PQHbiupEmqQ=="
 ---

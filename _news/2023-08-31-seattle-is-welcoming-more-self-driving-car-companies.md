@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/local/seattle/2023/08/31/seattle-self-drivin
 webUrl: "https://www.axios.com/local/seattle/2023/08/31/seattle-self-driving-cars"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Stop Self-Driving Cars"
-    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly complex machine but also what kind of trouble these self-driving vehicles might be getting into on active roadways."
-    publishedDateTime: 2023-08-28T17:11:00Z
-    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 22
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Why Protestors On E-Bikes Are Using Traffic Cones To Paralyze Stop Self-Driving Cars"
-    excerpt: "You may have seen protesters on social media and in the news sitting on roadways to block traffic, spraying buildings with paint, and now “coning” self-driving vehicles. This newest form of protest highlights not only how easy it is to disrupt a highly ..."
-    publishedDateTime: 2023-08-28T17:34:00Z
-    webUrl: "https://hothardware.com/news/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62404/content/protesters-immobilizing-autonomous-vehicles-in-streets-of-san-francisco.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "What Problems Do Self-Driving Cars Solve?"
     excerpt: "What Problems Do Self-Driving Cars Solve? To explore the potential benefits of self-driving cars, we asked eight industry leaders, including CEOs and managing directors, to share one problem that this technology solves."
     publishedDateTime: 2023-08-31T19:32:00Z

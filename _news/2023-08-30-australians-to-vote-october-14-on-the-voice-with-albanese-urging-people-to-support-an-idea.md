@@ -85,6 +85,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Australia to vote on Indigenous Voice to Parliament referendum on October 14"
+    excerpt: "Australian Prime Minister Anthony Albanese announced Wednesday that Australians will vote on October 14 on whether to alter the Australian Constitution to recognize First Nations people by"
+    publishedDateTime: 2023-09-01T15:20:00Z
+    webUrl: "https://www.jurist.org/news/2023/09/australia-to-vote-on-indigenous-voice-to-parliament-referendum-on-october-14/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 1
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
     excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
     publishedDateTime: 2023-08-30T08:48:00Z

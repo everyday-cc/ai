@@ -2,6 +2,150 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-01-visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work.md",
+      "title": "Visual artists fight back against artificial intelligence companies for repurposing their work",
+      "excerpt": "The lawsuit may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work",
+      "originalUrl": "https://www.pbs.org/newshour/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1247945514-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work",
+      "publishedDateTime": "2023-08-31T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine.md",
+      "title": "AI fever turns Anguilla’s “.ai” domain into a digital gold mine",
+      "excerpt": "AI these days, but with a total land area of 35 square miles and a population of 15,753, Anguilla isn't complaining. Registrars like GoDaddy must pay Anguilla a fixed price—$140 for a two-year registration—and the prices are rising due to demand.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/island_pin_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/amp/",
+      "publishedDateTime": "2023-08-31T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-ai-start-up-investments-bucking-venture-capital-decline-trends.md",
+      "title": "AI Start-Up Investments Bucking Venture Capital Decline Trends",
+      "excerpt": "This article briefly discusses the rate of growth of the AI Startup market in the USA, with recent stats from Crunchbase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f10ab4e75967af225d6d54/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
+      "publishedDateTime": "2023-08-31T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
       "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
       "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
@@ -164,7 +308,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -505,7 +649,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1068,144 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-chip-innovations-key-to-the-future-of-aiml.md",
-      "title": "Chip innovations key to the future of AI/ML",
-      "excerpt": "Dramatic gains in hardware performance have spawned generative AI, and a rich pipeline of ideas for future speedups that will drive machine learning to new heights. This is the word from Bill Dally, Nvidia’s chief scientist and senior vice president of research,",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://it-online.co.za/wp-content/uploads/2023/04/circuit-board.jpg",
-          "width": 1075,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding.md",
-      "title": "HR Tech Startup MyWays.ai Secures 80 Lakh In Seed Funding",
-      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. AI-driven HR tech startup, My Ways.ai, has secured an investment of 80 lakh in a Seed funding round, led by Realtime Angel Fund (RTAF), an angel fund registered with SEBI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding/458287",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding/458287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1693466459-Untitleddesign-2023-08-31T124802239.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-31T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-types-of-cyberthreats.md",
+      "title": "Types of cyberthreats",
+      "excerpt": "From malware attacks to zero-day exploits, unpack the cybersecurity threats organizations face today—and the threat actors behind them.\nThe post Types of cyberthreats appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "originalUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T11:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-how-to-detect-and-patch-a-log4j-vulnerability.md",
       "title": "How to detect and patch a Log4J vulnerability ",
       "excerpt": "The Log4j vulnerability—dubbed \"Log4Shell\"—still persists nearly two years later. Learn how to detect and patch the vulnerability.\nThe post How to detect and patch a Log4J vulnerability  appeared first on IBM Blog.\n",
@@ -315,7 +357,7 @@
       "originalUrl": "https://www.ibm.com/blog/text-mining-examples/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -892,17 +934,17 @@
       "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
       "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33976425/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -910,13 +952,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33976425",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976425",
-      "publishedDateTime": "2023-08-21T21:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,58 +1330,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx.md",
-      "title": "How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx",
-      "excerpt": "Building on previous innovation, this year introduced AI Draw Analysis, which ranked every player’s draw on a favorability scale.\nThe post How IBM Consulting ushered the US Open into a new era of AI innovation with watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 268,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-17-at-9.42.04-AM.png",
-          "width": 2100,
-          "height": 1018,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T09:47:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

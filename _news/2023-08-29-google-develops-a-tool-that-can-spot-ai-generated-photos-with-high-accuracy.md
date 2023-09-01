@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
 type: article
 quality: 57
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
+    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
+    publishedDateTime: 2023-09-01T20:25:00Z
+    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Identifying AI-generated images with SynthID"
+    excerpt: "Today, in partnership with Google Cloud, we’re beta launching SynthID, a new tool for watermarking and identifying AI-generated images. It’s being released to a limited number of Vertex AI customers using Imagen, one of our latest text-to-image models that uses input text to create photorealistic images."
+    publishedDateTime: 2023-08-29T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "Google made a watermark for AI images that you can’t edit out"
     excerpt: "The Google DeepMind team has believed for years that building great generative AI tools also requires building great tools to detect what has been created by AI. There are plenty of obvious, high-stakes reasons why, says Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2023-08-29T12:11:00Z
@@ -91,6 +116,24 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 19
+  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
+    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
+    publishedDateTime: 2023-08-31T19:54:00Z
+    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
+  - title: "AI images are getting harder to spot. Google thinks it has a solution."
+    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
+    publishedDateTime: 2023-08-29T13:34:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "vsjTN+tzB3rplpR9pFYlAoIut3Cy7VWXT/dy4A2Q9XJEU+Qi5qA1+NW95beB4t4eNG9U8OXQ7q/9C1E0YyTrSNTGZrLRB8OCBMt2H55I/ZYvMNWq/CN5hKh5tMCPFAG/ENy+lQ5S26yHuMx6zzcqFJ2+BvXNTQLCDUVmqV0MSONK9O+irDokjzvdZva1LZQDorf8KVffqN5YrRLLNnsLlX20XgIU4AjLxGm4Gjx49g//iF4AimC6gM5Q88Jnig+8PD8BhfyUeZk7jfJluwlantKdi1mVSjrjcUNQbNT3F5jUMWSODariVmulJ4dEF4HQcLxL/o9eYRuLiRW8y0K2AlUIzDmp3f9+EMPSBtbTWT8=;C04/uMPyoAUHxio5V/w0Fg=="
 ---

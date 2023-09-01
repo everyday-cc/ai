@@ -71,15 +71,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
-    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
-    publishedDateTime: 2023-08-31T19:54:00Z
-    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
 
 secured: "gf8eHywdis+J+EKqKcR/cfRgNQom9OfzuA+fRYNu2sJnuTb5HYpj6txBNGFJD4FAjJr4bD1s8kbQnFXNHZfWzQsN5/KAQvF7ld4DFR6jaqd6gWk501QhvcyMKlzqWqBIMPxhzv4WEEkoTp72mqH4reTbpjxXDrjFfWjLBib0yiQMES72ksa5QwYJjpyI92ww4FnCZhNf5OkAyCEPj23zJeOyXlfL4vl4RX5J1otvf7X7Lm3TCrjDyEHb4Vz8EoSlHYrnQnJjhPlnjuraQyMIC0blddkaGIL6afOyX/2bTdfl1Q9hhGlsDGe6qLUyDkKgj4c/bQ2TmcplW479Uane8e+1v0j0WOlWaQIsQgfI+FCsSe8UXMZrCQNSHD6GAExVKWchRtZ5ywlU+wFckYphnGhUgvm9oWSLTnn7cf6tx4uoseo1Ew3zeytqlqZU+YA8gtetMjlLl7L/Fs3Zs9ckg4SicuQVYbOd3dMr17Q9sHaeOStTTSPk9MeN5wdb+VQphBLJfMPdE+gtXUq3I05VHw==;sQ2le/9NyoKTgUbXYZVeww=="
 ---

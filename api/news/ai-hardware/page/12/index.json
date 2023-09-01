@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-01-nvidia-soars-to-1-trillion-market-cap-on-the-back-of-ai-hype.md",
+      "title": "Nvidia Soars to $1 Trillion Market Cap on the Back of AI Hype",
+      "excerpt": "Just last week, Nvidia’s stock rose a startling 26 percent, after the company unveiled better-than-expected quarterly earnings that were tied to its central role in the ongoing “AI revolution.”",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
+      "originalUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25336e482c69c6b8923398c39836f0dc.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
       "title": "LG teams Up with Canadian startup for AI chip development",
       "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
@@ -1402,58 +1454,6 @@
       "ampWebUrl": "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
       "publishedDateTime": "2023-05-25T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
-      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
-      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-610305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "publishedDateTime": "2023-05-25T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
