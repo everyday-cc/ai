@@ -128,6 +128,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
+    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
+    publishedDateTime: 2023-09-01T17:39:00Z
+    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google Introduces New Ai Chip And Enhanced Tools For Enterprise Ai Solutions"
     excerpt: "At the Google Next conference held in San Francisco, a range of new artificial intelligence technologies and collaborations were introduced with a"
     publishedDateTime: 2023-08-30T19:25:00Z

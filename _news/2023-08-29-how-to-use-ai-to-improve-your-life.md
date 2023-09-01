@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
+    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
+    publishedDateTime: 2023-09-01T16:18:00Z
+    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Prompt Engineering Boosted Via Are-You-Sure AI Self-Reflective Self-Improvement Techniques That Greatly Improve Generative AI Answers"
     excerpt: "Digging Into AI Self-Reflection And AI Self-Improvement Let’s start by identifying the very important precept that the words that you use and the sequencing of those words make a huge difference when it comes to the nature of your prompts and how the ..."
     publishedDateTime: 2023-08-30T11:02:00Z

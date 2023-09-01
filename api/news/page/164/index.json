@@ -2,6 +2,135 @@
   "page": 164,
   "value": [
     {
+      "path": "_news/2023-05-16-indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image.md",
+      "title": "Indigenous man condemns voice no campaign leaders for wrongly using his image",
+      "excerpt": "No voice leader Warren Mundine has stood by his campaign’s ... “It appears that some people have been misled into saying things on camera about constitutional recognition by the no campaign,” she told Guardian Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b52a01948f02b67d0216a95746a1b30bf00c5d9/603_557_321_193/master/321.jpg?width=620&quality=85&auto=format&fit=max&s=db4c22182af276aaec6ddecfbde03772",
+          "width": 620,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "publishedDateTime": "2023-05-16T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-baidu-nasdaqbaidu-q1-earnings-today-what-to-expect.md",
+      "title": "Baidu (NASDAQ:Baidu) Q1 Earnings Today: What to Expect",
+      "excerpt": "Additionally, Baidu’s Apollo Go Robotaxi service offerings (a self-driving ride-hailing platform) in key cities, including Beijing and Wuhan, are likely to have driven revenues in the to-be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-nasdaq:baidu-q1-earnings-today:-what-to-expect",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-nasdaq:baidu-q1-earnings-today:-what-to-expect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-amazon-plans-to-use-robots-ai-to-speed-up-deliveries.md",
+      "title": "Amazon plans to use robots, AI to speed up deliveries",
+      "excerpt": "Approximately 75 percent of Amazon customer orders involve the use of robotics to some extent.. Amazon plans to use robots, AI to speed up deliveries. AI, Amazon, delivery, logistics, robotics, Robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
+      "originalUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itp.net/cloud/2023/01/05/Amazon.jpeg",
+          "width": 1726,
+          "height": 1214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-infineon-acquires-swedish-machine-learning-startup.md",
       "title": "Infineon Acquires Swedish Machine Learning Startup",
       "excerpt": "By Mauro Orru Infineon Technologies said it acquired Stockholm-based startup Imagimob AB in a deal that bolsters the German chip maker's standing in",
@@ -1059,152 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030.md",
-      "title": "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030",
-      "excerpt": "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-house-call-artificial-intelligence-in-healthcare.md",
-      "title": "House Call: artificial intelligence in healthcare",
-      "excerpt": "BALTIMORE (WBFF) — Artificial intelligence has been making headlines ... a general and bariatric surgeon at GBMC Healthcare, joins the morning show.",
-      "sourceUrl": null,
-      "webUrl": "https://foxbaltimore.com/morning/house-call-artificial-intelligence-in-healthcare",
-      "originalUrl": "https://foxbaltimore.com/morning/house-call-artificial-intelligence-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://foxbaltimore.com/resources/media/adc330ef-074c-409e-bc78-9b6639329e1d-large16x9_GettyImages1324245317.jpg?1659562541259",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://foxbaltimore.com/amp/morning/house-call-artificial-intelligence-in-healthcare",
-      "cdnAmpWebUrl": "https://foxbaltimore-com.cdn.ampproject.org/c/s/foxbaltimore.com/amp/morning/house-call-artificial-intelligence-in-healthcare",
-      "publishedDateTime": "2023-05-15T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "foxbaltimore",
-        "domain": "foxbaltimore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
-      "title": "Demand forecasting at Getir built with Amazon Forecast",
-      "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/demand-forecasting-getir.jpg",
-          "width": 1071,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T10:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

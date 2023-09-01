@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Elevating the generative AI experience: Introducing streaming support in Amazon SageMaker hosting"
+    excerpt: "We’re excited to announce the availability of response streaming through Amazon SageMaker real-time inference. Now you can continuously stream inference responses back to the client when using SageMaker real-time inference to help you build interactive experiences for generative AI applications such"
+    publishedDateTime: 2023-09-01T16:53:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-15289-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The US Copyright Office just took a big step toward new rules for generative AI"
     excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
     publishedDateTime: 2023-08-30T21:02:00Z
@@ -108,22 +122,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 54
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Machine Learning and Deep Learning in addition to Quantum Computing, we're able to develop cutting-edge use cases and help customers offload their software development and testing to focus on their core business objectives,\" said Pranay Prakash ..."
-    publishedDateTime: 2023-08-29T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34097897/qubrid-announces-quantum-computing-consulting-and-professional-services-for-generative-ai-and-mach"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097897"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097897"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
     excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
     publishedDateTime: 2023-08-31T16:15:00Z

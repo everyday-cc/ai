@@ -37,22 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
-  - title: "Tijani’s Artificial Intelligence strategy for nation-building"
-    excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
-    publishedDateTime: 2023-08-30T22:13:00Z
-    webUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/"
-    ampWebUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/20210018/Bosun-Tijani.jpg"
-        width: 710
-        height: 451
-        isCached: true
   - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
     publishedDateTime: 2023-08-28T23:52:00Z
@@ -99,6 +83,20 @@ related:
       name: acm.org
       domain: acm.org
     quality: 36
+  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
+    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
+    publishedDateTime: 2023-09-01T12:56:00Z
+    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 27
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
+        width: 775
+        height: 430
+        isCached: true
   - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
     excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
     publishedDateTime: 2023-08-30T09:31:00Z

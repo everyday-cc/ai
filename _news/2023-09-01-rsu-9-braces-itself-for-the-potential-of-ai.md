@@ -39,6 +39,20 @@ related:
         width: 619
         height: 376
         isCached: true
+  - title: "Unlocking the Potential: 3 Things to Know About Generative AI as a Partner for Today’s Legal Teams"
+    excerpt: "Legal technology providers, from e-discovery to legal research, are developing products that start with secure generative AI platforms like Microsoft Azure OpenAI and then use their own data to “tune” it to better reflect the nuances of legal work."
+    publishedDateTime: 2023-08-29T13:53:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/29/unlocking-the-potential-3-things-to-know-about-generative-ai-as-a-partner-for-todays-legal-teams/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 25
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Artificial-Intelligence-09-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "H6EwTW4KPSdOTNKHrdzscmetZ9qeYZsgQTmnJKCCuHoCJxLjmYphA1Plex/Z+9KvRnZSPFSc3DBU74RqIoSpEyvE2ZiO7V69o1TwOTADPkvCqxI3lzHgMPn4yhFqPyBEBK/kXgbPw56FP28/3s+59Bcye18h2qXfcfktgaQxODP8SwfAZiTf/MjolP9tZtFNFje+Js+Vld76vzaXEOuTziFaqsnGhLdegZM4b8KDa2Uewpnr0SZyvkwOFCsmzZrj4VKTXLmNbcLfQEnPd/bBvF2YobsdYInBa4ycyuq+wJa/iACV6YqVdOD11cM6VeWisGqbXUOlykZLiF4NestYnUIjMdaz2cRuYTD5tA9gVAfF/x+zl422+F7LbyM6ZndcvFPEMG4h4gqSTyMpBnEL6EpLruGDgFlRYGqThVAhnpx2DLkq4z9t7G4IQAZUZWdovMi76eZA+2QQUNuvMxM54f1yXhTLDNIZNoY/EHs4VyrywFlCVTEVtqChnlM3Appn0lxKhFWWv4xj115pL3m/rw==;sSyDpw/URrf2sJruA79LAg=="
 ---

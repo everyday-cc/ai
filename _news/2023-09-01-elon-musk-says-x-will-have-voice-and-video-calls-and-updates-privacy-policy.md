@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
-    excerpt: "Elon Musk says his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform"
-    publishedDateTime: 2023-08-31T18:17:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+  - title: "X’s privacy policy confirms it will use public data to train AI models"
+    excerpt: "X's recently updated privacy policy informed its users it would now collect biometric data as well as users' job and education history, Bloomberg spotted"
+    publishedDateTime: 2023-09-01T17:35:00Z
+    webUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_993989ae98eb7fa99ecd1654bf2aa235_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk says X will have voice and video calls"
-    excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"
-    publishedDateTime: 2023-08-31T18:30:00Z
-    webUrl: "https://www.staradvertiser.com/2023/08/31/breaking-news/elon-musk-says-x-will-have-voice-and-video-calls/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 4
 
 secured: "tLn2rKAO6cpSR5N7fl3vH8QoVi2figuMtWgb5YQ2Zm1qQwVqhBaahht7H1ljlw4c4o/dGtTya5ozSGNKEVG8PIPTsnfIWZBOUIM3zrxGb8lnUjtqrtK1HH+fGPkv96vWvD8gr6Ea1F2VuIej4lBji3h7MvYh9PAnV1dqtidOsm9NAnSsOb06URsZ8/BbrcQ9vHfTA3w483A2/FMLQrj6T8nqhZp5lJS4AtieMfvDCsB6j9V48uHRcjS8mtXdxqPjEREBqY6kv7aKYgx08+LSVC2hbD3EKkJ/T0mW3HRr90kPKMauGyAkA3/tlaxXeh+TD788X09xwcmNgBAmARf8fQqyMYyInLlv1jwqLNyy7io=;P+Uxo9xRqs00q+YsrMMCMQ=="
 ---

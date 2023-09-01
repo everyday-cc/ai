@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Learn more about our consulting and professional services here."
+    publishedDateTime: 2023-08-29T20:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
+        width: 400
+        height: 342
+        isCached: true
 
 secured: "2naxwHHqxG7nuNgr4QqYKOTcH75WJNdpGTSaTSmRRy2BvcxqVG0m/YkX6b1vD2qQz7csEszWsTK5ThSGUE1Bf7bPfviNR0iNU5iJmWvx678H41vXV8qmnAshifGiV+mzATKHjl5nv/hHIHvzJFkRlhhmf9pcJR63IPb2/sd8dvLll3fpakTHndZJOc4oBZrxNVcz0P44A1sttbFqWyQV8OSDKTuumrHHIfsGvlYv2tVZkdCPYt4gFaMqeFMYz3HP+OEgr8ZI6Ql5bqNfS7+rP8d3o+Cbiir8xIdCay/+mpk2Pkdl8QoiUXhd5BOuXsjfDjr2w55aLYrWVV9HVoyfw+xa19fjwBeV1PMV1jLTJPs=;PF0AsktOX1igYvmH9I16pg=="
 ---

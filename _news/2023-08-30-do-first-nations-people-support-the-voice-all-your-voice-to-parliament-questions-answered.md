@@ -78,6 +78,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Kim Beazley wants Australians to vote Yes for an Indigenous voice to parliament to show respect"
+    excerpt: "Kim Beazley remembers Indigenous boys and girls forcibly separated from their parents coming to the family home in Perth for a meal in 1950s and 60s, and shaping his belief in the ­dignity, opportunities and rights that should be afforded to the First Australians."
+    publishedDateTime: 2023-09-01T17:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/kim-beazley-wants-australians-to-vote-yes-for-an-indigenous-voice-to-parliament-to-show-respect/news-story/ceb18a4047e7aadfb17b764a5c700796"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "aCC1FcoXZUfvzq5ewPSQ42naLCmysKf17pCRNParT9e04cEixfhMZf3eNty7hA91otdCUt80wFe1pwD44+gTRrzHSUycqlljijsSfiOXuBidIxAvdzPokiKoOaL3/8D8g6/FWwA0zkkaKpOcRg0Axx4SEsaK1gJxKKF51sKAIRDJKTDpXJAbwWimGc2gxbrpYF8O0kqCYwIDlBRKwPnXwqvbTyCvXePjTXN4b1eGAIu9nJ4yBsIIcu8mWSGbP6DvMmMk1f3Jkf5qlkeic9wQWspw24S/NyuylTa9lrOSSoHyO2SxF5DEf/JpKBi+XZO27+zSOycFqUSK3mSWFQC40hfa8lq5TtEHcue/rPdiilY=;Imu64ojiOntR6tr8AvWtBw=="
 ---

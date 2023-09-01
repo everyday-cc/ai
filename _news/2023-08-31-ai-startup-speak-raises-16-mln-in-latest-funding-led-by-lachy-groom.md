@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-la
 webUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

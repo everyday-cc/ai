@@ -7,7 +7,7 @@ originalUrl: "https://news.ucsc.edu/2023/08/deep-learning-earthquakes.html"
 webUrl: "https://news.ucsc.edu/2023/08/deep-learning-earthquakes.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 350
     height: 393
     isCached: true
+
+related:
+  - title: "Seismologists use deep learning to forecast earthquakes"
+    excerpt: "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ..."
+    publishedDateTime: 2023-09-01T17:21:00Z
+    webUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html"
+    ampWebUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg"
+        width: 2128
+        height: 1022
+        isCached: true
 
 secured: "9gCJK/dLLizENz/NiijImmVokNMByGjLcAi9cAA6GYc6rYjsB7stkM5UeGX+N0BZros+p+vyXY5zKnCfzQuWJn/178f+HEPNaLr/CYVTZ/4YdMmNKTrqIar7X+db/UpccFIr8VTYZfylP1xdBckb7Zp0SV71/7MaNms37bGpCgeyE8B4t9YKmyZE2hynB8/iQqExDnw2UZqqv6+6zsjMN6eKJ2KLl6j4oiAKAEPQDSHKN2nnNfZpHbOy4eF3joLRAROXNMHB2tx8P3vnsum94iQSlEKLnohoY4FwhbJ3VhPlcHINfdcv7NgY2qMLSwQDLIdCRSXfj33mvF+Vun0224CZ6YNoTovWrV5Jpik1GrrPF3TKQLRoIGkbZX04KiUdvs8NhazeEmIyJ+F9Jm7S0VvwNpPnz6sfYybrDt1E0yyphepASSyqtXoV4vn+QsGTkbeeTTzf2yYmbbXzu3pxnIdTUZuCH3s4dxTLl2jFEivhSAVepu9f4tIDEZa3drdD9+FI8i+q0FtJ3ycs08YP4g==;/JdmOWc1MPn1grZustvUjQ=="
 ---

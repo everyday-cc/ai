@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud giants eye a potential windfall in AI at the network edge"
-    excerpt: "Oracle Corp.’s Roving Edge Infrastructure, a ruggedized, portable and scalable cloud-compatible server node that the company introduced in 2021, has since been outfitted with graphics processing units for processing of AI workloads without network connectivity. Oracle declined to comment for this article."
-    publishedDateTime: 2023-08-28T00:08:00Z
-    webUrl: "https://siliconangle.com/2023/08/27/cloud-giants-eye-potential-windfall-ai-network-edge/"
+  - title: "RSU 9 braces itself for the potential of AI"
+    excerpt: "Regional School Unit 9 board of directors, as well as administration, are preparing themselves for the upcoming school year and the potential of assignments completely written by AI programs like ChatGPT."
+    publishedDateTime: 2023-08-31T22:00:00Z
+    webUrl: "https://www.sunjournal.com/2023/08/31/rsu-9-braces-itself-for-the-potential-of-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Sun Journal
+      domain: sunjournal.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/data-globalization-hand-finger-business-world-network-edge-computing-intelligence.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.sunjournal.com/wp-content/uploads/sites/11/2023/08/367975506_282606517823016_6147497881948963180_n-1693481258.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Industry weighs potential of AI-designed watches"
+    excerpt: "Industry weighs potential of AI-designed watches on linkedin (opens in a new window)"
+    publishedDateTime: 2023-09-01T03:00:00Z
+    webUrl: "https://www.ft.com/content/1891d9ae-3ef5-4907-a66b-9174f35a1584"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
         isCached: true
 
 secured: "yWdJiunGLpN6w/pY02YHO0Kd6W86kZKZlClZeHScmyZUY7WZemxDq2RVvnbvsWvjNC2sLqZRbcdfNp2S+kvP3/f/nS3YnMBWIE/ZElZEdlKj0KbNFhsMWEcbKfl6A0mxdHLCdRdzjfeWAxFZotp8DNuh9/KAen6EfnmW4yJtUMKTBGQHV+0QFwv9zR8VFw6i/4RCPUZuy506ekrfB59AYuoak9KG8HYNnqBNHe2d6/rWVEI69AuB63JntJrmShobEGDOu3jNmdTc+iS7mGT7boajB+FALxvV/sk6tOEa4Rbp81jah6mRV9DmQd3V+i0yXNh+ymxAoeazKu4kbyL3yM0zSDZSYuQfQ9tkaPJoamc=;9LfaX5CqbdNST0CUcDW/xA=="

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dell Stock Is Soaring. AI Is Helping"
+    excerpt: "Shares of Dell jumped Friday, rising more than 20% in recent trading. Street-beating quarterly per-share earnings and revenue, reported last night, helped, but enthusiasm about the outlook for AI-related business fanned the flames."
+    publishedDateTime: 2023-09-01T15:54:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-09-01-2023/card/dell-stock-is-soaring-ai-is-helping-y1NvIpFqWFkcAx2Grkl4"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-845886?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "AI’s Share Of US Startup Funding Doubled In 2023"
     excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
     publishedDateTime: 2023-08-29T13:00:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI"
+    excerpt: "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ..."
+    publishedDateTime: 2023-09-01T17:16:00Z
+    webUrl: "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1608618399.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IPVu9Or+DYQBWhR8xDcb+vVQQz+kdr/FgtEVda1FB94qNC1Jk9628KdHJVfQDnEigOjq3420FWEdexVUZg5pyWHGbU3wxMlEn7o2mPxNNHMNcLk88IaGtH8T/T3oIL7TP9VPYgEid6EnHbLgsKhVrowyqjwSgUkXHO+pa/hjWGtW6ohyv4f32IRrCKGGqzpjm9wkPb4yYIlcLZvdcOSV3IV5ft5UOdPokLc8rng++p6sxY/VOYev0RjRdnL9YCvheAHgElFfsptl/Qv8FO93P3PyqoDvwlbRoDPHVcjfsnHiB/D+phlItETwhdpva1x8eMUgPoiu6JgGR3DoFWp3Ufjqhf6Bye7nHxj1kTXIz+GY0E+4jbo1alvBjp8WFkwTrEN+MqpIYY7SniuJnvDvKg1iWOPkNaU2nMSJmu3iIHyA3ke4zYvaPnV2ze18WEW64afMhm7B+rS4s1Xc/W6lGkUGFBiyef+MdIz9qLC2qdk0xvZkiinCdE923dKNM2O4Rih7+IPm1+/eapYROP1IIg==;qrZUynpALDh+oPGKqK+/gA=="
 ---

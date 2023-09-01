@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chi
 webUrl: "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Chinese robot waiters fuel Korean anxiety over labour shortages"
-    excerpt: "An influx of cheap Chinese robot waiters has provoked anxiety in South Korea, as Seoul wrestles with a declining population and intensifying competition from Chinese tech companies."
-    publishedDateTime: 2023-08-27T23:09:00Z
-    webUrl: "https://www.nzherald.co.nz/business/chinese-robot-waiters-fuel-korean-anxiety-over-labour-shortages/XWCMJJ4WKZGLNOZ6C5UHHXJ4RA/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 54
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/mKbbBsOTcuPU-EwF2WlH8DmKKjY=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/MQ3W2U22KVHMJMKSXR5LYJUPEE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "DsRCAXVk5oKKEonzbMN53dC/xCR0Ehjqw4q74J+H4tJRy9nfft6J34uqeN83qd0gHBQAgq43EkYjSLerHQlSs+ldivZNYSqJC0/DjhTOG2nPJxWDae77INsgD7MyXQ8WfP5a5NvKAxwKXYoaj3kqmYwc5im6ZwvLtl3In51nkpkTKPgMSIkeQuvxt/0Sxv1vw0YpStjP0fWZQclavDYn6ypsZY4mlo3xhRcoFQZUrKrahdlNNv5f0qZhJJPsXbwkgq6KWFql/HiIqW+bHrRQuq+/V4h8YkDgD13sEvcNREaBE9hoHPYtC5p3uy52J8oz44lWjwCwMSgED+HWzyueBOIPDO+PWfZ5FEFVBAc6ftA4my+xcNWttt5cMzM/qLTEsyxtRMC5HBEXAT1Ap8x2hX0Sk1dAU2TmifOBm47q6mQrq3Yn9Xd7Vh73wpiH/LbkNxvda16qzXW30uMUN0Y8z03LMTia16ehUoDKEJi9pOUkIKqE8zfNMMZIoMORzpCwBk9hf5l0r4Y0S7AzuEtJDw==;Hn1ZQivOiU7j5f7PvIqfrQ=="
 ---

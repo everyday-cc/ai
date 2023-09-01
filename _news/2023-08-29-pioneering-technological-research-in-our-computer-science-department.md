@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "AMD Deepens Cloud Security Collaboration: Open Sources Its EPYC Processor-based Confidential Computing Tech"
+    excerpt: "Oracle Compute Infrastructure (OCI) provides its customers a high assurance of data control as customers transition their workloads to the cloud while delivering the modern security features and impressive performance of the EPYC CPU-powered of the OCI E3 and E4-based Confidential VMs."
+    publishedDateTime: 2023-09-01T15:25:00Z
+    webUrl: "https://www.datanami.com/this-just-in/amd-deepens-cloud-security-collaboration-open-sources-its-epyc-processor-based-confidential-computing-tech/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "AMD shares tech behind confidential computing in the cloud"
     excerpt: "AMD has published the source code for AMD Secure Encrypted Virtualization (SEV) technology, the backbone of AMD EPYCTM processor-based confidential computing virtual machines (VMs) available from cloud service providers including Amazon Web Services (AWS),"
     publishedDateTime: 2023-08-31T09:29:00Z

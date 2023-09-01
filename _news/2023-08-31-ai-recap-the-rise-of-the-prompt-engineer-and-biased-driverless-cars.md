@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-
 webUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/"
 type: article
 quality: 56
-heat: 77
+heat: 76
 published: true
 
 provider:

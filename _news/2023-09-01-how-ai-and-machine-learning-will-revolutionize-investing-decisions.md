@@ -73,6 +73,20 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 34
+  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
+    excerpt: "Learn more about our consulting and professional services here."
+    publishedDateTime: 2023-08-29T20:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
+        width: 400
+        height: 342
+        isCached: true
 
 secured: "plObk49hzwJauJUbaW3kX3xBsjkLIJMfP582N2GB8fEgoU2mqP+2UAqs+ryO8TEHfocsJquyRzFDGvEQJywY5NhCZcmGJ3JhKma4NuEwXinMzBX8pF/nU6Ag0DB+eZcWB5vnEMom5sauX6eIAQiw5ZDutNFajAJkdMsK4K4v3xT787Sli6srkDkJxuE0/7yT670h86Ph6z/1GbDHbdR7Xgm3S5iT1x+lWj89idUwWLShbk0Zb1Qhgi7TQnuZJ/6/3dSCFHx4sYH3X09q9nVRpHioEmibhqwjmRyz53HOXeQ8iR3KyL/zqmyQ5dE8UQc2/UE6ZQMpMIM6LA7OUSc/MAXuxSlHEeEAIgs6SQEfret8fXtZ366pxLY9fJ8eWyLswe/hg9Z+c/Qz+nDIpsvPqeMAb9s4GA8bEiTnTVdK/NMR+n4kBG3rw6JM9Ze3Q+iLXlw68QaULERG+FYnMzFgEqCRlj8WSroJodVjfZdwDCCazaAEnV09Wpfj/pZ+J6V9Uw/v4k9SzAT8RnBoWICCcA==;iES4EuXLRLPIJTIxHpXFag=="
 ---

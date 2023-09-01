@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kaspersky: Cyber Immunity key to secure the future with AI"
-    excerpt: "Global cybersecurity company’s 9th Cybersecurity Weekend probes into how AI will disrupt the world and how experts can set secure directives for a safer tomorrow Can AI outsmart humans? Is ChatGPT the beginning of our Doomsday?"
-    publishedDateTime: 2023-08-27T23:54:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3375150"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 39
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/Adrain-Hia-a6702b72.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "AbfTglUu4vh+z6k6NMNWbV9XC5/KICq78N+jltQtgcdObqU/RVcQdFaSxkjegS5y7SDpKXUEDvZssWCt4rNyZeYQv7wE6kPg2ygQSsn8BoSIJcAlL8+/POLx2LicSNQlKiOLw83OHynVrSRYcCbOlYzgyXtF5kkG0lS7cZsweb4ty9PgdPRn5jGu5zliVlp8QWZSrePizyqn8neqCQQo/3Saahq6RutUtnWQ1trWk+6PM3juKV5pDEDW4hqE9cNoB5djqizLO3RT59DYe52mPPthAF/w+pjzr3yf4JDSOb4JHnpoymwzm84fG8GaLRu23D7cNhkVtI1druYnEbraRsDljkyDlYpfKXR8FX7JHVgQg9HdnQ7emIJk7efWAjQ41OVAo6GyXVKCvQs+4H/fvwtyauUyNMf1prMYe79hh1E0I1llSXlNWENWhwrJs4tzTBPjz4fRUPbbZYN4tJO9rOKNwhZJx+4Nhvhwst9HzQBUqgAmber2MLuWXbeLaWfvs05AU3btHyNi6A3BtB90Kg==;m8sLERBoCvsaF/cMclSP0w=="
 ---

@@ -36,16 +36,7 @@ related:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
     quality: 4
-  - title: "Elon Musk says X will have voice and video calls and updates privacy policy"
-    excerpt: "The company also updated its privacy policies that will allow for the collection of biometric data and employment history, among other information."
-    publishedDateTime: 2023-08-31T18:44:00Z
-    webUrl: "https://www.cumnockchronicle.com/news/national/23759979.elon-musk-says-x-will-voice-video-calls-updates-privacy-policy/"
-    type: article
-    provider:
-      name: cumnockchronicle.com
-      domain: cumnockchronicle.com
-    quality: 2
 
-secured: "4IdL4HHZP9PS/7r3+AN/Xf63wHN1VTB0ToheGSJqqEa8j4727iILzDsiI/meJVR3GFrzeO7k9BRukcjbTDgjE/agSUquAtq/HZqMzsVxbMN4a3f9sSaFjSFSNZdYwDrwR5cO8BKPptnPGPkfzCHYqEMf9ggL7jsQqWXPpXnTUmo/guuVkN0ExGURdRK4GPmgh+6pTJVPrWemqLCeWDFjzZom92JtpZE8/C7o350oN17vtOPknniI9dxIpNhrR74r1HkF/ih2qW1P+oAxHheToavBnij9Q/7vwELiY/G5eqUXqBaWcQHxPuRp7FE69UDE7GGKhWIsQjawpj2SMKAtKmFKlPPnaY0WnFlC+gO5lps=;p3NP9JmwjGWfkmJQRwWbbA=="
+secured: "c3oNl9kjPeCcUQQ3E5AypUypThouM6SgP0+EQB/HI3ekL+cbWj1WbsUrbZJ8qPpE7LK3M1kTogqmmr7IJRefk8AafbtO5YKm1YyoIima4RXmTN5Ik2oLaPbnia2+opo1uH93tYAmWE62Zs4AdD/b3uY9T3Dw/QcWZMG+MKj3AlJ4hN/2Bw7gHWbRAT1166QSEfjG1+p1+raGp6Qa210773Cb1qxByan1xIbfE7bS8I4+GreXMBOQzqJMeWxA4Kz78lyev74bzeu3jqqkejv/DT1s/hoVOZaJjINB7po3wfB1OvXywwxzMc2ZkhWDxmZzcM7cSl3oB/9zHqj6CCne0vA9CJXjiy30D9Wf7Pu09wpp0/eKki86PoTOu4751j5y8DM/N8u926GyZK6AuyFSgIR7YClRCtB9iLrEi28RST1Pb+Yl81MdHvRjDzDmfz0uYvf4rWMAItqErv6gq9cwflUkczpbUS/mt1TOwhDcKHE6UWyY/wZLaovvs/1VQzlaDqYN0VWoghpDGb0zGS/hWA==;+OW4UlS+ORnwucpVdDnJ5Q=="
 ---
 

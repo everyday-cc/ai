@@ -50,20 +50,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 59
-  - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
-    excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
-    publishedDateTime: 2023-08-28T01:08:00Z
-    webUrl: "https://thethaiger.com/world/news/1412/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/luca-bravo-TaCk3NspYe0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "ESpzeRazPOP6mQRPQd9FvwIOvwcdkcuDOQhtYdbzyDFHzXo++ojW50zhZawtZXHNAZ2578hj5Lwi1BBMwfCwhITF5nDQrUOVJGf37MOdeBBbj2A0QUg78TZR0lcviNVMdsbXeNTORPT7XGI0ukDL74k0uOMU0AgQZAlYKx3UjHVxuddVw7x3I+1D3pCdHBVmiILSPGxHp9bVrOozZaS27bq1Si1Z7HVfD8kPJnX7JC1TQTiiXaBA2XBeTw+TA/ooJlB8M5frjYkL9BLADP0Pqhia+MvLm19iyNutEkPXJOV5UCNC8ju+oX/e37zrDs0v8h+aDUngAaFpB5EfPwTyPVNxmCWz2JPMpaJqLAnENFk=;h5UbK7GspoZqkbXjG7f4Hg=="
 ---

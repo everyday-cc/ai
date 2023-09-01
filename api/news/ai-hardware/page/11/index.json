@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-06-08-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold",
+      "excerpt": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold SAN FRANCISCO (AP) — The hottest thing in technology is an unprepossessing sliver of silicon closely related ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
       "title": "AI chips: Here's what they are, what they're for and why investors see gold",
       "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed",
@@ -1331,49 +1374,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
-      "title": "LG teams Up with Canadian startup for AI chip development",
-      "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/05/lg-logo-1685541471.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "publishedDateTime": "2023-05-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

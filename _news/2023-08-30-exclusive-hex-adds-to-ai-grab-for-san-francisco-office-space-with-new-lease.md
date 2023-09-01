@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 59
-  - title: "San Francisco’s autonomous taxis face backlash amid safety and job concerns"
-    excerpt: "As San Francisco's streets buzz with driverless cabs, this article explores the growing tension between supporters of autonomous vehicle innovation and those voicing safety and job security concerns."
-    publishedDateTime: 2023-08-28T01:08:00Z
-    webUrl: "https://thethaiger.com/world/news/1412/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/luca-bravo-TaCk3NspYe0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "San Francisco, not Boston, has emerged as a hub for self-driving cars. Maybe we’re fine with that."
     excerpt: "“They’re flooding the streets now,” she said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous vehicles sat parked in a staging area in San Francisco. (Justin ..."
     publishedDateTime: 2023-08-29T17:01:00Z
