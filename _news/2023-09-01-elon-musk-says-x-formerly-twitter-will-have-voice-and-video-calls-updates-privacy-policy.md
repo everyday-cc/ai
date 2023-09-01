@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
-excerpt: "Rival social platforms already offer voice and video calls. Meta, which owns Facebook, WhatsApp and Instagram, introduced voice and video calls on Messenger in 2015. Snapchat added them in 2016. X did not immediately respond to a request for more details on the new features or when they will be available."
-publishedDateTime: 2023-08-31T22:59:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
-webUrl: "https://www.houstonchronicle.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
+excerpt: "Elon Musk says his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform"
+publishedDateTime: 2023-08-31T18:22:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
+webUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
 type: article
-quality: 0
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Business/wirestory_993989ae98eb7fa99ecd1654bf2aa235_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Elon Musk says X will have voice and video calls"
@@ -38,6 +46,6 @@ related:
       domain: cumnockchronicle.com
     quality: 2
 
-secured: "lHqgVrAP2GY4A6N21QIUtldFiX2ePw5Z5opLiSPiiARpBXXMdANf3xbhrCVUtLbV3rMerlyNhWLgoTz+uMKDN7cDgf0SM1JJZ69QoEX6XGlh72hgSzY+KcsRWSQuus2NFKZ56FCsFUASigqcC9kaG9se40i6EvgfgU0iSWIuGZhSg75zkC+l1+kVPqhz7EY973KoscJaUydlQyq43pDgyq0GA4CLx2WjfvRMOnA59xu8TKT/aRrLo2YiyiagR7dDJvFimgIxK5ffoi5TefNi1jbxxXGjpsbNNXpqQsGM6TuvPI99dKhpY91Sv/UsIPojy/y/kRYrwxKWH66Chyg/UtckSgKxf03MaDIOHsCm29mDxmoaExuBRU0vqlBC6ARfX8kFr+ubjOVHr/ert05ejJQ0DLWYI4QH3yy/Y8c9+lqK4bIZOeYENXfntgV/4QDY+0lTDAQw3X5meQPryvgJeveF7mEpwwI2svFm4pv7MmyE44Je+woZvt55+vAcyS2T7fiw5hXJfPbxmUY2MhCPyA==;0INhOqo06aRUU45CDx7Nng=="
+secured: "OLVbMNky8a0+7GUOaL0ioHj0+gbXeY/YBuwcECA7xsY9YcJpeJwafTKMdIs+3CtBS/VhWLSbij8T4Vq6J93d0uWloLbxanI3nzIZrF1U8hJrWajSgIcyiSuAAghxnRnrsr7ZBSVblcbuVU7DPEltN5Pd9QgF/SmBhgaRHyUl9OeCU7Dqx8ZNIvtc78BXlH7FPV9XHhIsC1Iqt+0btJ0lDgASO+9n+/YE+Kp1NO/qQF2JvgdvC+K9Bmjs1EmL40Sjgi96u6rn1T90vq5V27NVnPhoiiK7Y2G19Di4bKHhN7QvuLWHUCqu38tfVeuwAMs8z/55RJr9V0FrEtlA+e/S4hz7yjDrNBnaJTSd9Uyslzo=;2Sqsof/vgNFShF2awXNs5w=="
 ---
 

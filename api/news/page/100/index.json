@@ -2,6 +2,90 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-06-26-aspen-ideas-festival-2023-live-updates-former-google-ceo-eric-schmidt-to-discuss-ai.md",
+      "title": "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI",
+      "excerpt": "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
+      "originalUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230623-aspen-colorado-live-blog-cs-4a7c50.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/rcna90875",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875",
+      "publishedDateTime": "2023-06-26T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-geologists-use-artificial-intelligence-to-predict-landslides.md",
+      "title": "Geologists use artificial intelligence to predict landslides",
+      "excerpt": "A new technique developed by UCLA geologists that uses artificial intelligence to better predict where and why landslides may occur could bolster efforts to protect lives and property in some of the world's most disaster-prone areas.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
+      "originalUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ucla-geologists-are-us.jpg",
+          "width": 1920,
+          "height": 1082,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
+      "publishedDateTime": "2023-06-26T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-and-increased-machine-learning-capabilities-to-the-data.md",
       "title": "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
       "excerpt": "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
@@ -1097,92 +1181,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever.md",
-      "title": "3 Millionaire-Maker Robotics Stocks to Buy And Hold Forever",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For those that want a path to riches, jumping aboard innovative enterprises",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer.md",
-      "title": "Mining companies betting on autonomous technology to make dangerous jobs safer",
-      "excerpt": "Today, mining companies are employing everything from driverless haul trucks to remote-controlled and robotic drilling machines to remove human labour from some of their most hazardous operations. (THE CANADIAN PRESS/HO-Nutrien) Forget about the canary in the coal mine — experts say the day is coming when there won’t even be a need for a human.",
-      "sourceUrl": null,
-      "webUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
-      "originalUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudinary.jpbgdigital.com/dmlwdg4vj/image/fetch/w_1200,h_675/https://s3.amazonaws.com/socast-superdesk/media/20230625160640/1a5690ef-080a-45b8-b8da-4cc3c3c1d96c.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "battlefordsnow",
-        "domain": "battlefordsnow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

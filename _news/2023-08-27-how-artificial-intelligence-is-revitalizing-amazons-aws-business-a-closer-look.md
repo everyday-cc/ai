@@ -2,17 +2,17 @@
 category: news
 title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
 excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-publishedDateTime: 2023-08-27T16:44:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
+publishedDateTime: 2023-08-27T12:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look"
+webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
@@ -214,8 +214,8 @@ related:
     quality: 30
   - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
     excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T18:37:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
+    publishedDateTime: 2023-08-27T19:33:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
     type: article
     provider:
       name: The Globe and Mail
@@ -249,6 +249,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "KWOVl+s42UcGDkwwtJm9Rue+bdYGc46Mr1qHuuJir1E1rgL2lYt13VgPQCfhTb8sHVvEejuPObll1GUeeYtUBikh/e0NzGkYhbR9N2zOjylkue6Dc0go8uZGMZfExIzUUnuchzC1qbVVYw4IyQd/oqHkSfTHxaGHFYlx9zH+p+4Q1nZmemPc5lLN0qiE9gMa0ikVHT624atnwYxw3AIQRLACdeV9U+z1kKHiP0K+4tLHY+p8E0EOQ4nzVN0lG9xWTOTUK/4W7ynIzpwerBu9K+kqyeyu8fLoDELOw5T2N2ClJcVe+wxDxFUlKOvQWeLurIB2pzpbr4Gcnqktql5i/7iSmj7/aL+Jt/2LzyNr1V8=;dJyLeA0ETxp3K4ARcom5gw=="
+secured: "tcoDIpz5c9wUZLmJUhiui9tvC0T1tR5VmO2U93ML/htz2lqdnaa6uYoDodWcbLdmAneSt2Qe810b54JlxFX2cXT1l59DVcsy2ZWSV2c3iGMuIUvgWMK+VP2LMS21yezVwUrjdMKbYNLM7Ypwg9x8BY/T4FzBk1S7Ar/DyIIWopWKfH4fd4ebqGWOLf9Ax/o8qx6HgiJ6ATCCNVeEeyFDHfyYk2bjv4Jhje7cKNbcTDVX2THXkqNB88A7DzJRv/XpqOhSUQBQIBWyXKe+skgl2bIeUo/P0sdYlyHaE3k+GQ/nGAc9EsMw3S0NNyktqq5ztoHUiNzo9R3ovEB4GMD3W3xYGDKLUUe8uZ6ypjJsKnM=;Iyo7g9Kl6P4nN/7tAriwlw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

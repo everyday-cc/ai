@@ -56,6 +56,15 @@ related:
       name: Google
       domain: blog.google
     quality: 86
+  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
+    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
+    publishedDateTime: 2023-08-27T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 59
   - title: "Google courts businesses with ramped up cloud AI"
     excerpt: "Google on Tuesday said it was weaving artificial intelligence (AI) deeper into its cloud offerings as it vies for the business of firms keen to capitalize on the technology."
     publishedDateTime: 2023-08-29T20:14:00Z
@@ -210,17 +219,8 @@ related:
     quality: 30
   - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
     excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T16:44:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
-  - title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
-    excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-    publishedDateTime: 2023-08-27T18:37:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
+    publishedDateTime: 2023-08-27T19:33:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
     type: article
     provider:
       name: The Globe and Mail

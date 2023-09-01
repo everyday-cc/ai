@@ -1,27 +1,31 @@
 ---
 category: news
-title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
-excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
-publishedDateTime: 2023-08-31T15:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
-webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
+title: "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS"
+excerpt: "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making."
+publishedDateTime: 2023-08-31T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010"
+webUrl: "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010"
 type: article
-quality: 46
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
-    width: 630
-    height: 473
+  - url: "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg"
+    width: 400
+    height: 204
     isCached: true
 
 related:
@@ -102,6 +106,6 @@ related:
       domain: datanami.com
     quality: 15
 
-secured: "ja9vMQ84Olv04oqIDdZBHqoWxhizD77ZkAhBThFjeKlswWnfwUo3lsGDa6d1O3rXMW4KUDyTr245lYqXnezCSJcw6pF6vvLFOxkvWGSzEawMjDOdzohJPpmjO4iLzwVFLkI8koB8K45ZoRZwA0D4654J98mgaokoFpVdaU/GdMdmW0vKM3XBFyalWnt901ysDMV4gnOJC1fFZcK61h+oyx/qGsATK5kRu2meNaMdEOdHOafmJyUVB9rxMYe9PvsV8JMJlRTS0jiTT4CiA7CUxZfKpRNxH2GDHnhhuUESDoLM/w2x63rfGzO/EbWgG9oVmn7YpWmrGDv6XeHh9aDWgEzPnTfgaluihLHq32kWoijtFuizV81a3sIustHGlqkJvLXeLwgeGvr1CZ+OJXrRIBOK+Q3G9IteF7MaN5u/HCGndpEF4sw07MRj7FEw5H5ZHGIgGfhQfqNhaMi2o7mPvj8LxAAsyvaDV5ROk4VQb1WSbTS5V8AaFmce8TxsD/jUPTvDWXba36VOEyHdCef9kg==;D2y61nWgge41GRuCf7HHNA=="
+secured: "CEd9Buc3nfxwKQ80iZ3OKNzaGlL3mEXCH0a23tzSxnn/tU9IHG9Le32ToikloLm0AlncNQ5AKkEsrXx/zVleeuoMYyIOtvWe1mnAk7lL2VPErogwRAm7Dq8IF1epw/lSpKhpVI8VOshdno1CUsAPSWoBqc9FTu8bewPpG5wfj6sQO2IgRGmjbo5ZIsPvCWAOCi/FI24rqxlaJXUhXNXvesZ7JMZVyoe3sNwKAMWE9NM39gNoII7Gjr2jgrOfETvUTez57KpWlctJ2Y11rWp6HMFIAh4Rz/mCmBxEdqWrwd6LDFM2n4OnqQXX+ReFUdd9fcK/pGVOw532B4z81gWjzmzryp0BD/CF3LUz4BpXf3I=;yaoSEydN9YAevPpTbid4rg=="
 ---
 

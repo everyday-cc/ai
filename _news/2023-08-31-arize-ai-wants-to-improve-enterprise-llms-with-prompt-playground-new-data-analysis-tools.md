@@ -44,19 +44,19 @@ related:
         width: 1200
         height: 692
         isCached: true
-  - title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
-    excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
-    publishedDateTime: 2023-08-31T15:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
+  - title: "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS"
+    excerpt: "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making."
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
-        width: 630
-        height: 473
+      - url: "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg"
+        width: 400
+        height: 204
         isCached: true
   - title: "Using Algorithmic Privacy-Enhancing Technologies in Healthcare Analytics"
     excerpt: "Successful healthcare analytics efforts require stakeholders to prioritize data de-identification through the use of algorithmic privacy-enhancing technologies."

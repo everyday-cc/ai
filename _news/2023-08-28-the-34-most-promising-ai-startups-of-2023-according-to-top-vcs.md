@@ -39,7 +39,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 51
   - title: "AI’s Share Of US Startup Funding Doubled In 2023"
     excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
     publishedDateTime: 2023-08-29T13:00:00Z

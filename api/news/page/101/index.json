@@ -2,6 +2,92 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-06-25-3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever.md",
+      "title": "3 Millionaire-Maker Robotics Stocks to Buy And Hold Forever",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For those that want a path to riches, jumping aboard innovative enterprises",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer.md",
+      "title": "Mining companies betting on autonomous technology to make dangerous jobs safer",
+      "excerpt": "Today, mining companies are employing everything from driverless haul trucks to remote-controlled and robotic drilling machines to remove human labour from some of their most hazardous operations. (THE CANADIAN PRESS/HO-Nutrien) Forget about the canary in the coal mine — experts say the day is coming when there won’t even be a need for a human.",
+      "sourceUrl": null,
+      "webUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
+      "originalUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudinary.jpbgdigital.com/dmlwdg4vj/image/fetch/w_1200,h_675/https://s3.amazonaws.com/socast-superdesk/media/20230625160640/1a5690ef-080a-45b8-b8da-4cc3c3c1d96c.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "battlefordsnow",
+        "domain": "battlefordsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life.md",
       "title": "How ChatGPT and generative AI could bring the Star Trek holodeck to life",
       "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail.",
@@ -1041,110 +1127,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
-      "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
-      "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/serverless-ml-inference-endpoint.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:27:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-stunningmidjourney-update-wows-ai-artists-with-camera-like-feature.md",
-      "title": "“Stunning”—Midjourney update wows AI artists with camera-like feature",
-      "excerpt": "Similar to outpainting—an AI imagery technique introduced by OpenAI's DALL-E 2 in August 2022—Midjourney's zoom-out feature can take an existing AI-generated image and expand",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/midjourney_zoomout_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
-      "publishedDateTime": "2023-06-23T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

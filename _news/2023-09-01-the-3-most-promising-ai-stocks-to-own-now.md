@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-31T22:49:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
 type: article
-quality: 47
+quality: 51
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI in Robotics
 
 related:
   - title: "The 34 most promising AI startups of 2023, according to top VCs"

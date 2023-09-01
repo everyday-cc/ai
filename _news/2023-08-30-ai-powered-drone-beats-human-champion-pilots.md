@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI drone beats pro drone racers at their own game"
+    excerpt: "An AI drone has beaten pro drone racers at their own game in a world first that could have implications for other drone-related tasks such as search and rescue."
+    publishedDateTime: 2023-09-01T01:40:00Z
+    webUrl: "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/drone-race-AI.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "High-speed AI drone beats world-champion racers for the first time"
     excerpt: "Enlarge / A long-exposure image of an AI-trained autonomous UZH drone (the blue streak) that completed a lap a half-second ahead of the best time of a human pilot (the red streak)."
     publishedDateTime: 2023-08-31T17:06:00Z

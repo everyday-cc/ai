@@ -2,28 +2,26 @@
 category: news
 title: "IBM, Salesforce join forces in enterprise AI push"
 excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
-publishedDateTime: 2023-08-31T17:01:00Z
-originalUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
-webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
-ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
-cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+publishedDateTime: 2023-09-01T01:53:00Z
+originalUrl: "https://www.arnnet.com.au/article/708586/ibm-salesforce-join-forces-enterprise-ai-push/"
+webUrl: "https://www.arnnet.com.au/article/708586/ibm-salesforce-join-forces-enterprise-ai-push/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 800
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/ibm_dreamstime_2_1_1.jpg"
+    width: 505
+    height: 315
     isCached: true
 
 related:
@@ -110,6 +108,6 @@ related:
       domain: thestreet.com
     quality: 12
 
-secured: "US0cvOIG4Xmqg11a0rRddLDmM9Ud4qQ1oNkooo1+/kh02OWubrqdGrlWTF/qbirH1DzF9f+JYtPpXHC1A37D4GfsZdbV8cStZUG5koTnC/kr6CEzfGgDjeTqxKsqlHwqgtAfYkA2+ksIJoRI/9PSwvZbSXQxmuU5CCVhvTjXeyeNQHffqj7WJ71Pd0kKaGwkO49z1GzOZpe5enHQCbPfQqzODHvrGBFnSz9YJLifIpyklK+M6WUiTyEyJRMg3cz+CVPjhzBMveUivkGZEuc/NsZmPT9Sa9rYzEQUS35PBlUG+YlkjdDnUC1fJ1YAgJzTcfwMi4O9zUxEpUbbj+f+a5LN3QwC6S6LECDNmKZtqI84I9/6VX/kgQG8b2VHMPo2eedJyYm84DHiB+q6QiWU6SVj7nd6+uQW/RasDvwqSUEu2KthKPz24v5TJzniJBSjbiUtEsKTbhFbMRsPSX7TBMMbM9uC/Mfg292CCcXNT02bOnAP4vAim36QX79+SNbln4ZyQOgxStbU485A4fOIEg==;58z21ZZl+ag7ci9zRIfG6w=="
+secured: "myZv54Q42qdLIqpuQEat5ZxAsp9akETvO3cIOOAqylq4oydl1ktqUMYAaudedD5Apu8SBYXLrlGgV3ySAveQ6Pnffx5oQWhyQm9fIxCh/SCRZYUWYocToVbDaryvggpxNMU+V5spbMq2MshcPYu1W7v+u1F4GecbmcG6K7rIW0zSd78EWVYq+2Ul2G23t5nqC56GPFelrAmZewdZNPopkTGHGTsSWvbfGZiTYyz78M8QA5RMN6V7XLZtisq6kxaaQRp+zL73V2RUOL4tgSz1+9svn0o2X6X8eY9cRkIdmEJVlAb2jm8A9Yf9GwlAo5JKyGBF09QwXcUjf7g8p4xR1cBXWjcBn0h4wHjti9qSpIA=;91vvPEdeUFg0FitJhJiVFQ=="
 ---
 

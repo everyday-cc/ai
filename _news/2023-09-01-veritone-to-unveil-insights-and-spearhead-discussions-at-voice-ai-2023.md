@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Veritone to Unveil Insights and Spearhead Discussions at Voice & AI 2023"
-excerpt: "(NASDAQ: VERI), a leader in enterprise AI software and services, today announced it will attend the 2023 Voice & AI Conference, the premier event that brings together the global natural language and generative AI communities,"
+excerpt: "Leading AI innovator to drive dynamic dialogues and offer practical perspectives and case studies at the premier conference for natural language and generative AI, September 5-7, 2023 Veritone, Inc. (NASDAQ:VERI),"
 publishedDateTime: 2023-08-31T20:30:00Z
-originalUrl: "https://www.eagletribune.com/region/veritone-to-unveil-insights-and-spearhead-discussions-at-voice-ai-2023/article_3a0ea384-0918-5408-8171-dab431a385f7.html"
-webUrl: "https://www.eagletribune.com/region/veritone-to-unveil-insights-and-spearhead-discussions-at-voice-ai-2023/article_3a0ea384-0918-5408-8171-dab431a385f7.html"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/b34157361/veritone-to-unveil-insights-and-spearhead-discussions-at-voice-ai-2023"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/b34157361/veritone-to-unveil-insights-and-spearhead-discussions-at-voice-ai-2023"
+ampWebUrl: "https://www.benzinga.com/amp/content/34157361"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34157361"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/9/d7/9d7a0896-36a6-540e-8a57-9bac141d1685/64f0fd6c6b1b7.image.jpg?crop=1200%2C630%2C0%2C5&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "UXIrVsCVIw7W0wxmRTT7kGSRYuW6TYL8+KD1TD0lXod7pcnJ7tZHRCy2zCUpBNSsQ54S+SkmpmFpE8RaTvphsiSDy5MNsYaPj0F9rqwdR5OZCMqoejqU6XmiGlSiGSuzwe46/qrSRhPoLYlLvK84NBBZSdlw7dXYtzWlFlW0BdqUvJz45gbauTY+I7sVc3D0H896f1BD+lWnUB6o/1qXWOSOEWnGFt9yJX1ekXOgrJq4+NZ6LjQYycHyPseSOzYyAh7wlnMUROBsgHpm5Mtbrr5ncReuaSVKItsQEcTYkeVu8dSeLf2bm+sZivxcNRMqM+00f38c6J/3yR/nqhNPTeZXodIWQM0eNu0y0fImEDpHO9pxTgawLJtf7tVqoh5Bk+zj8zMQYT2I9Y4GY6/jX06x2ywKNXsO12X8laB1CzUYpV8w5y03CBEeQ6rZZ1Z3fkv2IViy0p+KWQhl7EuZklm+k0bNcTHSF/9CH9oeFYDrrbTswWoEjCWhCIt3Tu2kTQTo9bxa8+d68SYCj778jQ==;pOFSvUIS9M6umsBeHPbRjQ=="
+secured: "MrzKfTiSSULjNQ3jyAcZixThxVgrWttUs7hzSW98Kp0OSpTYQhBk313zL5lb9Hq29QQXyrSRcDTmfoOudeF8rZmW0CuoA6yhEhuwv0P0s98SUFmKwmhpTI2kDTn27+gfsNkeTO/7lPuvQC+xSJFQFW/pa3Jq56IV2BguOuZjmpMEDKP6byXY5Oo/aVeVJM9CVNJG9BdSpmEU1zUspwVWEAGwA6j9cD4TONC9fTN6BQtZLvdb01zQFosVeR/XRKUk56ETtLo8SbH0xlCVK9Yc+AOSkN+xqlWhLC6opLPwq4uDv1e/6Y/ygOU4HrwkZb/+EUB1LiSo0YwkE26Fz1KRK9ot/98MTvZScIebaKZ40js=;y+TMhEpx+jdHi+DmaWRefA=="
 ---
 

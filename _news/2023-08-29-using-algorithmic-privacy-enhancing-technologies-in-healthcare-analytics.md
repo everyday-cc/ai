@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 692
         isCached: true
+  - title: "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS"
+    excerpt: "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making."
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg"
+        width: 400
+        height: 204
+        isCached: true
   - title: "Arize AI wants to improve enterprise LLMs with ‘Prompt Playground,’ new data analysis tools"
     excerpt: "Arize’s new platform called the Prompt Playground, enables teams to uncover poor performing prompt templates and iterate on them in realtime."
     publishedDateTime: 2023-08-30T21:15:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_childrens_playground_in_the_city__robot_children_play_ff8b8f73-8265-4a02-bb53-407411801ddb-l0qrXVNPH-transformed.png?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
-        isCached: true
-  - title: "KX accelerates real-time analytics, AI, and machine learning for Google Cloud customers"
-    excerpt: "PRNewswire New York [US] London [UK] August 31 KX the global pioneer in vector and time-series data management has announced the native availability of kdb Insights and kdb Insights Enterprise on Goog"
-    publishedDateTime: 2023-08-31T15:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273950912/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 46
-    images:
-      - url: "https://cdn.bignewsnetwork.com/YzUwMzAwMDUtMTQ.jpg"
-        width: 630
-        height: 473
         isCached: true
   - title: "Microsoft signs new partnership with AI and data analytics startup"
     excerpt: "WASHINGTON — Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence ... Synthetaic’s AI product — the Rapid Automatic Image Categorization (RAIC) tool ..."

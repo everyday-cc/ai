@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-31T23:09:00Z
 originalUrl: "https://www.churchtimes.co.uk/articles/2023/1-september/features/features/ai-technology-magnifying-human-bias"
 webUrl: "https://www.churchtimes.co.uk/articles/2023/1-september/features/features/ai-technology-magnifying-human-bias"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.churchtimes.co.uk/media/5692411/ai_healthcare_istock-131491764117-20230829144749089_web.jpg?center=0.35231316725978645,0.54770318021201414&mode=crop&width=600&height=314&rnd=133379469320000000"
@@ -24,6 +25,6 @@ images:
     height: 314
     isCached: true
 
-secured: "VPjErxr7hbsWD2ujgftqu6BH7ixhG1Iks/iJBIvEs7VViK2Qe6K8fj5qbDvgvGyE6MFXJNslbRdmj0wWgOhXospL1Pc6eyerZLTvMaz406TxhdVRxWkgLcnxM1jTgx0AeShP6N1vqGmoGMcng0jVWFOV/cjYkQ4bGT8peJgK0wNYPO8FtQHFgdl6mgzFijBwtGK0MqG9Dm5s8dB3wwlSjT8HH+DyZ6ac3ykC3ciS7Bc5LvywsMrqlgjPYtrN6hLEo8Czy5Ow07IhgTCpe4tWZ9md5xNm9WlOVI4m9pz+jTDiTNx5HUgiuCigclzKAkmd7ZpaHGRckAvqzcqXFQz0MFKKiV0zj/5RdtUDPsR5fAI=;E2NSwQZZxUVyGqhLl2ge1Q=="
+secured: "mh6ix6qZGjd1Ji37L8WsBMxl4c79ISgaw81OV0A5PHZRMbFjfnNXkGKQLB354UE4liS/niRWc96VMSAH467CcNI/Cr8Ej31F8/Q4rprO1/qDE/c3aqmiQMRoOwGxW8BHim6afPtGzw+XaT9jvELw++F30Z0Hf5yzBptGrSCLnRYakCI5+L65IOnWv8uRN02DCe5ZpGnDfCcsVPEF5LHYht44aD6F60hics3wPx0wyhFhegLOGSZbbhu+G2GgKL4afrrF3xHUA8oPij6hSr4ZGuSYB423dlTGvV0K+9Kzhr5OZI4HQc/FP7W33tDYD/hJRrpo4JAHy1kJpciDDku/d5+hbo1ZhNVzqewe5nE7KN8GpLViPwQS8SCWssocN7OdzGuCi29mxxIjYP6D/zJa/4pa1N4tLksuNvzMTkzV6dndBLoy9vgxp68AoChndjxNkYhlMejVNqhizMsry1kRotXhmlk0rc9CJS7I+c35mAB1aiQwnUXlLI6p6xk5On6XdqHqGUdXRSIW/Snf3IUCHA==;rBh+pigBTxKH/Lt51HwFEA=="
 ---
 
