@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Are self-driving cars safe? A UBC study says British Columbians aren’t too sure"
-    excerpt: "Self-driving vehicles have been promoted as improving safety, but how do people -- like pedestrians -- feel about interacting with them? A UBC study finds out."
-    publishedDateTime: 2023-08-31T01:58:00Z
-    webUrl: "https://globalnews.ca/news/9930216/self-driving-cars-safety-ubc-study/"
-    ampWebUrl: "https://globalnews.ca/news/9930216/self-driving-cars-safety-ubc-study/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9930216/self-driving-cars-safety-ubc-study/amp/"
+  - title: "Are self-driving cars already safer than human drivers?"
+    excerpt: "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash."
+    publishedDateTime: 2023-09-01T11:30:00Z
+    webUrl: "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 40
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 74
     images:
-      - url: "https://globalnews.ca/wp-content/uploads/2023/08/Self-Driving-cars-2.png?w=1200"
-        width: 1198
-        height: 615
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
+    excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
+    publishedDateTime: 2023-08-31T23:54:00Z
+    webUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/"
+    ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "Z8ewO5jduQESXu2f+C0kL6nO30X/d+EN5VeULjyRMtlqbRAPJebv9sCWKZ7F7B9orOOt5X5PxlUQ4EDV1cNighs1yGr5dJCqwrkH4WuYX73UcuDnbM2WK8gV1JIvtyShZsCs6jgUSA34Kzrfwk/vb/GDBUnEnrXgQXiXVs4v8iOrc8BV4jTWeEdHZFParCxsszKx0RVQbYAKpM/Taw7NrOOURsGjG1yA3aIzsCWhDj2WdAA+5zwuRRd+9uioXpSFDZdWysrQ/hi8sY/N45a55ZfvQU+7BPLBMoGYK4eEKCdKiz4bty5BxMib4zNDA2lLcYoaDFc9Tosc/5l74xrcWYAi7FXOjkHhj3AMK+TKVjMt1tdf605IU6qE4ddJSKvzMlRiOJpWJjOQ84i57Aww0J/xPgcS5q0FXRcxe+wds4JDzmq9WK6BXtvmQzNsZWBzqQfXRZGSSkCUZ5xWmcn939z2eJog3f46zXpz7PHh7uWDyIIAyTs0ybGrziMGRlE0M4eRMa+Tb8TA7UCyCUxQ9g==;0zPjwrgxNELzim9wywMDsA=="
 ---

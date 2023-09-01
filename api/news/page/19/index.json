@@ -2,6 +2,229 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-08-16-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
+      "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
+      "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech",
+      "originalUrl": "https://www.nasdaq.com/articles/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker.md",
+      "title": "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png",
+          "width": 1260,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-creepily-customized-dishes-and-facial-recognition-how-might-ai-change-fine-dining.md",
+      "title": "Creepily customized dishes and facial recognition: how might AI change fine dining?",
+      "excerpt": "Artificial intelligence could take personalized service a new, possibly sinister level – but can a chatbot replace a chef?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2b73a2245ffe131ee39d2c4c058545a6f6c7767d/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=67119d24f976c08ba2bff3006e890a08",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
+      "publishedDateTime": "2023-08-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories.md",
+      "title": "Google Photos will offer AI assist for collaborating on your favorite memories",
+      "excerpt": "With the updated Memories section, users can add or remove specific photos, start a group of their own, rename a group that Google makes, and see their photos in a scrapbook-like layout.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "originalUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/acd7b05c7c968574d109f4b942d7cd8be84b9ad0/2023/08/16/8161436a-4581-4426-a41f-24112694227d/screenshot-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "publishedDateTime": "2023-08-16T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-first-international-aws-skills-centre-opens-in-cape-town.md",
+      "title": "First international AWS Skills Centre Opens In Cape Town",
+      "excerpt": "Amazon Web Services (AWS) opened its first international AWS Skills Centre in Cape Town, South Africa, continuing on a mission to remove the barriers of access to cloud skills training. AWS Skills Centres are Amazon’s dedicated,",
+      "sourceUrl": null,
+      "webUrl": "https://techfinancials.co.za/2023/08/16/first-international-aws-skills-centre-opens-in-cape-town/",
+      "originalUrl": "https://techfinancials.co.za/2023/08/16/first-international-aws-skills-centre-opens-in-cape-town/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techfinancials",
+        "domain": "techfinancials.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-snapchat-users-freak-out-over-ai-bot-that-seemingly-had-mind-of-its-own.md",
       "title": "Snapchat users freak out over AI bot that seemingly had mind of its own",
       "excerpt": "Snapchat users were alarmed on Tuesday night when the platform's artificial intelligence chatbot posted a live update to its profile and stopped responding to messages.",
@@ -902,246 +1125,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone.md",
-      "title": "AiFi Is Using AI To Ensure The Future Of Retail Is Autonomous (And Accessible) For Everyone",
-      "excerpt": "At a high level, Jorczak said AiFi exists to modernize and expedite the shopping experience by reducing long lines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dbfa059b353f4c410eda85/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/amp/",
-      "publishedDateTime": "2023-08-15T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-would-you-hop-in-a-driverless-taxi.md",
-      "title": "Would You Hop In a Driverless Taxi?",
-      "excerpt": "Driverless taxis use a combination of artificial intelligence (AI) algorithms and sensors to interpret their environment. They can recognize traffic signals; detect pedestrians, other vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://eturbonews.com/would-you-hop-in-a-driverless-taxi/",
-      "originalUrl": "https://eturbonews.com/would-you-hop-in-a-driverless-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eturbonews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-bmcs-cto-ram-chakravarti-on-generative-ai-in-the-enterprise.md",
-      "title": "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise",
-      "excerpt": "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-how-ai-is-increasing-fraud-risks-across-the-fintech-industry.md",
-      "title": "How AI Is Increasing Fraud Risks Across The Fintech Industry",
-      "excerpt": "Fintech founder Gili Raanan of Cyberstarts told the Israeli ... Mastercard is spearheading its own AI-related efforts across the pond alongside nine prominent UK banks including Lloyds Bank, Halifax, Bank of Scotland, and Monzo. According to Gartner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
-      "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d131c6a5fbee691f65f247/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/",
-      "publishedDateTime": "2023-08-15T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-tech-down-even-as-ai-stocks-rise-tech-roundup.md",
-      "title": "Tech Down Even as AI Stocks Rise -- Tech Roundup",
-      "excerpt": "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "publishedDateTime": "2023-08-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

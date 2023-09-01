@@ -332,6 +332,15 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 19
+  - title: "Acceptable-use policies for generative artificial intelligence"
+    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
+    publishedDateTime: 2023-09-01T10:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
     excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
     publishedDateTime: 2023-08-28T12:36:00Z

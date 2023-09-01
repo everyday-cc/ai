@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "How To Stop Facebook Using Your Personal Data To Train AI"
+    excerpt: "How much mileage you get from your opt out request may vary depending on your location, but it's worth a shot and at least partially addresses one of the AI ethics issues that has arisen as the technology booms in 2023. We say Facebook has “quietly ..."
+    publishedDateTime: 2023-09-01T11:27:00Z
+    webUrl: "https://tech.co/news/how-to-stop-facebook-data-train-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/09/01064747/facebook-privacy-1-scaled-e1693565328996.jpeg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
     excerpt: "Dyfed-Powys Police used an AI tool to create the Facebook posts and now people have called for the force to use a Welsh speaker instead of relying on a computer Dyfed-Powys Police used an AI tool to create the Facebook posts (WalesOnline/ Rob Browne) A ..."
     publishedDateTime: 2023-08-29T18:57:00Z

@@ -2,6 +2,240 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-07-13-data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-intelligence.md",
+      "title": "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence",
+      "excerpt": "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33218847",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847",
+      "publishedDateTime": "2023-07-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here.md",
+      "title": "‘Overwatch: Genesis’ Remembers Sentient Robot Aurora In Its Second Episode, Watch It Here",
+      "excerpt": "The second episode of Genesis, the Overwatch anime miniseries, just dropped, and you can watch it below. The latest installment is called “Innocence” and we get to learn more about Aurora, the first omnic that became sentient in this world. The robot travels the planet to learn more about humanity and herself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64af894e4461ffb2e7534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
+      "publishedDateTime": "2023-07-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers.md",
+      "title": "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers",
+      "excerpt": "Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/",
+      "originalUrl": "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png",
+          "width": 1893,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
+      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
+      "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
+      "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
+      "publishedDateTime": "2023-07-13T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-stability-ai-releases-stable-doodle-a-sketch-to-image-tool.md",
       "title": "Stability AI releases Stable Doodle, a sketch-to-image tool",
       "excerpt": "Stability has released a new tool through Clipdrop, the AI art platform it acquired recently, that turns sketches into artwork.",
@@ -940,229 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-is-the-next-front-in-the-culture-war.md",
-      "title": "AI is the next front in the culture war",
-      "excerpt": "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "publishedDateTime": "2023-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-rise-of-the-terminators-ai-robots-claim-they-could-run-earth-better-than-clouded-humans.md",
-      "title": "The rise of the Terminators? AI robots claim they could run Earth better than 'clouded' humans",
-      "excerpt": "claims the event was vital to start using robotics for good. He believes that robots may have mainstream uses within just the next five years, taking off the same way as ChatGPT and other AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/07/11/13/73083559-0-image-a-41_1689078496351.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "publishedDateTime": "2023-07-12T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-crypto-miner-hive-digital-drops-blockchain-from-name-amid-pivot-to-ai.md",
-      "title": "Crypto miner Hive Digital drops 'blockchain' from name amid pivot to AI",
-      "excerpt": "The crypto mining company formerly known as Hive Blockchain Technologies has changed its name to Hive Digital Technologies, as the firm looks to capitalize on the growing AI trend.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "originalUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/8933e78d-a063-4430-85e4-949ed478575a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "publishedDateTime": "2023-07-12T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-robot-gives-strange-response-when-asked-if-machines-plan-to-initiate-a-rebellion-against-humans.md",
-      "title": "AI Robot Gives Strange Response When Asked If Machines Plan To Initiate A Rebellion Against Humans",
-      "excerpt": "A robot at an AI forum said it would not rebel against the ... It has grown its user base exponentially since the start of the year. Read Next: AI Taking Jobs Could Benefit Economy, Says ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33191335/ai-robot-gives-strange-response-when-asked-if-machines-plan-to-initiate-a-rebellion-against-humans",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33191335/ai-robot-gives-strange-response-when-asked-if-machines-plan-to-initiate-a-rebellion-against-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/07/11/52023220709_9bbed71a20_k.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33191335",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33191335",
-      "publishedDateTime": "2023-07-12T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

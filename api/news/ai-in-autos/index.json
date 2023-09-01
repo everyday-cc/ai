@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
+      "title": "Are self-driving cars already safer than human drivers?",
+      "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "publishedDateTime": "2023-09-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing.md",
       "title": "Elon Mode FSD: Secret Full-Self Driving Mode Leaves Authorities Despairing",
       "excerpt": "Tesla might be about to face the music on its self-driving technology after a secret so-called ‘Elon mode’ that removes a critical safety feature was discovered.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1364,40 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
-      "excerpt": "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -33,6 +33,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Us To Unleash Thousands Of Autonomous War Robots"
+    excerpt: "The United States military plans to start using thousands of autonomweapons systems in the next two years in a bid to counter China's growing power,"
+    publishedDateTime: 2023-09-01T11:41:00Z
+    webUrl: "https://menafn.com/1106995491/Us-To-Unleash-Thousands-Of-Autonomous-War-Robots"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/01/AT_f7f6eimage_story.jpg"
+        width: 1199
+        height: 778
+        isCached: true
   - title: "US military plans to unleash thousands of autonomous war robots over next two years"
     excerpt: "The United States military plans to start using thousands of autonomous weapons systems in the next two years in a bid to counter China’s growing power, US Deputy Secretary of Defense Kathleen Hicks announced in a speech on Monday."
     publishedDateTime: 2023-08-30T03:18:00Z

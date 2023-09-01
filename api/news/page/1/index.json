@@ -2,6 +2,317 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-donald-trump-appears-to-shut-down-ai-interview-theories.md",
+      "title": "Donald Trump Appears to Shut Down AI Interview Theories",
+      "excerpt": "The former president shared a clip of the interview after facing speculation it was faked, but did not address questions about its authenticity explicitly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
+      "originalUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2277139/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
+      "publishedDateTime": "2023-09-01T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
+      "title": "Are self-driving cars already safer than human drivers?",
+      "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "publishedDateTime": "2023-09-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-intels-gaudi-2-beats-nvidias-h100-in-certain-ai-tasks.md",
+      "title": "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks",
+      "excerpt": "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai.md",
+      "title": "The True Cost Of Bad Data And How It Can Hinder The Benefits Of AI",
+      "excerpt": "As AI becomes more sophisticated, it is imperative for organizations to develop standards for ethics within AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0c1d38a74946c489f530e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
+      "publishedDateTime": "2023-09-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-from-google-to-nvidia-tech-giants-have-hired-red-team-hackers-to-break-their-ai-models.md",
+      "title": "From Google To Nvidia, Tech Giants Have Hired Red Team Hackers To Break Their AI Models",
+      "excerpt": "The leaders of the AI red teams at Microsoft, Google, Nvidia and Meta say they are tasked with looking for vulnerabilities in their AI systems so they can be fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/",
+      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee6705e561af2066d8ae23/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
+      "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
+      "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107000275-1642015028719-gettyimages-1046078096-US_STOCKS.jpeg?v=1693567467&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies.md",
       "title": "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies",
       "excerpt": "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly.",
@@ -936,278 +1247,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-meta-releases-a-data-set-to-probe-computer-vision-models-for-biases.md",
-      "title": "Meta releases a data set to probe computer vision models for biases",
-      "excerpt": "Made up of 32,000 images containing 50,000 people labeled by human annotators, FACET — a tortured acronym for “FAirness in Computer Vision EvaluaTion” — accounts for classes related to occupations and activities like “basketball player ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/",
-      "originalUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/meta-distorted-glitched.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/",
-      "publishedDateTime": "2023-08-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies.md",
-      "title": "Groq Smashes LLM Performance Record Again Using an LPU™ System With No Response From GPU Companies",
-      "excerpt": "Now that Groq smashed the performance record twice, generating a user experience for language responses at over 240T/s per user, is it possible that there could be room for more performance improvement on their first-gen 14nm silicon fabbed in the US?",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies-1032596020",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/groq-smashes-llm-performance-record-again-using-an-lpu-system-with-no-response-from-gpu-companies-1032596020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2196379/Groq__LLM_inference_performance.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection.md",
-      "title": "Accessing your on-premises network and IBM Cloud VPC using a single VPN connection",
-      "excerpt": "How to connect to your IBM Cloud and on-premises environments using a single Client-to-Site VPN connection.\nThe post Accessing your on-premises network and IBM Cloud VPC using a single VPN connection appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection/",
-      "originalUrl": "https://www.ibm.com/blog/accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T06:28:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-getting-started-with-the-ibm-cloud-command-line-interface.md",
-      "title": "Getting started with the IBM Cloud command line interface",
-      "excerpt": "The CLI allows you to interact with IBM Cloud from a computer shell. We'll show you everything to successfully get started with the IBM Cloud CLI.\nThe post Getting started with the IBM Cloud command line interface appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/getting-started-with-the-ibm-cloud-command-line-interface/",
-      "originalUrl": "https://www.ibm.com/blog/getting-started-with-the-ibm-cloud-command-line-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T06:21:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-how-four-retail-basics-are-better-with-artificial-intelligence.md",
-      "title": "How Four Retail Basics Are Better With Artificial Intelligence",
-      "excerpt": "The trick is effectively planning for change, uncertainties and unknowns—and being positioned to thrive regardless of shifting tides. Technology—specifically artificial intelligence (AI)—can help retailers focus on four retail basics constant to success. The change lies in how you approach these four areas of retail by properly leveraging AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four-retail-basics-are-better-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four-retail-basics-are-better-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-decentralized-ai-artificial-intelligence-in-web3.md",
-      "title": "Decentralized AI: Artificial Intelligence in Web3",
-      "excerpt": "Read our article, as here we explore the potential of AI in a decentralized web and how it can be used to redefine online spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
-      "originalUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptonewsz.com/wp-content/uploads/2023/08/Decentralized-AI-Artificial-Intelligence-in-Web3.png",
-          "width": 512,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
-      "cdnAmpWebUrl": "https://www-cryptonewsz-com.cdn.ampproject.org/c/s/www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
-      "publishedDateTime": "2023-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptonewsz",
-        "domain": "cryptonewsz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -26,22 +26,6 @@ images:
     height: 615
     isCached: true
 
-related:
-  - title: "B.C. is not ready for self-driving cars, study finds"
-    excerpt: "British Columbians aren’t quite ready for self-driving vehicles (SDVs) and will need a gradual transition to the new technology, according to new B.C. study."
-    publishedDateTime: 2023-09-01T01:00:00Z
-    webUrl: "https://www.vancouverisawesome.com/highlights/bc-is-not-ready-for-self-driving-cars-study-finds-7482905"
-    type: article
-    provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
-    quality: 24
-    images:
-      - url: "https://www.vmcdn.ca/f/files/nsnews/images/transportation/autonomous-vehicles-getty-images-web.jpg;w=1000;h=667;mode=crop"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "elMTxtUz4p+JZm3yAd8fjhg19CL+qgcX19ysIUfltVvRZatKCJ4upowB1oQJtIFwDuPwEK5sYX0eRBxDKx9FvGhhA3UyNIErGa8fP+Wowkk5ba3FK5nvreX0ndKlBFC/ikirbGY0bHnMNxL7k8loYGTCTTUB+IbwnxQE31hOuczXVcbDtudVVveZbJn4AzpwuRSgVZBTixRaa9LAM8s+R9ZbjZkHvFTkFnxmoZlEZWGRXCp5tJF9niCVwCJmmF5EZWMtunpzcbI3ij+ZVheHEG/LWn9DQmnZ78dkJqydaTwGsRlsnicfAT0SntJ2J8dlTG9QN2S56I1UAc4ti5IIk792XjAfOOO2eMN71Eh7sgZGuv1eygaDi1XF//cSLKjhDcXz3cGlUDBUcHS474g/WJpr4Z5MkCBA8+oqhZTkkDQ38Es3zA/dXH2lWT9AzCV2n5zFVpYuX6fzAphS+l8ld4Fha4UhHjUUNEvdGiraRbUoMn5DNjLSmIQsiOXnd9a7NoZ4v3Lhh1UEFYTwN7ctBw==;hrhYKeG1ptmhUuG6Ut/TEA=="
 ---
 

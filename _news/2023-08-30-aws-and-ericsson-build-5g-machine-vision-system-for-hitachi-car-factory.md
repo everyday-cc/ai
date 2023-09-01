@@ -57,17 +57,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "American military brings in artificial intelligence robot for aerial combat"
-    excerpt: "And gaining and maintaining an edge in artificial intelligence is one element of an increasingly open race with China for technological superiority in national security"
-    publishedDateTime: 2023-08-27T17:12:00Z
-    webUrl: "https://www.business-standard.com/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 52
   - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
     excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
     publishedDateTime: 2023-08-31T02:34:00Z

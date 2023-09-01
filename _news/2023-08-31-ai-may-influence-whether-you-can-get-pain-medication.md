@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
-    excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
-    publishedDateTime: 2023-08-31T00:58:00Z
-    webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
+  - title: "Artificial intelligence may influence whether you can get pain medication"
+    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
+    publishedDateTime: 2023-08-31T11:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
     type: article
     provider:
-      name: LAist
-      domain: laist.com
+      name: MM&M
+      domain: mmm-online.com
     quality: 53
     images:
-      - url: "https://scpr.brightspotcdn.com/dims4/default/c6bb1a5/2147483647/strip/true/crop/4211x2211+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F52%2F02%2Ffccf47eb43d4b160cdf07142df65%2Fgettyimages-1169089775.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Artificial intelligence may influence whether you can get pain medication"
     excerpt: "Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to track her medication use. During an August 2022 visit to a hospital in Fort Wayne, Indiana, Amirault told a nurse practitioner she was in ..."

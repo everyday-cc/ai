@@ -2,6 +2,308 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-30-is-amd-the-dark-horse-of-the-ai-silicon-race.md",
+      "title": "Is AMD The Dark Horse Of The AI Silicon Race?",
+      "excerpt": "This has turned the spotlight on companies that make graphics processing units, the de-facto chips for running AI-related workloads. Nvidia - the dominant player in the GPU space - has been the biggest beneficiary of the trend thus far. Nvidia stock is up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed67d6101a172f40ed9fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/",
+      "publishedDateTime": "2023-08-30T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-this-healthcare-stock-has-been-a-hotter-buy-than-amazon-and-alphabet-this-year.md",
+      "title": "This Healthcare Stock Has Been a Hotter Buy Than Amazon and Alphabet This Year",
+      "excerpt": "Artificial intelligence is exciting, but there are also big opportunities in healthcare, specifically in the market for clear aligners. Align Technology is a big company in that space, and its growth rate picked up this year. A look at share prices in 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/745587/investor-pointing-at-a-chart.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-google-launches-ai-chip-to-handle-faster-training-performance-of-llms.md",
+      "title": "Google launches AI chip to handle faster training performance of LLMs",
+      "excerpt": "It is claimed to deliver “up to 2x higher training performance per dollar and up to 2.5x inference performance per dollar for LLMs and gen AI models compared to Cloud TPU v4.” Google said the new chip is a combination of performance and flexibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-103203041/103203041.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
+      "publishedDateTime": "2023-08-30T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-tech-war-china-exploring-ways-to-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say.md",
+      "title": "Tech war: China exploring ways to make its own AI memory chips despite US sanctions, sources say",
+      "excerpt": "China is exploring ways to produce its own high-bandwidth memory (HBM), the next-generation of memory chips tailored for artificial intelligence (AI) processors, as it pushes ahead with a semiconductor self-sufficiency drive amid US sanctions, industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/89c22c98-89dc-4375-961d-4890592a1140_dbf13453.jpg?itok=q1LwE16L&v=1693216774",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-loom-launches-ai-upgrades-to-maintain-lead-async-communication-space.md",
+      "title": "Loom Launches AI Upgrades To Maintain Lead Async Communication Space",
+      "excerpt": "Video messaging platform Loom unveiled several generative-AI focused upgrades this week, as it aims to stay ahead of the competition in the red-hot asynchronous",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed1d70a6722fa073b0616/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "publishedDateTime": "2023-08-29T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-gpunet-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch.md",
+      "title": "GPU.Net Raises 500K from Momentum 6 & Alphablockz. Nvidia Backs Testnet Launch",
+      "excerpt": "Backed by a substantial $500,000 investment from Momentum 6 & Alphablockz, GPU.Net is empowered to take its ambitions to new heights. This infusion of capital not only validates the platform's potential but also enables the team to enhance their efforts in creating a robust infrastructure that meets the global GPU resource challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.submitmypressrelease.com/system/media_files/images/000/042/685/original_jpeg/image.jpg",
+          "width": 936,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition.md",
       "title": "TechCrunch Disrupt 2023 Startup Battlefield 200: AI and Security edition",
       "excerpt": "we’re breaking them out by industry tracks — starting with AI and Security. Keep cross-collaboration opportunities in mind — you won’t find such a magnificent mix of standout startups under one roof anywhere else. Coming soon! The list of Startup ...",
@@ -51,57 +353,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-ai-created-donald-trump-rap-song-first-day-out-hits-no-2-on-itunes-after-right-wing-push.md",
-      "title": "AI-Created Donald Trump Rap Song ‘First Day Out’ Hits No. 2 On iTunes After Right-Wing Push",
-      "excerpt": "The rap song \"First Day Out,” which pokes fun at Donald Trump’s mugshot and criminal charges and decries the Clintons and the “radical left,” is going viral because the AI-generated voice sounds just like the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6335986781112/aicreated-donald-trump-rap-song-first-day-out-hits-no-2-on-itunes-after-rightwing-push/",
-      "originalUrl": "https://www.forbes.com/video/6335986781112/aicreated-donald-trump-rap-song-first-day-out-hits-no-2-on-itunes-after-rightwing-push/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/08/29/6335986781112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6335986781112/aicreated-donald-trump-rap-song-first-day-out-hits-no-2-on-itunes-after-rightwing-push/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6335986781112/aicreated-donald-trump-rap-song-first-day-out-hits-no-2-on-itunes-after-rightwing-push/amp/",
-      "publishedDateTime": "2023-08-29T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1001,245 +1252,6 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-heres-why-this-ai-software-name-has-an-underappreciated-edge.md",
-      "title": "Here's why this AI software name has an 'underappreciated edge'",
-      "excerpt": "The CNBC Investing Club gives investors a behind-the-scenes look at how Jim Cramer manages an investment portfolio so you can manage your own money and build long-term wealth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/29/heres-why-this-ai-software-name-has-an-underappreciated-edge-.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/29/heres-why-this-ai-software-name-has-an-underappreciated-edge-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107270402-16891748552023-07-12t151114z_2084180913_rc2p12azqchj_rtrmadp_0_usa-stocks.jpeg?v=1693321970&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-top-8-apm-metrics-that-it-teams-use-to-monitor-their-apps.md",
-      "title": "Top 8 APM metrics that IT teams use to monitor their apps",
-      "excerpt": "A superior customer experience (CX) is built on accurate and timely application performance monitoring (APM) metrics.\nThe post Top 8 APM metrics that IT teams use to monitor their apps appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/apm-metrics/",
-      "originalUrl": "https://www.ibm.com/blog/apm-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:03:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-sppu-launches-ai-and-machine-learning-postgraduate-diploma.md",
-      "title": "SPPU launches AI and Machine learning postgraduate diploma",
-      "excerpt": "The advanced curriculum has been jointly designed with the Department of Technology, SPPU keeping in mind the objectives of the NEP2020.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
-      "originalUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/SPPU-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
-      "publishedDateTime": "2023-08-29T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month.md",
-      "title": "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month",
-      "excerpt": "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
-      "originalUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-908368194.jpg?resize=1200,640",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
-      "publishedDateTime": "2023-08-29T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-google-debuts-duet-ai-to-tackle-new-cybersecurity-challenges-in-the-cloud.md",
-      "title": "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud",
-      "excerpt": "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/63b242168e371cf2ef4ae64a90a33d552ba837c4/2023/08/29/268d1250-ced6-490a-9d7c-3f353a068be7/gettyimages-1236886242.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
-      "publishedDateTime": "2023-08-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

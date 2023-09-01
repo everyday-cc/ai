@@ -52,17 +52,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "American military brings in artificial intelligence robot for aerial combat"
-    excerpt: "And gaining and maintaining an edge in artificial intelligence is one element of an increasingly open race with China for technological superiority in national security"
-    publishedDateTime: 2023-08-27T17:12:00Z
-    webUrl: "https://www.business-standard.com/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/american-military-brings-in-artificial-intelligence-robot-for-aerial-combat-123082700893_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 52
   - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
     excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
     publishedDateTime: 2023-08-30T10:40:00Z

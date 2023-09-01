@@ -132,6 +132,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "US denies it had 'blocked' AI chip sales to some Middle Eastern countries"
+    excerpt: "The US Commerce Department was quick to distance itself from the reports — but it did not directly address imposing license restrictions on certain types of chips."
+    publishedDateTime: 2023-09-01T10:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/09/us-denies-it-had-blocked-ai-chip-sales-some-middle-eastern-countries"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 70
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-09/GettyImages-1258278958.jpg?h=9eb0d413&itok=9rMFKq-S"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -159,6 +173,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/49/9493005a-56e2-5e87-94a4-f6581077d288/64f08b8893bd4.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Update: US denies restricting exports of some Nvidia AI chips to 'Middle East' countries"
+    excerpt: "The denial from the US Commerce Department comes after it was reported that the US would be extending restrictions on the export of Nvidia and AMD AI chips to some Middle East states."
+    publishedDateTime: 2023-08-31T13:21:00Z
+    webUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east"
+    ampWebUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
+    cdnAmpWebUrl: "https://www-newarab-com.cdn.ampproject.org/c/s/www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
+    type: article
+    provider:
+      name: newarab
+      domain: newarab.com
+    quality: 65
+    images:
+      - url: "https://www.newarab.com/sites/default/files/1590840359.jpeg"
+        width: 5289
+        height: 3204
         isCached: true
   - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
     excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."

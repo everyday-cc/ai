@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
-excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
-publishedDateTime: 2023-08-31T00:58:00Z
-originalUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
-webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
+title: "Artificial intelligence may influence whether you can get pain medication"
+excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
+publishedDateTime: 2023-08-31T11:00:00Z
+originalUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+webUrl: "https://www.mmm-online.com/home/channel/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: LAist
-  domain: laist.com
+  name: MM&M
+  domain: mmm-online.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scpr.brightspotcdn.com/dims4/default/c6bb1a5/2147483647/strip/true/crop/4211x2211+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F52%2F02%2Ffccf47eb43d4b160cdf07142df65%2Fgettyimages-1169089775.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/08/GettyImages-916194256.jpg"
+    width: 1024
+    height: 684
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: news-medical.net
     quality: 33
 
-secured: "U8UcCdXsrBTrpSrDWxP7GHl0f09EboGvw/Wo2hcNO+lj7XMUnZJiX9eaRkpiaLG4UxayxWCHXnuaCaePiEVeZ29oys84k8dka31dBkk8ConL7UCfJX285y3Y5c/4a7I7Hz7UKONb6IGbIVGRGSaN4fTuoykO0XvMbmDjXQXFdprvmIRp5fG+zmup1M2w1GpEvlkxVaSKJvZbu8D3qfO4ZCuCavwpLh/DlTZC4LVLC3pL0Q+rbJrzP7Is7uTjwSE/qiUD17UkLD4Ozll7b0wZFXxZLLXkD4SCMaPQnUa3lkxUTxN51NVaj79+MpjjHfDkBV/uy1Q9ZQapeGyRrxdKOILkSFQqGALpf59l4MdDa/s=;yFIL2jJedmYgMl2lWbWfvQ=="
+secured: "v3HkdvMChPPv0HJsPzHqvC55BCZW3s9HV1Q5BciGIp2CDVL86xXhkfAoziZ5251HFdQm6QHdkMKpxiwZwsOyuJ4QzZpMtJ7f4z7cTiXYDeT4YspYCmx/9nEPLj3g7Z4AmHLeaer2apNvFrXMeuvXHhaWCIvffFEMMxOeJ76kBzIGCrDJrr/rLHPfxT/rFlvw1OuDw6Ud2W6s3HPQedEj1PGgQMdsNNroY4llVa0eKBIBTjI5RaxsFwi3ot3nAZOdjUg0NVNYF18IL/w8ClkSyk54jex2jtiNlgdw8+sw1Ha6EEweApEtZiX51dERQY8NXNHR7ViZN4zbSdkHCpPozrNYX34f+UuR2MA0s9/hFLc=;jtQ1lOisdwTcRarKZKdY2Q=="
 ---
 

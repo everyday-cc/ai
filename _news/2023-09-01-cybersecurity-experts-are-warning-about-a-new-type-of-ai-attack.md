@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why generative AI is a double-edged sword for the cybersecurity sector"
-    excerpt: "Understanding the capabilities of generative AI and how to use it responsibly for cybersecurity will be critical as the technology grows."
-    publishedDateTime: 2023-08-27T17:10:00Z
-    webUrl: "https://venturebeat.com/security/why-generative-ai-is-a-double-edged-sword-for-the-cybersecurity-sector/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_sword_splitting_a_computer_in_half_with_one_side_that_fa64ec31-5cfe-45c9-b364-2a849e6ac009.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kaspersky: Cyber Immunity key to secure the future with AI"
     excerpt: "Global cybersecurity company’s 9th Cybersecurity Weekend probes into how AI will disrupt the world and how experts can set secure directives for a safer tomorrow Can AI outsmart humans? Is ChatGPT the beginning of our Doomsday?"
     publishedDateTime: 2023-08-27T23:54:00Z

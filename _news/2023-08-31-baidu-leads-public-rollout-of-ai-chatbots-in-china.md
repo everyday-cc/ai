@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-riv
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
         width: 516
         height: 516
+        isCached: true
+  - title: "The Evolution of AI Chatbots: Past, Present and Future"
+    excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
+    publishedDateTime: 2023-09-01T10:02:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/f5301cd49131448ea14a92b5389265d6.ashx"
+        width: 640
+        height: 480
         isCached: true
   - title: "Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution"
     excerpt: "Chinese tech giant Baidu was granted permission by Chinese authorities to introduce its AI Ernie Bot to the general public, with its official launch scheduled for August 31."

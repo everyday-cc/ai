@@ -34,21 +34,19 @@ related:
         width: 1200
         height: 865
         isCached: true
-  - title: "The Benefits of Artificial Intelligence in Medicine"
-    excerpt: "Artificial Intelligence (AI) and machine learning are gaining increased popularity across the globe. Due to a symbiotic relationship between humans and this burgeoning technology, productivity across the globe has expanded to new arenas."
-    publishedDateTime: 2023-08-31T01:58:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/08/31/the-benefits-of-artificial-intelligence-in-medicine"
+  - title: "How the AI Revolution Will Reshape the World"
+    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
+    publishedDateTime: 2023-09-01T11:05:00Z
+    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 59
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/0-106.png"
-        width: 800
-        height: 533
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "AI's big winner in the chips"
     excerpt: "After the early buzz about artificial intelligence centered on ChatGPT and similar chatbots that could quickly generate stories, art and songs upon request, the biggest winner in the technological shi"
@@ -63,20 +61,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "The benefits of Artificial Intelligence in Medicine"
-    excerpt: "However, we must ask ourselves what moral and ethical boundaries need to be respected as we continue to integrate artificial intelligence into healthcare; issues of patient security, data protection, and human-centred care will remain in question as ..."
-    publishedDateTime: 2023-08-29T12:04:00Z
-    webUrl: "https://www.pulse.ng/business/domestic/the-benefits-of-artificial-intelligence-in-medicine/ehgkv7q"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 39
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/M6GktkpTURBXy8xYjA0MzYyZmYwMTYyZjhkMjkxNGVhZDU5NTdlZGE1Yi5wbmeSlQMACM0BAsyRkwXNBLDNAnY"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Visual artists fight back against AI companies"
     excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."

@@ -57,6 +57,20 @@ related:
         width: 516
         height: 516
         isCached: true
+  - title: "The Evolution of AI Chatbots: Past, Present and Future"
+    excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
+    publishedDateTime: 2023-09-01T10:02:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/f5301cd49131448ea14a92b5389265d6.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution"
     excerpt: "Chinese tech giant Baidu was granted permission by Chinese authorities to introduce its AI Ernie Bot to the general public, with its official launch scheduled for August 31."
     publishedDateTime: 2023-08-30T19:14:00Z

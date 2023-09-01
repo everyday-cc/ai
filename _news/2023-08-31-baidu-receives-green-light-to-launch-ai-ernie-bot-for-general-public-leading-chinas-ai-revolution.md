@@ -68,6 +68,20 @@ related:
         width: 516
         height: 516
         isCached: true
+  - title: "The Evolution of AI Chatbots: Past, Present and Future"
+    excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
+    publishedDateTime: 2023-09-01T10:02:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/f5301cd49131448ea14a92b5389265d6.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "soSVRzIuG3oLbvtjKLhJSPrKaOXJd17jVynhqQlSllrfj67CEXr9h54Dl7IluzGMuckL0aWg02U4R+A0fSFzGsgALVOXTfRdCrYafn/YdRx9rAA1JP8M2Z5Aj0uhsCEexdmABH3i3I3pPO8a8cPN7GDY4X7zD3yzVfEWyhvscI39HBAtOo7vrad/nDtUiGz/kDHLOX9k2IFqja0DxxAY0/Y8eX3MsGlBTU8x/6Xui62Q/BQkR5yXekekxXfrNoDFOvt09YO5WWz3JMMryQ0/uDPxh94qm0IM5yXVvT11IDZ3FDhHg1/oQRXyMZOImNm28QpxICBe4pVj7fEbN/0VBpXocy+gtscp3thxORGHKPvNw2IS/JF0BPwVRvSsHkfpZYLCbWDktQpKlKs8AISeV/4GHf+iQDKDgxscmXrZ5LTxcgutuiaNsAEX9pCrr1t3piFJntM0IehKjJN19fETKeu0RCu3eTRWPJGJsXDppQ50XYghmM3oDH7ePlua1DbRH3V77y9hpwXl7C/jLq0UMw==;++kUhOFwQZq2sYqlF0YfwQ=="
 ---

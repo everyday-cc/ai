@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama.md",
+      "title": "Facebook parent Meta makes public its ChatGPT and Google rival LLaMA",
+      "excerpt": "Facebook parent company Meta Platforms has built ... Much like tech peers Google and Microsoft, the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as the release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "originalUrl": "https://www.telegraphindia.com/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/May/1684324426_meta.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "publishedDateTime": "2023-07-18T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-meta-releases-ai-tech-to-rival-chatgpt.md",
       "title": "Meta releases AI tech to rival ChatGPT",
       "excerpt": "Meta, the parent company of Facebook and Instagram, is releasing its open source Llama 2 large language model, which can power artificial intelligence ... also released a research paper along ...",
@@ -1414,49 +1457,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook.md",
-      "title": "Meta explains how its AI algorithms work on Instagram and Facebook",
-      "excerpt": "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/353634079_292975916467647_5811223305601545193_n.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
-      "publishedDateTime": "2023-06-30T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

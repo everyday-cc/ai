@@ -1,0 +1,50 @@
+---
+category: news
+title: "From Google To Nvidia, Tech Giants Have Hired Red Team Hackers To Break Their AI Models"
+excerpt: "The leaders of the AI red teams at Microsoft, Google, Nvidia and Meta say they are tasked with looking for vulnerabilities in their AI systems so they can be fixed."
+publishedDateTime: 2023-09-01T10:30:00Z
+originalUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
+webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
+type: article
+quality: 63
+heat: 73
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64ee6705e561af2066d8ae23/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "This megacap tech hitting a 52-week high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T15:06:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-a-52-week-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "KP6Y8BvwQRc3nU3Ca4O/u8pCkJ7b5Yr/MHZGf7JvaMyLG7xU4TDwiNdskw7dXUkHZfepbCiwajVs3asXBedXNtGHzDMArRotsL7gi8QQCdDekUlIId5wiWzl62bzS5WRmPGABmiqNCeZSHYz+PlgUoaoCbCUCTNogAVRH+jzJaC/WVIk/ah77VxZAhkIyo4wl+dJSS6w+NYXdVN0aUkBPbCxsVbekzmoHAkmvUZ8Yex2vXhFZo2BDhaCUfhVCawlcrHnI8tTAPkm5l3GpPgGb650AAgaKizWLLXFn45NzYC2VenLkpTaGSnqv7bZdj/3PfB0S5X5u/qrJRlZvy95pFksTaZum035P3t51dqTD58=;F/Crxa7vodxakZky7g7xmw=="
+---
+
