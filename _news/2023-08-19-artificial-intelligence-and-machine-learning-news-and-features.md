@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
-publishedDateTime: 2023-08-19T10:19:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+excerpt: "A team of UCLA electrical and computer engineers has created a physical artificial neural network — a device modeled on how the human brain works — that can analyze large volumes of data and identify objects at the actual speed of light. If you work in ..."
+publishedDateTime: 2023-08-19T16:08:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/222"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "oT/ki22ZAQxBTu7egZ0tFEiMYbZkFZ8ypfLg6pA6+XMnUNEuDzJB7gQAd7I1wd243Um9yQTcTmxT0ccmxBx2YLB+UuVrIEHZLPTO3q9FM0/Aw0DSXvIBTvTsSevJ19GCSoYYyGC5m/yB1cwK6AG9KFVuQIRtRWNkl34LPsssA5QR8HKCUBS9+X0q9YDGChiZxRO8Qe8V2q5eptqyWFbdAEG8lpRI1A4TTA+UDFgRAn/zv3KOwfea99y96+1AjOGgWBSdUfAV9+J6nxGWH6mtqYBj0+NAwuVlPlT4PQ1IQUhO2nOCkXPbsKY32W2V8csM1fApyKA8aNxTkZASflSksTYKl1KngbN2ZvNu03Q/48Q=;AXTuDK7N9f/gxvkZyAuPwQ=="
+images:
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230901"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "fP4zRWZbBjdGSCZtKVJ/UCcu3rzV4fTVubho0W00D8b0JOmkWxDfJLvF9Tw3WAacq3Inuo0hQs6hFSuubzenyMIFt6OKM48zuA+ZSSqrixu5EpwdjNoRR0YMYHsH/wVXFGH70cAhRZIEkzkXoAqV7ZBKBnKSzI0ymbrGzcLZ8l4IZfJJ3CVrG3Le/t8FWrPeG6hsySjciuAD/lSNwmF27XZVd8O/T5ZvQj3MO6fmuwVUl4HfW3hKfuiyl5o4mXPzRT+N2fG0DSJ17UGYGdueqF6ON6CE6I6Ly4uGnSHh/unFc5z1gBmQCmTL/X60U6CO7HbGF3/X/m/Sv05m9MsUZXOTfLw8jK3uVqKwi/0G+uc=;qfxFAPN6+Ot7madusG1ImQ=="
 ---
 

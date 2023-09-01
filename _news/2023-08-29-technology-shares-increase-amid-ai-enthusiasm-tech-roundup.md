@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/technology-shares-increase-ami
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "WEF Names Israeli AI FoodTech Startup As ‘Technology Pioneer’"
-    excerpt: "Tastewise, which uses AI to help the food industry formulate new products based on the latest trends, has been named a 2023 Tech Pioneer"
-    publishedDateTime: 2023-08-27T09:08:00Z
-    webUrl: "https://nocamels.com/2023/08/wef-names-israeli-ai-foodtech-startup-as-technology-pioneer/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/pexels-jack-sparrow-4199043.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Corporate AI Legal Policies Race to Keep Up With Technology"
     excerpt: "When ChatGPT burst onto the scene last year, in-house lawyers had to scramble to figure out how to govern the use of new generative AI tools, and decide who would take charge of those decisions."
     publishedDateTime: 2023-08-28T09:00:00Z

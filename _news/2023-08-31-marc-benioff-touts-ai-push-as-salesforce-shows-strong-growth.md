@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 697
         isCached: true
+  - title: "IBM, Salesforce join forces in enterprise AI push"
+    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
+    publishedDateTime: 2023-08-31T17:01:00Z
+    webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Salesforce survey flags AI trust gap between enterprises and customers"
     excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
     publishedDateTime: 2023-08-28T13:26:00Z
@@ -81,20 +97,6 @@ related:
       - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "IBM, Salesforce join forces in enterprise AI push"
-    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
-    publishedDateTime: 2023-09-01T01:53:00Z
-    webUrl: "https://www.arnnet.com.au/article/708586/ibm-salesforce-join-forces-enterprise-ai-push/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/ibm_dreamstime_2_1_1.jpg"
-        width: 505
-        height: 315
         isCached: true
   - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
     excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."

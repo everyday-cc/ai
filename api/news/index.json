@@ -197,21 +197,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-01-mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security.md",
-      "title": "MLB testing hands-free entry for fans utilizing facial authentication, AI security",
-      "excerpt": "The Philadelphia Phillies have partnered with Major League Baseball to use their stadium as the site of a pilot program called Go-Ahead Entry.",
+      "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
+      "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
+      "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
       "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
-      "originalUrl": "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
+      "webUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "originalUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
       "featuredContent": null,
       "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.newsday.com/ace/c:NjhmYzIxMjgtMDE0NS00:YzgwOWM5/landscape/1280",
+          "url": "https://images.mktw.net/im-845561/social",
           "width": 1280,
-          "height": 719,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -219,14 +219,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
-      "publishedDateTime": "2023-08-31T14:22:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "publishedDateTime": "2023-08-31T14:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -236,8 +245,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
@@ -324,6 +332,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-amazon-inks-logistics-deal-with-indias-post-and-railway-services-announces-generative-ai-for-smbs.md",
+      "title": "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs",
+      "excerpt": "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Amazon-smbhav-india.jpg?w=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/",
+      "publishedDateTime": "2023-08-31T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1163,57 +1222,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-ai-startup-speak-raises-16-mln-in-latest-funding-led-by-lachy-groom.md",
-      "title": "AI startup Speak raises $16 mln in latest funding led by Lachy Groom",
-      "excerpt": "Speak, an artificial intelligence (AI)-backed English language learning platform, said on Thursday that it has raised $16 million in fresh funding led by venture capitalist Lachy Groom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
-      "originalUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sMHeW__vJM8vdecztNpmluShMds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B22ZDAHJQBLZ5GP5F6RM4YU5ZQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

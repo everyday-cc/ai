@@ -2,6 +2,59 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-07-19-facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use.md",
+      "title": "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use",
+      "excerpt": "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
+      "originalUrl": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
       "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
       "excerpt": "IBM may be hitching to the AI bandwagon with WatsonX but analysts are more interested in Big Blue's growth at Red Hat.",
@@ -1153,49 +1206,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
-      "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
-      "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
-      "originalUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/6/db/6db2b106-719d-5daf-bdcf-3cd47be85938/64b6cfad0b0c6.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

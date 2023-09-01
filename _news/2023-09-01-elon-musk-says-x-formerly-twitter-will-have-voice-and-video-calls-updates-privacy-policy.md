@@ -2,11 +2,11 @@
 category: news
 title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
 excerpt: "Elon Musk says his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform"
-publishedDateTime: 2023-08-31T18:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-webUrl: "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840736"
+publishedDateTime: 2023-08-31T18:17:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-twitter-voice-video-calls-updates-privacy-102840749"
 type: article
 quality: 34
 heat: 34
@@ -46,6 +46,6 @@ related:
       domain: cumnockchronicle.com
     quality: 2
 
-secured: "OLVbMNky8a0+7GUOaL0ioHj0+gbXeY/YBuwcECA7xsY9YcJpeJwafTKMdIs+3CtBS/VhWLSbij8T4Vq6J93d0uWloLbxanI3nzIZrF1U8hJrWajSgIcyiSuAAghxnRnrsr7ZBSVblcbuVU7DPEltN5Pd9QgF/SmBhgaRHyUl9OeCU7Dqx8ZNIvtc78BXlH7FPV9XHhIsC1Iqt+0btJ0lDgASO+9n+/YE+Kp1NO/qQF2JvgdvC+K9Bmjs1EmL40Sjgi96u6rn1T90vq5V27NVnPhoiiK7Y2G19Di4bKHhN7QvuLWHUCqu38tfVeuwAMs8z/55RJr9V0FrEtlA+e/S4hz7yjDrNBnaJTSd9Uyslzo=;2Sqsof/vgNFShF2awXNs5w=="
+secured: "SBzXrvpCZ5Nb241p43v8cyss57iKdHb34vkOai3TGRT5WcjA7RYz4cR7mBE9JJoRPASoL2fX45MVLiNG1K1/RUbePGmawX+F5sdPrkqupFHsL/XHOG0RrJ31qGpITkgzd++Jsug9VBqGuB8G43JnlV6nwVej1eYyCi9l5J7HrcHJoGK5JxiWpvl3Y/uOjP5OGQ7GXGEaUL9UfH1DLGfKiON1Z3sYNxFCv1meApywrgSvgnaoC267jiooKJ6Brt+MsALc18bafcczRcXf9RVjPzLUUYSideq0NIlRq35ChFAsYvrj3Y4Mw7WqjlpFVKRh6bcCfq2ZmvPY260wVy3nOIvu1fFLDVETcsngnS4zung=;imGJwo/IEFkJQIKT17ZAHw=="
 ---
 

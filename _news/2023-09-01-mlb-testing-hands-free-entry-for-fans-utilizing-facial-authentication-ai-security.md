@@ -1,30 +1,29 @@
 ---
 category: news
 title: "MLB testing hands-free entry for fans utilizing facial authentication, AI security"
-excerpt: "The Philadelphia Phillies have partnered with Major League Baseball to use their stadium as the site of a pilot program called Go-Ahead Entry."
-publishedDateTime: 2023-08-31T21:22:00Z
-originalUrl: "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f"
-webUrl: "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f"
-ampWebUrl: "https://www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f"
+excerpt: "The Philadelphia Phillies have partnered with Major League Baseball to use their stadium as the site of a pilot program called Go-Ahead Entry"
+publishedDateTime: 2023-08-31T18:31:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/mlb-testing-hands-free-entry-fans-utilizing-facial-102841788"
+webUrl: "https://abcnews.go.com/Technology/wireStory/mlb-testing-hands-free-entry-fans-utilizing-facial-102841788"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/mlb-testing-hands-free-entry-fans-utilizing-facial-102841788"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/mlb-testing-hands-free-entry-fans-utilizing-facial-102841788"
 type: article
-quality: 70
-heat: 80
-published: true
+quality: 68
+heat: -1
+published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Computer Vision
   - AI
   - AI in Security
 
 images:
-  - url: "https://cdn.newsday.com/ace/c:NjhmYzIxMjgtMDE0NS00:YzgwOWM5/landscape/1280"
-    width: 1280
-    height: 719
+  - url: "https://s.abcnews.com/images/Sports/wirestory_b31926803c627ec7f0f8972032466cea_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -45,6 +44,6 @@ related:
         height: 640
         isCached: true
 
-secured: "D8hxeJX8SGU7oQOdqNzBGE8PyYL8uvudQEBNTKguc8powxBsTLHfoZZZ86aZmE9TbXpyEQJNC/T/ByQeHQofAdNtoD/Z3U/circC4EwTf0aVCj/gcs4vb/VEW0HT1tcFhaRvjzvepn9kishSuYD3GBcW8jvUvoYB4ZoJSeoJO1W8DURQFLFVZlHZoHpPdBpni7mNebAO4f3i6vm39gkuVbN0aM0etXFsMyOq1oWsUTxL9VfgUKFKmlpuIC17DGpS+je1Cd9FldqqTH/NEaEFTvzBbz41pyqdrJqJbnnp2h9cXkYDZieo9M8W44zBMiBUEnhKF01I47KT7Ok3sa/QpV6nFB93n3FvbXoFZvbSYdQ=;MVRzXCQqh0QZ23rErH+neQ=="
+secured: "DcMC2rZvZqAaC7jffzoQrRleLhdFsXSzYmcX/uvZ0xjV5Jh0WtubVrzFcFkv+RpYj9BHf3bERGQMoX8DBQDs2Ax9QSrz6LeOy/OaEoiLF5JErKhC0IFJiBzYLPfWJYqJEWOSVoM3DIJj7KWX0Izl6LNRPHKqVX7VFWGlo9rEChjCAquR4D8sxkuV8rwOllqSElaYEGWvhJvSd2fa1l1ynQY+hX19cIZCWHQUOpr/Owoe63Wu1qyizohhb37bB1lJer0VvQbVdOuOAC1qPYFeSnvOEX61lHf41I9Q0B0UNsmCfBaX+CoD1NjMWPeG8yRrWd9eBm1ntlhPDJyH6nIqcW0CUwGtSei7TqODJoU2vGY=;tRpru63f25ZjdgNYISFD7w=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-08-11-federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads.md",
+      "title": "Federal regulators take first step toward regulating use of artificial intelligence in campaign ads",
+      "excerpt": "The FEC unanimously voted on Thursday to advance a petition asking it to regulate ads that use AI to misrepresent political opponents as saying or doing something they didn’t",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2023/08/AP23222540945939.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1",
+      "publishedDateTime": "2023-08-10T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-alibaba-cloud-named-a-challenger-in-gartner-magic-quadranttm-for-cloud-ai-developer-services-for-second-consecutive-year.md",
       "title": "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year",
       "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr",
@@ -1146,58 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
-      "title": "CHART: AI stocks enter correction territory",
-      "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64d434014dd2b50019c27314?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
-      "publishedDateTime": "2023-08-10T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

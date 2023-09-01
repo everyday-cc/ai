@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-29-ai-industrial-robotics-morocco.md",
+      "title": "AI Industrial Robotics - Morocco",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$19.74m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.65%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules.md",
       "title": "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules",
       "excerpt": "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest.",
@@ -1105,49 +1148,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
-      "title": "Nation presses the accelerator on driverless vehicles",
-      "excerpt": "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

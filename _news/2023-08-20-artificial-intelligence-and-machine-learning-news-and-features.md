@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ..."
-publishedDateTime: 2023-08-19T23:08:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
-webUrl: "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223"
+excerpt: "Researchers at the University of Surrey have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain. A team has designed an artificial intelligence platform to ..."
+publishedDateTime: 2023-08-20T12:38:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/82"
+webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/82"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "+SAM290gFU3ZZE+cVcVmTuXgZAsCT0SHaQl7TXbEuN8xdvnfeVaHIL7lHbMoonaqD9k/t8/ta25dwUZshLForm/xvXapHq+8+4P36IuoXrCiRegGJLwkToJ+chq1Ewgij1LDsGjlcQYMpN7KhzMQUQY2Ddxtr4OrB7UQIQEsRWZKkbfOqBFXng6vupWQ2p2MJKS0OueyoZXYg+0GAYmafdNGm2j8lp22Hvtg71o2VWqPh4a80VmAKxHKCWYxmWGRyM86B0EwZ84HkDbnwTFAyLEG+GKCb4a0KpDDhDi1T1aFQUGuIET3brKcMMo6pGqAsYYeJqtqAznPQ9bw1BwRDNPHxmkO1taQkBbTHUTAAqE=;54v9OJdiaDErzpLR7gAJKw=="
+images:
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230901"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "4XhvvU4nr912GwpNCRi8xARXKQu/LvBHoA+sqehtQrMtmtlibuFe6PjWwNTqS5/ELioi9YhjouX1vjAk8e8AE8RcU7V8Xb7oYqfRJWSIwMgRUQ0JZGHPORMVp8mcPUWrip5B6P1OolujDigLM+RXAtzwvvU+IcADK2EzlsqNOypXLD6gGxBzHq7WHbm+vYKppSQArCHh2wQ6uHGWhG8TVUujiG/K1DLn17nunBS5ektjBYQuT42OtU/pqcJw2UgAMmAilqdR+Nia6nz5AE4+HEmUjZ7VvRMg9Mv+Vt9ocgiTBPS2fTE9KbCFFcKAAlNm1z/szUFsqpYTzNnYwvOkzmXUcExvX6mEksi95j57P9U=;MVSc31mmCUOsMTtXithJog=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-06-30-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram.md",
+      "title": "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram",
+      "excerpt": "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
+      "publishedDateTime": "2023-06-30T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
       "title": "The True Threat of Artificial Intelligence",
       "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
@@ -1074,40 +1117,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result.md",
-      "title": "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result",
-      "excerpt": "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
-      "originalUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
-      "cdnAmpWebUrl": "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
-      "publishedDateTime": "2023-06-29T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adelaide Now",
-        "domain": "adelaidenow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

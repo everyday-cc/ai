@@ -2,6 +2,50 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-07-07-moh-agency-microsoft-to-develop-ai-tool-to-help-healthcare-workers-in-singapore.md",
+      "title": "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore",
+      "excerpt": "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "originalUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
       "title": "Data security: Why a proactive stance is best",
       "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
@@ -1069,50 +1113,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-watch-as-robots-take-part-in-un-discussion-on-ai-in-healthcare.md",
-      "title": "Watch as Robots take part in UN discussion on AI in healthcare",
-      "excerpt": "Robots took part in a UN session examining how artificial intelligence can be beneficial for healthcare. At the \"Robots that assist and care: developing socially intelligent robots for good\" event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/19/14/gettyimages-693354894.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "publishedDateTime": "2023-07-06T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
         "AI in Healthcare"
       ]
     }

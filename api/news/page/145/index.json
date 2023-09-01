@@ -2,6 +2,57 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-26-this-ai-startup-aims-to-predict-heart-failure-before-it-happens.md",
+      "title": "This AI Startup Aims To Predict Heart Failure Before It Happens",
+      "excerpt": "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-were-still-waiting-for-self-driving-cars-but-autonomous-boats-are-already-here.md",
       "title": "We’re still waiting for self-driving cars, but autonomous boats are already here",
       "excerpt": "Fully self-driving cars have been promised for years, but despite numerous road trials and advances in technology, we’re still waiting. In 2016, Lyft predicted that most of its rides would be ...",
@@ -1119,49 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-no-your-job-is-not-going-to-be-replaced-by-ai.md",
-      "title": "No, Your Job Is Not Going To Be Replaced by AI",
-      "excerpt": "Voice AI is already being widely used in healthcare: At a time when the vast majority of people are just beginning to hear and learn about artificial intelligence, it is critical that technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/05/no-your-job-is-not-going-to-be-replaced-by-ai/",
-      "originalUrl": "https://medcitynews.com/2023/05/no-your-job-is-not-going-to-be-replaced-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/11/artificial-intelligence-g0465c9705_1920.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-25-two-of-the-worlds-most-critical-chip-firms-rally-after-nvidias-26-share-price-surge.md",
+      "title": "Two of the world's most critical chip firms rally after Nvidia's 26% share price surge",
+      "excerpt": "Dutch firm ASML and Taiwan's TSMC, two of the world's most important semiconductor firms, got a share price boost after Nvidia's earnings impressed investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "publishedDateTime": "2023-05-25T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
       "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
       "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
@@ -1414,59 +1466,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-reddit-cofounder-says-the-us-government-is-not-equipped-to-regulate-ai-and-must-get-up-to-speed-quickly.md",
-      "title": "Reddit cofounder says the US government is not equipped to regulate AI and must get 'up to speed quickly'",
-      "excerpt": "Fears are growing about the possible misuse of AI, with many tech leaders, including Elon Musk, calling for a pause in its development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "originalUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6465e2a8fb9a9d0018c9056b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "publishedDateTime": "2023-05-18T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

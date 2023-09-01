@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-29-microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.md",
+      "title": "Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win",
+      "excerpt": "Microsoft has a suite of AI cloud tools called Azure AI that allow companies to use their own data for AI and build their own machine-learning tools. Many companies, including the NBA, CarMax, H&R Block, and others, are already doing it. Even though we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "originalUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rock-em-sock-em-robots_fight_battle_ai_csa-images_getty-100786545-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "publishedDateTime": "2023-08-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment.md",
       "title": "LTIMindtree partners CAST AI to help businesses optimise cloud investment",
       "excerpt": "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings.",
@@ -243,7 +286,7 @@
       "originalUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1095,21 +1138,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-28-cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage.md",
-      "title": "Cheap Chinese robot waiters worry South Korean tech firms amid labour shortage",
-      "excerpt": "Tech executives are concerned about the business impact from cheap Chinese robots that can cost one-fifth of the price of domestically made equivalents.",
+      "path": "_news/2023-08-28-china-gpu-firms-aim-at-ai-chip-orders-in-the-long-term.md",
+      "title": "China GPU firms aim at AI chip orders in the long term",
+      "excerpt": "Despite Nvidia's whooping 90% share in the high-end AI GPU sector, China-based GPU chip makers are still keen on contracting their customers frequently to improve their products, eyeing to tighten the partnerships in the hopes of gaining their orders in the long term.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
+      "webUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/5e880516-8465-4e5b-b955-dc0d12ec5535_6ad7cbed.jpg?itok=c2ArTYvn&v=1693190899",
-          "width": 1200,
-          "height": 630,
+          "url": "https://img.digitimes.com/newsshow/20230828pd209_files/3_2b.jpg",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1119,21 +1162,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T21:02:00-07:00",
+      "publishedDateTime": "2023-08-27T21:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1142,58 +1176,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-can-ai-increase-diversity-on-tech-teams-the-jury-is-out.md",
-      "title": "Can AI Increase Diversity On Tech Teams? The Jury Is Out",
-      "excerpt": "Can AI reduce the diversity gap in technology teams? Experts weigh on the possibility of AI changing how corporations champion diversity in the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e92b60f6b1f18bf10f2e62/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
-      "publishedDateTime": "2023-08-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

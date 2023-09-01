@@ -38,7 +38,7 @@ related:
     provider:
       name: University of California
       domain: universityofcalifornia.edu
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
         width: 400

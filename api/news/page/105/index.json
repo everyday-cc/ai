@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-06-22-microsoft-azure-openai-lets-enterprises-feed-corporate-secrets-to-chatgpt.md",
+      "title": "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT",
+      "excerpt": "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg",
+          "width": 980,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "publishedDateTime": "2023-06-21T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication.md",
       "title": "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication",
       "excerpt": "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences.",
@@ -1107,58 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-devron-awarded-2023-best-machine-learning-company.md",
-      "title": "Devron Awarded 2023 \"Best Machine Learning Company\"",
-      "excerpt": "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

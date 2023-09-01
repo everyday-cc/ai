@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based finance startup Lentra from India enters PH"
-    excerpt: "Lentra, an embedded AI-based finance startup from India, entered the Philippine market to transform retail and small and medium enterprise"
-    publishedDateTime: 2023-08-28T11:30:00Z
-    webUrl: "https://www.manilastandard.net/business/banking-report/314365057/ai-based-finance-startup-lentra-from-india-enters-ph.html"
+  - title: "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs"
+    excerpt: "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically."
+    publishedDateTime: 2023-08-31T20:41:00Z
+    webUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
     images:
-      - url: "https://www.manilastandard.net/wp-content/uploads/2023/08/lentra.jpg"
-        width: 450
-        height: 300
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Amazon-smbhav-india.jpg?w=1200"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "The need for an Indian system to regulate AI"
+    excerpt: "When it comes to AI regulation, India needs to have regulations in a manner that is consistent with the Indian ethos, by and for Indians"
+    publishedDateTime: 2023-08-30T18:46:00Z
+    webUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-system-to-regulate-ai/article67252763.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
 
 secured: "MlwIJRq0kEx3zTvcjrfrMJ1YuE791kQNRQpfGdjvX7/6+GLcyiijxX3bRIstwNAj8ivpNZbkmbw0NcJ9v9vgBKil/O7nCb/pRauFEhat5/uYbsUwIEUb1MTMCSPFKDPAgFTF64shILu0QDpLXmdLtznQibLMwvqc8YNFbbIekCwTaqnPsA9OZceB5Is1zrRK3BX43gpdJ5yBWOexA9sXJqgO815XDGV0sVtDYE8OOu0MCLpU36mL1SejcSbHbcuqPUKwXuzDa4l7n+T2IpQBUTv+cKaSHNBEq22cXLgYTdloceZvpZk7TEloyTs4kdCwxRWoZd+WvPjD9JVyieR+A7giT+fL8MQnAyXsMfVK6B/89Kl5yCd02yEeL3zinTiyRmsw8DXwlzm/7fD8eXPLHnhAIpAbpOJpqQ8SskEZ4u0f2B7Rn1m7M0hVrC8CjBFD5HtM3YcFjQGv9NUgNDKJ5LT+tn8vG9WgVeBtEgVD8/J5W5oNGDkZEaxVuTXntodlM6Zu5BM+f08v8yJevmI0QQ==;bj8S6G0Hfnoa8jWaRs+Aog=="
 ---

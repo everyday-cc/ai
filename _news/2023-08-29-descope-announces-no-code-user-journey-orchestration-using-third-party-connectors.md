@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Descope Announces No-Code User Journey Orchestration Using Third-Party Connectors"
-excerpt: "Descope, the drag-and-drop authentication platform for developers, today announced the availability of third-party connectors that enable app developers to create and customize entire … Continue Readi"
-publishedDateTime: 2023-08-29T14:06:00Z
-originalUrl: "https://multichannelmerchant.com/press-releases/descope-announces-no-code-user-journey-orchestration-using-third-party-connectors/"
-webUrl: "https://multichannelmerchant.com/press-releases/descope-announces-no-code-user-journey-orchestration-using-third-party-connectors/"
+excerpt: "Descope, the drag-and-drop authentication platform for developers, today announced the availability of third-party connectors that enable app developers to create and"
+publishedDateTime: 2023-08-29T13:01:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/descope-announces-no-code-user-journey-orchestration-using-third-party-connectors/article_0aa2b43a-2d83-5ace-b24c-08173792a0d6.html"
+webUrl: "https://www.bakersfield.com/ap/news/descope-announces-no-code-user-journey-orchestration-using-third-party-connectors/article_0aa2b43a-2d83-5ace-b24c-08173792a0d6.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Multichannel Merchant
-  domain: multichannelmerchant.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://multichannelmerchant.com/wp-content/uploads/2023/07/mcm-logo.jpg"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "YDWwMohTccX3bTA8czsZVdT5D6TcEAX6HEFFcyk0dWsAoATRMZF4gSB3rLc/x1DFCNcUwuvK2jTsvbNtxiqB4Xe1w3oCaf2P2rKugzMJ3NbIrqC43E8NIYOcLawKYZBASfpPqj36bKYAVvaz3wLJc3ES/d9THIOr0RfsRIuSBb2Rucb8gl2mXA3dC5vRjS+RvO1++lYDYbsQbbVY2fD91oTk4lctd1uwiNa6smnyYBzH20Xe7I6+DWBF85x81PGJD7aPM8U1UYtUyU7Zp1mLqpFM2epkTAh0Az++6fvBRsGBQZCyHUc1xmxG/tqx0GJWBJBVhfYfx5OkOspUPlLQbWh/2srNasxla3sJTprxwvA=;ACC7nl1neAeyCjpnhc+mzw=="
+secured: "RDsD/Of4XSjFXl7o9BGbqqjeU+MHOpdkNe+gCRMdFIsKFK8JWF3rrni8t0z41OY4JfqnqcAXmEOaPLuqfZNPcdgVANGsOkIKhRhc9tImYtdEvfzDx+6NNd3qVCEj+Lmw3q5aNuz4EJqk5bTsSuwIa18268jJBlkZlQWGBNZHJG4gXKr53YVOnWDLUX5JBhB7otNvc1s2GL0phAzdp7Ibe4ZKR1XHffosb2EsXFlYRStTM7kK+FvpdQ6hjxts0tGzgq1WJfPfCL/I+zMIOLLYLapH8Pa4BQE9frKzlrROEqE+ea3N1dGvciTjkJmifQmHKesTlcEF72ipwI7F6oyOLfk1axmbpyuzXvQRzWnA9dE=;ULTmbkBW1UI+6q0P0EIKPg=="
 ---
 
