@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-01-mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security.md",
+      "title": "MLB testing hands-free entry for fans utilizing facial authentication, AI security",
+      "excerpt": "The Philadelphia Phillies have partnered with Major League Baseball to use their stadium as the site of a pilot program called Go-Ahead Entry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
+      "originalUrl": "https://www.newsday.com/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:NjhmYzIxMjgtMDE0NS00:YzgwOWM5/landscape/1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security-dgwxxo0f",
+      "publishedDateTime": "2023-08-31T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-meta-releases-a-data-set-to-probe-computer-vision-models-for-biases.md",
       "title": "Meta releases a data set to probe computer vision models for biases",
       "excerpt": "Made up of 32,000 images containing 50,000 people labeled by human annotators, FACET — a tortured acronym for “FAirness in Computer Vision EvaluaTion” — accounts for classes related to occupations and activities like “basketball player ...",
@@ -455,8 +499,8 @@
       "title": "Cyngn's Proprietary Computer Vision Achieves Arauco's Complex Application Requirements by Utilizing Ouster Lidar in a Multi-Sensor System",
       "excerpt": "Cyngn developed proprietary computer vision algorithms that are bundled into a Pallet Stack Attribute Estimation sub-system within the DriveMod perception stack. DriveMod also uses lidar to inform the location of its vehicles within the site. Fusing sensor data from lidar and other sensors, DriveMod's advanced autonomy software enables:",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -475,7 +519,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T04:28:00-07:00",
+      "publishedDateTime": "2023-08-22T05:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1229,40 +1273,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/33836025",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33836025",
       "publishedDateTime": "2023-08-14T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Growth Report 2023-2030 | 101 Pages Report",
-      "excerpt": "The Global Computer Vision in Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

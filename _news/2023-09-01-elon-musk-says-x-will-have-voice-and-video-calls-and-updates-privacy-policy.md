@@ -30,12 +30,12 @@ related:
     quality: 4
   - title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
     excerpt: "Rival social platforms already offer voice and video calls. Meta, which owns Facebook, WhatsApp and Instagram, introduced voice and video calls on Messenger in 2015. Snapchat added them in 2016. X did not immediately respond to a request for more details on the new features or when they will be available."
-    publishedDateTime: 2023-08-31T21:59:00Z
-    webUrl: "https://www.timesunion.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
+    publishedDateTime: 2023-08-31T22:59:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 0
 
 secured: "tLn2rKAO6cpSR5N7fl3vH8QoVi2figuMtWgb5YQ2Zm1qQwVqhBaahht7H1ljlw4c4o/dGtTya5ozSGNKEVG8PIPTsnfIWZBOUIM3zrxGb8lnUjtqrtK1HH+fGPkv96vWvD8gr6Ea1F2VuIej4lBji3h7MvYh9PAnV1dqtidOsm9NAnSsOb06URsZ8/BbrcQ9vHfTA3w483A2/FMLQrj6T8nqhZp5lJS4AtieMfvDCsB6j9V48uHRcjS8mtXdxqPjEREBqY6kv7aKYgx08+LSVC2hbD3EKkJ/T0mW3HRr90kPKMauGyAkA3/tlaxXeh+TD788X09xwcmNgBAmARf8fQqyMYyInLlv1jwqLNyy7io=;P+Uxo9xRqs00q+YsrMMCMQ=="

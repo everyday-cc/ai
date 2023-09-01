@@ -36,6 +36,17 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
+    excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
+    publishedDateTime: 2023-08-31T23:54:00Z
+    webUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/"
+    ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Seattle is welcoming more self-driving car companies"
     excerpt: "Seattle is becoming a bigger testing ground for self-driving cars, with two companies already testing here and a third planning to start next week. Yes, but: It's likely to be some time before locals can hail a driverless robotaxi, due to state rules that don't allow that right now."
     publishedDateTime: 2023-08-31T13:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-elimin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all"
         width: 1200
         height: 681
+        isCached: true
+  - title: "AI Ethics Issues Will Not Go Away"
+    excerpt: "Executives are right to be concerned about the accuracy of the AI models they put into production and tamping down on hallucinating ML models. But they"
+    publishedDateTime: 2023-08-31T22:36:00Z
+    webUrl: "https://www.datanami.com/2023/08/31/ai-ethics-issues-will-not-go-away/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/AI_ethics_shutterstock_3rdtimeluckystudio.jpg"
+        width: 1000
+        height: 422
         isCached: true
   - title: "Artificial intelligence can create more jobs, not destroy them"
     excerpt: "A new study by the International Labour Organization (ILO) has concluded that Generative Artificial Intelligence (AI) is more likely to increase jobs than"

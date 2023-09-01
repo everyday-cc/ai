@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "How big restaurant chains are using artificial intelligence"
+    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
+    publishedDateTime: 2023-08-31T21:46:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 52
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
+        width: 1800
+        height: 945
+        isCached: true
   - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
     excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
     publishedDateTime: 2023-08-29T12:02:00Z
@@ -235,6 +249,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "3+ZaBW2iv++2kZyrl5ODCSN04QTt0oTanP3UT/gImpX8p7W/FVUvbzm6esgMm309jDBBxeowH+pKYYVapEI4C1tsKJcsCy1oAHUKly0b8Qid2Q31cG/LEDWzXWi9StvUYXGOp+lgB9jIxbIV0YvDfRRwq8s2FiAwpniVo4o9qT4zrp7R6PyK/cRz6+VNOvkkPtsqgceKlnvKZsuCi6vuGHzy2zbHw2ZKd16qsIhsGz6uuGsn26ZcX7c49qnBsw3Rh97IzxkeGlk+lLewleSEvsFx4jkPOwcZnrjxlW/BGWDd3z8REPSwDr/cx2PufDYLl1LWaeiEvAyCpPqVUhZiMaI2/zxY/5i3kDYAPeJwsgo=;wGBJSvw3ZJvxsSXbL6lJFA=="
+secured: "KWOVl+s42UcGDkwwtJm9Rue+bdYGc46Mr1qHuuJir1E1rgL2lYt13VgPQCfhTb8sHVvEejuPObll1GUeeYtUBikh/e0NzGkYhbR9N2zOjylkue6Dc0go8uZGMZfExIzUUnuchzC1qbVVYw4IyQd/oqHkSfTHxaGHFYlx9zH+p+4Q1nZmemPc5lLN0qiE9gMa0ikVHT624atnwYxw3AIQRLACdeV9U+z1kKHiP0K+4tLHY+p8E0EOQ4nzVN0lG9xWTOTUK/4W7ynIzpwerBu9K+kqyeyu8fLoDELOw5T2N2ClJcVe+wxDxFUlKOvQWeLurIB2pzpbr4Gcnqktql5i/7iSmj7/aL+Jt/2LzyNr1V8=;dJyLeA0ETxp3K4ARcom5gw=="
 ---
 

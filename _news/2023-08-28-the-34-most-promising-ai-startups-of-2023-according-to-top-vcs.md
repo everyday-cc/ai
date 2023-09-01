@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/the-most-promising-artificial-inte
 webUrl: "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "The 3 Most Promising AI Stocks to Own Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top"
+    publishedDateTime: 2023-08-31T22:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "AI’s Share Of US Startup Funding Doubled In 2023"
     excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
     publishedDateTime: 2023-08-29T13:00:00Z

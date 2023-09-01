@@ -65,6 +65,20 @@ related:
         width: 300
         height: 234
         isCached: true
+  - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
+    publishedDateTime: 2023-08-31T22:04:00Z
+    webUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?235416"
+        width: 375
+        height: 250
+        isCached: true
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
     publishedDateTime: 2023-08-29T15:56:00Z

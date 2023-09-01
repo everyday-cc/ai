@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "GM’s Cruise takes first step to bring its self-driving cars to Seattle"
+    excerpt: "Cruise, the self driving subsidiary of General Motors, began data collection in Seattle this week, the first step in the process to deploy driverless vehicles."
+    publishedDateTime: 2023-08-31T23:54:00Z
+    webUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/"
+    ampWebUrl: "https://www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-takes-first-step-to-bring-its-self-driving-cars-to-seattle/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Real-time machine learning: Driving the future of self-driving technology"
     excerpt: "Prakriti Singh wins Times Super Judge Contest 2023 \"The true propulsion behind the future of transportation lies in the synergy of real-time low-latency processing facilitated by efficient compression. The future is now, and autonomous vehicles are on the ..."
     publishedDateTime: 2023-08-30T12:32:00Z

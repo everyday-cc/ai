@@ -2,17 +2,17 @@
 category: news
 title: "Elon Musk says X, formerly Twitter, will have voice and video calls, updates privacy policy"
 excerpt: "Rival social platforms already offer voice and video calls. Meta, which owns Facebook, WhatsApp and Instagram, introduced voice and video calls on Messenger in 2015. Snapchat added them in 2016. X did not immediately respond to a request for more details on the new features or when they will be available."
-publishedDateTime: 2023-08-31T21:59:00Z
-originalUrl: "https://www.timesunion.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
-webUrl: "https://www.timesunion.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
+publishedDateTime: 2023-08-31T22:59:00Z
+originalUrl: "https://www.houstonchronicle.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
+webUrl: "https://www.houstonchronicle.com/business/article/elon-musk-says-x-formerly-twitter-will-have-18340837.php"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +38,6 @@ related:
       domain: cumnockchronicle.com
     quality: 2
 
-secured: "qM5lkkDR4U4BwJystZdEPPgP9mPhUGV0IkvUidZyBn+ZkzDo648kaGO22CpGYkaZ0pZ3M/bvwwwvWPc0heqCLKYYnIEHK3dazX8evazll69xQpREcwjMHxdOy/+0WpnltocnpA5DlAxFZNXPoHJE4JiDqT+pNGGE6Sz60V4NqGnoGe3c1Qq6l+DLMlpsdqAIIcS25c6v4oe1Q/7jgOn1ICaQM9hCl57dDWBEMmCTxd0p7sjl1vrc6wPON+j+Q43rQokbTPHxSXafw6lcY2C1RU1c/XKd5XOulQgGCZ6S/+xxBtZ96yJplhbRDDGt80yUhVU8k7Jca+6i3lbxnjw09JdVm5cpG0+c+YLHcTMzT2CN0BU5xEtjau4I3O0PqxBL4fhgV/Cvz7SvSV5dx8O5HwBLHYtxaJSNngtXSd6rTr3xmrJlrutwxYv2JHw1qHAtIFRwsb9vIKgYWinRw7zCOf8PUXLYkUA7x5HF84j54GTEh45S+KhUdVjApl9jTaoIg0Q7tck/AYPX/dbvSvslBA==;0RV9uqtGHa00rfzSGWpMhw=="
+secured: "lHqgVrAP2GY4A6N21QIUtldFiX2ePw5Z5opLiSPiiARpBXXMdANf3xbhrCVUtLbV3rMerlyNhWLgoTz+uMKDN7cDgf0SM1JJZ69QoEX6XGlh72hgSzY+KcsRWSQuus2NFKZ56FCsFUASigqcC9kaG9se40i6EvgfgU0iSWIuGZhSg75zkC+l1+kVPqhz7EY973KoscJaUydlQyq43pDgyq0GA4CLx2WjfvRMOnA59xu8TKT/aRrLo2YiyiagR7dDJvFimgIxK5ffoi5TefNi1jbxxXGjpsbNNXpqQsGM6TuvPI99dKhpY91Sv/UsIPojy/y/kRYrwxKWH66Chyg/UtckSgKxf03MaDIOHsCm29mDxmoaExuBRU0vqlBC6ARfX8kFr+ubjOVHr/ert05ejJQ0DLWYI4QH3yy/Y8c9+lqK4bIZOeYENXfntgV/4QDY+0lTDAQw3X5meQPryvgJeveF7mEpwwI2svFm4pv7MmyE44Je+woZvt55+vAcyS2T7fiw5hXJfPbxmUY2MhCPyA==;0INhOqo06aRUU45CDx7Nng=="
 ---
 

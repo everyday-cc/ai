@@ -256,6 +256,20 @@ related:
         width: 4160
         height: 2340
         isCached: true
+  - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
+    excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."
+    publishedDateTime: 2023-08-31T03:46:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/event/practical-ai-for-small-business-practical-application-safety-and-ethics-in-the-real-world/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 33
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/08/Pitch100823-1810-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
     excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
     publishedDateTime: 2023-08-28T21:25:00Z

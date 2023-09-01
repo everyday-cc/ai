@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "AI Ethics Issues Will Not Go Away"
+    excerpt: "Executives are right to be concerned about the accuracy of the AI models they put into production and tamping down on hallucinating ML models. But they"
+    publishedDateTime: 2023-08-31T22:36:00Z
+    webUrl: "https://www.datanami.com/2023/08/31/ai-ethics-issues-will-not-go-away/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/AI_ethics_shutterstock_3rdtimeluckystudio.jpg"
+        width: 1000
+        height: 422
+        isCached: true
   - title: "Artificial intelligence can create more jobs, not destroy them"
     excerpt: "A new study by the International Labour Organization (ILO) has concluded that Generative Artificial Intelligence (AI) is more likely to increase jobs than"
     publishedDateTime: 2023-08-30T02:40:00Z

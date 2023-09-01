@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "How big restaurant chains are using artificial intelligence"
+    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
+    publishedDateTime: 2023-08-31T21:46:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 52
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
+        width: 1800
+        height: 945
+        isCached: true
   - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
     excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
     publishedDateTime: 2023-08-29T12:02:00Z

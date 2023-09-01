@@ -249,6 +249,20 @@ related:
         width: 4160
         height: 2340
         isCached: true
+  - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
+    excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."
+    publishedDateTime: 2023-08-31T03:46:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/event/practical-ai-for-small-business-practical-application-safety-and-ethics-in-the-real-world/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 33
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/08/Pitch100823-1810-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/08/ibm-salesforce-300x234.png"
         width: 300
         height: 234
+        isCached: true
+  - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
+    publishedDateTime: 2023-08-31T22:04:00Z
+    webUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?235416"
+        width: 375
+        height: 250
         isCached: true
   - title: "SoftServe Launches Generative AI Lab"
     excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."

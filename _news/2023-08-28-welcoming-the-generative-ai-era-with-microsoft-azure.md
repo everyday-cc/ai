@@ -136,6 +136,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Generative AI Is More Mad Lib Than HAL9000"
+    excerpt: "A quiet revolution has been occurring in artificial intelligence. Whereas in the past, AI was limited to analyzing information that already exists, it has"
+    publishedDateTime: 2023-08-31T20:53:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/61/619208_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
     excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
     publishedDateTime: 2023-08-31T04:40:00Z

@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "How big restaurant chains are using artificial intelligence"
+    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
+    publishedDateTime: 2023-08-31T21:46:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 52
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
+        width: 1800
+        height: 945
+        isCached: true
   - title: "Rep. Waters Expresses Concern Over AI Usage in Housing"
     excerpt: "In her letter, Rep. Waters notes that many online platforms rely on algorithms, as well as machine learning, to scale up their business services that help advertise housing, determine home values through Automated Valuation Models (AVMs), and make loan pricing decisions."
     publishedDateTime: 2023-08-28T20:24:00Z
