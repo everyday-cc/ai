@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Apple is already using machine learning and AI in iOS"
+    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
+    publishedDateTime: 2023-09-02T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
+    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 76
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Local experts weigh in on affects of artificial intelligence and machine learning"
     excerpt: "With the rise of machine learning through ChatGPT and other artificial intelligence systems, there are positive and negative implications that can affect how local city government and municipalities operate,"
     publishedDateTime: 2023-08-29T22:55:00Z

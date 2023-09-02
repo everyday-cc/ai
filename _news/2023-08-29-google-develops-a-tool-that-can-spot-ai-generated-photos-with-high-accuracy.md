@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Identifying AI-generated images with SynthID"
-    excerpt: "Today, in partnership with Google Cloud, we’re beta launching SynthID, a new tool for watermarking and identifying AI-generated images. It’s being released to a limited number of Vertex AI customers using Imagen, one of our latest text-to-image models that uses input text to create photorealistic images."
-    publishedDateTime: 2023-08-29T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
   - title: "Google made a watermark for AI images that you can’t edit out"
     excerpt: "The Google DeepMind team has believed for years that building great generative AI tools also requires building great tools to detect what has been created by AI. There are plenty of obvious, high-stakes reasons why, says Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2023-08-29T12:11:00Z

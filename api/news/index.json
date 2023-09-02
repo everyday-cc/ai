@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-02-ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation.md",
+      "title": "AI is not a threat to human jobs. It’s a catalyst for growth and innovation",
+      "excerpt": "The workforce will change, but it won’t be replaced. And what AI will help humanity generate is well worth getting excited about.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_expressionist_painting_white_collar_workers_typing_on_l_5476dd74-cce5-4596-a125-177e6821aebd.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs.md",
       "title": "AI and You: No to OpenAI Scraping, Don't Eat Those Mushrooms, Prompt Jobs",
       "excerpt": "Connie Guglielmo is a senior vice president focused on AI edit strategy for CNET, a Red Ventures company. Previously, she was editor in chief of CNET, overseeing an award-winning team of reporters, editors and photojournalists producing original content ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -102,7 +154,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -260,7 +313,7 @@
       "originalUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1222,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
-      "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
-      "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107000275-1642015028719-gettyimages-1046078096-US_STOCKS.jpeg?v=1693567467&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

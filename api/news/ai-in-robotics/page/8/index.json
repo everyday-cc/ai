@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-07-08-ai-robots-at-un-reckon-they-could-run-the-world-better.md",
-      "title": "AI Robots At UN Reckon They Could Run The World Better",
-      "excerpt": "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "originalUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg",
-          "width": 768,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "publishedDateTime": "2023-07-07T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-07-ai-robotics-south-korea.md",
       "title": "AI Robotics - South Korea",
       "excerpt": "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ...",
@@ -1291,6 +1248,49 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-service-robotics-poland.md",
+      "title": "AI Service Robotics - Poland",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {

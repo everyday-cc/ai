@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-23-build-next-generation-ai-powered-applications-on-microsoft-azure.md",
+      "title": "Build next-generation, AI-powered applications on Microsoft Azure",
+      "excerpt": "Welcome to Microsoft Build 2023—the event where we celebrate the developer community. This year, we’ll dive deep into the latest technologies across application development and AI that are enabling the next wave of innovation.\nThe post Build next-generation, AI-powered applications on Microsoft Azure",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1019,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/05/247907_MS_Build_2023_DigitalAppYoast-SEO-1-1024x536.png",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-azure-cosmos-db-joins-the-ai-toolchain.md",
       "title": "Azure Cosmos DB joins the AI toolchain",
       "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
@@ -1417,40 +1469,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
-      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
-      "excerpt": "SymphonyAI will integrate Microsoft Azure Cognitive Services including Azure OpenAI Service and Azure Cognitive Search, and Azure Applied AI Services, along with Azure API Management and Azure infrastructure, in additional forthcoming vertical use cases ...",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

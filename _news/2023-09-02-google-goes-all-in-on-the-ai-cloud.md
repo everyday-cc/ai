@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
-excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
-publishedDateTime: 2023-08-31T16:03:00Z
-originalUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
-webUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
+title: "Google goes all in on the AI cloud"
+excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+publishedDateTime: 2023-09-02T15:37:00Z
+originalUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
 type: article
-quality: 38
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-    width: 1893
-    height: 767
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+    width: 6948
+    height: 4634
     isCached: true
 
 related:
@@ -133,19 +133,19 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+  - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
+    excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
+    publishedDateTime: 2023-08-31T16:03:00Z
+    webUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
   - title: "Using artificial intelligence to write a business plan"
     excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
@@ -209,6 +209,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "ORNB1w9ydDm/fICY8XdNC/dBAGsilB0kiTMEu6w4ZraMt6zf5tKT/9FINckpiSEqg85E/GFx+GwYJ2ObEiNxlD71drmNXdPD4Iciq4ComuYECpKaMsTM1WixsqkkLNzTRL3W+7c+h/p6+hLlfMtjnJ9D5ubjedSL82CfI3Qrq/xlOFgH3hCyv7t5inXzZm+LjeHTSSmYV7AyqKAYQx17Bj8m5pD9EpfvIjuuAYDyra9UpFA53I6KFGiPveUAtxxvA7e8Ra8AYmQfnAALtcsR1/AaPNvFi9PIm050N2GuETwsUmvu+1UxCUko32O2S7zekvtbCNf9eCVBAbTfjiV6r0v4co03XSA3ezlerP5ROhZyZUTdfyT5WDoxVcKglgT8tJYSEKIsJ+RXqoSjq+kqTw1Rx2yZHHHnAfcokRQSmiHhb4kqCmcmFwcFBCkw8BKXMTYLZBxPc6QZdutJYeia7y1r2aJiV6xiE5eZF3086BdhUKsbGg+uT2f0+PM/W0vvx3uOHW+Vv+YYUqw1Wsai1Q==;VthMnOuKwCJzyGapia1s0Q=="
+secured: "W4bkalSGgs6n3WU9YFuQVbmvmJGPt8YvuCjuGkywNzQsLbf429W+6hTd/+c+G+H4jhDEPszo8DAbTgEO+5r22Bmdk4Pn1Eez50QU77y+vHExDJXEfoc2NHHMR8L55HEn3aPuwL9uTA8H1VZyOmhg0XiZuONjbKHyikDGy7OO1xXcQpq9C3oxnjr2dHIVEKh1Dy0qZr7QZfWtgHn21hpOhpfT0slldaXx62Ap2i05oKbH7MCElBSsoHO9LB0vApBY/ds25YRhXoqc8qt0OA+VsA6gOP49ef5SvcBJa5tCaAwFne95LGnaYq57ace0N8mSLAazHYle6Zc62NKaXu6aaY1AORoTajL0XZW8y+ZDLvc=;7GytEZiFeTe3nEgtrM1xFA=="
 ---
 

@@ -50,29 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
-    publishedDateTime: 2023-08-28T23:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Meta launches open-source AI language translator"
-    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
-    publishedDateTime: 2023-08-28T23:15:00Z
-    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 41
-    images:
-      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "5 Ways AI Will Transform the Mobility Industry"
     excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
     publishedDateTime: 2023-08-31T15:30:00Z

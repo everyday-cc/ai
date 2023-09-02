@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make
 webUrl: "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI co-pilots readying Aussie business for take off"
-    excerpt: "Increased profits, personalised customer experiences, streamlined operations, and innovative transformations are among the benefits being realised right now, this very instant, for businesses across the land by generative AI (GenAI)."
-    publishedDateTime: 2023-08-28T23:50:00Z
-    webUrl: "https://www.afr.com/technology/ai-co-pilots-readying-aussie-business-for-take-off-20230825-p5dzg3"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.8261%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_133%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6230a23247b808afb4caef7a326ea263e1efcf60"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Schools use artificial intelligence to bust students vaping"
     excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
     publishedDateTime: 2023-09-01T09:10:00Z

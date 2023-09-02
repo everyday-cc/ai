@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-22-microsoft-changes-its-takeover-of-call-of-duty-developer-in-attempt-to-get-it-approved.md",
+      "title": "Microsoft changes its takeover of Call of Duty developer in attempt to get it approved",
+      "excerpt": "Microsoft has made a major change to its proposed ... or to exclusively control the licensing terms of Activision Blizzard games for rival services.” It marks a new twist in the case, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "originalUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/08/22/08/9122c881340d912b875badd0cb3d590bY29udGVudHNlYXJjaGFwaSwxNjkyNzczMzc4-2.9744146.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "publishedDateTime": "2023-08-22T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-how-microsoft-is-looking-to-ease-uk-antitrust-worries-over-75b-activision-deal.md",
       "title": "How Microsoft is looking to ease UK antitrust worries over $75B Activision deal",
       "excerpt": "Ubisoft games are distributed through services such as Amazon Luna and Nvidia’s GeForce Now — consoles that are in direct competition with Microsoft’s Xbox. By bringing Ubisoft into the ...",
@@ -1355,58 +1398,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom.md",
-      "title": "AI startup Anthropic raises $100M from Korean telco giant SK Telecom",
-      "excerpt": "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "originalUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "publishedDateTime": "2023-08-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

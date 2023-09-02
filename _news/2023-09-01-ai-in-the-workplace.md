@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Talking the AI Talk"
-    excerpt: "Rumman Chowdhury, an AI ethics researcher and fellow at Harvard’s Berkman Klein Center, told me in an email that companies using AI for its own sake might risk alienating consumers. Such companies “need to be careful in separating the current flashy ..."
-    publishedDateTime: 2023-08-28T23:40:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/08/ai-corporate-america/675162/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/cMhZtR2TFG-Fnh3Emi6QEv_3q48=/0x661:8660x5171/1200x625/media/img/mt/2023/08/GettyImages_912018754/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Generative AI and Foundation Models Face Inflated Expectations"
     excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
     publishedDateTime: 2023-08-31T17:08:00Z

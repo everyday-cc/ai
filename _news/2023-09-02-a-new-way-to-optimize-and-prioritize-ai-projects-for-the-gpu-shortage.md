@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-02T15:19:00Z
 originalUrl: "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/"
 webUrl: "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_many_file_drawers_and_files_and_GPU_with_one_file_drawe_9e7c558c-2436-4ad2-bd8b-0500f9b2202f.png?w=1200&strip=all"

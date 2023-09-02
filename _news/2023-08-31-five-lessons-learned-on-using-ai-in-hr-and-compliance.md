@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Apple is already using machine learning and AI in iOS"
+    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
+    publishedDateTime: 2023-09-02T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
+    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 76
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How AI and machine learning will revolutionize investing decisions"
     excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
     publishedDateTime: 2023-09-01T01:30:00Z

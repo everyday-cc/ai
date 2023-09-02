@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Facial recognition technology labelled 'Orwellian' as government eyes wider use by police and security agencies"
-excerpt: "The Home Office is eyeing an expansion of the use of facial recognition software - including potentially within police forces and the security agencies. The department put out a call asking for companies to make suggestions of how they could improve the ..."
-publishedDateTime: 2023-08-30T17:47:00Z
-originalUrl: "https://news.sky.com/story/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-webUrl: "https://news.sky.com/story/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+title: "Home Office accused of secret lobbying for facial recognition ‘spy’ company"
+excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
+publishedDateTime: 2023-09-02T17:26:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
 type: article
-quality: 56
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-  - AI in Security
 
 images:
-  - url: "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724"
-    width: 1600
-    height: 900
+  - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
+    width: 620
+    height: 372
     isCached: true
 
 related:
@@ -44,22 +47,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Home Office accused of secret lobbying for facial recognition ‘spy’ company"
-    excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
-    publishedDateTime: 2023-09-02T17:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company"
     excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
     publishedDateTime: 2023-09-02T17:26:00Z
@@ -75,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
         width: 620
         height: 372
+        isCached: true
+  - title: "Facial recognition technology labelled 'Orwellian' as government eyes wider use by police and security agencies"
+    excerpt: "The Home Office is eyeing an expansion of the use of facial recognition software - including potentially within police forces and the security agencies. The department put out a call asking for companies to make suggestions of how they could improve the ..."
+    publishedDateTime: 2023-08-30T17:47:00Z
+    webUrl: "https://news.sky.com/story/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 56
+    images:
+      - url: "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The Pros & Cons of Facial Recognition"
     excerpt: "Are advances in facial recognition software a boon or a bane to mankind? Adarsh explores this very topic in detail. Facial recognition is a tool to identify or confirm an individual’s identity in a photograph, video footage or in real time. Like voice ..."
@@ -119,6 +122,6 @@ related:
         height: 400
         isCached: true
 
-secured: "J1pHHhENyBT1TfOBn4vPExUoofNP0is3ZHVO3JpS02DhLzIPFYpbmMau+m5aZD4s7IbEdOSpWyWnFxhkfnMJ7lRh+E8nFX5dSWAn+C6aq59LH40/x3j6S42nY37zWxtKzRmfJBYJhfdbavuP/o+2eW/I2pGr+uEen0D9LUZ/vZ+WDjNV9tMYEgxktldm3/GPEWPNOS0mcJuEbS9sTG74czGHp0XeMdsWydhM3ctdlMp4MmwGt23ac+p5Z1vtPfAe0J+lzSwfzsrGU1EFZQhI/YEN3m9TjuiiDX5kGDCWUAbn7KrOfE4kU3zQLhli+2mAvhHfyLtBHDfzuuuFrNXb1EOPcpAL0bnVUK8N1jUFETZAsPQxkQbqh4/5cXuZN3NrV0+YiK7Aee/kHKKhjcGRWL6Yhmy9odAGm7IhU+JwMAAY0hzA1c2kyaT6EkzQpVugmW53lCecWcdjWrBuH2SmNhjjX6GK3n7FF+nv60NWzs3dy3JN1ljouEq9MRo8AWMxbHXyy+/ndFZNt9oABc6v7A==;+3RP7XdUD1mxxHBjc0DH/Q=="
+secured: "GW1KEdmxS7xfvKKG73hA4qbImDR0FGn06kuAoMd39UTggdBWXDqgS2BKbv5705fmNDZjDYLWk9R5rEJiUUUP4wjOxTzbMY9REoK4zX/mIQ12AA6AzD9f8P+NhBT/bNU/Th/NsThLl71l3jYGCgId4noPjkQc15UoWOiiQRjd//7UZoLYS9Gh+aFNlOCiZ4Fi6amC7QdpvA/F1+NRwBwMVq6WfaAdBZ791nG1ZrozKHlBg9GNr2deYbUMfI6gqQ7OnTjEVTJkENo8jllE6ZaIsdzghvJdzr0FSHCfLTks6nLOO+uUBygN4c+MKjhG9yInxCPlJqeaQ2zLv3hsmr/AK4yHV77V5vXPSqR3K8j91JM=;mpgfJ+lnKesML691m4XDgQ=="
 ---
 
