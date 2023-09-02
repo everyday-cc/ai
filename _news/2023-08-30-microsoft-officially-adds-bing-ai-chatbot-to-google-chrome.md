@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
 type: article
 quality: 104
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -283,15 +283,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
-  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
-    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
-    publishedDateTime: 2023-08-28T19:37:00Z
-    webUrl: "https://www.inferse.com/696630/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "GxhrJ/M+AIYfJ+SvYAAtROHSbf5OEa50OSkByJ1dzmPguHS2Q/ZyoIYkYrqQk7/oOuhEknv7MXURNcZb5WJIzmdCd8mahiSgz+awTh+pQuyH8Er5MMyCwJe5UdFeUa5trw1jSCgp5wQnWdm/sG29m3EB1KBiSgVRz3DcWrLdv9nU4z6lwRNeaL9+99HQpud1iFnJ1s+1uDbcQFyzv9/C/nwXuBsl8t2PUgZ9/H6qsNGUKV2bFPIpWgfzne3Th9pSIED2EvPgfjIfwNLp5ej70RHLvoLmNQAHf00noLXnH2DQhYSoy3hBLg/4189Kzn3A8zB0pWGpspiWM9YcfxfdOHw3ghXXpBSMaBgV3EFus1CpxZXAK+mzvtF3eBlcTo84FR7GF0r3HEmuRbV9uRdsJChp179AxVnbwx97Gm6uQDOUC9zqDuATAjs0rSXjdveNjx6Qh3ohBdBPI1AanSIv5U4LSVeoi0A77rSisxi9vJNrYMjRPvIoSWxmiSuxXZMIeXvor9BIG5PxXA/z5xOsPQ==;hCLVyEMpSM0+gZevSZxJkw=="
 ---

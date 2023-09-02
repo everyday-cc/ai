@@ -44,6 +44,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Activision to start Using AI to Combat Toxicity in Call of Duty Voice Chat"
+    excerpt: "One intriguing aspect of ToxMod is its ability to comprehend conversational context. This means that it can distinguish whether a statement is genuinely hateful or simply a heated expression in the heat of battle."
+    publishedDateTime: 2023-09-02T15:39:00Z
+    webUrl: "https://techstory.in/activision-to-start-using-ai-to-combat-toxicity-in-call-of-duty-voice-chat/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/CallOfDuty.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "OCsjPuqdRjc946r5ClpwPeWX6Oou1ZgxZuvcrKwjRCosOy6abAfFbW2zsp5ffG/nkMNa5sfoGyzfLAoqIdy9cL0+Al+j7eRdknFyB13UW8/NSnLVCBOJ78D8mFwYkyMODY77H/MSgtU2QiRX0okTO2JCbRbjJ9BVO2HyEUyOOQ55ARUWFXlEiikrAnY/TuuRLKfu7Tidx853wrQ+cGaBhe5gk271OPOQKz7dfMNyJ0YAMpmlWUUyzJN9rNPsv074Y1cMIiz+C8/K6CyiZTGFHBy84ZatjuzQFeLBnqcHiHHG4WknUcuw46ZYj6IioRS19/1jWFaUFI5bktdnaeAwskT/EfqIfu1JhRlA050vASY=;vBUNBh/CyQYCXVmqOQVvaQ=="
 ---

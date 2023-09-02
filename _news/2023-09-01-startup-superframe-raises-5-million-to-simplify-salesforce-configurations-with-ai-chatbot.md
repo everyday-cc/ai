@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superfra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
 type: article
 quality: 77
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 17
+  - title: "Salesforce revs its VC engine in the AI race"
+    excerpt: "Salesforce's offer to lead Hugging Face's Series D round didn't come with the highest valuation, Axios has learned, but the software giant managed to edge out several high-profile investors to seal the deal."
+    publishedDateTime: 2023-09-02T14:00:00Z
+    webUrl: "https://www.axios.com/2023/09/02/salesforce-artificial-intelligence-vc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 17
   - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
     excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."

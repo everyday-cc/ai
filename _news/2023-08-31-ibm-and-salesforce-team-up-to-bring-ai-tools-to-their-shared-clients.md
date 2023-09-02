@@ -130,6 +130,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Salesforce revs its VC engine in the AI race"
+    excerpt: "Salesforce's offer to lead Hugging Face's Series D round didn't come with the highest valuation, Axios has learned, but the software giant managed to edge out several high-profile investors to seal the deal."
+    publishedDateTime: 2023-09-02T14:00:00Z
+    webUrl: "https://www.axios.com/2023/09/02/salesforce-artificial-intelligence-vc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
     excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
     publishedDateTime: 2023-08-30T13:54:00Z

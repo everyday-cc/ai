@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/bridging-innovation-from-the-
 webUrl: "https://www.electronicsforu.com/news/bridging-innovation-from-the-human-brain-to-in-memory-computing"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
+    excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
+    publishedDateTime: 2023-09-01T07:27:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/data-insights/artificial-intelligence-in-pharma/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 19
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/Report_desktop-1.png"
+        width: 388
+        height: 544
+        isCached: true
 
 secured: "WikiAfNDrUjH1ICRiq9HhM34/OTee3737oeUJiIfThiCfDHzuUg1XPucGX0pVBKUeS+Y/EX6xfzbJAVK3UEsg5sSBFs6lON7Q0bMuj4v5jD6LFOJmpgNj0y/BylX+U7F5Yb4aVoCWmsmbrKlzCib7LzC/piulxcJf3SBfL08DcZunIQTykmVrtVtmLA//TgjYppJFC5rWrtQa3hzX7mWkrkNoPHjGkL6+P9Ixed1BqFmsaBX05JZgIFrcCAhBzLe78i4mfrykrCeX6IC65jdimdLC78A74ase4IORBdyeHJtiF5IrDue28JMZQPc3xg6jw+OwlpiDSIxR/XUwn3AmM3jomMSgQ0yJmJIe3hb4bHA8lAgmGPKQ2AWJAXp18W5SVcR+ptkP6lt55HLRyZquktljWvgwklAV+y7leY32CgGD4xtzD1LnvGwMDCKUnQ3YpH++4aMky41FqBJUXuWf7pbvdtTnCq/7+95f5NT290l4jy14Gih//1YR93fzd6EDEPUguYzM+vT/aUnWB6Gkg==;Ef32RgFZ+GgYfTfHcFKHCw=="
 ---

@@ -224,20 +224,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-Generated Child Pornography Fuels the Child Sex Exploitation Industry"
-    excerpt: "To stop abuse before it happens, we must start paying attention to the harm that AI child porn—and porn of all kinds, for that matter—does to users. Pornography rewires viewers’ brains based on the videos they see. As Norman Doidge of Columbia ..."
-    publishedDateTime: 2023-08-28T20:29:00Z
-    webUrl: "https://www.heritage.org/technology/commentary/ai-generated-child-pornography-fuels-the-child-sex-exploitation-industry"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 36
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2023-08/GettyImages-1472123000.jpg?itok=JhakmQi3"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
     excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
     publishedDateTime: 2023-09-01T20:58:00Z
@@ -272,15 +258,6 @@ related:
       name: CTV News
       domain: ctvnews.ca
     quality: 31
-  - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopy"
-    excerpt: "New research published in Annals of Internal Medicine explores the possible benefits and limitations of using computer assistance, or artificial intelligence, in detecting lesions and cancer during colonoscopy."
-    publishedDateTime: 2023-08-28T21:25:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/999255"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 5
 
 secured: "b4A878B2kwPreNd3yHQnBnKMP6OY9iZAVvX4uftE6UWIsD6iiAuQgKMJ136DPAlMWAOu8xekeCHDOM5ZbbGk2+YOajoNnw096lI87Y6GvoLxMuXin2x+kaxT6oMTHlX7BCFdN6GEJaxqR4eJ5OIFSsljHrtiGdOLb0AB4wIw/mD2NuF/h8mHBDOeFENuqApqPNjBZNdbHJ1JmTugbCebuXbf5VtMoKbzNAomyCPMBrLp/jf17iqL7PIDxY6jyaTwH2/77JQcaZHFDpC9cAY0qdOJebHLckKosNsQbwkbzKv4Dd+LipfLDf+y5zXymOL3l/DzrSFaCMhpnAkZq6TLIX6vy26zelGKzrjr7+sy85Y=;qcwp7K/WTFklI+UIm1R+fw=="
 ---

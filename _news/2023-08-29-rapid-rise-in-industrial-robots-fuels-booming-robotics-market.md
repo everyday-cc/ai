@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fue
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Industrial Robotics - Mainland China"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$1bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.67%, resulting in a market volume of US$3bn ..."
+    publishedDateTime: 2023-08-29T10:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/mainland-china"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Improving treatment outcomes with AI-empowered interventional robotics"
     excerpt: "Singapore's NDR Medical Technology is integrating AI and robotics to enable image-guided robotic healthcare procedures."
     publishedDateTime: 2023-08-29T07:59:00Z

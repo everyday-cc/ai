@@ -67,15 +67,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Elon Musk Live Streams Fully Self-Driving Tesla"
-    excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
-    publishedDateTime: 2023-08-28T19:50:00Z
-    webUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "hcOlcEyP8Qz41GbDnNX59lOl+Q7e+CmxoGorHjn1VIEeaeI+NRoR5rr4qHQIG0tANlhBdRujjSE6seDCg0mX2N7Eipb4UZ7dj7SRkW9o/pSRooxKgWUEUtgfI8tl9Asotg8pEsm4xAT8v4+VEAwM9/rXlUl53Al99qXiKzMP2NxzjCcdoBDVDiof69xy3Xi+bC0BVOOrMxLf+1PogCKr52HuadKLsaFe3J6ukh7zY58YnLmpp6NNU6o3B9NMHH8GeFZVgJ15houXpG0n7u1wg2WP4k87xz40T2/c9adAmppVnX95IUmsQLh3p3hYdUzdh2HNUChQt8q/+MboqwMPT9WU93+3a758mIuPqHADp3M=;sP761rS40ZM3Vs1R5zVa/Q=="
 ---

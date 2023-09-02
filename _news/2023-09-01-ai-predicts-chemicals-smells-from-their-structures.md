@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/d41586-023-02714-2"
 webUrl: "https://www.nature.com/articles/d41586-023-02714-2"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AI 'nose' predicts smells from molecular structures"
+    excerpt: "In a major breakthrough, scientists have built a tool to predict the odor profile of a molecule, just based on its structure. It can identify molecules that look different but smell the same, as well as molecules that look very similar but smell totally different."
+    publishedDateTime: 2023-09-02T14:40:00Z
+    webUrl: "https://phys.org/news/2023-09-ai-nose-molecular.html"
+    ampWebUrl: "https://phys.org/news/2023-09-ai-nose-molecular.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-nose-molecular.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/-ai-nose-predicts-smel.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XF/7cVvQPlnCIAsDX04tXceiQYdBAG0S9566/EcSwGGxdyPWtA3VSssPvFGstcSSfIX+jpYcF5eFL3ehbNTdfSQijeZOfGq8yqatXXjdaJnaP7v2UvIa/E1ObLlXlGdu1DoNbkfarLlo+4uVZUduna7STbXbttftOW2NrZce9OGMoEvw95JHIJz4T2y5dZCGER6sz+zBAwxPbbibxMEVMtNisa92OZKaOgG+8ZYJ5s1udKHyzLG/eda8tMV7Tw08w/vYlyJYztV+ehpxXpT/KeJjDLvhfFpDEdoND666gI8XiZVnoqGGMFdArF7IRtGsrN3EqPU4m2knx7Me9+Y2/Jd6wp/grFGh9cLIcWcCk16lqpGy+O0Pk/RfqH1H+AECw0Jqb7ovWLNbK682aTO6fyKGMoaZp4Mq1WKKsy6BN1eq+D3BQ6xKcwDQmCW+MpuHdmSScLpYNFmyVtk7HE6g59NMV9zFC91te7PiG6OlpJpRyiTq94/P+yXzzWhZAzGfu4isEQdnHrnmp59q7StlRA==;LL2rk9V+v5kQPqyaVmWrbA=="
 ---

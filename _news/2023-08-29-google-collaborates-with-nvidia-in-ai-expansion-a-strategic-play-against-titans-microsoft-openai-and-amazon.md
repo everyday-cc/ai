@@ -279,15 +279,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
-    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
-    publishedDateTime: 2023-08-28T19:37:00Z
-    webUrl: "https://www.inferse.com/696630/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "A+Z3Q4B/wdBZhAUpYUClJQokK/BP8fX+Vxm7y0Iid6I9Gy8vlNb/g1BMQNMftTE0WyvNV+b+sQ8/J4cZPKiEVwI5zFgw0virLrh2Cx+M0CbGrrExYst5c9MvBzEo70akPDPx73iWEcUCi4bRLV+iUM4hTFRMpisi+o7b0eDaZIUovBiD3lI+V/hAgaXUaLOW7uWEDWD8nvb0HFzh0QQAjMHvmkcZ9uPpynAV8uQM4YizA5vP2tIMaKz+GWu07iUfIdnZy5Bf/4nN72iHDrBRx9XWr/jZRHwmsDk41mtRXnTsKXRG71Zpmwf64sG4qV75oIZ1vRHoB4JuJhz0ptGuU/iaf248kHkk8LNwCKfx7p4=;a+YWkYtyuNtYs6FvmFTlCw=="
 ---

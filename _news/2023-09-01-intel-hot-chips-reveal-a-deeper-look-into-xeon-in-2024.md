@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 715
     height: 719
     isCached: true
-
-related:
-  - title: "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts"
-    excerpt: "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023."
-    publishedDateTime: 2023-08-28T22:20:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200"
-        width: 691
-        height: 306
-        isCached: true
 
 secured: "g6Zlw+x0kwCZKEaQSAg/Vr1iEs5D1kGIP1CR6CVOpGJ8Ehsv68JGyMG6nSP0xhYRviDRb37Or2cKgXKN/eOJuoF8xgfWdW5oUBWuDr2O7sNp58Vh51ekFxJCxPGO+q5MJ8D/KvfPZyJgAluyshrPIoQkZ8k2y8CZlclU+iU746N2G3FRIHJn757mNtKlNvwPoTaEL8OwIV+mM3w4VKfQQbCTdL8yaba0k+P4ICrGKfZIN5hz58DNWvcDc5yxqmFETfYe7n38EJdUykXm7kzbEEGr1S2noJ7DVOydb2GB7XrPuABxQmoMSB32RkDHDNpFh8PepSmakYLyrcc7yvgNgdAlPjQKdIyBYp7n7NEBTqxE6rJv2/CkS+NNa3VfaZ46mOy0S1l/Wf5o2npqUKgaTplUvWTHLLEgwQC90UzyZD7Hvim13F8cmYM0RgmiN4KG3YRY9iXW5WD0EWzKU2QYw0LsUhSgAblrCHf6SGvLawaLHsh44Xg6jEYsj0hfZY2M6/a81C0HNHG1HJ5jVVFg9g==;RJIlI5mU6BQy47ABxSjH0A=="
 ---

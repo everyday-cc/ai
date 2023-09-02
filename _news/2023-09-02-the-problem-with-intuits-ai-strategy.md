@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-proble
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How the Medical Industry Could Produce the Biggest AI Stock Winners"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next"
+    publishedDateTime: 2023-09-02T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png"
+        width: 1165
+        height: 435
+        isCached: true
   - title: "Tijani’s Artificial Intelligence strategy for nation-building"
     excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
     publishedDateTime: 2023-08-30T22:13:00Z

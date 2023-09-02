@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-ha
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ai-powered-hate-speech-detection-will-moderate-voice-chat-in-call-of-duty/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06AAmLl9CGY2xad3UrAsTOB-1.fit_lim.size_1200x630.v1693489604.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Activision to start Using AI to Combat Toxicity in Call of Duty Voice Chat"
+    excerpt: "One intriguing aspect of ToxMod is its ability to comprehend conversational context. This means that it can distinguish whether a statement is genuinely hateful or simply a heated expression in the heat of battle."
+    publishedDateTime: 2023-09-02T15:39:00Z
+    webUrl: "https://techstory.in/activision-to-start-using-ai-to-combat-toxicity-in-call-of-duty-voice-chat/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/CallOfDuty.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "j5e0hVWWx/AwynnV58MOOeEZNh95r1vtO6fTtR49ZUd6TTFWiWnJRaC1D4G1IC/I0brM0kJknkl/8gzjSL0tCtTyESIZMUMnl7MrHRJc2J+QxX1Qe2i3qIacCBfwnL4rOa8J6W3Xc/1PXzya1+obtCt/xTOb/GwwbcX7C0+9lLVCwXDORzf67GXyNjDIX4pSz696YasEzvBP/ydlSubJZfqcIbSSkBuqemBqjRtn5nRUd2k8oWGERKMe7Nf4qeLkRPrfO6yGi006PfM/WiT4aZH11GoP7lBYCaRekJWgrvC0D3GZ7pYUd+iQZfhM4j6OVSX3TeKuF35HhW5Xg42r4UoCz1wilXGRWAHNALpaCKDfoE+70Be8c46x8ZutL8/+uzO51yX+6hkSGUrEyjmm2fV8pAHL/Gi/5YccM4bvf6DSf6PzSKR10WdIytOmWP390Kq/d+5vpKCoHBiyTPFRLF7RIO0XnDqGJlcKQq0Fn95X9A80KZPAYsYHngoj6FbZQqXJaW7e7SbNkdqja/EC4w==;hHiHW08De0v1LRBwxyfapA=="

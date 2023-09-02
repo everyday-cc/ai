@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How the Medical Industry Could Produce the Biggest AI Stock Winners"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next"
+    publishedDateTime: 2023-09-02T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png"
+        width: 1165
+        height: 435
+        isCached: true
   - title: "Artificial Intelligence and the Problem of Judgment"
     excerpt: "There are theories of ethics and politics that require less than authentic engagement with the world; existentialism may be unique in being defined by this commitment. Smith's second worry—that humanity will be so impressed by AI that we will shift our ..."
     publishedDateTime: 2023-08-30T02:07:00Z

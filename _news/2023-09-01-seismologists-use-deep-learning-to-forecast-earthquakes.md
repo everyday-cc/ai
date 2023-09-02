@@ -41,6 +41,22 @@ related:
         width: 2128
         height: 1022
         isCached: true
+  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
+    excerpt: "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,"
+    publishedDateTime: 2023-09-02T13:43:00Z
+    webUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+    ampWebUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 55
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Seismologists use deep learning for improved earthquake forecasting"
     excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to better forecast earthquake aftershocks."
     publishedDateTime: 2023-09-01T21:46:00Z

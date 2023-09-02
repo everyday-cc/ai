@@ -59,15 +59,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Elon Musk Live Streams Fully Self-Driving Tesla"
-    excerpt: "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
-    publishedDateTime: 2023-08-28T19:50:00Z
-    webUrl: "https://www.nasdaq.com/videos/elon-musk-live-streams-fully-self-driving-tesla"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
     excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be ..."
     publishedDateTime: 2023-08-30T00:00:00Z

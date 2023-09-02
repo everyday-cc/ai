@@ -28,65 +28,48 @@ images:
     isCached: true
 
 related:
-  - title: "Academia Vs. Industry: AI Showdown"
-    excerpt: "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ..."
-    publishedDateTime: 2023-08-28T20:18:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/"
+  - title: "The Problem With Intuit's AI Strategy"
+    excerpt: "Intuit's AI strategy is fine for Intuit. But QuickBooks customers need to know how AI will solve their problems."
+    publishedDateTime: 2023-09-01T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "AI Industrial Robotics - Mainland China"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$1bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.67%, resulting in a market volume of US$3bn ..."
-    publishedDateTime: 2023-08-29T10:09:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/mainland-china"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f1c75d5647e288b55d6d56/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "5 Ways AI Will Transform the Mobility Industry"
-    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
-    publishedDateTime: 2023-08-31T15:30:00Z
-    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
+  - title: "Tijani’s Artificial Intelligence strategy for nation-building"
+    excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
+    publishedDateTime: 2023-08-30T22:13:00Z
+    webUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/"
+    ampWebUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/20210018/Bosun-Tijani.jpg"
+        width: 710
+        height: 451
         isCached: true
-  - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
-    excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
-    publishedDateTime: 2023-09-01T07:27:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/data-insights/artificial-intelligence-in-pharma/"
+  - title: "Artificial Intelligence and the Problem of Judgment"
+    excerpt: "There are theories of ethics and politics that require less than authentic engagement with the world; existentialism may be unique in being defined by this commitment. Smith's second worry—that humanity will be so impressed by AI that we will shift our ..."
+    publishedDateTime: 2023-08-30T02:07:00Z
+    webUrl: "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/artificial-intelligence-and-the-problem-of-judgment/A97DBF559D68E48E4C66E158BA10EFA6"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
+      name: Cambridge University Press
+      domain: cambridge.org
     quality: 19
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/Report_desktop-1.png"
-        width: 388
-        height: 544
-        isCached: true
 
-secured: "kgXTiml01hcHhq7IDGTApbzGfAR8krfO54nvv/CC82D4e28fsvJKq+c5KvXMBNBDJYoaJDMX+YAJ7DJr5QXDeFvJeMXj8Rju0vhcrBYtEk7wjdZxbWHVqrUBIBYzbsGe2RoBqUtIHDuarkL0t9ty2TQf6IUxZrpVSQsC/b8ba399onLaAh5WTy/lfE+uJ2xBvGw7SHpV7MAHv71HRiCgNPByp/yRNF1QatPAdzINWzDatkMSNQgAdrB8vlvT61Hn8iUnzH52gLP5FJw6FH8dyAEHGTEJB/EoJG2C/WSvO/G/PK1gCmWU5ixOsNFCvdixdQ6zYdE6NRomuyY5lBj6gP/YNBwMwYUEwz/MoPIDdXM=;ZMlhfh3zMkwHE5ELYAfqug=="
+secured: "4EnsukmmU/C6/a44hUBBdK1Wf8vcVaLvQiw+5P4Xg/UA0BEHFZg++hfFDLT1tXGZEksB9uaCE9/Lfsns/ZWgx2FMa+ZmrcRJ2j6la8VA/3ceMCMiCVsA/m25H/Fei+QRC2G5aXEGbIfdzmL9OJgbDNqyeoD3k+zHydoR+llMBTd4sEfUeqisRC+skkc1yEQ9SK8ks47nmoLkOCT2TOsM48yJY2QOpPTDxoSaXDJYK6DkpBwDC9wkNxfgbIqmjmIXMp9eYi+JK7QSNOG0nWaGu28N17/4TJi6D3lgRIsAu8qYiPgYtM9wrXcBXCJsc7ndFNF2Siu2Qc0kz1fTwsxbabXt1PjkGOKhp79/NmkE5Evedbls4W+7ji4jlgypIm3aqITvyNIJvU/0sSruK1K5SnC4lo8ztjOPqAavXT0CY8SuZt6r+O9KOhTfkbitsUfy68ndszwky6HLqFTIYj/ya/SJKsyZpaDqz5hSA6iYXW7B7abqQV3w3fSUND/tD+DmsW891OREPOZlSpAQE3va4Q==;wJPUMfHzDCXMbQ2KwbNN9w=="
 ---
 

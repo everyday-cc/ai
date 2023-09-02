@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-publishedDateTime: 2023-09-01T06:41:00Z
-originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+publishedDateTime: 2023-09-01T13:32:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+  - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
     width: 1200
-    height: 630
+    height: 667
     isCached: true
 
 related:
@@ -269,6 +269,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "JOoqj3Gbgo4lXj/w5g9wci+/GWnjkBHBtDTdkNBIX/TC4srjhpmpWumVBtbhwH6AD6tMm5cBemKAY71GnFGaN27NDzxkzpDx1EG0qICmcJQSlAFpIIDUE3cOEqKd/GZwmB3OczMWrI/IZD8f0sqT+GCDANSOxhacO2PtHbvjDyZh4yIPyAlptFT2eYd/f7bCE+TknMmA4h177eHs3pDEeUZIUb2oYu6Y7K1Xp9ihtd5HyuAjYopcMy4ACgVfSKe+z8+X0YrcyofXhwhpP8tWQprf+OmqhHrUO6bnoHGYs9TI3LlhPC9D6JQO3B5u34GmcyovOs3FITww0Kz5XL/X+R8Y078pdrm0fTcwWeF4v1ej/D8Ee0LFBsOyb8KdaEJ76lRk6QVU9l5j93ekYeWxtuTARwvLu7/eo1Nmu3RTS5/lmt5nSqgAAJIT7cT+mnM2KfJAeOQCe5uuJT/kYrg/Tjhvourwr+bBzxKS1uJ0n1dKXdQ2A2L8Oku19E42CNoGPMjQGgXCGEXcdjH+qVZ3SQ==;U0m2w8OVh/h5FPsHH1eyeA=="
+secured: "BAQceqwNcj2MsT+v+85XAG3NxPy79Wcww7RIf/lGaKpWXdYMNE3IwKc4fHC1rK4LIpbXwes8U9b2BJrPIUaS05lwOWlndH4hmOqO+MYhum3yIraDPDyCT0CDy4JwdNn4qxodcTcoIH7h+o4cjECZ/Ez974B80ghk+70ZfAzVVO9Nq8SiTvMcW1T0trxQW6ZPviZpnX8ykXT0VgZ9TadR86qCZzE0IrYyR1F9/lnheeHoNn8r9TZJDM0UA0pLapF9LGRL8sCvHNcLLPuI6lkgcJx5jXd9WmYli+CJVuvUQw5Vkv/WaLkdAt6Ubl8OaFhxORt7cQ9y1OqziiBYeSMpXhG/i9s/kT8chsdJVn7U4jk=;ZFGdFKEQhVShcNFJoDiwKw=="
 ---
 
