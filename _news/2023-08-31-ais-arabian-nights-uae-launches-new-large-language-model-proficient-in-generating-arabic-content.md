@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

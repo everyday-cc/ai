@@ -53,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -94,7 +94,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Hardware"
       ]
     },
     {

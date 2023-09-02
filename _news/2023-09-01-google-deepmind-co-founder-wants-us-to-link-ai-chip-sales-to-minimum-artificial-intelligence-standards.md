@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-want
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
 type: article
 quality: 107
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Former Google DeepMind Researchers Go Deep for Sales Triumph"
-    excerpt: "Everyone is building these pretty-looking prototypes with large language models and putting it on Hacker News. While it looks nice, we still haven’t seen deeply integrated use cases, which are of high quality,"
-    publishedDateTime: 2023-08-28T05:05:00Z
-    webUrl: "https://analyticsindiamag.com/former-google-deepmind-researchers-go-deep-for-sales-triumph/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/The-Enterprise-Needs-LLM-Guardrails.-Can-LangKit-Provide_.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
     excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."

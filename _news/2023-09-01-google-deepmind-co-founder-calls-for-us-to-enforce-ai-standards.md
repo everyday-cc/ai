@@ -137,20 +137,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Former Google DeepMind Researchers Go Deep for Sales Triumph"
-    excerpt: "Everyone is building these pretty-looking prototypes with large language models and putting it on Hacker News. While it looks nice, we still haven’t seen deeply integrated use cases, which are of high quality,"
-    publishedDateTime: 2023-08-28T05:05:00Z
-    webUrl: "https://analyticsindiamag.com/former-google-deepmind-researchers-go-deep-for-sales-triumph/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/The-Enterprise-Needs-LLM-Guardrails.-Can-LangKit-Provide_.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
     excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
     publishedDateTime: 2023-08-30T02:00:00Z
@@ -267,6 +253,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "HWUm8uZ6vA2Od4vs1CloIKH6HK9+8FKzC71IV/+MueCPoIO6rAjGzrNqRZ6urzjfOB91BjNmfnMhYBMKwEflN25tiCY080v1l7QFPluS23DKozTdbzckwHkkRJ/lip9a8lsmCZXREzAYrGz1q1XiM1aKq+TEpybnMsE3fdXcKSHvaOJz7jwheLnHCHdgpd/ljL6OmZQbts37YaEW5W9OpYXMv/NbznVQwaOt4FmalyXBBPuWgKrAQta98qGwdCFAgOnU471oC2HQMuUR/7AMxTZGejoXSCQchc08Zw11gveIfcti8A5k56UYkAmRgj+8VuzTXxp3CB/Ad1Jo+i90zj4gwwSq1RV3kbAZKN8Nlf4=;fh6+Ct42h6zzwS6gxtUyuA=="
+secured: "JOoqj3Gbgo4lXj/w5g9wci+/GWnjkBHBtDTdkNBIX/TC4srjhpmpWumVBtbhwH6AD6tMm5cBemKAY71GnFGaN27NDzxkzpDx1EG0qICmcJQSlAFpIIDUE3cOEqKd/GZwmB3OczMWrI/IZD8f0sqT+GCDANSOxhacO2PtHbvjDyZh4yIPyAlptFT2eYd/f7bCE+TknMmA4h177eHs3pDEeUZIUb2oYu6Y7K1Xp9ihtd5HyuAjYopcMy4ACgVfSKe+z8+X0YrcyofXhwhpP8tWQprf+OmqhHrUO6bnoHGYs9TI3LlhPC9D6JQO3B5u34GmcyovOs3FITww0Kz5XL/X+R8Y078pdrm0fTcwWeF4v1ej/D8Ee0LFBsOyb8KdaEJ76lRk6QVU9l5j93ekYeWxtuTARwvLu7/eo1Nmu3RTS5/lmt5nSqgAAJIT7cT+mnM2KfJAeOQCe5uuJT/kYrg/Tjhvourwr+bBzxKS1uJ0n1dKXdQ2A2L8Oku19E42CNoGPMjQGgXCGEXcdjH+qVZ3SQ==;U0m2w8OVh/h5FPsHH1eyeA=="
 ---
 

@@ -483,7 +483,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -528,7 +528,7 @@
       "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -569,7 +569,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Hardware"
       ]
     },
     {
@@ -1176,7 +1177,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
-excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
-publishedDateTime: 2023-09-01T17:39:00Z
-originalUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
-webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
+title: "Meta unveils new tool to detect bias in computer vision AI"
+excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
+publishedDateTime: 2023-09-01T10:24:00Z
+originalUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
+webUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: unite
-  domain: unite.ai
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
-    width: 1000
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
+    width: 800
     height: 600
     isCached: true
 
@@ -75,20 +75,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Meta unveils new tool to detect bias in computer vision AI"
-    excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
-    publishedDateTime: 2023-09-01T10:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
     excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
     publishedDateTime: 2023-08-29T12:20:00Z
@@ -142,6 +128,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
+    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
+    publishedDateTime: 2023-09-01T17:39:00Z
+    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google stock rises as it says it will charge $30 for enterprise AI service"
     excerpt: "The most intriguing news out of the show is that Google is pricing its AI-powered Duet AI in Workspace at $30 per user per month. That’s the same price Microsoft is charging for its Microsoft 365 Copilot."
     publishedDateTime: 2023-08-29T20:05:00Z
@@ -184,6 +184,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "zgjgO5r4zR2iDtiVXQi61bJ0wgjPH4/i6HBqWmOQCKpC5IpujHabTp+zZ/uf40FnmdRXQT1FN5ZiY+jfm4z1N3Frk8mNpslwk+ukvgn5lOjmtWsYgMGromZIhRm8ypy5BYXAQ7CitLI/27482XV+jnMy+m9aXGVA5cDJ9aBXKVdmzyemOLQ5caZDgYjdT1KTEE5SPBjn3a61DJ7d32CC5gVk/GXYcN63cvY6IkpYJpemvVM3fKNby+FWJ1eO0+RNZsjNr15Ga0h2RyCLYMemaXMv/h1aj9k6odW0ShwJkyb5w4YD0LI8HdxmspFoNUquflTfZUeuAYYwwP736aMiYuhEaUoISaq7clL0j4iNjyS9Ik1UTHLyg28PN3KM7zWDZytHsvyW5uOPvrUM4MCNMTIvB5G/ijARMaHSCZRv8iOqNGk/I9645Xx2PrHLqmZjnS2lE6UNqUSMNZC9bGmxHtzI9aIMAJMsnd8gwAYXZr1lA105kZQaMqxD5AVnMjCVqdwoAXMlshZNFN7oJ9Zjyw==;J/LIjRF0WLs2OoqoNFDNnw=="
+secured: "mhWkWcAuAxXHN4FfJQeGkQJgofZj4HOnnW0oHJkvDMSU84twUl6K1Qp+YrDYPfr0OxDonV9wF43/rQMSet55UxMwU1RhNKMAmZlTKp4c5EEkuGgON4NLVO+6f4MrDIdEeJ1UxeLTmXS8KN+IZlSsKZ9V9t1kGC4w9YO2tMwYmonjwiWLdnmWmiLH2GHXAhdsWCso22NrAJkjPzH+COyP6W/b+yu9r42fH/uH54JT6z1BWJ63ppgHirXZmsilG/zfRQEsX9JTdnL6CJAZe+U2+APYQ4fXm14lTmkczPvcAcGPjs1jY3nv2/XkjysOGf2l2h8KPxw6h2w8Y2+Ex3mOdB6EDkIb0DBCXmRAz+SVKZg=;27k0fyMjfeCfA7HtOEArng=="
 ---
 

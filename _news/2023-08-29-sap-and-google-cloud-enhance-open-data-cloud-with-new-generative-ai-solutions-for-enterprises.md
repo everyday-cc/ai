@@ -77,6 +77,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Meta unveils new tool to detect bias in computer vision AI"
+    excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
+    publishedDateTime: 2023-09-01T10:24:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Hidden Costs Of Implementing AI In Enterprise"
     excerpt: "Although there are potential hidden costs associated with AI, it is important to have a balanced view of this technology."
     publishedDateTime: 2023-08-31T13:30:00Z

@@ -151,20 +151,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Former Google DeepMind Researchers Go Deep for Sales Triumph"
-    excerpt: "Everyone is building these pretty-looking prototypes with large language models and putting it on Hacker News. While it looks nice, we still haven’t seen deeply integrated use cases, which are of high quality,"
-    publishedDateTime: 2023-08-28T05:05:00Z
-    webUrl: "https://analyticsindiamag.com/former-google-deepmind-researchers-go-deep-for-sales-triumph/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/The-Enterprise-Needs-LLM-Guardrails.-Can-LangKit-Provide_.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind develops watermark to identify AI images"
     excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."
     publishedDateTime: 2023-09-01T08:44:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-25-amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup.md",
+      "title": "AMD’s Radeon RX 7700 XT and RX 7800 XT fill the gaps in its next-gen GPU lineup",
+      "excerpt": "AMD has been slower than Nvidia to fill out its next-generation GPU lineup, and for months there has been a huge gap between the Radeon RX 7900 XT (currently retailing between $750 and $850) and the Radeon RX 7600 (holding steady at $270ish).",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/7700-7800-1-800x450.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
+      "publishedDateTime": "2023-08-25T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
       "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
       "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
@@ -1370,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-kneron-drives-automotive-ai-chip-market-with-new-kl730-release.md",
-      "title": "Kneron drives automotive AI chip market with new KL730 release",
-      "excerpt": "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "originalUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/speedometer-100944749-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "publishedDateTime": "2023-08-15T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

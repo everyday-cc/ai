@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136"
 type: article
 quality: 68
-heat: 120
+heat: 118
 published: true
 
 provider:

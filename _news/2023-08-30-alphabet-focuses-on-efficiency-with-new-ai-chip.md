@@ -60,6 +60,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "Meta unveils new tool to detect bias in computer vision AI"
+    excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
+    publishedDateTime: 2023-09-01T10:24:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
     excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
     publishedDateTime: 2023-08-29T12:20:00Z
