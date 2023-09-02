@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ConverSight raises $9M to accelerate data analytics with generative AI"
-    excerpt: "ConverSight, a company accelerating data analytics with generative AI, has raised $9M in fresh funding from Surface Ventures."
-    publishedDateTime: 2023-08-28T15:47:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/conversight-raises-9m-to-accelerate-data-analytics-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/ideogram-1-e1693236152594.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Sprig uses AI to transform product surveys into conversational data"
     excerpt: "The free plan now includes in-product surveys, session replays, and Open-Text AI analysis. Teams of all sizes can immediately start using Sprig and the new AI Analysis for Surveys featureset. VentureBeat's mission is to be a digital town square for ..."
     publishedDateTime: 2023-08-30T16:39:00Z
@@ -82,6 +68,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "IBM Unveils Enterprise-Focused Advanced AI Platform Watsonx"
+    excerpt: "International Business Machines Corporation IBM recently unveiled watsonx, a cutting-edge enterprise-focused AI and data platform designed to harness the power of advanced AI capabilities for ..."
+    publishedDateTime: 2023-08-29T14:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-unveils-enterprise-focused-advanced-ai-platform-watsonx"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
     excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
     publishedDateTime: 2023-08-29T09:48:00Z

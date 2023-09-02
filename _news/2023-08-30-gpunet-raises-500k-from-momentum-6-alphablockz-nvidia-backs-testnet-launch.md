@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500
 webUrl: "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?782969"
         width: 374
         height: 250
-        isCached: true
-  - title: "GPU.Net Secures $500K Investment From Momentum 6 & Alphablockz, Gains Support From, Nvidia, Taanga Studios, And Prepares For Upcoming Testnet Launch"
-    excerpt: "This pivotal launch would offer a sneak peek into the capabilities of the platform and demonstrate its potential to reshape industries (Generative AI, Web3 Metaverses, high-end graphics rendering, and cryptocurrency mining) that rely on GPUs. GPU.Net ..."
-    publishedDateTime: 2023-08-28T16:23:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/gpu-net-secures-500k-investment-from-momentum-6-alphablockz-gains-support-from-nvidia-taanga-studios-and-prepares-for-upcoming-testnet-launch-news-314168"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/gpu-net-secures-500k-investment-from-momentum-6-alphablockz-gains-support-from-nvidia-taanga-studios-and-prepares-for-upcoming-testnet-launch-news-314168/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/gpu-net-secures-500k-investment-from-momentum-6-alphablockz-gains-support-from-nvidia-taanga-studios-and-prepares-for-upcoming-testnet-launch-news-314168/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 35
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1693239347.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "WFgqUtZrB/iFgHVQ1y+iwtFved+3ra8aByYbErXgwEVNBLQgsUs8AP6PdnQdNkEfhDVbNGWezf/AWA4o4adg7Nqv2azZyylcUkXrEBPOU2TdDRIFGUX7u/Hb9zTMI4B8pC8Udz7ScWhT4FYFxVmrsfkxpouTv8Iz3hnxM1dCNozWmR+5M3m0/baXnaeELdnHPrG3hpQ4T7JzFDdNM3/STRudSlAGtGMHbWdl/NZYiOvloxoH9NbtrrNo/LTC/6cReutbZ238OE0pr5DyVvaP7bZDZIvTsLM4yaFCTZlhZz4sC0mqZahzUjrCDEgH8S2XWeQiTWAJjVLEBNpwy0g78YuQd41xiDeKnECWAGrf6DIW1uUmfarpHN62QkjGaomi8fRyn/lOplZMrMqtucONfrgNTsOWK3Q/H+Xk/uLRh3s3W+QdfTs4SiKMw1DgWHHb3UCCNGg1+e5Fd1a4cR+yvvsEHPA+x4Hcbmk0UoDsv8hznVKlBBYYVwSh8V8P1+8XmImKRIv+IU/BLTqVjyt7qA==;xXkWAv/fwim0Ei07MvWFtQ=="

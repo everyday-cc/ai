@@ -147,20 +147,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
-    excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
-    publishedDateTime: 2023-08-28T15:19:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/110605/store-your-ai-workloads-in-google-clouds-customized-cloud-storage-services/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-Cloud.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Using artificial intelligence to write a business plan"
     excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
     publishedDateTime: 2023-08-29T15:20:00Z

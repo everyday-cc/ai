@@ -45,15 +45,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "Welcoming the generative AI era with Microsoft Azure"
-    excerpt: "The advent of AI technologies like natural language processing and computer vision is far from just another business tool; it's a game-changer that's continuously expanding our horizons. \nThe post Welcoming the generative AI era with Microsoft Azure appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-28T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Everyone wants responsible AI, but few people are doing anything about it"
     excerpt: "Also: Five ways to use AI responsibly The results are from a survey based on the views of 500 business leaders released by technology company Conversica, which says: \"A resounding message emerges from the survey: a majority of respondents recognize the paramount importance of well-defined guidelines for the responsible use of AI within companies,"
     publishedDateTime: 2023-08-30T20:10:00Z

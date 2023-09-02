@@ -196,20 +196,6 @@ related:
         width: 4160
         height: 2340
         isCached: true
-  - title: "How a Hybrid Platform Can Help Enable Trusted Generative AI"
-    excerpt: "Organizations that adopt a hybrid workflow can get the best of both worlds, making the most of generative AI without sacrificing privacy and security. They can benefit from the flexibility of the public cloud for initial experimentation while keeping their most sensitive data safe on on-premises platforms."
-    publishedDateTime: 2023-08-28T16:10:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Clouderahero.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How artificial intelligence will affect the elections of 2024"
     excerpt: "Advances in generative artificial intelligence ( AI )—with models that can spit out sophisticated essays and create realistic images from text prompts—make synthetic propaganda possible. The fear is that disinformation campaigns may be supercharged in 2024,"
     publishedDateTime: 2023-08-31T08:49:00Z
@@ -270,6 +256,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 5
+  - title: "Conversica Survey Reveals Only 6% of Companies Have Policies for the Responsible Use of AI Despite 73% Recognizing the Importance of Clearly Established Guidelines"
+    excerpt: "86% of business leaders at organizations already adopting AI say that having AI ethics policies in place is crucial, compared to 73% of the overall group. However, despite being more likely to ..."
+    publishedDateTime: 2023-08-29T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230829029002/en/Conversica-Survey-Reveals-Only-6-of-Companies-Have-Policies-for-the-Responsible-Use-of-AI-Despite-73-Recognizing-the-Importance-of-Clearly-Established-Guidelines"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Na23JWd7hRs700OE0qTlwTYiCHqYUL21zkcu5SFTaUMEjL/r29KMmcKqkOC2twCZ1gY/T5bMV0AxJKnX/LL+zkW5ZtMOlGbKKqEzZEXytwL1C1EKOJhNkvrz4RE+/2+s2nNFGpCPYo9DDbdot+H4JU8GxPtjzc6w1V+MRXCYR1G+k4/als7B5IGkRGZUIUYcbNGzfrltc2jgueqNTJhV00CQsbZoUqV+0358if9IJW64uO/WON/3c1RNgi14fgO/XiafZQOcvZMxpgBWv90Wc4eJbVoVytJhTVZOio7VQYXzd9cFgdVVbkEycLyFk/JatCdAHi9GsOLmvwziWY7LZ+dgUDHJhQEzl+KvnZd7sA2WiCpu86DdaoTtEz5QUz//3OvppS6Pk11QbFFMPdHCjffYonlKL8IlZ6QsOOUs2sSFpxqNTtN1uZkW9O+UfRDxaM6Yu1+83f3KXl64Q3Rpwil7+LtHUmeRtBG1D4hfre0F4G1OJGZD/9VrLyC3EhRzZvgCq/GwIKjxpYgA1tR2mQ==;+DkAj6sWSYR0gOJ94p3EpQ=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
+    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
+    publishedDateTime: 2023-09-02T08:48:00Z
+    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
     excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
     publishedDateTime: 2023-08-29T15:12:00Z
@@ -97,15 +111,6 @@ related:
         width: 429
         height: 250
         isCached: true
-  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
-    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
-    publishedDateTime: 2023-09-01T17:56:00Z
-    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
     excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
     publishedDateTime: 2023-08-30T23:00:00Z
