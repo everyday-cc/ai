@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvi
 webUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "exaBITS Successfully Integrates NVIDIA H100 to Provide High-Performance AI Services to Enterprises"
-    excerpt: "Decentralized AI computing infrastructure provider exaBITS has announced the successful integration of the NVIDIA H100 Tensor Core GPU, offering AI enterprises on-demand access to the fastest GPU type on the market."
-    publishedDateTime: 2023-08-28T13:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/28/9870799.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
   - title: "As Nvidia Dominates AI Landscape, Intel's 2024 'Sierra Forest' Gears Up for Data Center Revolution"
     excerpt: "Intel Corp INTC eyes a next-generation data center chip. Likely for a 2024 launch, this chip promises to provide over double the computational capability for each unit of power consumed amid global efforts to reduce energy consumption. Intel showcased ..."
     publishedDateTime: 2023-08-29T13:25:00Z

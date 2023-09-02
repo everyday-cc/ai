@@ -41,6 +41,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI fintech Stampli opens Austin office"
+    excerpt: "The California company extended its presence to a third U.S. city and aims to expand its employee headcount by 40%."
+    publishedDateTime: 2023-08-29T10:00:00Z
+    webUrl: "https://www.bankingdive.com/news/ai-fintech-stampli-austin-texas-nashville-artificial-intelligence-accounts-payable/692291/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 39
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/9xSy5ZwqiR5ydwEroTshE3OTu-JuVx9xIb2-9rXjLAc/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0ODM5NTQxNDAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
     excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
     publishedDateTime: 2023-08-29T15:12:00Z

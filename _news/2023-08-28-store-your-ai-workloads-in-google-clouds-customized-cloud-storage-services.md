@@ -147,15 +147,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Chinese students risk losing degrees if caught using artificial intelligence to write papers"
-    excerpt: "Draft laws being considered by the country’s top legislative body address the use of the technology for the first time."
-    publishedDateTime: 2023-08-28T13:52:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3232605/chinese-students-risk-losing-degrees-if-caught-using-artificial-intelligence-write-papers"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 38
   - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
     excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
     publishedDateTime: 2023-08-31T16:03:00Z

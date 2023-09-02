@@ -60,15 +60,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "This collaboration brings together LTIMindtree's Infinity platform, with CAST AI's cloud cost optimization platform to provide enterprises with a complete view of their cloud portfolio. This combined offering will empower organizations to optimize Kubernetes management and costs in a single or multi-cloud environments,"
-    publishedDateTime: 2023-08-28T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ltimindtree-collaborates-with-cast-ai-help-businesses-optimize-/2023/08/28/9870785.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "es82S1DgnuX1quI908sBJ5cyKkbuZpQ+3w1RN6n6NMIQLfGxmCgYj2oLBWwACgHjeBdP0AachLM4ikmQ/oOHVjAKv6uddeMex4LWDwFTKMBjG6mrfY7imoTDBq6dySO5xXgogv3T+MJTvQVey82/o26hfuvYVntOW07eSp3/cQzsrEesyYyQyWff9UdC8Y6SQlrt4X8QbAXhSw2jI4rmbEW5kuhO38I+mnWRvIuMz5CJ/itiKrdxaNMGMKD4KQhK7BRBECI6J0n+NbqHvGTWaOSkO37AnH0rLJTocP6C1e108myaEAJL1NmMUw7cB++bZTMXJSE6/iCvTNl1HRvjM5nfvV2eNW7X8IsExEXKtN5S8s1xaGkdA4d1MBFGqIL30LwEOOr0Jnq7/dZHt6o4UxVXyaoxODZYWbIQeQmLSiMGfqb/Osz/Odi7y5Y4+vnBDRy/yqPQTeuZUX99J2bj61NZ07YmHx75a82W9E5FxSzEFLimgFqgJ3z85TjElh0sbZdmO54CUjR18fEJAnS0lw==;AnPW9TVynBTvzAiN7vHqXw=="
 ---

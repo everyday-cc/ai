@@ -25,37 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI And Sales: A Business Perspective"
-    excerpt: "By better understanding how AI can increase your sales, you can develop customized methods and ensure you can profit from this new technological breakthrough."
-    publishedDateTime: 2023-08-28T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/generative-ai-and-sales-a-business-perspective/amp/"
+  - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
+    excerpt: "Superframe can do this because we are AI-first, not tied to a legacy product.” Steer was previously the CEO of business intelligence software company Mode Analytics, which was acquired by ThoughtSpot for $200 million. The startup is entering a ..."
+    publishedDateTime: 2023-08-31T21:17:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 77
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e90ebc90981300bad8ae21/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f1028a9ef9f51fa285cca1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 698
+        isCached: true
+  - title: "Meet Superframe, the AI startup that wants to be your copilot for revenue operations"
+    excerpt: "Superframe, an AI-powered software company aiming to help businesses optimize their go-to-market technology stacks, announced it has raised $5 million in seed funding."
+    publishedDateTime: 2023-08-31T15:59:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/meet-superframe-the-ai-startup-that-wants-to-be-your-copilot-for-revenue-operations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 697
+        isCached: true
+  - title: "IBM, Salesforce join forces in enterprise AI push"
+    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
+    publishedDateTime: 2023-08-31T17:01:00Z
+    webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Salesforce research finds business buyer and consumer trust levels in AI decline despite the generative hype cycle"
-    excerpt: "That human validation aspect is cited by 52% of respondents as a factor that can increase customer trust in AI, along with more customer control (49%), third-party ethics reviews (39%) and additional government oversight (36%). But the main thing that ..."
-    publishedDateTime: 2023-08-29T10:28:00Z
-    webUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative"
-    ampWebUrl: "https://diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-research-find-business-buyer-and-consumer-trust-levels-ai-decline-despite-generative?amp"
+  - title: "IBM and Salesforce team up to bring AI tools to their shared clients"
+    excerpt: "IBM and Salesforce announced they are joining forces to bring Salesforce AI solutions to customers of both companies."
+    publishedDateTime: 2023-08-31T13:53:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+  - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
+    excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
+    publishedDateTime: 2023-08-31T14:33:00Z
+    webUrl: "https://www.benzinga.com/23/08/34146322/salesforce-in-artificial-intelligence-era-personal-spending-rises-but-income-falls-new-inflation-dat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34146322"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34146322"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/signpost-466935_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
     excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
@@ -71,33 +119,24 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "SoftServe Launches Generative AI Lab"
-    excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
-    publishedDateTime: 2023-08-29T15:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-softserve-launches-generative-ai-lab-/2023/08/29/9871692.htm"
+  - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
+    excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
+    publishedDateTime: 2023-08-30T22:02:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/30/salesforce-surpasses-wall-street-estimates.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "SoftServe Launches Generative AI Lab"
-    excerpt: "SoftServe's Generative AI Lab uses tools and technology platforms in partnership with AWS, Google Cloud, Microsoft Azure, and NVIDIA. The results-oriented practice applies successful use cases and an assessment framework established to make Generative AI a cross-industry, business reality."
-    publishedDateTime: 2023-08-29T17:27:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871692.htm"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
+    excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
+    publishedDateTime: 2023-08-30T13:54:00Z
+    webUrl: "https://www.thestreet.com/technology/salesforce-earnings-will-miss-big-ai-bump-but-there-will-be-other-things-to-love"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "IBM Consulting and Salesforce are working with our shared clients to help accelerate business transformations with generative AI. Clients can now access the following: Driving adoption of AI technology: IBM Consulting will use its industry expertise and innovative delivery models,"
-    publishedDateTime: 2023-08-31T15:22:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/31/9873103.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 12
 
 secured: "94DJXgFi5DDVaPvOWOGNQi9oVjiXKQT7oSql+g3oG17BZ3LWdojmgHcZZUyMSuqPj2MWMvoc/zX5ZUdmV58Euhou6eTKRrJjKBvEPXWxfx7OhyO55uD2+EzWAwA1Ch3Zx+DOPHumpLo+DIHhCufpgAX4fy9h6l9TazkCE6JK2xHOgBvnn8xz1plCu4vKSomvU6eBf+8QNq8V6FMnVgdismkQb59HP0IY0C+vGnBFpS7e6k0KDqjlC9G784WdMAVAXXb4poicHuh/nGFj638h/8SRF1sxh8yIGsQ84PEbvcZN/nd+T0F/0pxHI8WwTiPXbQBhmhR81MQLPdpwcEZe8jFWBMqC79MsUj+GY/lKoAU4w1IndLApOIJjmqA9RdRBOaiwKTNVohNNqDJ1ZxhIqiasZrMo7Q67rMs3LSE4fmBahNtfQwcpzzOAyHhc6P2LTnoTymQmBa+JQ96J+0bxSdcooHu5raDTfM4bgMQYl5GnTEaw85ks1PWepFFxvM09x/iao3yAbY2v3aOZ+jSSdw==;KxeQ9JgcJVmBEgpN35syXQ=="
 ---

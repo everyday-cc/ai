@@ -57,20 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Two studies demonstrate the benefits and limitations of artificial intelligence in colonoscopies"
-    excerpt: "Two new studies reached different conclusions on how beneficial artificial intelligence can be in assisting doctors using colonoscopies to diagnose colorectal cancer"
-    publishedDateTime: 2023-08-28T14:02:00Z
-    webUrl: "https://www.medicalnewstoday.com/articles/two-studies-demonstrate-the-benefits-and-limitations-of-artificial-intelligence-in-colonoscopy"
-    type: article
-    provider:
-      name: Medical News Today
-      domain: medicalnewstoday.com
-    quality: 26
-    images:
-      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/colonoscopy-screening-732x549-thumbnail.jpg"
-        width: 732
-        height: 549
-        isCached: true
 
 secured: "LJdTZF15vCsCJnHST0wsOWsaWjrG47lMBwwwrNi8tWi+6cVpkZoXfCn+bQXlpbblO8fyW4k+pm79WBMjXrag4iNVvc6iRxMcP5rN/QDoawlit3B2+VdxmnZJuIGZTj8nSJmlbb6LXszWOiBAQ4ZoGFFOsBFjBW6gKRYjPbet09FJZX/wHLpTfQIdUJSiSucskapcPDTON3jMVKNTQunoNlYKVYz3qrlcV8geM+JttjrwfgRJJCZwDZyprUMPCpn/Ri3jiu1bgiCEybYEm/7V2ELE1GcE/VV3NbcqfStUqadPLo/wiUk6ArhVpR5NxGw/cJsY8vKWxHE/JES1KiPHKbBkh4JfjMTj5xigmDax+R1tm2YIs0VD5Ne+nUQboE+ZZObRnyyijKG70E7HE20CStGsDpOLodK9C/prZ2cX74rZxdRZasDLYLoW+Z1fbi4t7O3+3mxjlAfNlveqX/zt7YFUuEP45IPsjemsYqWVrGnrsxTU/2xQQl6ovzCMasyDRzK1HxdDyJJg48J/J9HS0Q==;fSgt6fCs63X8AxzQbbri+w=="
 ---

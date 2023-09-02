@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to use AI to improve your life"
+    excerpt: "Artificial intelligence (AI) is not a new phenomenon – but it is often misunderstood, and we need to remove a lot of the myths and biases that surround the technology. This is the word from Lee-Anne James,"
+    publishedDateTime: 2023-08-29T08:28:00Z
+    webUrl: "https://it-online.co.za/2023/08/29/how-to-use-ai-to-improve-your-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/lee-anne-james.jpg"
+        width: 1075
+        height: 614
+        isCached: true
   - title: "Should artificial intelligence help you buy your next house?"
     excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
     publishedDateTime: 2023-09-01T04:06:00Z

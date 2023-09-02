@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Advances in AI, chips boost voice recognition"
-    excerpt: "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss."
-    publishedDateTime: 2023-08-28T13:41:00Z
-    webUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp"
+  - title: "The budding partnership between these 2 AI tech giants is a win-win, Jim Cramer says"
+    excerpt: "The two longtime Club holdings are putting their heads together in a way that benefits customers and shareholders alike, Cramer explained."
+    publishedDateTime: 2023-08-30T18:40:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/the-partnership-between-these-ai-tech-giants-is-a-win-win-cramer-says.html"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg"
-        width: 2667
-        height: 4000
+      - url: "https://image.cnbcfm.com/api/v1/image/106865514-1617896998844-gettyimages-1135936636-GOOGLE_CLOUD_CONFERENCE.jpeg?v=1693427954&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "New AI technology gives robot recognition skills a big lift"
-    excerpt: "The day when robots can cook dinner, clear the kitchen table and empty the dishwasher is still a long way off. First, robots need to be able to recognize the many items of different sizes, shapes and brands in our homes."
-    publishedDateTime: 2023-08-31T20:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
 
 secured: "OGD0kLmAXraWVJWJen0lBeECFksITHjckHPQ+SfX+F4Pw5wQ9jaotaMoLmAYacjEEWNeALmb6+omKssLuVAp6atzTvxJf9cAmExMTdPYw5sDmN+O//EHzQcVEv5tw9BNI3ptB3i4iWvAtaq3PyD7fLj/cg6P/90v/D4/c+F4fX4skCCPWaODkfNP6bR5lInLuflaJdodDYZ5yYBPY3hMWtVAKErBTmDNA/GPtaXdJnX35rkjNDRetYxHUXGbiLf4N5k7RRriWFyFf4q71TV30cZwVi29t7NluWAIY1e6LXKle+rCn9DpS9sLvkY7K5H4Skh7+Eqdqs2EeCZ7WYycABfshJJps3Auxf8TxMirOHYYZ63CRIQONTim2XYZdQJVt5Gw4nVaN/5mUKOlzexVyZYUtxt3AU3XbJgp4xD7q9BIHpFO+kFx6/QJXK9dBL484oUj6HyMNEkc/uy6ZCXCRl2Yv46GrbGZm5fl2pM/mzc90KeM0bW/jTuvA0cJz9iME+EepuxC+j8EcmWXRNtcgQ==;vUDOD1Auzf715PDk4utk9w=="
 ---

@@ -147,15 +147,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Chinese students risk losing degrees if caught using artificial intelligence to write papers"
-    excerpt: "Draft laws being considered by the country’s top legislative body address the use of the technology for the first time."
-    publishedDateTime: 2023-08-28T13:52:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3232605/chinese-students-risk-losing-degrees-if-caught-using-artificial-intelligence-write-papers"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 38
   - title: "Store your AI workloads in Google Cloud’s customized cloud storage services"
     excerpt: "Google Cloud is releasing three new cloud storage services for AI workloads. Each service is designed for the needs of a specific AI workload. AI brings"
     publishedDateTime: 2023-08-28T15:19:00Z

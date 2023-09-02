@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partne
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "This collaboration brings together LTIMindtree's Infinity platform, with CAST AI's cloud cost optimization platform to provide enterprises with a complete view of their cloud portfolio. This combined offering will empower organizations to optimize Kubernetes management and costs in a single or multi-cloud environments,"
-    publishedDateTime: 2023-08-28T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ltimindtree-collaborates-with-cast-ai-help-businesses-optimize-/2023/08/28/9870785.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
   - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
     excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
     publishedDateTime: 2023-08-29T13:53:00Z

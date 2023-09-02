@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "How to use AI to improve your life"
+    excerpt: "Artificial intelligence (AI) is not a new phenomenon – but it is often misunderstood, and we need to remove a lot of the myths and biases that surround the technology. This is the word from Lee-Anne James,"
+    publishedDateTime: 2023-08-29T08:28:00Z
+    webUrl: "https://it-online.co.za/2023/08/29/how-to-use-ai-to-improve-your-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/lee-anne-james.jpg"
+        width: 1075
+        height: 614
+        isCached: true
 
 secured: "fRt59W3xuUO6R8rCKz7sWRv1/m/zBDyG1x8/ZJ+gfa4qvrUohUWdPEB3bsoUZQqIBFNBiRHEbHVbJ4itv41RihINCdzbvkxqCjm5yDYeCoCHodp0GA/Ez058ZNhBJ6K9AsmZyKSRmC1xUReQZ8wXUjk3STtMB974YY9tAc4lW8mxKF2Gsx7Og9gucddPGI4JJlKeKgMLfJwRydze8w7p8uHIP6+MjdJepOmkhGVxs/zgpDmwmoBV4lb7lyUR0Jlj04HR/0fIBg7LeXDaEYWTQ92pY/W27mw6RZZEIQpbYgYLFcSMgRYZ51wWJCY0FxfJOu2CJhvz3PWab89KzHW1AwrxXTqLDjLFJrpaIjP0J337llrsLaTZ1+yQ+9GW1dk/5rz6IHSZ0neoa4tKEo+P8t8iwkO6RXeSkV9vT6zFOk1E9IV2C7xrD0Nqg09XLSusNObYUQoyBGpaG3i0FpXQxxEKLFZ1Y+eharI3SA8lWRZQccMjmFS+L93UC+BAFGxglnn5U2FdwIk09GYNb66gfQ==;3/peBUFVaSw53A5mLCqoKw=="
 ---

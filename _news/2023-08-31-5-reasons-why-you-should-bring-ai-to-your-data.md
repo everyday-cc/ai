@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "How to use AI to improve your life"
+    excerpt: "Artificial intelligence (AI) is not a new phenomenon – but it is often misunderstood, and we need to remove a lot of the myths and biases that surround the technology. This is the word from Lee-Anne James,"
+    publishedDateTime: 2023-08-29T08:28:00Z
+    webUrl: "https://it-online.co.za/2023/08/29/how-to-use-ai-to-improve-your-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/lee-anne-james.jpg"
+        width: 1075
+        height: 614
         isCached: true
   - title: "Should artificial intelligence help you buy your next house?"
     excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."

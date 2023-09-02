@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Generative AI: A catalyst for data transformation"
-    excerpt: "The coronavirus continues to cause infections, disease and death—and long covid. Science is about to become much more exciting—and that will affect us all, argues Google's former CEO."
-    publishedDateTime: 2023-08-28T14:26:00Z
-    webUrl: "https://www.technologyreview.com/external-links/generative-ai-a-catalyst-for-data-transformation/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/data-transformation.png?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "h+/aRhGLwAlCpsvmi75Bw5b2MPdsEeAtIMjDK65Nk8x2xdDAzl22mSMMu/9Dktc8uRCk9THBgVqxBYLZET+ETBs28eoBpk8JYpuFR7iHQV1MywM+VtZcnqGLiLUYd1UuBAul109CQXokOEh+CCjSgas7Xc2l77V9T6fjmT/Dzr5CDmSAzCQMqLQjL0uomdQvIohTR+Amt8+SurL77UQ1hiPC5dX6BfFZKWG7DXn+aXmGLhVOlbrd1D6Ah7ZCE0HBuZkIiUgrvCj8eyrsw445wMTCJ9n7JefO0ab4vTjCa6nL5rEE1z+J/pjX2omN+2TTSwt66bakB0iVws/r6kx4ohuC1BpWXbRrF0TXcFRXsXCIqiOcXOg92Rm2T8xRE6iEwtEnpdn42O0L9Xkiv4F8l7sqf1sHxN0HIDInAcISii/CoUMF6iIwOABjjS5+z6kL6dzOV8Wi4sbNOC4YbEPXnCFC+18x29DpaDOl2ECHU4Wx9tWsdtVDfZYuY5RehsGs+KY53DCf7iWYblTRgmmcGg==;2DSrLODstWl9FCvkyirfEg=="
 ---
 

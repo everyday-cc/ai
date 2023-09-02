@@ -260,15 +260,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "IBM Expands Partnership with Microsoft to Support Companies Adopting Generative AI"
-    excerpt: "IBM is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI-while also delivering a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
-    publishedDateTime: 2023-08-28T13:13:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Expands-Partnership-with-Microsoft-to-Support-Companies-Adopting-Generative-AI-160210.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 28
   - title: "Chinese tech companies launch AI chatbots to public"
     excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
     publishedDateTime: 2023-08-31T07:58:00Z

@@ -68,15 +68,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Salesforce survey flags AI trust gap between enterprises and customers"
-    excerpt: "Salesforce's survey of 14,000 business buyers and consumers found adopting AI could mean risking a trust gap with consumers."
-    publishedDateTime: 2023-08-28T13:26:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-survey-flags-ai-trust-gap-between-enterprises-and-customers/"
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
     excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
     publishedDateTime: 2023-08-31T14:33:00Z
@@ -92,6 +92,34 @@ related:
       - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
+    publishedDateTime: 2023-08-31T17:07:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-and-salesforce-partner-to-help-businesses-accelerate-adoption-of-trustworthy-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/ibm-salesforce-300x234.png"
+        width: 300
+        height: 234
+        isCached: true
+  - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
+    publishedDateTime: 2023-08-31T22:04:00Z
+    webUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?235416"
+        width: 375
+        height: 250
         isCached: true
   - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
     excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
