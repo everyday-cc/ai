@@ -78,15 +78,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How AI and machine learning can help with DEI hiring"
-    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 34
 
 secured: "ocPewwzxOiozA3wYjbpNKaQrrjjskvO6ibxMwgRVllREbMJ2K7uV+fcWp/1bF0+YUJsoZyKWmBS6279dXBsL8d3Q4LIC5W8KokiXvpj1bfkpBrl5rUYWrIal15MBsJuW8e5jnOF7B6DlLS0BMu7tyXz689L1d+ydVJmyWt+mz7WmlAHKQyxBDbT3InGeuSIZzFDXwN61vgBCff2x55UZS5iogC2OJP4WB1MQTDeLmfv+yNHP64MoUwOqg5jDSTUFiTlbsMTQhJnWT7kGNVdtkqkKmcRWUOtmC/fKg+4n/5DWrfooJC0yi8cVNGwFhPGZRhjMmDxmUcuuI5UIDd/tjfDDLoSBby61uh2CqB+PzlcCxm4IevEW4tLFNw0kyk6S9U61OfloASS0yGgB5k9/6teCkHndGFZpKMJy7dJSn0ezldIVcPM0f9aMydDoBih/nxLoReh62cZi0jSzmX4LbtVar0QQLwJNwfGWq9djSmmHIXUK3wl1DusdkpKu4o/QzRJt8Igm8nvdh06zjLkq5A==;b1xj+a+bKAdaTk0Etuq9UQ=="
 ---

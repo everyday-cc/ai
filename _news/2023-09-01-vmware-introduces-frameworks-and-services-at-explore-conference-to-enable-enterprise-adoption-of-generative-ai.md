@@ -112,15 +112,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
-    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
-    publishedDateTime: 2023-08-28T13:05:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
 
 secured: "Jv8KPgjJfcAlHLeZaLHvJ8QLspNPEYMPi8L9A+G+teMzNPUqoT8r64dNFWwpJjVJmbmiZDOWRIS+eXlBDyjwNAncPhS//lk2kiYLdXxCuCqRHBbCPRe7P8R0brj8gh8EGT17dTOhqQc9PDjVrjTAIjGSmgMiu4u9Fx4r/+qVXHqGvXQtzDOyOzUacPMtIiRqVQWQS/Y48ppe8Dxt9x4r4W4THnVrE2yDNQtCC47vGMebUkhIqQXKsvxTZhmI4eZrXwqS09eQDA1uNQXO8Cnsvtzqe1+IPFWavkw+bCC+FKdDFfsU98h6cnR7+3phVFReSaJZrOmLMpZwh2ATx9XCoOIINtyYBBnbhlgVBDdLP8xGXTsC20oIr9cYNlwzLVzTCMpFADRq6rj9YFSiNuvgFIhuVJlomhnsJv9qYB2zTizTsBbEEboYEBZj3jEWPIInSVsNiz7q6l6FGOMxlClc6u4NMfMK6jNAweoQIWxQLO95vSqLuZuZBQ7iuxBSFnVrzshAYtxPCdVk7I+G54XrhA==;Ei3v6pwk4F5WS/4FCn6yTg=="
 ---

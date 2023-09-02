@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How AI and machine learning can help with DEI hiring"
-    excerpt: "Diversity, equity and inclusion (DEI) initiatives have been rising over the past several years, gaining momentum after major events. One watershed event was the murder of George Floyd, which prompted nationwide protests and forced us to confront the racial and cultural perceptions we unconsciously hold and oftentimes perpetuate in the workplace."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/how-ai-and-machine-learning-can-help-with-dei-hiring"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 34
   - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
     excerpt: "Learn more about our consulting and professional services here."
     publishedDateTime: 2023-08-29T20:00:00Z

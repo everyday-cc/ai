@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding/458287"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

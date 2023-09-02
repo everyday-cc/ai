@@ -24,6 +24,20 @@ topics:
   - Computer Vision
 
 related:
+  - title: "IBM Facial Recognition Reversal: Despite Pledges, Secures $69.8 Million Contract to Deploy the Technology"
+    excerpt: "The return of IBM to facial recognition raises questions about its previous human rights concerns. Learn about their surprising reversal"
+    publishedDateTime: 2023-09-02T04:37:00Z
+    webUrl: "https://techstory.in/ibm-facial-recognition-reversal-despite-pledges-secures-69-8-million-contract-to-deploy-the-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/GettyImages_924885706.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UK signs contract with IBM to provide police with facial recognition tech – report"
     excerpt: "An investigation claims IBM has signed a contract with the UK government to provide facial recognition tech, despite vowing not to do so previously."
     publishedDateTime: 2023-09-01T12:20:00Z

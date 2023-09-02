@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-16-top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies.md",
+      "title": "Top10 Artificial Intelligence (AI) And Machine Learning (ML) Development Companies",
+      "excerpt": "In this article, we'll look at the key criteria for evaluating AI and ML development organizations. We will discuss the factors that must be considered, such as knowledge, experience, innovation, and others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1686926655.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "publishedDateTime": "2023-06-16T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-the-ceo-of-pharma-giant-eli-lilly-shares-3-ways-ai-could-transform-his-industry.md",
       "title": "The CEO of pharma giant Eli Lilly shares 3 ways AI could transform his industry",
       "excerpt": "An curved arrow pointing right. The pharma-and-biotech industry has already begun to use artificial intelligence to improve how it operates, develops drugs, and ultimately makes things easier for ...",
@@ -1292,41 +1336,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
-      "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
-      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]

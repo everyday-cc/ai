@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
+      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
+      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-ai-equipped-eyeglasses-read-silent-speech.md",
       "title": "AI-Equipped Eyeglasses Read Silent Speech",
       "excerpt": "Researchers have developed a wearable interface called EchoSpeech, which recognizes silent speech by tracking lip and mouth movements through acoustic-sensing and AI. The device requires minimal user training and recognizes up to 31 unvocalized commands.",

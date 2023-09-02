@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Can Support Precision Heart Care"
-    excerpt: "A new AHA Leadership Scan episode will examine how one AI-powered system was developed from 10 million images of patients’ hearts gathered over a 15-year period from more than 40,000 patients in landmark,"
-    publishedDateTime: 2023-08-29T16:41:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-08-29-how-artificial-intelligence-can-support-precision-heart-care"
+  - title: "If AI Becomes Conscious, Here’s How We Can Tell"
+    excerpt: "A checklist derived from six neuroscience-based theories of consciousness could help assess whether an artificial intelligence system achieves this state"
+    publishedDateTime: 2023-08-30T16:20:00Z
+    webUrl: "https://www.scientificamerican.com/article/if-ai-becomes-conscious-heres-how-we-can-tell/"
     type: article
     provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
     images:
-      - url: "https://www.aha.org/sites/default/files/inline-images/How-Artificial-Intelligence-Can-Support-Precision-Heart-Care.png"
-        width: 620
-        height: 292
+      - url: "https://static.scientificamerican.com/sciam/cache/file/EA4AFABA-9A71-49C8-AE946CB0E1456A9E.jpeg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "tQVGul+ydTzxuJBe1uHBwNt6el+0HxYv8IjSMOZnftnvVLE9/PbJl8JCVTaW/+boCGzVi7bOc9j3B8AaumkEDWc/s8h8UVpbPuPJcuQTawCppVL5QOxQvhQSL8MneOF4iv32a1Vo/+VggOeET7NzwWPQmzHT96983rMZz1BueDnDCFZHubL46pSVmSG6HFuZYW5a4bmFvBiRv0j+jysVwp4xPdIFlo8F/1NgqyMpW77wqSIN9EHVkMwcei9dS5YtMs8TwVNkakyUpjNzj3YAbysEJHKCFi714rEQPHwdUDldd5TkXEPQ80nW+biyCxu3FVj04ikt4dSC4i7dLMm4k/2neGt73FPQz1wVykAnJRGRGCLT8XGR9NtFd9abFyvMWitOgGO/GjP6MDFabFxCTPJ/1iFXSEs72jUdROZU276JkeAevBp8ntKbCiSUYAsql/l0XSLbcK+PiLAfPBnQNN5BjOI9NxYFanBqgOvfA1QGdhwBbXu7SQgOBlTFqkzi95R+DLlFf/Otrr4htbdc4w==;RZq1FnKZqIrI8WLTW6jGZA=="

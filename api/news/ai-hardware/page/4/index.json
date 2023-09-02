@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-09-generative-ai-highlights-nvidia-keynote-at-siggraph-2023.md",
+      "title": "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023",
+      "excerpt": "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1",
+          "width": 696,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it.md",
       "title": "Nvidia CEO: We bet the farm on AI and no one knew it",
       "excerpt": "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ...",
@@ -1395,59 +1448,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
-      "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
-      "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/amd-earnings/",
-      "originalUrl": "https://venturebeat.com/games/amd-earnings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

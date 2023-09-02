@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/dasa-plans-use-advanced-facial-recognit
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/dasa-plans-use-advanced-facial-recognition-tech-security/amp/"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Railways plans to install airport-like security, facial recognition system in Patna"
-    excerpt: "Indian Railways is set to introduce a Facial Recognition System (FRS) at major stations, including Patna Junction, to enhance passenger safety and security. The FRS will be linked to a database containing records of criminal activities in and around railway station premises."
-    publishedDateTime: 2023-08-28T12:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/transportation/railways/railways-plans-to-install-airport-like-security-facial-recognition-system-in-patna/articleshow/103139284.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 45
   - title: "DASA to explores facial recognition for policing"
     excerpt: "The Defence and Security Accelerator (DASA) has launched a market exploration on how facial recognition technologies can be used in policing and security. It said it is aiming to identify capabilities that could be deployed within the next 18 months."
     publishedDateTime: 2023-08-31T05:20:00Z

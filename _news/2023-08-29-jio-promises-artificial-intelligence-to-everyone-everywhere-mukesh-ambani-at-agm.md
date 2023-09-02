@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Reliance Chairman Mukesh Ambani Push Artificial Intelligence Plans: Jio Promises AI to Everyone, Everywhere in India"
-    excerpt: "Ambani pledged the company's commitment to create up to 2,000 MW of AI-ready computing capacity, across both cloud and edge locations."
-    publishedDateTime: 2023-08-28T11:31:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/reliance-jio-ai-mukesh-ambani-india-artificial-intelligence-technology-4336351"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 9
   - title: "Baron Capital raises Swiggy, Pine Labs valuation; Jio to bring AI to everyone, everywhere: Mukesh Ambani"
     excerpt: "US-based asset management firm Baron Capital has marked up the valuation of Swiggy and Pine Labs while slashing the valuation of edtech major Byjus by almost half. This comes at a time when several Indian startups have faced valuation markdowns in the past few months."
     publishedDateTime: 2023-08-28T13:16:00Z

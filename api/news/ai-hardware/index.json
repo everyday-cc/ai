@@ -292,7 +292,7 @@
       "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -484,7 +484,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 150,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -572,7 +572,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1130,6 +1130,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
+      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
+      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "publishedDateTime": "2023-08-28T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-nutanix-introduces-a-turnkey-generative-ai-solution-stack.md",
       "title": "Nutanix Introduces A Turnkey Generative AI Solution Stack",
       "excerpt": "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production.",
@@ -1416,59 +1468,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-uk-putting-100m-toward-ai-chips.md",
-      "title": "UK Putting £100m Toward AI Chips",
-      "excerpt": "NVIDIA, AMD and Intel are in the spotlight in the proposed deal. The global competition for semiconductor chips makes investment in innovation a priority for the UK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
-      "originalUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08252023-uk-ai-chips.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -340,24 +340,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
-    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
-    publishedDateTime: 2023-08-28T12:36:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 14
-  - title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
-    excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
-    publishedDateTime: 2023-08-28T12:46:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "DclY99Y9qxCcn6fcH7sRkuVSzkNMw5NIl9YcjC5P2rrRXbglbah4t5Vx/N83xAAubnrHwzWmC6n1gpEN6KcKwgHq61mARG62rYGI9RhkuXZoluK4BtUOVlKOIZNJE4Vf9DqWAD48g9Pzg2C5IAQpAfhZBGo3zrr/Cz3WvFg9Y1b9nL1+wG3ra0fTaWwoYPwD3469o3whApXSo+KJqvD45ekuvT7HG+2r3FuBb8mVNWiECNihsHZRpM+4BgPFT+lxQ7V1wZtAryVPubdGBXBdtJyMftigok8Ega1q6ZhHrSuEUmai7KxCxx/lT5dg0jj91udMs8lS/fS8SZOBkCTW+VuoWozMCAlMpHdSbxx4h2E=;USfp4m7vmm3gEODFGytCUA=="
 ---

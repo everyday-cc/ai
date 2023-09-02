@@ -2,6 +2,100 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-08-11-virtualitics-raises-37m-for-ai-driven-3d-data-exploration.md",
+      "title": "Virtualitics raises $37M for AI-driven, 3D data exploration",
+      "excerpt": "California-based Virtualitics, a data exploration startup with roots at NASA, today announced $37 million in a series C round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/cover-image-virtualitics-e1691695329155.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-real-estate-computer-vision-leader-restbai-named-2023-innovation-award-winner-for-technology.md",
+      "title": "Real estate computer vision leader Restb.ai named 2023 Innovation Award Winner for Technology",
+      "excerpt": "LAS VEGAS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Restb.ai, a global leader in computer vision and artificial intelligence (AI) solutions for the real estate industry, was named the 2023 Inman Innovator Award Winner for Top Technology, besting hundreds of nominations of leading technology firms.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/680d4129-1a79-4cf7-a00c-970eceb3e11b",
+          "width": 2701,
+          "height": 1618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-3-robotics-stocks-you-better-be-buying-on-each-and-every-dip.md",
       "title": "3 Robotics Stocks You Better Be Buying on Each and Every Dip",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The global robotics industry is taking off, and investors are keeping a close",
@@ -1100,110 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-how-todays-top-marketing-leaders-are-approaching-ai.md",
-      "title": "How Today’s Top Marketing Leaders Are Approaching AI",
-      "excerpt": "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/",
-      "originalUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/",
-      "publishedDateTime": "2023-08-10T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai.md",
-      "title": "5 things to know for August 10: Maui fires, Trump, Ecuador, Boat dock brawl, AI",
-      "excerpt": "An American nurse and her daughter have been released in Haiti after being kidnapped around two weeks ago. This comes after the abduction garnered international attention and reignited conversation about Port-au-Prince’s kidnapping-for-profit epidemic. Here’s what else you need to know to Get Up to Speed and On with Your Day .",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230809152842-11-hawaii-wildfires-hurricane-dora.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/10/us/5-things-to-know-for-august-10-maui-fires-trump-ecuador-boat-dock-brawl-ai/index.html",
-      "publishedDateTime": "2023-08-10T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

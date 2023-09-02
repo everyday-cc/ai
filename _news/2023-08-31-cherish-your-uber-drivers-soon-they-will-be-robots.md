@@ -3,28 +3,27 @@ category: news
 title: "Cherish your Uber drivers. Soon they will be robots"
 excerpt: "He had to hail an Uber to reach Waymo territory. That is telling. After years of testing, Waymo (owned by Alphabet) and its rival Cruise (majority owned by General Motors) got the go-ahead from California’s regulators in August to sell driverless taxi rides across the city 24 hours a day."
 publishedDateTime: 2023-08-31T13:03:00Z
-originalUrl: "https://www.aol.com/finance/cherish-uber-drivers-soon-robots-130312640.html"
-webUrl: "https://www.aol.com/finance/cherish-uber-drivers-soon-robots-130312640.html"
+originalUrl: "https://www.economist.com/business/2023/08/31/cherish-your-uber-drivers-soon-they-will-be-robots"
+webUrl: "https://www.economist.com/business/2023/08/31/cherish-your-uber-drivers-soon-they-will-be-robots"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230902_WBD000.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "1uy8WrhRr3VrD6F6DYNby1Z1eGJgLjjEFAgRXRCGdZXF0sKaWMQCiY0uhTg6LUDaxwpMv9P5wTIpSTuyOEf2OjLTpXOAJq7OxcYWinSdra89nF87nJyg60eLgAmbzdsVlc+PLlxm/c4XfQ9YXpwVo+RUareKmAkL6SQqF2fyR0dqg1sYfqPmm7H8Z9YrR7J8EZ0SJxjYKVqxQIvqbAGIF7nGGK9N+d8SBXJryaHAOGVuIpJKewjUQg1+ntjjEAfh89cUE3mDC12iL/E/h6Va/9JabuuReu+ji0DRa71uCWePIuw/BZ5CA4JS//DgEN9eAzL7kGmLX21ZXZewb/Wwl+vWR3IvCjP7j22mPArGLn8=;cCdOqjtY9yGzGsscOqyosg=="
+secured: "y4s3G69WlRtokXyxIc5kB3MSImBWa+c3kKY8gXM5cYTObuZKt4wW3Hnu7UgRh00kwS1SLdYk9CxKQ/QZrIcsBFDzH7DMa/m3lP8gAgwn3YW/RaOEhy6bLF8+p/ATF8V/5Pa6xhhpagZg6S2fU8/TyuTzwDQXisdeYl1dzmGTjUzvh8FVHhpdUtnxOzMRQCAsz6cL8Asqj4nCrPH/o7kbCdi+bT8JhfQnfmS5COaTjx0EciBByctRCxEkSf1730M6DpaQX3s5Cit3Wigy40YRvQqJ+mwHBCFkhf+5xVRbxvtu02fEGdivINTEsR7SdO2qxRhc3lWjtMrvNNA7g8T98eYx+U2Yn4UuO8LFImXao3k=;1E7BDjCy41TIE2Zh2SH/1w=="
 ---
 

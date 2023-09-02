@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/"
 type: article
 quality: 87
-heat: 101
+heat: 97
 published: true
 
 provider:

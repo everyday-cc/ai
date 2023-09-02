@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-
 webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/"
 type: article
 quality: 126
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -112,15 +112,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 31
-  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
-    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
-    publishedDateTime: 2023-08-28T13:05:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
 
 secured: "WOUo2a+pjOLNYxLL8Xprf3dKMa30CXfnkHUDClPw5qivYJ1zJFvgFSqGVuOmuRugqWVIa1FJQkJPCuxnfJcsZZTYnPpXjX3Dkrl8Rp766w0OG7yvXyGoj+8YFXZdEc+q5i+k6RBNYnYyebEeI9qIjgQLhbYiC7Y0JlKI+sZCk3o77kkKoM4nnNl8WN7Y9KpGyJV7uiqVzceHWmRSOJv+p1zb/zXVzMUBrgA5JVHJFLiXPKJoPqky3uNoP+FxqcSgXL00YV8XOP03i07i0/MARJlUdKwHHlRqY4o22xSNxj0lEnBruz3Z4UDj46denLMRxUocGRQK9kDTvUwLAYKoK3a8DlRjvS9ztU8jxd3lxdQ=;Qzj4IFmd4CiBA46giGL/ng=="
 ---

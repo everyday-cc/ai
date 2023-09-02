@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 389
+heat: 369
 published: true
 
 provider:
@@ -336,15 +336,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
-    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
-    publishedDateTime: 2023-08-28T12:36:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 14
   - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
     excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
     publishedDateTime: 2023-08-29T15:52:00Z
@@ -354,15 +345,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
-  - title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
-    excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
-    publishedDateTime: 2023-08-28T12:46:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "Nt7LgJW+U1TiPckYiZB39KbJtnj5SWnc2RBwybj5r334PB3jiJeP28cu7687cCPxm9Av/8wM7fOMHDlSOzsDlFDl97tpKYGMKnMcloEf07+aJQ7TICyCPbNJIiUnvNKyTwAWeAQa1ishhaHNOXDbNYQnENCuSta1RIWceFTSvVTeYSpUkbYqEDjV2i22F8pCDcRHnrwz2ARI0qyEhLcBM3u4DmutuLn/HOkPx+85TKvr0pQ82lehRcwtR2v1DaQqT2ZgoEi5I4Id3dcVVpkV2gRgqviK/5gkGu2Bs83e9yAvRyI+cqdnQZwNARpahcm0Yz4qVMyDaLrpqz92SqQLF9zMXddGn+jD22Zj6JtCHDI=;EsDfSMOtbvH3wLX1dr4TRg=="
 ---

@@ -332,15 +332,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Navigating the Future with Generative AI: Treating AI as a Trusted Colleague"
-    excerpt: "Well, meet generative AI – your newest colleague. The start of 2023 has seen frenzied discussion about ChatGPT, Bard and other generative AI products, with predictions about how it will shape the future coming thick and fast. In my view, some of the ..."
-    publishedDateTime: 2023-08-28T12:36:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/treating-ai-trusted-colleague/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 14
   - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
     excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
     publishedDateTime: 2023-08-29T15:52:00Z
@@ -350,15 +341,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
-  - title: "Women are at much greater risk of job loss due to generative artificial intelligence, studies show"
-    excerpt: "Several new studies — both national and global — have found that generative artificial intelligence will cause women to lose their jobs at disproportionate rates."
-    publishedDateTime: 2023-08-28T12:46:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/08/women-job-loss-artificial-intelligence.html?page=all"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "rxUamx0qwnmVA3zf8dODwOUTD2W1S6eGffnojIQiGP8Pjt+cJ++8BMEudb1jBsR9RsW8vFrQ4BF1f1kDGs7AlZ8EslrZrk/ponwWRHtMhIu878ugMA6S9buMuG44jAPwe+7WKT/3ezOOievZ7hq4anNX6u9Y8v9Bo3SKwJozJFIPQu8rR6NLGWG6pX2H+jnJVdn0j/5atER/56mmBqEjol05wG79fJb02xN1ORYAtkhxc38/hNqiWySRak0M8Z1pWUMYNkJhzScxM4cgnrbfqplp5JodzRYThF9o2T+9ycJJnJyDgpt8gXqq1JBMKqUhG3h05PQa9fmgL+Gk4GqFAwvR+1bDdNjm5YP4plHmpYESe9762dxArlNr6rzT6Z7OmirT+ox1jfdi3+LdibHP9zlK/qb3g7TmJC0pVNbOfXdypdefeDUNX/TYqMaRYbWzPKfnZlPjpkhD47PJAG9LszWe2tLoc40JB4JVzNR6/8M2nb5RfCeOPyBCm31gM18uDA4nTRmNuEILyC3elXeWdQ==;qSpwyeZv15yEDWgjziC6xg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-fut
 webUrl: "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

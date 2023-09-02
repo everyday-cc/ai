@@ -96,6 +96,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-how-ai-can-help-healthcare-organizations-bolster-patient-data-security.md",
+      "title": "How AI Can Help Healthcare Organizations Bolster Patient Data Security",
+      "excerpt": "Healthcare needs to do a better job of safeguarding electronic protected health information. Artificial intelligence-powered platforms are key.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202309/GettyImages-1421626437.jpg?itok=g7p1UpOi",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp",
+      "publishedDateTime": "2023-09-01T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
       "title": "Elon Musk's X will use public data to train AI models",
       "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
@@ -335,7 +379,7 @@
       "originalUrl": "https://techround.co.uk/news/dasa-plans-use-advanced-facial-recognition-tech-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -720,7 +764,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -876,7 +920,7 @@
       "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1157,57 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-can-we-use-ai-to-address-global-challenges-like-climate-change.md",
-      "title": "How Can We Use AI To Address Global Challenges Like Climate Change?",
-      "excerpt": "Climate change is an existential threat, but AI might be our secret weapon against its most destructive impacts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f18ad1b6615f63691e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/amp/",
-      "publishedDateTime": "2023-08-31T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

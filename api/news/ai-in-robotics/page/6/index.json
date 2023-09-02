@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
-      "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
-      "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "originalUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276",
-          "width": 275,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "publishedDateTime": "2023-07-18T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
       "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
       "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
@@ -1363,6 +1319,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-11T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-ai-industrial-robotics-russia.md",
+      "title": "AI Industrial Robotics - Russia",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T12:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",

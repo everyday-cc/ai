@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Dynamo Software Named 2023 ‘Best Alternative Management FinTech Company’ by Acquisition International"
-excerpt: "BOSTON--(BUSINESS WIRE)--Alternative investments FinTech Dynamo Software ... Magazine Acquisition International is a monthly magazine brought to you by AI Global Media Ltd, a publishing house that has reinvigorated corporate finance news and reporting."
-publishedDateTime: 2023-08-29T14:36:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230829996280/en/Dynamo-Software-Named-2023-‘Best-Alternative-Management-FinTech-Company’-by-Acquisition-International"
-webUrl: "https://www.businesswire.com/news/home/20230829996280/en/Dynamo-Software-Named-2023-‘Best-Alternative-Management-FinTech-Company’-by-Acquisition-International"
+title: "Dynamo Software Named 2023 'Best Alternative Management FinTech Company' by Acquisition International"
+excerpt: "Alternative investments FinTech Dynamo Software, has been recognized as the \"Best Alternative Management FinTech Company for 2023,\" as part of Acquisition International Magazine's eighth annual Worldwide Finance Awards."
+publishedDateTime: 2023-08-29T16:16:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/29/9871318.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871318.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "VnqFUkazrp75Ve9hjSvGUcXgatquDNe+XNxkenMCxYTrznMnBeO0EkUJdwzCwvEajqtw/v42WBpGQKSbxBOTassYdkuiSHvOIhVrU7o4talWYrqAb5XUDA3L9+HCR00JCXFh9sfmeADY/jFLs9gjRRLrWdJAwfYRMapcrKSbtmEi/ZKqSTdVOyI07mgJgGBAQVlxM2dna8ZaJ6mLFyLp4aGu7UIJ0sDr96wlYicm/mzWJ/TLu/8PbwCuJfAQF0/UTP3MIuqpYCAQv0hGPtb0MnSCIN0/UMuLdbpvmPvsCDAtYh3MHR/U0jyF9R+Z9u1dzJ0bGi/n+6T0NaP0JVm/ra80AnZHOAGLN54Uicv0jak=;eRY6DBDSWemg7/GZSnn2Dg=="
+secured: "L6mF8yGyYwEewB53U1rP22sWmIi8JshmO+wqQd0V/5gZsT055nlFkPaAhXtj3p11kcZmHrvrMUQU9K7pRtC/l5Mq44g0EAfFDyiyttYzKq5rMJn1GSod7Uf+PxubpzyNlVT4vL7p75lCEU3RNMk1nW6bj8jYh5qEtILNKw/JGx7rW6OvA4OOZDFoWiaiQkCgi+e3IAaUBrKCD986h9MzdzxqHFa056dowdzfo+cuptvQ0WSHrZA8RYPFWlU9+isdHVwjZUKitgQIv/NOQmzEmqVFNVAYUjIHJgPshW/o/oUCfMBKy2Kdj/073mMz5jutQN4kYwao9OzLPHEe/yDJjdwjv+dLeqnuv5zPFQZN58Y=;LezbeeqxbqbA9gcFE4TQmg=="
 ---
 

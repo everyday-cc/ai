@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-s
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

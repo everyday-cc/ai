@@ -41,15 +41,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "From coding video games to creating animation, artificial intelligence takes centre stage"
-    excerpt: "Artificial intelligence (AI) is playing a prominent role at Gamescom, one of the largest fairs in the video game industry. AI can be used to generate storylines, code games, and create animations."
-    publishedDateTime: 2023-08-28T12:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/from-coding-video-games-to-generation-to-creating-animation-artificial-intelligence-takes-centre-stage/articleshow/103135183.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 8
 
 secured: "/Ib3YvR0B7CUd1X9cwfagz9TBiS9b3Kep8nt+Q6AKXfYKQ3TuZ/cT7e17U2r6xxi3zTMzLPwSchb1OMYvGFkMwOCu1+SufZogku0zcG3tGVdOhgMYATAnvXHKRmgdn0aqfcE06dZaWZcK8LgPlsXYa2iqJRxOYT+scD5mKxUi1wI7NRUbi3iSwdjAynSThPm2nuqiuCDK8mxNRifJlMt6FjnASlcFewxhnWd/1OE7VLukljXm37wRfPoiRtj7cI4Epoy7cB9i2ZTH+i3/6GksLlUAK9ykapGGURv7uIFzoe15vWx6iNlfWGv2bJMKaxSSxVWSKMSCAj9eSWoLs7OO0OYNNZDxiXDpno0krIG6Hs=;Kflyn5/A3QJlntxr7BJ+OA=="
 ---

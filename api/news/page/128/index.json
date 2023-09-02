@@ -2,6 +2,109 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-06-08-the-weakness-of-artificial-intelligence-in-marketing.md",
+      "title": "The Weakness Of Artificial Intelligence In Marketing",
+      "excerpt": "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
+      "publishedDateTime": "2023-06-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023.md",
+      "title": "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023",
+      "excerpt": "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
+      "publishedDateTime": "2023-06-08T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech.md",
       "title": "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech",
       "excerpt": "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions.",
@@ -1121,110 +1224,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-deepmind-made-its-ai-name-in-games-now-its-playing-with-the-foundations-of-computing.md",
-      "title": "DeepMind made its AI name in games. Now it’s playing with the foundations of computing",
-      "excerpt": "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms",
-      "originalUrl": "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-6.jpg&signature=cdc070d431840e67fd8f122b3ceccef6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench.md",
-      "title": "Expedite the Amazon Lex chatbot development lifecycle with Test Workbench",
-      "excerpt": "Amazon Lex is excited to announce Test Workbench, a new bot testing solution that provides tools to simplify and automate the bot testing process. During bot development, testing is the phase where developers check whether a bot meets the specific requirements, needs and expectations by identifying errors,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/workbench-for-lex.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:12:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-29-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment.md",
+      "title": "LTIMindtree partners CAST AI to help businesses optimise cloud investment",
+      "excerpt": "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/",
+      "originalUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/1-250.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/",
+      "publishedDateTime": "2023-08-28T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month.md",
       "title": "Elon Musk, Mark Zuckerberg, Sundar Pichai to attend event on Artificial intelligence next month",
       "excerpt": "US Senate Majority leader Chuck Schumer will host major tech leaders like Tesla CEO Elon Musk, Meta CEO Mark Zuckerberg, Alphabet CEO Sundar Pichai on September 13 for an artificial intelligence forum.",
@@ -52,7 +95,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -386,6 +429,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
+      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
+      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "publishedDateTime": "2023-08-28T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -874,6 +969,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-28-uw-researchers-find-hole-in-voice-recognition.md",
+      "title": "UW researchers find hole in voice recognition",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-researchers-find-hole-in-voice-recognition/article_2b8acaf9-e4a2-5462-9b12-fc03045448c6.html",
+      "originalUrl": "https://wiscnews.com/uw-researchers-find-hole-in-voice-recognition/article_2b8acaf9-e4a2-5462-9b12-fc03045448c6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/custom/image/1e2024a6-abfb-11e4-82a6-97ddb52e92ae.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-how-macmillan-publishers-authored-success-using-ibm-cognos-analytics.md",
       "title": "How Macmillan Publishers authored success using IBM Cognos Analytics",
       "excerpt": "Discover how Macmillan Publishers took on their data challenges with a new “modernized” approach to data analytics and business intelligence.\nThe post How Macmillan Publishers authored success using IBM Cognos Analytics appeared first on IBM Blog.\n",
@@ -1040,162 +1178,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-to-honor-artists-in-the-age-of-ai.md",
-      "title": "How To Honor Artists In The Age Of AI",
-      "excerpt": "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-08-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
-      "title": "The 34 most promising AI startups of 2023, according to top VCs",
-      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
-      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
-      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "publishedDateTime": "2023-08-27T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -194,20 +194,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft's mobility head explores AI's game-changing impact on automotive innovation"
-    excerpt: "Microsoft's Henry Bzeih discusses AI's transformative role in the automotive industry, from efficient product design with generative algorithms to interactive in-vehicle experiences like Mercedes-Benz's ChatGPT integration and AI's impact on the vehicle lifecycle."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.autonews.com/sponsored/microsofts-mobility-head-explores-ais-game-changing-impact-automotive-innovation"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 47
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/AN%20Driver%20Seat%20-%20Microsoft%20-%20082823%20-%20SS.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fraunhofer launches internal AI chatbot"
     excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
     publishedDateTime: 2023-08-31T09:21:00Z

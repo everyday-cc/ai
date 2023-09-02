@@ -44,15 +44,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Railways plans to install airport-like security, facial recognition system in Patna"
-    excerpt: "Indian Railways is set to introduce a Facial Recognition System (FRS) at major stations, including Patna Junction, to enhance passenger safety and security. The FRS will be linked to a database containing records of criminal activities in and around railway station premises."
-    publishedDateTime: 2023-08-28T12:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/transportation/railways/railways-plans-to-install-airport-like-security-facial-recognition-system-in-patna/articleshow/103139284.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 45
   - title: "RecFaces announces webinar on “The Future of Face Recognition Technology: Opportunities and Challenges in India”"
     excerpt: "RecFaces, a biometric solution company announced the date for its next free webinar, The Future of Face Recognition Technology: Opportunities and Challenges in INDIA. Facial"
     publishedDateTime: 2023-09-01T11:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget to Use a Discount Code, Gift Card? Yahoo Mail AI Can Help (Maybe)"
-    excerpt: "Yahoo Mail's Shopping Saver locates codes in your inbox and drafts emails to retailers with requests to apply those savings after you’ve made a purchase."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.pcmag.com/news/forget-to-use-a-discount-code-gift-card-yahoo-mail-ai-can-help-maybe"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
   - title: "Google Duet AI will help with Gmail, Docs, and even go to meetings for you"
     excerpt: "Duet will be available starting at $30 a month, and Google says that the AI tools will allow you to take meetings in Google Meet, even going so far as to translate those meeting notes into 18 different languages. Duet is also the powering agent behind ..."
     publishedDateTime: 2023-08-29T14:55:00Z

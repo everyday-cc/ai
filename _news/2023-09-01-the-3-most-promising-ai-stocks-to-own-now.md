@@ -47,6 +47,24 @@ related:
         width: 2308
         height: 1299
         isCached: true
+  - title: "3 AI Stocks That Every Forward-Thinking Investor Should Own Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future is artificial intelligence (AI) and any industry you name has AI"
+    publishedDateTime: 2023-08-30T22:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-forward-thinking-investor-should-own-now-1032594384"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 AI Stocks That Still Trade Under $10 Per Share"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) boom is far from over. For example"
+    publishedDateTime: 2023-08-28T21:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-still-trade-under-10-per-share-1032587238"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "3 Up-and-Coming Autonomous Driving Stocks to Put on Your Must-Buy List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While individual motivations may vary, in my opinion, there’s only one"
     publishedDateTime: 2023-08-31T01:24:00Z

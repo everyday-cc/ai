@@ -2,6 +2,91 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-22-leanix-partners-with-microsoft-to-bring-generative-ai-to-enterprise-architecture.md",
+      "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
+      "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-ai-is-remixing-musicbut-the-dj-is-still-a-human.md",
+      "title": "AI Is Remixing Music—But The DJ Is Still A Human",
+      "excerpt": "The truth is that successful, AI-generated art will still require a human touch. Despite its ability to automate tasks and generate images, AI (for now) is still limited by the abilities and decisions of the people responsible for its creation, editing and programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38a5f40c0644c620c8def/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "publishedDateTime": "2023-08-22T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java.md",
       "title": "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java",
       "excerpt": "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ...",
@@ -1078,110 +1163,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-siggraph-2023-highlights-new-graphics-technologies-and-missed-opportunities.md",
-      "title": "Siggraph 2023 Highlights New Graphics Technologies — And Missed Opportunities",
-      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag shares his insights from this year's Siggraph graphics conference—including his disappointment with how it was organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e3c5ca0b850136180f2ee6/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
-      "publishedDateTime": "2023-08-21T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro.md",
-      "title": "This AI-generated crypto invoice scam almost got me, and I'm a security pro",
-      "excerpt": "Even a tech pro can fall for a well-laid phishing trap. Here's what happened to me - and how you can avoid a similar fate, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3be910b06a4d8796f38d7419f839efc630fba979/2023/08/21/f7f8fc3a-a1e7-4b45-badc-2dc6c05955f7/gettyimages-1468008490.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
-      "publishedDateTime": "2023-08-21T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

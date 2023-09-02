@@ -97,15 +97,6 @@ related:
         width: 775
         height: 430
         isCached: true
-  - title: "Top Minds in Artificial Intelligence and Energy Come to New York for Transition-AI"
-    excerpt: "Attendees include leaders from utility, tech, startup, research, and other sectors working to define, discover, and convey the value AI brings to the energy industry. Previous attendees came from a wide range of leading companies, including Engie, National Grid, Tesla, Intel, Google, Schneider Electric, and Snowflake."
-    publishedDateTime: 2023-08-28T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-minds-artificial-intelligence-energy-come-new-york-/2023/08/28/9870684.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
   - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
     excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
     publishedDateTime: 2023-08-30T09:31:00Z

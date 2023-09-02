@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Forget to Use a Discount Code, Gift Card? Yahoo Mail AI Can Help (Maybe)"
-    excerpt: "Yahoo Mail's Shopping Saver locates codes in your inbox and drafts emails to retailers with requests to apply those savings after you’ve made a purchase."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.pcmag.com/news/forget-to-use-a-discount-code-gift-card-yahoo-mail-ai-can-help-maybe"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
 
 secured: "ZVs0eO+oDAuMWV36VdsDjM+mcFVb59FxdTMsMvocbT1AltWVzaVpPOKCo3SGxz3TiI6r9ggwJEBYvob6WULy+HcLF9scU5z9zTzvn0C83g4Th4ify8FzxjI+/KRPthdskafRJcZiZkdaHCMRAnP5Vph6bzUtWEIH3NvI1ep/LPkQjLS2TWSpeC8zraIOyUKXj31Jj6LGeCyib/3sttgq6iqve+J9NYrDjbocfwWRcuJG7k3CspGOybFvj5UrMHO8CB72/IL+sgcya2rYutSlFoEb8Wi/GPyW/DSJej9IgkMbHcC8afNNaMAFH5/YUik/RDxgrhrR9GdkUNCEl2R5PGQfDBLZq4tyExFOU1Wb7TUrwWrlqgw0Z30YVTlVN5xW80mVMTEdaJxoL4AAA4HaWJSbwDDdBpxygxFPUbEV4ylw9TLeZzQvdVloVgRtT5lCrls6IYI/slbOnLVwLMEEN26gHqK8SpznIDqBUx1V/+Ud9b3/HNpGCJP7CcHnXGUSofo1EbmzsmzLzGZXe4wEdw==;nML4pNJ75+Vbr7bFH8WJAw=="
 ---

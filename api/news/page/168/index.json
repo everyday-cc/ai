@@ -2,6 +2,109 @@
   "page": 168,
   "value": [
     {
+      "path": "_news/2023-05-13-what-does-ai-mean-for-your-money.md",
+      "title": "What Does AI Mean For Your Money?",
+      "excerpt": "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
+      "originalUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies.md",
+      "title": "GXO Direct To Rely On Machine Learning To Drive Labor Efficiencies",
+      "excerpt": "GXO Direct has invested in a machine learning labor management system from Blue Yonder to help drive labor productivity at their warehouses. Traditionally, industrial engineers were widely used to set fair labor standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ec3f67b23e04dc34bd1d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
+      "publishedDateTime": "2023-05-12T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-snapchat-influencer-launches-an-ai-powered-virtual-girlfriend-to-help-cure-loneliness.md",
       "title": "Snapchat influencer launches an AI-powered 'virtual girlfriend' to help 'cure loneliness'",
       "excerpt": "Called CarynAI, the chatbot is described on its website as a \"virtual girlfriend.\" It allows Marjorie's fans to \"enjoy private, personalized conversations\" with an AI version of the influencer, the chatbot's website states.",
@@ -1134,109 +1237,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-artificial-intelligence-is-changing-business.md",
-      "title": "How Artificial Intelligence Is Changing Business",
-      "excerpt": "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization.md",
-      "title": "IBM and Microsoft partnership accelerates sustainable cloud modernization",
-      "excerpt": "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
       ]
     }
   ],

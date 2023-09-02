@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-12-tempus-announces-the-gemini-non-small-cell-lung-cancer-study.md",
+      "title": "Tempus Announces the GEMINI Non-Small Cell Lung Cancer Study",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, announces its GEMINI Non-small Cell Lung Cancer (NSCLC) study (NCT05236114). The Tempus-sponsored study, being run in collaboration with AstraZeneca,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
       "title": "What Types of AI Are Being Used in Healthcare?",
       "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
@@ -1343,50 +1377,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
-      "title": "Wisconsin healthcare system using artificial intelligence",
-      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "publishedDateTime": "2023-06-28T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WISN 12 NEWS",
-        "domain": "wisn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

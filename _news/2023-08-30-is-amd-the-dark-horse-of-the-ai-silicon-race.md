@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

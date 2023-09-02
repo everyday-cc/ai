@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-28-how-to-honor-artists-in-the-age-of-ai.md",
+      "title": "How To Honor Artists In The Age Of AI",
+      "excerpt": "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-08-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
+      "title": "The 34 most promising AI startups of 2023, according to top VCs",
+      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
+      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
+      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "publishedDateTime": "2023-08-27T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-china-gpu-firms-aim-at-ai-chip-orders-in-the-long-term.md",
       "title": "China GPU firms aim at AI chip orders in the long term",
       "excerpt": "Despite Nvidia's whooping 90% share in the high-end AI GPU sector, China-based GPU chip makers are still keen on contracting their customers frequently to improve their products, eyeing to tighten the partnerships in the hopes of gaining their orders in the long term.",
@@ -84,40 +240,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "AI Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "publishedDateTime": "2023-08-27T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -226,6 +348,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests.md",
       "title": "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests",
       "excerpt": "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ...",
@@ -325,40 +481,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
-      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
-      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look",
-      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-revitalizing-amazons-aws-business:-a-closer-look",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -589,6 +711,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
+      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
+      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/azure-and-ai-in-focus-oppenheimer-bullish-on-microsoft-s-scalability-security-and-200b-market-opportunity-1032583661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
       "title": "Nvidia: The chip maker that became an AI superpower",
       "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ...",
@@ -795,50 +970,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
-      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
-      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "originalUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045380",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380",
-      "publishedDateTime": "2023-08-25T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1089,109 +1220,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient.md",
-      "title": "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "originalUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/moto1-1.jpeg",
-          "width": 2000,
-          "height": 1583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-for-ai-does-company-size-matter.md",
-      "title": "For AI, Does Company Size Matter?",
-      "excerpt": "AI is rapidly becoming more accessible and applicable to all organizations, regardless of their size and resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8c26ab32f934a403b0612/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/25/for-ai-does-company-size-matter/amp/",
-      "publishedDateTime": "2023-08-25T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

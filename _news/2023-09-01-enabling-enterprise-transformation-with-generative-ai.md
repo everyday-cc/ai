@@ -111,15 +111,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 31
-  - title: "IBM Introduces Generative AI Capabilities for watsonx to Accelerate Mainframe Modernization"
-    excerpt: "IBM is introducing watsonx Code Assistant for Z, a new generative AI-assisted product that will help enable faster translation of COBOL to Java on IBM Z and enhance developer productivity on the platform."
-    publishedDateTime: 2023-08-28T13:05:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Generative-AI-Capabilities-for-watsonx-to-Accelerate-Mainframe-Modernization-160209.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
 
 secured: "alE+y/RUtf9B3khsMOY5ve2eQj36aO980AMVSnWtNBj4gWMFvmDpo4gdCwj4ePqLClKCV8gSTmc/7rB/SNVgzhRHt4Sl8MF57eKLW5FNt5UIee9lZ8PRdIlbmrdC2dzpP3P6F7u2yKZMuhgsvFqdWHgW25V1Yj2iZDweV2JZXgNZhOSvuB/H/k52jHbvlIwvCjG6RJS8HI9wUhsDsEBVnBMInNselmRuTAEPWeRlJOXUWSdEPh61tjmzZb6Z43s0BheIrzKhPxn5QVn2Lp+CKTEWN9oZUZbwGUvbUcdJ19XBtx4XS/QAz/gV+9KJDoOJ/qjNZ0XlbXukZKfuXVpZ/qKj8KyYCj7HptyRBW5vs83AkDCTYtO6jM2uhSKlscZwOPDCWMokti1zcSwnz6YZZNHB7k63G1vI+2wP0TAd/mjczKm97U1L5S8eR6m5OXVR1NfONtoHLi4qUawMOV3Ea3zcc16UQLKowDtByNpnYC2NLeh06nIIj60FvEBzWAGSojA1UyR3mCYVk/GbBx1OjQ==;dWnzF9vOZ203zEGEIcg7gQ=="
 ---

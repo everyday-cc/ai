@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-02-how-ai-can-help-healthcare-organizations-bolster-patient-data-security.md",
+      "title": "How AI Can Help Healthcare Organizations Bolster Patient Data Security",
+      "excerpt": "Healthcare needs to do a better job of safeguarding electronic protected health information. Artificial intelligence-powered platforms are key.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202309/GettyImages-1421626437.jpg?itok=g7p1UpOi",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp",
+      "publishedDateTime": "2023-09-01T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ai-and-the-economy-healthcare-will-have-huge-productivity-gains.md",
       "title": "AI And The Economy: Healthcare Will Have Huge Productivity Gains",
       "excerpt": "The big, early gains will come from faster, easier clerical tasks that today consume too much of doctors’ and nurses’ time.",
@@ -1321,49 +1365,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-invest-in-it-infrastructure-to-support-ai-adoption-in-healthcare.md",
-      "title": "Invest in IT Infrastructure to Support AI Adoption in Healthcare",
-      "excerpt": "Healthcare organizations looking to adopt artificial intelligence solutions must develop a comprehensive strategy combining hardware and software that integrate seamlessly for maximum benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare",
-      "originalUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202308/computer%20processing%20concept.jpg?itok=Dj5QFqZ9",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp",
-      "publishedDateTime": "2023-08-10T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
         "images": null,
         "publishers": null,
         "authors": null

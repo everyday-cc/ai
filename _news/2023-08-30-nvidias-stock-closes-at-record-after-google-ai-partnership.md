@@ -104,6 +104,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries"
+    excerpt: "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East"
+    publishedDateTime: 2023-09-01T10:07:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png"
+        width: 1008
+        height: 664
+        isCached: true
   - title: "US restricts sales of AI chips Nvidia and AMD to Middle East"
     excerpt: "The United States has extended restrictions on exports of high-performance AI processors to some Middle Eastern countries. It concerns chips from Nvidia"
     publishedDateTime: 2023-08-31T11:02:00Z
@@ -334,15 +348,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "How Nvidia built a competitive moat around AI chips"
-    excerpt: "Nvidia achieved its dominance by becoming a one-stop shop for AI development, from chips to software to other services."
-    publishedDateTime: 2023-08-28T13:01:00Z
-    webUrl: "https://www.seattletimes.com/business/how-nvidia-built-a-competitive-moat-around-ai-chips/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
     excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
     publishedDateTime: 2023-08-29T09:52:00Z
