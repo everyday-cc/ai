@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
+      "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
+      "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a7a60f5e9eb3b27b9b888f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
+      "publishedDateTime": "2023-07-06T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
       "title": "Kerala HC to implement machine learning system to verify bail applications",
       "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
@@ -1105,49 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages.md",
-      "title": "USC researchers use AI to help translate Bible into very rare languages",
-      "excerpt": "an AI-powered technology to help streamline the highly technical process of biblical translation. Combining Hermjakob’s long experience with natural language processing and Mathew’s field ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/2023/07/06/usc-researchers-use-ai-help-translate-bible-into-very-rare-languages/",
-      "originalUrl": "https://www.washingtonpost.com/religion/2023/07/06/usc-researchers-use-ai-help-translate-bible-into-very-rare-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQF6TWXMCQI6XIV2HPRR2NESLA.jpg&w=1440",
-          "width": 1414,
-          "height": 2121,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

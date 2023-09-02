@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/arts/visual-artists-fight-back-agai
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/IPZ5GA7PANA6BKAFOCZSBGQ5BE.jpg?_a=ATAPphC0"
         width: 700
         height: 467
+        isCached: true
+  - title: "Visual artists fight back against AI companies"
+    excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."
+    publishedDateTime: 2023-08-31T02:52:00Z
+    webUrl: "https://apnews.com/video/artificial-intelligence-visual-arts-lawsuits-legal-proceedings-karla-ortiz-59503737cc2f4bebac2cfe867df28e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "FCtvltR9e4qe+R8lSfuXcLGciSz9/qwzw8aAoFCIlP1/IbcPHQ3z6zp79yAoqe1iXNTfYlGgc423VJ2S0eVvUvm0oPfDC78KJU8lqEihGn+kDASgHwDySqw0P/W0KPijD104DTKhCKDDAKg0yPXcc1Fo2H/IMNys1OGR9V3TnlmfcnJ34YhZJt88IS6LkjVIUxaGhO5J0DPayBkm1atwjj+OPXIXJHBnfhlURbz1emtiIr0esgIBlF8Ylpo9ObGoyrhc9lT0Nr6DJGwcthEixOg9BF3Q9+7HNay0ABczrGVhexK6yvQ33OyTyFTS9vQv9/xx+DmfQPBTOLaDHWUagAq5w5dUq9zKgk4Fj8MCQajXtxVpOGTpHQXYVVpGEcfwN+jPy2nARTYdqFqPySRaf3KNdRcLFqNbbDR6dkWbLByxGlQwYGLOhf0f3neindPhQ2Mv8XLEPRJ9I4pGljWyEQJ6QOrFMgXgcsLoXvr2uBg3Me9xEa28KeR2FNKTyK3uOVE8gMjyFbyuZEEuM8861A==;NyzSGeFQMtEniXIOkSfFDw=="

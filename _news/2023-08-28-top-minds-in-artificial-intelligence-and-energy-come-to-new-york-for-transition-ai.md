@@ -18,87 +18,100 @@ topics:
   - AI
 
 related:
-  - title: "How To Honor Artists In The Age Of AI"
-    excerpt: "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you."
-    publishedDateTime: 2023-08-28T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/"
+  - title: "Finance Transformation With AI And Open Banking"
+    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
+    publishedDateTime: 2023-08-29T13:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 81
+  - title: "Schools, universities turning to artificial intelligence to transform education"
+    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 72
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
         width: 1200
-        height: 865
+        height: 630
         isCached: true
-  - title: "How the AI Revolution Will Reshape the World"
-    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
-    publishedDateTime: 2023-09-01T11:05:00Z
-    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
+  - title: "3 AI Stocks With the Potential to Transform Your Financial Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In an era of AI advancements, industry leaders have emerged ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due ..."
+    publishedDateTime: 2023-08-28T23:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-the-potential-to-transform-your-financial-future-1032587279"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Meta launches open-source AI language translator"
+    excerpt: "Facebook company Meta Platforms announced its latest AI language translator, SeamlessM4T, is now available for developers and researchers. The social media firm said it can detect and translate text and speech in nearly 100 languages. Also, it can ..."
+    publishedDateTime: 2023-08-28T23:15:00Z
+    webUrl: "https://technology.inquirer.net/127412/meta-launches-ai-language-translator"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 41
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
+      - url: "https://technology.inquirer.net/files/2023/08/ai-language-translation.png-620x349.png"
+        width: 620
+        height: 349
         isCached: true
-  - title: "AI's big winner in the chips"
-    excerpt: "After the early buzz about artificial intelligence centered on ChatGPT and similar chatbots that could quickly generate stories, art and songs upon request, the biggest winner in the technological shi"
-    publishedDateTime: 2023-08-29T07:09:00Z
-    webUrl: "https://richmond.com/ais-big-winner-in-the-chips/article_580c673d-07f5-5bfd-83aa-59964f942fb4.html"
+  - title: "Build faster and higher with AI"
+    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
+    publishedDateTime: 2023-08-31T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
+        width: 620
+        height: 439
         isCached: true
-  - title: "Visual artists fight back against AI companies"
-    excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."
-    publishedDateTime: 2023-08-31T02:52:00Z
-    webUrl: "https://apnews.com/video/artificial-intelligence-visual-arts-lawsuits-legal-proceedings-karla-ortiz-59503737cc2f4bebac2cfe867df28e2f"
+  - title: "Embuing AI with Ethics"
+    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
+    publishedDateTime: 2023-08-29T19:32:00Z
+    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Tech Bros Want To Replace Storyboard Artists With Artificial Intelligence"
-    excerpt: "Numerous AI tools have been released this year with the aim of eliminating storyboard artists. The animation industry needs to respond."
-    publishedDateTime: 2023-08-31T17:37:00Z
-    webUrl: "https://www.cartoonbrew.com/tech/tech-bros-want-to-replace-storyboard-artists-with-artificial-intelligence-232124.html"
-    type: article
-    provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
+      name: acm.org
+      domain: acm.org
     quality: 36
-    images:
-      - url: "https://www.cartoonbrew.com/wp-content/uploads/2023/08/texavery_deputydroopy.jpg"
-        width: 1280
-        height: 600
-        isCached: true
-  - title: "The evolution of photography in the age of artificial intelligence"
-    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
-    publishedDateTime: 2023-08-29T19:15:00Z
-    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
+  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
+    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
+    publishedDateTime: 2023-09-01T12:56:00Z
+    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
+      name: Impacts
+      domain: techbullion.com
+    quality: 27
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
+        width: 775
+        height: 430
+        isCached: true
+  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
+    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
+    publishedDateTime: 2023-08-30T09:31:00Z
+    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 19
 
 secured: "QFCsdrmBQMo0TrdRSySNDA3I9SRhCpMUQEjFTf6C+JKBN18BWNJcSCi7nOh3ZJsPlQ9u3VsYlnjE5m5OiPqh+N0Q8bwuWL77O+sjAA/O5snarmp6sLbRbvuB0rF0d8an1X6WhlvKj8XsrwnX+wXH15f6v7D/h3N4628mrn5BtmMJlBZiJizJDmQspe8gbYXbqNlYSqI2ciDFhLiyi9x1osCb3inS0qGK0neGZgvqPh/xmjY2N2x64jcH0bo51qpZCWYogAsn6IhjhacwHRG3P8cQRbJg5jnpkR1JUgNeaAAYrZqUEa9KmdM1CvyaWcqwZGlVedovqKXk3HwNcIhQadEchA3UUKrFzYjjNkXp1iNcIwv4oJHCXRlmIP2V52moHE3F2pFp+k/9iF47Sc1zkphVVYiJrnVGKSOmr216gIHYkBZmYmKZGax0lIX/oyv663yHn7RomDVSA1w10y3Vcd2sHKM9eSBpQh7h3Tmo+2WGa6ksv3Z6hsGaamxFg8gJZ2FKMgUrlgkxgwdFSbyAWQ==;U8QL8zNSeMzgKXiGzVkoFg=="
 ---

@@ -2,6 +2,59 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
+      "title": "More Battlefield AI Will Make the Fog of War More Deadly",
+      "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c1b3dd9ec11a2433532d3d/191:100/w_1280,c_limit/AI-War-US-Fast-Forward-Business-1540566906.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
       "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
       "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
@@ -1124,51 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
-      "title": "AI in sales and marketing: It’s here",
-      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "publishedDateTime": "2023-07-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

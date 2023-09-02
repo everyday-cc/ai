@@ -2,6 +2,49 @@
   "page": 178,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
+      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
+      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
+          "width": 1280,
+          "height": 1047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "publishedDateTime": "2023-05-08T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-new-jersey-biotech-company-uses-artificial-intelligence-for-drug-development.md",
       "title": "New Jersey biotech company uses artificial intelligence for drug development",
       "excerpt": "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her.",
@@ -1171,49 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis.md",
-      "title": "Ocrolus Adds OpenAI GPT Embeddings for Deeper Automation in Financial Document Analysis",
-      "excerpt": "Addition strengthens company's ability to process semi-structured and unstructured documents without human involvementNEW YORK, May 8, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis-1032302388",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis-1032302388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-30-googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you.md",
+      "title": "Google’s $30-per-month “Duet” AI will craft awkward emails, images for you",
+      "excerpt": "Duet is not just one thing—instead, it's a blanket brand name for a multitude of different AI capabilities and probably should have been called \"Google Kitchen Sink.\" It likely represents several distinct AI systems behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/google_duet_robot_3-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/amp/",
+      "publishedDateTime": "2023-08-29T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails.md",
       "title": "Yahoo Mail adds AI to help you write and search for emails",
       "excerpt": "The new AI can compose email drafts, assist you with searches, summarize incoming messages, and even find unused gift cards and discount codes among your emails.",
@@ -113,7 +164,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -561,7 +612,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1161,48 +1212,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month.md",
-      "title": "Elon Musk, Mark Zuckerberg, Sundar Pichai to attend event on Artificial intelligence next month",
-      "excerpt": "US Senate Majority leader Chuck Schumer will host major tech leaders like Tesla CEO Elon Musk, Meta CEO Mark Zuckerberg, Alphabet CEO Sundar Pichai on September 13 for an artificial intelligence forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month-11693273253350.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month-11693273253350.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/29/600x338/TESLA-MUSK-SEC-0_1693287616853_1693287667704.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month/amp-11693273253350.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month/amp-11693273253350.html",
-      "publishedDateTime": "2023-08-28T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

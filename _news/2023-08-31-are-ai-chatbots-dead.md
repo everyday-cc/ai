@@ -208,15 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sexy AI Chatbots Are Creating Thorny Issues for Fandom"
-    excerpt: "Generative AI allows fans to “talk” to their favorite characters, drawing comparisons to everything from roleplaying to fan fiction. But do they actually want to outsource all the fun to AI?"
-    publishedDateTime: 2023-08-28T10:00:00Z
-    webUrl: "https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Fraunhofer launches internal AI chatbot"
     excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
     publishedDateTime: 2023-08-31T09:21:00Z

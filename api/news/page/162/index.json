@@ -2,6 +2,58 @@
   "page": 162,
   "value": [
     {
+      "path": "_news/2023-05-17-latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages.md",
+      "title": "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-artificial-intelligence-ai-robots-market-upto-2030.md",
       "title": "Artificial Intelligence (AI) Robots Market upto 2030",
       "excerpt": "Robots Market \" Insights 2023 By Types ( Service, Industria ), Applications ( Public Relations, StocKManagement) , Regions and Forecast to 2030. The global Artificial Intelligence (AI) Robots market size is projected to reach multimillion USD by 2030,",
@@ -1138,58 +1190,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai.md",
-      "title": "What 20 Agency Leaders Are Doing To Better Understand And Embrace AI",
-      "excerpt": "The pervasive influence of AI continues to reshape industries across the globe, compelling professionals to deepen their understanding of its impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645a69b21317ce4dc82796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

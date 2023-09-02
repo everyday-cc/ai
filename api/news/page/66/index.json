@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-07-18-artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts.md",
+      "title": "Artificial Intelligence will not kill creativity, opine tech, literature and arts experts",
+      "excerpt": "Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human creator,",
+      "sourceUrl": null,
+      "webUrl": "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts",
+      "originalUrl": "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thepeninsulaqatar.com/get/maximage/20230718_1689659446-844.jpg?1689659446",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Peninsula",
+        "domain": "thepeninsulaqatar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
       "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
       "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ibm-watsonx-is-now-available-to-help-businesses-accelerate-and-scale-ai.md",
-      "title": "IBM watsonx is Now Available to Help Businesses Accelerate and Scale AI",
-      "excerpt": "IBM announced it is rolling out IBM watsonx—the enterprise-ready AI and data platform. watsonx comprises three products to help organizations accelerate and scale AI—the watsonx.ai studio for new foundation models, generative AI and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-watsonx-is-Now-Available-to-Help-Businesses-Accelerate-and-Scale-AI-159620.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-watsonx-is-Now-Available-to-Help-Businesses-Accelerate-and-Scale-AI-159620.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

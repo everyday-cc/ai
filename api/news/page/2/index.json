@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-01-ai-drone-beats-pro-drone-racers-at-their-own-game.md",
+      "title": "AI drone beats pro drone racers at their own game",
+      "excerpt": "An AI drone has beaten pro drone racers at their own game in a world first that could have implications for other drone-related tasks such as search and rescue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
+      "originalUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/08/drone-race-AI.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
+      "publishedDateTime": "2023-08-31T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-eweek-tweetchat-september-12-ai-in-the-enterprise.md",
       "title": "eWEEK TweetChat, September 12: AI in the Enterprise",
       "excerpt": "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.pbs.org/newshour/arts/visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1169,50 +1220,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars.md",
-      "title": "AI recap: The rise of the prompt engineer and biased driverless cars",
-      "excerpt": "Our round-up of the most interesting artificial intelligence news in August includes a job created by AI, the problem of racial bias in driverless cars and how robots are better at 'are you a robot?'",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
-      "originalUrl": "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/08/31114009/SEI_169406682.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

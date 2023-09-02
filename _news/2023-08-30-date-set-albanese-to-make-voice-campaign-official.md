@@ -24,19 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Anthony Albanese won’t be campaigning for an Indigenous voice to parliament each day"
-    excerpt: "Anthony Albanese won’t campaign daily for an Indigenous Voice to Parliament, but instead appear at major referendum events in between running the country, declaring the proposal was “about just giving a bit of respect” to Indigenous people."
-    publishedDateTime: 2023-08-28T09:21:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/anthony-albanese-wont-be-campaigning-for-an-indigenous-voice-to-parliament-each-day/news-story/b878553fa5a6ab7460a9c84cff3604dc"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-wont-be-campaigning-for-an-indigenous-voice-to-parliament-each-day/news-story/b878553fa5a6ab7460a9c84cff3604dc?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-wont-be-campaigning-for-an-indigenous-voice-to-parliament-each-day/news-story/b878553fa5a6ab7460a9c84cff3604dc?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 32
-
 secured: "i4SilHzILR/yHE1iK5HEfnSTgcGDasGJ353Z2BrOGLCF1qlynm9UZuG4nGN96U1yyGohYQMi8P4cly3+EGLcuNjitBox/nUO9Zays12BgOoCIHahQ4IhIua8+mHOfeF6Sgs7iSeZOKpKBfHm/Cxw29wE1vrakf61crtBspOkHtUmauMY2bWWk4E0505RDIGFaLQQH697mhGvtCPd4xceI7qH8XkofXV/qeTtenhlaRm6fWTW2uAeZHhuc8MVsZ0Vh6ed4XL68KhufbtvUKRy9NUAM/gfrgGrW+zTEft286gFsbgKz+Wvbk+1BffC7dY8wxkqKKpZyr7VvGQYi/veDw0zReRZQWxackalB8LbQVM=;Hi0B3OBd1VBcLbSbcejvvA=="
 ---
 

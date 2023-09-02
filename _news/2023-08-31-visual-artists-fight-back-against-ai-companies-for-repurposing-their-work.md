@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Visual artists fight back against AI companies"
+    excerpt: "A lawsuit filed by three visual artists against artificial intelligence image-generators may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work."
+    publishedDateTime: 2023-08-31T02:52:00Z
+    webUrl: "https://apnews.com/video/artificial-intelligence-visual-arts-lawsuits-legal-proceedings-karla-ortiz-59503737cc2f4bebac2cfe867df28e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://dims.apnews.com/dims4/default/8174ad0/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F63%2Fb6b13759f8e2041ace4ebcbb7b85%2Fus-ai-art-20230830ue-1920x1080.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "uMn3updbVyaSlzZSyS1dgulcMvCzfxz2CskFQeVujoxzCa5buE0D2Ogp/QU6qanCXXUNtHYPX+hIXfKIamo8bB8YbPimULIYld8eygLEoYpxwdKqXY0XybhypvcdCbezFZ0SUQ28taKP0D8w7xTAad4UJHcwe24t14NWz4TvxlfyIji6f1IzXl/iySow/R+Mz2MSfY71E8ojsgWi570rM90WN5SRUtLH1wYCwODEPg/yoCFKQsDapKOCcQPDmiDD1KE7ohcDsqmtumuSPv6DFHkiAs1JJgO1lSVuZK3mG1sqVedYXahSJRuWWqq4wd2jwkmTvbeVzv5I37gsw9naLsvCMIbsgEvdD5TeZzcRhQk=;9rhkYyyTT0kv4n57aEUbaw=="
 ---

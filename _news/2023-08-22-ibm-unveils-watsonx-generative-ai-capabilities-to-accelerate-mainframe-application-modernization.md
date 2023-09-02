@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-publishedDateTime: 2023-08-22T08:06:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization"
+excerpt: "The resulting Java code from watsonx Code Assistant for Z will be object-oriented. IBM is designing this solution to be optimized to interoperate with the rest of the COBOL application, with CICS, IMS, DB2, and other z/OS runtimes. Java on Z is designed to be performance-optimized versus a compared x86 platform. 4"
+publishedDateTime: 2023-08-22T05:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-unveils-watsonx-generative-ai-capabilities-accelerate-mainframe-/2023/08/22/9867769.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-unveils-watsonx-generative-ai-capabilities-accelerate-mainframe-/2023/08/22/9867769.htm"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "9pp2IVvGJRrhP4WrGDpBFmhVobt8LwBQ8hGfZPmCJ1wd45UgK+dYXh7h+j8vlSb4oYpwgy2Ys/9atUEj3sfJEVwe88En6bKpQv4i0XqvW5HMGqAYslwGSWB3eFUXygx8YmJw8AgXyNa55BmujzQj6NrHS/gtGiwK4Pc1mPo3E1RHOZUsKT3Ic03aLnmpttk8cRQaiNp66zbh6RyJC/HsXVav2sBe+u8s58lr8G/x9ehWNMRmsKqCUIbsZRoMxHMdymKyrKTbmhHE7Y7WBdl3Mi9ZsoUP8kcLpg9OlCfh6475r1c9rXxFetmqXbg5t4TtexLWZjP8mGrbc8XGHCH9uOS08xMSqtcb2yzDBnN3j2o=;LSFOnl3N6o4erVu69wvlug=="
+secured: "YBM+24rgIvr8pT+i8gX7FHBij+Ax2/kHew0RWpLHVpS5MPwnRcNCLNd0zoRX8v6fuObTjMy38/fJ6TjetZ98k5OIJVPZX72Lm0W3cPLDKs/DYINT1rGhsnlhi5yPGyK+ALmSv9tlfb3mWzi6tWmN9WVx0lonsq7PyNOmOQYj0gtU3pJG62Reb1PT9h37Vrw52WaXs6lgi8njEMaulq45hXux8wTmYQB/hQLeitcW8R4FWbZ40bGxKj3hLYH5PYsCMF12vcDi6+kdjttkip1kXcmc9tMcGeA7M4mQSk1XNohVbZ1lwnKPymSruaDx8x/NzYdShv4bb7px9Af+LpZtm0eZdJpzJRChru3wjFJsXck=;AIvKVgObHeW/0pmTaHMylQ=="
 ---
 

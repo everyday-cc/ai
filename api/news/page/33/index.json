@@ -2,6 +2,40 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-08-08-it-really-is-the-boogeyman-celebrities-who-fear-artificial-intelligence.md",
+      "title": "'It really is the boogeyman' - Celebrities who FEAR artificial intelligence",
+      "excerpt": "The threat of artificial intelligence has caused concern in all sorts of industries - and the showbiz world is no exception!",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyomingnews.com/lifestyles/entertainment/it-really-is-the-boogeyman---celebrities-who-fear-artificial-intelligence/collection_afc07547-03dc-50a7-8956-8745f8f2e751.html",
+      "originalUrl": "https://www.wyomingnews.com/lifestyles/entertainment/it-really-is-the-boogeyman---celebrities-who-fear-artificial-intelligence/collection_afc07547-03dc-50a7-8956-8745f8f2e751.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wyoming News",
+        "domain": "wyomingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
       "title": "AI, Machine Learning Is Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told",
       "excerpt": "Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) uses artificial intelligence and machine learning (AI/ML) to detect suspicious transactions and frauds.",
@@ -1208,49 +1242,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend.md",
-      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
-      "excerpt": "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

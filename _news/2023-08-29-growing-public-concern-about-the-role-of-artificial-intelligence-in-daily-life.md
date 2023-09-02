@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-28T17:56:00Z
 originalUrl: "https://www.pewresearch.org/short-reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/"
 webUrl: "https://www.pewresearch.org/short-reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.pewresearch.org/wp-content/uploads/2023/08/SR_23.08.28_views-of-ai_feature.png?w=1200&h=628&crop=1"

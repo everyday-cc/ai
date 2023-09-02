@@ -39,6 +39,20 @@ related:
         width: 2667
         height: 4000
         isCached: true
+  - title: "AI's big winner in the chips"
+    excerpt: "After the early buzz about artificial intelligence centered on ChatGPT and similar chatbots that could quickly generate stories, art and songs upon request, the biggest winner in the technological shi"
+    publishedDateTime: 2023-08-29T07:09:00Z
+    webUrl: "https://richmond.com/ais-big-winner-in-the-chips/article_580c673d-07f5-5bfd-83aa-59964f942fb4.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "RJ8py00/LmO1VtkHtriNqyKDyyG/FuYzUCfaFSVCmnsY2MnsEGfCYVD9uyIvbw3EXsO+YTSmQfjZL+ktM6v0cP7LDPKtBWBhlmyagL/Tx4sv+wHFxvxjt167Cfre8B6VO6/CthcbmmSgn7jbvDx2WxLqJPaSfKRfhm4N7yLb0r9gsfTTqJFuvfovUXC0kYPcgJoy1fTAJB6WvQYYTw2oMyz/RvnmqUmU+BVOWaAQrlkowVdafZR5cPQwLsVaN12NNneZmQiOYHgg1IYpV2wXIQeeIbSNXOcpwHDSLIMdX60qjG/fsAIXpXB8BEA4TNUMQE+/RvSP7x+NS8pih87pxhMwRTUi1be+guoF4shsN2o=;BcNRWB7WNlDNV/vmWEPzsw=="
 ---
