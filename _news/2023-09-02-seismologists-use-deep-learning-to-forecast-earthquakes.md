@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 type: article
 quality: 59
-heat: 91
+heat: 92
 published: true
 
 provider:

@@ -238,15 +238,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Generative AI Has Changed the Calculus Around Corporate Risk Management"
-    excerpt: "Generative artificial intelligence has been among the most impressive breakthroughs in years. But for corporate security chiefs, it’s causing angst. That’s because for all its genius"
-    publishedDateTime: 2023-08-29T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2023/08/29/generative_ai_has_changed_the_calculus_around_corporate_risk_management_975563.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
   - title: "Generative artificial intelligence has entered the classroom"
     excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
     publishedDateTime: 2023-08-30T13:37:00Z

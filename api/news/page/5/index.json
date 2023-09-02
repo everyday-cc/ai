@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-30-google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip.md",
+      "title": "Google unveils enterprise artificial intelligence tools, new AI chip",
+      "excerpt": "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "originalUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "publishedDateTime": "2023-08-30T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-voxel-uses-computer-vision-to-increase-workplace-safety.md",
       "title": "Voxel uses computer vision to increase workplace safety",
       "excerpt": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety The International Labour Organization estimates that there are 340 million workplace incidents every year.",
@@ -769,7 +812,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1206,50 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-finance-transformation-with-ai-and-open-banking.md",
-      "title": "Finance Transformation With AI And Open Banking",
-      "excerpt": "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

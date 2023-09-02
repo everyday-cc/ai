@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/news/world-leaders-threat-artificial-intelli
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/world-leaders-threat-artificial-intelligence/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: TechRound
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence: 12 challenges with AI 'must be addressed' - including 'existential threat', MPs warn"
+    excerpt: "The potential threat AI poses to human life itself should be a focus of any government regulation, MPs have warned. Concerns around public wellbeing and national security were listed among a dozen challenges that members of the Science, Innovation and ..."
+    publishedDateTime: 2023-09-02T21:02:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn-12950781?trk=public_post_comment-text"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn-12950781"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn-12950781"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 53
+    images:
+      - url: "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Artificial intelligence: 12 challenges with AI 'must be addressed' - including 'existential threat', MPs warn"
     excerpt: "The potential threat AI poses to human life itself should be a focus of any government regulation, MPs have warned."
     publishedDateTime: 2023-08-31T02:30:00Z

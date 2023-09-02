@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 176
+heat: 175
 published: true
 
 provider:

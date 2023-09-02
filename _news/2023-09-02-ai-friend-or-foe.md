@@ -3,13 +3,13 @@ category: news
 title: "AI: Friend or Foe?"
 excerpt: "Dr. Michele Leno is interviewed about artificial intelligence."
 publishedDateTime: 2023-09-02T15:26:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-webUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+webUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
 
 images:
@@ -26,6 +26,17 @@ images:
     height: 800
     isCached: true
 
-secured: "xdcZWQkkCeMpCtRxAEsUPGscPKuPl+mmyx05R9h81QvXYa4mvl0rLXgo3Tu4Bhds4H0FWWdObHu4AvlTWoNOsckWRwZld081IDcfzXEW1WzvHZBDDZ9bi5DkL1RnpsgnBXXUMr0U0HHfCArCciaMsVccw+8H/lNPf5Rt2iQi4bfGKh4utXqzdvnQjAJmuwd5CBwFKfRaXwTHSyMQB5wXxlfmQAJqaGDJC9tsfnnulI4RVpN15+CK+fLEqh+0ee5H8mHr/QKGlwbGq//cIOMw5U7JS8KCqtbb9oJ2qE/9XgSKrLzRvy2g0fB0FjE1G9is5C3rZBRT+45lXOgCXxJyMOHAB7jgDEvd2RHdFy4lp6U=;w1FeKxN4tcfft3wVPFQ2bQ=="
+related:
+  - title: "AI: Friend or Foe?"
+    excerpt: "Dr. Michele Leno is interviewed about artificial intelligence."
+    publishedDateTime: 2023-09-02T17:29:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 21
+
+secured: "g8OT16Dzj4dCdrETa6O9YDcJmDZlYy4VRhpGOsmpYPP/zXgIRIT/QPmmkh/zPSAQmD9Begx8VJK+roc9Vob/f+0I/+rYXBb/0zgLH6+e0EFsLXQ3sCTzyulvkSZR9dNmm+bADazJv0PHW/Ogb9fzknmJ/GJURudH8t0CmWr3UG6mde1/USgBYAgg7tSxVZGPFPnxIQWS7Ssan+4hVWmaBX4XMzgN4jI0ke7kYJ5FS7gSHBxPBxKExqS3heZ8qPf+QcaegGM/sg4FixPx6xzLWUuXB0RTRIktqIMzXHUqqnTxaw/cuvfHDzutqm5v4adAxo0NSyfzXaY9zy/1CBjGhNVqli5DBaZc682hXveQ1RQ=;RDwep2/yExhPFx2nMPKN0g=="
 ---
 

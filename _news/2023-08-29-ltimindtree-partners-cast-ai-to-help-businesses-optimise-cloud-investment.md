@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/defence-ltimindtree-partne
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "LTIMindtree’s shares up on collaboration with CAST AI"
-    excerpt: "LTIMindtree Ltd.’s shares were up by 0.5 per cent after the company unveiled a collaboration with CAST AI, a SaaS company specialising in automated cost optimisation for cloud-native applications hosted on Google Cloud, AWS, and Microsoft Azure."
-    publishedDateTime: 2023-08-29T04:37:00Z
-    webUrl: "https://www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
     excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
     publishedDateTime: 2023-08-29T13:53:00Z

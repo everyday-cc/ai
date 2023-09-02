@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-service-robotics-poland.md",
+      "title": "AI Service Robotics - Poland",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
       "title": "The True Threat of Artificial Intelligence",
       "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
@@ -1234,50 +1277,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
-      "title": "Here’s how robotics in healthcare settings could reduce wait times",
-      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
-      "sourceUrl": null,
-      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
-          "width": 695,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

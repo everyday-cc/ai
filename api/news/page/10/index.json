@@ -2,6 +2,197 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-24-the-ai-revolution-will-be-powered-by-energy.md",
+      "title": "The AI Revolution Will Be Powered By Energy",
+      "excerpt": "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "publishedDateTime": "2023-08-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-the-myth-of-open-source-ai.md",
+      "title": "The Myth of ‘Open Source’ AI",
+      "excerpt": "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
+      "originalUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
+      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
+      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
+      "publishedDateTime": "2023-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
+      "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
+      "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "originalUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/08/Air-India-rebrainding-15-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "publishedDateTime": "2023-08-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-modular-secures-100m-to-build-tools-to-optimize-and-create-ai-models.md",
       "title": "Modular secures $100M to build tools to optimize and create AI models",
       "excerpt": "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ...",
@@ -969,160 +1160,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-chatgpt-shows-limited-ability-to-recommend-guidelines-based-cancer-treatments.md",
-      "title": "ChatGPT shows limited ability to recommend guidelines-based cancer treatments",
-      "excerpt": "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients’ fingertips, researchers from Brigham and Women’s Hospital, a founding member of the Mass General Brigham healthcare system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/999410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/999410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-global-ai-chip-revenue-to-reach-53b-in-2023.md",
-      "title": "Global AI chip revenue to reach $53B in 2023",
-      "excerpt": "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/",
-      "originalUrl": "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg",
-          "width": 496,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
-      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
-      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
-      "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
-      "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "originalUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T14:58:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

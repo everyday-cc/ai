@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization"
-excerpt: "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ..."
-publishedDateTime: 2023-08-22T05:18:00Z
-originalUrl: "https://www.victoriaadvocate.com/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/article_0196f493-57f3-5c6c-bfe1-b621e6e1c6bf.html"
-webUrl: "https://www.victoriaadvocate.com/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization/article_0196f493-57f3-5c6c-bfe1-b621e6e1c6bf.html"
+excerpt: "The resulting Java code from watsonx Code Assistant for Z will be object-oriented. IBM is designing this solution to be optimized to interoperate with the rest of the COBOL application, with CICS, IMS, DB2, and other z/OS runtimes. Java on Z is designed to be performance-optimized versus a compared x86 platform. 4"
+publishedDateTime: 2023-08-22T05:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-unveils-watsonx-generative-ai-capabilities-accelerate-mainframe-/2023/08/22/9867769.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-unveils-watsonx-generative-ai-capabilities-accelerate-mainframe-/2023/08/22/9867769.htm"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/a2/9a296566-f23b-52a0-97b8-7aa1b1360c59/61a62791f2a26.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "jMFSxWTfgKJxFCLzMGVyABr3uxvsyI3xgQPXwXANDYvyFFOmj1GNcOoDhxwMkxbVdnsngS1d7a1NpRXrJ547c00Rmpw6J95CccTSLZMuEklWD56X1VA4lUhK7xcksYtiytYnePH34UtrhUiYXQ+fA1ZJfW/XnyqNsYUjcQWadv4tBQn8Xnb6yP1rLwjiuJhlKQ5BBlFsiJPxhHzQSuZ7muJCZpR0f1j6edH49bjHtTuWPkKIeQxz8fDK4Lgps+sRLuW7kuTgqx6NvlxU6fM353FJ23MlI3UY1libzPphYCpRLJRyKeHKZjF5+Z2UI1faoCEod7dvV2sOtV9kz3UOhx5Q58vWDPR39o+0S4eAAn0=;oT4au7XvDeDtD8geS3NRGg=="
+secured: "kqxsMLuIKctEH1OsigCVH7xA7q+SIPahqhB8sbkq6em3xIcowx6L6lJ3K989xmTIU4KtFHswDqdbOqKQlsoorWrSqGgFSjsHV/yihWcrUgoJvZv0AIjOKHFZn6djoxiK7Njz2wIYXBxbFpobYeO08XGMY+i0edIzNKG9ZIQYaxakP362ePzi3jgR/3ADvBLIuWXPT5Lssgj7e2elWw8hZQWqf6HR1tT2EPqHOnKmlzsAev7py0EjQxzhDioM5pMjT7B+xDKjhTVIdmznq594m564Qf22sdyd9tTb27Ij3OvqJUiLaNlRrUsMxe2K14tF5MWzYtUXkH0QOsWPSgS675AZ3D6C2AJfWrgS5hKBPGY=;RBNPLmt2NZOgwbdWgzIU/A=="
 ---
 

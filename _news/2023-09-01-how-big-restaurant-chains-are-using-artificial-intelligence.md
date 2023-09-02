@@ -90,6 +90,20 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
+        isCached: true
   - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
     excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
     publishedDateTime: 2023-08-29T12:02:00Z
@@ -117,20 +131,6 @@ related:
       - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
         width: 1000
         height: 665
-        isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
         isCached: true
   - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
     excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"

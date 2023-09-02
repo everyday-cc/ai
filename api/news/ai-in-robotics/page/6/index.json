@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-20-review-airrobo-pc100-pool-cleaning-robot.md",
+      "title": "Review: AiRROBO PC100 Pool Cleaning Robot",
+      "excerpt": "The AiRROBO PC100 is a cordless pool robot with 2-hour battery life and powerful suction that employs AI for a claimed 10X gain in cleaning efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
+      "originalUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b868227cdf254e7dfb68d1/0x0.jpg?format=jpg&crop=1600,899,x0,y154,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
+      "publishedDateTime": "2023-07-19T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-neura-robotics-raises-55-million-to-expand-its-cognitive-robots-family.md",
       "title": "Neura Robotics Raises $55 Million to Expand Its Cognitive Robots Family",
       "excerpt": "Neura Robotics, an emerging AI and robotics startup based in Germany, has successfully concluded a $55 million funding round with the support of European investors Lingotto, Vsquared Ventures, Primepulse, and HV Capital.",
@@ -1332,49 +1384,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-mind-blowing-ai-for-good-or-ai-gone-bad.md",
-      "title": "‘Mind-blowing’ AI for good… or AI gone bad",
-      "excerpt": "AI is racing ahead of the ability to set guardrails and quick action is required to prevent AI risks spiralling out of control, attendees at the UN’s AI for Good Global Summit have heard. The summit brought together 4,",
-      "sourceUrl": null,
-      "webUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "originalUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://istart.co.nz/wp-content/uploads//2023/07/AI-for-Good-Summit-2023.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "istart.co.nz",
-        "domain": "istart.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

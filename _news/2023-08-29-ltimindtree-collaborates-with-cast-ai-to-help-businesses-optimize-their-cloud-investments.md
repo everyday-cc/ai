@@ -49,17 +49,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "LTIMindtree’s shares up on collaboration with CAST AI"
-    excerpt: "LTIMindtree Ltd.’s shares were up by 0.5 per cent after the company unveiled a collaboration with CAST AI, a SaaS company specialising in automated cost optimisation for cloud-native applications hosted on Google Cloud, AWS, and Microsoft Azure."
-    publishedDateTime: 2023-08-29T04:37:00Z
-    webUrl: "https://www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/ltimindtrees-shares-up-on-collaboration-with-cast-ai/article67247285.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
 
 secured: "es82S1DgnuX1quI908sBJ5cyKkbuZpQ+3w1RN6n6NMIQLfGxmCgYj2oLBWwACgHjeBdP0AachLM4ikmQ/oOHVjAKv6uddeMex4LWDwFTKMBjG6mrfY7imoTDBq6dySO5xXgogv3T+MJTvQVey82/o26hfuvYVntOW07eSp3/cQzsrEesyYyQyWff9UdC8Y6SQlrt4X8QbAXhSw2jI4rmbEW5kuhO38I+mnWRvIuMz5CJ/itiKrdxaNMGMKD4KQhK7BRBECI6J0n+NbqHvGTWaOSkO37AnH0rLJTocP6C1e108myaEAJL1NmMUw7cB++bZTMXJSE6/iCvTNl1HRvjM5nfvV2eNW7X8IsExEXKtN5S8s1xaGkdA4d1MBFGqIL30LwEOOr0Jnq7/dZHt6o4UxVXyaoxODZYWbIQeQmLSiMGfqb/Osz/Odi7y5Y4+vnBDRy/yqPQTeuZUX99J2bj61NZ07YmHx75a82W9E5FxSzEFLimgFqgJ3z85TjElh0sbZdmO54CUjR18fEJAnS0lw==;AnPW9TVynBTvzAiN7vHqXw=="
 ---

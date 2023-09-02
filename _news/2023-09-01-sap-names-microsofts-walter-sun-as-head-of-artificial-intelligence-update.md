@@ -172,20 +172,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft partners with universities to allow the use of generative AI in school"
-    excerpt: "According to Microsoft’s Work the Trend Index, 88% of leaders in Hong Kong anticipate that employees will need new skills in the AI era."
-    publishedDateTime: 2023-08-29T04:50:00Z
-    webUrl: "https://www.marketing-interactive.com/microsoft-partners-with-universities-to-allow-the-use-of-generative-ai-in-school"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 49
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/hk/content-images/open_ai_google_ai_university.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Are AI Chatbots Dead?"
     excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
     publishedDateTime: 2023-08-31T13:45:00Z

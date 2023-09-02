@@ -2,17 +2,17 @@
 category: news
 title: "Cognitive decline is real, Rep. Johnson says about elderly legislators"
 excerpt: "Again and again, the phrase \"term limits\" surfaces, and Johnson said if a local judge can be required to step down because of their age, that same principle should apply to federal lawmakers. There are currently 34 Senators and 74 Representatives in the 118th U.S. Congress who are 70 years old or older."
-publishedDateTime: 2023-09-01T21:22:00Z
-originalUrl: "https://www.dglobe.com/news/south-dakota/cognitive-decline-is-real-rep-johnson-says-about-elderly-legislators"
-webUrl: "https://www.dglobe.com/news/south-dakota/cognitive-decline-is-real-rep-johnson-says-about-elderly-legislators"
+publishedDateTime: 2023-09-01T21:33:00Z
+originalUrl: "https://www.jamestownsun.com/news/south-dakota/cognitive-decline-is-real-rep-johnson-says-about-elderly-legislators"
+webUrl: "https://www.jamestownsun.com/news/south-dakota/cognitive-decline-is-real-rep-johnson-says-about-elderly-legislators"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daily Globe
-  domain: dglobe.com
+  name: Jamestown Sun
+  domain: jamestownsun.com
 
 topics:
   - Microsoft AI
@@ -40,6 +40,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "2GvHedVxJM6wJRiNjM6sc0Lo/CUQUKULcK+6TfYoLW0WTU+Ub1NfdwVatNcBb/oAy45rlMwm2uxNaf0W7suqCrtFamB/OhKspGSdI8+hoflxEYSQDEVZZmA9J/QYKo0WjC1365ywqhh2nQlRGcgq5Ik4pvVp6aJVvc1bfGpon4R0Jl3tLZtgxokRbvadiNR5w+38JqayGPAr3+buH1jaKwtreHARGVcBudZpOFcexX/PNz4BNW5kJLUQ7B9UHgDsQ3Wm3M3OFdAgSRnJHRo5CAo+I8kVl+sHzVdFTnTOwjbUNQ1OqjcFg2FNFWKOm9RRocPEocs4SsKUNKDGdYPx4+HDnP5xzsq84+GnElSjkwRE5z3WEB/lhxp+AtFCcDM+1mYHRrgGAweWgQVd/yL1P+9OVm2mqezEi/s30YMGO/jRCMJ1f5ArQGaMDMHqJTQR5dwPSBHKDgkwWmcsse4sHgGr1HJRxkClMwaCcIYUJJYlg/oKCfK0+8cEkgqcDA9LpOffxfVTP3PMmcPLwcPFAg==;Ol9WtwS9IFFfsDKmnON0Uw=="
+secured: "IANkTfHTEIHBukoKkjTOMJE1/XzSEozEGlrRjidICBuj2foNksdcziNIzJg/Q74uc/AD2tdmDDcayMzdJS8Rhv7rRWKqVLtbpTnghOJa02GIQzV1zkN6BjBFij2QKZgP7ZpgQLKDaq4ZMaLMhEDovd3/YCGX+hVi+ew7Z9gVI3OLL4I6RNBlpUWIe7c2dkJUoiRnlaF3/MVknlKIEtkgdy/NL5R3xfY0dJ6KKTaP8bO3ID+yUKPioXkIVp0frYjpPKvQ5h9eBJrBAzCPWznKLsLPaS7RoMrhQ3iIJ9XhiR6W3YeplwFHm4HYC/PYS5hdge0j4/gz03wiHPFDtwvg5sfeXMs8AZJehZWlm3T0zwc=;eqtRS7Up7MXZf9i9C0IWxQ=="
 ---
 

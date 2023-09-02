@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-03-abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand.md",
+      "title": "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand",
+      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33550168",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550168",
+      "publishedDateTime": "2023-08-03T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments.md",
       "title": "Abu Dhabi’s MBZUAI launches new robotics and computer science departments",
       "excerpt": "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,",
@@ -1333,58 +1377,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-five-reasons-why-your-next-cloud-may-be-your-own.md",
-      "title": "Five Reasons Why Your Next Cloud May Be Your Own",
-      "excerpt": "Data centers are able to provide cloud-native platform as a service (PaaS) offerings, such as managed Kubernetes, containers and object storage ... Certainly, the first step is merely your recognition that there is a cloud alternative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1c45949119fcba830711/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "publishedDateTime": "2023-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

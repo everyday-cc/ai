@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-publishedDateTime: 2023-09-01T13:32:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+publishedDateTime: 2023-09-01T06:41:00Z
+originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
+  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
     width: 1200
-    height: 667
+    height: 630
     isCached: true
 
 related:
@@ -269,6 +269,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "BAQceqwNcj2MsT+v+85XAG3NxPy79Wcww7RIf/lGaKpWXdYMNE3IwKc4fHC1rK4LIpbXwes8U9b2BJrPIUaS05lwOWlndH4hmOqO+MYhum3yIraDPDyCT0CDy4JwdNn4qxodcTcoIH7h+o4cjECZ/Ez974B80ghk+70ZfAzVVO9Nq8SiTvMcW1T0trxQW6ZPviZpnX8ykXT0VgZ9TadR86qCZzE0IrYyR1F9/lnheeHoNn8r9TZJDM0UA0pLapF9LGRL8sCvHNcLLPuI6lkgcJx5jXd9WmYli+CJVuvUQw5Vkv/WaLkdAt6Ubl8OaFhxORt7cQ9y1OqziiBYeSMpXhG/i9s/kT8chsdJVn7U4jk=;ZFGdFKEQhVShcNFJoDiwKw=="
+secured: "+JvhAxPF9EFLKzRhcNVdGmRdJXpfiGQUYslhCgJSFRRoA7DCzlNGQLuZkVKKFVPUC3JzQwwqc00R3QnB7Brkls1S9nRHuH604PA6dwbm+hD/ySpjQUxV8S8cw8Y7acpjGKJUPYHjTbdQULco4V8qSue8jvCYSMKAjljtO+x37lmx1droROc9yyw7SBVTge+Tqa8Z3vTkD1+/MSXxrDhiT4m0xISNatBa1wJ16OM9Lyo4/GGHZN5VuvnlqtPAW4JpWRG61owaxzJOFLj/55pHqgejv/X5BqLOegXbZ/gJ7KUtz2JcrmRnuxBfatH56fQr9j+pLYXWGatFPpW1y/T1ZWDeZ5KTSiL0YBcSJ/3p0Ys=;Djmzf5NcpIFAwXzkMbBACw=="
 ---
 

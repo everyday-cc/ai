@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-inve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 775
     isCached: true
+
+related:
+  - title: "The AI Investments to Avoid at All Costs, According to Art Hogan"
+    excerpt: "There’s a lot of excitement around artificial intelligence-focused stocks right now. However, market veteran Art Hogan urges caution when it comes to companies that are trying to take advantage of the hype but don’t have true ties to the industry."
+    publishedDateTime: 2023-09-02T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-02/the-ai-investments-to-avoid-at-all-costs-according-to-art-hogan"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "fqLhYezewuxQeFG9aa56q9HmbTlOv1WMKOxse1FGQsBPuZFB2b1ZPT0pFdVCnbdbGUA4qFCwkULSVF4dVYDFlXKsvZD2VWShSeMxzR/oLzbXwoVVgCMb3qM1cEzBhtKeKH43atNLGtGjtvXrgdmoJnjlDWg/7lzDJRl/Ka1/ND8PyQfbzEgjeJmpw6dc7dkB3aLdBQE//8/gwWcdvvWAIctIubp1bqo3plHBQ0rcRJRi2wg9VztPBZ5dPCTRbQDV5D651gw8aNmSaAqyGj4IJTRVesI0bki4Q/coV6BsHv/pB59ptDarEGBVBKNwyR8O9nofB0cXIsYfmS7LlT4q6Qn418/Km6b1/0urx08f/Vph+b0cyv9eRzBCr+yomJFEKv1Qo7MMZmI6JWuLW/zzXVf6VDIRnSC5OW5cHqNMTkADPu8SDstg/xGhL3WFqa74NOvnM/Yf+2V96Zb7AtntDgzKUXQP9kmjHj/qb/Eh7JZOtQ3abzwkUHgM7SnFXC/IrJGp2Wj/aIMjKc/yIV/R1g==;Ht9kUyxDxZYV49ICzHj+YA=="
 ---

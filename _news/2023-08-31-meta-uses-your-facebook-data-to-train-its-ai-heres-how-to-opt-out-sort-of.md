@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
 type: article
 quality: 86
-heat: 136
+heat: 137
 published: true
 
 provider:

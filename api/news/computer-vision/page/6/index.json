@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-23-facial-recognition-attendance-for-sanitation-staff-soon.md",
+      "title": "Facial recognition attendance for sanitation staff soon",
+      "excerpt": "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "originalUrl": "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg",
+          "width": 660,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "publishedDateTime": "2023-06-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031.md",
       "title": "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031",
       "excerpt": "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ...",
@@ -1378,49 +1421,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-hitpaw-video-object-remover-v120-released-with-enhanced-features-for-seamless-object-removal-and-enhanced-user-experience.md",
-      "title": "Hitpaw Video Object Remover V1.2.0 Released With Enhanced Features For Seamless Object Removal And Enhanced User Experience",
-      "excerpt": "HitPaw, a leading software technology company, has announced the release of its latest version of the Video Object Remover – the hitpaw video object remover v1.2.0 . This upgraded version comes with enhanced features that make the application more efficient and reliable.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
-      "originalUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/07/SN_a453eimage_story.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

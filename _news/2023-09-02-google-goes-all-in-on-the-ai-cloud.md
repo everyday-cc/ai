@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-02T15:37:00Z
 originalUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
 webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"

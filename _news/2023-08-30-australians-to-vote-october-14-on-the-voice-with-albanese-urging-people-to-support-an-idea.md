@@ -85,6 +85,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Voice Referendum in regional Australia"
+    excerpt: "With a date now set for the Indigenous Voice to Parliament referendum, the debate over Australia's future is heading out of Canberra and to the regions. SBS travelled to Orange in the New South Wales Central Tablelands to find out what people there are thinking."
+    publishedDateTime: 2023-09-02T21:31:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/the-voice-referendum-in-regional-australia/sdnfm1d5y"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/5c99e6d/2147483647/strip/true/crop/1800x1013+0+110/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F65%2Ffe%2F185bd76f4718bc199bbe7beece0b%2Fleft-to-right-aunty-alice-williams-uncle-vic-uncle-neil-ingram-senior-wiradjuri-elders-sbs-francesca-de-nuccio.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australia to vote on Indigenous Voice to Parliament referendum on October 14"
     excerpt: "Australian Prime Minister Anthony Albanese announced Wednesday that Australians will vote on October 14 on whether to alter the Australian Constitution to recognize First Nations people by"
     publishedDateTime: 2023-09-01T15:20:00Z

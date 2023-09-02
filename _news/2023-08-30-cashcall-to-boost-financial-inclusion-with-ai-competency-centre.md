@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI & robotics centre to debut at women’s univ"
-    excerpt: "Bhubaneswar: The state government has decided to open a centre of excellence (CoE) on artificial intelligence (AI) and robotics to ensure students of ."
-    publishedDateTime: 2023-08-29T03:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms"
+  - title: "Egypt: Cashcall to boost financial inclusion with AI Competency Centre"
+    excerpt: "Egypt - Cashcall, a leading data-driven fintech company in Egypt, has announced its plans to integrate Generative Artificial Intelligence (AI) into its services and to establish an AI Competency Centre in Cairo. The company aims to leverage the power of AI ..."
+    publishedDateTime: 2023-08-30T06:31:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/egypt-cashcall-to-boost-financial-inclusion-with-ai-competency-centre-aa1xhcaa"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/egypt-cashcall-to-boost-financial-inclusion-with-ai-competency-centre-aa1xhcaa?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/egypt-cashcall-to-boost-financial-inclusion-with-ai-competency-centre-aa1xhcaa?amp=1"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NDgwMThhNDYtZTk2My00/10/1324245317.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "/Ib3YvR0B7CUd1X9cwfagz9TBiS9b3Kep8nt+Q6AKXfYKQ3TuZ/cT7e17U2r6xxi3zTMzLPwSchb1OMYvGFkMwOCu1+SufZogku0zcG3tGVdOhgMYATAnvXHKRmgdn0aqfcE06dZaWZcK8LgPlsXYa2iqJRxOYT+scD5mKxUi1wI7NRUbi3iSwdjAynSThPm2nuqiuCDK8mxNRifJlMt6FjnASlcFewxhnWd/1OE7VLukljXm37wRfPoiRtj7cI4Epoy7cB9i2ZTH+i3/6GksLlUAK9ykapGGURv7uIFzoe15vWx6iNlfWGv2bJMKaxSSxVWSKMSCAj9eSWoLs7OO0OYNNZDxiXDpno0krIG6Hs=;Kflyn5/A3QJlntxr7BJ+OA=="

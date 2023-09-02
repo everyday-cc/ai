@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
+      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
+      "publishedDateTime": "2023-07-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
       "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
@@ -1344,58 +1389,6 @@
         "AI in Autos",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-talk-therapy-ai-may-detect-earliest-symptoms-of-dementia-by-analyzing-speech-patterns.md",
-      "title": "Talk therapy? AI may detect 'earliest symptoms' of dementia by analyzing speech patterns",
-      "excerpt": "A new artificial intelligence-powered tool aims to detect signs of dementia, Alzheimer’s and other memory disorders by analyzing a person’s speech and language patterns. The system is called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
-      "originalUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f7d19d2-84e2-4ce5-8b14-e3ff4384bcdb/f80f178f-5747-4866-a98f-6f95981ca5f8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
-      "publishedDateTime": "2023-06-29T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

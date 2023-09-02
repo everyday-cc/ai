@@ -2,6 +2,54 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
+      "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
+      "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
+      "originalUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh4.googleusercontent.com/2DIk83fG9ioJjtcAaRaWP1AX4aPh4tqKGsbdud3tCt4AVm5AyTIIZCoxrH48i6wQNUum8CxM_CUq8mCTXG4U1SwKb0KmmhySjKmCwHgr-L0bX5tiLBzegTk_vfvrb0RH7YrNgK79codlInctcTAyqbg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare",
+        "IBM AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
       "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
       "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
@@ -1282,49 +1330,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-for-targeted-disease-treatment.md",
-      "title": "Machine Learning for Targeted Disease Treatment",
-      "excerpt": "Machine learning is a next generation technology and a sub-set of Artificial Intelligence (AI) now being used to navigate complex biological information in the search for specific patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23771_45097368410416678285.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-17-machine-learning-market-to-hit-41994-billion-by-2030-grand-view-research-inc.md",
+      "title": "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
       "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
       "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
@@ -1260,54 +1295,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
-      "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
-      "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
-      "originalUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh4.googleusercontent.com/2DIk83fG9ioJjtcAaRaWP1AX4aPh4tqKGsbdud3tCt4AVm5AyTIIZCoxrH48i6wQNUum8CxM_CUq8mCTXG4U1SwKb0KmmhySjKmCwHgr-L0bX5tiLBzegTk_vfvrb0RH7YrNgK79codlInctcTAyqbg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare",
-        "IBM AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

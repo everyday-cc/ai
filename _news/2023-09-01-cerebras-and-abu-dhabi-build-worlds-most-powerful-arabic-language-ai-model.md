@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-
 webUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/"
 type: article
 quality: 71
-heat: 101
+heat: 102
 published: true
 
 provider:
