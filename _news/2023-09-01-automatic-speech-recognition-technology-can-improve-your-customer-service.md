@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-01T12:15:00Z
 originalUrl: "https://www.inc.com/srini-pagidyala/automatic-speech-recognition-technology-can-improve-your-customer-service.html"
 webUrl: "https://www.inc.com/srini-pagidyala/automatic-speech-recognition-technology-can-improve-your-customer-service.html"
 type: article
-quality: 20
-heat: 20
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "O4FEEInRWxOUfMatihPuauoVMQtjuuF3kbvofYKZIjDR9O1z5mSsr3nMa7+tSgn72c6n6UUpMlmJWCUqL2vKIjVgcs0P2WFJSlfL1q0Wd7e/Z0Rd/UA874k+tPEQm97Z3qc5cgnV6tenOnQU8fkNymuJHGD0gVwYlmzg/uqZDvJfjl1NZC/OlPTCXt3YqadjwGHlD6lfW+A+RXJGajTcEvt61OcEaNjUWaLzvAjSTZwMgkkPRxD24N6SUAAi0Hc72VKlSEcIhl31xXWnx8JSzo6ruWdHSGlIN1Jn3Qb882UUd0TLP4ewoJ2HROVU1qB3DNcupjgs10yH7YnR5NnyxiAwNtvCvRXzw4REC4lmd48=;YGHaqzAFsyg9L4VEmLWG9A=="
+images:
+  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1318603905_533473_ngcoqx.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "N4uXzKiTYX/8egABC3oZy69FU+EkYyK/lJypg+HWQxJ2djduFism7yQfrhT+gIPz5R2vhJnA2l4EcnVheZRCcGYSi9MChtPyoW5//N/PnXNM0pchb0qrpadVAh6BWg1a00RMZvol2PAwdCMaM+XHkJ4m3TIvO+HgYchT/jo22I891k/t1Fe8S5vLtsCU2WykHfSXytba9J/ioQ4QNgYXPr3Y5zsI2OjpSGjSIHvY6kOBv/G5B8G4Pj3DyYMocVYW5DYxzSYQT6LbDtbjDnoMrQ6Mit9OKjiBM0wPFSNBfkFJQoDLHhp9EFP+gnyNhrDrMIE0cLamXUaDRy5SkijvnlrUsfe0dwMsT8T1dMUKsPQ=;0g62HAGzD0CGgkkiKartWg=="
 ---
 

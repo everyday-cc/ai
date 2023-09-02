@@ -2,9 +2,9 @@
 category: news
 title: "Cyngn's Proprietary Computer Vision Achieves Arauco's Complex Application Requirements by Utilizing Ouster Lidar in a Multi-Sensor System"
 excerpt: "Cyngn developed proprietary computer vision algorithms that are bundled into a Pallet Stack Attribute Estimation sub-system within the DriveMod perception stack. DriveMod also uses lidar to inform the location of its vehicles within the site. Fusing sensor data from lidar and other sensors, DriveMod's advanced autonomy software enables:"
-publishedDateTime: 2023-08-22T12:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/08/22/9867923.htm"
+publishedDateTime: 2023-08-22T11:28:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/22/9867923.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/22/9867923.htm"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "60I8ZK3KdGyCjRpM2Bae/zK+7Uijfe+oAJ3f00B/dJjZf8f+Qai2UYxI7Z7lMtUDDZqaC0XlWyjy07crkV0Uq3ZSR3iuFz3ML4TZTCf8KYYyCZ5zU8D8j03TkbR8Y4FMD0/qbQvAgtO15FfCHihI8e37tr378KpOLf3T0nI/8EdQV88bobfKxklMj0l+YcmXLjOjUjoqD3caSQ6qBgUuIVX50EVXCaRLnXiv4GFu3ppD+hWlnzDyf8gn3XXyjWWtR89aM3gIzXi8OrSjgNPMhQHrKqnbyH6nlywCeCf41KXw2yaldKuWVHtMy55hXmNtNiourmjOdSxolSfdw0dl0YP/NyglFltNdecxH3Pd2RfO0j4Isq6M5rjNIUeFyANuwwUefCC4TSnqhyban3bdhgdv+WUUVvY2fLaD4mRG/bcBiuVx3um2S5RvaiLKwJZDI21sIxt7wNG7tgWK5Y1sON+XLocKPQfYzNN3j3CEiywzbcHiTNqycIaqk2z8Sjzeken4DCWuDDnxMQwtGL3S/Q==;a6S2M8wjeAgNHkRmhsmmOg=="
+images:
+  - url: "https://mma.prnewswire.com/media/2190873/Cyngn_x_Ouster.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "FVVrY/tURBYo71Diw2iB7AGuzdWlD3s1HessDt2+TAA8RimewoEQwSDWjJurFmqZaP28l+cg5cZ+nTAaJzBYfPiYFD70tqjKdvc+8b9JGpn7pCSOm5cCuOwg9mRfBxnwYkuQ975JCwy4550+z7stds/Xb0rE8k1M6ayGmS7WNiCOHKfKHBDwHRlX7VLlXRA2Do9zD9b9QPzTZyf8uPsT87yNux1m7pVuIIo6dOt/njK6LH5O/8xjUnopgeAWvVN2Blsc7XTBsXcfsn8TYra8CyzxeMTulCCQcgJEqGWp9FPBL1c0DWM32L4af0C5539WZWtMP53wVHW8vIhg9k5aQm4tN/qfehv/J0OlYDHWXHQ=;lYHDGRF+9Q/medfylj7L+Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -222,15 +222,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "When the generative AI hype fades"
-    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
-    publishedDateTime: 2023-08-28T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
   - title: "Generative AI Is Coming To Mobile Devices"
     excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
     publishedDateTime: 2023-08-28T18:59:00Z

@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Jobs in the automotive industry: Machine Learning Engineer"
-    excerpt: "Their chances on the labour market are likely to be excellent. Dr. Ole Brodersen is a Machine Learning Engineer and Solutions Architect at Mercedes-Benz. This encompasses a wide range of tasks from data preparation to programming and data analysis."
-    publishedDateTime: 2023-08-28T07:18:00Z
-    webUrl: "https://www.heise.de/hintergrund/Jobs-in-the-automotive-industry-Machine-Learning-Engineer-9286444.html"
-    type: article
-    provider:
-      name: heise online
-      domain: heise.de
-    quality: 39
-    images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/2/6/0/6/Ole_Brodersen-cf1b2a5708af9389.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "5 Ways AI Will Transform the Mobility Industry"
     excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
     publishedDateTime: 2023-08-31T15:30:00Z

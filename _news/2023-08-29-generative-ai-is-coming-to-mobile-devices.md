@@ -229,15 +229,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "When the generative AI hype fades"
-    excerpt: "GenAI is a small piece of the artificial intelligence pie, not the whole pie itself. Keep paying attention to deep learning and machine learning."
-    publishedDateTime: 2023-08-28T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705549/when-the-generative-ai-hype-fades.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
   - title: "Bringing AI to work? Better have policies in place"
     excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
     publishedDateTime: 2023-08-30T13:30:00Z

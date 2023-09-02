@@ -28,42 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The 34 most promising AI startups of 2023, according to top VCs"
-    excerpt: "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about."
-    publishedDateTime: 2023-08-28T09:00:00Z
-    webUrl: "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8"
+  - title: "10 Great Colleges For Studying Artificial Intelligence"
+    excerpt: "The debut of ChatGPT in November created angst for college admission officers and professors worried they would be flooded by student essays written with the undisclosed assistance of artificial intelligence. But the explosion of interest in AI has ..."
+    publishedDateTime: 2023-08-29T16:21:00Z
+    webUrl: "https://www.forbes.com/sites/simtumay/2023/08/29/10-great-colleges-for-studying-artificial-intelligence/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e6631830146af009b191e9/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "The 3 Most Promising AI Stocks to Own Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top"
-    publishedDateTime: 2023-08-31T22:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "AI’s Share Of US Startup Funding Doubled In 2023"
-    excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/us-startup-funding-doubled-openai-anthropic-2023/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/SoftBank_Ai_Investment-2.jpg"
-        width: 900
-        height: 506
+        height: 675
         isCached: true
 
 secured: "qnnFOVdnwUi5bGmMWDhoe6GHOcOOeGDT68BMKQMp+ScWqNOEj/ae+A8iQEoI1fOJgKa5S4O8Nai+JD4GVu/ig4C4ht1xOZRS6vv8WZN8UCwPUdVALFD3seazn4e+aI/H/Gz6S1Nkwv79h/LHGVwB/DSiEr5WhrezCWOGy8oEXE81Sxv5GWFYsPnbkiExPoXw02o9Mx/n5lPr8tVxF29+qPRXhDzcuwSKIKANiukdV/4POOejNdIjUvwCgd2H01U+0gpcGsWcbUWjR8NTq9rgYTUvSczgtarruUKaWJ0CynnkCpQq1ukAP+ggxBF43nPLxavBZ6e2yxzWN3EnAhkRaVphjajkD4qN0UuBdPX+YNmjP0IhsfhX7pJ2BpNGU/iV6KKiQyoaBqbI9vnA1o6CTjslnxoyPZ9WluUN9ASpEXiMycx+InAknYAmSI9vKtVOWezxjBphoiUbXG+SAhLgydl9T3xVAaATqNRFnQqRkkmenf3tFa6JAOex2nPp88IWgMarq9cW3dBMueqFmeldTw==;LKkRJWkPvFK70ouMJvPn0w=="

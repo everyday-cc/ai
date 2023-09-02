@@ -374,20 +374,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Elon Musk Said Bullish Things for Nvidia Shares That All Data Centers Will Be AI Centers"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-08-28T07:26:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/elon-musk-said-bullish-things-for-nvidia-shares-that-all-data-centers-will-be-ai-centers.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 30
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-28-at-12.13.57-AM.jpg"
-        width: 1208
-        height: 584
-        isCached: true
   - title: "US bans Nvidia, AMD AI chips' export to some Mideast countries, amid China fears"
     excerpt: "The technological war between the United States and China is heating up, with both countries imposing limits on their prized assets."
     publishedDateTime: 2023-08-31T11:56:00Z

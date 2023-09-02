@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Jobs in the automotive industry: Machine Learning Engineer"
-    excerpt: "Their chances on the labour market are likely to be excellent. Dr. Ole Brodersen is a Machine Learning Engineer and Solutions Architect at Mercedes-Benz. This encompasses a wide range of tasks from data preparation to programming and data analysis."
-    publishedDateTime: 2023-08-28T07:18:00Z
-    webUrl: "https://www.heise.de/hintergrund/Jobs-in-the-automotive-industry-Machine-Learning-Engineer-9286444.html"
-    type: article
-    provider:
-      name: heise online
-      domain: heise.de
-    quality: 39
-    images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/2/6/0/6/Ole_Brodersen-cf1b2a5708af9389.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
     excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
     publishedDateTime: 2023-09-01T07:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 2308
         height: 1299
         isCached: true
+  - title: "The 3 Most Promising AI Stocks to Own Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top"
+    publishedDateTime: 2023-08-31T22:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "3 Up-and-Coming Autonomous Driving Stocks to Put on Your Must-Buy List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While individual motivations may vary, in my opinion, there’s only one"
     publishedDateTime: 2023-08-31T01:24:00Z

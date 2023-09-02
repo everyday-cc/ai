@@ -39,6 +39,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "The 3 Most Promising AI Stocks to Own Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top"
+    publishedDateTime: 2023-08-31T22:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "3 Up-and-Coming Autonomous Driving Stocks to Put on Your Must-Buy List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While individual motivations may vary, in my opinion, there’s only one"
     publishedDateTime: 2023-08-31T01:24:00Z
